@@ -5,15 +5,30 @@
 "thumbnail":"https://english-e-reader.net/covers/Fenrirs_Chain-Chris_Rose.jpg",
 "kategori":"2",
 "yazar":"Chris Rose",
-"sesdosyasi":"",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMustafa%20Ceceli%20-%20Bedel.mp3?alt=media&token=bf2ddbc4-c1ee-43ff-bd56-def734ed43e4",
 "hardWord":"",
-"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Fenrirs_Chain-Chris_Rose.epub",
+"storyUrl":"",
 "storyAcıklama":"",
 "tag":"Tags:   escape  tale  vikings",
 "views":"1092"},
 */
 
 {"meditasyonlar":[
+  {"id":"5",
+"baslik":"The Damned Thing",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/The_Damned_Thing-Ambrose_Bierce.jpg",
+"kategori":"2",
+"yazar":"Ambrose Bierce",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMustafa%20Ceceli%20-%20Bedel.mp3?alt=media&token=bf2ddbc4-c1ee-43ff-bd56-def734ed43e4",
+"hardWord":"Text Analysis: Unique words: 468 Total words: 1855
+   
+Hard words: brimmed, telegraph, inquest, galloping, undertaker, lying, telegram, oats, rut, coroner, belongings, damned, handkerchief, sunrise, educated, terrify, shotgun, grind, certificate, ninth, soak, diary, lion, lonely, lamp, handsome, intelligent, behave, missing, hunt, shine.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Damned_Thing-Ambrose_Bierce.epub",
+"storyAcıklama":"It was a deep night. Eight people gathered in a small house. They were sitting around a simple wooden table. One man was reading a book under the light of an old desk lamp. There was also the ninth person - the owner of the house. He was laying under a white rag dead. It was quiet in the house. Only the birds were shouting outside the window. The men gathered in the house had an important job. They had to understand how the owner of the house died. It was up to them to reveal the truth. They were farmers with tanned faces and strong muscles from the work in the field. The man with the book was different from them. With a hat and a mustache, he looked like an important educated person. The coroner was reading a diary that belonged to the dead man.",
+"tag":"Tags:   police  murder  fight  writer  reporter  house  missing  fiction",
+"views":"52"},
+ 
  {"id":"4",
 "baslik":"Fenrir's Chain",
 "aciklama":"A2 Elementary",

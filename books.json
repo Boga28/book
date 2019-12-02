@@ -14,6 +14,22 @@
 */
 
 {"meditasyonlar":[
+ 
+ {"id":"7",
+"baslik":"Les Miserables",
+"aciklama":"C1 Advanced",
+"thumbnail":"https://english-e-reader.net/covers/Les_Miserables-Victor_Hugo.jpg",
+"kategori":"7",
+"yazar":"Victor Hugo",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMustafa%20Ceceli%20-%20Bedel.mp3?alt=media&token=bf2ddbc4-c1ee-43ff-bd56-def734ed43e4",
+"hardWord":"Text Analysis: Unique words: 2351 Total words: 29161
+  
+  Hard words: purse, stable, desperate, chased, shelter, rag, bishop, violent, obedient, shivered, grief, skilfully, tilled, fetch, outskirt slammed, solitude, sou roared, withdraw, solid",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Les_Miserables-Victor_Hugo.epub",
+"storyAcıklama":"The man with rough appearance has come into the town of Digne. It was in October 1815. He has just stand in the inn, but suddenly innkeeper has gone him out because the past of the man. Innkeeper has known that the name of this stranger is Jean Valjean and he has just been released from the prison. He’s been in prison for nineteen years for violent robbery and for trying to escape. In the other inns were the same. The news about prisoner quickly shared between townspeople and nobody gave him the bad. Nobody, except one man. It was a bishop. The priest gave Valjean a shelter for the night and fed him. At night, after some sleep, prisoner decided to robber that house, because the life had been unfair to him and he was very angry. This desperate decision will change his life… forever.",
+"tag":"Tags: classic  historical  misery",
+"views":"41560"},
+
  {"id":"6",
 "baslik":"Changes",
 "aciklama":"A2 Elementary",

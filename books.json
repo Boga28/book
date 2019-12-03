@@ -1,5 +1,5 @@
  /* 
- {"id":"4",
+ {"id":"14",
 "baslik":"Fenrir's Chain",
 "aciklama":"A2 Elementary",
 "thumbnail":"https://english-e-reader.net/covers/Fenrirs_Chain-Chris_Rose.jpg",
@@ -14,6 +14,21 @@
 */
 
 {"meditasyonlar":[
+ 
+  {"id":"14",
+"baslik":"The Golden Stone Saga I",
+"aciklama":"B1+ Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Golden_Stone_Saga_I-Jenny_Dooley.jpg",
+"kategori":"4",
+"yazar":"Jenny Dooley",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMustafa%20Ceceli%20-%20Bedel.mp3?alt=media&token=bf2ddbc4-c1ee-43ff-bd56-def734ed43e4",
+"hardWord":"Text Analysis: Unique words: 1397 Total words: 7894
+   
+   Hard words: colourful, lord, sorceress, studded, loyally, chanting, loveliness, hissing, birthmark, slop, lamplight, pitched, disloyal, jailer, sociable, whet, echoing, chopping, scarred, snowman, headband, rolled, unwrap, dungeon, thrilled, bubbling, sunburn, executioner, unstoppable.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Golden_Stone_Saga_I-Jenny_Dooley.epub",
+"storyAcıklama":"The main character's name is William Goldstone. He seems to be a withdrawn and uncommunicative child. At first glance he is just like any boy in school. He has many friends and buddies. He is not a fan of sport, but spends his free time playing video games and watching videos. The parents decided to do something with these hobbies and sent him to his grandfather for a week. They hoped that William would stop spending so much time with the TV and get interested in something new. Grandpa Howard lived in a small house in the mountains. Grandpa took him for a walk to the mountains. They spent many hours fishing. The boy was even able to catch his first fish. Soon the snow fell. It covered the mountains. William and his grandfather made a whole family of snowmen.",
+"tag":"Tags:   misery  adventure  school  revenge  suffering  couple  family  king  magic  hero  marriage",
+"views":"2144"},
  
  {"id":"13",
 "baslik":"Famous British Criminals",

@@ -1,5 +1,5 @@
  /* 
- {"id":"14",
+ {"id":"20",
 "baslik":"Fenrir's Chain",
 "aciklama":"A2 Elementary",
 "thumbnail":"https://english-e-reader.net/covers/Fenrirs_Chain-Chris_Rose.jpg",
@@ -14,6 +14,21 @@
 */
 
 {"meditasyonlar":[
+ 
+ {"id":"20",
+"baslik":"Alien Alert in Seattle",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Alien_Alert_in_Seattle-Clemen_D_B_Gina.jpg",
+"kategori":"3",
+"yazar":"Clemen D. B. Gina",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMustafa%20Ceceli%20-%20Bedel.mp3?alt=media&token=bf2ddbc4-c1ee-43ff-bd56-def734ed43e4",
+"hardWord":"Text Analysis: Unique words: 879 Total words: 6365
+
+  Hard words: newsreader, intergalactic, august, airfield, emerald, ufo, alright, cascade, spaceship, lunchtime, janitor, cupboard, chemist, sighting, wig, divorced, volleyball, chemotherapy, climbing, constellation, cafeteria, hobby, astronomy, bald, terrify.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Alien_Alert_in_Seattle-Clemen_D_B_Gina.epub",
+"storyAcıklama":"This is the mountain range called Cascade. It is located in the county seat of Seatal, Washington. At first glance, this is an extremely inappropriate place for an alien spacecraft to appear. But once a mysterious flying object is seen by the locals. No one believes in such nonsense. Aliens from another planet are in the United States? It is more like a cheap science fiction movie! Still the residents are excited by this news. Later the trinity of good inseparable friends and classmates - Barbara, Karen and Walter notice that one of the teachers in their high school is starting behaving extremely strange. Young, but extremely smart guys begin an independent investigation and soon they discover a very unexpected truth.",
+"tag":"Tags:   police  family  adventure  mystery  accident  school  alien  space",
+"views":"11091"},
  
   {"id":"19",
 "baslik":"Gone with the Wind",

@@ -15,9 +15,22 @@
 
 {"meditasyonlar":[ 
  
- {
+  {"id":"33",
+"baslik":"My Oedipus Complex",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/My_Oedipus_Complex-Frank_Connor.jpg",
+"kategori":"2",
+"yazar":" Frank Connor",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 686 Total words: 2960
+   
+   smacking, teatime, choosy, likeable, firmness, unfairness, sternly, sickening, lying, miserably, mummy, marching, lovingly, mysteriously, impatiently, threatened, waking, confidently, saucer, connected, furiously, hairy, bony, unthinkable, clumsy, intended, amazingly, aged, railway, packed, patiently.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/My_Oedipus_Complex-Frank_Connor.epub",
+"storyAcıklama":"Childhood is a period when any person thinks he is the most important man in the world. Of course, everyone must fulfill his wishes, especially his parents. But Larry cannot make the parents behave as he wants. His father is a military man. He is hardly ever at home. Sometimes the child wakes up in the middle of the night and sees his father in military clothes standing near the bed. A man always comes into the house and leaves silently, early in the morning or late in the evening. He often smokes a pipe that smells unusual. When father comes home - he leaves interesting things there: cartridges or knives. Mom allows the child to play with these things. The war is a quiet time for this child. When he wakes up in the morning, the windows of the room look east and he sees the sunrise.",
+"tag":"Tags: business   murder  health  office  fight  horror  house  disaster  war  suit",
+"views":"1009"},
  
- "id":"32",
+ { "id":"32",
 "baslik":"Two Sisters",
 "aciklama":"A2 Elementary",
 "thumbnail":"https://english-e-reader.net/covers/Two_Sisters-Ama_Ata_Aidoo.jpg",

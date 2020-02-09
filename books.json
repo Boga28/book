@@ -1,9 +1,9 @@
  /* 
  {"id":"50",
 "baslik":"",
-"aciklama":"A2 Elementary",
+"aciklama":"B1 Pre-Intermediate",
 "thumbnail":"",
-"kategori":"2",
+"kategori":"3",
 "yazar":"",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
 "hardWord":"",
@@ -14,6 +14,21 @@
 */
 
 {"meditasyonlar":[ 
+ 
+  {"id":"51",
+"baslik":"Food around the World",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Food_around_the_World-Robert_Quinn.jpg",
+"kategori":"3",
+"yazar":"Robert Quinn",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 755 Total words: 3471
+   
+   durian, kimchi, baobab, harvested, tamarind, tapioca, kebab, milkshake, cacao, august, kiwi, arable, barbecued, yummy, saltwater, aquaculture, spiky, paddy, trifle, lentils, savory, nuts, sap, mozzarella, nutty, waffle, custard, shellfish, sesame, mayonnaise, ketchup.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Food_around_the_World-Robert_Quinn.epub",
+"storyAcıklama":"Food is a very important element in the life of any person. First of all, food helps any creature to live. It gives nutrients, proteins, strength and vigor to work another day. But wild animals eat too. People are different from them with their food culture. National cuisine, lots of interesting festive dishes in each country. Humanity has learned to cook interesting dishes throughout all its history. If in ancient times it was meat roasted on fire, then today everything is limited only by the imagination of the cook. And Chinese, Japanese, Italian and many other national cuisines are known in the whole world. Sushi and pizza have ceased to be food of a certain country and have become one of the most popular world dishes.",
+"tag":"Tags:   family  holiday  cooking  football  animals  fight  technology  culture",
+"views":"437"},
  
  {"id":"50",
 "baslik":"A Nose for a Story",

@@ -1,5 +1,5 @@
  /* 
- {"id":"40",
+ {"id":"50",
 "baslik":"",
 "aciklama":"A2 Elementary",
 "thumbnail":"",
@@ -14,6 +14,21 @@
 */
 
 {"meditasyonlar":[ 
+ 
+  {"id":"49",
+"baslik":"Beware of the Dog",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/Beware_of_the_Dog-Roald_Dahl.jpg",
+"kategori":"2",
+"yazar":"Roald Dahl",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 705 Total words: 3629
+
+   greyness, clearness, nailed, aeroplane, boned, spitfire, uncovered, imagining, hardness, whisky, separating, repeating, spinning, lying, whiteness, sill, balancing, fitting, ringing, tidy, parachute, managed, affected, guided, commanding, faded, exhausted, hopeless, raised, puzzled, cheerful.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Beware_of_the_Dog-Roald_Dahl.epub",
+"storyAcıklama":"The protagonist of this book was sitting in the cockpit. Below him there were dense white clouds. He was firmly holding the steering wheel, the plane flying smoothly. He told himself that everything was fine. A little more time - and he would fly to the house. He was definitely able to do it. He would land the plane and ask for help out, because he had no leg. Everyone would think that this was such a joke, but this was true. The pilot looked below: the floor was covered with blood, and he had nothing below the knee. The bullets tore off part of the right leg, but there was no pain. He felt fine, was awake and was not going to faint. But gradually the pilot started to weaken. Holding his head was getting harder, and it fell on the chest. The plane was flying at the height of seven kilometers and it was not the best moment for passing out.",
+"tag":"Tags:   doctor  school  house  war  nurse  dream  fight  missing",
+"views":"1382"},
  
   {"id":"48",
 "baslik":"The Real Aunt Molli",

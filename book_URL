@@ -3,11 +3,11 @@
 LEVELS      |    Book URL                            |                                Authoor   |     Book Name   |  Voice Status
 _________________________________________________________________________________________________________________________________________
 A1 - Starter  
-https://english-e-reader.net/book/peter-pan-j-m-barrie  -  Peter Pan                                                    OK
-https://english-e-reader.net/book/davy-crockett-clemen-d-b-gina  -  Davy Crockett                                       NO
-https://english-e-reader.net/book/zorro-sally-m-stockton   -    Sally M. Stockton                                       NO
-https://english-e-reader.net/book/the-boy-who-couldnt-sleep-foreman-peter   -   Foreman Peter                           NO
-https://english-e-reader.net/book/halloween-horror-clemen-d-b-gina  -   Clemen D. B. Gina                               NO
+https://english-e-reader.net/book/peter-pan-j-m-barrie  -  Peter Pan                                                     OK
+https://english-e-reader.net/book/davy-crockett-clemen-d-b-gina  -  Davy Crockett                                        NO
+https://english-e-reader.net/book/zorro-sally-m-stockton   -    Sally M. Stockton                                        NO
+https://english-e-reader.net/book/the-boy-who-couldnt-sleep-foreman-peter   -   Foreman Peter                            NO
+https://english-e-reader.net/book/halloween-horror-clemen-d-b-gina  -   Clemen D. B. Gina                                NO
 
 A2 - Elemantary
 https://english-e-reader.net/book/changes-brennan-frank - Changes                                                        OK
@@ -57,10 +57,10 @@ https://english-e-reader.net/book/food-around-the-world-robert-quinn           F
 https://english-e-reader.net/book/the-champion-of-the-world-roald-dahl       The Champion of the World    Roald Dahl      NO 
 https://english-e-reader.net/book/pig-roald-dahl                                         Pig              Roald Dahl      NO
 https://english-e-reader.net/book/open-doors-frank-brennan                            Open Doors          Frank Brennan   NO
-https://english-e-reader.net/book/a-mountain-accident-clare-gray                 A Mountain Accident      Clare Gray      NO
+https://english-e-reader.net/book/a-mountain-accident-clare-gray                 A Mountain Accident      Clare Gray      NO // Audio is not available
 https://english-e-reader.net/book/one-of-the-missing-ambrose-bierce              One of the Missing       Ambrose Bierce  NO
 https://english-e-reader.net/book/the-stranger-ambrose-bierce                        The Stranger         Ambrose Bierce  NO
-https://english-e-reader.net/book/the-river-to-freedom-clare-gray               The River to Freedom      Clare Gray      NO
+https://english-e-reader.net/book/the-river-to-freedom-clare-gray               The River to Freedom      Clare Gray      NO // Audio is not available
 https://english-e-reader.net/book/excalibur-bernard-cornwell                           Excalibur        Bernard Cornwell  NO
 https://english-e-reader.net/book/the-beatles-paul-shipton                           The Beatles          Paul Shipton    NO
 https://english-e-reader.net/book/a-history-of-britain-fiona-beddall             A History of Britain     Fiona Beddall   NO
@@ -89,4 +89,11 @@ https://english-e-reader.net/book/les-miserables-victor-hugo   -   Les Miserable
 
 
 C2 -  unabridged
-https://english-e-reader.net/book/the-breathing-method-stephen-king - The Breathing Method
+https://english-e-reader.net/book/the-breathing-method-stephen-king - The Breathing Method                                OK
+
+
+// Program
+Mp3 Merger: https://free-merge-mp3.tr.uptodown.com/windows
+Mp3 Resizer: https://www.skyshape.com/download/mp3resizer_setup.exe
+
+

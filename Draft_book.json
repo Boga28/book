@@ -10,11 +10,25 @@
 "storyUrl":"",
 "storyAcıklama":"",
 "tag":"",
-"views":"1092"}
+"views":"1092"},
        ]
    }*/
 
 {"meditasyonlar":[
+ 
+  {"id":"73",
+"baslik":"The Tell-tale Heart",
+"aciklama":"C2 unabridged",
+"thumbnail":"https://english-e-reader.net/covers/The_Tell-tale_Heart-Edgar_Allan_Poe.jpg",
+"kategori":"8",
+"yazar":"Edgar Allan Poe",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FEdgar%20Allan%20Poe%20-%20The%20Tell-tale%20Heart.lite.mp3?alt=media&token=addbb111-61f9-4b99-8314-435566703322",
+"hardWord":"Text Analysis: Unique words: 591 Total words: 1960
+unperceived, acuteness, healthily, detected, dulled, sagacity, dissimulation, distinctness, aroused, wronged, stifled, cunningly, vexed, pulsation, hearken, dissemble, cheerily, dreadfully, stealthily, inquiring, gaily, courageously, fluently, hark, concealment, derision, hellish, singularly, audacity.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Tell-tale_Heart-Edgar_Allan_Poe.epub",
+"storyAcıklama":"Edgar Allan Poe is a universally acknowledged master of dark, mysterious fiction. In his tales and poems, the writer always pays special attention to the psychology and emotional state of the characters. "The Tell-Tale Heart" definitely belongs to his most renowned works. The story attracts your interest right from the beginning. It is narrated by a murderer who describes the process of killing an old man. The motive for the murder is extremely unusual – the victim's "vulture eye". The narrator shocks the reader by the gruesome details of the crime and cynical comments. He believes he committed a perfect murder and manages to avoid suspicion for a while. But something unexpected gets in his way: the old man can't leave him alone even after death.",
+"tag":"horror  mystery",
+"views":"4253"},
  
  {"id":"72",
 "baslik":"Lucky Luke and other Very Short Stories",

@@ -1,4 +1,4 @@
- /* 
+ /* {"meditasyonlat":[
  {"id":"60",
 "baslik":"",
 "aciklama":"B1 Pre-Intermediate",
@@ -10,10 +10,95 @@
 "storyUrl":"",
 "storyAcıklama":"",
 "tag":"",
-"views":"1092"},
-*/
+"views":"1092"}
+       ]
+   }*/
 
-{"meditasyonlar":[ 
+{"meditasyonlar":[
+ 
+ {"id":"72",
+"baslik":"Lucky Luke and other Very Short Stories",
+"aciklama":"C1 Advanced",
+"thumbnail":"https://english-e-reader.net/covers/Lucky_Luke_and_other_Very_Short_Stories-Paul_Stewart.jpg",
+"kategori":"7",
+"yazar":"Paul Stewart",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 2727 Total words: 23817
+recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, unfolded, surrounded, patting, attacked, refused, hugging, parents, slammed, labelled, watered, nosey, giggly, ageing, envied, maths, kerb, liked, grey, beanpole, peeping, aaah",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Lucky%20Luke%20and%20other%20Very%20Short%20Stories.epub",
+"storyAcıklama":"The book consists of a dozen short stories. Each one is different but all of them are fun to read. The narrator of the story 'Lucky Luke' goes to the barber's to have his long hair cut. The barber's name is Jimmy. This man has serious problems with the reporters. The newspapers call him the worst barber in Britain. While cutting the client's hair, Jimmy explains to him the reason for such misfortune. His younger brother Luke has been lucky since childhood. Luke always gets what he wants without any effort. On the contrary, Jimmy himself has been unlucky all his life, despite hard work. Not long ago, Jimmy decided to put an end to his brother's luck. However, things did not go according to the plan.",
+"tag":" horror  business  teenager  accident  island  beach  office  family  culture  tale  gothic  nurse  children  future  shot  animals  university  flight  airport  jewels  collection  amnesia  divorce  betrayal  sorrow  marriage",
+"views":"1550"},
+ 
+ {"id":"71",
+"baslik":"Darkest Hour",
+"aciklama":"B1+ Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Darkest_Hour-Anthony_McCarten.jpg",
+"kategori":"4",
+"yazar":"Anthony McCarten",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 1696 Total words: 22646
+ pushed, educating, surrendered, queen, surrounded, attacked, refused, parents, duff, invaded, discussed, proved, wishing, liked, harbour, moved, passed, evacuated, reaching, bringing, warmonger, staying, studying, ruled, formed, worst, worked, punished, produced, lord",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Darkest%20Hour.epub",
+"storyAcıklama":"It is the beginning of the forties of the twentieth century. The German troops led by Hitler invade the part of Europe and prepare to absorb it completely. The British Parliament realizes that the prime minister no longer has power and cannot help. The people of Britain start giving way to despair. The opposition demands the resignation of the minister, accusing him of inability to defend the country in difficult times. He is ready to resign. He also puts forward a new candidate - Winston Churchill. After many years, Winston will turn into one of the most famous people of the twentieth century. These times are still far away. But soon Churchill will have the opportunity to show his intellect and charisma.",
+"tag":" disaster  government  work  king  house  politics  journalist  future  family  children  health  school  colony  escape  university  fight  holiday  office  short  relationships  island  doctor  beach",
+"views":"1026"},
+ 
+ {"id":"70",
+"baslik":"The Notebook",
+"aciklama":"C1 Advanced",
+"thumbnail":"https://english-e-reader.net/covers/The_Notebook-Nicholas_Sparks.jpg",
+"kategori":"7",
+"yazar":"Nicholas Sparks",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 2816 Total words: 36719
+ tapped, stopping, unpacked, sounded, pursued, crunched, drifted, subsided, visualized, pushed, destined, noticing, toasting, queen, unfolded, surrounded, wondering, promoted, sleeved, reddening, unrolled, liquidated, parents, sketched, unpacking, popped, dictated, deepened, smelling, interlocked",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The%20Notebook.epub",
+"storyAcıklama":"This book sold many copies and became a significant contribution to the treasures of world literature. There is also a movie made on this novel. It is time to read it. Noah is returning to his home in North Carolina from World War II. His father died and Noah starts restoring the house. At the same time, Allie sees a photograph of the house in the newspaper. She decides to visit Noah. They have not seen each other for fourteen years. Long ago, they had a short but passionate romance. And then a separation followed. Their meeting is very emotional. They have lots of news and everyone talks about his or her life. Allie finds out that Noah has been writing letters to her all this time. But her mother hides all of them. At the same time, fiance of Allie is trying to contact her. This turns into a love triangle.",
+"tag":"tragedy  science  reporter  couple  family  ghost  future  marriage  stealing  business  musical  relationships  dream  adventure  trial  court  society  inspire  photograph  doctor  grief  sorrow  amnesia  mystery  friendship  space  treasure  kindness",
+"views":"258"},
+ 
+ {"id":"69",
+"baslik":"The USA",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_USA-Alison_Baxter.jpg",
+"kategori":"3",
+"yazar":"Alison Baxter",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20USA.mp3?alt=media&token=0eceb7de-7585-42ec-b398-2e86909628df",
+"hardWord":"Text Analysis: Unique words: 1250 Total words: 6642
+ queen, refused, passed, seaway, bringing, carried, colourful, discovered, worked, megalopolis, neighbouring, kept, allowed, held, farmed, travelling, pacific, huckleberry, ford, churchman, adding, sold, owned, disappeared, cowgirl, remembered, murdering, becoming, favourite, august",
+"storyUrl":"https://github.com/Boga28/book/blob/master/Epubs/The%20USA.epub?raw=true",
+"storyAcıklama":"Imagine a large and completely empty territory. There are high mountains and dense forests with many animals on this land. Many lakes are also full of fish. But there is not a single person there. America was such kind of land more than thirty thousand years ago. Scientists think that at that time first ancient people arrived there from Asia. They decided to go to the South, where it would be warmer and easier to survive. So they stayed in America. That is how the first Indian tribes appeared - they came from the Mayan and Aztec people. Later, such a large country became a tidbit for many other nations. In the sixteenth century, Europeans began to visit America. Soon they brought slaves from Africa - these people were engaged in hard work. Only after hundreds of years America became a rich country.",
+"tag":"  animals  work  vikings  colony  children  island  government  king  farm  prison  murder  dream  business  court  future  doctor  football  sport  cooking  music  technology  crime  pirates  space",
+"views":"5029"},
+ 
+ {"id":"68",
+"baslik":"Marley and Me",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/Marley_and_Me-John_Grogan.jpg",
+"kategori":"2",
+"yazar":"John Grogan",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMarley%20and%20Me.mp3?alt=media&token=05694297-84ba-4ce1-8511-515e363d4d94",
+"hardWord":"Text Analysis: Unique words: 862 Total words: 14442
+ pushed, parents, pooped, liked, moved, fie, hurting, cleaned, eats, carried, worst, worked, chewed, shouted, held, pulling, barman, fortieth, worse, understood, neuter, turned, caught, remembered, helped, played, pulled, opened, doodle, poop",
+"storyUrl":"https://github.com/Boga28/book/blob/master/Epubs/Marley_and_Me-John_Grogan.epub?raw=true",
+"storyAcıklama":"This is not just a story about a dog. This is a story about a whole family and their love for their pet, a dog named Marley. John and Jenny are young and in love with each other. They have good solid jobs - both work in a big newspaper. One day they decide to buy a puppy. It changes their lives forever. Marley is not an obedient calm puppy. He doesn't not listen to commands, doesn't not try to behave well. He throws things off the table, gnaws on his shoes and spoils things. And he eats everything potted plants or office supplies. When the thunderstorm begins - Marley just goes crazy and starts breaking everything in the house. But he is not a boring dog and makes the life of his owners much more fun. John and Jenny love their dog. And this story tells about the life of Marley - from a puppy to an old wise dog.",
+"tag":"children  house  music  work  family  doctor  airplane  animals  office  police  fight  farm  school",
+"views":"13749"},
+ 
+{"id":"67",
+"baslik":"The Lovely Lady",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/The_Lovely_Lady-D_H_Lawrence.jpg",
+"kategori":"2",
+"yazar":"D. H. Lawrence",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Lovely%20Lady.mp3?alt=media&token=27c0f37a-03eb-4449-83b8-119ebdf82d10",
+"hardWord":"Hard words: 
+ surrounded, liked, grey, marrying, passed, carried, chatting, worked, rested, teatime, staring, picked, lit, kept, held, realized, understood, turned, sold, taken, decided, sunbathe, dressed, opened, needed, stopped, pressed, whispered, wearing, destroyed",
+"storyUrl":"https://github.com/Boga28/book/blob/master/Epubs/The%20Lovely%20Lady.epub?raw=true",
+"storyAcıklama":"Pauline was an old woman. She turned seventy-two. But she looked much better at her age. And under a particularly successful light she could be taken for a young woman of thirty. She had beautiful features and a good figure. Only big sad eyes gave out this age. She left her husband many years ago. Pauline lived with her son Robert in a big house in the suburbs of London. Pauline's niece named Siss lived together with them. The girl was young and very modest. The three of them often had dinner by candlelight. Pauline loved candles, because by their light she looked especially young and beautiful. After that, they usually drank coffee in a cozy living room. There were a lot of expensive furniture and beautiful paintings. Pauline felt happy at such moments.",
+"tag":" house  work  ghost  magic  sorrow  short  doctor  madness  drugs  revenge",
+"views":"7314"},
  
  {"id":"66",
 "baslik":"A Gathering of Bald Men",
@@ -38,6 +123,7 @@
 "yazar":"Fiona Beddall",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FA%20History%20of%20Britain.mp3?alt=media&token=39696a4b-7ae2-439c-a602-eaf53b636f3d",
 "hardWord":"Text Analysis: Unique words: 1032 Total words: 7793
+
    queen, invaded, bengali, lord, pacific, bengal, scots, august, saxon, conquered, sicilian, conqueror, unlawful, scandinavian, townspeople, norman, welsh, unsuccessfully, anglo, defeated, unfairly, protector, farmland, unpopular, railway, luckily, grouping, nineteen, violently, scottish.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/A_History_of_Britain-Fiona_Beddall.epub",
 "storyAcıklama":"The Middle Ages were a dark period full of wars and violence. Time of kings, knights and castle sieges. The politicians were more brutal, but warlords and the kings led the armies into battle themselves. Everything started when king Edward died. He had no children, so there were no heirs. The elections took place. Harold was chosen to be the next king of the country. He was not a relative or friend of the late king. Lots of other powerful people also wanted such power. Soon the Norwegian army invaded this land. Edward's mother was from Norway, and Edward as a child also lived there. The Scandinavians believed they had more rights to the crown. King Harold died in battle. The well-known William the Conqueror became the next ruler of this land.",
@@ -202,6 +288,7 @@
 "yazar":"Frank Brennan",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FOpen%20Doors.mp3?alt=media&token=29191d92-4fd4-47cd-9de6-c32123e48ca1",
 "hardWord":"Text Analysis: Unique words: 993 Total words: 5027
+
     queen, tended, newsdesk, ageing, colourful, honour, judging, motherly, bye, dishonesty, moustache, shyness, eyesight, lying, senseless, doorbell, truthful, further, spreading, progressively, congratulations, careless, armchair, pleasing, bandage, guaranteed, doubtful, quiz, tier, misunderstand, patiently.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Open_Doors-Frank_Brennan.epub",
 "storyAcıklama":"Kathy Paige was blind from her birth. The doctor's mistake cost her sight for the rest of the life. But that was a long time ago. Now Kathy is the most famous journalist of the British radio. She was loved by everyone for the mind, and tough, but honest interviews. Political and public figures received uncomfortable sharp questions and were forced to answer them. She had a quiet and calm voice that many men liked. Kathy spoke like a strict but caring mother. Despite this, the girl was really ruthless towards her opponents. Many politicians regretted they were relaxed due to her charming voice. Kathy could not see many tricks: gestures and facial expressions, which politicians like to use. She listened to the voice. The smart journalist learned to hear it better than many others.",
@@ -276,6 +363,7 @@
 "yazar":"Roald Dahl",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FBeware%20of%20the%20Dog.mp3?alt=media&token=78c42b80-d629-41db-afcc-528fe8908370",
 "hardWord":"Text Analysis: Unique words: 705 Total words: 3629
+
    greyness, clearness, nailed, aeroplane, boned, spitfire, uncovered, imagining, hardness, whisky, separating, repeating, spinning, lying, whiteness, sill, balancing, fitting, ringing, tidy, parachute, managed, affected, guided, commanding, faded, exhausted, hopeless, raised, puzzled, cheerful.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Beware_of_the_Dog-Roald_Dahl.epub",
 "storyAcıklama":"The protagonist of this book was sitting in the cockpit. Below him there were dense white clouds. He was firmly holding the steering wheel, the plane flying smoothly. He told himself that everything was fine. A little more time - and he would fly to the house. He was definitely able to do it. He would land the plane and ask for help out, because he had no leg. Everyone would think that this was such a joke, but this was true. The pilot looked below: the floor was covered with blood, and he had nothing below the knee. The bullets tore off part of the right leg, but there was no pain. He felt fine, was awake and was not going to faint. But gradually the pilot started to weaken. Holding his head was getting harder, and it fell on the chest. The plane was flying at the height of seven kilometers and it was not the best moment for passing out.",
@@ -410,6 +498,7 @@
 "yazar":"Mark Twain",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Californian's%20Tale.mp3?alt=media&token=2cc0bc82-9dea-4f64-9ebf-8d16779154be",
 "hardWord":"Text Analysis: Unique words: 438 Total words: 1374
+
    yellowed, softness, sweetness, nineteen, whiskey, canned, sorrow, lively, miner, mining, fireplace, grind, loving, satisfied, rug, regret, pat, firmly, forty, guitar, midnight, gentle, shine, brush, asleep, fifty, shelf, rub, mainly, stranger, darkness.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Californians_Tale-Mark_Twain.epub",
 "storyAcıklama":"In his youth, the protagonist of this story decided to get rich quickly and went looking for gold in California. He really became rich, but it was not the most important accomplishment. He also discovered beautiful lands that looked like a real paradise. There were green fresh forests, hills and clean rivers. Cool air and wonderful climate. This place was found by other gold seekers earlier; he was not the first. These people built a small cozy town. There were real schools and banks. Also there were many shops and comfortable family houses for residents. It was a very nice place. At first everything was fine, but then the gold reserves became less and less. The natural goldmine dried up. By the time the main character of the story reached this city, the inhabitants had left it.",
@@ -469,6 +558,7 @@
 "yazar":"Lauri Kubuitsile",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FA%20Pot%20Full%20of%20Tears.mp3?alt=media&token=01c1b7a1-be24-409f-b2d2-3e7fd18a0357",
 "hardWord":"Text Analysis: Unique words: 269 Total words: 889
+
    steaming, smoky, barren, curved, grandson, perfume, goodbye, loving, thief, eyebrow, lamp, sum, blanket, flame, hungry, loud, rice, stranger, cheek, wooden, smell, luck, pot, lock, lucky, scream, escape, secret, comfortable, expensive, belong.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/A_Pot_Full_of_Tears-Lauri_Kubuitsile.epub",
 "storyAcıklama":"Luck is such a thing that you will not get for a long time. Sometimes it comes, quickly and unexpectedly. It disappears even faster. Some women dream of children, but cannot have them. Others have many children, but do not have enough money to feed and maintain them. Some families have children and love them, while other children will never see their parents. They are forced to live and grow in orphanages. But how to understand which of them are more fortunate? A lonely old man is sitting in a small room. He is silent. He is looking at the old wooden floor. A woman is sitting in the next room. She does not live in this house; she looks completely different. The smell of her expensive perfume does not fit this poor house. There is a scream. And in a few minutes the woman takes out the baby wrapped in a blanket from the room.",
@@ -543,6 +633,7 @@
 "yazar":"Frank Brennan",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Book%20of%20Houghts.mp3?alt=media&token=85917376-c83e-484a-8ff4-f9de1fd66353",
 "hardWord":"Text Analysis: Unique words: 721 Total words: 3613
+
    tike, undercooked, takeaway, cookery, sociable, yellowed, smartly, rubbish, judgement, mum, alarmed, typing, handbag, congratulations, annoy, cupboard, aged, congratulate, cinema, jealousy, exhausted, bill, briefcase, eighty, cheerful, deepest, squash, dislike.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Book_of_Houghts-Frank_Brennan.epub",
 "storyAcıklama":"On this day, Chester felt much even more tired than on any other day before. These eight hours in the office took a lot of energy. Chester is one of the junior managers in the large company in Singapore. This is a good position, but it includes a lot of extra work, small assignments and tasks. Other employees did not like him, as Chester recently graduated from the university and immediately started working in a good position. Many others have worked for years without any promotions. He understood this and did not take offense at the ironic smiles and small jokes. But it did not make life easier. He needed reliable colleagues. He wanted to be sure that the personal dislikes of these people would not hinder his work. Chester was very well aware that without reliable subordinates he would never get promoted.",
@@ -708,6 +799,7 @@
 "yazar":"Clemen D. B. Gina",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FAlien%20Alert%20in%20Seattle.mp3?alt=media&token=348ccede-0ff8-46d0-804d-259691e3033f",
 "hardWord":"Text Analysis: Unique words: 879 Total words: 6365
+
   Hard words: newsreader, intergalactic, august, airfield, emerald, ufo, alright, cascade, spaceship, lunchtime, janitor, cupboard, chemist, sighting, wig, divorced, volleyball, chemotherapy, climbing, constellation, cafeteria, hobby, astronomy, bald, terrify.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Alien_Alert_in_Seattle-Clemen_D_B_Gina.epub",
 "storyAcıklama":"This is the mountain range called Cascade. It is located in the county seat of Seatal, Washington. At first glance, this is an extremely inappropriate place for an alien spacecraft to appear. But once a mysterious flying object is seen by the locals. No one believes in such nonsense. Aliens from another planet are in the United States? It is more like a cheap science fiction movie! Still the residents are excited by this news. Later the trinity of good inseparable friends and classmates - Barbara, Karen and Walter notice that one of the teachers in their high school is starting behaving extremely strange. Young, but extremely smart guys begin an independent investigation and soon they discover a very unexpected truth.",
@@ -722,6 +814,7 @@
 "yazar":"Margaret Mitchell",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FGone%20with%20the%20Wind.mp3?alt=media&token=f252e486-0f47-43c9-89ff-eab04f7f74af",
 "hardWord":"Text Analysis: Unique words: 1436 Total words: 15358
+
  Hard words: conning, solider, nastily, jewellery, typhoid, neighbourhood, wading, prissy, august, unselfish, milking, strangenes shelling, careen, moustache, quicknes foolishnes cowardly, punishing, lying, blackened, stiffly, uncomfortably, fright, insulting, lovingly, touring",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Gone_with_the_Wind-Margaret_Mitchell.epub",
 "storyAcıklama":"It is a love story, which conquered the whole world and became the benchmark of romance and true feelings. The main character is flirtatious green-eyed Scarlett. She captivated hearts of many men. Her mind, charm, courage and strength of spirit cannot but attract attention. In spite of a huge popularity, she loves only Ashley Wilkes. One day she met a daring and rude, strong, handsome and charming Captain Butler. Scarlett did not like him as he was arrogant and mocked her. Captain Butler fell in love with her at first sight. Later a civil war between the North and the South starts. Scarlett would change and stop thinking only about men and dresses. She would become a strong, powerful woman and take responsibility for her loved ones.",
@@ -992,6 +1085,7 @@ Hard words: queen, goddess, skeleton, frighten, clever, wolf, tightly, sword, sc
 "yazar":"J. M. Barrie",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FPeter%20Pan.mp3?alt=media&token=129f4dd3-781e-4f4c-a0c9-de81f1592b20",
 "hardWord":"Text Analysis: Unique words: 543 Total words: 3182
+
   
   Hard words: tink, tootle, colourful, nib, bay, courageously, soiled, mermaid, horrid, kennel, maroon, jolly, desolate, wag, tinker, crocodile, lagoon, kite, folly, curly, bedtime, nanny, plank, paw, tick",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Peter_Pan-J_M_Barrie.epub",

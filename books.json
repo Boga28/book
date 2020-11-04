@@ -1,20 +1,80 @@
  /* {"meditasyonlat":[
- {"id":"60",
+ {"id":"90",
 "baslik":"",
-"aciklama":"B1 Pre-Intermediate",
+"aciklama":"",
 "thumbnail":"",
-"kategori":"3",
+"kategori":"",
 "yazar":"",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
 "hardWord":"",
 "storyUrl":"",
 "storyAcıklama":"",
 "tag":"",
-"views":"1092"},
+"views":""},
        ]
    }*/
 
 {"meditasyonlar":[
+ 
+  {"id":"85",
+"baslik":"Rainforests",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Rainforests-Rowena_Akinyemi.jpg",
+"kategori":"1",
+"yazar":"Rowena Akinyemi",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 645 Total words: 3596
+   
+Hard words: javan, leukaemia, poco, tamarin, katydid, eats, periwinkle, quinine, lemur, sold, taken, caught, disappeared, rhinoceros, favourite, saved, stopped, destroyed, tried, kangaroo, mangrove, nectar, hummingbird, disappearing, nuts, maize, looking, otter, wanted, rainforest",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Rainforests-Rowena_Akinyemi.epub",
+"storyAcıklama":"Rainforests are very important for the planet. Unfortunately, for many years, mankind has been cutting down forests for profit, without thinking about the consequences. Today, people cut down hundreds of thousands of square kilometers of forests every year. Seventy years ago, these forests covered about a half of the planet. People have destroyed half of this amount. What will happen in twenty years? Also, these rainforests are home to a huge number of people - about fifty million. For people it is not such a big problem, but hundreds of species of animals with the loss of habitat can face death. About eight thousand plant species can disappear forever. Since tropical forests produce about a third of the planet s oxygen, their loss will be a serious ordeal for the mankind.",
+"tag":" animals  island  nature",
+"views":"277"},
+ 
+ {"id":"84",
+"baslik":"The Rocking Horse Winner",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/The_Rocking_Horse_Winner-D_H_Lawrence.jpg",
+"kategori":"1",
+"yazar":"D. H. Lawrence",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe_Rocking_Horse_Winner-D_H_Lawrence.lite.mp3?alt=media&token=791f28c5-eebd-4c14-a238-2950ae6121b0",
+"hardWord":"Text Analysis: Unique words: 560 Total words: 3484
+  
+Hard words: parents, moved, worked, pretended, racecourse, staring, picked, kept, shouted, turned, whispering, guessing, governess, racehorse, becoming, decided, played, opened, filled, stopped, whispered, wearing, fell, daffodil, betting, agreed, shaking, laughing, drove, felt",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Rocking_Horse_Winner-D_H_Lawrence.epub",
+"storyAcıklama":"Hester was a beautiful woman from a very rich and powerful family. Soon the woman fell in love and got married. But she was not happy in marriage. It turned out to be rather boring. She gave birth to three children, but even that did not change anything. Two daughters and a son were smart and healthy children. Still Hester did not truly love them. Though she tried to act like a good mother. Her husband worked in the office. Every morning he left for work. But the man was not doing very well - the family was not very rich. They lived in a large beautiful house with expensive furniture. Around the house there was a nice green garden. One day, their son asked Hester why they didn t have their own car. Hester replied that the reason was the boy s father was not very lucky in life.",
+"tag":"family  marriage  children  office  house  school  holiday",
+"views":"9210"},
+ 
+ {"id":"83",
+"baslik":"The Last Photo",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/The_Last_Photo-Bernard_Smith.jpg",
+"kategori":"1",
+"yazar":"Bernard Smith",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 231 Total words: 1202
+  
+Hard words: rook, putting, rucksack, looking, going, taking, camping, sunglasses, don, policeman, beard, pencil, fascinating, tent, exciting, net, clock, drawing, lucky, hat, tired, telephone, english, nose, angry, works, reading, yesterday, bus, shop",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Last_Photo-Bernard_Smith.epub",
+"storyAcıklama":"It was a warm Saturday morning. Martin and his sister Pam decided to spend the whole day in Cambridge. They examined the beautiful old architecture of this place and took many photographs. Pam had a good camera. She liked taking pictures in her free time. Sometimes she managed to take very good pictures. Still, most of her photos were not so good. Then Martin would laugh at them. Around five in the evening, the brother and the sister wanted to go home. The day was long and they felt tired. Pam offered to take a picture of Martin again. He was jokingly horrified. Suddenly, a man with a large backpack got captured by the camera. Pam was upset, as the photo was spoiled. She did not know yet that this failure would be the beginning of a real adventure.",
+"tag":"university  police  short",
+"views":"4868"},
+ 
+ {"id":"82",
+"baslik":"Big Hair Day",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Big_Hair_Day-Margaret_Johnson.jpg",
+"kategori":"1",
+"yazar":"Margaret Johnson",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 325 Total words: 3100
+  
+Hard words: stopping, cooper, motorbike, shouting, looking, mummy, jack, speaking, going, taking, windy, trousers, smiling, don, waiting, cafe, loudly, goodbye, crying, making, policeman, coming, fascinating, hers, excuse, park, fighting, chapter, exciting, net",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Big_Hair_Day-Margaret_Johnson.epub",
+"storyAcıklama":"Sophia Reynolds comes to Norwich to be an extra in a film. She is going to be on a film set with a famous star Fabio Facelli. The girl is very fond of this actor. So she can t wait for working with him. However, she is almost late for the shooting. Sophia is delayed by a series of unusual events. First, she accidentally takes somebody else s bag instead of her own one. Then she meets a small boy who can t find his mother. Soon after that she becomes a witness of a fight. The girl goes to the police station. She meets a young policeman with beautiful eyes there. He helps her to solve everything. When Sophia finally arrives at the shooting scene, she doesn t look great. It has really been a bad hair day. Nevertheless, it brings positive changes into her life.",
+"tag":"police  work  fight",
+"views":"4274"},
  
  {"id":"81",
 "baslik":"The Odyssey",

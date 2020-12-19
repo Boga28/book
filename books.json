@@ -1,5 +1,5 @@
  /* {"meditasyonlat":[
- {"id":"90",
+ {"id":"100",
 "baslik":"",
 "aciklama":"",
 "thumbnail":"",
@@ -15,6 +15,21 @@
    }*/
 
 {"meditasyonlar":[ 
+ 
+  {"id":"100",
+"baslik":"Two lives",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Two_lives-Helen_Naylor.jpg",
+"kategori":"3",
+"yazar":"Helen Naylor",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FTwo%20lives.lite.mp3?alt=media&token=5d93b288-41e8-4c13-b1c3-1b6302699cf8",
+"hardWord":"Text Analysis: Unique words: 1102 Total words: 13694
+   
+Hard words: rockfall, barman, postmark, august, goodnight, unopened, whisky, rubbish, lying, upside, unreal, welsh, handbag, impatiently, further, sharing, packing, armchair, windy, aged, packed, drunken, cinema, divorced, bill, unsure.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Two_lives-Helen_Naylor.epub",
+"storyAcıklama":"A little boy Huw lived with his father and brother Gareth in the mining village Tredonald, South Wales. Their father had been drinking since his wife died. Huw and Gareth worked at mine just like other men from the village. Once Huw met a schoolgirl Megan. They fell in love immediately. Megan s father - Mr. Jenkins objected to such relations. He wished a better future for his daughter, than being a wife of a miner. He wanted her to enter the college and become an intelligent and educated lady. Nevertheless, the young people continued to meet secretly. They decided to get married. Suddenly Huw and his father had to leave for Canada. The lovers promised each other to keep in touch. And after Huw s returning they would definitely get married.",
+"tag":"love-story  relationships  life-story",
+"views":"774"},
  
  {"id":"99",
 "baslik":"The Doll",

@@ -16,6 +16,21 @@
 
 {"meditasyonlar":[ 
  
+ {"id":"101",
+"baslik":"David Copperfield",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/David_Copperfield-Charles_Dickens.jpg",
+"kategori":"3",
+"yazar":"Charles Dickens",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FDavid%20Copperfield.lite.mp3?alt=media&token=eaed5dbc-28fa-4eaf-a65b-a6933cfae3c1",
+"hardWord":"Text Analysis: Unique words: 1348 Total words: 7264
+  
+Hard words: derided, awaiting, submissively, pretence, cosy, obliged, mortified, caning, enquire, cornered, ingratiating, inconsolable, disobedient, laying, rotund, cookery, forgetful, coachman, soulles schoolmaster, clinging",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/David_Copperfield-Charles_Dickens.epub",
+"storyAcıklama":"David Copperfield was born in a few months after his father s death. When he was still a young boy his mother married a man named Murdstone. Terrible relationship was immediately set between David and his stepfather. Murdstone sends the child to a private school. The teachers were cruel and overall the conditions were disgusting. Despite of such a situation David managed to find two friends – James Steerforth and Tommy Traddles. Unfortunately at the same time David s mother dies. Murdstone decides to get rid of the boy. He sends David to work at the factory in London. After some time David gets tired of living in awful conditions and makes a decision to run away. He comes to his grandmother. After reaching her he finally starts normal life under the protection of his relatives. Only after this step, the real adventures begin.",
+"tag":"classic  filmed  England  kindness  friendship  relationships",
+"views":"20258"},
+ 
   {"id":"100",
 "baslik":"Two lives",
 "aciklama":"B1 Pre-Intermediate",

@@ -15,6 +15,21 @@
    }*/
 
 {"meditasyonlar":[ 
+ 
+ {"id":"112",
+"baslik":"Dinosaurs",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Dinosaurs-Tim_Vicary.jpg",
+"kategori":"3",
+"yazar":"Tim Vicary",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/72496224-d65d-417a-8a21-4c25532d15e4?temp_url_sig=fe38ca10bb8f14fe58cafec9a37fde4f2b63dca2&temp_url_expires=1611468655&filename=Dinosaurs-Tim_Vicary.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 1283 Total words: 12381
+  
+Hard words: diplodocus, apatosaurus, pterosaur, allosaurus, parents, plesiosaur, hadrosaur, stegosaurus, ichthyosaur, liked, theropod, grey, moved, passed, dippy, arming, velociraptor, cleaned, blooded, studying, carried, colourful, triceratops, discovered, worked, pterodactyl, chasing, tyrannosaur, legged, stealer",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Dinosaurs-Tim_Vicary.epub",
+"storyAcıklama":"Despite the constant development of science, we know very little about dinosaurs. New information reveals little by little. Mankind knows a lot. Still there are more questions than answers. Serious mistakes were made in the study of prehistoric reptiles. Perhaps even today we imagine the appearance of dinosaurs not entirely true. There is an interesting historic fact. In the mid-nineteenth century, Richard Owen organized dinner for twenty respected people. The table was inside a model of the skeleton of an iguanodon. The model was not assembled correctly. The researchers thought that part was a horn. But it was just a finger. In this book you can read what humanity knows about dinosaurs today.",
+"tag":"children  animals  university  work  doctor  fight  family  dream  musical  historical",
+"views":"6699"},
 
 {"id":"111",
 "baslik":"Alaska Wild and Free",

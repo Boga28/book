@@ -1,5 +1,5 @@
  /* {"meditasyonlat":[
- {"id":"100",
+ {"id":"11",
 "baslik":"",
 "aciklama":"",
 "thumbnail":"",
@@ -15,6 +15,21 @@
    }*/
 
 {"meditasyonlar":[ 
+ 
+  {"id":"110",
+"baslik":"Climate Change",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/Climate_Change-Barnaby_Newbolt.jpg",
+"kategori":"2",
+"yazar":"Barnaby Newbolt",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/2c13c455-ac99-4a76-82fa-73d0e2c9fc0f?temp_url_sig=61ed30f8035858eb0b4827812691a02dbb06ace5&temp_url_expires=1611466098&filename=Climate_Change-Barnaby_Newbolt.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 741 Total words: 8744
+   
+Hard words: stopping, heatwave, shanghai, shouldered, footed, staying, studying, wallaby, protecting, catching, putting, worse, taken, nitrous, becoming, himalayan, keeping, fell, seeing, trying, woolly, agreed, leaving, kangaroo, seawater, acidic, looking, deforestation, asking, burned",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Climate_Change-Barnaby_Newbolt.epub",
+"storyAcıklama":"Many scientists talk about climate change. They even predict the next end of the world. There are serious consequences for the planet. People are frightened. But how bad is it really? Mark Twain once said that a lot of people talk about the weather, but no one can say anything really important about. For the past hundred years, humanity has been talking about the changes in the weather. About storms, hurricanes, heat waves and floods. Each country has its own troubles. Who is to blame? Are these phenomena the consequences of technological progress? Or does nature change by itself? What can we do to improve this situation? The author of this book tries to give answers to all these questions.",
+"tag":"animals  health  future  farm  work  children  technology  ecology",
+"views":"2940"},
  
   {"id":"109",
 "baslik":"Agnes Grey",

@@ -1,20 +1,560 @@
  /* {"meditasyonlat":[
- {"id":"60",
+ {"id":"11",
 "baslik":"",
-"aciklama":"B1 Pre-Intermediate",
+"aciklama":"",
 "thumbnail":"",
-"kategori":"3",
+"kategori":"",
 "yazar":"",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
 "hardWord":"",
 "storyUrl":"",
 "storyAcıklama":"",
 "tag":"",
-"views":"1092"},
+"views":""},
        ]
    }*/
 
-{"meditasyonlar":[
+{"meditasyonlar":[ 
+ 
+ {"id":"112",
+"baslik":"Dinosaurs",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Dinosaurs-Tim_Vicary.jpg",
+"kategori":"3",
+"yazar":"Tim Vicary",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/72496224-d65d-417a-8a21-4c25532d15e4?temp_url_sig=e175b378f153a0791511ec0f6bf9019c652c4c8e&temp_url_expires=1611521272&filename=Dinosaurs-Tim_Vicary.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 1283 Total words: 12381
+  
+Hard words: diplodocus, apatosaurus, pterosaur, allosaurus, parents, plesiosaur, hadrosaur, stegosaurus, ichthyosaur, liked, theropod, grey, moved, passed, dippy, arming, velociraptor, cleaned, blooded, studying, carried, colourful, triceratops, discovered, worked, pterodactyl, chasing, tyrannosaur, legged, stealer",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Dinosaurs-Tim_Vicary.epub",
+"storyAcıklama":"Despite the constant development of science, we know very little about dinosaurs. New information reveals little by little. Mankind knows a lot. Still there are more questions than answers. Serious mistakes were made in the study of prehistoric reptiles. Perhaps even today we imagine the appearance of dinosaurs not entirely true. There is an interesting historic fact. In the mid-nineteenth century, Richard Owen organized dinner for twenty respected people. The table was inside a model of the skeleton of an iguanodon. The model was not assembled correctly. The researchers thought that part was a horn. But it was just a finger. In this book you can read what humanity knows about dinosaurs today.",
+"tag":"children  animals  university  work  doctor  fight  family  dream  musical  historical",
+"views":"6699"},
+
+{"id":"111",
+"baslik":"Alaska Wild and Free",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Alaska_Wild_and_Free-Nick_Harris.jpg",
+"kategori":"1",
+"yazar":"Nick Harris",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/7884293d-f8fc-4fbe-9872-314db4e082a0?temp_url_sig=c04cb2c98942f981bf69db8ecad459599aa3abff&temp_url_expires=1611521292&filename=Alaska_Wild_and_Free-Nick_Harris.mp3",
+"hardWord":"Text Analysis: Unique words: 515 Total words: 2271
+ 
+Hard words: eagle, paraglider, dogsled, musher, watching, traveled, needed, eskimo, fell, rafting, spoke, alaskan, going, baker, avalanche, called, traveling, peninsula, glacier, crest, camping, raft, climbing, fastest, freezing, don, moving, skiing, fantastic, tourism",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Alaska_Wild_and_Free-Nick_Harris.epub",
+"storyAcıklama":"What do you remember first when you hear about the United States of America? Warm sunny California? Surfing and beaches? What about Alaska? This is also one of the states, but it is very different from the rest 49. Despite this, many tourists visit Alaska. They come from all over the world. But if you decide to visit Alaska, prepare warm clothes. Twenty degrees below zero is the normal temperature for this state. Tourists often come to Alaska to have an active holiday. They conquer the mountain peaks, ski or go dog sledding. The first people who lived in this state were Eskimos. Today they make up about fifteen percent of the population. In the nineteenth century, Alaska was a part of Russia. The Americans bought it for a huge amount of seven million dollars. After that they found gold there.",
+"tag":"island  animals  short  sport  office  children  family  house",
+"views":"4534"},
+ 
+  {"id":"110",
+"baslik":"Climate Change",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/Climate_Change-Barnaby_Newbolt.jpg",
+"kategori":"2",
+"yazar":"Barnaby Newbolt",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/2c13c455-ac99-4a76-82fa-73d0e2c9fc0f?temp_url_sig=c564d5d7561864b0ab5f121eef27101f3c61c566&temp_url_expires=1611521326&filename=Climate_Change-Barnaby_Newbolt.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 741 Total words: 8744
+   
+Hard words: stopping, heatwave, shanghai, shouldered, footed, staying, studying, wallaby, protecting, catching, putting, worse, taken, nitrous, becoming, himalayan, keeping, fell, seeing, trying, woolly, agreed, leaving, kangaroo, seawater, acidic, looking, deforestation, asking, burned",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Climate_Change-Barnaby_Newbolt.epub",
+"storyAcıklama":"Many scientists talk about climate change. They even predict the next end of the world. There are serious consequences for the planet. People are frightened. But how bad is it really? Mark Twain once said that a lot of people talk about the weather, but no one can say anything really important about. For the past hundred years, humanity has been talking about the changes in the weather. About storms, hurricanes, heat waves and floods. Each country has its own troubles. Who is to blame? Are these phenomena the consequences of technological progress? Or does nature change by itself? What can we do to improve this situation? The author of this book tries to give answers to all these questions.",
+"tag":"animals  health  future  farm  work  children  technology  ecology",
+"views":"2940"},
+ 
+  {"id":"109",
+"baslik":"Agnes Grey",
+"aciklama":"B1+ Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Agnes_Grey-Anne_Bronte.jpg",
+"kategori":"4",
+"yazar":"Anne Bronte",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/c698166d-3730-4f29-9c07-626ba0465a7b?temp_url_sig=fa7fc9ef2274b42adbde925d48b787af3dc8cda0&temp_url_expires=1611521359&filename=Agnes_Grey-Anne_Bronte.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 1690 Total words: 24466
+   
+Hard words: pretending, sounded, pushed, organised, blamed, wondering, sung, refused, parents, exercising, grabbing, ignoring, discussed, proved, liked, answered, grey, marrying, questioned, ignored, moved, passed, dismissed, hurting, flirtatiously, studying, bush, carried, rested, pretended",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Agnes_Grey-Anne_Bronte.epub",
+"storyAcıklama":"This story takes place in the nineteenth century. A young girl named Agnes and her sister Mary are from a poor family. Their mother was disinherited in her youth. Now Agnes decides to start earning and help her close people. She finds a job as a governess in the Bloomfield family. But this family makes a very bad impression. Children behave badly. They do not listen to anyone and do not want to study. The parents are not interested in their education at all. Working in this family is very hard as Agnes has not even a permission to punish naughty children. But she decides to stay. It is getting harder and harder. The parents only fulfil all the whims of their son and daughter. Soon the young governess is fired. Agnes does not give up. She wants to work as a governess in another family.",
+"tag":"family  couple  children  school  servants  holiday  work  journey  animals  future  escape  kindness  society  marriage  missing  business  fight  space  beach",
+"views":"705"},
+ 
+  {"id":"108",
+"baslik":"The Silver Swans",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Silver_Swans-Gallico_Paul.jpg",
+"kategori":"3",
+"yazar":"Gallico Paul",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/7bcd1979-49ec-4815-bd13-a5ae14ae875a?temp_url_sig=b578da16c80da4e3308514c7ee58743396cbdf98&temp_url_expires=1611521388&filename=The%20Silver%20Swans.mp3",
+"hardWord":"Text Analysis: Unique words: 604 Total words: 3522
+   
+Hard words: colourful, lord, pacific, dreamily, houseboat, undersea, octopu lying, swan, mend, thoughtfully, cupboard, underwater, windy, rainy, trouser deepest, unwanted, rude, loudly, sadnes polite, excite, sailor, clever, sometime, beard, halfway",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Silver_Swans-Gallico_Paul.epub",
+"storyAcıklama":"Once a doctor, who works at the museum, was walking along the bank of the river Thames in Chelsea. Lots of creative people live in Chelsea and many of them prefer houseboats. They enjoy living on the water. It inspires them and they draw pictures. When the doctor was looking at the houseboats, he noticed a freshly painted small boat called Nerine. A young lady owned this boat. She stuck in the hole and couldn t push back the cover because of the fresh paint. The doctor helped her get out on the deck. They became friends. The lady was quite unusual. She had a pseudonym  Thetis . She lived together with two fishes and an octopus on the boat. Sometimes Thetis would sit near the aquarium and imagine that she lived on the bottom of the ocean. The girl sang a sad song to the doctor. Its title was  The Silver Swans . In this song she asked how she could recognize a true love.",
+"tag":"fiction  children  fairy-tale",
+"views":"13667"},
+ 
+ {"id":"107",
+"baslik":"The Fisherman and His Soul",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Fisherman_and_His_Soul-Oscar_Wilde.jpg",
+"kategori":"3",
+"yazar":"Oscar Wilde",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Fisherman%20and%20His%20Soul.mp3?alt=media&token=3b376917-f25b-40c2-8eef-a020610eefb8",
+"hardWord":"Text Analysis: Unique words: 765 Total words: 6209
+Hard words: pearl, jewellery, faun, murmured, lord, marvellou nubian, phew, scimitar, recompense, rose, galloping, bay, lute, tartar, freed, whit, seashell, seagull, mermaid, released, bazaar, peacock, implore",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Fisherman_and_His_Soul-Oscar_Wilde.epub",
+"storyAcıklama":"When you fall in love, you could lose your mind. This a little tale about the most important. A young fisherman went into the sea for fishing every day. Sometimes his catch was good, sometimes bad. One day he caught a sleeping mermaid in his net. When she woke up, she cried and told to the fisherman that her father is a King of the Sea and asked him to let her go. The fisherman agreed, but in exchange for freedom, the mermaid had to come to him when he ask her and to sing songs for a good fishing. She did it every day and fisherman had good catch. Day by day, the young man fell in love with her more and more. Eventually he proposed a marriage for a marine beauty. She agreed, but with the one condition, he had to send away his soul…",
+"tag":" fairy-tale  love-story  sea-story",
+"views":"59747"},
+
+ 
+{"id":"106",
+"baslik":"Carapace",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/Carapace-Romesh_Gunesekera.jpg",
+"kategori":"5",
+"yazar":"Romesh Gunesekera",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FCarapace.mp3?alt=media&token=59d3795e-2115-4d9f-944d-24afd06cfb59",
+"hardWord":"Text Analysis: Unique words: 506 Total words: 1599
+Hard words: bougainvillea, carapace, ironing, drifter, prawn, sari, trembling, sweetly, priceless, disco, tidy, backbone, bony, curved, cinema, climbing, floating, vase, deaf, turtle, sandy, stereo, jewel, underneath, lifelong, wallet, poison, rising, excite, hut, vein.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Carapace-Romesh_Gunesekera.epub",
+"storyAcıklama":"One of the most difficult decisions for a person to make is a choice, which defines future life. This story is about a young girl. She lives with her mother in Sri-Lanka. The girl has a close friend. They meet each other regularly. This is a very simple and cheerful guy, who likes to joke. He catches the prawns and cooks them on the beach. The young girl definitely likes him. The problem is that the boy does not give her any clarity about their relationship. There is also another man interested in her. A wealthy Australian wants to marry the girl and take her to Sydney, where he has a house. The mother wants her to marry the Australian, as she wants a better future for her daughter. The girl decides to talk to her bosom friend. She wants to know his true feelings about her.",
+"tag":"relationships  love-story",
+"views":"8978"},
+
+ 
+{"id":"105",
+"baslik":"Three is a Lucky Number",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/Three_is_a_Lucky_Number-Margery_Allingham.jpg",
+"kategori":"5",
+"yazar":"Margery Allingham",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThree%20is%20a%20Lucky%20Number.mp3?alt=media&token=1b9e95ad-e886-4a87-b1c6-22d58ab061c2",
+"hardWord":"Text Analysis: Unique words: 573 Total words: 2066
+Hard words: forcing, policewoman, rose, fashioned, unattractive, cheaply,seaside, undres managed, cupboard, unnoticed, intended, heater, noticeable, aged, clearing, cheerful, fingerprint, blouse, unpleasant, sensible, forced, footstep, loudly, wildly",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Three_is_a_Lucky_Number-Margery_Allingham.epub",
+"storyAcıklama":"Ronald Torbay is a killer. He committed his second murder. Ronald is a middle-aged man. He moved to a new place. Now he lives there with his third wife. Nobody knows who they are. It s a perfect place for a murder. His plan is simple: he uses a false name and goes at the weekend there where nobody knows him. Then he finds a middle-aged woman who has a lot of money. But she has neither family nor friends. Unfortunately, it is not difficult to find such a lady nowadays. He offers her to marry him. The next step is to murder his wife and get her fortune. The murders look like accidents. Usually the murders happen in the bathroom. Ronald decided not to change his previous plan. Will everything go as smoothly as before? Ronald has never fallen in love with his victims.",
+"tag":"short-story  murder  accident",
+"views":"26043"},
+
+ 
+{"id":"104",
+"baslik":"Three men in a boat",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Three_men_in_a_boat-Jerome_K-Jerome.jpg",
+"kategori":"3",
+"yazar":"Jerome K-Jerome",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThree%20men%20in%20a%20boat.mp3?alt=media&token=2730b509-cb7c-42ec-b29c-8dad1805a02b",
+"hardWord":"Text Analysis: Unique words: 1174 Total words: 8900
+Hard words: prescription, inn, row, hamper, maze, blazer, tow, shawl, fleet, donkey, preserving, mustard, pinneapple, drown, steer, earthquake, stew, swan, nest, howl",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Three_men_in_a_boat-Jerome_K-Jerome.epub",
+"storyAcıklama":"Once in the evening, three friends were sitting smoking at Jay in the evening and were discussing the diseases from which they suffered terribly. They came to the conclusion that all their troubles due to overwork and they urgently need a vacation. After a long discussion vacation in the countryside and the sea walk were rejected. In the end the friends decided to go up the Thames by boat from Kingston to Oxford, breaking camps for the nights. Departure was scheduled for next Saturday. George on this day was at work, so Jay and Harris have went to Kingston by train. At Waterloo station they can not find the right train, so they had to bribe the engineer, so he sent his train is in Kingston. There they hired boat were waiting for them. Later Gorge joined them and the journey began.",
+"tag":"comedy  adventure  surviving",
+"views":"211052"},
+
+ 
+{"id":"103",
+"baslik":"White Death",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/White_Death-Tim_Vicary.jpg",
+"kategori":"2",
+"yazar":"Tim Vicary",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FWhite%20Death.mp3?alt=media&token=23d922cd-8f19-4d10-85ce-5ee525d74a72",
+"hardWord":"Text Analysis: Unique words: 468 Total words: 6145
+Hard words: toothpaste, cheaply, handbag, eighty, heroin, loudly, goodbye, excite, policeman, upstairs, courtroom, detective, inspector, boyfriend, dear, girlfriend, dirty, innocent, clock, tube, stomach, round.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/White_Death-Tim_Vicary.epub",
+"storyAcıklama":"A mother from England arrived in one very hot country. She came to see her daughter arrested at the airport. During their meeting the mother learnt that her daughter was brought to the prison last week. The Police had found some drugs in her toothpaste. The daughter swore that it wasn’t her and she was innocent. The Police also had arrested one man with her. He was a good man and he wasn’t able to commit such a crime. But as mother discovered, her daughter’s previous boyfriend was on the plane during the arrest. Her daughter had gone to this country with him. Something happened two months ago and the girl found another guy. There was something very strange in this story and the mother would try to find the truth to save her child.",
+"tag":"drugs  court  family",
+"views":"50003"},
+ 
+  {"id":"102",
+"baslik":"North Sea Eyes",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/North_Sea_Eyes-Sue_Leather.jpg",
+"kategori":"2",
+"yazar":"Sue Leather",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FNorth%20Sea%20Eyes.mp3?alt=media&token=0df75db9-0db5-4e01-b08a-94215d2aedea",
+"hardWord":"Text Analysis: Unique words: 747 Total words: 3660
+   
+Hard words: mistaking, seafront, harbour, spoor, unpronounceable, barman, bloke, dutchman, stalking, overpowering, stalker, moustache, tram, dazed, dripping, hangover, mayonnaise, coward, awkwardly, deserted, heading, managed, tolerant, windy, overtime, disappoint, exhausted, comforting, fashionable, trousers.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/North_Sea_Eyes-Sue_Leather.epub",
+"storyAcıklama":"What do you know about Norway? This country seemed for Harry Brent too liberal compared to his homeland. His life is boring and monotonous in spite of the permissiveness atmosphere here. He came here from England for a couple of years because of his job. The days are similar. He did not expect anything special, but a new feeling came into his life. He used trams every day. Once he saw Ria, who was a tram driver. She was not like many other girls he had met before. Her North Sea eyes captivated him. Ria decided to get acquainted with Harry. The old life was gone. He started going by her tram and composing a poem for her. Now Harry has enough courage to confess his feelings. But love is a very dangerous thing. It blinds us very often.",
+"tag":"love-story  thriller  relationships  Holland  adult",
+"views":"621"},
+ 
+ {"id":"101",
+"baslik":"David Copperfield",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/David_Copperfield-Charles_Dickens.jpg",
+"kategori":"3",
+"yazar":"Charles Dickens",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FDavid%20Copperfield.lite.mp3?alt=media&token=eaed5dbc-28fa-4eaf-a65b-a6933cfae3c1",
+"hardWord":"Text Analysis: Unique words: 1348 Total words: 7264
+  
+Hard words: derided, awaiting, submissively, pretence, cosy, obliged, mortified, caning, enquire, cornered, ingratiating, inconsolable, disobedient, laying, rotund, cookery, forgetful, coachman, soulles schoolmaster, clinging",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/David_Copperfield-Charles_Dickens.epub",
+"storyAcıklama":"David Copperfield was born in a few months after his father s death. When he was still a young boy his mother married a man named Murdstone. Terrible relationship was immediately set between David and his stepfather. Murdstone sends the child to a private school. The teachers were cruel and overall the conditions were disgusting. Despite of such a situation David managed to find two friends – James Steerforth and Tommy Traddles. Unfortunately at the same time David s mother dies. Murdstone decides to get rid of the boy. He sends David to work at the factory in London. After some time David gets tired of living in awful conditions and makes a decision to run away. He comes to his grandmother. After reaching her he finally starts normal life under the protection of his relatives. Only after this step, the real adventures begin.",
+"tag":"classic  filmed  England  kindness  friendship  relationships",
+"views":"20258"},
+ 
+  {"id":"100",
+"baslik":"Two lives",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Two_lives-Helen_Naylor.jpg",
+"kategori":"3",
+"yazar":"Helen Naylor",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FTwo%20lives.lite.mp3?alt=media&token=5d93b288-41e8-4c13-b1c3-1b6302699cf8",
+"hardWord":"Text Analysis: Unique words: 1102 Total words: 13694
+   
+Hard words: rockfall, barman, postmark, august, goodnight, unopened, whisky, rubbish, lying, upside, unreal, welsh, handbag, impatiently, further, sharing, packing, armchair, windy, aged, packed, drunken, cinema, divorced, bill, unsure.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Two_lives-Helen_Naylor.epub",
+"storyAcıklama":"A little boy Huw lived with his father and brother Gareth in the mining village Tredonald, South Wales. Their father had been drinking since his wife died. Huw and Gareth worked at mine just like other men from the village. Once Huw met a schoolgirl Megan. They fell in love immediately. Megan s father - Mr. Jenkins objected to such relations. He wished a better future for his daughter, than being a wife of a miner. He wanted her to enter the college and become an intelligent and educated lady. Nevertheless, the young people continued to meet secretly. They decided to get married. Suddenly Huw and his father had to leave for Canada. The lovers promised each other to keep in touch. And after Huw s returning they would definitely get married.",
+"tag":"love-story  relationships  life-story",
+"views":"774"},
+ 
+ {"id":"99",
+"baslik":"The Doll",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Doll-Gallico_Paul.jpg",
+"kategori":"3",
+"yazar":"Gallico Paul",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Doll.lite.mp3?alt=media&token=28d7f51f-f3a3-4dd3-9215-04c390f6f95f",
+"hardWord":"Text Analysis: Unique words: 618 Total words: 3577
+  
+Hard words: lovelines lying, hopelessnes careles sweetnes cupboard, luckily, sunshine, kindnes niece, footstep, loudly, goodbye, frighten, unnecessary, silently, shiny, honestly, crowded, aunt, lane, cart, silly, suffering, happiness",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Doll-Gallico_Paul.epub",
+"storyAcıklama":"Sometimes one little thing can change the whole life. This story is about a true love. We will learn how poor and painful our life can be without love. There is a doctor in the centre of the novel. He is a real professional and good-looking man. He works and lives alone in a flat in the centre of London. It was a usual day, when he saw an incredible doll in the shop not far from his house. The doll was a hand-made thing, made with much love and accuracy. It impressed the doctor and he bought this doll for his niece. Later he got a call. One woman asked him to come and examine her ill niece. Her niece turned out to be the creator of these wonderful dolls. The doctor had recently bought one of her works. This young woman was ill. Many years ago she was injured in a car accident. Now she is alone and has no meaning of life. She needs to love and be loved by someone.",
+"tag":"love-story  doctor  accident  suffering",
+"views":"22610"},
+ 
+ {"id":"98",
+"baslik":"One Day",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/One_Day-Nicholls_David.jpg",
+"kategori":"3",
+"yazar":"Nicholls David",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FOne%20Day.lite.mp3?alt=media&token=ddbcbb74-006b-4604-833c-60040fdd65f1",
+"hardWord":"Text Analysis: Unique words: 1647 Total words: 19035
+  
+Hard words: birdwatch, rhymed, loveable, washbasin, marvellou delicatessen, primrose, expensively, fortnight, bookshop, earpiece, prawn, sledgehammer, chowder, daybreak, menial, sensibly, resigned, headmaster, schoolgirl",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/One_Day-Nicholls_David.epub",
+"storyAcıklama":"Everything started in 1988. A girl named Emma Morley and a boy named Dexter Mayhew were lying on the narrow bed in Emma s room. They shared a flat together. It was four o clock in the morning. These two young people did not know each other very well. But that night was full of thoughts concerning the future. It was the last night of their university life in Edinburgh. After four years, they finally graduated. Soon they will go their own different ways. Only after one day together, the boy and the girl cannot stop thinking about each other. The young people are only at the beginning of their lives. They are forced to make difficult choices. Emma and Dexter have the whole life ahead. They will have enough time to make mistakes.",
+"tag":"comedy  love-story  relationships  filmed",
+"views":"30859"},
+ 
+  {"id":"97",
+"baslik":"The Ring",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Ring-Bernard_Smith.jpg",
+"kategori":"3",
+"yazar":"Bernard Smith",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Ring.mp3?alt=media&token=f34d99de-f270-4b06-b6cc-adfa31858fa3",
+"hardWord":"Text Analysis: Unique words: 1136 Total words: 18685
+   
+Hard words: pushed, hurrying, attacked, sung, parents, liked, answered, grey, moved, bringing, cleaned, anchored, carried, worst, worked, unloading, unloaded, picked, kept, stole, described, shouted, held, realized, pulling, putting, stealing, worse, understood, taught",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Ring-Bernard_Smith.epub",
+"storyAcıklama":"The Doctor faces a difficult task. Now he has to solve a complex detective story that takes place in a small fishing village. The first problem is Rafael. He s a crazy man who lives in a boat shed on the beach. He was once a normal person, but then something terrible happened. How to find the cause of this insanity? The second mystery is the fate of the girl with whom Rafael was in love. At the same time, a wandering soldier arrives in the village with his mysterious history. Rafael knows the answers to all these questions, but the madman cannot tell anything. So what are the madman and the other villagers hiding? And why can the golden ring help to learn answers? The Doctor has to find everything out.",
+"tag":"family  farm  house  children  school  university  doctor  work  business  music  police  marriage  suit  health  madness  magic  king  dream  short  fight  crime  mystery  nurse  murder  stealing",
+"views":"6611"},
+ 
+ {"id":"96",
+"baslik":"47 Ronin a Samurai from Japan",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/47_Ronin_a_Samurai_from_Japan-Jennifer_Bassett.jpg",
+"kategori":"2",
+"yazar":"Jennifer Bassett",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2F47%20Ronin%20a%20Samurai%20from%20Japan.mp3?alt=media&token=f6079e21-d71f-4598-ab84-cae6307473d6",
+"hardWord":"Text Analysis: Unique words: 805 Total words: 8120
+  
+Hard words: pushed, attacked, armour, parents, liked, answered, shogun, aaah, nightclothes, moved, passed, carried, worked, honour, swordsman, lord, kept, shouted, held, touched, watching, arrested, bowed, turned, whispering, tied, remembered, dressed, helped, pulled",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/47_Ronin_a_Samurai_from_Japan-Jennifer_Bassett.epub",
+"storyAcıklama":"The plot of this book is based on true events. This story has been retold in songs, legends, theatrical performances for over 300 years. There are several adaptations. Even nowadays the story is known in Japan. It is a real legend. Honor and duty are above all for a samurai. The worst thing for any samurai is not to protect his master. In this case, such samurai becomes a ronin, a warrior without a suzerain. He has no rights and future anymore. In the spring of 1701, Lord Asano crosses his sword with Lord Kira s. In this battle, only one survives. 47 samurai turn into ronin. They have only one goal left - to avenge their master. The story of true loyalty, long journey and revenge on Lord Kira begins.",
+"tag":"journey  house  servants  children  government  crime  fight  family  revenge  marriage  escape",
+"views":"1930"},
+ 
+ {"id":"95",
+"baslik":"Carnival",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Carnival-Annette_Keen.jpg",
+"kategori":"1",
+"yazar":"Annette Keen",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FCarnival.mp3?alt=media&token=7ff0ab86-b277-4b7d-acc9-e67350d8810f",
+"hardWord":"Text Analysis: Unique words: 271 Total words: 1386
+  
+Hard words: watching, policewoman, shouting, looking, carnival, going, playing, procession, sitting, madame, sergeant, moving, waiting, cafe, eighteen, making, policeman, unhappy, dancing, fascinating, costume, starting, pen, drinking, running, float, standing, exciting, net, bench",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Carnival-Annette_Keen.epub",
+"storyAcıklama":"Jake arrives in London. It is just the beginning of a holiday weekend. This is the first time the eighteen-year-old guy has been so far from his native Manchester. Jake is very excited. The family stays at home while he is making such an interesting trip of his own. The guy opens the map and thinks where it is better to go first. The choice is the Notting Hill Carnival. Jake gets on a big red bus full of people. There is a large family with many children behind him. The children are making noise and talking about the Notting Hill Carnival. Jake realizes that they are going to the same place. Soon the guy gets to the carnival he has dreamed of for so long. His first trip turns out to be interesting and full of pleasant surprises.",
+"tag":"holiday  family  children  music  photograph  police  doctor",
+"views":"3758"},
+ 
+ {"id":"94",
+"baslik":"Amazing Thinkers and Humanitarians",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/Amazing_Thinkers_and_Humanitarians-Katerina_Mestheneou.jpg",
+"kategori":"5",
+"yazar":"Katerina Mestheneou",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FAmazing_Thinkers_and_Humanitarians-Katerina_Mestheneou.lite.mp3?alt=media&token=fbb5a176-9330-487a-b438-60d08d54108a",
+"hardWord":"Text Analysis: Unique words: 2607 Total words: 18659
+  
+Hard words: stopping, gassed, attended, interpreted, taxed, surrounded, judged, wondering, promoted, refused, boule, blaming, parents, replaced, rhenish, outlined, discussed, proved, liked, answered, interfering, questioned, moved, passed, delivered, scholasticism, peloponnesian, assassinated, staying, achieved",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Amazing_Thinkers_and_Humanitarians-Katerina_Mestheneou.epub",
+"storyAcıklama":"There were many people who changed the world. Outstanding personalities whose minds and beliefs influenced thousands human fates. Confucius was a famous Chinese philosopher. Socrates became one of the first scientists in the world. Aristotle continued his work and developed science in ancient Greece. William Wilberforce was the man who put an end to the slave trade in Britain. The name of Gandhi is well known to many today - he was able to free India from British rule. This book will tell more about the lives of people who once changed the world for the better. Each of them lived in his era and faced countless difficulties. Still they managed to overcome everything and remain victorious in history.",
+"tag":"  family  animals  teenager  short  king  children  marriage  work  society  relationships  music  politics  future  school  poverty  government  competition  culture  business  investigation  escape  crime  revolution  poison  doctor  nature  orphan  science  dream  drama  hero  island  health  grief  university  misery  space  factory  house  adult  prison  journalist  colony  suffering  farm  murder  couple  office  biography",
+"views":"4061"},
+ 
+ {"id":"93",
+"baslik":"The Spy Who Came in from the Cold",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/The_Spy_Who_Came_in_from_the_Cold-John_le_Carre.jpg",
+"kategori":"5",
+"yazar":"John le Carre",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe_Spy_Who_Came_in_from_the_Cold-John_le_Carre.lite.mp3?alt=media&token=b2e4f9a1-f91a-41ad-a95a-a7c11ea05d23",
+"hardWord":"Text Analysis: Unique words: 1598 Total words: 24410
+  
+Hard words: pretending, sounded, pushed, betraying, hurrying, wondering, parents, discussed, answered, grey, understandingly, untied, moved, passed, staying, cleaned, carried, discovered, worked, chasing, pretended, cheque, sobbing, believing, crossly, staring, picked, lit, kept, shouted",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Spy_Who_Came_in_from_the_Cold-John_le_Carre.epub",
+"storyAcıklama":"John le Carre had worked in British Intelligence before he started writing books. Thanks to such an unusual profession, the writer has gained a very interesting experience. John witnessed real espionage operations. The author generously shares these stories in his books. In the center of this dark plot is Alec Leamas. Everything takes place in the sixties. Recently Alec has lost his last agent in Germany. The head of the local intelligence is behind this murder. The authorities offer Alec the last task - to avenge his people personally. After this, he will be able to retire and have a well-deserved rest. So Alec goes on a mission that can cost him his life. But this is the only chance for the old agent to revenge and start a quiet life.",
+"tag":" agents  escape  children  government  office  photograph  factory  trial  prison  house  doctor  suit  airport  journey  flight  police  family  murder  nurse  school  crime  court  investigation",
+"views":"4125"},
+ 
+ {"id":"92",
+"baslik":"Nothing but the Truth",
+"aciklama":"B1+ Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Nothing_but_the_Truth-George_Kershaw.jpg",
+"kategori":"4",
+"yazar":"George Kershaw",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FNothing_but_the_Truth-George_Kershaw.lite.mp3?alt=media&token=47b77acc-5198-436c-bfab-c8aba285cfde",
+"hardWord":"Text Analysis: Unique words: 1888 Total words: 22594
+  
+Hard words: recognised, pretending, stopping, sounded, pushed, hurrying, sung, parents, replaced, practising, robbing, liked, answered, grey, questioned, moved, passed, bringing, staying, banyan, studying, jewellery, bush, carried, chatting, formed, worked, blinded, pretended, crossly",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Nothing_but_the_Truth-George_Kershaw.epub",
+"storyAcıklama":"The name of the girl is Hu. This is a typical Asian name for her land. One early morning in Bangkok, as the birds start singing loudly and the dawn is coming, Hu cannot sleep and decides to get up. It is not even six in the morning. Despite such early time, there are many cars outside the window. The city woke up long ago. Hu opens the window and lets the light and the smell of the city penetrate the room. This is the first day of the spring semester. A peddler is talking to her neighbours, sitting on his motorcycle. The girl is feeling a pleasant excitement. The day will be very interesting. She will study again and meet with her friends. Hu has already been missing them much. Now the girl will have to study more, but do less housework. This is great news.",
+"tag":"school  children  family  doctor  holiday  animals  nature  airport  business  office  music  musical  house  drama  farm  cooking  dream  journey  future  space  police  nurse  jewels  adult  suit  university  society",
+"views":"5936"},
+ 
+ {"id":"91",
+"baslik":"A Light in the Night The Moon",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/A_Light_in_the_Night__The_Moon-Simon_Beaver.jpg",
+"kategori":"1",
+"yazar":"Simon Beaver",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/book/master/Audio%20Of%20Books/A_Light_in_the_Night__The_Moon-Simon_Beaver.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 412 Total words: 1761
+  
+Hard words: parents, eats, potter, understood, pulled, seconds, werewolf, stopped, leaving, studied, lunatic, crescent, wanted, changed, going, adjective, called, covered, said, moonlight, helping, paid, eclipse, saw, lunar, goddess, astronomy, thinker, turning, don",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/A_Light_in_the_Night__The_Moon-Simon_Beaver.epub",
+"storyAcıklama":"Do you know something about tides? Every day the sea covers the beach or the water moves on. Tides depend not only on the time of day, but also on the season. Many years ago, the ancient astronomers noticed that the tides and the Moon are related. People thought that the moon and Sun revolve around our planet, but later they realized that the earth and the Moon revolve around the sun. But both of them are moving all the time, and don t change position to each other. It is thanks to the moon that humanity received four seasons, which change each other in turn. And thanks to it, the planet does not become so hot or cold that it was uncomfortable to be on it. The atmosphere of the Moon pulls over water in the seas and oceans, thanks to its gravitation. Because of this humanity is observing the tides.",
+"tag":" children  animals  beach  science",
+"views":"776"},
+ 
+ {"id":"90",
+"baslik":"Animal Life Cycles",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Animal_Life_Cycles-Rachel_Bladon.jpg",
+"kategori":"1",
+"yazar":"Rachel Bladon",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FAnimal_Life_Cycles-Rachel_Bladon.lite.mp3?alt=media&token=e0fdd941-4db9-462e-9b04-38a686a3ba36",
+"hardWord":"Text Analysis: Unique words: 627 Total words: 4172
+  
+  
+Hard words: molting, parents, hatched, tailed, footed, stickleback, staying, blooded, eats, mayfly, camouflaged, pupa, molt, laying, exoskeleton, gecko, hatching, laid, becoming, hibernate, cuckoo, fertilized, frigate, tadpole, booby, placenta, gestation, keeping, ostrich, invertebrate",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Animal_Life_Cycles-Rachel_Bladon.epub",
+"storyAcıklama":"There are a big number of different types of animals on the planet Earth. There are real big ones like blue whales, elephants or polar bears. There are also so small species that the human eye cannot see them. Their life cycles vary. All living organisms are divided into groups. Most of the animals in the world are invertebrates. There are very few animals with spinal column, but they are much larger in size and people are used to seeing them around. In the life of a wild animal there are many dangers: predators, lack of food and water. Survival is quite difficult. Another terrible enemy of animals is people. They hunt not only for food, but also for entertainment. They cut down the forests that are home for many species. People even poison water and environment.",
+"tag":"animals  adult  fight  escape  work  short",
+"views":"8142"},
+ 
+ {"id":"89",
+"baslik":"Marcel and the Shakespeare Letters",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Marcel_and_the_Shakespeare_Letters-Stephen_Rabley.jpg",
+"kategori":"1",
+"yazar":"Stephen Rabley",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMarcel_and_the_Shakespeare_Letters-Stephen_Rabley.lite.mp3?alt=media&token=f6355308-e202-4bfa-8f6b-307d22194a9e",
+"hardWord":"Text Analysis: Unique words: 390 Total words: 3664
+  
+Hard words: marcel, watching, bong, whoosh, pow, walkman, notepad, bookcase, aha, going, said, cinema, fireworks, sitting, listening, talking, smiling, don, moving, dial, waiting, bang, clever, coming, fascinating, detective, wow, closed, walking, jeans",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Marcel_and_the_Shakespeare_Letters-Stephen_Rabley.epub",
+"storyAcıklama":"Marcel lives in the most romantic city in the world - Paris. And he is a mouse. He works as a detective. Marcel does not spend all his time in Paris. He often visits an old friend in London. Henry has a small apartment in London where he happily accepts his friend. Marcel loves ancient and cold London, where there are a lot of beautiful buildings. He loves his hometown no less, but the capital of England always makes him happier. The story begins in November, during the holidays. Marcel walks around London, carrying two heavy bags. He came to visit his old friend. The detective examines the house numbers for a while, but quickly finds the right one. Marcel enters a small, cozy apartment. Henry is glad to see his old friend.",
+"tag":"house  police  holiday  airport  short  music",
+"views":"5915"},
+ 
+ {"id":"88",
+"baslik":"Muhammad Ali",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Muhammad_Ali-B_Smith.jpg",
+"kategori":"1",
+"yazar":"B. Smith",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FMuhammad_Ali-B_Smith.lite.mp3?alt=media&token=a6e6d45d-5f74-4720-9cf1-dcb2bec2c96f",
+"hardWord":"Text Analysis: Unique words: 455 Total words: 3375
+  
+Hard words: liked, answered, moved, whup, worked, watching, played, stopped, boxed, hitting, wanted, foreman, going, called, said, boxer, nineteen, loved, don, moving, waiting, saying, closing, thirteen, boxing, fourteen, eighteen, clay, policeman, unhappy",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Muhammad_Ali-B_Smith.epub",
+"storyAcıklama":"Muhammad Ali. Everyone has heard this name. But not everyone knows what this person is famous for. Is he an Olympic champion? Or a brilliant boxer? A public figure? All these facts are true. What is not commonly known is that Muhammad Ali is not the real name of this athlete. Cassius Clay was an ordinary boy. His catchphrase  Float like a butterfly, sting like a bee  has been used for many years. But besides his fast legs and powerful blows, Ali is also known as an impacable fighter for the rights of African Americans. Everything started when a little boy Cassius got a new bike. Later the new wonderful bike was stolen. After that, the boy went to the boxing gym. It seemed to him a good way to protect his property. Back then, no one thought he would become a real legend.",
+"tag":"school  family  work  fight  government  doctor  house  children  sport",
+"views":"12556"},
+ 
+ {"id":"87",
+"baslik":"Incredible Earth",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Incredible_Earth-Richard_Northcott.jpg",
+"kategori":"1",
+"yazar":"Richard Northcott",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FIncredible_Earth-Richard_Northcott.lite.mp3?alt=media&token=822fc436-061b-46e4-b698-3d69b69dfe32",
+"hardWord":"Text Analysis: Unique words: 431 Total words: 2167
+  
+Hard words: moved, pacific, saltwater, geyser, rainwater, looking, melted, rainforest, tsunami, going, broke, called, limestone, windy, waterfall, glacier, deepest, painted, reef, volcano, don, moving, arctic, coral, erosion, crust, underground, monkey, earthquake, boil",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Incredible_Earth-Richard_Northcott.epub",
+"storyAcıklama":"In many ways, the planet Earth resembles an orange. They have a similar shape. The planet also, like this fruit, has its own skin - the earth s crust. There are holes in the earth s crust - volcanoes. When they erupt, stone, ash, and hot lava fly out. Thanks to volcanoes, new islands sometimes arise at the planet. Two thirds of the land are covered by water. Basically it is the salty water of the oceans and seas that cannot be drunk. But there are also rivers with fresh water, thanks to which trees grow and animals survive. Rivers usually start in the mountains. They gather from snow or rain and begin to flow below. Rivers form waterfalls. The largest and most beautiful of them are favorite places of tourists even today. Fresh water is very important for life on the planet.",
+"tag":" island  animals",
+"views":"10785"},
+ 
+ {"id":"86",
+"baslik":"Animals at Night",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Animals_at_Night-Rachel_Bladon.jpg",
+"kategori":"1",
+"yazar":"Rachel Bladon",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FAnimals_at_Night-Rachel_Bladon.lite.mp3?alt=media&token=8b8036bc-2ed7-4489-9836-c8236d31e169",
+"hardWord":"Text Analysis: Unique words: 399 Total words: 2165
+  
+Hard words: aardvark, echolocation, tasmanian, howler, opossum, armadillo, plankton, kangaroo, grasshopper, looking, nocturnal, upside, burrow, going, called, traveling, lantern, sting, cooler, happening, migrate, sticky, reef, don, moving, arctic, ant, poison, prey, roar",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Animals_at_Night-Rachel_Bladon.epub",
+"storyAcıklama":"At night when people go to bed - many small and large animals leave their cozy burrows and go hunting. They begin their active animal life. Many of them can hunt all night and rest during the day. They clearly see in the darkness, no worse than in daylight. After sunset it gets much colder. This is an active period for such animals as possums. These are completely nocturnal beasts. At night, they begin to look for food - plants, insects and small animals. There are other animals that can be active day and night, depending on their needs - like tigers. And the rabbits leave the holes early in the morning and at sunset, when part of the predators have not woken up yet, and some have already gone to sleep. This is a good way to be safe as long as possible.",
+"tag":"animals  poison",
+"views":"9098"},
+ 
+  {"id":"85",
+"baslik":"Rainforests",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Rainforests-Rowena_Akinyemi.jpg",
+"kategori":"1",
+"yazar":"Rowena Akinyemi",
+"sesdosyasi":"https://adeposw.turkcell.com.tr/v1/AUTH_b50992b1649a4a3cb2d90a70e418f3e6/CONTAINER_MAIN/6694abab-7a1f-4496-a54b-20514edbc6ca?temp_url_sig=8e0e7bde0a4ec98bd5643c7253fe5aac340fe09f&temp_url_expires=1611448587&filename=A%20Pot%20Full%20of%20Tears.mp3",
+"hardWord":"Text Analysis: Unique words: 645 Total words: 3596
+   
+Hard words: javan, leukaemia, poco, tamarin, katydid, eats, periwinkle, quinine, lemur, sold, taken, caught, disappeared, rhinoceros, favourite, saved, stopped, destroyed, tried, kangaroo, mangrove, nectar, hummingbird, disappearing, nuts, maize, looking, otter, wanted, rainforest",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Rainforests-Rowena_Akinyemi.epub",
+"storyAcıklama":"Rainforests are very important for the planet. Unfortunately, for many years, mankind has been cutting down forests for profit, without thinking about the consequences. Today, people cut down hundreds of thousands of square kilometers of forests every year. Seventy years ago, these forests covered about a half of the planet. People have destroyed half of this amount. What will happen in twenty years? Also, these rainforests are home to a huge number of people - about fifty million. For people it is not such a big problem, but hundreds of species of animals with the loss of habitat can face death. About eight thousand plant species can disappear forever. Since tropical forests produce about a third of the planet s oxygen, their loss will be a serious ordeal for the mankind.",
+"tag":" animals  island  nature",
+"views":"277"},
+ 
+ {"id":"84",
+"baslik":"The Rocking Horse Winner",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/The_Rocking_Horse_Winner-D_H_Lawrence.jpg",
+"kategori":"1",
+"yazar":"D. H. Lawrence",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe_Rocking_Horse_Winner-D_H_Lawrence.lite.mp3?alt=media&token=791f28c5-eebd-4c14-a238-2950ae6121b0",
+"hardWord":"Text Analysis: Unique words: 560 Total words: 3484
+  
+Hard words: parents, moved, worked, pretended, racecourse, staring, picked, kept, shouted, turned, whispering, guessing, governess, racehorse, becoming, decided, played, opened, filled, stopped, whispered, wearing, fell, daffodil, betting, agreed, shaking, laughing, drove, felt",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Rocking_Horse_Winner-D_H_Lawrence.epub",
+"storyAcıklama":"Hester was a beautiful woman from a very rich and powerful family. Soon the woman fell in love and got married. But she was not happy in marriage. It turned out to be rather boring. She gave birth to three children, but even that did not change anything. Two daughters and a son were smart and healthy children. Still Hester did not truly love them. Though she tried to act like a good mother. Her husband worked in the office. Every morning he left for work. But the man was not doing very well - the family was not very rich. They lived in a large beautiful house with expensive furniture. Around the house there was a nice green garden. One day, their son asked Hester why they didn t have their own car. Hester replied that the reason was the boy s father was not very lucky in life.",
+"tag":"family  marriage  children  office  house  school  holiday",
+"views":"9210"},
+ 
+ {"id":"83",
+"baslik":"The Last Photo",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/The_Last_Photo-Bernard_Smith.jpg",
+"kategori":"1",
+"yazar":"Bernard Smith",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 231 Total words: 1202
+  
+Hard words: rook, putting, rucksack, looking, going, taking, camping, sunglasses, don, policeman, beard, pencil, fascinating, tent, exciting, net, clock, drawing, lucky, hat, tired, telephone, english, nose, angry, works, reading, yesterday, bus, shop",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Last_Photo-Bernard_Smith.epub",
+"storyAcıklama":"It was a warm Saturday morning. Martin and his sister Pam decided to spend the whole day in Cambridge. They examined the beautiful old architecture of this place and took many photographs. Pam had a good camera. She liked taking pictures in her free time. Sometimes she managed to take very good pictures. Still, most of her photos were not so good. Then Martin would laugh at them. Around five in the evening, the brother and the sister wanted to go home. The day was long and they felt tired. Pam offered to take a picture of Martin again. He was jokingly horrified. Suddenly, a man with a large backpack got captured by the camera. Pam was upset, as the photo was spoiled. She did not know yet that this failure would be the beginning of a real adventure.",
+"tag":"university  police  short",
+"views":"4868"},
+ 
+ {"id":"82",
+"baslik":"Big Hair Day",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Big_Hair_Day-Margaret_Johnson.jpg",
+"kategori":"1",
+"yazar":"Margaret Johnson",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 325 Total words: 3100
+  
+Hard words: stopping, cooper, motorbike, shouting, looking, mummy, jack, speaking, going, taking, windy, trousers, smiling, don, waiting, cafe, loudly, goodbye, crying, making, policeman, coming, fascinating, hers, excuse, park, fighting, chapter, exciting, net",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Big_Hair_Day-Margaret_Johnson.epub",
+"storyAcıklama":"Sophia Reynolds comes to Norwich to be an extra in a film. She is going to be on a film set with a famous star Fabio Facelli. The girl is very fond of this actor. So she can t wait for working with him. However, she is almost late for the shooting. Sophia is delayed by a series of unusual events. First, she accidentally takes somebody else s bag instead of her own one. Then she meets a small boy who can t find his mother. Soon after that she becomes a witness of a fight. The girl goes to the police station. She meets a young policeman with beautiful eyes there. He helps her to solve everything. When Sophia finally arrives at the shooting scene, she doesn t look great. It has really been a bad hair day. Nevertheless, it brings positive changes into her life.",
+"tag":"police  work  fight",
+"views":"4274"},
+ 
+ {"id":"81",
+"baslik":"The Odyssey",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/The_Odyssey-Homer.jpg",
+"kategori":"5",
+"yazar":"Homer",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Odyssey.lite.mp3?alt=media&token=acc47c6a-f329-465e-93d9-01f45e9e536b",
+"hardWord":"Text Analysis: Unique words: 1920 Total words: 30013
+  
+Hard words: eagle, queen, bowlful, wineskin, crueler, farmworker, jewellery, colourful, cupful, lord, cyclops, phoenician, friendless, silenced, pitifully, shakily, unpunished, sheepskin, armful, calypso, birdsong, fearfully, hungrily, resourcefulness, milking, rudeness, seashore, thoughtless, uninvited, deciding.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Odyssey-Homer.epub",
+"storyAcıklama":"Odysseus was a wise ruler of the kingdom. There were many legends about his mind. But what this man lacked was luck. After lot of years in the battle of Troy, he went home. But the return to his wife was not such a simple matter. The gods themselves decided to ruin his life for the offense that that hero had inflicted on them. For lots of years, Odysseus had been floating to the homeland. His elder son Telemachus became an adult man, and his beautiful wife Penelope refused to endless suitors. But not all the gods were hostile to the legendary hero. Athena decided to help Penelope and Telemachus. The family was sure that Odyssey was already dead, but the goddess revealed the truth. He was already very close to finding home. The cunning and strong character of this person helped him avoid problems many times.",
+"tag":"  treasure  adventure  jewels  escape  island  journey  kindness  crime  suffering  family  future  war  magic",
+"views":"2897"},
+ 
+ {"id":"80",
+"baslik":"Life of Pi",
+"aciklama":"B1+ Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Life_of_Pi-Yann_Martel.jpg",
+"kategori":"4",
+"yazar":"Yann Martel",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 1443 Total words: 13575
+  
+Hard words: stopping, sounded, pushed, containing, cathouse, refused, parents, liked, grey, moved, hurting, meerkat, circled, eats, carried, formed, worst, discovered, worked, chasing, rested, lord, emptied, picked, kept, described, catching, shouted, allowed, seasickness",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Life_of_Pi-Yann_Martel.epub",
+"storyAcıklama":"When you hear the title of this book, you will think first of all about the boy and the tiger, who are sailing on a boat in the middle of the vast ocean. The book does have a similar scene, but still it is not the only one. The main character of the story is Pisin. As a child, he suffered a lot because of his unusual name. In the end, he decided to call himself simply Pi in honour of the number. The father of Pi is a director of the zoo. Once he transports animals from India to Canada. Along the way, their ship gets into a strong storm. In the morning Pi wakes up from a loud noise and goes on deck. An alarm sounds. Soon Pi finds himself in a boat, surrounded by several animals. The boat gets further into the ocean. The situation is extremely dangerous and the boy does not know what to do.",
+"tag":" animals  fight  journey  island  suffering  nature  missing  accident  adventure  sea-story",
+"views":"3800"},
+ 
+  {"id":"79",
+"baslik":"Pollyanna",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Pollyanna-Eleanor_H_Porter.jpg",
+"kategori":"3",
+"yazar":"Eleanor H. Porter",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"Text Analysis: Unique words: 2860 Total words: 47489
+   
+Hard words: eagle, tapped, tucked, resented, unpacked, beseeching, sounded, notified, quieting, brokenly, pacing, subsided, attended, pushed, precipitately, mewing, snapping, queerly, grieved, favourably, hurrying, wondering, hesitatingly, effectually, reddening, refused, unclasp, dreariness, blaming, massiveness",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Pollyanna-Eleanor_H_Porter.epub",
+"storyAcıklama":"Pollyanna is eleven years old. She is an orphan. Despite this, the girl is an incorrigible optimist. Long ago, her mother married a poor priest and left the country. The couple died. Now Pollyanna has only an aunt. Aunt Polly decides to take her niece due to a great sense of duty. The woman is maximally unemotional, cynical and does not believe in love. She convinced herself she does not need sincere emotions. The woman puts her niece in a small and uncomfortable room. Still Pollyanna enjoys a pleasant view from the window. The girl is unpretentious, joyful and always in motion. First Polly is confused. Then she begins to get used to this philosophy of the little cheerful girl. Polly realizes that this is exactly what is missing in her life.",
+"tag":"   children  house  family  kindness  farm  misery  cooking  business  friendship  orphan  society  doctor  nurse  accident  stealing  suffering  puzzle  grief  office  divorce  escape  journey",
+"views":"2431"},
+ 
+ {"id":"78",
+"baslik":"Rain Man",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/Rain_Man-Barry_Morrow.jpg",
+"kategori":"2",
+"yazar":"Barry Morrow",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FRain_Man-Barry_Morrow.lite.mp3?alt=media&token=8b96f1e8-c276-4cb1-a7ab-5653655c6901",
+"hardWord":"Text Analysis: Unique words: 906 Total words: 10950
+  
+Hard words: pushed, babbitt, parents, liked, answered, grey, seventieth, moved, widened, staying, eats, carried, muttered, sally, picked, shouted, pushing, explained, held, kidnapped, explaining, touched, pulling, muttering, watching, crashed, understood, taught, turned, returned",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Rain_Man-Barry_Morrow.epub",
+"storyAcıklama":"Charlie s father died. The son is sure that he will receive all his wealth in inheritance. His father is a millionaire and this money would change the life of a young businessman. But this does not happen. Charlie s brother receives the money. It is unexpected, as Charlie did not even know about the existence of his brother. It seems to Charlie unfair. Charlie s brother is not like other people. He has autism and lives in a hospital for the mentally ill. The young man decides to take his brother from the hospital and convince to give half the money to him. Charlie s brother is a brilliant mathematician. At the same time, he has the mind of a small child. He lives in his fictional world and is terrified of flying airplanes. As a result, the brothers make a car trip through the whole country.",
+"tag":"  office  business  house  police  nurse  children  fight  doctor  relationships  holiday  airport  photograph  music",
+"views":"13250"},
+ 
+ {"id":"77",
+"baslik":"Sister Love",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Sister_Love-John_Escott.jpg",
+"kategori":"1",
+"yazar":"John Escott",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FSister%20Love.mp3?alt=media&token=d4a4497f-fc36-4cbb-8ab9-369e46bf8110",
+"hardWord":"Text Analysis: Unique words: 431 Total words: 2704
+  
+Hard words: liked, answered, grey, suntanned, moved, worked, slipped, turned, suntan, opened, needed, stopped, fell, tried, shyly, drove, felt, looking, excitedly, going, bikini, said, cinema, angrily, slippery, saw, don, sleeping, umbrella, sunny",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Sister_Love-John_Escott.epub",
+"storyAcıklama":"Marcia met Howard when she was thirty-five years old. This accidental meeting occurred in the church. The man was six years older. He lived in a small house on the outskirts of the city with his old mother. Marcia lived in an apartment with her sister and father. The woman did not work anywhere. Her father was ill and had to sit in the apartment all the time. He spent his days in bed and could not be alone. Marcia looked after him all her free time. She could go out only when her sister was returning from work. The sister was ten years younger and looked very attractive: a good tan, long soft hair. Many men were interested in Karin, and Marcia always remained in the shadow. No one looked at her and no one wanted to meet or dine together.",
+"tag":"  house  work  accident",
+"views":"11184"},
  
  {"id":"76",
 "baslik":"The Hobbit",
@@ -182,7 +722,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Fiona Beddall",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FA%20History%20of%20Britain.mp3?alt=media&token=39696a4b-7ae2-439c-a602-eaf53b636f3d",
 "hardWord":"Text Analysis: Unique words: 1032 Total words: 7793
-
    queen, invaded, bengali, lord, pacific, bengal, scots, august, saxon, conquered, sicilian, conqueror, unlawful, scandinavian, townspeople, norman, welsh, unsuccessfully, anglo, defeated, unfairly, protector, farmland, unpopular, railway, luckily, grouping, nineteen, violently, scottish.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/A_History_of_Britain-Fiona_Beddall.epub",
 "storyAcıklama":"The Middle Ages were a dark period full of wars and violence. Time of kings, knights and castle sieges. The politicians were more brutal, but warlords and the kings led the armies into battle themselves. Everything started when king Edward died. He had no children, so there were no heirs. The elections took place. Harold was chosen to be the next king of the country. He was not a relative or friend of the late king. Lots of other powerful people also wanted such power. Soon the Norwegian army invaded this land. Edward's mother was from Norway, and Edward as a child also lived there. The Scandinavians believed they had more rights to the crown. King Harold died in battle. The well-known William the Conqueror became the next ruler of this land.",
@@ -347,7 +886,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Frank Brennan",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FOpen%20Doors.mp3?alt=media&token=29191d92-4fd4-47cd-9de6-c32123e48ca1",
 "hardWord":"Text Analysis: Unique words: 993 Total words: 5027
-
     queen, tended, newsdesk, ageing, colourful, honour, judging, motherly, bye, dishonesty, moustache, shyness, eyesight, lying, senseless, doorbell, truthful, further, spreading, progressively, congratulations, careless, armchair, pleasing, bandage, guaranteed, doubtful, quiz, tier, misunderstand, patiently.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Open_Doors-Frank_Brennan.epub",
 "storyAcıklama":"Kathy Paige was blind from her birth. The doctor's mistake cost her sight for the rest of the life. But that was a long time ago. Now Kathy is the most famous journalist of the British radio. She was loved by everyone for the mind, and tough, but honest interviews. Political and public figures received uncomfortable sharp questions and were forced to answer them. She had a quiet and calm voice that many men liked. Kathy spoke like a strict but caring mother. Despite this, the girl was really ruthless towards her opponents. Many politicians regretted they were relaxed due to her charming voice. Kathy could not see many tricks: gestures and facial expressions, which politicians like to use. She listened to the voice. The smart journalist learned to hear it better than many others.",
@@ -422,7 +960,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Roald Dahl",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FBeware%20of%20the%20Dog.mp3?alt=media&token=78c42b80-d629-41db-afcc-528fe8908370",
 "hardWord":"Text Analysis: Unique words: 705 Total words: 3629
-
    greyness, clearness, nailed, aeroplane, boned, spitfire, uncovered, imagining, hardness, whisky, separating, repeating, spinning, lying, whiteness, sill, balancing, fitting, ringing, tidy, parachute, managed, affected, guided, commanding, faded, exhausted, hopeless, raised, puzzled, cheerful.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Beware_of_the_Dog-Roald_Dahl.epub",
 "storyAcıklama":"The protagonist of this book was sitting in the cockpit. Below him there were dense white clouds. He was firmly holding the steering wheel, the plane flying smoothly. He told himself that everything was fine. A little more time - and he would fly to the house. He was definitely able to do it. He would land the plane and ask for help out, because he had no leg. Everyone would think that this was such a joke, but this was true. The pilot looked below: the floor was covered with blood, and he had nothing below the knee. The bullets tore off part of the right leg, but there was no pain. He felt fine, was awake and was not going to faint. But gradually the pilot started to weaken. Holding his head was getting harder, and it fell on the chest. The plane was flying at the height of seven kilometers and it was not the best moment for passing out.",
@@ -557,7 +1094,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Mark Twain",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Californian's%20Tale.mp3?alt=media&token=2cc0bc82-9dea-4f64-9ebf-8d16779154be",
 "hardWord":"Text Analysis: Unique words: 438 Total words: 1374
-
    yellowed, softness, sweetness, nineteen, whiskey, canned, sorrow, lively, miner, mining, fireplace, grind, loving, satisfied, rug, regret, pat, firmly, forty, guitar, midnight, gentle, shine, brush, asleep, fifty, shelf, rub, mainly, stranger, darkness.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Californians_Tale-Mark_Twain.epub",
 "storyAcıklama":"In his youth, the protagonist of this story decided to get rich quickly and went looking for gold in California. He really became rich, but it was not the most important accomplishment. He also discovered beautiful lands that looked like a real paradise. There were green fresh forests, hills and clean rivers. Cool air and wonderful climate. This place was found by other gold seekers earlier; he was not the first. These people built a small cozy town. There were real schools and banks. Also there were many shops and comfortable family houses for residents. It was a very nice place. At first everything was fine, but then the gold reserves became less and less. The natural goldmine dried up. By the time the main character of the story reached this city, the inhabitants had left it.",
@@ -617,7 +1153,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Lauri Kubuitsile",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FA%20Pot%20Full%20of%20Tears.mp3?alt=media&token=01c1b7a1-be24-409f-b2d2-3e7fd18a0357",
 "hardWord":"Text Analysis: Unique words: 269 Total words: 889
-
    steaming, smoky, barren, curved, grandson, perfume, goodbye, loving, thief, eyebrow, lamp, sum, blanket, flame, hungry, loud, rice, stranger, cheek, wooden, smell, luck, pot, lock, lucky, scream, escape, secret, comfortable, expensive, belong.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/A_Pot_Full_of_Tears-Lauri_Kubuitsile.epub",
 "storyAcıklama":"Luck is such a thing that you will not get for a long time. Sometimes it comes, quickly and unexpectedly. It disappears even faster. Some women dream of children, but cannot have them. Others have many children, but do not have enough money to feed and maintain them. Some families have children and love them, while other children will never see their parents. They are forced to live and grow in orphanages. But how to understand which of them are more fortunate? A lonely old man is sitting in a small room. He is silent. He is looking at the old wooden floor. A woman is sitting in the next room. She does not live in this house; she looks completely different. The smell of her expensive perfume does not fit this poor house. There is a scream. And in a few minutes the woman takes out the baby wrapped in a blanket from the room.",
@@ -692,7 +1227,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Frank Brennan",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FThe%20Book%20of%20Houghts.mp3?alt=media&token=85917376-c83e-484a-8ff4-f9de1fd66353",
 "hardWord":"Text Analysis: Unique words: 721 Total words: 3613
-
    tike, undercooked, takeaway, cookery, sociable, yellowed, smartly, rubbish, judgement, mum, alarmed, typing, handbag, congratulations, annoy, cupboard, aged, congratulate, cinema, jealousy, exhausted, bill, briefcase, eighty, cheerful, deepest, squash, dislike.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Book_of_Houghts-Frank_Brennan.epub",
 "storyAcıklama":"On this day, Chester felt much even more tired than on any other day before. These eight hours in the office took a lot of energy. Chester is one of the junior managers in the large company in Singapore. This is a good position, but it includes a lot of extra work, small assignments and tasks. Other employees did not like him, as Chester recently graduated from the university and immediately started working in a good position. Many others have worked for years without any promotions. He understood this and did not take offense at the ironic smiles and small jokes. But it did not make life easier. He needed reliable colleagues. He wanted to be sure that the personal dislikes of these people would not hinder his work. Chester was very well aware that without reliable subordinates he would never get promoted.",
@@ -858,7 +1392,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Clemen D. B. Gina",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FAlien%20Alert%20in%20Seattle.mp3?alt=media&token=348ccede-0ff8-46d0-804d-259691e3033f",
 "hardWord":"Text Analysis: Unique words: 879 Total words: 6365
-
   Hard words: newsreader, intergalactic, august, airfield, emerald, ufo, alright, cascade, spaceship, lunchtime, janitor, cupboard, chemist, sighting, wig, divorced, volleyball, chemotherapy, climbing, constellation, cafeteria, hobby, astronomy, bald, terrify.",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Alien_Alert_in_Seattle-Clemen_D_B_Gina.epub",
 "storyAcıklama":"This is the mountain range called Cascade. It is located in the county seat of Seatal, Washington. At first glance, this is an extremely inappropriate place for an alien spacecraft to appear. But once a mysterious flying object is seen by the locals. No one believes in such nonsense. Aliens from another planet are in the United States? It is more like a cheap science fiction movie! Still the residents are excited by this news. Later the trinity of good inseparable friends and classmates - Barbara, Karen and Walter notice that one of the teachers in their high school is starting behaving extremely strange. Young, but extremely smart guys begin an independent investigation and soon they discover a very unexpected truth.",
@@ -873,7 +1406,6 @@ recognised, eagle, unzipped, tapped, tucked, sounded, pushed, organised, aaaah, 
 "yazar":"Margaret Mitchell",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FGone%20with%20the%20Wind.mp3?alt=media&token=f252e486-0f47-43c9-89ff-eab04f7f74af",
 "hardWord":"Text Analysis: Unique words: 1436 Total words: 15358
-
  Hard words: conning, solider, nastily, jewellery, typhoid, neighbourhood, wading, prissy, august, unselfish, milking, strangenes shelling, careen, moustache, quicknes foolishnes cowardly, punishing, lying, blackened, stiffly, uncomfortably, fright, insulting, lovingly, touring",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Gone_with_the_Wind-Margaret_Mitchell.epub",
 "storyAcıklama":"It is a love story, which conquered the whole world and became the benchmark of romance and true feelings. The main character is flirtatious green-eyed Scarlett. She captivated hearts of many men. Her mind, charm, courage and strength of spirit cannot but attract attention. In spite of a huge popularity, she loves only Ashley Wilkes. One day she met a daring and rude, strong, handsome and charming Captain Butler. Scarlett did not like him as he was arrogant and mocked her. Captain Butler fell in love with her at first sight. Later a civil war between the North and the South starts. Scarlett would change and stop thinking only about men and dresses. She would become a strong, powerful woman and take responsibility for her loved ones.",
@@ -1144,7 +1676,6 @@ Hard words: queen, goddess, skeleton, frighten, clever, wolf, tightly, sword, sc
 "yazar":"J. M. Barrie",
 "sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2FPeter%20Pan.mp3?alt=media&token=129f4dd3-781e-4f4c-a0c9-de81f1592b20",
 "hardWord":"Text Analysis: Unique words: 543 Total words: 3182
-
   
   Hard words: tink, tootle, colourful, nib, bay, courageously, soiled, mermaid, horrid, kennel, maroon, jolly, desolate, wag, tinker, crocodile, lagoon, kite, folly, curly, bedtime, nanny, plank, paw, tick",
 "storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Peter_Pan-J_M_Barrie.epub",

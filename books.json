@@ -16,13 +16,28 @@
 
 {"meditasyonlar":[ 
  
+  {"id":"117",
+"baslik":"A Connecticut Yankee In King Arthur's Court",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/A_Connecticut_Yankee_In_King_Arthurs_Court-Mark_Twain.jpg",
+"kategori":"3",
+"yazar":"Mark Twain",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/A%20Connecticut%20Yankee.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 1057 Total words: 6371
+   
+Hard words: stabbed, pushed, queen, attacked, refused, insulted, electrocuted, civilised, armour, liked, answered, jousting, grey, moved, passed, pigsty, staying, chained, honourable, discovered, worked, lord, believing, bowing, lit, kept, stole, repaired, arriving, shouted",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/A-Connecticut-Yanke.epub",
+"storyAcıklama":"The protagonist of this story is a typical Yankee. He is smart and businesslike. Once in a fight someone hits him in the head. Then he wakes up in the days of King Arthur. The man is taken as a prisoner by a knight whom he initially considers to be an ordinary madman. Now the Yankee is in the castle, where aristocrats and knights are feasting. He learns that it is 528 AD. The knights sentence the Yankee to death. The poor man remembers that there must be a solar eclipse on this day. Using this natural phenomenon, the Yankee pretends to be a powerful magician. The medieval knights are very impressed. They promise him a post of minister. Gradually, the Yankee begins to use his knowledge from the future to strengthen his power. Gunpower, lightning rod and other devices terrify the inhabitants of the castle.",
+"tag":"king  court  factory  asylum  prison  magic  dream  escape  children  journalist  work  holiday  school  crime  family  suffering  knight  journey  short  future  house  couple  fight  business  suicide  police  shot  health  disaster  revolution",
+"views":"3360"},
+ 
  {"id":"116",
 "baslik":"Amazing Women",
 "aciklama":"A2 Elementary",
 "thumbnail":"https://english-e-reader.net/covers/Amazing_Women-Helen_Parker.jpg",
 "kategori":"2",
 "yazar":"Helen Parker",
-"sesdosyasi":"https://github.com/Boga28/Audio/raw/main/Stories/Amazing%20Women%20by%20Helen%20Parker.lite.mp3",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Amazing%20Women%20by%20Helen%20Parker.lite.mp3",
 "hardWord":"Text Analysis: Unique words: 1082 Total words: 8570
   
 Hard words: queen, attacked, refused, parents, maths, harbour, moved, delivered, copied, discovered, worked, punished, argentinian, honour, lit, stole, designed, arriving, allowed, nursemaid, travelling, realized, peronist, nominated, arrested, worse, understood, taught, returned, owned",

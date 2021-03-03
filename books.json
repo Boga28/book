@@ -1,5 +1,5 @@
  /* {"meditasyonlat":[
- {"id":"11",
+ {"id":"12",
 "baslik":"",
 "aciklama":"",
 "thumbnail":"",
@@ -15,6 +15,21 @@
    }*/
 
 {"meditasyonlar":[ 
+ 
+ {"id":"120",
+"baslik":"The Time Trippers",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Time_Trippers-Maria_Jack.jpg",
+"kategori":"3",
+"yazar":"Maria Jack",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Time_Trippers-Maria_Jack.mp3",
+"hardWord":"Text Analysis: Unique words: 1292 Total words: 11103
+  
+Hard words: recognised, pushed, pottage, starred, surrounded, ducking, portcullis, parents, matt, tracksuit, liked, answered, grey, ignored, moved, passed, nastily, removed, yuk, lord, joking, picked, catching, shouted, barbarity, threateningly, favour, lunchbox, surfing",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Time_Trippers_by_Maria_Jack.epub",
+"storyAcıklama":"Matt Johnson woke up from the same nightmare again. He had not slept well for a month and a half. This dream haunting him is incredibly realistic. His parents are in the car. They look happy. They are talking about the upcoming vacation in the summer: two weeks in Florida - there they plan to visit Disney World. Suddenly the car loses control. The man is a very experienced driver, but even he cannot cope. Everything happens too fast. The big tree is ahead. Hit! One can hear the sound of crushing metal. After this, there is silence. Only the car is lying on its roof. Every night the boy wakes up screaming and cannot believe that this really happened. The parents died in that terrible accident. Now he is an orphan. The boy got out of the bed. He could not sleep anymore that night.",
+"tag":"science fiction",
+"views":"9243"},
  
   {"id":"119",
 "baslik":"A Fishy Story",

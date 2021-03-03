@@ -16,6 +16,36 @@
 
 {"meditasyonlar":[ 
  
+ {"id":"123",
+"baslik":"The Swiss Family Robinson",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Swiss_Family_Robinson-Wyss_Johann.jpg",
+"kategori":"3",
+"yazar":"Wyss Johann",
+"sesdosyasi":"https://media.githubusercontent.com/media/Boga28/AudiosLFS/main/Stories/The_Swiss_Family_Robinson.mp3",
+"hardWord":"Text Analysis: Unique words: 937 Total words: 12749
+  
+Hard words: pearl, sailcloth, nailed, plough, sledge, uncovered, gunpowder, smelly, lying, shellfish, firewood, stormy, mend, donkey, salty, paddle, midday, windy, bamboo, luckily, sunshine, rainy, planting, daytime, gardening, answering, coconut, canoe, seventeen, lazy.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Swiss_Family_Robinson.epub",
+"storyAcıklama":"The priest created this book two centuries ago. He wrote this work to educate his own children. The book had to instill the family values and explain to them how to treat land. It taught to be conscious and sympathetic. The story begins with one family. They go out on the voyage. The ship is caught in a storm and the family manages to get to an uninhabitable tropical island. The husband, the wife and four sons survive. What should they do now? How will they make a living? What will they eat? The family makes a temporary camp and starts exploring the island. They are searching for some remaining items from the ship that might be useful to them. The findings will facilitate life on the island. The parents have farming and housekeeping skills. Still the family faces the same problem. How long will they have to stay on the island?",
+"tag":" sea-story  family  surviving  island  adventure",
+"views":"23028"},
+ 
+ {"id":"122",
+"baslik":"The Incredible Journey",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Incredible_Journey-Burnford_Sheila.jpg",
+"kategori":"3",
+"yazar":"Burnford Sheila",
+"sesdosyasi":"https://media.githubusercontent.com/media/Boga28/AudiosLFS/main/Stories/The_Incredible_Journey.lite.mp3",
+"hardWord":"Text Analysis: Unique words: 1162 Total words: 14605
+  
+Hard words: wagging, treehouse, shakily, hungrily, siamese, imagining, firelight, friendliness, lazily, hilly, terrier, retriever, lovable, heron, meaty, schoolhouse, lying, purposefully, skillfully, aching, purposeful, uncomfortably, twelfth, skillful, finnish, lovingly, undress, wag.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Incredible_Journey.epub",
+"storyAcıklama":"Not only people can be fearless before setting off on a great adventure. A cat and two dogs find the right time to run away from their new owner's house. A long journey of hundreds kilometers through the Canadian woods is waiting for them. They will meet many wild animals on their way. They will meet friendly and not very friendly people with their pets. The runners will get into various kinds of troubles and barely manage to escape unhurt. Even though the animals get some help, nobody knows, what is to happen to our helpless heroes. Still neither hunger nor exhaustion can stop them. Only these two dogs and the cat know where they are heading. One definite purpose is leading them. What should their owners expect, just coming home to an empty house from England?",
+"tag":"adventure",
+"views":"21173"},
+ 
  {"id":"121",
 "baslik":"The Jacket",
 "aciklama":"B1 Pre-Intermediate",

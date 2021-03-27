@@ -1,5 +1,5 @@
  /* {"meditasyonlat":[
- {"id":"12",
+ {"id":"13",
 "baslik":"",
 "aciklama":"",
 "thumbnail":"",
@@ -15,6 +15,36 @@
    }*/
 
 {"meditasyonlar":[ 
+ 
+ {"id":"131",
+"baslik":"Ireland",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Ireland-Tim_Vicary.jpg",
+"kategori":"3",
+"yazar":"Tim Vicary",
+"sesdosyasi":"https://media.githubusercontent.com/media/Boga28/AudiosLFS/main/Stories/Ireland.mp3",
+"hardWord":"Text Analysis: Unique words: 944 Total words: 6194
+  
+Hard words: harbour, jewellery, colourful, lord, craw, boomtown, churchman, celt, unionist, gaelic, defence, causeway, titanic, wheelbarrow, loyalist, celtic, shipyard, marching, cork, stony, mussels, centimeter, thirsty, norwegian, hound, windy, monastery, pub, nationalist.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Ireland.epub",
+"storyAcıklama":"This book will introduce Ireland to you. This country is incredibly beautiful. There are many mountains and rivers. One can see emerald greenery there. Certainly, you have heard that the Irish are the most drinking people in Europe. That they are the descendants of the redheaded Celts. You have also heard about the Irish step and the pubs. There are lots of famous Irishmen. The book contains an overview on geography, sport, history, religion, language, music, dance and wars. It includes the descriptions of the most significant cities. The material is presented in a fascinating form as an experienced teacher created this book. The author teaches the course on 'Northern Ireland' at the university. This writer is famous not only for writing historical novels but also for criminal ones. His books are very popular among the English learners.",
+"tag":"historical  myth  nature",
+"views":"31890"},
+ 
+ {"id":"130",
+"baslik":"Five Famous Fairy Tales",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Five_Famous_Fairy_Tales-Hans_Christian_Andersen.jpg",
+"kategori":"3",
+"yazar":"Hans Christian Andersen",
+"sesdosyasi":"https://media.githubusercontent.com/media/Boga28/AudiosLFS/main/Stories/Five_Famous_Fairy_Tales.mp3",
+"hardWord":"Text Analysis: Unique words: 644 Total words: 9549
+  
+Hard words: queen, nightdress, goodnight, jack, donkey, cutter, bob, fairy, jealous, jewel, daylight, goodbye, grind, excite, clever, sometime, fisherman, jar, servant, magic, shine, dear, lovely, cooking, ugly, twelve, hungry.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Five_Famous_Fairy_Tales.epub",
+"storyAcıklama":"The first story tells us about a woman who had three sons. They lived in the village. The family was poor but happy. So the boys found a job. They received magical things as a salary. In the second story, you will learn about an evil queen, who had the most beautiful daughter in the world. The Queen didn't want to let her young princess get married. She just enjoyed the girl's torment. One day, a resourceful Prince appeared. The third story is about a poor man named Hans. He was happy and very cheerful until he met a witch. In the fourth story you will read about a fisherman who was poor and couldn't catch enough fish to feed his family. Once he got lucky. In the fifth story the main character is a king with ten sons and one daughter. Unfortunately his wife died. Soon a wicked stepmother came to the royal family.",
+"tag":"family  children-literature  collection  fairy-tale",
+"views":"239521"},
  
  {"id":"129",
 "baslik":"Blue Moon Beach",

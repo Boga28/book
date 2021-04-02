@@ -16,6 +16,19 @@
 
 {"meditasyonlar":[ 
  
+  {"id":"132",
+"baslik":"Black Beauty",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://raw.githubusercontent.com/Boga28/book/master/pics/Black-Beauty.jpg",
+"kategori":"2",
+"yazar":"Anna Sewell",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Black_Beauty.mp3",
+"hardWord":"Text Analysis: Unique words: 458 Total words: 1798",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Black_Beauty.epub",
+"storyAcıklama":"Black Beauty spends his youth in a loving home, surrounded by friends and cared for by his owners. But when circumstances change, he learns that not all humans are so kind. Passed from hand to hand, Black Beauty witnesses love and cruelty, wealth and poverty, friendship and hardship . . . Will the handsome horse ever find a happy and lasting home? Carefully retold in clear contemporary language, and presented with delightful illustrations, these favorite classic stories capture the heart and imagination of young readers. By retelling the story in a shorter, simpler form, these books become highly engaging for children, and the color illustrations help with both comprehension and interest level. Black Beauty is part of a collectible series that has strong gift appeal.",
+"tag":"Classic",
+"views":"5142"},
+ 
  {"id":"131",
 "baslik":"Ireland",
 "aciklama":"B1 Pre-Intermediate",

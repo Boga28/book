@@ -14,7 +14,22 @@
        ]
    }*/
 
-{"meditasyonlar":[ 
+{"meditasyonlar":[
+ 
+ {"id":"133",
+"baslik":"Originals",
+"aciklama":"C1 Advanced",
+"thumbnail":"https://english-e-reader.net/covers/Originals-Adam_Grant.jpg",
+"kategori":"7",
+"yazar":"Adam Grant",
+"sesdosyasi":"https://media.githubusercontent.com/media/Boga28/AudiosLFS/main/Stories/Originals.mp3",
+"hardWord":"Text Analysis: Unique words: 2627 Total words: 28474
+  
+Hard words: correcting, stopping, pearl, pushed, queen, inventing, judged, attacked, promoted, refused, avoided, parents, replaced, interviewed, discussed, disliked, liked, groupthink, answered, questioned, moved, delivered, hurting, bringing, achieved, studying, carried, wasting, worst, discovered",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Originals.epub",
+"storyAcıklama":"How much does a good idea cost? Is it itself valuable? Or is it only monetary resources, valuable connections and sales that matter? Adam Grant provides answers to these questions in his book. The reader will find interesting studies and amazing stories from business and lives of many people. The author does not miss the sphere of sports, entertainment, politics and big business. Adam tells how not to miss the most successful idea. In addition, he talks about how to choose the right allies to implement ideas. How to listen to your partners and choose the right time for realization. The techniques from the book are suitable for teachers and parents who want to develop skills of their children. By reading this book, you will learn from the most successful entrepreneurs of recent years.",
+"tag":"business work  technology  business  accident  health  doctor  children  school  future  university  family  music  science  culture  computers  factory  dream  competition  surviving  government  relationships  journalist  politics  nurse  escape",
+"views":"1148"},
  
   {"id":"132",
 "baslik":"Black Beauty",

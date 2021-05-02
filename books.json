@@ -16,6 +16,21 @@
 
 {"meditasyonlar":[
  
+ {"id":"141",
+"baslik":"Private",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Private-James_Patterson.jpg",
+"kategori":"3",
+"yazar":"James Patterson",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Private.mp3",
+"hardWord":"Text Analysis: Unique words: 644 Total words: 6557
+  
+Hard words: pushed, liked, answered, worked, shouted, held, turned, caught, remembered, helped, played, pulled, opened, sending, needed, stopped, bot, fell, morbid, drove, mum, looking, spoke, handbag, wanted, jack, boulevard, going, trusted, gateway",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Private.epub",
+"storyAcıklama":"Are you used to the fact that your personal life belongs only to you and is a secret? You can communicate with anyone you want, visit any place and you do not have to worry what others will think. But this book will be able to change your view. Jack has a very interesting job. He is a forensic expert. There are no secrets from him. He is investigating the most complex cases with the help of new technologies. Now he is working on a case involving the murder of eighteen schoolgirls and a scandal worth tens of millions of dollars. But suddenly Jack learns the terrible news - the wife of his best friend has been killed. The woman was also his lover. The man forgets about everything and starts looking for the killer. But this decision can lead to some serious consequences.",
+"tag":"house  shot  police  doctor  work  office  family  computers  school  airport  farm",
+"views":"1069"},
+ 
   {"id":"140",
 "baslik":"Your Body",
 "aciklama":"A1 Starter",

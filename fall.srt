@@ -1,6 +1,7 @@
 {"SRT":[
 {"id":"1",
-"srtText":"basla
+"srtText":"
+basla
 1
 00:00:00,120 --> 00:00:00,210
 The

@@ -2,6 +2,7 @@
   {"id":"1",
    "header":"Virus, Technology, Unrest Make a Stressful Year for US Teachers",
    "image":"https://gdb.voanews.com/837822D1-5F4E-4CCA-B6DA-1B7544AF3AB7_w1023_r1_s.jpg",
+   "imageCaption":"",
    "authorImage":"",
    "metin":"Ana Saul Romero has seen many changes in teaching methods, testing, and technology during her forty years as a teacher. But this year, she said, has given her a lifetime’s worth of changes.
 
@@ -51,6 +52,7 @@ I’m Jill Robbins.",
    "subtitle":"https://raw.githubusercontent.com/Boga28/book/master/Test/subtitle.srt",
    "hardWord":"",
    "authorName":"Jill Robbins",
+   "channel":"",
    "audio":"https://raw.githubusercontent.com/Boga28/book/master/Test/tech.mp3",
    "audioLength":"5:36",
    "category":"",

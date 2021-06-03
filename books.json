@@ -1,5 +1,5 @@
  /* {"meditasyonlat":[
- {"id":"14",
+ {"id":"15",
 "baslik":"",
 "aciklama":"",
 "thumbnail":"",
@@ -15,6 +15,21 @@
    }*/
 
 {"meditasyonlar":[
+ 
+ {"id":"149",
+"baslik":"The Woman Who Disappeared",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/The_Woman_Who_Disappeared-Philip_Prowse.jpg",
+"kategori":"2",
+"yazar":"Philip Prowse",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Woman_Who_Disappeared.mp3",
+"hardWord":"Text Analysis: Unique words: 1049 Total words: 13192
+  
+Hard words: attorney entrance, neat, wardrobe, wipe, cheer, argument, plug, dial",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Woman_Who_Disappeared.epub",
+"storyAcıklama":"The simple, ironic detective story will take your attention in West Los-Angeles in the office of the private eye Lenny Samuel. Once in the door of his office had knocked beautiful blonde woman Helen Garfield, his life became much dangerously. Woman wanted to find her sister Elaine Garfield. They were twins. Elaine disappeared a week ago, sisters had arranged to have dinner together, but Elaine didn’t come. She didn’t answer the telephone. She didn’t come at work, she lift it suddenly in the middle of the day without telling anyone the day before. And of course Helen didn’t find sister in her flat, there was no one there when she came. Such strange behavior wasn’t usual for Elaine, so maybe poor girl was in danger.",
+"tag":"dedective investigation  jewels  ironic",
+"views":"3637"},
  
  {"id":"148",
 "baslik":"The Extraordinary Miss Sunshine",

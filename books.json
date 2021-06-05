@@ -16,6 +16,21 @@
 
 {"meditasyonlar":[
  
+ {"id":"150",
+"baslik":"Alice in Wonderland",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Alice_in_Wonderland-Lewis_Carroll.jpg",
+"kategori":"3",
+"yazar":"Lewis Carroll",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Alice_in_Wonderland_by.mp3",
+"hardWord":"Text Analysis: Unique words: 595 Total words: 7377
+  
+Hard words: queen, hatter, knave, schoolbook, duchess, hungrily, teacup, madam, hare, caterpillar, fifteenth, unimportant, fourteenth, centimeter, sixteenth, caucus, sleepy, bored, loudly, goodbye, fireplace, polite, grind, sixteen, clever, sunny, pat, rabbit, mushroom.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Alice_in_Wonderland_by.epub",
+"storyAcıklama":"The world-famous fairy tale was written by an English writer and mathematician in 1865. This book is one of the best examples of nonsense literature. In the fairy tale, the reader can see dozens of complicated philosophical, mathematical and linguistic jokes. In this story, we can find many interesting hidden meanings. The girl Alice spends her time on the river bank. She is bored. Suddenly she sees a strange white rabbit. The small animal has a big pocket watch in his paws and he is in a hurry. Alice follows the rabbit and falls into a hole. The curious girl finds herself in a phantasmagoric world inhabited by many anthropomorphic creatures. And this is only the beginning of her unusual, strange and surprising adventures.",
+"tag":"fairy-tale  children-literature  fantasy  filmed",
+"views":"44290"},
+ 
  {"id":"149",
 "baslik":"The Woman Who Disappeared",
 "aciklama":"A2 Elementary",

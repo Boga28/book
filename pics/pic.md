@@ -1,0 +1,2 @@
+pics of stories
+thumbsnail

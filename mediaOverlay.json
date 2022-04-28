@@ -1,17 +1,9 @@
-"meditasyonlar": [
+"mediaOverlay": [
 {
 "id": "211",
 "baslik": "The Blue Scarab",
-"aciklama": "A2 Elementary",
-"thumbnail": "https://english-e-reader.net/covers/The_Blue_Scarab-Jenny_Dooley.jpg",
-"kategori": "3",
-"yazar": "Jenny Dooley",
+"subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/empty.srt",
 "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Blue_Scarab.mp3",
-"hardWord": "Text Analysis: Unique words: 893 Total words: 5196\n\n\tHard words: influencing, lazuli, jewellery, colourful, scarab, birthmark, lather, dividing, gravestone, salesperson, fixing, knocking, shelve, boating, disappearing, judgement, gypsy, beep, alright, ra connecting, jack, lemonade, eyepiece, promised",
-"storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/The_Blue_Scarab.epub",
-"storyAcıklama": "Monica was walking down the streets in Cairo. She came to a fantastic place. It was a shop selling the presents. It had an exciting decor creating an Asian dream, some kind of an Arabian fairytale. The shop was full of different colourful things and perfect good. Strange, but the shop was empty. There were no customers and even salesmen. Monica found a necklace with a blue stone among the goods. A woman in red appeared from nowhere. She told Monica about the stone, which turned out to be an Egyptian scarab. The woman took the girl to another place outside the shop. She treated Monica to a cup of tea and told her the story of the stone. It was used for making the gods statues so it has a mystical strength. Monica felt tired. She fall asleep and saw her late father in a dream.",
-"tag": "Egypt  magic  mystic  mystery  hypnosis  jewels",
-"views": "11240"
 },
 {
 "id": "210",

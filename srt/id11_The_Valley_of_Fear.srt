@@ -1,0 +1,4038 @@
+1
+00:00:00,250 --> 00:00:03,000
+PART ONE
+CHAPTER ONE
+
+2
+00:00:03,000 --> 00:00:04,000
+A Warning
+
+3
+00:00:04,000 --> 00:00:14,410
+A letter arrived for Sherlock Holmes. We were
+sitting in our rooms at 221b Baker Street.
+
+4
+00:00:14,410 --> 00:00:18,820
+'It's Porlock's writing,' he said. 'It must
+be very important.'
+
+5
+00:00:18,820 --> 00:00:21,640
+'Who is Porlock?' I asked.
+
+6
+00:00:21,640 --> 00:00:26,790
+'Porlock is just a name: it's not his real
+one. He is a man who is in touch with the
+
+7
+00:00:26,790 --> 00:00:32,730
+great criminal mastermind, Professor Moriarty.
+You've heard me talk about him?'
+
+8
+00:00:32,730 --> 00:00:37,050
+'Yes, he's famous among criminals but unknown
+to the public.'
+
+9
+00:00:37,050 --> 00:00:44,920
+That's right. He's the "brain" that controls
+all crime; we'll catch him one day, Watson.'
+
+10
+00:00:44,920 --> 00:00:48,450
+'Anyway, what about this letter and Porlock?'
+
+11
+00:00:48,450 --> 00:00:53,969
+'He works for Professor Moriarty. He has sent
+me information twice before which has helped
+
+12
+00:00:53,969 --> 00:00:56,120
+to prevent crimes.'
+
+13
+00:00:56,120 --> 00:01:02,039
+Holmes opened the letter and read it. The
+message said that a man called Douglas at
+
+14
+00:01:02,039 --> 00:01:05,830
+Birlstone Manor House was in great danger.
+
+15
+00:01:05,830 --> 00:01:11,600
+There was a knock at the door and Inspector
+MacDonald of Scotland Yard walked in. Holmes
+
+16
+00:01:11,600 --> 00:01:13,250
+looked pleased to see him.
+
+17
+00:01:13,250 --> 00:01:15,890
+'You're out early,' he said.
+
+18
+00:01:15,890 --> 00:01:20,970
+But the inspector had stopped suddenly. He
+was staring at the message.
+
+19
+00:01:20,970 --> 00:01:30,380
+'Douglas! Birlstone? What's this, Mr Holmes?
+Magic? How did you get those names?'
+
+20
+00:01:30,380 --> 00:01:34,520
+'Why?' asked Holmes. 'What's wrong with those
+names?'
+
+21
+00:01:34,520 --> 00:01:40,720
+'Mr Douglas of Birlstone Manor House was murdered
+this morning.'
+
+22
+00:01:40,720 --> 00:01:46,780
+Sherlock Holmes explained to the inspector
+how he had just received the letter.
+
+23
+00:01:46,780 --> 00:01:55,520
+'I was on my way to Birlstone,' said the inspector.
+'I came to ask if you and Doctor Watson wanted
+
+24
+00:01:55,520 --> 00:02:02,040
+to come with me but, from what you say about
+this Porlock, we'll find out more in London.'
+
+25
+00:02:02,040 --> 00:02:05,439
+'I don't think so,' said Holmes.
+
+26
+00:02:05,439 --> 00:02:11,500
+'Well, if there's a man in London who knew
+about the crime before it happened, then we
+
+27
+00:02:11,500 --> 00:02:12,920
+need to find him!'
+
+28
+00:02:12,920 --> 00:02:19,430
+'And how do you suggest we find Porlock?'
+asked Holmes. 'I don't know him, I've never
+
+29
+00:02:19,430 --> 00:02:26,820
+seen him, I don't know where he is and, what's
+more, I know that Professor Moriarty is involved.
+
+30
+00:02:26,820 --> 00:02:33,310
+We'll find nothing in London, MacDonald, we
+must go to Birlstone to solve this crime.'
+
+31
+00:02:33,310 --> 00:02:35,390
+The inspector stood up.
+
+32
+00:02:35,390 --> 00:02:40,560
+'Let's go. Can you be ready in five minutes?'
+
+33
+00:02:40,560 --> 00:02:45,330
+On our way down to Birlstone, the inspector
+told us what he knew about the case, which
+
+34
+00:02:45,330 --> 00:02:51,750
+was not very much. John Douglas of Birlstone
+Manor House was shot in the head with a shotgun.
+
+35
+00:02:51,750 --> 00:02:57,750
+It happened at around midnight the night before.
+The police had not yet arrested anyone.
+
+36
+00:02:57,750 --> 00:03:03,540
+Birlstone was a small village in Sussex. About
+half a mile from the village was the Manor
+
+37
+00:03:03,540 --> 00:03:10,800
+House of Birlstone. It was a very old house,
+built in the seventeenth century. A moat surrounded
+
+38
+00:03:10,800 --> 00:03:16,970
+the house. The only way to get into the house
+was over the drawbridge. This drawbridge was
+
+39
+00:03:16,970 --> 00:03:23,290
+raised every night and lowered every morning
+by the owners of the Manor House. This meant
+
+40
+00:03:23,290 --> 00:03:29,410
+that the house was like an island during the
+night. This was a very important fact in the
+
+41
+00:03:29,410 --> 00:03:32,209
+mystery at Birlstone.
+
+42
+00:03:32,209 --> 00:03:38,170
+The owners were Mr John Douglas and his wife.
+Douglas was a handsome American man about
+
+43
+00:03:38,170 --> 00:03:44,580
+fifty years old. He was popular in the village
+because he was friendly and also rich. He
+
+44
+00:03:44,580 --> 00:03:50,850
+had earned his money in California, then came
+to live in England, where he met his wife.
+
+45
+00:03:50,850 --> 00:03:57,319
+Mrs Douglas was a beautiful woman, about twenty
+years younger than her husband. They were
+
+46
+00:03:57,319 --> 00:04:02,939
+very happy together, although it seemed that
+Mrs Douglas did not know everything about
+
+47
+00:04:02,939 --> 00:04:05,390
+her husband's past.
+
+48
+00:04:05,390 --> 00:04:09,910
+There was one other person who often stayed
+with the couple and was also at the Manor
+
+49
+00:04:09,910 --> 00:04:16,709
+House at the time of the murder. His name
+was Cecil Barker. He was a good friend of
+
+50
+00:04:16,709 --> 00:04:23,710
+John Douglas and was the only person from
+Douglas's unknown past life. Although Barker
+
+51
+00:04:23,710 --> 00:04:29,860
+was English, he had met John Douglas in America.
+Barker was friendly with both Douglas and
+
+52
+00:04:29,860 --> 00:04:37,660
+his wife. Sometimes his friendship with Mrs
+Douglas seemed to irritate John Douglas. The
+
+53
+00:04:37,660 --> 00:04:42,889
+other people who were in the house at the
+time of the murder were Ames the butler and
+
+54
+00:04:42,889 --> 00:04:45,000
+Mrs Allen the housekeeper.
+
+55
+00:04:45,000 --> 00:04:52,240
+It was at eleven forty-five at night on 6th
+January that Cecil Barker told Sergeant Wilson
+
+56
+00:04:52,240 --> 00:04:58,360
+at the local police station that someone had
+murdered Mr John Douglas.
+
+57
+00:04:58,360 --> 00:05:03,180
+When he reached the house, Sergeant Wilson
+found the drawbridge down and everyone was
+
+58
+00:05:03,180 --> 00:05:10,770
+confused and alarmed. Only Cecil Barker seemed
+calm and in control.
+
+59
+00:05:10,770 --> 00:05:16,630
+The dead man was in the center of the room,
+lying on his back. The shotgun was lying on
+
+60
+00:05:16,630 --> 00:05:24,030
+his chest; the end of the gun was sawn off.
+The murderer had fired the gun very close
+
+61
+00:05:24,030 --> 00:05:31,070
+to his victim and the shot had almost blown
+his head to pieces. The doctor was called
+
+62
+00:05:31,070 --> 00:05:33,290
+but he knew there was nothing he could do.
+
+63
+00:05:33,290 --> 00:05:37,570
+The country policeman was not used to such
+serious crime.
+
+64
+00:05:37,570 --> 00:05:42,660
+'We won't touch anything until the officers
+from London arrive,' he said.
+
+65
+00:05:42,660 --> 00:05:49,570
+'I haven't touched anything,' said Cecil Barker.
+'This is exactly as I found it. It was just
+
+66
+00:05:49,570 --> 00:05:54,770
+after half past eleven and I was sitting in
+my bedroom when I heard the shot. It wasn't
+
+67
+00:05:54,770 --> 00:05:57,100
+very loud. I rushed down.'
+
+68
+00:05:57,100 --> 00:05:58,550
+'Was the door open?'
+
+69
+00:05:58,550 --> 00:06:04,500
+'Yes, it was open. Douglas was lying just
+as you see him now. There was a candle burning
+
+70
+00:06:04,500 --> 00:06:06,720
+on the table. I lit the lamp.'
+
+71
+00:06:06,720 --> 00:06:08,479
+'Did you see anyone?'
+
+72
+00:06:08,479 --> 00:06:14,680
+'No, I heard Mrs Douglas coming down the stairs
+behind me and I rushed out to stop her from
+
+73
+00:06:14,680 --> 00:06:16,680
+seeing this terrible sight.'
+
+74
+00:06:16,680 --> 00:06:19,270
+'But wasn't the drawbridge raised as usual?'
+
+75
+00:06:19,270 --> 00:06:23,450
+'Yes, it was up until I lowered it,' said
+Barker.
+
+76
+00:06:23,450 --> 00:06:27,030
+'Then how could the murderer have got away?'
+
+77
+00:06:27,030 --> 00:06:35,060
+'Look.' Barker pulled back the curtain. One
+of the windows was wide open. 'Look at this.'
+
+78
+00:06:35,060 --> 00:06:40,780
+He pointed to a blood stain that was shaped
+like a footprint. 'Someone has climbed out
+
+79
+00:06:40,780 --> 00:06:41,780
+here.'
+
+80
+00:06:41,780 --> 00:06:45,039
+'You think that someone waded across the moat?'
+
+81
+00:06:45,039 --> 00:06:46,039
+'Exactly.'
+
+82
+00:06:46,039 --> 00:06:50,860
+'Well, you were in the room half a minute
+after the murder, so this means that he was
+
+83
+00:06:50,860 --> 00:06:52,310
+in the water then.'
+
+84
+00:06:52,310 --> 00:06:58,160
+'I know. I didn't know the window was open
+because it was hidden by the curtain.'
+
+85
+00:06:58,160 --> 00:07:00,810
+The policeman was thinking.
+
+86
+00:07:00,810 --> 00:07:06,210
+'You're saying that the man escaped by wading
+across the moat. But how did he get into the
+
+87
+00:07:06,210 --> 00:07:08,259
+house if the drawbridge was up?
+
+88
+00:07:08,259 --> 00:07:15,860
+'That's a good question,' agreed Barker.
+
+89
+00:07:15,860 --> 00:07:18,860
+CHAPTER TWO
+Murder at Birlstone
+
+90
+00:07:18,860 --> 00:07:24,710
+'What time was the bridge raised?' asked the
+policeman.
+
+91
+00:07:24,710 --> 00:07:32,520
+'It was six o'clock,' said Ames the butler.
+'Mrs Douglas had visitors so I raised it after
+
+92
+00:07:32,520 --> 00:07:33,580
+they left.'
+
+93
+00:07:33,580 --> 00:07:39,759
+'So if anyone came in from outside - if they
+did - then they came into the house before
+
+94
+00:07:39,759 --> 00:07:45,110
+six and hid there until Mr Douglas came into
+the room at about eleven o'clock.'
+
+95
+00:07:45,110 --> 00:07:51,470
+'That's right. Mr Douglas always checked all
+the lights in the house before he went to
+
+96
+00:07:51,470 --> 00:07:58,470
+bed. He came in here, where the man was waiting
+to shoot him. Then the murderer got away through
+
+97
+00:07:58,470 --> 00:08:04,380
+the window and left the gun behind. That's
+what I think.'
+
+98
+00:08:04,380 --> 00:08:10,289
+The policeman picked up a card which was lying
+on the floor beside the dead man. The initials
+
+99
+00:08:10,289 --> 00:08:15,910
+V.V. and the number 341 were written on the
+card.
+
+100
+00:08:15,910 --> 00:08:19,520
+'What's this?' asked the policeman.
+
+101
+00:08:19,520 --> 00:08:20,880
+Barker looked at it.
+
+102
+00:08:20,880 --> 00:08:26,520
+'I didn't notice it before. The murderer probably
+left it behind.'
+
+103
+00:08:26,520 --> 00:08:32,870
+'V.V. 341. What does it mean? Somebody's initials,
+maybe.'
+
+104
+00:08:32,870 --> 00:08:39,630
+The policeman walked slowly around the room.
+He pulled back a window curtain. 'Look at
+
+105
+00:08:39,630 --> 00:08:46,170
+this!' he said excitedly. 'Someone was hiding
+here, look at these muddy footprints.'
+
+106
+00:08:46,170 --> 00:08:50,260
+'What's this mark on his arm?' asked the doctor.
+
+107
+00:08:50,260 --> 00:08:58,290
+On the dead man's right arm was a strange
+brown design: a triangle inside a circle.
+
+108
+00:08:58,290 --> 00:09:04,070
+'It's not a tattoo,' said the doctor. 'I've
+never seen anything like it. This mark has
+
+109
+00:09:04,070 --> 00:09:07,300
+been burnt onto the man. What does it mean?'
+
+110
+00:09:07,300 --> 00:09:12,920
+'I don't know what it means but Douglas has
+had that mark for at least ten years,' said
+
+111
+00:09:12,920 --> 00:09:14,450
+Cecil Barker.
+
+112
+00:09:14,450 --> 00:09:19,920
+'Yes,' agreed the butler. 'I've often noticed
+it and wondered what it is.'
+
+113
+00:09:19,920 --> 00:09:25,200
+'Then it has nothing to do with the crime
+anyway,' said the policeman.
+
+114
+00:09:25,200 --> 00:09:28,030
+The butler suddenly gave a shout of surprise.
+
+115
+00:09:28,030 --> 00:09:31,170
+'What is it now?' said the policeman.
+
+116
+00:09:31,170 --> 00:09:36,149
+'They've taken his wedding ring! He always
+wore his wedding ring below this other one
+
+117
+00:09:36,149 --> 00:09:39,330
+with the snake on it,' said the butler.
+
+118
+00:09:39,330 --> 00:09:44,620
+'You mean that the murderer first took off
+this snake ring, then the wedding ring and
+
+119
+00:09:44,620 --> 00:09:47,870
+afterwards put the snake ring back on again?'
+
+120
+00:09:47,870 --> 00:09:50,910
+'It looks that way,' said the butler.
+
+121
+00:09:50,910 --> 00:09:56,570
+The policeman shook his head. 'The sooner
+the London police get here the better,' he
+
+122
+00:09:56,570 --> 00:09:58,080
+said.
+
+123
+00:09:58,080 --> 00:10:03,730
+The Chief Detective for Sussex was Mr Mason.
+He was waiting for us at the railway station
+
+124
+00:10:03,730 --> 00:10:06,130
+in Birlstone the next day.
+
+125
+00:10:06,130 --> 00:10:14,510
+'A very interesting case, MacDonald,' he said.
+He took us to our hotel. We sat down and Mason
+
+126
+00:10:14,510 --> 00:10:20,140
+told us the details. Sherlock Holmes listened
+carefully.
+
+127
+00:10:20,140 --> 00:10:25,600
+'So what have you discovered so far?' he said
+when Mason had finished.
+
+128
+00:10:25,600 --> 00:10:33,579
+'I examined the shotgun,' said Mason. 'The
+gun wasn't very long and could easily be hidden
+
+129
+00:10:33,579 --> 00:10:40,260
+under a coat. It was made in America. The
+butler says he has never seen it in the house
+
+130
+00:10:40,260 --> 00:10:48,690
+before. It suggests that the stranger who
+entered the house and killed Douglas is American.'
+
+131
+00:10:48,690 --> 00:10:51,350
+MacDonald shook his head.
+
+132
+00:10:51,350 --> 00:10:55,200
+'I've heard nothing that proves that a stranger
+was even in the house.'
+
+133
+00:10:55,200 --> 00:11:01,690
+'What about the open window, the blood by
+the window, the muddy footprints?'
+
+134
+00:11:01,690 --> 00:11:08,180
+'They are all things which can be set up.
+The business with the ring and the card suggests
+
+135
+00:11:08,180 --> 00:11:14,490
+premeditated murder for a private reason.
+But why would the murderer choose such a noisy
+
+136
+00:11:14,490 --> 00:11:20,010
+weapon if he wanted to get away unnoticed?
+What do you think, Holmes?'
+
+137
+00:11:20,010 --> 00:11:26,071
+'It does seem strange,' agreed Holmes. 'Can
+we go to the house now? There may be some
+
+138
+00:11:26,071 --> 00:11:29,440
+clues that will help us,' he added.
+
+139
+00:11:29,440 --> 00:11:35,750
+We walked through the village towards Birlstone
+Manor. Sergeant Wilson was still there.
+
+140
+00:11:35,750 --> 00:11:39,690
+'Anything new?' Mason asked the policeman.
+
+141
+00:11:39,690 --> 00:11:41,010
+'No, sir.'
+
+142
+00:11:41,010 --> 00:11:48,779
+'Then go home. You're tired. The butler can
+wait outside. Tell Cecil Barker and Mrs Douglas
+
+143
+00:11:48,779 --> 00:11:55,579
+we want to talk to them in a short while.
+Now, I'll tell you what I think so far. I
+
+144
+00:11:55,579 --> 00:12:02,660
+think it's murder. The question is, was it
+done by someone from outside or inside the
+
+145
+00:12:02,660 --> 00:12:08,380
+house? It doesn't seem likely that it was
+someone inside the house: they did it at a
+
+146
+00:12:08,380 --> 00:12:15,160
+time when the house was quiet but no one was
+asleep, and used the noisiest weapon possible,
+
+147
+00:12:15,160 --> 00:12:20,220
+which hasn't been seen inside the house before.
+So we come back to the theory that it was
+
+148
+00:12:20,220 --> 00:12:23,890
+done by someone from the outside.'
+
+149
+00:12:23,890 --> 00:12:26,399
+Holmes nodded in agreement.
+
+150
+00:12:26,399 --> 00:12:32,899
+'So, the man gets into the house sometime
+between four thirty and six. He hid behind
+
+151
+00:12:32,899 --> 00:12:39,050
+the curtain until about eleven, when Douglas
+entered the room. If the two men spoke, then
+
+152
+00:12:39,050 --> 00:12:44,649
+it was not for long. Mrs Douglas said her
+husband had left her only a few minutes before
+
+153
+00:12:44,649 --> 00:12:45,950
+she heard the shot.'
+
+154
+00:12:45,950 --> 00:12:52,030
+'The candle shows that. It's a new candle
+but it has only burnt down a little,' said
+
+155
+00:12:52,030 --> 00:12:53,389
+Holmes.
+
+156
+00:12:53,389 --> 00:12:59,920
+'Exactly. That means he put it on the table
+before he was attacked. This shows he wasn't
+
+157
+00:12:59,920 --> 00:13:05,810
+attacked as soon as he entered the room. When
+Barker arrived, the candle was lit and the
+
+158
+00:13:05,810 --> 00:13:06,850
+lamp was out.'
+
+159
+00:13:06,850 --> 00:13:10,510
+'That all seems clear,' said Holmes.
+
+160
+00:13:10,510 --> 00:13:16,230
+'So Douglas enters the room. He puts down
+the candle. A man appears from behind the
+
+161
+00:13:16,230 --> 00:13:23,220
+curtain with a gun. He asks for the wedding
+ring - we don't know why but it seems so.
+
+162
+00:13:23,220 --> 00:13:30,760
+Mr Douglas gives it to him. Then the man shoots
+Douglas. He drops the gun and this card "V.V.
+
+163
+00:13:30,760 --> 00:13:36,070
+341", whatever that means, and then escapes
+through the window and across the moat, just
+
+164
+00:13:36,070 --> 00:13:41,950
+as Cecil Barker discovers the crime. How does
+that sound, Mr Holmes?'
+
+165
+00:13:41,950 --> 00:13:45,980
+'Interesting, but not very believable,' said
+Holmes.
+
+166
+00:13:45,980 --> 00:13:48,610
+'What's your theory then, Holmes?'
+
+167
+00:13:48,610 --> 00:13:54,889
+'I'd like a few more facts before I come up
+with a theory,' said Holmes. 'Ames, can you
+
+168
+00:13:54,889 --> 00:13:57,260
+come in here for a moment please?'
+
+169
+00:13:57,260 --> 00:14:02,990
+The butler came in. 'Now, you've seen this
+mark on Mr Douglas's arm before?'
+
+170
+00:14:02,990 --> 00:14:05,300
+'Often, sir,' agreed Ames.
+
+171
+00:14:05,300 --> 00:14:11,220
+'There is also a small piece of plaster on
+Mr Douglas's chin. Did you see that when he
+
+172
+00:14:11,220 --> 00:14:13,260
+was alive?' asked Holmes.
+
+173
+00:14:13,260 --> 00:14:19,060
+'Yes sir, he cut himself shaving yesterday
+morning,' said Ames.
+
+174
+00:14:19,060 --> 00:14:22,529
+'Did he often cut himself shaving?' asked
+Holmes.
+
+175
+00:14:22,529 --> 00:14:25,790
+'Not for a very long time, sir.'
+
+176
+00:14:25,790 --> 00:14:32,449
+'Interesting!' said Holmes. 'This might mean
+he was nervous and knew that he was in danger.
+
+177
+00:14:32,449 --> 00:14:36,089
+Did you notice anything unusual in his behavior
+yesterday, Ames?'
+
+178
+00:14:36,089 --> 00:14:40,450
+'He did seem a bit nervous, sir,' said the
+butler.
+
+179
+00:14:40,450 --> 00:14:50,010
+'So, perhaps the attack wasn't unexpected
+then. Now, what about the card - V.V. 341.
+
+180
+00:14:50,010 --> 00:14:52,880
+What do you think that means, MacDonald?'
+
+181
+00:14:52,880 --> 00:14:59,290
+'It seems like a secret society of some sort.
+I thought the same about the mark on the arm.'
+
+182
+00:14:59,290 --> 00:15:06,440
+'Someone from a secret society gets into the
+house, kills Mr Douglas and leaves this card.
+
+183
+00:15:06,440 --> 00:15:11,560
+The newspapers will report it, so other members
+of the society will know that vengeance has
+
+184
+00:15:11,560 --> 00:15:19,690
+been done. But why this gun? Why the missing
+ring? Why has no one been arrested yet?'
+
+185
+00:15:19,690 --> 00:15:24,350
+Holmes walked over to the window and examined
+the blood stain.
+
+186
+00:15:24,350 --> 00:15:29,850
+'It's a footprint but it looks very wide to
+me, wider than the other footprints over in
+
+187
+00:15:29,850 --> 00:15:36,389
+the corner. What's this under the table?'
+asked Holmes, bending to pick up the object.
+
+188
+00:15:36,389 --> 00:15:40,610
+'Mr Douglas's dumbbells,' said Ames.
+
+189
+00:15:40,610 --> 00:15:47,260
+'Dumbbell,' corrected Holmes. 'There's only
+one of them. Where's the other?'
+
+190
+00:15:47,260 --> 00:15:55,110
+'I don't know, Mr Holmes. Perhaps there was
+only one. I haven't noticed them for months.'
+
+191
+00:15:55,110 --> 00:16:02,519
+Holmes looked serious. 'One dumbbell...' He
+was interrupted by a knock on the door. Cecil
+
+192
+00:16:02,519 --> 00:16:03,940
+Barker came in.
+
+193
+00:16:03,940 --> 00:16:11,060
+'Sorry to interrupt,' he said, 'but they've
+found his bicycle. The man left it behind.
+
+194
+00:16:11,060 --> 00:16:15,410
+Come and look.'
+
+195
+00:16:15,410 --> 00:16:20,850
+CHAPTER THREE
+The People of the Drama
+
+196
+00:16:20,850 --> 00:16:23,470
+The bicycle was hidden behind some bushes.
+
+197
+00:16:23,470 --> 00:16:29,960
+'Well, it's something,' said Mason. 'But why
+has the man left it behind? How did he get
+
+198
+00:16:29,960 --> 00:16:35,079
+away without it? We are no closer to solving
+this mystery, Holmes.'
+
+199
+00:16:35,079 --> 00:16:38,509
+'Aren't we?' answered Holmes thoughtfully.
+
+200
+00:16:38,509 --> 00:16:42,320
+We moved to the dining room to hear evidence
+from the people who were in the house at the
+
+201
+00:16:42,320 --> 00:16:48,610
+time of the murder. Ames the butler told us
+what he had heard and seen. He had not heard
+
+202
+00:16:48,610 --> 00:16:53,130
+the shot because he was at the back of the
+house in the kitchen. He heard the ringing
+
+203
+00:16:53,130 --> 00:16:58,149
+of the bell which called for the servants
+of the house. He and the housekeeper went
+
+204
+00:16:58,149 --> 00:17:03,140
+to the front of the house together. When they
+got to the bottom of the stairs, Mrs Douglas
+
+205
+00:17:03,140 --> 00:17:09,720
+was coming down. She was not hurrying and
+she did not seem agitated. Then Mr Barker
+
+206
+00:17:09,720 --> 00:17:13,240
+came rushing out of the study telling Mrs
+Douglas to go back.
+
+207
+00:17:13,240 --> 00:17:19,990
+'Go back to your room! John is dead! There
+is nothing you can do! Please go back to your
+
+208
+00:17:19,990 --> 00:17:21,069
+room!'
+
+209
+00:17:21,069 --> 00:17:28,000
+Mrs Douglas did as he said. She did not scream.
+The housekeeper went with her. Barker and
+
+210
+00:17:28,000 --> 00:17:33,120
+the butler went into the study, where they
+found everything just as the police had seen
+
+211
+00:17:33,120 --> 00:17:39,410
+it. The candle was not lit at that time but
+the lamp was. They looked out of the window
+
+212
+00:17:39,410 --> 00:17:45,380
+but it was very dark and they had seen and
+heard nothing. The housekeeper said that Mrs
+
+213
+00:17:45,380 --> 00:17:50,570
+Douglas had been scared but had not tried
+to go downstairs. The housekeeper stayed with
+
+214
+00:17:50,570 --> 00:17:52,520
+her that night.
+
+215
+00:17:52,520 --> 00:17:57,670
+Cecil Barker was next. He told the police
+his theory about the murder. There were some
+
+216
+00:17:57,670 --> 00:18:04,370
+events in Douglas's life that he never spoke
+about. Barker had met Douglas, who was a widower
+
+217
+00:18:04,370 --> 00:18:10,960
+at the time, in California. They ran a successful
+mining company together. Douglas had suddenly
+
+218
+00:18:10,960 --> 00:18:17,289
+sold his share and gone to England. Afterwards,
+Barker also sold his share and went to England
+
+219
+00:18:17,289 --> 00:18:23,861
+where he and John Douglas met again. Barker
+thought that Douglas was in some danger. He
+
+220
+00:18:23,861 --> 00:18:28,090
+thought that a secret society was after John
+and wanted to kill him.
+
+221
+00:18:28,090 --> 00:18:32,559
+'How long were you together in California?'
+asked MacDonald.
+
+222
+00:18:32,559 --> 00:18:35,120
+'Five years altogether,' said Barker.
+
+223
+00:18:35,120 --> 00:18:41,820
+'And he was a widower, you said? Do you know
+where his first wife was from?' he asked.
+
+224
+00:18:41,820 --> 00:18:47,679
+'No, but I saw a picture of her. She was a
+very beautiful woman. She died the year before
+
+225
+00:18:47,679 --> 00:18:48,730
+I met him.'
+
+226
+00:18:48,730 --> 00:18:52,620
+'Was there anything strange about him in California?'
+
+227
+00:18:52,620 --> 00:18:57,100
+Only that he didn't like to be near other
+men. That's why I thought someone was after
+
+228
+00:18:57,100 --> 00:19:02,480
+him. I think he had a warning of some sort,
+that's why he left so suddenly for Europe.
+
+229
+00:19:02,480 --> 00:19:08,670
+Only a few days after he left, some men were
+asking about him,' said Barker.
+
+230
+00:19:08,670 --> 00:19:14,590
+That was six years ago. Before that you were
+together for five years in California. Eleven
+
+231
+00:19:14,590 --> 00:19:21,559
+years is a long time to keep a fight going.
+It was definitely something serious. Did you
+
+232
+00:19:21,559 --> 00:19:23,750
+know Mrs Douglas before the marriage?'
+
+233
+00:19:23,750 --> 00:19:25,730
+'No, I didn't.'
+
+234
+00:19:25,730 --> 00:19:27,640
+'But you've seen a lot of her since?'
+
+235
+00:19:27,640 --> 00:19:32,751
+'What are you saying, detective? I've seen
+a lot of him since. And so of course I have
+
+236
+00:19:32,751 --> 00:19:35,210
+become friends with Mrs Douglas.'
+
+237
+00:19:35,210 --> 00:19:39,300
+'Was Mr Douglas happy about your friendship
+with his wife?'
+
+238
+00:19:39,300 --> 00:19:44,130
+'You have no right to ask such questions!'
+said Barker angrily.
+
+239
+00:19:44,130 --> 00:19:46,000
+The inspector waited.
+
+240
+00:19:46,000 --> 00:19:52,420
+'Well, I suppose you have to do your job.
+Please don't ask Mrs Douglas about this. She
+
+241
+00:19:52,420 --> 00:19:58,480
+is worried enough. Douglas had just one fault
+and that was his jealousy. But no man had
+
+242
+00:19:58,480 --> 00:20:02,950
+a more loving and faithful wife or a more
+loyal friend.'
+
+243
+00:20:02,950 --> 00:20:08,940
+'But the fact that the wedding ring has gone
+suggests that the marriage and the murder
+
+244
+00:20:08,940 --> 00:20:11,120
+are connected, don't you think?'
+
+245
+00:20:11,120 --> 00:20:18,070
+'I don't know what it suggests,' said Barker,
+'but I think you're on the wrong track.'
+
+246
+00:20:18,070 --> 00:20:24,700
+The next witness was Mrs Douglas. She was
+a tall, beautiful woman of thirty. Her face
+
+247
+00:20:24,700 --> 00:20:31,870
+was very white but she seemed calm. 'Have
+you found anything out yet?' she asked.
+
+248
+00:20:31,870 --> 00:20:39,440
+'We are doing all we can, Mrs Douglas. Perhaps
+you may be able to help us. Mr Barker said
+
+249
+00:20:39,440 --> 00:20:44,020
+that you were never actually in the room where
+the tragedy took place.'
+
+250
+00:20:44,020 --> 00:20:48,120
+'That's right. He told me to go back to my
+room.'
+
+251
+00:20:48,120 --> 00:20:53,190
+'You have only known your husband in England,
+is that right?'
+
+252
+00:20:53,190 --> 00:20:56,160
+'Yes, we've been married for five years.'
+
+253
+00:20:56,160 --> 00:21:01,380
+'Have you heard him speak of something that
+happened in America which may be dangerous
+
+254
+00:21:01,380 --> 00:21:03,840
+for him?'
+
+255
+00:21:03,840 --> 00:21:07,780
+Mrs Douglas thought carefully before answering.
+
+256
+00:21:07,780 --> 00:21:14,490
+'Yes,' she said finally. 'I have always felt
+that there was some sort of danger from his
+
+257
+00:21:14,490 --> 00:21:17,960
+past, but he didn't talk to me about it.'
+
+258
+00:21:17,960 --> 00:21:22,610
+'How did you know then?' asked the detective.
+
+259
+00:21:22,610 --> 00:21:27,570
+'In many ways,' she replied. 'Because of the
+way he didn't talk about some parts of his
+
+260
+00:21:27,570 --> 00:21:34,770
+life in America. Because of some of the things
+he said. The way he looked at strangers. I
+
+261
+00:21:34,770 --> 00:21:41,320
+always felt sure that he had some powerful
+enemies and that he was always ready to defend
+
+262
+00:21:41,320 --> 00:21:42,320
+himself.'
+
+263
+00:21:42,320 --> 00:21:45,760
+'What sort of things did he say?' asked Sherlock
+Holmes.
+
+264
+00:21:45,760 --> 00:21:53,580
+'"The Valley of Fear",' replied Mrs Douglas.
+'He said, ''I have been in the Valley of Fear
+
+265
+00:21:53,580 --> 00:22:01,280
+and I'm not out of it yet." I asked him, "Can
+we ever get out of the Valley of Fear?" and
+
+266
+00:22:01,280 --> 00:22:07,650
+he said very seriously, "Sometimes I don't
+think we ever will".'
+
+267
+00:22:07,650 --> 00:22:11,320
+'But didn't you ask him what he meant by "the
+Valley of Fear"?'
+
+268
+00:22:11,320 --> 00:22:17,330
+'Of course, but he never told me. All I know
+is that it was a real valley that he lived
+
+269
+00:22:17,330 --> 00:22:22,150
+in once where something terrible happened.
+I can't tell you anymore.'
+
+270
+00:22:22,150 --> 00:22:24,760
+'Did he ever mention any names?'
+
+271
+00:22:24,760 --> 00:22:33,510
+'Yes, once, when he had a fever, he said the
+name "Master McGinty". There was definitely
+
+272
+00:22:33,510 --> 00:22:37,860
+a connection between the Valley of Fear and
+Master McGinty.'
+
+273
+00:22:37,860 --> 00:22:42,220
+'You've heard that his wedding ring was taken;
+why do you think that is?'
+
+274
+00:22:42,220 --> 00:22:48,030
+'I really don't know,' she replied. 'It's
+an extraordinary thing.'
+
+275
+00:22:48,030 --> 00:22:54,120
+'Well, we won't keep you any longer. Thank
+you for your time, Mrs Douglas. If there is
+
+276
+00:22:54,120 --> 00:22:57,919
+anything else, we can ask you later.'
+
+277
+00:22:57,919 --> 00:23:01,090
+Mrs Douglas left the room.
+
+278
+00:23:01,090 --> 00:23:09,570
+'She's a very beautiful woman,' said MacDonald
+thoughtfully. 'This man Barker has been here
+
+279
+00:23:09,570 --> 00:23:16,870
+a lot. There may be something between them.
+He admits that the dead man was jealous. Then
+
+280
+00:23:16,870 --> 00:23:26,230
+there's that wedding ring. What do you think,
+Mr Holmes?'
+
+281
+00:23:26,230 --> 00:23:31,740
+CHAPTER FOUR
+The Missing Dumbbell
+
+282
+00:23:31,740 --> 00:23:33,659
+Holmes called the butler in.
+
+283
+00:23:33,659 --> 00:23:39,200
+'Can you remember, Ames, what Mr Barker was
+wearing on his feet when you joined him in
+
+284
+00:23:39,200 --> 00:23:40,200
+the study?'
+
+285
+00:23:40,200 --> 00:23:46,480
+'Yes, Mr Holmes. He had a pair of bedroom
+slippers on. I brought him his boots when
+
+286
+00:23:46,480 --> 00:23:47,770
+he went for the police.'
+
+287
+00:23:47,770 --> 00:23:49,710
+'Where are the slippers now?'
+
+288
+00:23:49,710 --> 00:23:52,580
+'They are still under a chair in the hall.'
+
+289
+00:23:52,580 --> 00:23:59,410
+'Good. It's important to know which footprints
+belong to Mr Barker and which come from outside.'
+
+290
+00:23:59,410 --> 00:24:06,090
+'Yes, sir. I noticed that the slippers were
+marked with blood, sir. So were mine.'
+
+291
+00:24:06,090 --> 00:24:07,850
+'Thank you, Ames.'
+
+292
+00:24:07,850 --> 00:24:13,520
+We returned to the study. Holmes brought the
+slippers with him from the hall. The slippers
+
+293
+00:24:13,520 --> 00:24:15,960
+were dark with blood.
+
+294
+00:24:15,960 --> 00:24:23,410
+'Strange!' said Holmes. He was examining the
+slippers by the light of the window. 'Very
+
+295
+00:24:23,410 --> 00:24:25,279
+strange indeed!'
+
+296
+00:24:25,279 --> 00:24:32,630
+He placed the slipper on the blood stain under
+the window. It matched exactly. Holmes looked
+
+297
+00:24:32,630 --> 00:24:34,290
+at the others.
+
+298
+00:24:34,290 --> 00:24:40,260
+MacDonald looked excited. 'Barker made the
+mark under the window himself! What's going
+
+299
+00:24:40,260 --> 00:24:42,370
+on Holmes? What does it mean?'
+
+300
+00:24:42,370 --> 00:24:48,360
+'That's the question,' said Holmes. 'What
+does it mean?'
+
+301
+00:24:48,360 --> 00:24:54,500
+The three detectives had many small details
+to investigate. I decided to return to the
+
+302
+00:24:54,500 --> 00:25:00,870
+village on my own. I walked through the garden
+of the house. At the far end was a hedge of
+
+303
+00:25:00,870 --> 00:25:08,120
+yew trees. Behind these was a stone seat,
+hidden from view. As I approached, I heard
+
+304
+00:25:08,120 --> 00:25:15,020
+some voices coming from the area of the stone
+seat. I came around the trees and saw Mrs
+
+305
+00:25:15,020 --> 00:25:22,140
+Douglas and Mr Barker. They did not see me
+straight away. I was shocked by Mrs Douglas's
+
+306
+00:25:22,140 --> 00:25:28,669
+appearance. Before, she had been very quiet.
+Now her eyes were shining and she was laughing
+
+307
+00:25:28,669 --> 00:25:35,650
+at something Barker had just said. Barker
+was also smiling. Just too late they both
+
+308
+00:25:35,650 --> 00:25:42,730
+saw me and assumed more serious expressions.
+They spoke briefly to each other, then Barker
+
+309
+00:25:42,730 --> 00:25:44,870
+got up and walked towards me.
+
+310
+00:25:44,870 --> 00:25:50,669
+'Excuse me sir, but are you Doctor Watson?
+Mrs Douglas wants to ask you something.'
+
+311
+00:25:50,669 --> 00:25:56,600
+I did not really want to talk to her. I saw
+clearly in my mind the body of the dead man
+
+312
+00:25:56,600 --> 00:26:03,840
+lying on the floor. Here, only a few hours
+after the tragedy, was his wife laughing with
+
+313
+00:26:03,840 --> 00:26:07,700
+another man. But I went over to them.
+
+314
+00:26:07,700 --> 00:26:15,039
+'You're a good friend of Mr Holmes. Tell me,'
+she asked, 'if I told him something, does
+
+315
+00:26:15,039 --> 00:26:21,040
+he have to tell the detectives? Is he working
+on his own or is he with them?'
+
+316
+00:26:21,040 --> 00:26:28,380
+'Mr Holmes is independent,' I replied, 'but
+he won't hide anything from the detectives.
+
+317
+00:26:28,380 --> 00:26:31,580
+You must ask Holmes himself.'
+
+318
+00:26:31,580 --> 00:26:33,919
+I left them and continued walking.
+
+319
+00:26:33,919 --> 00:26:39,220
+When I told Holmes what had happened, he said
+that he did not want to hear anything from
+
+320
+00:26:39,220 --> 00:26:40,260
+them.
+
+321
+00:26:40,260 --> 00:26:44,980
+'It can get complicated if we have to make
+an arrest for murder,' he said.
+
+322
+00:26:44,980 --> 00:26:47,980
+'Why, have you solved it, Holmes?'
+
+323
+00:26:47,980 --> 00:26:51,401
+'Oh, not yet, but when we find the missing
+dumbbell-'
+
+324
+00:26:51,401 --> 00:26:53,380
+'The dumbbell?'
+
+325
+00:26:53,380 --> 00:27:01,360
+'Watson, you must realize how important that
+missing dumbbell is! What use is one dumbbell?'
+
+326
+00:27:01,360 --> 00:27:02,779
+He continued talking.
+
+327
+00:27:02,779 --> 00:27:10,730
+'A lie, Watson - that's what we have here.
+A great big lie. Barker's story is a lie and
+
+328
+00:27:10,730 --> 00:27:17,530
+Mrs Douglas is helping him. They are both
+lying. So why are they lying and what is the
+
+329
+00:27:17,530 --> 00:27:19,940
+truth that they are trying to hide?'
+
+330
+00:27:19,940 --> 00:27:24,270
+'How can you be so sure they're lying?' I
+asked.
+
+331
+00:27:24,270 --> 00:27:30,039
+'Because it simply can't be true! According
+to their story, the murderer had less than
+
+332
+00:27:30,039 --> 00:27:35,290
+a minute after the murder to take the wedding
+ring, which was under another ring, then to
+
+333
+00:27:35,290 --> 00:27:41,760
+replace the other ring and put the card by
+the victim. This is impossible. I don't think
+
+334
+00:27:41,760 --> 00:27:46,630
+that the ring was taken before the victim
+was killed. The candle was lit for only a
+
+335
+00:27:46,630 --> 00:27:52,580
+short time. I think the murderer was alone
+with the dead man for some time with the lamp
+
+336
+00:27:52,580 --> 00:27:59,250
+lit. But the gunshot was the cause of death:
+therefore the gun was fired much earlier than
+
+337
+00:27:59,250 --> 00:28:05,770
+we have been told. So the two people who heard
+the gunshot, Mr Barker and Mrs Douglas, are
+
+338
+00:28:05,770 --> 00:28:12,340
+obviously both lying for some reason. And
+now we can also show that Barker put the footprint
+
+339
+00:28:12,340 --> 00:28:16,710
+under the window. It doesn't look good for
+Barker.'
+
+340
+00:28:16,710 --> 00:28:21,950
+'So what time did the murder actually occur?
+The housekeeper said she heard a noise at
+
+341
+00:28:21,950 --> 00:28:27,950
+about quarter to eleven, about half an hour
+before Barker called them. I think that this
+
+342
+00:28:27,950 --> 00:28:34,549
+was the gunshot and the real time of the murder.
+If I'm correct, what were Mr Barker and Mrs
+
+343
+00:28:34,549 --> 00:28:39,840
+Douglas doing, if they aren't the actual murderers,
+from a quarter to eleven when they heard the
+
+344
+00:28:39,840 --> 00:28:44,510
+shot, to a quarter past eleven when they rang
+the bell for the servants?'
+
+345
+00:28:44,510 --> 00:28:50,230
+'I'm sure there is something going on between
+those two,' I agreed. 'Do you think that they
+
+346
+00:28:50,230 --> 00:28:53,241
+are guilty of the murder?' I asked.
+
+347
+00:28:53,241 --> 00:28:58,429
+'I think that Mr Barker and Mrs Douglas know
+the truth about this murder. I'm not sure
+
+348
+00:28:58,429 --> 00:29:03,020
+that they are the murderers themselves. I
+think that an evening alone in the study will
+
+349
+00:29:03,020 --> 00:29:07,380
+help a lot. Can I borrow your umbrella please,
+Watson?'
+
+350
+00:29:07,380 --> 00:29:12,250
+I was confused, but I gave him my umbrella
+anyway.
+
+351
+00:29:12,250 --> 00:29:17,750
+Later that evening, Inspector MacDonald and
+Mr Mason returned. They had found out more
+
+352
+00:29:17,750 --> 00:29:22,789
+about the owner of the bicycle: he was an
+American who was staying at a hotel in the
+
+353
+00:29:22,789 --> 00:29:28,720
+nearby town of Tunbridge Wells. According
+to the people at the hotel he was a tall,
+
+354
+00:29:28,720 --> 00:29:34,529
+handsome man of about fifty. He was dressed
+in a grey suit and a short yellow coat and
+
+355
+00:29:34,529 --> 00:29:35,529
+cap.
+
+356
+00:29:35,529 --> 00:29:40,290
+'He sounds very similar to Mr Douglas,' remarked
+Holmes.
+
+357
+00:29:40,290 --> 00:29:45,610
+Holmes told the detectives about his theories
+and what he intended to do that evening. The
+
+358
+00:29:45,610 --> 00:29:47,760
+detectives asked if they could help.
+
+359
+00:29:47,760 --> 00:29:58,470
+'No, no,' said Holmes. 'All I need is darkness
+and Watson's umbrella.'
+
+360
+00:29:58,470 --> 00:30:04,200
+CHAPTER FIVE
+The Mystery is Solved
+
+361
+00:30:04,200 --> 00:30:08,730
+The next morning, the detectives were trying
+to find the owner of the bicycle.
+
+362
+00:30:08,730 --> 00:30:11,309
+'Any luck?' asked Holmes.
+
+363
+00:30:11,309 --> 00:30:17,700
+'Well, so far, we have reports of a man in
+a yellow coat in Leicester, Nottingham, Southampton
+
+364
+00:30:17,700 --> 00:30:23,230
+and Liverpool. The country seems to be full
+of people in yellow coats,' replied MacDonald.
+
+365
+00:30:23,230 --> 00:30:27,190
+'What about you? Did you find out anything
+last night?'
+
+366
+00:30:27,190 --> 00:30:33,840
+'I can't really tell you at the moment. However,
+I have found out that Charles I was once hidden
+
+367
+00:30:33,840 --> 00:30:39,220
+in this house for several days during the
+Civil War,' said Holmes.
+
+368
+00:30:39,220 --> 00:30:44,130
+'I don't see what that has to do with this
+case,' said Mason.
+
+369
+00:30:44,130 --> 00:30:50,090
+'Well, I want to give you both some advice.
+I can't tell you everything that I know yet,
+
+370
+00:30:50,090 --> 00:30:56,450
+but my advice to you is to abandon the case
+for today. Meet me here this evening and things
+
+371
+00:30:56,450 --> 00:30:58,360
+will become clear.'
+
+372
+00:30:58,360 --> 00:31:03,280
+The detectives were not very happy about this
+but eventually agreed.
+
+373
+00:31:03,280 --> 00:31:11,489
+'One more thing, I want you to write a letter
+to Mr Barker. Write this down. "Dear Sir,
+
+374
+00:31:11,489 --> 00:31:15,929
+we have decided to drain the moat in the hope
+that we may find some-"'
+
+375
+00:31:15,929 --> 00:31:20,730
+MacDonald interrupted. 'It's impossible. We've
+already made inquiries.'
+
+376
+00:31:20,730 --> 00:31:27,510
+'"- in the hope that we may find something
+which will help in the case. I have made arrangements
+
+377
+00:31:27,510 --> 00:31:34,350
+and the workmen will begin tomorrow morning."
+Now sign that and deliver it this afternoon.
+
+378
+00:31:34,350 --> 00:31:37,010
+Then meet me here when it gets dark.'
+
+379
+00:31:37,010 --> 00:31:43,309
+The detectives were obviously annoyed but
+agreed to do as Holmes asked.
+
+380
+00:31:43,309 --> 00:31:48,799
+Later that evening, Holmes took us outside
+into the grounds of the Manor House. We stopped
+
+381
+00:31:48,799 --> 00:31:53,510
+opposite the windows of the study. 'Now what?'
+asked MacDonald.
+
+382
+00:31:53,510 --> 00:31:59,470
+'We must wait,' said Holmes. 'We need to be
+patient.'
+
+383
+00:31:59,470 --> 00:32:02,260
+We waited and waited.
+
+384
+00:32:02,260 --> 00:32:09,370
+'What exactly are we waiting for?' asked MacDonald
+finally. 'And how much longer do we have to
+
+385
+00:32:09,370 --> 00:32:10,370
+wait?'
+
+386
+00:32:10,370 --> 00:32:16,940
+'I don't know how long we'll have to wait
+but I can tell you what we are waiting for.
+
+387
+00:32:16,940 --> 00:32:23,250
+Look - that's what we're waiting for!' As
+he spoke, we saw a man open the window of
+
+388
+00:32:23,250 --> 00:32:29,429
+the study. We heard the splashing of water
+as the man searched for something. Then suddenly
+
+389
+00:32:29,429 --> 00:32:34,809
+we saw him raise a large round object from
+the moat and take it into the study.
+
+390
+00:32:34,809 --> 00:32:37,179
+'Now!' shouted Holmes. 'Now!'
+
+391
+00:32:37,179 --> 00:32:41,919
+We all jumped to our feet and ran into the
+house and into the study: there was Cecil
+
+392
+00:32:41,919 --> 00:32:42,919
+Barker.
+
+393
+00:32:42,919 --> 00:32:44,700
+'What do you want?' he said.
+
+394
+00:32:44,700 --> 00:32:50,750
+'That's what we want,' said Holmes. 'That
+package, weighted with the dumbbell that you
+
+395
+00:32:50,750 --> 00:32:52,539
+have just pulled from the moat.'
+
+396
+00:32:52,539 --> 00:32:54,260
+'How do you know about it?'
+
+397
+00:32:54,260 --> 00:33:01,000
+'Well, I put it there,' said Holmes, 'or,
+rather, I "replaced" it there after hooking
+
+398
+00:33:01,000 --> 00:33:05,039
+it out last night with the handle of Watson's
+umbrella.'
+
+399
+00:33:05,039 --> 00:33:13,600
+He opened the package. Inside was a pair of
+boots, a grey suit, a yellow coat and a dangerous-looking
+
+400
+00:33:13,600 --> 00:33:14,600
+knife.
+
+401
+00:33:14,600 --> 00:33:21,519
+'The label in the coat is from Vermissa, USA.
+Earlier today, I found out that Vermissa is
+
+402
+00:33:21,519 --> 00:33:27,730
+a mining valley. Perhaps the V.V. on the card
+might stand for Vermissa Valley and may even
+
+403
+00:33:27,730 --> 00:33:34,100
+be the Valley of Fear, I think. This seems
+clear. Perhaps you could explain further,
+
+404
+00:33:34,100 --> 00:33:37,049
+Mr Barker?' asked Holmes.
+
+405
+00:33:37,049 --> 00:33:44,970
+Barker did not know what to say. Eventually
+he said, 'Well, if you know such a lot, Holmes,
+
+406
+00:33:44,970 --> 00:33:47,600
+why don't you tell us?'
+
+407
+00:33:47,600 --> 00:33:54,581
+Mrs Douglas came in. She had heard everything.
+'You have done enough for us, Cecil. Whatever
+
+408
+00:33:54,581 --> 00:33:57,559
+happens in the future, you have done enough.'
+
+409
+00:33:57,559 --> 00:34:04,230
+'More than enough,' said Holmes. 'Now I think
+it is time to hear the truth from Mr Douglas
+
+410
+00:34:04,230 --> 00:34:05,990
+himself.'
+
+411
+00:34:05,990 --> 00:34:11,710
+We were all astonished at Holmes's words.
+As he spoke, a man seemed to have come out
+
+412
+00:34:11,710 --> 00:34:18,250
+from the wall in a dark corner of the room.
+Mrs Douglas turned and put her arms around
+
+413
+00:34:18,250 --> 00:34:19,850
+her husband.
+
+414
+00:34:19,850 --> 00:34:23,359
+'I'm sure it's best this way, John,' she said.
+
+415
+00:34:23,359 --> 00:34:28,480
+The man looked at us. He came to me and gave
+me a package.
+
+416
+00:34:28,480 --> 00:34:34,329
+'I've heard of you,' he said. 'Well, Doctor
+Watson, you've never heard a story like this
+
+417
+00:34:34,329 --> 00:34:40,820
+one. Tell it your own way, but these are the
+facts. I've been hiding in there for two days
+
+418
+00:34:40,820 --> 00:34:46,429
+and I've written it all down. This is the
+story of the Valley of Fear.'
+
+419
+00:34:46,429 --> 00:34:50,530
+MacDonald was staring at John Douglas in amazement.
+
+420
+00:34:50,530 --> 00:34:56,840
+'Well, if you're John Douglas, whose murder
+have we been investigating for the past two
+
+421
+00:34:56,840 --> 00:35:00,710
+days? And where did you just come from?'
+
+422
+00:35:00,710 --> 00:35:06,590
+'Don't you remember me telling you that Charles
+I was once hidden in this house?' Holmes reminded
+
+423
+00:35:06,590 --> 00:35:12,440
+him. 'When I found the clothes in the moat,
+it became clear that the body was not that
+
+424
+00:35:12,440 --> 00:35:19,079
+of John Douglas, but must be the body of the
+cyclist from Tunbridge Wells. So, then I had
+
+425
+00:35:19,079 --> 00:35:21,589
+to find out where Mr Douglas was hiding.'
+
+426
+00:35:21,589 --> 00:35:28,359
+'He's right. I won't start at the beginning,'
+said John Douglas, 'but there are some men
+
+427
+00:35:28,359 --> 00:35:33,910
+who won't leave me alone until I'm dead. They
+forced me out of America. I wanted to spend
+
+428
+00:35:33,910 --> 00:35:39,599
+my last years here in peace. I never told
+my wife how things were because I didn't want
+
+429
+00:35:39,599 --> 00:35:40,670
+to worry her.
+
+430
+00:35:40,670 --> 00:35:46,339
+'I was in Tunbridge Wells the day before these
+events, and I saw a man in the street who
+
+431
+00:35:46,339 --> 00:35:52,330
+I recognised immediately. He was my worst
+enemy, so I knew that there was trouble coming.
+
+432
+00:35:52,330 --> 00:35:58,000
+I came home and prepared myself. All day I
+was nervous but when the drawbridge was up
+
+433
+00:35:58,000 --> 00:36:03,660
+I felt safe. Then, when I was checking the
+lights before going to bed, I saw his boot
+
+434
+00:36:03,660 --> 00:36:08,760
+under the curtain. I put down the candle and
+he jumped out at me and got the gun from under
+
+435
+00:36:08,760 --> 00:36:13,510
+his coat. We were fighting and I was trying
+to take the gun out of his hands before he
+
+436
+00:36:13,510 --> 00:36:15,320
+could fire.
+
+437
+00:36:15,320 --> 00:36:19,610
+'Maybe it was me that pulled the trigger or
+maybe it just went off in the fight. Anyway,
+
+438
+00:36:19,610 --> 00:36:25,800
+he took the shot full in the face. I was looking
+at all that was left of Ted Baldwin. I was
+
+439
+00:36:25,800 --> 00:36:31,260
+in shock when I heard Barker and my wife coming.
+I ran to the door and stopped her. We thought
+
+440
+00:36:31,260 --> 00:36:36,190
+that the servants would be there any minute.
+But they didn't come. They hadn't heard anything.
+
+441
+00:36:36,190 --> 00:36:37,980
+That was when I thought of the plan.
+
+442
+00:36:37,980 --> 00:36:43,660
+'The man has the same mark as I have, the
+mark of the lodge. He was also about the same
+
+443
+00:36:43,660 --> 00:36:50,440
+height and size as me. His face was unrecognizable.
+We tied his clothes to the dumbbell and threw
+
+444
+00:36:50,440 --> 00:36:56,140
+them out of the window. Then we put my clothes
+on him. The card that was meant for my body
+
+445
+00:36:56,140 --> 00:37:01,910
+was lying by his and we put my ring on his
+finger. I didn't want to part with my wedding
+
+446
+00:37:01,910 --> 00:37:07,510
+ring, but as you can see, I can't get it off
+anyway. I put a plaster on his chin where
+
+447
+00:37:07,510 --> 00:37:09,550
+I have one myself at the moment.
+
+448
+00:37:09,550 --> 00:37:14,349
+'I thought that if I could hide for a while,
+we might, at last, have a chance to live the
+
+449
+00:37:14,349 --> 00:37:19,790
+rest of our lives in peace. So, I hid in the
+hiding place and Barker did what he had to
+
+450
+00:37:19,790 --> 00:37:25,480
+do. He made the mark by the window and then,
+when everything was fixed, he rang the bell
+
+451
+00:37:25,480 --> 00:37:29,050
+for the servants. That's the truth.'
+
+452
+00:37:29,050 --> 00:37:36,500
+Holmes looked serious. 'I don't think this
+story is over yet, Mr Douglas. I see trouble
+
+453
+00:37:36,500 --> 00:37:38,700
+ahead.'
+
+454
+00:37:38,700 --> 00:37:45,530
+And now, let us go back twenty years in time
+and travel thousands of miles to the west,
+
+455
+00:37:45,530 --> 00:37:51,510
+so that I can tell you the beginning of this
+terrible story of John Douglas. And then,
+
+456
+00:37:51,510 --> 00:38:00,339
+we will meet in the rooms of Baker Street
+once more to hear how it ends.
+
+457
+00:38:00,339 --> 00:38:03,660
+PART TWO
+CHAPTER ONE
+
+458
+00:38:03,660 --> 00:38:06,470
+Vermissa
+
+459
+00:38:06,470 --> 00:38:13,329
+It was 4th February, 1875. It was evening
+and the train was travelling to Vermissa,
+
+460
+00:38:13,329 --> 00:38:19,930
+U.S.A., the small town at the top of the valley.
+The train was full of miners, who had been
+
+461
+00:38:19,930 --> 00:38:25,490
+working all day. In the first carriage there
+were also two policemen and one other young
+
+462
+00:38:25,490 --> 00:38:27,850
+man sitting alone.
+
+463
+00:38:27,850 --> 00:38:34,030
+He was about thirty years old, with brown
+hair and grey eyes. He stared out of the window
+
+464
+00:38:34,030 --> 00:38:41,720
+into the darkness. At one point, he took a
+large gun from his pocket. It was loaded.
+
+465
+00:38:41,720 --> 00:38:46,869
+He checked it quickly then replaced it, but
+a miner sitting near him had noticed it.
+
+466
+00:38:46,869 --> 00:38:50,550
+'Oh!' he said. 'You seem ready for action.'
+
+467
+00:38:50,550 --> 00:38:56,359
+The young man smiled. 'Yes,' he said, 'we
+need them sometimes where I come from.'
+
+468
+00:38:56,359 --> 00:38:59,020
+'And where's that?' asked the miner.
+
+469
+00:38:59,020 --> 00:39:01,359
+'Chicago,' answered the young man.
+
+470
+00:39:01,359 --> 00:39:03,880
+'You might find that you need it here too.'
+
+471
+00:39:03,880 --> 00:39:08,560
+'Is that right?' asked the young man, surprised.
+'I'm looking for work here.'
+
+472
+00:39:08,560 --> 00:39:10,270
+'Do you have friends here?'
+
+473
+00:39:10,270 --> 00:39:16,170
+'No', but I can make them,' answered the young
+man. 'I belong to the Ancient Order of Freemen.
+
+474
+00:39:16,170 --> 00:39:21,070
+There's no town without a lodge so I'll find
+my friends there.'
+
+475
+00:39:21,070 --> 00:39:26,540
+The other man's manner changed. He got up,
+came over to sit next to the young man and
+
+476
+00:39:26,540 --> 00:39:31,080
+held out his hand. The two men shook hands
+in a special way.
+
+477
+00:39:31,080 --> 00:39:36,599
+'I see you're telling the truth,' said the
+miner. Then he raised his right hand to his
+
+478
+00:39:36,599 --> 00:39:42,400
+right eyebrow. The young traveller raised
+his left hand to his left eyebrow.
+
+479
+00:39:42,400 --> 00:39:45,550
+'Dark nights are unpleasant,' said the miner.
+
+480
+00:39:45,550 --> 00:39:49,540
+'Yes, for strangers to travel,' answered the
+young man.
+
+481
+00:39:49,540 --> 00:39:56,220
+'That's good enough for me. I'm Brother Scanlan,
+Lodge 341, Vermissa Valley. Welcome.'
+
+482
+00:39:56,220 --> 00:40:04,020
+'Thank you. I'm Brother Jack McMurdo, Lodge
+29, Chicago, Master, J. H. Scott. I'm lucky
+
+483
+00:40:04,020 --> 00:40:05,480
+to meet a brother so early.'
+
+484
+00:40:05,480 --> 00:40:09,580
+'But why did you leave Chicago?' asked the
+miner.
+
+485
+00:40:09,580 --> 00:40:11,940
+McMurdo nodded towards the policemen.
+
+486
+00:40:11,940 --> 00:40:17,280
+'They'd be very interested to know,' he said.
+'But I don't really want to talk about it.
+
+487
+00:40:17,280 --> 00:40:19,290
+I've my own good reason for leaving Chicago.'
+
+488
+00:40:19,290 --> 00:40:21,980
+'Okay. Where are you going tonight?'
+
+489
+00:40:21,980 --> 00:40:23,319
+'To Vermissa.'
+
+490
+00:40:23,319 --> 00:40:26,570
+'That's the third stop. Where are you staying?'
+
+491
+00:40:26,570 --> 00:40:29,860
+'With Jacob Shafter, Sheridan Street.'
+
+492
+00:40:29,860 --> 00:40:35,220
+'Well, I'm getting off at the next stop. But
+I'll give you some advice. If you're in trouble
+
+493
+00:40:35,220 --> 00:40:41,869
+in Vermissa, go and see Master McGinty. Maybe
+we'll meet at the lodge one evening.' The
+
+494
+00:40:41,869 --> 00:40:44,400
+train stopped and the miner got off.
+
+495
+00:40:44,400 --> 00:40:45,960
+The train moved off.
+
+496
+00:40:45,960 --> 00:40:50,250
+'You're new around here then?' one of the
+policemen asked McMurdo.
+
+497
+00:40:50,250 --> 00:40:53,770
+'What if I am?' he answered rudely.
+
+498
+00:40:53,770 --> 00:40:58,420
+'Just be careful who you choose to be your
+friends. I wouldn't start with Mike Scanlan
+
+499
+00:40:58,420 --> 00:41:00,150
+and his gang if I were you.'
+
+500
+00:41:00,150 --> 00:41:06,080
+'What business is it of yours who my friends
+are?' shouted McMurdo. Everyone looked round
+
+501
+00:41:06,080 --> 00:41:10,740
+at him. 'Did I ask for your advice?' The two
+policemen were shocked.
+
+502
+00:41:10,740 --> 00:41:15,060
+'No offence, stranger. It was a warning, seeing
+that you're new here.'
+
+503
+00:41:15,060 --> 00:41:21,710
+'I'm new here but I'm not new to you and your
+kind,' shouted McMurdo. 'You're all the same,
+
+504
+00:41:21,710 --> 00:41:24,579
+giving your advice when nobody asks for it!'
+
+505
+00:41:24,579 --> 00:41:29,920
+'Well. We'll probably be seeing more of you
+by the sound of it,' said one of the policemen.
+
+506
+00:41:29,920 --> 00:41:36,730
+'You're a troublemaker if ever I saw one!'
+'I'm not afraid of you!' cried McMurdo. 'My
+
+507
+00:41:36,730 --> 00:41:42,369
+name's Jack McMurdo and if you want me, I'm
+staying at Jacob Shafter's at Sheridan Street,
+
+508
+00:41:42,369 --> 00:41:45,670
+Vermissa, so I'm not hiding from you, am I?'
+
+509
+00:41:45,670 --> 00:41:51,290
+A few minutes later the train stopped at Vermissa
+station and McMurdo and many of the other
+
+510
+00:41:51,290 --> 00:41:57,050
+workers got off the train. McMurdo was about
+to walk off when one of the miners stopped
+
+511
+00:41:57,050 --> 00:41:58,100
+him.
+
+512
+00:41:58,100 --> 00:42:04,160
+'You really know how to talk to the police,'
+he said admiringly. 'I'm passing by Shafter's
+
+513
+00:42:04,160 --> 00:42:08,690
+place. Let me carry your bag and I'll show
+you where it is.'
+
+514
+00:42:08,690 --> 00:42:13,810
+Many of the other miners said goodnight as
+they left. Before he had even arrived in the
+
+515
+00:42:13,810 --> 00:42:20,780
+town, Jack McMurdo had a reputation in Vermissa.
+The two men walked along.
+
+516
+00:42:20,780 --> 00:42:27,859
+'That's the Union House,' said the miner pointing
+to one of the bigger buildings. 'Jack McGinty
+
+517
+00:42:27,859 --> 00:42:29,040
+is the boss there.'
+
+518
+00:42:29,040 --> 00:42:30,460
+'What's he like?'
+
+519
+00:42:30,460 --> 00:42:35,480
+'Haven't you heard of him? He's been in the
+papers often enough because of the Scowrers.'
+
+520
+00:42:35,480 --> 00:42:43,600
+'The Scowrers? Aren't they a group of murderers?'
+asked McMurdo. 'Sssh!' cried the miner. 'You
+
+521
+00:42:43,600 --> 00:42:49,240
+won't last long here if you talk like that,
+on the street so that anyone can hear you.
+
+522
+00:42:49,240 --> 00:42:56,280
+There are murders but McGinty's name mustn't
+be connected with them. He hears everything.
+
+523
+00:42:56,280 --> 00:42:59,350
+Now, here's Jacob Shafter's house.'
+
+524
+00:42:59,350 --> 00:43:05,750
+'Thanks,' said McMurdo. He knocked on the
+door.
+
+525
+00:43:05,750 --> 00:43:12,970
+It was opened by a beautiful young woman.
+She was blonde with dark eyes. McMurdo stared
+
+526
+00:43:12,970 --> 00:43:15,920
+at her, lost for words.
+
+527
+00:43:15,920 --> 00:43:21,600
+She spoke first. 'I thought it was Father,'
+she said. 'Are you looking for him? He'll
+
+528
+00:43:21,600 --> 00:43:23,000
+be back soon.'
+
+529
+00:43:23,000 --> 00:43:28,880
+'I'm in no hurry,' said McMurdo at last. 'But
+I'm looking for a place to stay and your house
+
+530
+00:43:28,880 --> 00:43:30,290
+was recommended to me.'
+
+531
+00:43:30,290 --> 00:43:36,650
+'Well then come in, sir. I'm Ettie Shafter,
+Mr Shafter's daughter. My mother's dead, so
+
+532
+00:43:36,650 --> 00:43:42,770
+I run the house. You can wait by the fire
+for my father. Ah, here he is now.'
+
+533
+00:43:42,770 --> 00:43:48,660
+An old man walked slowly up the path. The
+two men talked and Jack McMurdo agreed to
+
+534
+00:43:48,660 --> 00:43:51,579
+pay seven dollars a week to stay with them.
+
+535
+00:43:51,579 --> 00:43:57,320
+McMurdo quickly became popular at the Shafter's
+house. Within a few days everyone knew who
+
+536
+00:43:57,320 --> 00:44:03,240
+he was and they liked and respected him. He
+had also fallen in love with Shafter's daughter
+
+537
+00:44:03,240 --> 00:44:09,619
+Ettie and told her so everyday. He was determined
+to marry her even though she told him that
+
+538
+00:44:09,619 --> 00:44:16,859
+she had already promised to marry someone
+else.
+
+539
+00:44:16,859 --> 00:44:22,579
+CHAPTER TWO
+Meeting Boss McGinty
+
+540
+00:44:22,579 --> 00:44:26,250
+One evening, Mike Scanlan came to see McMurdo.
+
+541
+00:44:26,250 --> 00:44:32,060
+'McMurdo, why haven't you been to introduce
+yourself to Master McGinty?' he asked.
+
+542
+00:44:32,060 --> 00:44:37,500
+'I had to find a job,' replied McMurdo. 'I'm
+working as a bookkeeper now.'
+
+543
+00:44:37,500 --> 00:44:39,480
+Scanlan seemed worried.
+
+544
+00:44:39,480 --> 00:44:45,780
+'But you have to see Boss McGinty,' he said.
+'The lodge isn't the same here as it is in
+
+545
+00:44:45,780 --> 00:44:48,089
+Chicago. Go tonight.'
+
+546
+00:44:48,089 --> 00:44:53,590
+But someone else wanted to talk to McMurdo
+that evening Mr Shafter called McMurdo into
+
+547
+00:44:53,590 --> 00:44:57,660
+his room and asked him about his feelings
+for Ettie, his daughter.
+
+548
+00:44:57,660 --> 00:45:05,380
+'It's no good, McMurdo,' said the old man.
+'Someone has got there before you.'
+
+549
+00:45:05,380 --> 00:45:11,970
+'Yes, Ettie told me so, but she won't tell
+me his name. So who is it?' said McMurdo.
+
+550
+00:45:11,970 --> 00:45:18,970
+'It's one of the Scowrers,' said Shafter.
+'His name is Teddy Baldwin.'
+
+551
+00:45:18,970 --> 00:45:23,599
+'Who are these Scowrers? Why are you all so
+afraid of them?'
+
+552
+00:45:23,599 --> 00:45:28,940
+'The Scowrers are the Ancient Order of Freemen,'
+replied the old man.
+
+553
+00:45:28,940 --> 00:45:32,670
+'But I belong to that order myself,' said
+McMurdo.
+
+554
+00:45:32,670 --> 00:45:37,560
+'You! I wouldn't have let you into my house
+if I had known that!'
+
+555
+00:45:37,560 --> 00:45:42,369
+'But why? The Order is for charity and friendship,
+the rules say so.'
+
+556
+00:45:42,369 --> 00:45:49,550
+'Maybe in some places but not here,' said
+the old man. 'Here they are a group of murderers.
+
+557
+00:45:49,550 --> 00:45:54,119
+It's bad enough that I have one of these people
+coming after my Ettie and that I cannot say
+
+558
+00:45:54,119 --> 00:46:00,720
+no to him. I won't have another one staying
+in my house. You must leave!'
+
+559
+00:46:00,720 --> 00:46:02,349
+McMurdo went to see Ettie.
+
+560
+00:46:02,349 --> 00:46:08,390
+'If I had been first Ettie, would I have had
+a chance?' he asked her.
+
+561
+00:46:08,390 --> 00:46:16,210
+Ettie started crying. 'Things would have been
+very different if you'd been the first,' she
+
+562
+00:46:16,210 --> 00:46:17,210
+cried.
+
+563
+00:46:17,210 --> 00:46:23,210
+'We can't be together because of a promise
+to someone you don't love? That's wrong, Ettie.'
+
+564
+00:46:23,210 --> 00:46:29,730
+'But I'm afraid of him, Jack, both for myself
+and my father. Can't we go away together somewhere
+
+565
+00:46:29,730 --> 00:46:32,400
+else? We can take Father with us!'
+
+566
+00:46:32,400 --> 00:46:37,770
+'I can't take you away, I can't leave here
+yet. But I promise you, no harm will come
+
+567
+00:46:37,770 --> 00:46:43,869
+to you or your father. But you may find that
+I am as bad as other men, Ettie,' said Jack.
+
+568
+00:46:43,869 --> 00:46:49,390
+'Oh no, Jack. I trust you,' replied the girl.
+
+569
+00:46:49,390 --> 00:46:55,180
+The door opened suddenly and a handsome young
+man walked in. Ettie jumped to her feet looking
+
+570
+00:46:55,180 --> 00:46:56,180
+alarmed.
+
+571
+00:46:56,180 --> 00:47:01,300
+'I'm glad to see you, Mr Baldwin. You're early.
+Please sit down.'
+
+572
+00:47:01,300 --> 00:47:06,760
+Mr Baldwin did not sit down. 'Who's he?' he
+demanded.
+
+573
+00:47:06,760 --> 00:47:09,790
+Ettie explained that McMurdo was staying with
+them.
+
+574
+00:47:09,790 --> 00:47:15,670
+'Well, McMurdo, this young lady is mine. Perhaps
+she told you.'
+
+575
+00:47:15,670 --> 00:47:18,510
+'No, I didn't know there was anything between
+you.'
+
+576
+00:47:18,510 --> 00:47:25,030
+'Well, you know now,' replied Baldwin. 'Perhaps
+you're ready for a fight, Mr McMurdo?'
+
+577
+00:47:25,030 --> 00:47:29,150
+McMurdo jumped up. 'I am!' he cried. 'Come
+on, outside!'
+
+578
+00:47:29,150 --> 00:47:33,130
+'Oh, Jack, Jack, be careful! He'll hurt you!'
+cried Ettie.
+
+579
+00:47:33,130 --> 00:47:39,940
+'Oh, it's "Jack" is it? I see how it is. Well,
+I'll sort this out without getting into a
+
+580
+00:47:39,940 --> 00:47:45,510
+fight.' He rolled up his sleeve and showed
+McMurdo a strange mark on his arm. It was
+
+581
+00:47:45,510 --> 00:47:49,470
+a triangle inside a circle. 'Do you know what
+that means?'
+
+582
+00:47:49,470 --> 00:47:51,589
+'I don't know and I don't care!'
+
+583
+00:47:51,589 --> 00:47:57,710
+'Well, you will know, I promise you that.
+Perhaps Miss Ettie can tell you about it.
+
+584
+00:47:57,710 --> 00:48:03,750
+And you, girl, you'll come back to me, do
+you hear?' He turned and left the house.
+
+585
+00:48:03,750 --> 00:48:09,510
+McMurdo decided to go straight down to the
+Union House and introduce himself to Boss
+
+586
+00:48:09,510 --> 00:48:14,930
+McGinty, whose bar was crowded as usual. Boss
+McGinty was not an honest man and he was getting
+
+587
+00:48:14,930 --> 00:48:21,400
+richer and richer. As a councilor, he controlled
+taxes, roadwork's and various accounts for
+
+588
+00:48:21,400 --> 00:48:28,900
+the area. The citizens of Vermissa were blackmailed
+into silence, scared that they might be killed.
+
+589
+00:48:28,900 --> 00:48:34,740
+McMurdo went into the bar. He saw a tall,
+strong, heavy looking man with black hair
+
+590
+00:48:34,740 --> 00:48:42,630
+and a beard who had to be McGinty. He looked
+friendly, but he had evil eyes. McMurdo walked
+
+591
+00:48:42,630 --> 00:48:49,060
+up to the man, looked him in the eye and introduced
+himself. He made a signal so that McGinty
+
+592
+00:48:49,060 --> 00:48:52,010
+would know he was also a Freeman.
+
+593
+00:48:52,010 --> 00:48:58,960
+McGinty looked surprised, but then he took
+McMurdo to a back room. He sat down and, without
+
+594
+00:48:58,960 --> 00:49:06,080
+saying a word, examined McMurdo carefully.
+For a couple of minutes he sat in silence.
+
+595
+00:49:06,080 --> 00:49:08,980
+Then, suddenly, he pulled out a gun.
+
+596
+00:49:08,980 --> 00:49:14,750
+'If this is a game of yours, it won't last
+long,' said McGinty dangerously.
+
+597
+00:49:14,750 --> 00:49:20,230
+'That is a strange welcome from one brother
+to another,' replied McMurdo calmly.
+
+598
+00:49:20,230 --> 00:49:25,920
+'That's just what you have to prove - that
+you really are a brother!'
+
+599
+00:49:25,920 --> 00:49:30,550
+McGinty then asked him some details about
+where he was made a Freeman and the reason
+
+600
+00:49:30,550 --> 00:49:37,780
+why he had left Chicago. McMurdo gave him
+a page from a newspaper. McGinty read it quickly;
+
+601
+00:49:37,780 --> 00:49:43,230
+it was about the shooting of a man called
+Jonas Pinto in the Lake Bar in Chicago in
+
+602
+00:49:43,230 --> 00:49:45,260
+January 1874.
+
+603
+00:49:45,260 --> 00:49:49,000
+'Did you shoot this man?' asked McGinty. 'Why?'
+
+604
+00:49:49,000 --> 00:49:54,640
+'I was making fake dollars. This man Pinto
+was helping me; then he said he wanted to
+
+605
+00:49:54,640 --> 00:50:00,170
+go to the police. Maybe he did but I didn't
+wait to see. I just shot him and came down
+
+606
+00:50:00,170 --> 00:50:01,170
+here.'
+
+607
+00:50:01,170 --> 00:50:06,920
+'So can you still make these fake dollars?'
+asked McGinty. McMurdo gave him a handful
+
+608
+00:50:06,920 --> 00:50:13,010
+of notes. 'Well, these aren't real,' he said.
+At this moment, Ted Baldwin walked in.
+
+609
+00:50:13,010 --> 00:50:18,589
+'So, you got here first, McMurdo,' he said
+angrily.
+
+610
+00:50:18,589 --> 00:50:24,710
+Boss McGinty wanted to know what the problem
+was. McMurdo told him about Ettie.
+
+611
+00:50:24,710 --> 00:50:28,800
+'She's free to choose for herself,' he finished.
+
+612
+00:50:28,800 --> 00:50:33,520
+'Between two brothers of the lodge, she certainly
+is,' agreed McGinty.
+
+613
+00:50:33,520 --> 00:50:39,320
+'And that's your answer?' shouted Ted Baldwin.
+'You've known me for years and now you take
+
+614
+00:50:39,320 --> 00:50:41,119
+the side of this newcomer?'
+
+615
+00:50:41,119 --> 00:50:46,970
+McGinty jumped on him like a tiger. He grabbed
+his neck and threw him across the room.
+
+616
+00:50:46,970 --> 00:50:52,750
+'While I'm the Master of this lodge, you had
+better accept my rules,' he shouted.
+
+617
+00:50:52,750 --> 00:50:54,140
+Ted Baldwin nodded.
+
+618
+00:50:54,140 --> 00:51:00,309
+'So we're all friends, right?' said McGinty.
+'And there's an end to the matter.'
+
+619
+00:51:00,309 --> 00:51:11,270
+Ted Baldwin was back on his feet. He nodded
+again but he did not look happy.
+
+620
+00:51:11,270 --> 00:51:18,770
+CHAPTER THREE
+Lodge 341, Vermissa
+
+621
+00:51:18,770 --> 00:51:24,800
+The next day, McMurdo moved from Jacob Shafter's
+and went to stay with Mrs MacNamara, who was
+
+622
+00:51:24,800 --> 00:51:32,160
+a widow. Scanlan now also worked in Vermissa
+and so he stayed at the same house. McMurdo
+
+623
+00:51:32,160 --> 00:51:37,140
+was still allowed to go for meals with the
+Shafters, so his relationship with Ettie continued
+
+624
+00:51:37,140 --> 00:51:39,130
+to develop.
+
+625
+00:51:39,130 --> 00:51:44,720
+One Saturday night, McMurdo was made a full
+brother of the lodge in Vermissa. He was warned
+
+626
+00:51:44,720 --> 00:51:50,589
+that something might happen to him but he
+did not know what it was. Many men had gathered
+
+627
+00:51:50,589 --> 00:51:56,849
+for the ceremony. McMurdo was tied up and
+blindfolded. Then they took off his coat and
+
+628
+00:51:56,849 --> 00:51:59,750
+rolled up the sleeve on his right arm.
+
+629
+00:51:59,750 --> 00:52:05,819
+It was very dark and McMurdo could hear the
+voices of the men around him. Then he heard
+
+630
+00:52:05,819 --> 00:52:07,710
+Boss McGinty's voice.
+
+631
+00:52:07,710 --> 00:52:13,609
+'Jack McMurdo, are you a member of the Ancient
+Order of Freemen?' McMurdo nodded.
+
+632
+00:52:13,609 --> 00:52:19,780
+'Are you from Lodge No. 29, Chicago?' Again
+McMurdo nodded.
+
+633
+00:52:19,780 --> 00:52:23,690
+'Are you ready to be tested?' asked McGinty.
+
+634
+00:52:23,690 --> 00:52:26,180
+'I am,' replied McMurdo.
+
+635
+00:52:26,180 --> 00:52:27,859
+'Very well.'
+
+636
+00:52:27,859 --> 00:52:34,589
+McMurdo wanted to cry out because of the terrible
+pain in his arm. He felt faint but he bit
+
+637
+00:52:34,589 --> 00:52:37,140
+his lip and he did not cry out.
+
+638
+00:52:37,140 --> 00:52:45,910
+'I can take more than that,' he said. There
+was loud applause. 'I welcome you to Lodge
+
+639
+00:52:45,910 --> 00:52:52,630
+341, Vermissa. Let's drink to our new brother!'
+said McGinty.
+
+640
+00:52:52,630 --> 00:52:58,000
+McMurdo took off his blindfold and examined
+his arm. There was a circle with a triangle
+
+641
+00:52:58,000 --> 00:53:01,369
+in it, burnt deep and red onto his arm.
+
+642
+00:53:01,369 --> 00:53:07,450
+'So, now to business,' said McGinty. 'How
+is our bank balance?'
+
+643
+00:53:07,450 --> 00:53:12,840
+And so McMurdo learnt of the way this community
+worked. Small companies gave money to the
+
+644
+00:53:12,840 --> 00:53:18,780
+Order so that they were protected. If they
+did not give money, machinery went wrong,
+
+645
+00:53:18,780 --> 00:53:24,700
+buildings burnt down and men were murdered.
+Nothing could be proved against the Order
+
+646
+00:53:24,700 --> 00:53:29,540
+as most of the policemen were paid by the
+society and the others were too scared to
+
+647
+00:53:29,540 --> 00:53:34,380
+do anything. Nobody wanted to give evidence
+against the Order.
+
+648
+00:53:34,380 --> 00:53:40,000
+But towards the end of the meeting, another
+man spoke. Brother Morris told them of how
+
+649
+00:53:40,000 --> 00:53:45,910
+one large company had forced - all the smaller
+companies out of the valley and bought their
+
+650
+00:53:45,910 --> 00:53:46,910
+businesses.
+
+651
+00:53:46,910 --> 00:53:52,660
+'I don't see that it matters to us who has
+bought the businesses, Brother Morris,' said
+
+652
+00:53:52,660 --> 00:53:54,250
+Boss McGinty.
+
+653
+00:53:54,250 --> 00:54:00,960
+But Brother Morris continued. 'With respect,
+sir, I think it will matter very much to us
+
+654
+00:54:00,960 --> 00:54:08,170
+in the future. If big companies like the Railroad
+or General Iron own large parts of this valley,
+
+655
+00:54:08,170 --> 00:54:14,359
+and their bosses are in New York or Philadelphia,
+they won't care about our threats. The small
+
+656
+00:54:14,359 --> 00:54:20,859
+men can't harm us. They haven't the money
+or the power. But if these big companies find
+
+657
+00:54:20,859 --> 00:54:27,220
+that we are stopping their profits, they won't
+stop until they have brought us to justice.'
+
+658
+00:54:27,220 --> 00:54:30,380
+But McGinty took no notice of Brother Morris.
+
+659
+00:54:30,380 --> 00:54:36,401
+'I expect the big companies will find it easier
+to pay than to fight, the same as the small
+
+660
+00:54:36,401 --> 00:54:42,170
+companies,' he said. 'And now, let's drink.'
+
+661
+00:54:42,170 --> 00:54:47,650
+There was one last piece of business to be
+sorted out that night. The editor of the local
+
+662
+00:54:47,650 --> 00:54:54,020
+newspaper, the Herald, had recently printed
+an article criticizing the lodge. His name
+
+663
+00:54:54,020 --> 00:55:02,430
+was James Stanger. The headline was 'Reign
+of Terror in the Coal and Iron District'.
+
+664
+00:55:02,430 --> 00:55:06,920
+McGinty read the article to the men, who were
+by now drunk and restless.
+
+665
+00:55:06,920 --> 00:55:13,010
+'That's what he says about us. Now what shall
+we say to him?' he shouted.
+
+666
+00:55:13,010 --> 00:55:15,860
+'Kill him!' shouted back many voices.
+
+667
+00:55:15,860 --> 00:55:22,820
+'No, we must be careful. But he must get a
+severe warning,' ordered McGinty. 'Who will
+
+668
+00:55:22,820 --> 00:55:24,950
+go this evening?'
+
+669
+00:55:24,950 --> 00:55:29,089
+Ted Baldwin volunteered, with five or six
+other men.
+
+670
+00:55:29,089 --> 00:55:35,710
+'Take our new brother with you,' added McGinty.
+Baldwin did not look pleased. 'You can come
+
+671
+00:55:35,710 --> 00:55:39,220
+if you want,' he said to McMurdo.
+
+672
+00:55:39,220 --> 00:55:45,990
+It was a very cold night. The men walked through
+the town and stopped outside a high building.
+
+673
+00:55:45,990 --> 00:55:53,480
+'You stay down here, McMurdo. Watch the door,'
+said Baldwin. 'You others come with me.'
+
+674
+00:55:53,480 --> 00:55:59,430
+The men went in and up some stairs. From the
+room above came a cry for help, then the sound
+
+675
+00:55:59,430 --> 00:56:05,970
+of crashing chairs. A gray-haired old man
+rushed out of the room. He was grabbed before
+
+676
+00:56:05,970 --> 00:56:11,690
+he could go any further and his glasses came
+falling down the stairs to McMurdo's feet.
+
+677
+00:56:11,690 --> 00:56:17,339
+The old man was on his face and the men hit
+him again and again with sticks. The others
+
+678
+00:56:17,339 --> 00:56:22,690
+stopped, but Baldwin kept attacking the old
+man, who was now covered in blood.
+
+679
+00:56:22,690 --> 00:56:25,059
+McMurdo went up and pulled Baldwin away.
+
+680
+00:56:25,059 --> 00:56:29,520
+'Leave it! You'll kill the man! The boss said
+that we shouldn't kill him and look what you're
+
+681
+00:56:29,520 --> 00:56:31,940
+doing! We'd better go home.'
+
+682
+00:56:31,940 --> 00:56:34,170
+The others agreed with McMurdo.
+
+683
+00:56:34,170 --> 00:56:38,690
+Hurry! said one of the men. 'There are lights
+coming on. All the town will be here in a
+
+684
+00:56:38,690 --> 00:56:40,510
+minute. Run!'
+
+685
+00:56:40,510 --> 00:56:45,470
+They left the beaten body of the editor on
+the stairs and moved quickly away up the streets
+
+686
+00:56:45,470 --> 00:56:51,470
+and back to their homes.
+
+687
+00:56:51,470 --> 00:56:56,859
+CHAPTER FOUR
+The Valley of Fear
+
+688
+00:56:56,859 --> 00:57:02,359
+When McMurdo woke up the next morning, his
+head ached and his arm was very painful from
+
+689
+00:57:02,359 --> 00:57:08,680
+the mark. Because he had his own illegal way
+of making money, he did not always go to work
+
+690
+00:57:08,680 --> 00:57:15,150
+and this morning was one of those times. He
+sat and read the paper. There was an article
+
+691
+00:57:15,150 --> 00:57:22,770
+about last night's events. 'Editor Seriously
+Injured at the Herald Office' was the headline.
+
+692
+00:57:22,770 --> 00:57:29,250
+McMurdo put down the newspaper. The landlady
+bought him a note. It read 'I want to speak
+
+693
+00:57:29,250 --> 00:57:37,240
+to you. Meet me on Miller Hill. I have something
+important to tell you.' The note was not signed.
+
+694
+00:57:37,240 --> 00:57:40,910
+McMurdo was surprised but decided to go.
+
+695
+00:57:40,910 --> 00:57:44,260
+When he got to the hill, Brother Morris was
+waiting for him.
+
+696
+00:57:44,260 --> 00:57:49,660
+'I wanted to ask you something. But please
+don't tell Boss McGinty. When you joined the
+
+697
+00:57:49,660 --> 00:57:55,330
+Freemen's Society did you think that it would
+lead you to a life of crime?' he asked.
+
+698
+00:57:55,330 --> 00:57:59,290
+'If you call it crime,' said McMurdo. 'Some
+call it war.'
+
+699
+00:57:59,290 --> 00:58:06,119
+'Of course it's crime,' cried Morris. 'When
+I arrived here, I wanted to do the best for
+
+700
+00:58:06,119 --> 00:58:11,920
+myself and my family. But then I was forced
+to join the lodge and ordered to carry out
+
+701
+00:58:11,920 --> 00:58:20,559
+a murder. I went but I couldn't do it. But
+it made me a criminal. I was a good Catholic
+
+702
+00:58:20,559 --> 00:58:26,890
+but now the priest will no longer speak to
+me. I see you going the same way. Can't we
+
+703
+00:58:26,890 --> 00:58:29,079
+do anything to stop it?'
+
+704
+00:58:29,079 --> 00:58:34,640
+'What are you going to do?' asked McMurdo.
+'I think you're making too much of this.'
+
+705
+00:58:34,640 --> 00:58:41,310
+'Too much? Wait until you've been here longer.
+Then you'll understand how it is. There is
+
+706
+00:58:41,310 --> 00:58:50,369
+a cloud over this valley, a cloud of murder.
+It is the Valley of Fear, the Valley of Death.
+
+707
+00:58:50,369 --> 00:58:55,670
+These people are terrified from morning until
+night. Wait and you'll see.'
+
+708
+00:58:55,670 --> 00:59:00,460
+'I'll tell you when I've seen more. You're
+not the man for this place, that's clear.
+
+709
+00:59:00,460 --> 00:59:06,150
+Why don't you sell your business and leave?
+What you have said is safe with me. I'm going
+
+710
+00:59:06,150 --> 00:59:07,150
+now.'
+
+711
+00:59:07,150 --> 00:59:13,569
+'Just one thing. Perhaps someone has seen
+us together. McGinty will want to know what
+
+712
+00:59:13,569 --> 00:59:18,559
+we're talking about. Tell him that I offered
+you a job in my shop.'
+
+713
+00:59:18,559 --> 00:59:24,369
+'Good thinking. And I refused your offer.
+Goodbye Brother Morris.'
+
+714
+00:59:24,369 --> 00:59:31,030
+The same afternoon, McGinty came to McMurdo's
+house and asked why he had been with Morris.
+
+715
+00:59:31,030 --> 00:59:36,820
+McMurdo told him the story. 'Did Morris say
+anything against the lodge?' asked McGinty.
+
+716
+00:59:36,820 --> 00:59:42,720
+McMurdo told him that he had not. Just as
+McGinty was about to leave, the door crashed
+
+717
+00:59:42,720 --> 00:59:47,570
+open and Captain Marvin of the police walked
+in with two other policemen.
+
+718
+00:59:47,570 --> 00:59:51,579
+'You're coming with me, McMurdo. Take his
+gun,' said Marvin.
+
+719
+00:59:51,579 --> 00:59:54,359
+'What have I done?' asked McMurdo.
+
+720
+00:59:54,359 --> 00:59:57,500
+'You can't do this,' said McGinty.
+
+721
+00:59:57,500 --> 01:00:02,550
+'You stay out of this, Councillor,' said the
+policeman. Then he turned to McMurdo. 'You
+
+722
+01:00:02,550 --> 01:00:06,960
+were involved in the beating of Mr Stanger
+at the Herald office last night.'
+
+723
+01:00:06,960 --> 01:00:13,520
+'Well, he can't have been,' said McGinty.
+'This man was at my bar all night playing
+
+724
+01:00:13,520 --> 01:00:14,990
+cards with me.'
+
+725
+01:00:14,990 --> 01:00:21,700
+'Well, we'll see about that in court,' replied
+Marvin. 'Come on, you're coming with me.'
+
+726
+01:00:21,700 --> 01:00:27,579
+But the Freemen had power even over the courts.
+The next morning in court, the witnesses were
+
+727
+01:00:27,579 --> 01:00:33,619
+uncertain as to the identity of the men who
+had attacked Mr Stanger. Stanger himself said
+
+728
+01:00:33,619 --> 01:00:40,670
+that he was so taken by surprise that he did
+not see his attackers. McMurdo was released.
+
+729
+01:00:40,670 --> 01:00:46,020
+The court was full of brothers who cheered
+and applauded. But there were others there
+
+730
+01:00:46,020 --> 01:00:53,160
+who looked less happy. One man shouted as
+they went out, 'You murderers! We'll catch
+
+731
+01:00:53,160 --> 01:00:54,500
+you yet!'
+
+732
+01:00:54,500 --> 01:01:00,260
+McMurdo's arrest made him even more popular
+in Vermissa. Only Ted Baldwin and a few other
+
+733
+01:01:00,260 --> 01:01:06,089
+members of the lodge did not like him. But
+McMurdo also lost favour with another person
+
+734
+01:01:06,089 --> 01:01:13,609
+far more important to him: Ettie. Her father
+wanted nothing to do with him. Ettie was very
+
+735
+01:01:13,609 --> 01:01:18,760
+much in love with McMurdo but her common sense
+told her that it was better not to marry a
+
+736
+01:01:18,760 --> 01:01:25,309
+criminal. She decided to go and see him one
+last time, to try to get him away from the
+
+737
+01:01:25,309 --> 01:01:27,119
+evil influence of the lodge.
+
+738
+01:01:27,119 --> 01:01:32,160
+'But you don't know what you're asking me!
+Do you think the lodge will let a man go free
+
+739
+01:01:32,160 --> 01:01:33,740
+knowing all its secrets?'
+
+740
+01:01:33,740 --> 01:01:39,270
+'But I've thought of that. Father has some
+money saved up and he is ready to leave this
+
+741
+01:01:39,270 --> 01:01:43,119
+place. Let's go together to New York or Philadelphia.'
+
+742
+01:01:43,119 --> 01:01:48,119
+'But they have lodges there too. We can't
+get away that easily,' said McMurdo.
+
+743
+01:01:48,119 --> 01:01:53,720
+'Well, to England or Sweden or anywhere to
+get away from this Valley of Fear!'
+
+744
+01:01:53,720 --> 01:01:58,359
+'Look, Ettie, the best I can say is that in
+six months or so, I'll find a way so that
+
+745
+01:01:58,359 --> 01:02:01,170
+we can leave here with no problems.'
+
+746
+01:02:01,170 --> 01:02:06,339
+'Really? Six months?' Ettie was happy. 'Is
+that a promise?'
+
+747
+01:02:06,339 --> 01:02:10,099
+'I promise,' said McMurdo.
+
+748
+01:02:10,099 --> 01:02:15,539
+Life in the valley continued as before. The
+Scowrers murdered people and terrorized the
+
+749
+01:02:15,539 --> 01:02:22,039
+district. McMurdo was given a job of his own
+to do; he had to blow up the house of a man
+
+750
+01:02:22,039 --> 01:02:28,329
+named Chester Wilcox. There was no other way
+of doing it except at night when his wife
+
+751
+01:02:28,329 --> 01:02:35,190
+and two small children were also in the house.
+McMurdo set the explosives and the house blew
+
+752
+01:02:35,190 --> 01:02:41,291
+up. However, someone had told Wilcox that
+he was in danger, and the night before the
+
+753
+01:02:41,291 --> 01:02:47,859
+explosion he and his family moved to a safe
+place. But in general, life had never seemed
+
+754
+01:02:47,859 --> 01:02:52,270
+so hopeless and dark in the Valley of Fear.
+
+755
+01:02:52,270 --> 01:02:56,829
+One Saturday evening in May, Brother Morris
+came to see McMurdo again.
+
+756
+01:02:56,829 --> 01:03:03,190
+'I must speak to you,' he said. 'I spoke to
+you once before and you didn't tell McGinty
+
+757
+01:03:03,190 --> 01:03:08,220
+so I know I can trust you. I have something
+to tell you.'
+
+758
+01:03:08,220 --> 01:03:14,220
+The man was white and shaking. McMurdo gave
+him some whisky and waited.
+
+759
+01:03:14,220 --> 01:03:21,809
+'There's a detective after us,' he said. 'You've
+heard of Pinkerton's? When they send a man
+
+760
+01:03:21,809 --> 01:03:29,049
+after you, they don't stop until they have
+what they want. The lodge will be finished.'
+
+761
+01:03:29,049 --> 01:03:34,530
+'We must kill him,' said McMurdo at once.
+'Who is he? Where is he? How do you know about
+
+762
+01:03:34,530 --> 01:03:36,840
+him? Tell me the facts.'
+
+763
+01:03:36,840 --> 01:03:44,260
+Morris answered all McMurdo's questions. 'His
+name is Birdy Edwards, but here he is using
+
+764
+01:03:44,260 --> 01:03:52,599
+Steve Wilson as his name. He's staying in
+Hobson's Patch. I know because I have a friend
+
+765
+01:03:52,599 --> 01:03:58,599
+who works for the telegraph service. He told
+me about him. Those big corporations have
+
+766
+01:03:58,599 --> 01:04:02,080
+hired Pinkerton's best man!'
+
+767
+01:04:02,080 --> 01:04:06,589
+'Leave this to me,' said McMurdo. 'Don't worry.'
+
+768
+01:04:06,589 --> 01:04:11,859
+McMurdo went to the Shafter's. He told Ettie
+the news and asked her if she was willing
+
+769
+01:04:11,859 --> 01:04:14,440
+to go with him when the time came to leave.
+
+770
+01:04:14,440 --> 01:04:24,070
+'Day or night, Jack, I'll be ready when you
+come for me,' she said.
+
+771
+01:04:24,070 --> 01:04:27,540
+CHAPTER FIVE
+Birdy Edwards's Trap
+
+772
+01:04:27,540 --> 01:04:36,299
+Later that evening, McMurdo went to the lodge.
+As it was Saturday, the brothers were already
+
+773
+01:04:36,299 --> 01:04:39,060
+there. Jack went to his seat.
+
+774
+01:04:39,060 --> 01:04:42,670
+'Master,' he said. 'I have urgent news.'
+
+775
+01:04:42,670 --> 01:04:45,990
+McMurdo told them what he knew and what he
+planned to do about it.
+
+776
+01:04:45,990 --> 01:04:49,500
+'There's only one answer,' said McMurdo.
+
+777
+01:04:49,500 --> 01:04:56,901
+'Birdy Edwards must never leave the valley,'
+said Baldwin. 'Exactly,' agreed McMurdo. 'Here's
+
+778
+01:04:56,901 --> 01:04:59,119
+what we'll do.'
+
+779
+01:04:59,119 --> 01:05:06,200
+He told them his plan. Birdy Edwards was pretending
+to be a journalist called Steve Wilson. He
+
+780
+01:05:06,200 --> 01:05:12,380
+had spoken to McMurdo, offering him money
+for information on the Scowrers. McMurdo had
+
+781
+01:05:12,380 --> 01:05:18,380
+told him some stories that he had made up
+and Wilson gave him twenty dollars. Wilson
+
+782
+01:05:18,380 --> 01:05:24,140
+offered him more money for more information.
+McMurdo arranged for Wilson to come to his
+
+783
+01:05:24,140 --> 01:05:30,730
+house so that he could tell him all the secrets
+of the lodge in exchange for more money. Wilson
+
+784
+01:05:30,730 --> 01:05:38,130
+was to come to Mrs MacNamara's house at ten
+o'clock. The house was isolated and Mrs MacNamara
+
+785
+01:05:38,130 --> 01:05:43,460
+did not hear very well. Seven of the other
+Freemen were to come to the house at nine
+
+786
+01:05:43,460 --> 01:05:46,720
+o'clock, ready for Mr Wilson.
+
+787
+01:05:46,720 --> 01:05:53,580
+'Once we get the door shut behind him, that'll
+be the end of Birdy Edwards,' said McMurdo.
+
+788
+01:05:53,580 --> 01:06:00,190
+McMurdo returned home and prepared for the
+evening ahead. He cleaned and oiled his gun.
+
+789
+01:06:00,190 --> 01:06:06,430
+He spoke to Scanlan who was also staying at
+the house. Although he was a Scowrer, Scanlan
+
+790
+01:06:06,430 --> 01:06:12,480
+did not like what the men did. McMurdo told
+him to go out that evening and stay away until
+
+791
+01:06:12,480 --> 01:06:14,119
+the morning.
+
+792
+01:06:14,119 --> 01:06:21,010
+The seven Freemen, including Boss McGinty,
+arrived at nine o'clock. McMurdo put the whisky
+
+793
+01:06:21,010 --> 01:06:26,420
+on the table and the men began to drink, ready
+for the job that was ahead of them.
+
+794
+01:06:26,420 --> 01:06:31,079
+'Maybe he won't come, maybe he knows there's
+danger,' said one of the men.
+
+795
+01:06:31,079 --> 01:06:35,040
+'Don't worry, he'll come,' said McMurdo. 'Listen!'
+
+796
+01:06:35,040 --> 01:06:38,039
+There were three loud knocks on the door.
+
+797
+01:06:38,039 --> 01:06:45,650
+'Be quiet!' whispered McMurdo to the others.
+He went down the passage to the door. The
+
+798
+01:06:45,650 --> 01:06:52,460
+others heard McMurdo open the door, then an
+unfamiliar voice. Then they heard the door
+
+799
+01:06:52,460 --> 01:06:59,720
+close. Birdy Edwards was inside. The door
+opened and McMurdo reappeared. He came to
+
+800
+01:06:59,720 --> 01:07:04,930
+the end of the table and looked at the men.
+He said nothing.
+
+801
+01:07:04,930 --> 01:07:08,819
+'Well,' said McGinty impatiently, 'is he here?'
+
+802
+01:07:08,819 --> 01:07:16,900
+'Yes,' replied McMurdo slowly. 'Birdy Edwards
+is here. I am Birdy Edwards!'
+
+803
+01:07:16,900 --> 01:07:22,700
+The room was silent. Then the windows were
+suddenly broken and guns were pointing in
+
+804
+01:07:22,700 --> 01:07:30,130
+through them. McGinty jumped up from his chair
+and ran for the door, but Captain Marvin of
+
+805
+01:07:30,130 --> 01:07:33,160
+the police appeared and pointed his gun at
+him.
+
+806
+01:07:33,160 --> 01:07:37,859
+'Stay where you are, McGinty,' said the man
+they had known as McMurdo. 'Take their guns,
+
+807
+01:07:37,859 --> 01:07:38,859
+Marvin!'
+
+808
+01:07:38,859 --> 01:07:43,710
+The men could do nothing. They were trapped.
+They sat around the table, staring at McMurdo
+
+809
+01:07:43,710 --> 01:07:45,970
+with confusion and hatred in their eyes.
+
+810
+01:07:45,970 --> 01:07:51,970
+'I'd like to speak to you before we leave,'
+said the man who had trapped them. 'I am Birdy
+
+811
+01:07:51,970 --> 01:07:57,540
+Edwards of Pinkerton's Detective Agency. I
+was chosen to break up your gang. It's taken
+
+812
+01:07:57,540 --> 01:08:03,380
+me a long time and it's been hard and dangerous,
+but I've won! Maybe you think the game isn't
+
+813
+01:08:03,380 --> 01:08:10,289
+over yet. I'll take my chances. You and sixty
+more of you will be in prison tonight. Before
+
+814
+01:08:10,289 --> 01:08:15,470
+I took this job, I never believed that there
+was a society like yours. In Chicago, the
+
+815
+01:08:15,470 --> 01:08:20,839
+society of Freemen weren't bad men. I never
+killed a man in Chicago, I never printed any
+
+816
+01:08:20,839 --> 01:08:26,290
+false money. I gave Chester Wilcox a warning
+so that when I blew up his house, he and his
+
+817
+01:08:26,290 --> 01:08:27,900
+family were already gone.'
+
+818
+01:08:27,900 --> 01:08:31,150
+'You traitor!' shouted McGinty.
+
+819
+01:08:31,150 --> 01:08:35,170
+'You can call me a traitor, but there are
+many people in this valley who will call me
+
+820
+01:08:35,170 --> 01:08:41,000
+a savior. I've been here three months in order
+to get to know every man and every secret.
+
+821
+01:08:41,000 --> 01:08:45,520
+I never want to live another three months
+like it, not for all the money in the world.
+
+822
+01:08:45,520 --> 01:08:49,040
+Now, Captain Marvin, take them away.'
+
+823
+01:08:49,040 --> 01:08:54,290
+Scanlan had delivered a note to Ettie and
+her father. The two left the Valley of Fear
+
+824
+01:08:54,290 --> 01:09:01,900
+and never went back. Ten days later, Ettie
+and Birdy Edwards were married in Chicago.
+
+825
+01:09:01,900 --> 01:09:08,089
+The trial of the Scowrers was held and McGinty
+was hanged, along with eight others. Many
+
+826
+01:09:08,089 --> 01:09:12,980
+other men went to prison. Birdy Edwards's
+job was done.
+
+827
+01:09:12,980 --> 01:09:20,940
+But, as he had thought, it was not over. Ted
+Baldwin was not sentenced to death. He was
+
+828
+01:09:20,940 --> 01:09:26,400
+in prison for ten years, but when he came
+out, he spent all his time looking for Birdy
+
+829
+01:09:26,400 --> 01:09:33,190
+Edwards. Birdy Edwards changed his name again
+and moved to California and it was there that
+
+830
+01:09:33,190 --> 01:09:38,941
+Ettie Edwards died. He took the name John
+Douglas and was nearly killed when he was
+
+831
+01:09:38,941 --> 01:09:45,150
+working in the mining industry with an English
+partner named Barker. A warning came just
+
+832
+01:09:45,150 --> 01:09:51,350
+in time and Douglas left for England, where
+he married for the second time. And so we
+
+833
+01:09:51,350 --> 01:09:56,840
+return to Sussex, and the fate of John Douglas.
+
+834
+01:09:56,840 --> 01:10:03,360
+At the trial, John Douglas was freed for having
+acted in self-defense. But Holmes's advice
+
+835
+01:10:03,360 --> 01:10:05,240
+was to leave England.
+
+836
+01:10:05,240 --> 01:10:12,380
+Two months had gone by and we had nearly forgotten
+about the case. But then, one night, a message
+
+837
+01:10:12,380 --> 01:10:24,800
+arrived for Holmes. All it said was 'Dear
+me, Mr Holmes! Dear me!' It was from Moriarty.
+
+838
+01:10:24,800 --> 01:10:31,030
+Holmes looked very serious. Later that night,
+Cecil Barker came to visit us.
+
+839
+01:10:31,030 --> 01:10:34,820
+'I have very bad news, Mr Holmes,' he said.
+
+840
+01:10:34,820 --> 01:10:38,480
+'I thought so,' said Holmes.
+
+841
+01:10:38,480 --> 01:10:43,719
+'It's poor Douglas. They tell me his real
+name is Edwards, but he'll always be Douglas
+
+842
+01:10:43,719 --> 01:10:48,920
+to me. I told you that they left for South
+Africa three weeks ago?'
+
+843
+01:10:48,920 --> 01:10:49,920
+Holmes nodded.
+
+844
+01:10:49,920 --> 01:10:57,440
+'I received this message from Mrs Douglas
+last night: "John has been lost overboard.
+
+845
+01:10:57,440 --> 01:11:01,640
+No one knows how the accident occurred. Ivy
+Douglas".'
+
+846
+01:11:01,640 --> 01:11:04,520
+'It was no accident,' said Holmes.
+
+847
+01:11:04,520 --> 01:11:10,350
+'He was murdered? These Scowrers, these criminals,
+why couldn't they leave him alone-'
+
+848
+01:11:10,350 --> 01:11:17,750
+'No, no,' interrupted Holmes. 'There has been
+a master at work here. This is the work of
+
+849
+01:11:17,750 --> 01:11:19,060
+Moriarty.'
+
+850
+01:11:19,060 --> 01:11:21,870
+'But what has he to do with all this?'
+
+851
+01:11:21,870 --> 01:11:28,000
+'The Americans had a job to do in England.
+Like any other criminals they asked Moriarty
+
+852
+01:11:28,000 --> 01:11:33,960
+for help. From that moment, John Douglas was
+doomed.'
+
+853
+01:11:33,960 --> 01:11:39,060
+'But what can be done? Can't this Moriarty
+be stopped?' asked Barker.
+
+854
+01:11:39,060 --> 01:11:48,480
+'Oh yes,' said Holmes, 'he can be stopped
+- I just need more time.'
+
+855
+01:11:48,480 --> 01:11:56,180
+- THE END -
+

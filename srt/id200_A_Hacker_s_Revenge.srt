@@ -1,0 +1,2378 @@
+1
+00:00:07,000 --> 00:00:11,270
+CHAPTER ONE
+The New Computer System
+
+2
+00:00:11,270 --> 00:00:20,820
+At exactly 8.20 Mr Henry Williams walked through
+the doors of the bank. He was the manager
+
+3
+00:00:20,820 --> 00:00:26,270
+and had worked there for twenty years. He
+wasn't always calm and relaxed when he arrived
+
+4
+00:00:26,270 --> 00:00:33,030
+at work but yesterday something had happened
+to make his life much easier. He looked around
+
+5
+00:00:33,030 --> 00:00:38,870
+the bank. There were beautiful new computers
+on every desk.
+
+6
+00:00:38,870 --> 00:00:46,379
+Some were connected to printers, others to
+scanners. The CPUs were hidden under the desks
+
+7
+00:00:46,379 --> 00:00:52,950
+and the keyboards waited to be used. On each
+mouse pad was a mouse with a small red light,
+
+8
+00:00:52,950 --> 00:00:59,300
+which lit up when the computer was switched
+on. The VDUs shone as the sun came through
+
+9
+00:00:59,300 --> 00:01:05,540
+the window. Mr Williams smiled. When he entered
+his office, he saw that his secretary had
+
+10
+00:01:05,540 --> 00:01:06,970
+already arrived.
+
+11
+00:01:06,970 --> 00:01:13,280
+"Morning, Mr Williams," she said happily.
+She was a very nice girl with long, blonde
+
+12
+00:01:13,280 --> 00:01:19,360
+hair and a big smile but she wasn't the most
+efficient secretary in the world.
+
+13
+00:01:19,360 --> 00:01:24,030
+"Good morning, Belinda. Are you looking forward
+to discovering the wonderful things that your
+
+14
+00:01:24,030 --> 00:01:25,640
+new computer can do?"
+
+15
+00:01:25,640 --> 00:01:31,280
+She looked worried. "Yes, but I hope I don't
+make too many mistakes. Yesterday I nearly
+
+16
+00:01:31,280 --> 00:01:34,380
+lost some important information because I
+pressed the wrong key."
+
+17
+00:01:34,380 --> 00:01:41,040
+"Don't worry. I know you've only been here
+for six months. Mike has assured me that we
+
+18
+00:01:41,040 --> 00:01:46,310
+now have the most up-to-date computer hardware
+and software are the most secure system money
+
+19
+00:01:46,310 --> 00:01:47,829
+can buy."
+
+20
+00:01:47,829 --> 00:01:54,250
+Mike Black was the bank's network manager
+and head of technology. He had organized and
+
+21
+00:01:54,250 --> 00:01:56,500
+set up the new system.
+
+22
+00:01:56,500 --> 00:02:02,240
+At that moment someone knocked on the door
+and Mike came in.
+
+23
+00:02:02,240 --> 00:02:05,890
+"Morning, Mr Williams. How are you?" he said.
+
+24
+00:02:05,890 --> 00:02:11,080
+"Very well, thank you, Mike. Now, are you
+sure the system is functioning properly? Can
+
+25
+00:02:11,080 --> 00:02:15,160
+I go on holiday next week to the Caribbean
+without worrying about things back here?"
+
+26
+00:02:15,160 --> 00:02:21,420
+Mike smiled. "Things couldn't be better. Our
+LAN is working perfectly. It is now connected
+
+27
+00:02:21,420 --> 00:02:24,710
+to the bank's WAN and the security access
+rights are..."
+
+28
+00:02:24,710 --> 00:02:29,050
+"Mike, you know that my knowledge of computers
+is very limited. I'm afraid I belong to another
+
+29
+00:02:29,050 --> 00:02:33,220
+generation - which is why I pay you to solve
+our IT problems."
+
+30
+00:02:33,220 --> 00:02:40,380
+IT terms were a foreign language to Henry
+Williams. His son Robbie was only 15 but he
+
+31
+00:02:40,380 --> 00:02:46,611
+was already a computer genius and sat in front
+of his monitor for hours every day. He had
+
+32
+00:02:46,611 --> 00:02:53,360
+no problem logging on and off, surfing the
+net or downloading files. His father was an
+
+33
+00:02:53,360 --> 00:02:59,280
+excellent bank manager but unfortunately he
+had no idea what these terms meant. He was
+
+34
+00:02:59,280 --> 00:03:03,730
+grateful for experts like Mike who could decipher
+these mysteries for him.
+
+35
+00:03:03,730 --> 00:03:08,970
+"Don't worry. You can have a wonderful time
+in the Caribbean. Things couldn't be better
+
+36
+00:03:08,970 --> 00:03:10,640
+here," replied Mike.
+
+37
+00:03:10,640 --> 00:03:15,560
+He left the office and Mr Williams sat down
+at his desk on which there was no computer
+
+38
+00:03:15,560 --> 00:03:18,099
+at all, either new or old.
+
+39
+00:03:18,099 --> 00:03:23,450
+He was dreaming of blue seas and white beaches
+when a cry from Belinda's desk brought him
+
+40
+00:03:23,450 --> 00:03:30,020
+back to reality. "Mr Williams, my computer
+has crashed!" As soon as she had said the
+
+41
+00:03:30,020 --> 00:03:35,680
+words, they heard similar cries of alarm coming
+from the bank's main area downstairs.
+
+42
+00:03:35,680 --> 00:03:47,290
+One by one the computers were crashing...
+
+43
+00:03:47,290 --> 00:03:52,370
+CHAPTER TWO
+A Problem
+
+44
+00:03:52,370 --> 00:03:57,250
+Mr Williams ran down the escalator and into
+the main office area. What was happening?
+
+45
+00:03:57,250 --> 00:04:02,870
+All the computers were down. Everyone was
+trying to reboot but it was impossible. Henry
+
+46
+00:04:02,870 --> 00:04:08,690
+Williams tried not to panic. He asked Belinda
+to call Mike and tell him to come immediately.
+
+47
+00:04:08,690 --> 00:04:14,099
+Then he said to his staff, "Don't worry, everyone.
+I'm sure it's a minor problem that Mike will
+
+48
+00:04:14,099 --> 00:04:20,600
+soon resolve." A young bank teller whispered
+to a colleague, "He said that last week when
+
+49
+00:04:20,600 --> 00:04:24,310
+that virus destroyed most of our files. Remember?"
+
+50
+00:04:24,310 --> 00:04:30,120
+His friend smiled. Someone had sent an e-mail
+to all the staff which promised to show photos
+
+51
+00:04:30,120 --> 00:04:36,580
+of Belinda's new boyfriend. Belinda was very
+popular with the staff in the bank so naturally
+
+52
+00:04:36,580 --> 00:04:43,760
+everyone opened it. But there was no photo,
+just a virus which corrupted the entire system.
+
+53
+00:04:43,760 --> 00:04:48,270
+Mike, who still didn't know about the problem,
+arrived in the lift just as strange things
+
+54
+00:04:48,270 --> 00:04:53,889
+began to happen. First the lights went off,
+leaving the bank in darkness. Then a client
+
+55
+00:04:53,889 --> 00:04:59,139
+came in to complain to a cashier that he couldn't
+access his account from the ATM outside the
+
+56
+00:04:59,139 --> 00:05:06,870
+bank. Then the lights came on again but the
+doors closed automatically, locking everyone
+
+57
+00:05:06,870 --> 00:05:14,500
+in the bank. Mr Williams said sarcastically,
+"As you can see, Mike, our new system is working
+
+58
+00:05:14,500 --> 00:05:19,150
+perfectly. Nobody can do any work, the clients
+are angry, and we are all prisoners in the
+
+59
+00:05:19,150 --> 00:05:20,280
+bank!"
+
+60
+00:05:20,280 --> 00:05:25,500
+Mike smiled nervously. "I'm sure it's nothing.
+I'll take a look at the server and see what
+
+61
+00:05:25,500 --> 00:05:30,560
+the problem is." Mike was the only person
+with total security access rights for the
+
+62
+00:05:30,560 --> 00:05:37,210
+system and he had the only copy of the password
+list. He was very good at his job so he wasn't
+
+63
+00:05:37,210 --> 00:05:43,910
+too worried about these "hiccups." He went
+to the main computer and put in his password.
+
+64
+00:05:43,910 --> 00:05:46,750
+A message appeared on the screen:
+
+65
+00:05:46,750 --> 00:05:48,220
+Access Denied
+
+66
+00:05:48,220 --> 00:05:49,680
+Password Invalid
+
+67
+00:05:49,680 --> 00:05:55,320
+Everyone in the bank was watching him. Mike
+took his password list from his wallet. He
+
+68
+00:05:55,320 --> 00:06:03,729
+typed in his password again, slowly and carefully.
+Every time he tried the same message appeared
+
+69
+00:06:03,729 --> 00:06:10,490
+on the screen. "That's impossible," he cried.
+His face was white with tension. Mr Williams
+
+70
+00:06:10,490 --> 00:06:16,600
+was waiting for an explanation. "Is everything
+OK?" he asked. Mike prepared to give his boss
+
+71
+00:06:16,600 --> 00:06:17,930
+the bad news.
+
+72
+00:06:17,930 --> 00:06:24,729
+"It seems that... someone has obtained the
+passwords for the new system and... has changed
+
+73
+00:06:24,729 --> 00:06:25,729
+them."
+
+74
+00:06:25,729 --> 00:06:31,360
+"And what exactly does that mean?" asked his
+boss angrily. Mike took a deep breath.
+
+75
+00:06:31,360 --> 00:06:35,979
+"It means that this person now has total control
+of the bank."
+
+76
+00:06:35,979 --> 00:06:42,759
+At that moment the doors of the bank miraculously
+opened again. No one spoke. The silence was
+
+77
+00:06:42,759 --> 00:06:52,650
+broken only by the noise of the clock on the
+wall. All the staff were waiting for Mr Williams'
+
+78
+00:06:52,650 --> 00:06:53,650
+reaction.
+
+79
+00:06:53,650 --> 00:06:59,190
+"And tell me, how did this person get the
+passwords?" asked Mr Williams quietly.
+
+80
+00:06:59,190 --> 00:07:05,930
+"I have no idea," replied Mike. "I always
+keep the password list in my wallet. No one
+
+81
+00:07:05,930 --> 00:07:09,610
+else has ever seen it. It's a complete mystery."
+
+82
+00:07:09,610 --> 00:07:15,010
+"No!" shouted Mr Williams. "The mystery is
+why I gave you a job. First the virus and
+
+83
+00:07:15,010 --> 00:07:19,039
+now this. Well, you can start looking for
+a new job. You're sacked!"
+
+84
+00:07:19,039 --> 00:07:25,080
+Mike left the bank without a word. He didn't
+look at anyone. He knew that it was his fault.
+
+85
+00:07:25,080 --> 00:07:31,651
+Belinda's voice broke the silence. "Oh, Mr
+Williams, what are we going to do?" Before
+
+86
+00:07:31,651 --> 00:07:35,789
+he could answer, the computer displayed a
+new message:
+
+87
+00:07:35,789 --> 00:07:48,340
+E-mail arriving for Henry Williams
+
+88
+00:07:48,340 --> 00:07:55,110
+CHAPTER THREE
+Are You Ready to Play, Henry?
+
+89
+00:07:55,110 --> 00:08:00,389
+Mr Williams turned to the bank staff and said,
+"Please, continue to work as normal. There
+
+90
+00:08:00,389 --> 00:08:02,919
+is nothing to worry about."
+
+91
+00:08:02,919 --> 00:08:08,949
+Everyone looked surprised. How could they
+work without computers? It would be impossible.
+
+92
+00:08:08,949 --> 00:08:15,580
+No one moved and no one spoke. Mr Williams
+repeated his message: "Back to work now, please.
+
+93
+00:08:15,580 --> 00:08:21,289
+Our clients will arrive soon and we must be
+ready." As his staff slowly began to return
+
+94
+00:08:21,289 --> 00:08:27,599
+to work, the bank manager sat down in front
+of the server. Belinda stood next to him.
+
+95
+00:08:27,599 --> 00:08:34,270
+Mr Williams looked at the screen. He was now
+extremely worried. He hesitated for a moment.
+
+96
+00:08:34,270 --> 00:08:38,940
+Belinda thought he was in difficulty and she
+wanted to help. "You have to click on the
+
+97
+00:08:38,940 --> 00:08:43,970
+e-mail icon in the comer of the screen," she
+said. "I know, I know. I'm not completely
+
+98
+00:08:43,970 --> 00:08:51,350
+stupid!" her boss shouted. Some members of
+staff looked at one another and smiled. Belinda
+
+99
+00:08:51,350 --> 00:08:57,800
+knew Mr Williams well. She knew that when
+he was angry, as he was now, it was better
+
+100
+00:08:57,800 --> 00:09:04,670
+to say nothing. She watched silently as he
+clicked on the icon. The mailbox appeared
+
+101
+00:09:04,670 --> 00:09:07,070
+and revealed the subject of the new message:
+
+102
+00:09:07,070 --> 00:09:11,570
+Are you ready to play, Henry Williams?
+
+103
+00:09:11,570 --> 00:09:18,160
+Yes, he was ready. He had no idea who had
+sent the e-mail but he wanted an explanation
+
+104
+00:09:18,160 --> 00:09:24,670
+and an end to this situation. He opened the
+message and the screen filled with words.
+
+105
+00:09:24,670 --> 00:09:26,140
+Hello Henry!
+
+106
+00:09:26,140 --> 00:09:34,970
+How are you today? Happy? Or maybe worried?
+Or even angry! I haven't seen you for a long
+
+107
+00:09:34,970 --> 00:09:43,080
+time but I can tell you that I am very, very
+annoyed with you. You are not my favorite
+
+108
+00:09:43,080 --> 00:09:50,649
+person. How many enemies do you have? AT least
+one - me! I am going to make you pay for what
+
+109
+00:09:50,649 --> 00:09:58,470
+you did to me before. As you know, I have
+entered your new and secure (ha! ha!) computer
+
+110
+00:09:58,470 --> 00:10:04,670
+system and guess what? It's MY system now.
+It was so easy to discover the passwords.
+
+111
+00:10:04,670 --> 00:10:13,320
+You should be more careful, Henry. You don't
+mind if I call you Henry, do you?
+
+112
+00:10:13,320 --> 00:10:20,290
+Mr Williams was definitely angry now, and
+confused. He asked Belinda, "Who is this person?
+
+113
+00:10:20,290 --> 00:10:24,630
+What does he want? Or maybe it's a woman?
+Why is he (or she) angry? I'm an honest and
+
+114
+00:10:24,630 --> 00:10:29,589
+respectable man and people like me - well,
+most people. Isn't that true, Belinda?" He
+
+115
+00:10:29,589 --> 00:10:33,520
+turned to look at Belinda, hoping that she
+would give him the answer he wanted to hear,
+
+116
+00:10:33,520 --> 00:10:38,460
+but she wasn't listening. She was reading
+the rest of the message as it appeared...
+
+117
+00:10:38,460 --> 00:10:45,310
+I have changed all the passwords so now I
+control everything in your bank. Be nice to
+
+118
+00:10:45,310 --> 00:10:53,810
+me or I will lock the door again - or perhaps
+I'll do something much worse! But don't be
+
+119
+00:10:53,810 --> 00:10:55,089
+afraid; I know that you're an intelligent
+(ha! ha!) man, Henry, so I am going to give
+
+120
+00:10:55,089 --> 00:11:03,370
+you a chance to save your precious bank. We
+are going to play a game. If you win, the
+
+121
+00:11:03,370 --> 00:11:10,551
+bank will be saved. If you lose... the bank
+will be destroyed! Do you like my idea? I
+
+122
+00:11:10,551 --> 00:11:22,269
+think it's great! It means that the fate of
+the bank, your bank, is in your own hands.
+
+123
+00:11:22,269 --> 00:11:35,860
+So, Henry, my friend... are you ready to play?
+
+124
+00:11:35,860 --> 00:11:40,120
+CHAPTER FOUR
+Don't Call the Police!
+
+125
+00:11:40,120 --> 00:11:45,570
+It was very noisy in the bank. Clients were
+arriving and the staff had to tell them that
+
+126
+00:11:45,570 --> 00:11:51,860
+there was a problem with the computers. Some
+clients left immediately, some were angry
+
+127
+00:11:51,860 --> 00:11:57,170
+and began to shout, others wanted to see the
+manager. But Mr Williams had no time to speak
+
+128
+00:11:57,170 --> 00:12:03,209
+to anyone. He had a problem too. A big problem.
+Two members of his staff had moved the server
+
+129
+00:12:03,209 --> 00:12:07,589
+to his office. It was much quieter in there
+and he could think without anyone disturbing
+
+130
+00:12:07,589 --> 00:12:08,940
+him.
+
+131
+00:12:08,940 --> 00:12:15,060
+Belinda was sitting next to him. She was beginning
+to panic and when she felt like that she couldn't
+
+132
+00:12:15,060 --> 00:12:16,060
+stop talking.
+
+133
+00:12:16,060 --> 00:12:22,620
+"What a horrible man. I'm sure it's a man.
+He's so evil. What are you going to do, Mr
+
+134
+00:12:22,620 --> 00:12:26,460
+Williams? What a terrible situation! I want
+to help you but I just don't know what to
+
+135
+00:12:26,460 --> 00:12:28,680
+do. Shall we call the police? I'm sure..."
+
+136
+00:12:28,680 --> 00:12:33,649
+Mr Williams couldn't concentrate. His secretary
+was talking faster and faster.
+
+137
+00:12:33,649 --> 00:12:37,889
+"Belinda, why don't you go and make me a nice
+cup of tea?"
+
+138
+00:12:37,889 --> 00:12:42,589
+Belinda smiled brightly and went out of the
+office. A nice cup of tea was the solution
+
+139
+00:12:42,589 --> 00:12:45,170
+to all problems in her opinion.
+
+140
+00:12:45,170 --> 00:12:51,120
+So, undisturbed, Mr Williams was able to read
+the final part of the mysterious e-mail.
+
+141
+00:12:51,120 --> 00:12:58,810
+This is the game: I will send you three puzzles,
+one at a time. You must solve these puzzles
+
+142
+00:12:58,810 --> 00:12:59,810
+in just 24 hours.
+
+143
+00:12:59,810 --> 00:13:07,270
+That's plenty of time for an intelligent man
+like you, Henry. You'll probably need to be
+
+144
+00:13:07,270 --> 00:13:14,490
+a computer expert to solve them, but you use
+computers every day, don't you? (Ha! ha!)
+
+145
+00:13:14,490 --> 00:13:21,730
+If you fail to solve all three puzzles, I
+will empty every bank account in your bank
+
+146
+00:13:21,730 --> 00:13:29,730
+from the smallest to the largest. all the
+money will disappear and your bank will be
+
+147
+00:13:29,730 --> 00:13:30,839
+destroyed.
+
+148
+00:13:30,839 --> 00:13:40,580
+One final thing - DON'T call the police. That
+would be very stupid. If you call the police,
+
+149
+00:13:40,580 --> 00:13:42,430
+I will know.
+
+150
+00:13:42,430 --> 00:13:51,660
+Remember that I can destroy your bank in a
+few seconds. Don't risk it, Henry.
+
+151
+00:13:51,660 --> 00:13:55,480
+Do you think this is all a joke? I want to
+show you that I am very serious. Henry, do
+
+152
+00:13:55,480 --> 00:14:00,570
+you know how much money you have in your bank
+account? Are you sure?
+
+153
+00:14:00,570 --> 00:14:06,230
+Why don't you check? I think you'll be surprised!
+
+154
+00:14:06,230 --> 00:14:18,070
+Now I am going to give your staff access to
+the computers so the bank can function as
+
+155
+00:14:18,070 --> 00:14:23,209
+normal. You see, I'm not so evil, but remember
+that I can switch off the computers or change
+
+156
+00:14:23,209 --> 00:14:25,660
+anything at any time.
+
+157
+00:14:25,660 --> 00:14:31,779
+Bye for now, but don't worry... I'll be back
+soon.
+
+158
+00:14:31,779 --> 00:14:38,630
+Mr Williams sat back in his chair. He had
+a bad headache. Things were not improving.
+
+159
+00:14:38,630 --> 00:14:46,660
+He was thinking about what to do when he heard
+shouts of joy coming from the bank staff downstairs.
+
+160
+00:14:46,660 --> 00:14:56,890
+The door opened and Belinda came in with the
+tea. "The computers are working again, Mr
+
+161
+00:14:56,890 --> 00:15:01,860
+Williams. Isn't that wonderful? Everything
+is back to normal. Maybe the e-mail was just
+
+162
+00:15:01,860 --> 00:15:02,860
+a joke."
+
+163
+00:15:02,860 --> 00:15:10,040
+"Well, we'll know in a moment, Belinda," he
+replied. There were two things that Mr Williams
+
+164
+00:15:10,040 --> 00:15:17,690
+could do on a computer - use e-mail and access
+his own bank account. Why did the mystery
+
+165
+00:15:17,690 --> 00:15:24,040
+hacker tell him to check his account? He put
+in his password and then his account number
+
+166
+00:15:24,040 --> 00:15:38,310
+and waited. After a few seconds the information
+he wanted appeared on the screen...
+
+167
+00:15:38,310 --> 00:15:42,170
+CHAPTER FIVE
+Puzzle Number One
+
+168
+00:15:42,170 --> 00:15:51,470
+Mr Williams stared at the computer screen,
+horrified. His hank account was empty! The
+
+169
+00:15:51,470 --> 00:15:57,399
+bank manager quickly closed the page but Belinda
+had already seen it. She dropped her cup of
+
+170
+00:15:57,399 --> 00:16:07,410
+tea and began to cry. Before Henry Williams
+could say a word, another message appeared
+
+171
+00:16:07,410 --> 00:16:09,620
+on the screen.
+
+172
+00:16:09,620 --> 00:16:14,800
+E-mail arriving for Henry Williams Puzzle
+Number One
+
+173
+00:16:14,800 --> 00:16:20,150
+Mr Williams clicked to open the message and
+looked at the first puzzle. There were just
+
+174
+00:16:20,150 --> 00:16:24,920
+a few words and lots of strange symbols and
+abbreviations.
+
+175
+00:16:24,920 --> 00:16:27,540
+It's 9.15 and time to play!
+
+176
+00:16:27,540 --> 00:16:33,899
+WU Henry? I C that UR : - ( Y?
+
+177
+00:16:33,899 --> 00:16:40,529
+U can't C me U R : - ( but I am >-(
+
+178
+00:16:40,529 --> 00:16:47,570
+IMO U R >:-C OR PRHPS <:-O
+
+179
+00:16:47,570 --> 00:16:51,170
+TAFN I'll BBL
+
+180
+00:16:51,170 --> 00:16:54,709
+EOM HAND (LOL)
+
+181
+00:16:54,709 --> 00:17:01,920
+Henry, do you like the first puzzle? Isn't
+it cool? Cool and wicked. The clock has started
+
+182
+00:17:01,920 --> 00:17:07,890
+to tick. Hurry, hurry, hurry! BFN :-)
+
+183
+00:17:07,890 --> 00:17:14,120
+Mr Williams didn't understand anything. He
+looked at Belinda, who was still crying. "Belinda,
+
+184
+00:17:14,120 --> 00:17:21,030
+please, stop crying for just one minute and
+call Mike. Tell him to come here at once.
+
+185
+00:17:21,030 --> 00:17:23,189
+We need his help."
+
+186
+00:17:23,189 --> 00:17:30,179
+She looked at him in amazement and replied,
+"But Mr Williams, you sacked Mike about an
+
+187
+00:17:30,179 --> 00:17:33,230
+hour ago. Don't you remember?"
+
+188
+00:17:33,230 --> 00:17:37,350
+Yes, now he did remember. There was no one
+to help him.
+
+189
+00:17:37,350 --> 00:17:43,820
+His headache was getting worse. He couldn't
+think. Then Belinda's voice came from behind
+
+190
+00:17:43,820 --> 00:17:50,080
+his chair. "Why don't you call your son, Robbie?
+He's very good with computers, isn't he?"
+
+191
+00:17:50,080 --> 00:17:56,390
+Mr Williams got up and hugged her. "Yes! Belinda,
+you're fantastic. Why didn't I think of that?"
+
+192
+00:17:56,390 --> 00:18:00,720
+It was a school holiday so Robbie would be
+in his bedroom, playing on the computer and
+
+193
+00:18:00,720 --> 00:18:06,210
+listening to music but definitely not studying.
+It was rare to see an open textbook in that
+
+194
+00:18:06,210 --> 00:18:11,450
+bedroom. There were two things Mr Williams
+always associated with his son - his mobile
+
+195
+00:18:11,450 --> 00:18:19,470
+phone and his baseball cap. Mr Williams picked
+up the phone and dialled his home number.
+
+196
+00:18:19,470 --> 00:18:25,539
+"Robbie? This is your father. Listen, I have
+a problem with the computers at the bank.
+
+197
+00:18:25,539 --> 00:18:32,240
+Can you come and help me? I don't care if
+you're fighting Lara Croft. This is really
+
+198
+00:18:32,240 --> 00:18:37,720
+important. Come as soon as possible please.
+Thank you."
+
+199
+00:18:37,720 --> 00:18:43,240
+Mr Williams put down the phone and smiled.
+"That was a great idea of yours, Belinda.
+
+200
+00:18:43,240 --> 00:18:47,590
+Robbie's a teenager so I'm sure he'll understand
+all the strange symbols and abbreviations
+
+201
+00:18:47,590 --> 00:18:49,299
+in the puzzle."
+
+202
+00:18:49,299 --> 00:18:54,299
+Belinda blushed. "If I could make another
+suggestion, Mr Williams? I think you can see
+
+203
+00:18:54,299 --> 00:18:58,620
+where the e-mail came from. Look at the top
+of the page."
+
+204
+00:18:58,620 --> 00:19:05,980
+She was right. "Well done again, Belinda!
+It was sent from the local library. So, our
+
+205
+00:19:05,980 --> 00:19:08,980
+mystery hacker thinks he's clever, does he?"
+
+206
+00:19:08,980 --> 00:19:14,700
+Mr Williams picked up the phone again. This
+time he called the security office.
+
+207
+00:19:14,700 --> 00:19:19,480
+He explained the situation and told the head
+of security to send two guards to the library
+
+208
+00:19:19,480 --> 00:19:22,169
+to find and arrest the hacker.
+
+209
+00:19:22,169 --> 00:19:27,690
+He was feeling a little bit better and Belinda
+had stopped crying. Then he noticed something
+
+210
+00:19:27,690 --> 00:19:34,870
+appear on the computer screen. It was a clock
+icon and an hourglass. Fifteen minutes had
+
+211
+00:19:34,870 --> 00:19:38,220
+already passed and the sand was falling.
+
+212
+00:19:38,220 --> 00:19:49,740
+The countdown had begun...
+
+213
+00:19:49,740 --> 00:19:55,080
+CHAPTER SIX
+Trouble in the Library
+
+214
+00:19:55,080 --> 00:19:59,570
+It was only 9.30 but there were already a
+lot of people inside the library; some were
+
+215
+00:19:59,570 --> 00:20:03,980
+looking for a bestseller on the bookshelves,
+others were reading the newspapers or books
+
+216
+00:20:03,980 --> 00:20:09,840
+in the study area and a few were using the
+photocopying machine and the computers. A
+
+217
+00:20:09,840 --> 00:20:14,460
+man was reading the messages on a big notice-board.
+A mother and her child were going upstairs
+
+218
+00:20:14,460 --> 00:20:16,240
+to the children's section.
+
+219
+00:20:16,240 --> 00:20:22,220
+A librarian was pushing a trolley of books.
+It was very quiet.
+
+220
+00:20:22,220 --> 00:20:27,700
+In the library anyone who had to speak, spoke
+quietly. The librarians were there to help
+
+221
+00:20:27,700 --> 00:20:29,600
+anyone who had a problem.
+
+222
+00:20:29,600 --> 00:20:34,630
+This was the scene when Bill and Ben, the
+two security guards from the bank, arrived
+
+223
+00:20:34,630 --> 00:20:40,440
+to investigate. They walked to the desk where
+a librarian was helping an old lady.
+
+224
+00:20:40,440 --> 00:20:45,990
+"We believe that a criminal has sent an e-mail
+message from a computer in this library and
+
+225
+00:20:45,990 --> 00:20:51,200
+we want to see the list of people who have
+used the Internet this morning," said Bill.
+
+226
+00:20:51,200 --> 00:20:56,580
+The librarian calmly replied, "I'm sorry but
+I'm busy now. If you would like to wait, I'll
+
+227
+00:20:56,580 --> 00:20:59,260
+be happy to help you as soon as I can."
+
+228
+00:20:59,260 --> 00:21:04,860
+Ben was not a patient man. "I don't think
+you understand, madam. We are here to arrest
+
+229
+00:21:04,860 --> 00:21:08,940
+a criminal and we want to do it now!" he shouted.
+
+230
+00:21:08,940 --> 00:21:15,520
+The old lady, who was in front of Ben, was
+angry and she hit both guards with her handbag.
+
+231
+00:21:15,520 --> 00:21:21,730
+"Hey, I was here first! You are very rude
+men!" she said. The librarian tried to calm
+
+232
+00:21:21,730 --> 00:21:28,490
+everyone down. She said to the men, "Please
+don't shout. This is a library. I'm afraid
+
+233
+00:21:28,490 --> 00:21:33,570
+we can only give information about the people
+who use our library to the police. Are you
+
+234
+00:21:33,570 --> 00:21:38,390
+policemen?" Bill replied, "No, we're security
+guards from the bank on London Road and we..."
+
+235
+00:21:38,390 --> 00:21:44,020
+The librarian interrupted him, "Then I can't
+help you. Now, will you please leave the library?"
+
+236
+00:21:44,020 --> 00:21:50,520
+But the men didn't want to leave. Bill had
+an idea. "Hey, Ben, maybe the hacker is still
+
+237
+00:21:50,520 --> 00:21:53,520
+using the computer. Let's go and see."
+
+238
+00:21:53,520 --> 00:21:57,150
+They ran to the computer area and began to
+question the four people who were using the
+
+239
+00:21:57,150 --> 00:22:02,840
+computers. Now everyone in the library, including
+the librarians, came to watch.
+
+240
+00:22:02,840 --> 00:22:07,620
+The guards were shouting and the people at
+the computers were frightened.
+
+241
+00:22:07,620 --> 00:22:13,000
+Mr Page, the head librarian, came out of his
+office to see why there was all this noise
+
+242
+00:22:13,000 --> 00:22:19,440
+in his usually quiet library. The scene he
+saw shocked him. He walked to the computer
+
+243
+00:22:19,440 --> 00:22:21,840
+area and demanded to know what was happening.
+
+244
+00:22:21,840 --> 00:22:27,570
+About twenty people answered him at the same
+time so it was impossible to understand. But
+
+245
+00:22:27,570 --> 00:22:32,720
+he soon realized that the two men dressed
+in blue uniforms were causing the problem
+
+246
+00:22:32,720 --> 00:22:34,710
+and were disturbing everyone.
+
+247
+00:22:34,710 --> 00:22:40,700
+He shouted, "You two, get out of my library
+now!" And with the help of some people in
+
+248
+00:22:40,700 --> 00:22:44,960
+the library, he pushed them to the door and
+then out of the library and into the street.
+
+249
+00:22:44,960 --> 00:22:50,850
+"And don't come back!" yelled the old lady,
+furiously. All the people in the library were
+
+250
+00:22:50,850 --> 00:22:53,780
+talking about what had just happened.
+
+251
+00:22:53,780 --> 00:23:07,980
+Nobody noticed a man who was hiding behind
+the shelves. He was laughing...
+
+252
+00:23:07,980 --> 00:23:11,340
+CHAPTER SEVEN
+Robbie the Hero
+
+253
+00:23:11,340 --> 00:23:16,330
+- Robbie Williams arrived at the bank a few
+minutes after the phone conversation with
+
+254
+00:23:16,330 --> 00:23:22,059
+his father. He wasn't very happy. It was the
+school holidays and he wanted to go out with
+
+255
+00:23:22,059 --> 00:23:28,310
+his friends but his mother told him at least
+ten times a day to open a textbook and study.
+
+256
+00:23:28,310 --> 00:23:33,711
+Today he had wanted to buy a new football
+scarf and a computer game but instead he had
+
+257
+00:23:33,711 --> 00:23:39,010
+to help his father at the bank! He went inside
+and up the stairs to the office.
+
+258
+00:23:39,010 --> 00:23:44,450
+"Hey, Dad, what's up? I have to meet my friends
+at the shopping centre at lunchtime. I'm going
+
+259
+00:23:44,450 --> 00:23:49,529
+to buy a new computer game. It's wicked. It's
+called..." Mr Williams interrupted his son.
+
+260
+00:23:49,529 --> 00:23:54,470
+"Robbie, please, take those headphones off
+and listen to me." He quickly explained the
+
+261
+00:23:54,470 --> 00:23:57,900
+problem of the hacker. Robbie couldn't believe
+it.
+
+262
+00:23:57,900 --> 00:24:01,710
+"Bad luck, Dad. How can I help?"
+
+263
+00:24:01,710 --> 00:24:06,770
+Mr Williams showed him the first puzzle. Robbie
+gave his father a big smile.
+
+264
+00:24:06,770 --> 00:24:12,960
+"Relax, Dad. This is so easy I can do it with
+my eyes shut! I use these abbreviations every
+
+265
+00:24:12,960 --> 00:24:18,600
+day when I'm in a chat room or when I text
+my friends on my mobile phone. I'll show you.
+
+266
+00:24:18,600 --> 00:24:28,200
+WU stands for 'What's up?' I C stands for
+'I see.' And these symbols are called 'emoticons.'
+
+267
+00:24:28,200 --> 00:24:33,370
+They look like a face and they express the
+way you feel. I can easily decode this message
+
+268
+00:24:33,370 --> 00:24:38,750
+for you." Robbie sat down, clicked on the
+reply icon and wrote out the message:
+
+269
+00:24:38,750 --> 00:24:55,390
+What's up Henry? I see you are sad. Why? You
+can't see me. You are sad but I am angry.
+
+270
+00:24:55,390 --> 00:25:06,340
+In my opinion you are surprised or perhaps
+afraid. That's all for now. I'll be back later.
+
+271
+00:25:06,340 --> 00:25:07,340
+End Of Message Have a nice day (laughing out
+loud) Bye for now!
+
+272
+00:25:07,340 --> 00:25:11,570
+"See? I told you it was easy. Now I'll click
+on 'Send' and the message will go back to
+
+273
+00:25:11,570 --> 00:25:21,560
+the sender." Mr Williams thanked his son and
+slowly he began to relax... but for how long?
+
+274
+00:25:21,560 --> 00:25:27,580
+It was now 10.15. Only one hour had passed.
+Belinda came into the office and said to her
+
+275
+00:25:27,580 --> 00:25:28,580
+boss,
+
+276
+00:25:28,580 --> 00:25:33,659
+"The ATM is working again..." Mr Williams
+smiled. "But," she added quickly, "it's giving
+
+277
+00:25:33,659 --> 00:25:35,230
+the customers too much money..."
+
+278
+00:25:35,230 --> 00:25:41,669
+Mr Williams tell back into his chair. Why
+was life so difficult?
+
+279
+00:25:41,669 --> 00:25:47,880
+The security guards Bill and Ben knocked at
+the door and came into his office. Did they
+
+280
+00:25:47,880 --> 00:25:49,230
+have some good news for him?
+
+281
+00:25:49,230 --> 00:25:51,799
+"Well?" he asked hopefully. "Did you find
+him?"
+
+282
+00:25:51,799 --> 00:25:56,510
+Bill answered, "Not exactly, Mr Williams.
+We tried but the people at the library were
+
+283
+00:25:56,510 --> 00:25:57,750
+very unfriendly."
+
+284
+00:25:57,750 --> 00:26:03,690
+"Yes," added Ben. "They didn't want to help
+us and in the end they asked us to leave.
+
+285
+00:26:03,690 --> 00:26:06,380
+There was an old lady who..." Mr Williams
+was angry.
+
+286
+00:26:06,380 --> 00:26:12,950
+"I'm not interested in the old lady. You obviously
+didn't catch the hacker. You are both completely
+
+287
+00:26:12,950 --> 00:26:16,600
+incompetent. Now go back to your office before
+I sack you."
+
+288
+00:26:16,600 --> 00:26:23,059
+His headache had returned, worse than ever.
+Then his son said, "Dad, look. There's another
+
+289
+00:26:23,059 --> 00:26:28,350
+message from the hacker." He looked at Robbie
+and then at Belinda. Then they all looked
+
+290
+00:26:28,350 --> 00:26:40,580
+at the screen...
+
+291
+00:26:40,580 --> 00:26:44,800
+CHAPTER EIGHT
+My Name is Trentine
+
+292
+00:26:44,800 --> 00:26:46,179
+Hello Henry,
+
+293
+00:26:46,179 --> 00:26:54,450
+Well, that was an easy puzzle. I imagine someone
+helped you - your son Robbie perhaps? He's
+
+294
+00:26:54,450 --> 00:26:57,400
+intelligent but your security guards are really
+stupid.
+
+295
+00:26:57,400 --> 00:27:07,090
+They didn't see me at the library but I saw
+them! Never mind! Maybe they'll have better
+
+296
+00:27:07,090 --> 00:27:18,419
+luck next time... Here's your second puzzle
+- impossible, I think. Have fun! BFN
+
+297
+00:27:18,419 --> 00:27:22,200
+Puzzle Number Two
+
+298
+00:27:22,200 --> 00:27:34,200
+My name is TRENTINE - I am power and knowledge.
+These are my friends:
+
+299
+00:27:34,200 --> 00:27:42,090
+Berrows limea rodlw ediw bew thac moro frus
+
+300
+00:27:42,090 --> 00:27:45,370
+Henry Williams wasn't very worried. He had
+his secret weapon - Robbie!
+
+301
+00:27:45,370 --> 00:27:51,960
+"You can solve this puzzle too, can't you,
+Robbie?" he asked. Then he saw his son's face.
+
+302
+00:27:51,960 --> 00:27:57,410
+"Dad, I'm really sorry but I don't understand
+it. But, look - the hacker sent it from the
+
+303
+00:27:57,410 --> 00:28:02,700
+Internet Cafe in the city centre."
+
+304
+00:28:02,700 --> 00:28:07,510
+Belinda was crying again. Mr Williams phoned
+the security office for the second time that
+
+305
+00:28:07,510 --> 00:28:15,090
+day and told Bill and Ben to go to the Internet
+Cafe to find the hacker. As soon as he put
+
+306
+00:28:15,090 --> 00:28:18,929
+down the phone, a bank teller came into his
+office with more bad news.
+
+307
+00:28:18,929 --> 00:28:23,960
+"A customer has just told me that the bank's
+website is advertising a special offer - a
+
+308
+00:28:23,960 --> 00:28:27,910
+credit card with 0% interest. Is it true?"
+he asked.
+
+309
+00:28:27,910 --> 00:28:33,210
+"Of course it isn't!" yelled Mr Williams.
+"Don't give any new credit cards to any of
+
+310
+00:28:33,210 --> 00:28:35,730
+our customers! Now go back to work!"
+
+311
+00:28:35,730 --> 00:28:42,790
+The teller disappeared. The minutes became
+hours and Mr Williams became more and more
+
+312
+00:28:42,790 --> 00:28:49,280
+agitated. Robbie continued to look at the
+puzzle perplexed, and Belinda continued to
+
+313
+00:28:49,280 --> 00:28:55,429
+cry. Suddenly Robbie had an idea. "I know
+what to do!" he shouted.
+
+314
+00:28:55,429 --> 00:28:58,390
+His father jumped up. "Have you solved the
+puzzle?'" he asked.
+
+315
+00:28:58,390 --> 00:29:04,350
+"No, but I bet my friend Joe can help us.
+I'll send him a text message on his mobile."
+
+316
+00:29:04,350 --> 00:29:07,890
+Mr Williams sat down again while Robbie sent
+the message.
+
+317
+00:29:07,890 --> 00:29:11,010
+Come to Bank Now. Rob
+
+318
+00:29:11,010 --> 00:29:13,500
+When Joe arrived it was already 5 o'clock.
+
+319
+00:29:13,500 --> 00:29:19,590
+"What's up, Robbie?" he asked. Then he saw
+Belinda, who smiled at him. He smiled back.
+
+320
+00:29:19,590 --> 00:29:24,309
+Wow! She was beautiful! He immediately fell
+in love with her.
+
+321
+00:29:24,309 --> 00:29:30,660
+"Joe, listen to me," said Robbie. He explained
+about the hacker and showed Joe the second
+
+322
+00:29:30,660 --> 00:29:35,730
+puzzle. Joe didn't want to take his eyes off
+Belinda but he had to look at the computer
+
+323
+00:29:35,730 --> 00:29:38,820
+screen. Mr Williams was beginning to panic.
+
+324
+00:29:38,820 --> 00:29:41,610
+"Hurry, boys. There isn't much time left."
+
+325
+00:29:41,610 --> 00:29:48,059
+"Take it easy, Mr W. We can solve this. Come
+on, Robbie. Let's do it."
+
+326
+00:29:48,059 --> 00:29:57,280
+After four long hours they solved the puzzle.
+"So, who is Trentine?" asked Mr Williams.
+
+327
+00:29:57,280 --> 00:29:59,540
+"The Internet," replied Joe.
+
+328
+00:29:59,540 --> 00:30:04,440
+"Of course," said Robbie. "And the friends
+are all words connected with the Internet
+
+329
+00:30:04,440 --> 00:30:09,710
+- browser, e-mail, world wide web, chat room
+and..."
+
+330
+00:30:09,710 --> 00:30:12,760
+"Surf," said Belinda happily.
+
+331
+00:30:12,760 --> 00:30:18,830
+Joe looked at her. "Belinda, you are so cool.
+You're the perfect girl tor me," he said as
+
+332
+00:30:18,830 --> 00:30:21,670
+he clicked on the "Send" icon.
+
+333
+00:30:21,670 --> 00:30:26,809
+Mr Williams looked at them and said to himself:
+"What are they talking about? I think I'm
+
+334
+00:30:26,809 --> 00:30:28,630
+getting old."
+
+335
+00:30:28,630 --> 00:30:34,470
+It was nine o'clock. The hourglass was half-empty
+but they had solved the puzzle in time. Mr
+
+336
+00:30:34,470 --> 00:30:39,260
+Williams was very relieved. The situation
+was improving at last. At that moment the
+
+337
+00:30:39,260 --> 00:30:57,919
+telephone rang. When Mr Williams answered
+he heard a voice say: "Good evening. This
+
+338
+00:30:57,919 --> 00:31:03,549
+is the police..."
+
+339
+00:31:03,549 --> 00:31:09,039
+CHAPTER NINE
+A Surprise for Henry
+
+340
+00:31:09,039 --> 00:31:15,570
+Mr Williams put down the phone. He said, "That
+was the police. It seems that Bill and Ben
+
+341
+00:31:15,570 --> 00:31:20,559
+created a disturbance at the Internet Cafe
+and they have been arrested. They didn't catch
+
+342
+00:31:20,559 --> 00:31:25,850
+the hacker, of course. Why doesn't that surprise
+me? Well, they can stay at the police station
+
+343
+00:31:25,850 --> 00:31:31,100
+until we find the hacker." There was no reply
+from the others. Robbie was sending a text
+
+344
+00:31:31,100 --> 00:31:35,880
+message on his mobile phone to his friends
+to say why he hadn't met them that afternoon.
+
+345
+00:31:35,880 --> 00:31:37,679
+Joe was talking to Belinda.
+
+346
+00:31:37,679 --> 00:31:42,760
+"Will you go out with me tonight, Belinda?
+There's a great hamburger place near here."
+
+347
+00:31:42,760 --> 00:31:44,299
+Belinda smiled at him.
+
+348
+00:31:44,299 --> 00:31:47,610
+"But you're only 15, Joe. I'm too old for
+you."
+
+349
+00:31:47,610 --> 00:31:53,149
+"I'm very mature for my age," he replied quickly.
+"Come on! We'll have a fantastic time. I'll
+
+350
+00:31:53,149 --> 00:31:56,820
+pay and..." Their conversation was interrupted
+by the hacker.
+
+351
+00:31:56,820 --> 00:32:03,370
+Congratulations, Henry. You've solved the
+second Puzzle. I suppose Robbie helped you
+
+352
+00:32:03,370 --> 00:32:12,220
+again. It's a pity those security guards aren't
+as intelligent as your son. They failed again,
+
+353
+00:32:12,220 --> 00:32:18,370
+didn't they? Henry, there's still another
+puzzle to solve. If you solve it, you will
+
+354
+00:32:18,370 --> 00:32:26,990
+discover my identity. I'll send the Message
+later. First, you need to relax and... cool
+
+355
+00:32:26,990 --> 00:32:30,029
+down. Are you ready for a surprise?
+
+356
+00:32:30,029 --> 00:32:31,380
+BFN
+
+357
+00:32:31,380 --> 00:32:37,380
+"A surprise. What does that mean, Mr Williams'"
+asked Belinda.
+
+358
+00:32:37,380 --> 00:32:42,269
+"I have no idea but I'm sure we'll soon find
+out," replied her boss.
+
+359
+00:32:42,269 --> 00:32:49,990
+All the staff had gone home at 5 o'clock as
+usual. The offices were silent. He was suddenly
+
+360
+00:32:49,990 --> 00:32:54,919
+very tired. His eyes began to close...
+
+361
+00:32:54,919 --> 00:33:00,450
+He was on holiday in the Caribbean. He was
+on the beach. It was hot and sunny. There
+
+362
+00:33:00,450 --> 00:33:06,200
+were no clouds in the sky. It was too hot
+so he went swimming in the sea to cool down.
+
+363
+00:33:06,200 --> 00:33:13,770
+He was wet, very wet... Mr Williams woke up.
+He was wet! Was it raining in his office?
+
+364
+00:33:13,770 --> 00:33:14,970
+He heard Belinda's voice:
+
+365
+00:33:14,970 --> 00:33:22,830
+"Mr Williams, what's happening? I'm all wet.
+Where is the water coming from? My hair and
+
+366
+00:33:22,830 --> 00:33:24,820
+clothes are ruined!"
+
+367
+00:33:24,820 --> 00:33:31,850
+Mr Williams answered, "This is our surprise,
+Belinda. Our friend the hacker has started
+
+368
+00:33:31,850 --> 00:33:35,980
+the sprinkler system. Very funny. Let's get
+out of here."
+
+369
+00:33:35,980 --> 00:33:42,390
+They all ran out of the office and went downstairs.
+Joe tried to console Belinda, and Robbie wanted
+
+370
+00:33:42,390 --> 00:33:44,020
+to know if he could go home.
+
+371
+00:33:44,020 --> 00:33:47,850
+"Please, Dad. It's late and I want to watch
+TV tonight."
+
+372
+00:33:47,850 --> 00:33:53,220
+"Not yet," replied his father. "We still have
+another puzzle to solve."
+
+373
+00:33:53,220 --> 00:34:00,070
+"What do you mean 'we,' Dad? You haven't done
+anything yet," replied his son sarcastically.
+
+374
+00:34:00,070 --> 00:34:05,750
+Mr Williams looked at his son but he knew
+that Robbie was right. The boys had solved
+
+375
+00:34:05,750 --> 00:34:07,350
+the first two puzzles.
+
+376
+00:34:07,350 --> 00:34:18,909
+In the distance they heard 
+a siren. Was it the police? Mr Williams and
+
+377
+00:34:18,909 --> 00:34:35,250
+Robbie went to the doors of the bank. Slowly
+Mr Williams opened the door...
+
+378
+00:34:35,250 --> 00:34:39,160
+CHAPTER TEN
+Where's the Fire?
+
+379
+00:34:39,160 --> 00:34:43,250
+Mr Williams opened the door and three firemen
+ran into the hank.
+
+380
+00:34:43,250 --> 00:34:47,970
+"OK, where's the fire?" they said. Mr Williams
+was very confused.
+
+381
+00:34:47,970 --> 00:34:53,230
+"What do you mean, 'fire'? There's no fire
+here. I think you've made a mistake."
+
+382
+00:34:53,230 --> 00:34:58,160
+The firemen were not convinced. "Mr Williams,
+have you forgotten that the bank's sprinkler
+
+383
+00:34:58,160 --> 00:35:03,310
+system is connected to the alarm at the tire
+station? The sprinklers started, the alarm
+
+384
+00:35:03,310 --> 00:35:09,040
+sounded and we came here to put out the fire.
+Now, where is it?" This time Robbie spoke.
+
+385
+00:35:09,040 --> 00:35:14,280
+"There is no fire. The sprinklers started
+because there must be a problem with the system."
+
+386
+00:35:14,280 --> 00:35:19,050
+"Yes," added Mr Williams. "I'm so sorry that
+you've come here for nothing."
+
+387
+00:35:19,050 --> 00:35:25,540
+"Well, I must say I can't see any fire. We'll
+come back tomorrow morning to check if there's
+
+388
+00:35:25,540 --> 00:35:30,780
+some kind of problem with the sprinklers,"
+the fireman replied. "You're working very
+
+389
+00:35:30,780 --> 00:35:33,580
+late tonight, Mr Williams," he added.
+
+390
+00:35:33,580 --> 00:35:40,329
+"Yes, we have a lot to do," came the tired
+reply. When they had gone, Mr Williams told
+
+391
+00:35:40,329 --> 00:35:45,240
+Belinda that she could go home. He opened
+the door for her and Robbie tried to go out
+
+392
+00:35:45,240 --> 00:35:48,150
+at the same time. His father pulled him back.
+
+393
+00:35:48,150 --> 00:35:53,280
+"I need you here," he said. "Let's go back
+to the office."
+
+394
+00:35:53,280 --> 00:35:58,839
+"Oh, Dad," Robbie protested but he followed
+his father upstairs.
+
+395
+00:35:58,839 --> 00:36:06,190
+It was four o'clock in the morning when the
+final puzzle arrived. Robbie and Joe were
+
+396
+00:36:06,190 --> 00:36:11,980
+sleeping on the floor. They had been too tired
+to stay awake. Henry Williams forced himself
+
+397
+00:36:11,980 --> 00:36:13,930
+to look at the computer screen.
+
+398
+00:36:13,930 --> 00:36:17,010
+Hi, Henry. Here's the final puzzle.
+
+399
+00:36:17,010 --> 00:36:23,690
+You have to read these sentences about a famous
+person and find the four words.
+
+400
+00:36:23,690 --> 00:36:27,980
+Puzzle Number Three
+
+401
+00:36:27,980 --> 00:36:34,359
+The first word is his first but it's your
+second. The second word is a barrier but also
+
+402
+00:36:34,359 --> 00:36:44,369
+a way to enter. The third word is the baby,
+or is it a monster? The fourth word is where
+
+403
+00:36:44,369 --> 00:36:45,369
+it all began.
+
+404
+00:36:45,369 --> 00:36:54,900
+Now take the first letter of each word, then
+add the letters I and A. You now have six
+
+405
+00:36:54,900 --> 00:37:00,480
+letters and in these letters you will find
+my name.
+
+406
+00:37:00,480 --> 00:37:01,480
+BFN
+
+407
+00:37:01,480 --> 00:37:07,800
+It was incredible. A few hours ago everything
+was fine. Now someone wanted to destroy his
+
+408
+00:37:07,800 --> 00:37:16,640
+bank and his life. Why? He touched Robbie
+gently and said, "Robbie, wake up! The last
+
+409
+00:37:16,640 --> 00:37:22,010
+puzzle has arrived. We've only got a few hours
+to solve it." There was no response from his
+
+410
+00:37:22,010 --> 00:37:28,070
+son, who continued to sleep. Mr Williams tried
+to wake Joe, but Joe simply mumbled in his
+
+411
+00:37:28,070 --> 00:37:36,720
+sleep, "Belinda, do you want a hamburger or
+a cheeseburger?" Mr Williams sat with his
+
+412
+00:37:36,720 --> 00:37:42,890
+head in his hands. The boys were sleeping
+and he couldn't wake them. What was he going
+
+413
+00:37:42,890 --> 00:37:50,010
+to do? He looked at the clock again - it was
+already four thirty! Then another e-mail arrived.
+
+414
+00:37:50,010 --> 00:37:54,280
+Come on, Henry. Admit it. You've lost.
+
+415
+00:37:54,280 --> 00:38:03,760
+Soon I will start to empty the bank accounts.
+Who shall I choose first? Perhaps the police
+
+416
+00:38:03,760 --> 00:38:11,990
+station? OR maybe I'll choose Mrs Miller,
+the poor old lady from the library. No, I
+
+417
+00:38:11,990 --> 00:38:20,700
+think I'll start with the Town Council - it's
+the end of the month and wages must be paid.
+
+418
+00:38:20,700 --> 00:38:32,930
+Was the hacker right? Was this the end...?
+
+419
+00:38:32,930 --> 00:38:37,230
+CHAPTER ELEVEN
+Is It the End?
+
+420
+00:38:37,230 --> 00:38:43,349
+At 8.30 Mr Williams opened his eyes. For a
+moment he didn't remember the events of the
+
+421
+00:38:43,349 --> 00:38:49,820
+previous day. Then slowly his mind formed
+a picture of a computer hacker and some strange
+
+422
+00:38:49,820 --> 00:38:54,750
+puzzles. He wondered if he had dreamt it all.
+Then he saw Robbie and Joe, who were still
+
+423
+00:38:54,750 --> 00:39:00,300
+asleep on the floor and he saw the computer
+screen. The final puzzle was still there and
+
+424
+00:39:00,300 --> 00:39:06,040
+the hourglass was almost empty. It wasn't
+a nightmare; it was real!
+
+425
+00:39:06,040 --> 00:39:13,200
+The door of the office opened and Belinda
+came in. "Oh, Mr Williams. Have you been here
+
+426
+00:39:13,200 --> 00:39:19,820
+all night? And poor Robbie and Joe too. Did
+you find the solution to the last puzzle?"
+
+427
+00:39:19,820 --> 00:39:24,579
+She saw his expression and already knew the
+answer. "I'll make you a nice cup of tea and
+
+428
+00:39:24,579 --> 00:39:27,339
+you'll soon feel better," she said.
+
+429
+00:39:27,339 --> 00:39:33,880
+There were only thirty minutes left. Mr Williams
+was angry with himself. He felt responsible
+
+430
+00:39:33,880 --> 00:39:38,790
+for everything. His bank was in danger and
+he couldn't save it. He tried to wake Robbie
+
+431
+00:39:38,790 --> 00:39:44,440
+again but it was difficult to wake his teenage
+son before midday! Belinda returned with the
+
+432
+00:39:44,440 --> 00:39:47,470
+tea. Mr Williams drank three cups.
+
+433
+00:39:47,470 --> 00:39:54,340
+He looked out of his window. The bank teller
+were arriving for another day's work - maybe
+
+434
+00:39:54,340 --> 00:40:01,010
+the last day. What could he tell them? In
+desperation he sat down in front of the computer
+
+435
+00:40:01,010 --> 00:40:07,060
+again. "Belinda, if we win, I promise that
+I will learn about computers and become an
+
+436
+00:40:07,060 --> 00:40:12,460
+expert. My son is only 15 and he knows much
+more than me. I'm living in the past and I
+
+437
+00:40:12,460 --> 00:40:13,500
+have to change."
+
+438
+00:40:13,500 --> 00:40:19,480
+"That's a wonderful idea, Mr Williams. And
+of course, I'll help you as much as possible.
+
+439
+00:40:19,480 --> 00:40:21,200
+I know a lot of things now and..."
+
+440
+00:40:21,200 --> 00:40:26,060
+She didn't finish her sentence because Mr
+Williams shouted so loudly that Robbie and
+
+441
+00:40:26,060 --> 00:40:33,099
+Joe woke up. "That's it! I've found the solution!
+I know the answer to the puzzle!"
+
+442
+00:40:33,099 --> 00:40:39,420
+Robbie and Joe got up right away. They looked
+at one another and then at Mr Williams. Robbie
+
+443
+00:40:39,420 --> 00:40:44,300
+said hesitantly, "Are you sure Dad? It looks
+impossible to me."
+
+444
+00:40:44,300 --> 00:40:50,340
+"Yes, of course I'm sure. I've done it. Now,
+first I click on the reply icon, right? And
+
+445
+00:40:50,340 --> 00:40:57,310
+then I write the answers. The first word is
+Bill - it's the man's first name and the abbreviation
+
+446
+00:40:57,310 --> 00:41:04,560
+of my second name, Williams. The second word
+is gate. It's a barrier and a way to enter."
+
+447
+00:41:04,560 --> 00:41:09,370
+"So the man is Bill Gates," said Joe.
+
+448
+00:41:09,370 --> 00:41:17,800
+"Exactly," replied Mr Williams. "The third
+word is Microsoft - his baby, his creation,
+
+449
+00:41:17,800 --> 00:41:24,010
+but also a monster in the opinion of some
+people. And the last word is Seattle. That's
+
+450
+00:41:24,010 --> 00:41:30,420
+where Bill Gates lives and where he started
+Microsoft, the beginning."
+
+451
+00:41:30,420 --> 00:41:35,369
+"That's brilliant Dad. Well done!" said Robbie.
+
+452
+00:41:35,369 --> 00:41:41,940
+"Now," continued Mr Williams, "if we take
+the first letter of each word we have B, G,
+
+453
+00:41:41,940 --> 00:41:50,540
+M, and S. We have to add two more letters
+- I and A - and these six letters should spell
+
+454
+00:41:50,540 --> 00:41:54,240
+the name of the hacker." Everyone looked at
+the six letters:
+
+455
+00:41:54,240 --> 00:41:57,960
+B G M S I A
+
+456
+00:41:57,960 --> 00:42:05,460
+They tried to see a name but they could only
+see words like big and bags but no names.
+
+457
+00:42:05,460 --> 00:42:21,049
+Then suddenly Mr Williams jumped up and yelled,
+"Yes! Yes! I know the name of the hacker..."
+
+458
+00:42:21,049 --> 00:42:25,000
+CHAPTER TWELVE
+A Holiday for Someone
+
+459
+00:42:25,000 --> 00:42:32,250
+"Sam Gib," said Mr Williams. "I don't believe
+it. But why does he hate me?"
+
+460
+00:42:32,250 --> 00:42:38,890
+"Maybe because you sacked him two weeks ago,"
+suggested Belinda. Robbie asked, "Who's Sam
+
+461
+00:42:38,890 --> 00:42:44,579
+Gib?" Mr Williams explained, "He used to work
+here at the bank. In the beginning he was
+
+462
+00:42:44,579 --> 00:42:50,520
+a good bank teller. Then he started to arrive
+late for work every day. Instead of working
+
+463
+00:42:50,520 --> 00:42:55,280
+he used to surf the net and log on to chat
+rooms. He spent hours talking to people all
+
+464
+00:42:55,280 --> 00:43:01,970
+over the world. So I sacked him. But wait
+a minute. If he left two weeks ago, how did
+
+465
+00:43:01,970 --> 00:43:05,150
+he know the new computer passwords?"
+
+466
+00:43:05,150 --> 00:43:06,839
+Belinda had the answer to his question.
+
+467
+00:43:06,839 --> 00:43:12,930
+"He came back to the bank a few days ago to
+empty his desk. I think you were in a meeting.
+
+468
+00:43:12,930 --> 00:43:17,290
+I remember that he went to Mike's office and
+stayed there for a long time. I thought he
+
+469
+00:43:17,290 --> 00:43:23,240
+was talking to Mike, but now I think about
+it Mike wasn't there all the time. Anyway,
+
+470
+00:43:23,240 --> 00:43:27,380
+Mr Williams, you're a hero. You've saved the
+bank!"
+
+471
+00:43:27,380 --> 00:43:33,220
+"Yes, and there are only two minutes left.
+Look, it's 9.13," said Joe.
+
+472
+00:43:33,220 --> 00:43:39,910
+They all looked at the computer screen. Suddenly
+Robbie said, "Dad, did you remember to click
+
+473
+00:43:39,910 --> 00:43:45,440
+on the 'send' icon to return the message to
+the hacker, I mean, Sam Gib?"
+
+474
+00:43:45,440 --> 00:43:51,950
+"Oh, no! Quickly, click, CLICK before it's
+too late!" shouted Mr Williams. Four hands
+
+475
+00:43:51,950 --> 00:43:57,000
+tried to operate the mouse but in the confusion
+it fell on the floor. Finally Robbie picked
+
+476
+00:43:57,000 --> 00:44:01,650
+up the mouse, clicked and the message disappeared.
+For a moment nobody spoke. Then they all began
+
+477
+00:44:01,650 --> 00:44:03,630
+laughing and hugging each another.
+
+478
+00:44:03,630 --> 00:44:10,910
+"We've won! We've won, you've won, Dad," said
+Robbie while Joe hugged Belinda again. Mr
+
+479
+00:44:10,910 --> 00:44:14,990
+Williams went downstairs to give the good
+news to the staff, who also laughed and applauded
+
+480
+00:44:14,990 --> 00:44:23,180
+their boss. When Mr Williams returned to his
+office he picked up the phone.
+
+481
+00:44:23,180 --> 00:44:27,850
+"Now I can call the police and tell them everything
+and they can go to Sam's house and arrest
+
+482
+00:44:27,850 --> 00:44:31,410
+him." But before he could do it, another e-mail
+arrived.
+
+483
+00:44:31,410 --> 00:44:32,410
+Hello Henry
+
+484
+00:44:32,410 --> 00:44:40,310
+Now you know who I am. Congratulations!
+
+485
+00:44:40,310 --> 00:44:45,910
+Did you enjoy playing my game?
+
+486
+00:44:45,910 --> 00:44:50,100
+When you sacked me I wanted my revenge so
+I sent the virus that infected the bank's
+
+487
+00:44:50,100 --> 00:45:00,829
+computers. But it wasn't enough. You installed
+a new computer system so I came to visit Mike
+
+488
+00:45:00,829 --> 00:45:08,650
+and saw the new passwords on his desk. It
+was so easy. You really need to improve security
+
+489
+00:45:08,650 --> 00:45:13,650
+at the bank. Maybe I can help you?
+
+490
+00:45:13,650 --> 00:45:16,900
+But Henry, I still have a surprise for you...
+
+491
+00:45:16,900 --> 00:45:19,780
+This time Mr Williams went white.
+
+492
+00:45:19,780 --> 00:45:23,869
+"Oh please no! Not another puzzle!" he cried.
+
+493
+00:45:23,869 --> 00:45:32,190
+I think I need a holiday. As you booked your
+holiday to the Caribbean on the net, I changed
+
+494
+00:45:32,190 --> 00:45:36,710
+the address and the tickets arrived at my
+house instead of your house yesterday. I also
+
+495
+00:45:36,710 --> 00:45:46,730
+changed the date of the holiday and I'm leaving
+at 10.00 today. I'm sending this message from
+
+496
+00:45:46,730 --> 00:45:54,380
+the airport on my new laptop. To show you
+that I am a kind person, I have returned all
+
+497
+00:45:54,380 --> 00:45:57,099
+the money to your bank account.
+
+498
+00:45:57,099 --> 00:46:02,070
+Thanks for the holiday. Maybe we can play
+another game when I come back...
+

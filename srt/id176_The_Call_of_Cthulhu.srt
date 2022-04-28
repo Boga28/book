@@ -1,0 +1,4056 @@
+1
+00:00:06,359 --> 00:00:07,470
+The Call of Cthulhu
+by H. P. Lovecraft
+
+2
+00:00:07,470 --> 00:00:08,470
+Written Summer 1926
+
+3
+00:00:08,470 --> 00:00:09,470
+Published February 1928 in Weird Tales, Vol.
+11, No. 2, p. 159-78, 287.
+
+4
+00:00:09,470 --> 00:00:20,180
+Of such great powers or beings there may be
+conceivably a survival… a survival of a
+
+5
+00:00:20,180 --> 00:00:25,340
+hugely remote period when… consciousness
+was manifested, perhaps, in shapes and forms
+
+6
+00:00:25,340 --> 00:00:32,070
+long since withdrawn before the tide of advancing
+humanity… forms of which poetry and legend
+
+7
+00:00:32,070 --> 00:00:40,430
+alone have caught a flying memory and called
+them gods, monsters, mythical beings of all
+
+8
+00:00:40,430 --> 00:00:43,079
+sorts and kinds…
+
+9
+00:00:43,079 --> 00:00:44,420
+- Algernon Blackwood
+
+10
+00:00:44,420 --> 00:00:56,739
+I. The Horror In Clay
+The most merciful thing in the world, I think,
+
+11
+00:00:56,739 --> 00:01:05,110
+is the inability of the human mind to correlate
+all its contents. We live on a placid island
+
+12
+00:01:05,110 --> 00:01:10,760
+of ignorance in the midst of black seas of
+infinity, and it was not meant that we should
+
+13
+00:01:10,760 --> 00:01:18,210
+voyage far. The sciences, each straining in
+its own direction, have hitherto harmed us
+
+14
+00:01:18,210 --> 00:01:24,790
+little; but some day the piecing together
+of dissociated knowledge will open up such
+
+15
+00:01:24,790 --> 00:01:32,080
+terrifying vistas of reality, and of our frightful
+position therein, that we shall either go
+
+16
+00:01:32,080 --> 00:01:43,200
+mad from the revelation or flee from the light
+into the peace and safety of a new dark age.
+
+17
+00:01:43,200 --> 00:01:48,730
+Theosophists have guessed at the awesome grandeur
+of the cosmic cycle wherein our world and
+
+18
+00:01:48,730 --> 00:01:56,150
+human race form transient incidents. They
+have hinted at strange survivals in terms
+
+19
+00:01:56,150 --> 00:02:03,500
+which would freeze the blood if not masked
+by a bland optimism. But it is not from them
+
+20
+00:02:03,500 --> 00:02:09,420
+that there came the single glimpse of forbidden
+eons which chills me when I think of it and
+
+21
+00:02:09,420 --> 00:02:16,020
+maddens me when I dream of it. That glimpse,
+like all dread glimpses of truth, flashed
+
+22
+00:02:16,020 --> 00:02:23,720
+out from an accidental piecing together of
+separated things - in this case an old newspaper
+
+23
+00:02:23,720 --> 00:02:30,130
+item and the notes of a dead professor. I
+hope that no one else will accomplish this
+
+24
+00:02:30,130 --> 00:02:36,070
+piecing out; certainly, if I live, I shall
+never knowingly supply a link in so hideous
+
+25
+00:02:36,070 --> 00:02:41,569
+a chain. I think that the professor, too intented
+to keep silent regarding the part he knew,
+
+26
+00:02:41,569 --> 00:02:47,300
+and that he would have destroyed his notes
+had not sudden death seized him.
+
+27
+00:02:47,300 --> 00:02:53,590
+My knowledge of the thing began in the winter
+of 1926-27 with the death of my great-uncle,
+
+28
+00:02:53,590 --> 00:02:59,569
+George Gammell Angell, Professor Emeritus
+of Semitic Languages in Brown University,
+
+29
+00:02:59,569 --> 00:03:05,040
+Providence, Rhode Island. Professor Angell
+was widely known as an authority on ancient
+
+30
+00:03:05,040 --> 00:03:10,160
+inscriptions, and had frequently been resorted
+to by the heads of prominent museums; so that
+
+31
+00:03:10,160 --> 00:03:16,739
+his passing at the age of ninety-two may be
+recalled by many. Locally, interest was intensified
+
+32
+00:03:16,739 --> 00:03:24,190
+by the obscurity of the cause of death. The
+professor had been stricken whilst returning
+
+33
+00:03:24,190 --> 00:03:30,060
+from the Newport boat; falling suddenly; as
+witnesses said, after having been jostled
+
+34
+00:03:30,060 --> 00:03:35,690
+by a nautical-looking negro who had come from
+one of the queer dark courts on the precipitous
+
+35
+00:03:35,690 --> 00:03:40,670
+hillside which formed a short cut from the
+waterfront to the deceased’s home in Williams
+
+36
+00:03:40,670 --> 00:03:47,300
+Street. Physicians were unable to find any
+visible disorder, but concluded after perplexed
+
+37
+00:03:47,300 --> 00:03:53,650
+debate that some obscure lesion of the heart,
+induced by the brisk ascent of so steep a
+
+38
+00:03:53,650 --> 00:04:01,360
+hill by so elderly a man, was responsible
+for the end. At the time I saw no reason to
+
+39
+00:04:01,360 --> 00:04:10,850
+dissent from this dictum, but latterly I am
+inclined to wonder - and more than wonder.
+
+40
+00:04:10,850 --> 00:04:16,780
+As my great-uncle’s heir and executor, for
+he died a childless widower, I was expected
+
+41
+00:04:16,780 --> 00:04:21,739
+to go over his papers with some thoroughness;
+and for that purpose moved his entire set
+
+42
+00:04:21,739 --> 00:04:27,340
+of files and boxes to my quarters in Boston.
+Much of the material which I correlated will
+
+43
+00:04:27,340 --> 00:04:33,309
+be later published by the American Archaeological
+Society, but there was one box which I found
+
+44
+00:04:33,309 --> 00:04:41,469
+exceedingly puzzling, and which I felt much
+averse from showing to other eyes. It had
+
+45
+00:04:41,469 --> 00:04:46,909
+been locked and I did not find the key till
+it occurred to me to examine the personal
+
+46
+00:04:46,909 --> 00:04:53,759
+ring which the professor carried in his pocket.
+Then, indeed, I succeeded in opening it, but
+
+47
+00:04:53,759 --> 00:04:58,949
+when I did so seemed only to be confronted
+by a greater and more closely locked barrier.
+
+48
+00:04:58,949 --> 00:05:05,539
+For what could be the meaning of the queer
+clay bas-relief and the disjointed jottings,
+
+49
+00:05:05,539 --> 00:05:12,259
+ramblings, and cuttings which I found? Had
+my uncle, in his latter years become credulous
+
+50
+00:05:12,259 --> 00:05:19,419
+of the most superficial impostures? I resolved
+to search out the eccentric sculptor responsible
+
+51
+00:05:19,419 --> 00:05:24,809
+for this apparent disturbance of an old man’s
+peace of mind.
+
+52
+00:05:24,809 --> 00:05:30,229
+The bas-relief was a rough rectangle less
+than an inch thick and about five by six inches
+
+53
+00:05:30,229 --> 00:05:37,289
+in area; obviously of modern origin. Its designs,
+however, were far from modern in atmosphere
+
+54
+00:05:37,289 --> 00:05:42,569
+and suggestion; for, although the vagaries
+of cubism and futurism are many and wild,
+
+55
+00:05:42,569 --> 00:05:49,919
+they do not often reproduce that cryptic regularity
+which lurks in prehistoric writing. And writing
+
+56
+00:05:49,919 --> 00:05:55,839
+of some kind the bulk of these designs seemed
+certainly to be; though my memory, despite
+
+57
+00:05:55,839 --> 00:06:01,479
+much the papers and collections of my uncle,
+failed in any way to identify this particular
+
+58
+00:06:01,479 --> 00:06:06,090
+species, or even hint at its remotest affiliations.
+
+59
+00:06:06,090 --> 00:06:12,879
+Above these apparent hieroglyphics was a figure
+of evident pictorial intent, though its impressionistic
+
+60
+00:06:12,879 --> 00:06:20,289
+execution forbade a very clear idea of its
+nature. It seemed to be a sort of monster,
+
+61
+00:06:20,289 --> 00:06:28,289
+or symbol representing a monster, of a form
+which only a diseased fancy could conceive.
+
+62
+00:06:28,289 --> 00:06:35,740
+If I say that my somewhat extravagant imagination
+yielded simultaneous pictures of an octopus,
+
+63
+00:06:35,740 --> 00:06:41,809
+a dragon, and a human caricature, I shall
+not be unfaithful to the spirit of the thing.
+
+64
+00:06:41,809 --> 00:06:48,819
+A pulpy, tentacled head surmounted a grotesque
+and scaly body with rudimentary wings; but
+
+65
+00:06:48,819 --> 00:06:55,380
+it was the general outline of the whole which
+made it most shockingly frightful. Behind
+
+66
+00:06:55,380 --> 00:07:01,819
+the figure was a vague suggestions of a Cyclopean
+architectural background.
+
+67
+00:07:01,819 --> 00:07:06,890
+The writing accompanying this oddity was,
+aside from a stack of press cuttings, in Professor
+
+68
+00:07:06,890 --> 00:07:14,499
+Angell’s most recent hand; and made no pretense
+to literary style. What seemed to be the main
+
+69
+00:07:14,499 --> 00:07:20,639
+document was headed “CTHULHU CULT” in
+characters painstakingly printed to avoid
+
+70
+00:07:20,639 --> 00:07:27,809
+the erroneous reading of a word so unheard-of.
+This manuscript was divided into two sections,
+
+71
+00:07:27,809 --> 00:07:35,449
+the first of which was headed “1925 - Dream
+and Dream Work of H.A. Wilcox, 7 Thomas St.,
+
+72
+00:07:35,449 --> 00:07:42,080
+Providence, R. I.”, and the second, “Narrative
+of Inspector John R. Legrasse, 121 Bienville
+
+73
+00:07:42,080 --> 00:07:51,139
+St., New Orleans, La., at 1908 A. A. S. Mtg.
+- Notes on Same, & Prof. Webb’s Acct.”
+
+74
+00:07:51,139 --> 00:07:55,839
+The other manuscript papers were brief notes,
+some of them accounts of the queer dreams
+
+75
+00:07:55,839 --> 00:08:01,029
+of different persons, some of them citations
+from theosophical books and magazines (notably
+
+76
+00:08:01,029 --> 00:08:07,879
+W. Scott-Elliot’s Atlantis and the Lost
+Lemuria ), and the rest comments on long-surviving
+
+77
+00:08:07,879 --> 00:08:14,229
+secret societies and hidden cults, with references
+to passages in such mythological and anthropological
+
+78
+00:08:14,229 --> 00:08:22,259
+source-books as Frazer’s Golden Bough and
+Miss Murray’s Witch-Cult in Western Europe.
+
+79
+00:08:22,259 --> 00:08:28,969
+The cuttings largely alluded to outr� mental
+illness and outbreaks of group folly or mania
+
+80
+00:08:28,969 --> 00:08:33,360
+in the spring of 1925.
+
+81
+00:08:33,360 --> 00:08:39,700
+The first half of the principal manuscript
+told a very particular tale. It appears that
+
+82
+00:08:39,700 --> 00:08:47,420
+on March 1st, 1925, a thin, dark young man
+of neurotic and excited aspect had called
+
+83
+00:08:47,420 --> 00:08:53,519
+upon Professor Angell bearing the singular
+clay bas-relief, which was then exceedingly
+
+84
+00:08:53,519 --> 00:09:01,352
+damp and fresh. His card bore the name of
+Henry Anthony Wilcox, and my uncle had recognized
+
+85
+00:09:01,352 --> 00:09:06,120
+him as the youngest son of an excellent family
+slightly known to him, who had latterly been
+
+86
+00:09:06,120 --> 00:09:11,240
+studying sculpture at the Rhode Island School
+of Design and living alone at the Fleur-de-Lys
+
+87
+00:09:11,240 --> 00:09:18,170
+Building near that institution. Wilcox was
+a precocious youth of known genius but great
+
+88
+00:09:18,170 --> 00:09:23,790
+eccentricity, and had from chidhood excited
+attention through the strange stories and
+
+89
+00:09:23,790 --> 00:09:31,420
+odd dreams he was in the habit of relating.
+He called himself “psychically hypersensitive”,
+
+90
+00:09:31,420 --> 00:09:38,440
+but the staid folk of the ancient commercial
+city dismissed him as merely “queer.”
+
+91
+00:09:38,440 --> 00:09:42,670
+Never mingling much with his kind, he had
+dropped gradually from social visibility,
+
+92
+00:09:42,670 --> 00:09:48,990
+and was now known only to a small group of
+esthetes from other towns. Even the Providence
+
+93
+00:09:48,990 --> 00:09:55,680
+Art Club, anxious to preserve its conservatism,
+had found him quite hopeless.
+
+94
+00:09:55,680 --> 00:10:00,899
+On the ocassion of the visit, ran the professor’s
+manuscript, the sculptor abruptly asked for
+
+95
+00:10:00,899 --> 00:10:05,709
+the benefit of his host’s archeological
+knowledge in identifying the hieroglyphics
+
+96
+00:10:05,709 --> 00:10:13,949
+of the bas-relief. He spoke in a dreamy, stilted
+manner which suggested pose and alienated
+
+97
+00:10:13,949 --> 00:10:19,279
+sympathy; and my uncle showed some sharpness
+in replying, for the conspicuous freshness
+
+98
+00:10:19,279 --> 00:10:26,279
+of the tablet implied kinship with anything
+but archeology. Young Wilcox’s rejoinder,
+
+99
+00:10:26,279 --> 00:10:31,860
+which impressed my uncle enough to make him
+recall and record it verbatim, was of a fantastically
+
+100
+00:10:31,860 --> 00:10:37,699
+poetic cast which must have typified his whole
+conversation, and which I have since found
+
+101
+00:10:37,699 --> 00:10:44,970
+highly characteristic of him. He said, “It
+is new, indeed, for I made it last night in
+
+102
+00:10:44,970 --> 00:10:51,100
+a dream of strange cities; and dreams are
+older than brooding Tyre, or the contemplative
+
+103
+00:10:51,100 --> 00:10:55,259
+Sphinx, or garden-girdled Babylon.”
+
+104
+00:10:55,259 --> 00:11:00,399
+It was then that he began that rambling tale
+which suddenly played upon a sleeping memory
+
+105
+00:11:00,399 --> 00:11:06,660
+and won the fevered interest of my uncle.
+There had been a slight earthquake tremor
+
+106
+00:11:06,660 --> 00:11:12,620
+the night before, the most considerable felt
+in New England for some years; and Wilcox’s
+
+107
+00:11:12,620 --> 00:11:19,470
+imagination had been keenly affected. Upon
+retiring, he had had an unprecedented dream
+
+108
+00:11:19,470 --> 00:11:27,121
+of great Cyclopean cities of Titan blocks
+and sky-flung monoliths, all dripping with
+
+109
+00:11:27,121 --> 00:11:35,720
+green ooze and sinister with latent horror.
+Hieroglyphics had covered the walls and pillars,
+
+110
+00:11:35,720 --> 00:11:42,269
+and from some undetermined point below had
+come a voice that was not a voice; a chaotic
+
+111
+00:11:42,269 --> 00:11:48,279
+sensation which only fancy could transmute
+into sound, but which he attempted to render
+
+112
+00:11:48,279 --> 00:11:57,399
+by the almost unpronounceable jumble of letters:
+“Cthulhu fhtagn.”
+
+113
+00:11:57,399 --> 00:12:04,329
+This verbal jumble was the key to the recollection
+which excited and disturbed Professor Angell.
+
+114
+00:12:04,329 --> 00:12:09,730
+He questioned the sculptor with scientific
+minuteness; and studied with frantic intensity
+
+115
+00:12:09,730 --> 00:12:15,069
+the bas-relief on which the youth had found
+himself working, chilled and clad only in
+
+116
+00:12:15,069 --> 00:12:22,279
+his night clothes, when waking had stolen
+bewilderingly over him. My uncle blamed his
+
+117
+00:12:22,279 --> 00:12:29,470
+old age, Wilcox afterwards said, for his slowness
+in recognizing both hieroglyphics and pictorial
+
+118
+00:12:29,470 --> 00:12:35,149
+design. Many of his questions seemed highly
+out of place to his visitor, especially those
+
+119
+00:12:35,149 --> 00:12:40,629
+which tried to connect the latter with strange
+cults or societies; and Wilcox could not understand
+
+120
+00:12:40,629 --> 00:12:45,430
+the repeated promises of silence which he
+was offered in exchange for an admission of
+
+121
+00:12:45,430 --> 00:12:52,689
+membership in some widespread mystical or
+paganly religious body. When Professor Angell
+
+122
+00:12:52,689 --> 00:12:57,399
+became convinced that the sculptor was indeed
+ignorant of any cult or system of cryptic
+
+123
+00:12:57,399 --> 00:13:04,949
+lore, he besieged his visitor with demands
+for future reports of dreams. This bore regular
+
+124
+00:13:04,949 --> 00:13:11,161
+fruit, for after the first interview the manuscript
+records daily calls of the young man, during
+
+125
+00:13:11,161 --> 00:13:17,990
+which he related startling fragments of nocturnal
+imaginery whose burden was always some terrible
+
+126
+00:13:17,990 --> 00:13:24,959
+Cyclopean vista of dark and dripping stone,
+with a subterrene voice or intelligence shouting
+
+127
+00:13:24,959 --> 00:13:32,649
+monotonously in enigmatical sense-impacts
+uninscribable save as gibberish. The two sounds
+
+128
+00:13:32,649 --> 00:13:38,699
+frequently repeated are those rendered by
+the letters “Cthulhu” and “R’lyeh.”
+
+129
+00:13:38,699 --> 00:13:46,910
+On March 23, the manuscript continued, Wilcox
+failed to appear; and inquiries at his quarters
+
+130
+00:13:46,910 --> 00:13:51,730
+revealed that he had been stricken with an
+obscure sort of fever and taken to the home
+
+131
+00:13:51,730 --> 00:13:58,459
+of his family in Waterman Street. He had cried
+out in the night, arousing several other artists
+
+132
+00:13:58,459 --> 00:14:03,019
+in the building, and had manifested since
+then only alternations of unconsciousness
+
+133
+00:14:03,019 --> 00:14:08,999
+and delirium. My uncle at once telephoned
+the family, and from that time forward kept
+
+134
+00:14:08,999 --> 00:14:13,980
+close watch of the case; calling often at
+the Thayer Street office of Dr. Tobey, whom
+
+135
+00:14:13,980 --> 00:14:19,940
+he learned to be in charge. The youth’s
+febrile mind, apparently, was dwelling on
+
+136
+00:14:19,940 --> 00:14:26,040
+strange things; and the doctor shuddered now
+and then as he spoke of them. They included
+
+137
+00:14:26,040 --> 00:14:31,180
+not only a repetition of what he had formerly
+dreamed, but touched wildly on a gigantic
+
+138
+00:14:31,180 --> 00:14:38,430
+thing “miles high” which walked or lumbered
+about.
+
+139
+00:14:38,430 --> 00:14:44,600
+He at no time fully described this object
+but occasional frantic words, as repeated
+
+140
+00:14:44,600 --> 00:14:49,759
+by Dr. Tobey, convinced the professor that
+it must be identical with the nameless monstrosity
+
+141
+00:14:49,759 --> 00:14:55,410
+he had sought to depict in his dream-sculpture.
+Reference to this object, the doctor added,
+
+142
+00:14:55,410 --> 00:15:01,439
+was invariably a prelude to the young man’s
+subsidence into lethargy. His temperature,
+
+143
+00:15:01,439 --> 00:15:06,250
+oddly enough, was not greatly above normal;
+but the whole condition was otherwise such
+
+144
+00:15:06,250 --> 00:15:11,140
+as to suggest true fever rather than mental
+disorder.
+
+145
+00:15:11,140 --> 00:15:18,260
+On April 2 at about 3 P.M. every trace of
+Wilcox’s malady suddenly ceased. He sat
+
+146
+00:15:18,260 --> 00:15:23,180
+upright in bed, astonished to find himself
+at home and completely ignorant of what had
+
+147
+00:15:23,180 --> 00:15:30,649
+happened in dream or reality since the night
+of March 22. Pronounced well by his physician,
+
+148
+00:15:30,649 --> 00:15:36,060
+he returned to his quarters in three days;
+but to Professor Angell he was of no further
+
+149
+00:15:36,060 --> 00:15:43,569
+assistance. All traces of strange dreaming
+had vanished with his recovery, and my uncle
+
+150
+00:15:43,569 --> 00:15:48,459
+kept no record of his night-thoughts after
+a week of pointless and irrelevant accounts
+
+151
+00:15:48,459 --> 00:15:51,589
+of thoroughly usual visions.
+
+152
+00:15:51,589 --> 00:15:57,699
+Here the first part of the manuscript ended,
+but references to certain of the scattered
+
+153
+00:15:57,699 --> 00:16:04,160
+notes gave me much material for thought - so
+much, in fact, that only the ingrained skepticism
+
+154
+00:16:04,160 --> 00:16:10,850
+then forming my philosophy can account for
+my continued distrust of the artist. The notes
+
+155
+00:16:10,850 --> 00:16:15,680
+in question were those descriptive of the
+dreams of various persons covering the same
+
+156
+00:16:15,680 --> 00:16:21,990
+period as that in which young Wilcox had had
+his strange visitations. My uncle, it seems,
+
+157
+00:16:21,990 --> 00:16:27,759
+had quickly instituted a prodigiously far-flung
+body of inquires amongst nearly all the friends
+
+158
+00:16:27,759 --> 00:16:32,320
+whom he could question without impertinence,
+asking for nightly reports of their dreams,
+
+159
+00:16:32,320 --> 00:16:39,189
+and the dates of any notable visions for some
+time past. The reception of his request seems
+
+160
+00:16:39,189 --> 00:16:44,689
+to have varied; but he must, at the very least,
+have received more responses than any ordinary
+
+161
+00:16:44,689 --> 00:16:51,750
+man could have handled without a secretary.
+This original correspondence was not preserved,
+
+162
+00:16:51,750 --> 00:16:57,850
+but his notes formed a thorough and really
+significant digest. Average people in society
+
+163
+00:16:57,850 --> 00:17:03,019
+and business - New England’s traditional
+“salt of the earth” - gave an almost completely
+
+164
+00:17:03,019 --> 00:17:08,959
+negative result, though scattered cases of
+uneasy but formless nocturnal impressions
+
+165
+00:17:08,959 --> 00:17:16,750
+appear here and there, always between March
+23 and and April 2 - the period of young Wilcox’s
+
+166
+00:17:16,750 --> 00:17:23,150
+delirium. Scientific men were little more
+affected, though four cases of vague description
+
+167
+00:17:23,150 --> 00:17:29,159
+suggest fugitive glimpses of strange landscapes,
+and in one case there is mentioned a dread
+
+168
+00:17:29,159 --> 00:17:31,940
+of something abnormal.
+
+169
+00:17:31,940 --> 00:17:38,600
+It was from the artists and poets that the
+pertinent answers came, and I know that panic
+
+170
+00:17:38,600 --> 00:17:44,310
+would have broken loose had they been able
+to compare notes. As it was, lacking their
+
+171
+00:17:44,310 --> 00:17:50,059
+original letters, I half suspected the compiler
+of having asked leading questions, or of having
+
+172
+00:17:50,059 --> 00:17:55,760
+edited the correspondence in corroboration
+of what he had latently resolved to see. That
+
+173
+00:17:55,760 --> 00:18:01,760
+is why I continued to feel that Wilcox, somehow
+cognizant of the old data which my uncle had
+
+174
+00:18:01,760 --> 00:18:08,320
+possessed, had been imposing on the veteran
+scientist. These responses from esthetes told
+
+175
+00:18:08,320 --> 00:18:15,460
+disturbing tale. From February 28 to April
+2 a large proportion of them had dreamed very
+
+176
+00:18:15,460 --> 00:18:20,340
+bizarre things, the intensity of the dreams
+being immeasurably the stronger during the
+
+177
+00:18:20,340 --> 00:18:25,870
+period of the sculptor’s delirium. Over
+a fourth of those who reported anything, reported
+
+178
+00:18:25,870 --> 00:18:31,299
+scenes and half-sounds not unlike those which
+Wilcox had described; and some of the dreamers
+
+179
+00:18:31,299 --> 00:18:37,809
+confessed acute fear of the gigantic nameless
+thing visible toward the last. One case, which
+
+180
+00:18:37,809 --> 00:18:44,419
+the note describes with emphasis, was very
+sad. The subject, a widely known architect
+
+181
+00:18:44,419 --> 00:18:50,409
+with leanings toward theosophy and occultism,
+went violently insane on the date of young
+
+182
+00:18:50,409 --> 00:18:56,460
+Wilcox’s seizure, and expired several months
+later after incessant screamings to be saved
+
+183
+00:18:56,460 --> 00:19:03,400
+from some escaped denizen of hell. Had my
+uncle referred to these cases by name instead
+
+184
+00:19:03,400 --> 00:19:08,029
+of merely by number, I should have attempted
+some corroboration and personal investigation;
+
+185
+00:19:08,029 --> 00:19:15,080
+but as it was, I succeeded in tracing down
+only a few. All of these, however, bore out
+
+186
+00:19:15,080 --> 00:19:21,470
+the notes in full. I have often wondered if
+all the the objects of the professor’s questioning
+
+187
+00:19:21,470 --> 00:19:28,010
+felt as puzzled as did this fraction. It is
+well that no explanation shall ever reach
+
+188
+00:19:28,010 --> 00:19:29,010
+them.
+
+189
+00:19:29,010 --> 00:19:34,649
+The press cuttings, as I have intimated, touched
+on cases of panic, mania, and eccentricity
+
+190
+00:19:34,649 --> 00:19:40,020
+during the given period. Professor Angell
+must have employed a cutting bureau, for the
+
+191
+00:19:40,020 --> 00:19:45,029
+number of extracts was tremendous, and the
+sources scattered throughout the globe. Here
+
+192
+00:19:45,029 --> 00:19:50,120
+was a nocturnal suicide in London, where a
+lone sleeper had leaped from a window after
+
+193
+00:19:50,120 --> 00:19:56,450
+a shocking cry. Here likewise a rambling letter
+to the editor of a paper in South America,
+
+194
+00:19:56,450 --> 00:20:02,600
+where a fanatic deduces a dire future from
+visions he has seen. A dispatch from California
+
+195
+00:20:02,600 --> 00:20:08,220
+describes a theosophist colony as donning
+white robes en masse for some “glorious
+
+196
+00:20:08,220 --> 00:20:14,299
+fulfiment” which never arrives, whilst items
+from India speak guardedly of serious native
+
+197
+00:20:14,299 --> 00:20:18,769
+unrest toward the end of March 22-23.
+
+198
+00:20:18,769 --> 00:20:24,409
+The west of Ireland, too, is full of wild
+rumour and legendry, and a fantastic painter
+
+199
+00:20:24,409 --> 00:20:32,000
+named Ardois-Bonnot hangs a blasphemous Dream
+Landscape in the Paris spring salon of 1926.
+
+200
+00:20:32,000 --> 00:20:37,090
+And so numerous are the recorded troubles
+in insane asylums that only a miracle can
+
+201
+00:20:37,090 --> 00:20:42,059
+have stopped the medical fraternity from noting
+strange parallelisms and drawing mystified
+
+202
+00:20:42,059 --> 00:20:49,720
+conclusions. A weird bunch of cuttings, all
+told; and I can at this date scarcely envisage
+
+203
+00:20:49,720 --> 00:20:56,220
+the callous rationalism with which I set them
+aside. But I was then convinced that young
+
+204
+00:20:56,220 --> 00:21:09,990
+Wilcox had known of the older matters mentioned
+by 
+
+205
+00:21:09,990 --> 00:21:13,950
+the professor.
+
+206
+00:21:13,950 --> 00:21:25,110
+II. The Tale of Inspector Legrasse.
+The older matters which had made the sculptor’s
+
+207
+00:21:25,110 --> 00:21:30,559
+dream and bas-relief so significant to my
+uncle formed the subject of the second half
+
+208
+00:21:30,559 --> 00:21:37,169
+of his long manuscript. Once before, it appears,
+Professor Angell had seen the hellish outlines
+
+209
+00:21:37,169 --> 00:21:42,440
+of the nameless monstrosity, puzzled over
+the unknown hieroglyphics, and heard the ominous
+
+210
+00:21:42,440 --> 00:21:49,400
+syllables which can be rendered only as “Cthulhu”
+; and all this in so stirring and horrible
+
+211
+00:21:49,400 --> 00:21:55,580
+a connexion that it is small wonder he pursued
+young Wilcox with queries and demands for
+
+212
+00:21:55,580 --> 00:21:57,519
+data.
+
+213
+00:21:57,519 --> 00:22:03,299
+This earlier experience had come in 1908,
+seventeen years before, when the American
+
+214
+00:22:03,299 --> 00:22:09,450
+Archaeological Society held its annual meeting
+in St. Louis. Professor Angell, as befitted
+
+215
+00:22:09,450 --> 00:22:15,160
+one of his authority and attainments, had
+had a prominent part in all the deliberations;
+
+216
+00:22:15,160 --> 00:22:19,450
+and was one of the first to be approached
+by the several outsiders who took advantage
+
+217
+00:22:19,450 --> 00:22:24,830
+of the convocation to offer questions for
+correct answering and problems for expert
+
+218
+00:22:24,830 --> 00:22:26,649
+solution.
+
+219
+00:22:26,649 --> 00:22:32,640
+The chief of these outsiders, and in a short
+time the focus of interest for the entire
+
+220
+00:22:32,640 --> 00:22:37,820
+meeting, was a commonplace-looking middle-aged
+man who had travelled all the way from New
+
+221
+00:22:37,820 --> 00:22:46,960
+Orleans for certain special information unobtainable
+from any local source. His name was John Raymond
+
+222
+00:22:46,960 --> 00:22:54,500
+Legrasse, and he was by profession an Inspector
+of Police. With him he bore the subject of
+
+223
+00:22:54,500 --> 00:23:01,610
+his visit, a grotesque, repulsive, and apparently
+very ancient stone statuette whose origin
+
+224
+00:23:01,610 --> 00:23:06,680
+he was at a loss to determine. It must not
+be fancied that Inspector Legrasse had the
+
+225
+00:23:06,680 --> 00:23:11,770
+least interest in archaeology. On the contrary,
+his wish for enlightenment was prompted by
+
+226
+00:23:11,770 --> 00:23:18,760
+purely professional considerations. The statuette,
+idol, fetish, or whatever it was, had been
+
+227
+00:23:18,760 --> 00:23:23,919
+captured some months before in the wooded
+swamps south of New Orleans during a raid
+
+228
+00:23:23,919 --> 00:23:29,789
+on a supposed voodoo meeting; and so singular
+and hideous were the rites connected with
+
+229
+00:23:29,789 --> 00:23:35,590
+it, that the police could not but realise
+that they had stumbled on a dark cult totally
+
+230
+00:23:35,590 --> 00:23:42,289
+unknown to them, and infinitely more diabolic
+than even the blackest of the African voodoo
+
+231
+00:23:42,289 --> 00:23:49,000
+circles. Of its origin, apart from the erratic
+and unbelievable tales extorted from the captured
+
+232
+00:23:49,000 --> 00:23:55,830
+members, absolutely nothing was to be discovered;
+hence the anxiety of the police for any antiquarian
+
+233
+00:23:55,830 --> 00:24:01,210
+lore which might help them to place the frightful
+symbol, and through it track down the cult
+
+234
+00:24:01,210 --> 00:24:03,899
+to its fountain-head.
+
+235
+00:24:03,899 --> 00:24:10,180
+Inspector Legrasse was scarcely prepared for
+the sensation which his offering created.
+
+236
+00:24:10,180 --> 00:24:14,200
+One sight of the thing had been enough to
+throw the assembled men of science into a
+
+237
+00:24:14,200 --> 00:24:19,500
+state of tense excitement, and they lost no
+time in crowding around him to gaze at the
+
+238
+00:24:19,500 --> 00:24:26,320
+diminutive figure whose utter strangeness
+and air of genuinely abysmal antiquity hinted
+
+239
+00:24:26,320 --> 00:24:34,450
+so potently at unopened and archaic vistas.
+No recognised school of sculpture had animated
+
+240
+00:24:34,450 --> 00:24:40,010
+this terrible object, yet centuries and even
+thousands of years seemed recorded in its
+
+241
+00:24:40,010 --> 00:24:45,279
+dim and greenish surface of unplaceable stone.
+
+242
+00:24:45,279 --> 00:24:50,890
+The figure, which was finally passed slowly
+from man to man for close and careful study,
+
+243
+00:24:50,890 --> 00:24:57,539
+was between seven and eight inches in height,
+and of exquisitely artistic workmanship. It
+
+244
+00:24:57,539 --> 00:25:05,430
+represented a monster of vaguely anthropoid
+outline, but with an octopus-like head whose
+
+245
+00:25:05,430 --> 00:25:14,250
+face was a mass of feelers, a scaly, rubbery-looking
+body, prodigious claws on hind and fore feet,
+
+246
+00:25:14,250 --> 00:25:22,480
+and long, narrow wings behind. This thing,
+which seemed instinct with a fearsome and
+
+247
+00:25:22,480 --> 00:25:30,029
+unnatural malignancy, was of a somewhat bloated
+corpulence, and squatted evilly on a rectangular
+
+248
+00:25:30,029 --> 00:25:37,070
+block or pedestal covered with undecipherable
+characters. The tips of the wings touched
+
+249
+00:25:37,070 --> 00:25:42,870
+the back edge of the block, the seat occupied
+the centre, whilst the long, curved claws
+
+250
+00:25:42,870 --> 00:25:48,480
+of the doubled-up, crouching hind legs gripped
+the front edge and extended a quarter of the
+
+251
+00:25:48,480 --> 00:25:53,870
+way down toward the bottom of the pedestal.
+The cephalopod head was bent forward, so that
+
+252
+00:25:53,870 --> 00:25:59,490
+the ends of the facial feelers brushed the
+backs of huge fore paws which clasped the
+
+253
+00:25:59,490 --> 00:26:06,300
+croucher’s elevated knees. The aspect of
+the whole was abnormally life-like, and the
+
+254
+00:26:06,300 --> 00:26:14,490
+more subtly fearful because its source was
+so totally unknown. Its vast, awesome, and
+
+255
+00:26:14,490 --> 00:26:20,500
+incalculable age was unmistakable; yet not
+one link did it shew with any known type of
+
+256
+00:26:20,500 --> 00:26:26,429
+art belonging to civilisation’s youth - or
+indeed to any other time. Totally separate
+
+257
+00:26:26,429 --> 00:26:32,600
+and apart, its very material was a mystery;
+for the soapy, greenish-black stone with its
+
+258
+00:26:32,600 --> 00:26:39,510
+golden or iridescent flecks and striations
+resembled nothing familiar to geology or mineralogy.
+
+259
+00:26:39,510 --> 00:26:43,980
+The characters along the base were equally
+baffling; and no member present, despite a
+
+260
+00:26:43,980 --> 00:26:48,830
+representation of half the world’s expert
+learning in this field, could form the least
+
+261
+00:26:48,830 --> 00:26:55,570
+notion of even their remotest linguistic kinship.
+They, like the subject and material, belonged
+
+262
+00:26:55,570 --> 00:27:01,600
+to something horribly remote and distinct
+from mankind as we know it. something frightfully
+
+263
+00:27:01,600 --> 00:27:07,630
+suggestive of old and unhallowed cycles of
+life in which our world and our conceptions
+
+264
+00:27:07,630 --> 00:27:10,440
+have no part.
+
+265
+00:27:10,440 --> 00:27:16,730
+And yet, as the members severally shook their
+heads and confessed defeat at the Inspector’s
+
+266
+00:27:16,730 --> 00:27:22,669
+problem, there was one man in that gathering
+who suspected a touch of bizarre familiarity
+
+267
+00:27:22,669 --> 00:27:28,669
+in the monstrous shape and writing, and who
+presently told with some diffidence of the
+
+268
+00:27:28,669 --> 00:27:37,330
+odd trifle he knew. This person was the late
+William Channing Webb, Professor of Anthropology
+
+269
+00:27:37,330 --> 00:27:44,509
+in Princeton University, and an explorer of
+no slight note. Professor Webb had been engaged,
+
+270
+00:27:44,509 --> 00:27:49,960
+forty-eight years before, in a tour of Greenland
+and Iceland in search of some Runic inscriptions
+
+271
+00:27:49,960 --> 00:27:54,529
+which he failed to unearth; and whilst high
+up on the West Greenland coast had encountered
+
+272
+00:27:54,529 --> 00:28:02,570
+a singular tribe or cult of degenerate Esquimaux
+whose religion, a curious form of devil-worship,
+
+273
+00:28:02,570 --> 00:28:08,149
+chilled him with its deliberate bloodthirstiness
+and repulsiveness. It was a faith of which
+
+274
+00:28:08,149 --> 00:28:12,970
+other Esquimaux knew little, and which they
+mentioned only with shudders, saying that
+
+275
+00:28:12,970 --> 00:28:21,230
+it had come down from horribly ancient aeons
+before ever the world was made. Besides nameless
+
+276
+00:28:21,230 --> 00:28:28,139
+rites and human sacrifices there were certain
+queer hereditary rituals addressed to a supreme
+
+277
+00:28:28,139 --> 00:28:34,690
+elder devil or tornasuk; and of this Professor
+Webb had taken a careful phonetic copy from
+
+278
+00:28:34,690 --> 00:28:40,590
+an aged angekok or wizard-priest, expressing
+the sounds in Roman letters as best he knew
+
+279
+00:28:40,590 --> 00:28:47,169
+how. But just now of prime significance was
+the fetish which this cult had cherished,
+
+280
+00:28:47,169 --> 00:28:53,600
+and around which they danced when the aurora
+leaped high over the ice cliffs. It was, the
+
+281
+00:28:53,600 --> 00:28:59,690
+professor stated, a very crude bas-relief
+of stone, comprising a hideous picture and
+
+282
+00:28:59,690 --> 00:29:06,970
+some cryptic writing. And so far as he could
+tell, it was a rough parallel in all essential
+
+283
+00:29:06,970 --> 00:29:13,690
+features of the bestial thing now lying before
+the meeting.
+
+284
+00:29:13,690 --> 00:29:19,440
+This data, received with suspense and astonishment
+by the assembled members, proved doubly exciting
+
+285
+00:29:19,440 --> 00:29:25,270
+to Inspector Legrasse; and he began at once
+to ply his informant with questions. Having
+
+286
+00:29:25,270 --> 00:29:30,919
+noted and copied an oral ritual among the
+swamp cult-worshippers his men had arrested,
+
+287
+00:29:30,919 --> 00:29:36,620
+he besought the professor to remember as best
+he might the syllables taken down amongst
+
+288
+00:29:36,620 --> 00:29:42,900
+the diabolist Esquimaux. There then followed
+an exhaustive comparison of details, and a
+
+289
+00:29:42,900 --> 00:29:52,070
+moment of really awed silence when both detective
+and scientist agreed on the virtual identity
+
+290
+00:29:52,070 --> 00:29:59,130
+of the phrase common to two hellish rituals
+so many worlds of distance apart. What, in
+
+291
+00:29:59,130 --> 00:30:03,200
+substance, both the Esquimaux wizards and
+the Louisiana swamp-priests had chanted to
+
+292
+00:30:03,200 --> 00:30:08,640
+their kindred idols was something very like
+this: the word-divisions being guessed at
+
+293
+00:30:08,640 --> 00:30:13,620
+from traditional breaks in the phrase as chanted
+aloud:
+
+294
+00:30:13,620 --> 00:30:24,740
+“Ph’nglui mglw’nafh Cthulhu R’lyeh
+wgah’nagl fhtagn.”
+
+295
+00:30:24,740 --> 00:30:30,500
+Legrasse had one point in advance of Professor
+Webb, for several among his mongrel prisoners
+
+296
+00:30:30,500 --> 00:30:36,309
+had repeated to him what older celebrants
+had told them the words meant. This text,
+
+297
+00:30:36,309 --> 00:30:38,880
+as given, ran something like this:
+
+298
+00:30:38,880 --> 00:30:46,700
+“In his house at R’lyeh dead Cthulhu waits
+dreaming.”
+
+299
+00:30:46,700 --> 00:30:52,659
+And now, in response to a general and urgent
+demand, Inspector Legrasse related as fully
+
+300
+00:30:52,659 --> 00:30:57,929
+as possible his experience with the swamp
+worshippers; telling a story to which I could
+
+301
+00:30:57,929 --> 00:31:05,009
+see my uncle attached profound significance.
+It savoured of the wildest dreams of myth-maker
+
+302
+00:31:05,009 --> 00:31:11,200
+and theosophist, and disclosed an astonishing
+degree of cosmic imagination among such half-castes
+
+303
+00:31:11,200 --> 00:31:16,309
+and pariahs as might be least expected to
+possess it.
+
+304
+00:31:16,309 --> 00:31:21,940
+On November 1st, 1907, there had come to the
+New Orleans police a frantic summons from
+
+305
+00:31:21,940 --> 00:31:27,889
+the swamp and lagoon country to the south.
+The squatters there, mostly primitive but
+
+306
+00:31:27,889 --> 00:31:33,970
+good-natured descendants of Lafitte’s men,
+were in the grip of stark terror from an unknown
+
+307
+00:31:33,970 --> 00:31:40,120
+thing which had stolen upon them in the night.
+It was voodoo, apparently, but voodoo of a
+
+308
+00:31:40,120 --> 00:31:45,250
+more terrible sort than they had ever known;
+and some of their women and children had disappeared
+
+309
+00:31:45,250 --> 00:31:50,549
+since the malevolent tom-tom had begun its
+incessant beating far within the black haunted
+
+310
+00:31:50,549 --> 00:31:58,960
+woods where no dweller ventured. There were
+insane shouts and harrowing screams, soul-chilling
+
+311
+00:31:58,960 --> 00:32:04,550
+chants and dancing devil-flames; and, the
+frightened messenger added, the people could
+
+312
+00:32:04,550 --> 00:32:06,690
+stand it no more.
+
+313
+00:32:06,690 --> 00:32:12,529
+So a body of twenty police, filling two carriages
+and an automobile, had set out in the late
+
+314
+00:32:12,529 --> 00:32:18,010
+afternoon with the shivering squatter as a
+guide. At the end of the passable road they
+
+315
+00:32:18,010 --> 00:32:23,890
+alighted, and for miles splashed on in silence
+through the terrible cypress woods where day
+
+316
+00:32:23,890 --> 00:32:30,320
+never came. Ugly roots and malignant hanging
+nooses of Spanish moss beset them, and now
+
+317
+00:32:30,320 --> 00:32:35,889
+and then a pile of dank stones or fragment
+of a rotting wall intensified by its hint
+
+318
+00:32:35,889 --> 00:32:42,029
+of morbid habitation a depression which every
+malformed tree and every fungous islet combined
+
+319
+00:32:42,029 --> 00:32:48,950
+to create. At length the squatter settlement,
+a miserable huddle of huts, hove in sight;
+
+320
+00:32:48,950 --> 00:32:53,870
+and hysterical dwellers ran out to cluster
+around the group of bobbing lanterns. The
+
+321
+00:32:53,870 --> 00:33:01,340
+muffled beat of tom-toms was now faintly audible
+far, far ahead; and a curdling shriek came
+
+322
+00:33:01,340 --> 00:33:07,230
+at infrequent intervals when the wind shifted.
+A reddish glare, too, seemed to filter through
+
+323
+00:33:07,230 --> 00:33:12,899
+pale undergrowth beyond the endless avenues
+of forest night. Reluctant even to be left
+
+324
+00:33:12,899 --> 00:33:18,160
+alone again, each one of the cowed squatters
+refused point-blank to advance another inch
+
+325
+00:33:18,160 --> 00:33:24,840
+toward the scene of unholy worship, so Inspector
+Legrasse and his nineteen colleagues plunged
+
+326
+00:33:24,840 --> 00:33:32,429
+on unguided into black arcades of horror that
+none of them had ever trod before.
+
+327
+00:33:32,429 --> 00:33:38,070
+The region now entered by the police was one
+of traditionally evil repute, substantially
+
+328
+00:33:38,070 --> 00:33:45,190
+unknown and untraversed by white men. There
+were legends of a hidden lake unglimpsed by
+
+329
+00:33:45,190 --> 00:33:53,290
+mortal sight, in which dwelt a huge, formless
+white polypous thing with luminous eyes; and
+
+330
+00:33:53,290 --> 00:33:58,659
+squatters whispered that bat-winged devils
+flew up out of caverns in inner earth to worship
+
+331
+00:33:58,659 --> 00:34:05,029
+it at midnight. They said it had been there
+before d’Iberville, before La Salle, before
+
+332
+00:34:05,029 --> 00:34:11,830
+the Indians, and before even the wholesome
+beasts and birds of the woods. It was nightmare
+
+333
+00:34:11,830 --> 00:34:19,280
+itself, and to see it was to die. But it made
+men dream, and so they knew enough to keep
+
+334
+00:34:19,280 --> 00:34:25,780
+away. The present voodoo orgy was, indeed,
+on the merest fringe of this abhorred area,
+
+335
+00:34:25,780 --> 00:34:32,550
+but that location was bad enough; hence perhaps
+the very place of the worship had terrified
+
+336
+00:34:32,550 --> 00:34:37,330
+the squatters more than the shocking sounds
+and incidents.
+
+337
+00:34:37,330 --> 00:34:43,840
+Only poetry or madness could do justice to
+the noises heard by Legrasse’s men as they
+
+338
+00:34:43,840 --> 00:34:50,110
+ploughed on through the black morass toward
+the red glare and muffled tom-toms. There
+
+339
+00:34:50,110 --> 00:34:57,940
+are vocal qualities peculiar to men, and vocal
+qualities peculiar to beasts; and it is terrible
+
+340
+00:34:57,940 --> 00:35:04,940
+to hear the one when the source should yield
+the other. Animal fury and orgiastic license
+
+341
+00:35:04,940 --> 00:35:11,820
+here whipped themselves to daemoniac heights
+by howls and squawking ecstacies that tore
+
+342
+00:35:11,820 --> 00:35:17,570
+and reverberated through those nighted woods
+like pestilential tempests from the gulfs
+
+343
+00:35:17,570 --> 00:35:25,270
+of hell. Now and then the less organized ululation
+would cease, and from what seemed a well-drilled
+
+344
+00:35:25,270 --> 00:35:33,810
+chorus of hoarse voices would rise in sing-song
+chant that hideous phrase or ritual:
+
+345
+00:35:33,810 --> 00:35:42,610
+“Ph’nglui mglw’nafh Cthulhu R’lyeh
+wgah’nagl fhtagn.”
+
+346
+00:35:42,610 --> 00:35:49,790
+Then the men, having reached a spot where
+the trees were thinner, came suddenly in sight
+
+347
+00:35:49,790 --> 00:35:56,840
+of the spectacle itself. Four of them reeled,
+one fainted, and two were shaken into a frantic
+
+348
+00:35:56,840 --> 00:36:03,760
+cry which the mad cacophony of the orgy fortunately
+deadened. Legrasse dashed swamp water on the
+
+349
+00:36:03,760 --> 00:36:10,450
+face of the fainting man, and all stood trembling
+and nearly hypnotised with horror.
+
+350
+00:36:10,450 --> 00:36:16,351
+In a natural glade of the swamp stood a grassy
+island of perhaps an acre’s extent, clear
+
+351
+00:36:16,351 --> 00:36:24,330
+of trees and tolerably dry. On this now leaped
+and twisted a more indescribable horde of
+
+352
+00:36:24,330 --> 00:36:32,930
+human abnormality than any but a Sime or an
+Angarola could paint. Void of clothing, this
+
+353
+00:36:32,930 --> 00:36:41,050
+hybrid spawn were braying, bellowing, and
+writhing about a monstrous ring-shaped bonfire;
+
+354
+00:36:41,050 --> 00:36:46,150
+in the centre of which, revealed by occasional
+rifts in the curtain of flame, stood a great
+
+355
+00:36:46,150 --> 00:36:52,430
+granite monolith some eight feet in height;
+on top of which, incongruous in its diminutiveness,
+
+356
+00:36:52,430 --> 00:36:58,730
+rested the noxious carven statuette. From
+a wide circle of ten scaffolds set up at regular
+
+357
+00:36:58,730 --> 00:37:05,740
+intervals with the flame-girt monolith as
+a centre hung, head downward, the oddly marred
+
+358
+00:37:05,740 --> 00:37:12,870
+bodies of the helpless squatters who had disappeared.
+It was inside this circle that the ring of
+
+359
+00:37:12,870 --> 00:37:17,660
+worshippers jumped and roared, the general
+direction of the mass motion being from left
+
+360
+00:37:17,660 --> 00:37:23,560
+to right in endless Bacchanal between the
+ring of bodies and the ring of fire.
+
+361
+00:37:23,560 --> 00:37:30,250
+It may have been only imagination and it may
+have been only echoes which induced one of
+
+362
+00:37:30,250 --> 00:37:36,660
+the men, an excitable Spaniard, to fancy he
+heard antiphonal responses to the ritual from
+
+363
+00:37:36,660 --> 00:37:45,550
+some far and unillumined spot deeper within
+the wood of ancient legendry and horror. This
+
+364
+00:37:45,550 --> 00:37:53,570
+man, Joseph D. Galvez, I later met and questioned;
+and he proved distractingly imaginative. He
+
+365
+00:37:53,570 --> 00:37:59,210
+indeed went so far as to hint of the faint
+beating of great wings, and of a glimpse of
+
+366
+00:37:59,210 --> 00:38:06,550
+shining eyes and a mountainous white bulk
+beyond the remotest trees but I suppose he
+
+367
+00:38:06,550 --> 00:38:10,210
+had been hearing too much native superstition.
+
+368
+00:38:10,210 --> 00:38:18,240
+Actually, the horrified pause of the men was
+of comparatively brief duration. Duty came
+
+369
+00:38:18,240 --> 00:38:23,660
+first; and although there must have been nearly
+a hundred mongrel celebrants in the throng,
+
+370
+00:38:23,660 --> 00:38:30,500
+the police relied on their firearms and plunged
+determinedly into the nauseous rout. For five
+
+371
+00:38:30,500 --> 00:38:37,370
+minutes the resultant din and chaos were beyond
+description. Wild blows were struck, shots
+
+372
+00:38:37,370 --> 00:38:43,860
+were fired, and escapes were made; but in
+the end Legrasse was able to count some forty-seven
+
+373
+00:38:43,860 --> 00:38:49,290
+sullen prisoners, whom he forced to dress
+in haste and fall into line between two rows
+
+374
+00:38:49,290 --> 00:38:55,290
+of policemen. Five of the worshippers lay
+dead, and two severely wounded ones were carried
+
+375
+00:38:55,290 --> 00:39:01,260
+away on improvised stretchers by their fellow-prisoners.
+The image on the monolith, of course, was
+
+376
+00:39:01,260 --> 00:39:06,790
+carefully removed and carried back by Legrasse.
+
+377
+00:39:06,790 --> 00:39:12,210
+Examined at headquarters after a trip of intense
+strain and weariness, the prisoners all proved
+
+378
+00:39:12,210 --> 00:39:18,600
+to be men of a very low, mixed-blooded, and
+mentally aberrant type. Most were seamen,
+
+379
+00:39:18,600 --> 00:39:23,970
+and a sprinkling of Negroes and mulattoes,
+largely West Indians or Brava Portuguese from
+
+380
+00:39:23,970 --> 00:39:30,510
+the Cape Verde Islands, gave a colouring of
+voodooism to the heterogeneous cult. But before
+
+381
+00:39:30,510 --> 00:39:36,300
+many questions were asked, it became manifest
+that something far deeper and older than Negro
+
+382
+00:39:36,300 --> 00:39:43,260
+fetishism was involved. Degraded and ignorant
+as they were, the creatures held with surprising
+
+383
+00:39:43,260 --> 00:39:47,980
+consistency to the central idea of their loathsome
+faith.
+
+384
+00:39:47,980 --> 00:39:55,110
+They worshipped, so they said, the Great Old
+Ones who lived ages before there were any
+
+385
+00:39:55,110 --> 00:40:02,670
+men, and who came to the young world out of
+the sky. Those Old Ones were gone now, inside
+
+386
+00:40:02,670 --> 00:40:07,620
+the earth and under the sea; but their dead
+bodies had told their secrets in dreams to
+
+387
+00:40:07,620 --> 00:40:15,830
+the first men, who formed a cult which had
+never died. This was that cult, and the prisoners
+
+388
+00:40:15,830 --> 00:40:22,290
+said it had always existed and always would
+exist, hidden in distant wastes and dark places
+
+389
+00:40:22,290 --> 00:40:28,630
+all over the world until the time when the
+great priest Cthulhu, from his dark house
+
+390
+00:40:28,630 --> 00:40:35,050
+in the mighty city of R’lyeh under the waters,
+should rise and bring the earth again beneath
+
+391
+00:40:35,050 --> 00:40:41,450
+his sway. Some day he would call, when the
+stars were ready, and the secret cult would
+
+392
+00:40:41,450 --> 00:40:45,010
+always be waiting to liberate him.
+
+393
+00:40:45,010 --> 00:40:55,400
+Meanwhile no more must be told. There was
+a secret which even torture could not extract.
+
+394
+00:40:55,400 --> 00:41:02,890
+Mankind was not absolutely alone among the
+conscious things of earth, for shapes came
+
+395
+00:41:02,890 --> 00:41:10,070
+out of the dark to visit the faithful few.
+But these were not the Great Old Ones. No
+
+396
+00:41:10,070 --> 00:41:16,560
+man had ever seen the Old Ones. The carven
+idol was great Cthulhu, but none might say
+
+397
+00:41:16,560 --> 00:41:22,990
+whether or not the others were precisely like
+him. No one could read the old writing now,
+
+398
+00:41:22,990 --> 00:41:28,850
+but things were told by word of mouth. The
+chanted ritual was not the secret - that was
+
+399
+00:41:28,850 --> 00:41:37,310
+never spoken aloud, only whispered. The chant
+meant only this: “In his house at R’lyeh
+
+400
+00:41:37,310 --> 00:41:41,430
+dead Cthulhu waits dreaming.”
+
+401
+00:41:41,430 --> 00:41:46,310
+Only two of the prisoners were found sane
+enough to be hanged, and the rest were committed
+
+402
+00:41:46,310 --> 00:41:52,070
+to various institutions. All denied a part
+in the ritual murders, and averred that the
+
+403
+00:41:52,070 --> 00:41:58,070
+killing had been done by Black Winged Ones
+which had come to them from their immemorial
+
+404
+00:41:58,070 --> 00:42:04,890
+meeting-place in the haunted wood. But of
+those mysterious allies no coherent account
+
+405
+00:42:04,890 --> 00:42:11,930
+could ever be gained. What the police did
+extract, came mainly from the immensely aged
+
+406
+00:42:11,930 --> 00:42:17,870
+mestizo named Castro, who claimed to have
+sailed to strange ports and talked with undying
+
+407
+00:42:17,870 --> 00:42:21,930
+leaders of the cult in the mountains of China.
+
+408
+00:42:21,930 --> 00:42:27,850
+Old Castro remembered bits of hideous legend
+that paled the speculations of theosophists
+
+409
+00:42:27,850 --> 00:42:36,960
+and made man and the world seem recent and
+transient indeed. There had been aeons when
+
+410
+00:42:36,960 --> 00:42:43,160
+other Things ruled on the earth, and They
+had had great cities. Remains of Them, he
+
+411
+00:42:43,160 --> 00:42:49,410
+said the deathless Chinamen had told him,
+were still be found as Cyclopean stones on
+
+412
+00:42:49,410 --> 00:42:57,910
+islands in the Pacific. They all died vast
+epochs of time before men came, but there
+
+413
+00:42:57,910 --> 00:43:04,350
+were arts which could revive Them when the
+stars had come round again to the right positions
+
+414
+00:43:04,350 --> 00:43:11,700
+in the cycle of eternity. They had, indeed,
+come themselves from the stars, and brought
+
+415
+00:43:11,700 --> 00:43:14,670
+Their images with Them.
+
+416
+00:43:14,670 --> 00:43:20,900
+These Great Old Ones, Castro continued, were
+not composed altogether of flesh and blood.
+
+417
+00:43:20,900 --> 00:43:26,740
+They had shape - for did not this star-fashioned
+image prove it? - but that shape was not made
+
+418
+00:43:26,740 --> 00:43:33,120
+of matter. When the stars were right, They
+could plunge from world to world through the
+
+419
+00:43:33,120 --> 00:43:40,390
+sky; but when the stars were wrong, They could
+not live. But although They no longer lived,
+
+420
+00:43:40,390 --> 00:43:51,150
+They would never really die. They all lay
+in stone houses in Their great city of R’lyeh,
+
+421
+00:43:51,150 --> 00:43:56,820
+preserved by the spells of mighty Cthulhu
+for a glorious surrection when the stars and
+
+422
+00:43:56,820 --> 00:44:03,970
+the earth might once more be ready for Them.
+But at that time some force from outside must
+
+423
+00:44:03,970 --> 00:44:10,240
+serve to liberate Their bodies. The spells
+that preserved them intact likewise prevented
+
+424
+00:44:10,240 --> 00:44:16,700
+Them from making an initial move, and They
+could only lie awake in the dark and think
+
+425
+00:44:16,700 --> 00:44:24,180
+whilst uncounted millions of years rolled
+by. They knew all that was occurring in the
+
+426
+00:44:24,180 --> 00:44:31,980
+universe, for Their mode of speech was transmitted
+thought. Even now They talked in Their tombs.
+
+427
+00:44:31,980 --> 00:44:38,640
+When, after infinities of chaos, the first
+men came, the Great Old Ones spoke to the
+
+428
+00:44:38,640 --> 00:44:44,040
+sensitive among them by moulding their dreams;
+for only thus could Their language reach the
+
+429
+00:44:44,040 --> 00:44:46,580
+fleshly minds of mammals.
+
+430
+00:44:46,580 --> 00:44:52,741
+Then, whispered Castro, those first men formed
+the cult around tall idols which the Great
+
+431
+00:44:52,741 --> 00:45:00,370
+Ones shewed them; idols brought in dim eras
+from dark stars. That cult would never die
+
+432
+00:45:00,370 --> 00:45:06,350
+till the stars came right again, and the secret
+priests would take great Cthulhu from His
+
+433
+00:45:06,350 --> 00:45:17,140
+tomb to revive His subjects and resume His
+rule of earth. The time would be easy to know,
+
+434
+00:45:17,140 --> 00:45:23,440
+for then mankind would have become as the
+Great Old Ones; free and wild and beyond good
+
+435
+00:45:23,440 --> 00:45:30,680
+and evil, with laws and morals thrown aside
+and all men shouting and killing and revelling
+
+436
+00:45:30,680 --> 00:45:38,820
+in joy. Then the liberated Old Ones would
+teach them new ways to shout and kill and
+
+437
+00:45:38,820 --> 00:45:45,790
+revel and enjoy themselves, and all the earth
+would flame with a holocaust of ecstasy and
+
+438
+00:45:45,790 --> 00:45:53,780
+freedom. Meanwhile the cult, by appropriate
+rites, must keep alive the memory of those
+
+439
+00:45:53,780 --> 00:46:00,430
+ancient ways and shadow forth the prophecy
+of their return.
+
+440
+00:46:00,430 --> 00:46:06,640
+In the elder time chosen men had talked with
+the entombed Old Ones in dreams, but then
+
+441
+00:46:06,640 --> 00:46:14,660
+something happened. The great stone city R’lyeh,
+with its monoliths and sepulchres, had sunk
+
+442
+00:46:14,660 --> 00:46:21,000
+beneath the waves; and the deep waters, full
+of the one primal mystery through which not
+
+443
+00:46:21,000 --> 00:46:29,730
+even thought can pass, had cut off the spectral
+intercourse. But memory never died, and the
+
+444
+00:46:29,730 --> 00:46:34,340
+high-priests said that the city would rise
+again when the stars were right. Then came
+
+445
+00:46:34,340 --> 00:46:40,570
+out of the earth the black spirits of earth,
+mouldy and shadowy, and full of dim rumours
+
+446
+00:46:40,570 --> 00:46:49,090
+picked up in caverns beneath forgotten sea-bottoms.
+But of them old Castro dared not speak much.
+
+447
+00:46:49,090 --> 00:46:54,480
+He cut himself off hurriedly, and no amount
+of persuasion or subtlety could elicit more
+
+448
+00:46:54,480 --> 00:47:01,770
+in this direction. The size of the Old Ones,
+too, he curiously declined to mention. Of
+
+449
+00:47:01,770 --> 00:47:07,301
+the cult, he said that he thought the centre
+lay amid the pathless desert of Arabia, where
+
+450
+00:47:07,301 --> 00:47:14,610
+Irem, the City of Pillars, dreams hidden and
+untouched. It was not allied to the European
+
+451
+00:47:14,610 --> 00:47:20,110
+witch-cult, and was virtually unknown beyond
+its members. No book had ever really hinted
+
+452
+00:47:20,110 --> 00:47:24,510
+of it, though the deathless Chinamen said
+that there were double meanings in the Necronomicon
+
+453
+00:47:24,510 --> 00:47:32,430
+of the mad Arab Abdul Alhazred which the initiated
+might read as they chose, especially the much-discussed
+
+454
+00:47:32,430 --> 00:47:33,500
+couplet:
+
+455
+00:47:33,500 --> 00:47:36,980
+That is not dead which can eternal lie,
+
+456
+00:47:36,980 --> 00:47:41,870
+And with strange aeons even death may die.
+
+457
+00:47:41,870 --> 00:47:46,740
+Legrasse, deeply impressed and not a little
+bewildered, had inquired in vain concerning
+
+458
+00:47:46,740 --> 00:47:52,000
+the historic affiliations of the cult. Castro,
+apparently, had told the truth when he said
+
+459
+00:47:52,000 --> 00:47:57,180
+that it was wholly secret. The authorities
+at Tulane University could shed no light upon
+
+460
+00:47:57,180 --> 00:48:01,920
+either cult or image, and now the detective
+had come to the highest authorities in the
+
+461
+00:48:01,920 --> 00:48:07,870
+country and met with no more than the Greenland
+tale of Professor Webb.
+
+462
+00:48:07,870 --> 00:48:12,850
+The feverish interest aroused at the meeting
+by Legrasse’s tale, corroborated as it was
+
+463
+00:48:12,850 --> 00:48:17,860
+by the statuette, is echoed in the subsequent
+correspondence of those who attended; although
+
+464
+00:48:17,860 --> 00:48:24,440
+scant mention occurs in the formal publications
+of the society. Caution is the first care
+
+465
+00:48:24,440 --> 00:48:31,300
+of those accustomed to face occasional charlatanry
+and imposture. Legrasse for some time lent
+
+466
+00:48:31,300 --> 00:48:36,340
+the image to Professor Webb, but at the latter’s
+death it was returned to him and remains in
+
+467
+00:48:36,340 --> 00:48:43,380
+his possession, where I viewed it not long
+ago. It is truly a terrible thing, and unmistakably
+
+468
+00:48:43,380 --> 00:48:48,460
+akin to the dream-sculpture of young Wilcox.
+
+469
+00:48:48,460 --> 00:48:53,340
+That my uncle was excited by the tale of the
+sculptor I did not wonder, for what thoughts
+
+470
+00:48:53,340 --> 00:48:57,370
+must arise upon hearing, after a knowledge
+of what Legrasse had learned of the cult,
+
+471
+00:48:57,370 --> 00:49:02,510
+of a sensitive young man who had dreamed not
+only the figure and exact hieroglyphics of
+
+472
+00:49:02,510 --> 00:49:07,550
+the swamp-found image and the Greenland devil
+tablet, but had come in his dreams upon at
+
+473
+00:49:07,550 --> 00:49:13,370
+least three of the precise words of the formula
+uttered alike by Esquimaux diabolists and
+
+474
+00:49:13,370 --> 00:49:19,560
+mongrel Louisianans?. Professor Angell’s
+instant start on an investigation of the utmost
+
+475
+00:49:19,560 --> 00:49:24,190
+thoroughness was eminently natural; though
+privately I suspected young Wilcox of having
+
+476
+00:49:24,190 --> 00:49:29,770
+heard of the cult in some indirect way, and
+of having invented a series of dreams to heighten
+
+477
+00:49:29,770 --> 00:49:36,820
+and continue the mystery at my uncle’s expense.
+The dream-narratives and cuttings collected
+
+478
+00:49:36,820 --> 00:49:42,730
+by the professor were, of course, strong corroboration;
+but the rationalism of my mind and the extravagance
+
+479
+00:49:42,730 --> 00:49:49,850
+of the whole subject led me to adopt what
+I thought the most sensible conclusions. So,
+
+480
+00:49:49,850 --> 00:49:55,140
+after thoroughly studying the manuscript again
+and correlating the theosophical and anthropological
+
+481
+00:49:55,140 --> 00:50:00,930
+notes with the cult narrative of Legrasse,
+I made a trip to Providence to see the sculptor
+
+482
+00:50:00,930 --> 00:50:07,040
+and give him the rebuke I thought proper for
+so boldly imposing upon a learned and aged
+
+483
+00:50:07,040 --> 00:50:08,920
+man.
+
+484
+00:50:08,920 --> 00:50:14,390
+Wilcox still lived alone in the Fleur-de-Lys
+Building in Thomas Street, a hideous Victorian
+
+485
+00:50:14,390 --> 00:50:19,570
+imitation of seventeenth century Breton Architecture
+which flaunts its stuccoed front amidst the
+
+486
+00:50:19,570 --> 00:50:25,170
+lovely colonial houses on the ancient hill,
+and under the very shadow of the finest Georgian
+
+487
+00:50:25,170 --> 00:50:32,470
+steeple in America, I found him at work in
+his rooms, and at once conceded from the specimens
+
+488
+00:50:32,470 --> 00:50:38,620
+scattered about that his genius is indeed
+profound and authentic. He will, I believe,
+
+489
+00:50:38,620 --> 00:50:44,260
+some time be heard from as one of the great
+decadents; for he has crystallised in clay
+
+490
+00:50:44,260 --> 00:50:50,600
+and will one day mirror in marble those nightmares
+and phantasies which Arthur Machen evokes
+
+491
+00:50:50,600 --> 00:50:56,790
+in prose, and Clark Ashton Smith makes visible
+in verse and in painting.
+
+492
+00:50:56,790 --> 00:51:03,550
+Dark, frail, and somewhat unkempt in aspect,
+he turned languidly at my knock and asked
+
+493
+00:51:03,550 --> 00:51:10,190
+me my business without rising. Then I told
+him who I was, he displayed some interest;
+
+494
+00:51:10,190 --> 00:51:15,420
+for my uncle had excited his curiosity in
+probing his strange dreams, yet had never
+
+495
+00:51:15,420 --> 00:51:22,330
+explained the reason for the study. I did
+not enlarge his knowledge in this regard,
+
+496
+00:51:22,330 --> 00:51:29,280
+but sought with some subtlety to draw him
+out. In a short time I became convinced ofhis
+
+497
+00:51:29,280 --> 00:51:36,050
+absolute sincerity, for he spoke of the dreams
+in a manner none could mistake. They and their
+
+498
+00:51:36,050 --> 00:51:43,180
+subconscious residuum had influenced his art
+profoundly, and he shewed me a morbid statue
+
+499
+00:51:43,180 --> 00:51:49,400
+whose contours almost made me shake with the
+potency of its black suggestion. He could
+
+500
+00:51:49,400 --> 00:51:55,290
+not recall having seen the original of this
+thing except in his own dream bas-relief,
+
+501
+00:51:55,290 --> 00:52:03,090
+but the outlines had formed themselves insensibly
+under his hands. It was, no doubt, the giant
+
+502
+00:52:03,090 --> 00:52:09,781
+shape he had raved of in delirium. That he
+really knew nothing of the hidden cult, save
+
+503
+00:52:09,781 --> 00:52:16,210
+from what my uncle’s relentless catechism
+had let fall, he soon made clear; and again
+
+504
+00:52:16,210 --> 00:52:22,910
+I strove to think of some way in which he
+could possibly have received the weird impressions.
+
+505
+00:52:22,910 --> 00:52:28,850
+He talked of his dreams in a strangely poetic
+fashion; making me see with terrible vividness
+
+506
+00:52:28,850 --> 00:52:35,760
+the damp Cyclopean city of slimy green stone
+- whose geometry, he oddly said, was all wrong
+
+507
+00:52:35,760 --> 00:52:43,830
+- and hear with frightened expectancy the
+ceaseless, half-mental calling from underground:
+
+508
+00:52:43,830 --> 00:52:52,220
+“Cthulhu fhtagn”, “Cthulhu fhtagn.”
+
+509
+00:52:52,220 --> 00:52:58,330
+These words had formed part of that dread
+ritual which told of dead Cthulhu’s dream-vigil
+
+510
+00:52:58,330 --> 00:53:05,270
+in his stone vault at R’lyeh, and I felt
+deeply moved despite my rational beliefs.
+
+511
+00:53:05,270 --> 00:53:11,570
+Wilcox, I was sure, had heard of the cult
+in some casual way, and had soon forgotten
+
+512
+00:53:11,570 --> 00:53:18,730
+it amidst the mass of his equally weird reading
+and imagining. Later, by virtue of its sheer
+
+513
+00:53:18,730 --> 00:53:23,940
+impressiveness, it had found subconscious
+expression in dreams, in the bas-relief, and
+
+514
+00:53:23,940 --> 00:53:29,400
+in the terrible statue I now beheld; so that
+his imposture upon my uncle had been a very
+
+515
+00:53:29,400 --> 00:53:36,480
+innocent one. The youth was of a type, at
+once slightly affected and slightly ill-mannered,
+
+516
+00:53:36,480 --> 00:53:42,080
+which I could never like, but I was willing
+enough now to admit both his genius and his
+
+517
+00:53:42,080 --> 00:53:50,840
+honesty. I took leave of him amicably, and
+wish him all the success his talent promises.
+
+518
+00:53:50,840 --> 00:53:56,340
+The matter of the cult still remained to fascinate
+me, and at times I had visions of personal
+
+519
+00:53:56,340 --> 00:54:02,880
+fame from researches into its origin and connexions.
+I visited New Orleans, talked with Legrasse
+
+520
+00:54:02,880 --> 00:54:08,910
+and others of that old-time raiding-party,
+saw the frightful image, and even questioned
+
+521
+00:54:08,910 --> 00:54:15,490
+such of the mongrel prisoners as still survived.
+Old Castro, unfortunately, had been dead for
+
+522
+00:54:15,490 --> 00:54:22,150
+some years. What I now heard so graphically
+at first-hand, though it was really no more
+
+523
+00:54:22,150 --> 00:54:27,990
+than a detailed confirmation of what my uncle
+had written, excited me afresh; for I felt
+
+524
+00:54:27,990 --> 00:54:34,310
+sure that I was on the track of a very real,
+very secret, and very ancient religion whose
+
+525
+00:54:34,310 --> 00:54:41,490
+discovery would make me an anthropologist
+of note. My attitude was still one of absolute
+
+526
+00:54:41,490 --> 00:54:48,950
+materialism, as I wish it still were, and
+I discounted with almost inexplicable perversity
+
+527
+00:54:48,950 --> 00:54:56,160
+the coincidence of the dream notes and odd
+cuttings collected by Professor Angell.
+
+528
+00:54:56,160 --> 00:55:02,710
+One thing I began to suspect, and which I
+now fear I know, is that my uncle’s death
+
+529
+00:55:02,710 --> 00:55:10,850
+was far from natural. He fell on a narrow
+hill street leading up from an ancient waterfront
+
+530
+00:55:10,850 --> 00:55:18,530
+swarming with foreign mongrels, after a careless
+push from a Negro sailor. I did not forget
+
+531
+00:55:18,530 --> 00:55:23,010
+the mixed blood and marine pursuits of the
+cult-members in Louisiana, and would not be
+
+532
+00:55:23,010 --> 00:55:29,490
+surprised to learn of secret methods and rites
+and beliefs. Legrasse and his men, it is true,
+
+533
+00:55:29,490 --> 00:55:36,980
+have been let alone; but in Norway a certain
+seaman who saw things is dead. Might not the
+
+534
+00:55:36,980 --> 00:55:42,550
+deeper inquiries of my uncle after encountering
+the sculptor’s data have come to sinister
+
+535
+00:55:42,550 --> 00:55:49,800
+ears?. I think Professor Angell died because
+he knew too much, or because he was likely
+
+536
+00:55:49,800 --> 00:56:08,120
+to learn too much. Whether I shall go as he
+did remains to be seen, for I have learned
+
+537
+00:56:08,120 --> 00:56:15,680
+much now.
+
+538
+00:56:15,680 --> 00:56:26,550
+III. The Madness from the Sea
+If heaven ever wishes to grant me a boon,
+
+539
+00:56:26,550 --> 00:56:32,150
+it will be a total effacing of the results
+of a mere chance which fixed my eye on a certain
+
+540
+00:56:32,150 --> 00:56:37,990
+stray piece of shelf-paper. It was nothing
+on which I would naturally have stumbled in
+
+541
+00:56:37,990 --> 00:56:43,340
+the course of my daily round, for it was an
+old number of an Australian journal, the Sydney
+
+542
+00:56:43,340 --> 00:56:50,589
+Bulletin for April 18, 1925. It had escaped
+even the cutting bureau which had at the time
+
+543
+00:56:50,589 --> 00:56:55,310
+of its issuance been avidly collecting material
+for my uncle’s research.
+
+544
+00:56:55,310 --> 00:57:00,230
+I had largely given over my inquiries into
+what Professor Angell called the “Cthulhu
+
+545
+00:57:00,230 --> 00:57:05,310
+Cult”, and was visiting a learned friend
+in Paterson, New Jersey; the curator of a
+
+546
+00:57:05,310 --> 00:57:11,580
+local museum and a mineralogist of note. Examining
+one day the reserve specimens roughly set
+
+547
+00:57:11,580 --> 00:57:17,310
+on the storage shelves in a rear room of the
+museum, my eye was caught by an odd picture
+
+548
+00:57:17,310 --> 00:57:22,720
+in one of the old papers spread beneath the
+stones. It was the Sydney Bulletin I have
+
+549
+00:57:22,720 --> 00:57:27,800
+mentioned, for my friend had wide affiliations
+in all conceivable foreign parts; and the
+
+550
+00:57:27,800 --> 00:57:35,460
+picture was a half-tone cut of a hideous stone
+image almost identical with that which Legrasse
+
+551
+00:57:35,460 --> 00:57:37,610
+had found in the swamp.
+
+552
+00:57:37,610 --> 00:57:43,210
+Eagerly clearing the sheet of its precious
+contents, I scanned the item in detail; and
+
+553
+00:57:43,210 --> 00:57:48,600
+was disappointed to find it of only moderate
+length. What it suggested, however, was of
+
+554
+00:57:48,600 --> 00:57:52,700
+portentous significance to my flagging quest;
+and I carefully tore it out for immediate
+
+555
+00:57:52,700 --> 00:57:56,910
+action. It read as follows:
+
+556
+00:57:56,910 --> 00:57:58,810
+MYSTERY DERELICT FOUND AT SEA
+
+557
+00:57:58,810 --> 00:58:04,720
+Vigilant Arrives With Helpless Armed New Zealand
+Yacht in Tow. One Survivor and Dead Man Found
+
+558
+00:58:04,720 --> 00:58:09,820
+Aboard. Tale of Desperate Battle and Deaths
+at Sea. Rescued Seaman Refuses Particulars
+
+559
+00:58:09,820 --> 00:58:15,670
+of Strange Experience. Odd Idol Found in His
+Possession. Inquiry to Follow.
+
+560
+00:58:15,670 --> 00:58:21,510
+The Morrison Co.‘s freighter Vigilant, bound
+from Valparaiso, arrived this morning at its
+
+561
+00:58:21,510 --> 00:58:27,390
+wharf in Darling Harbour, having in tow the
+battled and disabled but heavily armed steam
+
+562
+00:58:27,390 --> 00:58:35,910
+yacht Alert of Dunedin, N.Z., which was sighted
+April 12th in S. Latitude 34�21’, W. Longitude
+
+563
+00:58:35,910 --> 00:58:41,850
+152�17’, with one living and one dead
+man aboard.
+
+564
+00:58:41,850 --> 00:58:47,440
+The Vigilant left Valparaiso March 25th, and
+on April 2nd was driven considerably south
+
+565
+00:58:47,440 --> 00:58:53,420
+of her course by exceptionally heavy storms
+and monster waves. On April 12th the derelict
+
+566
+00:58:53,420 --> 00:58:59,170
+was sighted; and though apparently deserted,
+was found upon boarding to contain one survivor
+
+567
+00:58:59,170 --> 00:59:03,520
+in a half-delirious condition and one man
+who had evidently been dead for more than
+
+568
+00:59:03,520 --> 00:59:10,820
+a week. The living man was clutching a horrible
+stone idol of unknown origin, about foot in
+
+569
+00:59:10,820 --> 00:59:15,480
+height, regarding whose nature authorities
+at Sydney University, the Royal Society, and
+
+570
+00:59:15,480 --> 00:59:20,470
+the Museum in College Street all profess complete
+bafflement, and which the survivor says he
+
+571
+00:59:20,470 --> 00:59:26,070
+found in the cabin of the yacht, in a small
+carved shrine of common pattern.
+
+572
+00:59:26,070 --> 00:59:32,800
+This man, after recovering his senses, told
+an exceedingly strange story of piracy and
+
+573
+00:59:32,800 --> 00:59:38,950
+slaughter. He is Gustaf Johansen, a Norwegian
+of some intelligence, and had been second
+
+574
+00:59:38,950 --> 00:59:44,850
+mate of the two-masted schooner Emma of Auckland,
+which sailed for Callao February 20th with
+
+575
+00:59:44,850 --> 00:59:50,990
+a complement of eleven men. The Emma, he says,
+was delayed and thrown widely south of her
+
+576
+00:59:50,990 --> 00:59:59,040
+course by the great storm of March 1st, and
+on March 22nd, in S. Latitude 49�51’ W.
+
+577
+00:59:59,040 --> 01:00:05,310
+Longitude 128�34’, encountered the Alert,
+manned by a queer and evil-looking crew of
+
+578
+01:00:05,310 --> 01:00:12,900
+Kanakas and half-castes. Being ordered peremptorily
+to turn back, Capt. Collins refused; whereupon
+
+579
+01:00:12,900 --> 01:00:18,920
+the strange crew began to fire savagely and
+without warning upon the schooner with a peculiarly
+
+580
+01:00:18,920 --> 01:00:23,700
+heavy battery of brass cannon forming part
+of the yacht’s equipment. The Emma ‘s
+
+581
+01:00:23,700 --> 01:00:28,500
+men shewed fight, says the survivor, and though
+the schooner began to sink from shots beneath
+
+582
+01:00:28,500 --> 01:00:33,900
+the water-line they managed to heave alongside
+their enemy and board her, grappling with
+
+583
+01:00:33,900 --> 01:00:37,950
+the savage crew on the yacht’s deck, and
+being forced to kill them all, the number
+
+584
+01:00:37,950 --> 01:00:42,040
+being slightly superior, because of their
+particularly abhorrent and desperate though
+
+585
+01:00:42,040 --> 01:00:45,600
+rather clumsy mode of fighting.
+
+586
+01:00:45,600 --> 01:00:50,340
+Three of the Emma’s men, including Capt.
+Collins and First Mate Green, were killed;
+
+587
+01:00:50,340 --> 01:00:54,170
+and the remaining eight under Second Mate
+Johansen proceeded to navigate the captured
+
+588
+01:00:54,170 --> 01:00:58,800
+yacht, going ahead in their original direction
+to see if any reason for their ordering back
+
+589
+01:00:58,800 --> 01:01:05,500
+had existed. The next day, it appears, they
+raised and landed on a small island, although
+
+590
+01:01:05,500 --> 01:01:12,690
+none is known to exist in that part of the
+ocean; and six of the men somehow died ashore,
+
+591
+01:01:12,690 --> 01:01:18,420
+though Johansen is queerly reticent about
+this part of his story, and speaks only of
+
+592
+01:01:18,420 --> 01:01:25,550
+their falling into a rock chasm. Later, it
+seems, he and one companion boarded the yacht
+
+593
+01:01:25,550 --> 01:01:31,000
+and tried to manage her, but were beaten about
+by the storm of April 2nd, From that time
+
+594
+01:01:31,000 --> 01:01:36,270
+till his rescue on the 12th the man remembers
+little, and he does not even recall when William
+
+595
+01:01:36,270 --> 01:01:43,110
+Briden, his companion, died. Briden’s death
+reveals no apparent cause, and was probably
+
+596
+01:01:43,110 --> 01:01:49,810
+due to excitement or exposure. Cable advices
+from Dunedin report that the Alert was well
+
+597
+01:01:49,810 --> 01:01:55,281
+known there as an island trader, and bore
+an evil reputation along the waterfront, It
+
+598
+01:01:55,281 --> 01:02:00,650
+was owned by a curious group of half-castes
+whose frequent meetings and night trips to
+
+599
+01:02:00,650 --> 01:02:05,330
+the woods attracted no little curiosity; and
+it had set sail in great haste just after
+
+600
+01:02:05,330 --> 01:02:12,250
+the storm and earth tremors of March 1st.
+Our Auckland correspondent gives the Emma
+
+601
+01:02:12,250 --> 01:02:17,480
+and her crew an excellent reputation, and
+Johansen is described as a sober and worthy
+
+602
+01:02:17,480 --> 01:02:23,430
+man. The admiralty will institute an inquiry
+on the whole matter beginning tomorrow, at
+
+603
+01:02:23,430 --> 01:02:27,460
+which every effort will be made to induce
+Johansen to speak more freely than he has
+
+604
+01:02:27,460 --> 01:02:30,250
+done hitherto.
+
+605
+01:02:30,250 --> 01:02:34,800
+This was all, together with the picture of
+the hellish image; but what a train of ideas
+
+606
+01:02:34,800 --> 01:02:40,650
+it started in my mind! Here were new treasuries
+of data on the Cthulhu Cult, and evidence
+
+607
+01:02:40,650 --> 01:02:46,710
+that it had strange interests at sea as well
+as on land. What motive prompted the hybrid
+
+608
+01:02:46,710 --> 01:02:51,030
+crew to order back the Emma as they sailed
+about with their hideous idol? What was the
+
+609
+01:02:51,030 --> 01:02:56,480
+unknown island on which six of the Emma ‘s
+crew had died, and about which the mate Johansen
+
+610
+01:02:56,480 --> 01:03:02,200
+was so secretive? What had the vice-admiralty’s
+investigation brought out, and what was known
+
+611
+01:03:02,200 --> 01:03:09,270
+of the noxious cult in Dunedin? And most marvellous
+of all, what deep and more than natural linkage
+
+612
+01:03:09,270 --> 01:03:14,460
+of dates was this which gave a malign and
+now undeniable significance to the various
+
+613
+01:03:14,460 --> 01:03:19,580
+turns of events so carefully noted by my uncle?
+
+614
+01:03:19,580 --> 01:03:24,290
+March 1st - or February 28th according to
+the International Date Line - the earthquake
+
+615
+01:03:24,290 --> 01:03:30,170
+and storm had come. From Dunedin the Alert
+and her noisome crew had darted eagerly forth
+
+616
+01:03:30,170 --> 01:03:34,960
+as if imperiously summoned, and on the other
+side of the earth poets and artists had begun
+
+617
+01:03:34,960 --> 01:03:40,640
+to dream of a strange, dank Cyclopean city
+whilst a young sculptor had moulded in his
+
+618
+01:03:40,640 --> 01:03:46,540
+sleep the form of the dreaded Cthulhu. March
+23rd the crew of the Emma landed on an unknown
+
+619
+01:03:46,540 --> 01:03:51,640
+island and left six men dead; and on that
+date the dreams of sensitive men assumed a
+
+620
+01:03:51,640 --> 01:03:57,650
+heightened vividness and darkened with dread
+of a giant monster’s malign pursuit, whilst
+
+621
+01:03:57,650 --> 01:04:02,650
+an architect had gone mad and a sculptor had
+lapsed suddenly into delirium! And what of
+
+622
+01:04:02,650 --> 01:04:08,830
+this storm of April 2nd - the date on which
+all dreams of the dank city ceased, and Wilcox
+
+623
+01:04:08,830 --> 01:04:15,400
+emerged unharmed from the bondage of strange
+fever? What of all this - and of those hints
+
+624
+01:04:15,400 --> 01:04:21,160
+of old Castro about the sunken, star-born
+Old Ones and their coming reign; their faithful
+
+625
+01:04:21,160 --> 01:04:27,010
+cult and their mastery of dreams? Was I tottering
+on the brink of cosmic horrors beyond man’s
+
+626
+01:04:27,010 --> 01:04:33,010
+power to bear? If so, they must be horrors
+of the mind alone, for in some way the second
+
+627
+01:04:33,010 --> 01:04:39,210
+of April had put a stop to whatever monstrous
+menace had begun its siege of mankind’s
+
+628
+01:04:39,210 --> 01:04:40,670
+soul.
+
+629
+01:04:40,670 --> 01:04:46,230
+That evening, after a day of hurried cabling
+and arranging, I bade my host adieu and took
+
+630
+01:04:46,230 --> 01:04:52,160
+a train for San Francisco. In less than a
+month I was in Dunedin; where, however, I
+
+631
+01:04:52,160 --> 01:04:57,850
+found that little was known of the strange
+cult-members who had lingered in the old sea-taverns.
+
+632
+01:04:57,850 --> 01:05:02,340
+Waterfront scum was far too common for special
+mention; though there was vague talk about
+
+633
+01:05:02,340 --> 01:05:08,510
+one inland trip these mongrels had made, during
+which faint drumming and red flame were noted
+
+634
+01:05:08,510 --> 01:05:14,590
+on the distant hills. In Auckland I learned
+that Johansen had returned with yellow hair
+
+635
+01:05:14,590 --> 01:05:20,700
+turned white after a perfunctory and inconclusive
+questioning at Sydney, and had thereafter
+
+636
+01:05:20,700 --> 01:05:27,570
+sold his cottage in West Street and sailed
+with his wife to his old home in Oslo. Of
+
+637
+01:05:27,570 --> 01:05:32,450
+his stirring experience he would tell his
+friends no more than he had told the admiralty
+
+638
+01:05:32,450 --> 01:05:37,950
+officials, and all they could do was to give
+me his Oslo address.
+
+639
+01:05:37,950 --> 01:05:43,040
+After that I went to Sydney and talked profitlessly
+with seamen and members of the vice-admiralty
+
+640
+01:05:43,040 --> 01:05:48,970
+court. I saw the Alert, now sold and in commercial
+use, at Circular Quay in Sydney Cove, but
+
+641
+01:05:48,970 --> 01:05:54,680
+gained nothing from its non-committal bulk.
+The crouching image with its cuttlefish head,
+
+642
+01:05:54,680 --> 01:05:59,790
+dragon body, scaly wings, and hieroglyphed
+pedestal, was preserved in the Museum at Hyde
+
+643
+01:05:59,790 --> 01:06:06,210
+Park; and I studied it long and well, finding
+it a thing of balefully exquisite workmanship,
+
+644
+01:06:06,210 --> 01:06:12,650
+and with the same utter mystery, terrible
+antiquity, and unearthly strangeness of material
+
+645
+01:06:12,650 --> 01:06:18,810
+which I had noted in Legrasse’s smaller
+specimen. Geologists, the curator told me,
+
+646
+01:06:18,810 --> 01:06:24,870
+had found it a monstrous puzzle; for they
+vowed that the world held no rock like it.
+
+647
+01:06:24,870 --> 01:06:29,570
+Then I thought with a shudder of what Old
+Castro had told Legrasse about the Old Ones;
+
+648
+01:06:29,570 --> 01:06:36,420
+“They had come from the stars, and had brought
+Their images with Them.”
+
+649
+01:06:36,420 --> 01:06:40,020
+Shaken with such a mental revolution as I
+had never before known, I now resolved to
+
+650
+01:06:40,020 --> 01:06:46,780
+visit Mate Johansen in Oslo. Sailing for London,
+I reembarked at once for the Norwegian capital;
+
+651
+01:06:46,780 --> 01:06:52,640
+and one autumn day landed at the trim wharves
+in the shadow of the Egeberg. Johansen’s
+
+652
+01:06:52,640 --> 01:06:58,370
+address, I discovered, lay in the Old Town
+of King Harold Haardrada, which kept alive
+
+653
+01:06:58,370 --> 01:07:03,490
+the name of Oslo during all the centuries
+that the greater city masqueraded as “Christiana.”
+
+654
+01:07:03,490 --> 01:07:09,480
+I made the brief trip by taxicab, and knocked
+with palpitant heart at the door of a neat
+
+655
+01:07:09,480 --> 01:07:16,090
+and ancient building with plastered front.
+A sad-faced woman in black answered my summons,
+
+656
+01:07:16,090 --> 01:07:21,180
+and I was stung with disappointment when she
+told me in halting English that Gustaf Johansen
+
+657
+01:07:21,180 --> 01:07:23,480
+was no more.
+
+658
+01:07:23,480 --> 01:07:29,800
+He had not long survived his return, said
+his wife, for the doings sea in 1925 had broken
+
+659
+01:07:29,800 --> 01:07:34,880
+him. He had told her no more than he told
+the public, but had left a long manuscript
+
+660
+01:07:34,880 --> 01:07:40,700
+- of “technical matters” as he said - written
+in English, evidently in order to guard her
+
+661
+01:07:40,700 --> 01:07:48,190
+from the peril of casual perusal. During a
+walk through a narrow lane near the Gothenburg
+
+662
+01:07:48,190 --> 01:07:54,710
+dock, a bundle of papers falling from an attic
+window had knocked him down. Two Lascar sailors
+
+663
+01:07:54,710 --> 01:08:02,760
+at once helped him to his feet, but before
+the ambulance could reach him he was dead.
+
+664
+01:08:02,760 --> 01:08:08,490
+Physicians found no adequate cause the end,
+and laid it to heart trouble and a weakened
+
+665
+01:08:08,490 --> 01:08:15,230
+constitution. I now felt gnawing at my vitals
+that dark terror which will never leave me
+
+666
+01:08:15,230 --> 01:08:22,739
+till I, too, am at rest; “accidentally”
+or otherwise. Persuading the widow that my
+
+667
+01:08:22,739 --> 01:08:26,839
+connexion with her husband’s “technical
+matters” was sufficient to entitle me to
+
+668
+01:08:26,839 --> 01:08:32,279
+his manuscript, I bore the document away and
+began to read it on the London boat.
+
+669
+01:08:32,279 --> 01:08:39,429
+It was a simple, rambling thing - a naive
+sailor’s effort at a post-facto diary - and
+
+670
+01:08:39,429 --> 01:08:46,569
+strove to recall day by day that last awful
+voyage. I cannot attempt to transcribe it
+
+671
+01:08:46,569 --> 01:08:53,029
+verbatim in all its cloudiness and redundance,
+but I will tell its gist enough to shew why
+
+672
+01:08:53,029 --> 01:08:58,650
+the sound the water against the vessel’s
+sides became so unendurable to me that I stopped
+
+673
+01:08:58,650 --> 01:09:00,889
+my ears with cotton.
+
+674
+01:09:00,889 --> 01:09:07,960
+Johansen, thank God, did not know quite all,
+even though he saw the city and the Thing,
+
+675
+01:09:07,960 --> 01:09:12,619
+but I shall never sleep calmly again when
+I think of the horrors that lurk ceaselessly
+
+676
+01:09:12,619 --> 01:09:18,769
+behind life in time and in space, and of those
+unhallowed blasphemies from elder stars which
+
+677
+01:09:18,769 --> 01:09:24,000
+dream beneath the sea, known and favoured
+by a nightmare cult ready and eager to loose
+
+678
+01:09:24,000 --> 01:09:28,710
+them upon the world whenever another earthquake
+shall heave their monstrous stone city again
+
+679
+01:09:28,710 --> 01:09:31,690
+to the sun and air.
+
+680
+01:09:31,690 --> 01:09:38,970
+Johansen’s voyage had begun just as he told
+it to the vice-admiralty. The Emma, in ballast,
+
+681
+01:09:38,970 --> 01:09:43,920
+had cleared Auckland on February 20th, and
+had felt the full force of that earthquake-born
+
+682
+01:09:43,920 --> 01:09:49,859
+tempest which must have heaved up from the
+sea-bottom the horrors that filled men’s
+
+683
+01:09:49,859 --> 01:09:55,030
+dreams. Once more under control, the ship
+was making good progress when held up by the
+
+684
+01:09:55,030 --> 01:10:00,320
+Alert on March 22nd, and I could feel the
+mate’s regret as he wrote of her bombardment
+
+685
+01:10:00,320 --> 01:10:07,409
+and sinking. Of the swarthy cult-fiends on
+the Alert he speaks with significant horror.
+
+686
+01:10:07,409 --> 01:10:12,019
+There was some peculiarly abominable quality
+about them which made their destruction seem
+
+687
+01:10:12,019 --> 01:10:17,860
+almost a duty, and Johansen shews ingenuous
+wonder at the charge of ruthlessness brought
+
+688
+01:10:17,860 --> 01:10:23,409
+against his party during the proceedings of
+the court of inquiry. Then, driven ahead by
+
+689
+01:10:23,409 --> 01:10:29,550
+curiosity in their captured yacht under Johansen’s
+command, the men sight a great stone pillar
+
+690
+01:10:29,550 --> 01:10:37,369
+sticking out of the sea, and in S. Latitude
+47�9’, W. Longitude l23�43’, come
+
+691
+01:10:37,369 --> 01:10:43,840
+upon a coastline of mingled mud, ooze, and
+weedy Cyclopean masonry which can be nothing
+
+692
+01:10:43,840 --> 01:10:49,320
+less than the tangible substance of earth’s
+supreme terror - the nightmare corpse-city
+
+693
+01:10:49,320 --> 01:10:54,921
+of R’lyeh, that was built in measureless
+aeons behind history by the vast, loathsome
+
+694
+01:10:54,921 --> 01:11:01,440
+shapes that seeped down from the dark stars.
+There lay great Cthulhu and his hordes, hidden
+
+695
+01:11:01,440 --> 01:11:07,989
+in green slimy vaults and sending out at last,
+after cycles incalculable, the thoughts that
+
+696
+01:11:07,989 --> 01:11:12,639
+spread fear to the dreams of the sensitive
+and called imperiously to the faithfull to
+
+697
+01:11:12,639 --> 01:11:18,739
+come on a pilgrimage of liberation and restoration.
+All this Johansen did not suspect, but God
+
+698
+01:11:18,739 --> 01:11:21,030
+knows he soon saw enough!
+
+699
+01:11:21,030 --> 01:11:26,699
+I suppose that only a single mountain-top,
+the hideous monolith-crowned citadel whereon
+
+700
+01:11:26,699 --> 01:11:32,929
+great Cthulhu was buried, actually emerged
+from the waters. When I think of the extent
+
+701
+01:11:32,929 --> 01:11:39,719
+of all that may be brooding down there I almost
+wish to kill myself forthwith. Johansen and
+
+702
+01:11:39,719 --> 01:11:45,059
+his men were awed by the cosmic majesty of
+this dripping Babylon of elder daemons, and
+
+703
+01:11:45,059 --> 01:11:49,699
+must have guessed without guidance that it
+was nothing of this or of any sane planet.
+
+704
+01:11:49,699 --> 01:11:55,750
+Awe at the unbelievable size of the greenish
+stone blocks, at the dizzying height of the
+
+705
+01:11:55,750 --> 01:12:00,949
+great carven monolith, and at the stupefying
+identity of the colossal statues and bas-reliefs
+
+706
+01:12:00,949 --> 01:12:06,280
+with the queer image found in the shrine on
+the Alert, is poignantly visible in every
+
+707
+01:12:06,280 --> 01:12:09,730
+line of the mates frightened description.
+
+708
+01:12:09,730 --> 01:12:14,790
+Without knowing what futurism is like, Johansen
+achieved something very close to it when he
+
+709
+01:12:14,790 --> 01:12:19,790
+spoke of the city; for instead of describing
+any definite structure or building, he dwells
+
+710
+01:12:19,790 --> 01:12:25,929
+only on broad impressions of vast angles and
+stone surfaces - surfaces too great to belong
+
+711
+01:12:25,929 --> 01:12:32,360
+to anything right or proper for this earth,
+and impious with horrible images and hieroglyphs.
+
+712
+01:12:32,360 --> 01:12:37,199
+I mention his talk about angles because it
+suggests something Wilcox had told me of his
+
+713
+01:12:37,199 --> 01:12:45,260
+awful dreams. He said that the geometry of
+the dream-place he saw was abnormal, non-Euclidean,
+
+714
+01:12:45,260 --> 01:12:51,909
+and loathsomely redolent of spheres and dimensions
+apart from ours. Now an unlettered seaman
+
+715
+01:12:51,909 --> 01:12:56,670
+felt the same thing whilst gazing at the terrible
+reality.
+
+716
+01:12:56,670 --> 01:13:00,960
+Johansen and his men landed at a sloping mud-bank
+on this monstrous Acropolis, and clambered
+
+717
+01:13:00,960 --> 01:13:07,360
+slipperily up over titan oozy blocks which
+could have been no mortal staircase. The very
+
+718
+01:13:07,360 --> 01:13:12,599
+sun of heaven seemed distorted when viewed
+through the polarising miasma welling out
+
+719
+01:13:12,599 --> 01:13:18,380
+from this sea-soaked perversion, and twisted
+menace and suspense lurked leeringly in those
+
+720
+01:13:18,380 --> 01:13:24,739
+crazily elusive angles of carven rock where
+a second glance shewed concavity after the
+
+721
+01:13:24,739 --> 01:13:27,840
+first shewed convexity.
+
+722
+01:13:27,840 --> 01:13:32,420
+Something very like fright had come over all
+the explorers before anything more definite
+
+723
+01:13:32,420 --> 01:13:39,480
+than rock and ooze and weed was seen. Each
+would have fled had he not feared the scorn
+
+724
+01:13:39,480 --> 01:13:44,239
+of the others, and it was only half-heartedly
+that they searched - vainly, as it proved
+
+725
+01:13:44,239 --> 01:13:49,480
+- for some portable souvenir to bear away.
+
+726
+01:13:49,480 --> 01:13:54,369
+It was Rodriguez the Portuguese who climbed
+up the foot of the monolith and shouted of
+
+727
+01:13:54,369 --> 01:13:59,369
+what he had found. The rest followed him,
+and looked curiously at the immense carved
+
+728
+01:13:59,369 --> 01:14:08,550
+door with the now familiar squid-dragon bas-relief.
+It was, Johansen said, like a great barn-door;
+
+729
+01:14:08,550 --> 01:14:13,010
+and they all felt that it was a door because
+of the ornate lintel, threshold, and jambs
+
+730
+01:14:13,010 --> 01:14:17,880
+around it, though they could not decide whether
+it lay flat like a trap-door or slantwise
+
+731
+01:14:17,880 --> 01:14:23,920
+like an outside cellar-door. As Wilcox would
+have said, the geometry of the place was all
+
+732
+01:14:23,920 --> 01:14:29,610
+wrong. One could not be sure that the sea
+and the ground were horizontal, hence the
+
+733
+01:14:29,610 --> 01:14:34,989
+relative position of everything else seemed
+phantasmally variable.
+
+734
+01:14:34,989 --> 01:14:40,050
+Briden pushed at the stone in several places
+without result. Then Donovan felt over it
+
+735
+01:14:40,050 --> 01:14:46,320
+delicately around the edge, pressing each
+point separately as he went. He climbed interminably
+
+736
+01:14:46,320 --> 01:14:51,280
+along the grotesque stone moulding - that
+is, one would call it climbing if the thing
+
+737
+01:14:51,280 --> 01:14:55,719
+was not after all horizontal - and the men
+wondered how any door in the universe could
+
+738
+01:14:55,719 --> 01:15:04,639
+be so vast. Then, very softly and slowly,
+the acre-great lintel began to give inward
+
+739
+01:15:04,639 --> 01:15:09,219
+at the top; and they saw that it was balanced.
+
+740
+01:15:09,219 --> 01:15:14,750
+Donovan slid or somehow propelled himself
+down or along the jamb and rejoined his fellows,
+
+741
+01:15:14,750 --> 01:15:21,409
+and everyone watched the queer recession of
+the monstrously carven portal. In this phantasy
+
+742
+01:15:21,409 --> 01:15:27,150
+of prismatic distortion it moved anomalously
+in a diagonal way, so that all the rules of
+
+743
+01:15:27,150 --> 01:15:30,230
+matter and perspective seemed upset.
+
+744
+01:15:30,230 --> 01:15:36,190
+The aperture was black with a darkness almost
+material. That tenebrousness was indeed a
+
+745
+01:15:36,190 --> 01:15:41,440
+positive quality ; for it obscured such parts
+of the inner walls as ought to have been revealed,
+
+746
+01:15:41,440 --> 01:15:46,510
+and actually burst forth like smoke from its
+aeon-long imprisonment, visibly darkening
+
+747
+01:15:46,510 --> 01:15:53,829
+the sun as it slunk away into the shrunken
+and gibbous sky on flapping membraneous wings.
+
+748
+01:15:53,829 --> 01:15:59,650
+The odour rising from the newly opened depths
+was intolerable, and at length the quick-eared
+
+749
+01:15:59,650 --> 01:16:06,630
+Hawkins thought he heard a nasty, slopping
+sound down there. Everyone listened, and everyone
+
+750
+01:16:06,630 --> 01:16:13,579
+was listening still when It lumbered slobberingly
+into sight and gropingly squeezed Its gelatinous
+
+751
+01:16:13,579 --> 01:16:19,310
+green immensity through the black doorway
+into the tainted outside air of that poison
+
+752
+01:16:19,310 --> 01:16:21,090
+city of madness.
+
+753
+01:16:21,090 --> 01:16:26,600
+Poor Johansen’s handwriting almost gave
+out when he wrote of this. Of the six men
+
+754
+01:16:26,600 --> 01:16:31,530
+who never reached the ship, he thinks two
+perished of pure fright in that accursed instant.
+
+755
+01:16:31,530 --> 01:16:39,050
+The Thing cannot be described - there is no
+language for such abysms of shrieking and
+
+756
+01:16:39,050 --> 01:16:45,840
+immemorial lunacy, such eldritch contradictions
+of all matter, force, and cosmic order. A
+
+757
+01:16:45,840 --> 01:16:52,690
+mountain walked or stumbled. God! What wonder
+that across the earth a great architect went
+
+758
+01:16:52,690 --> 01:16:58,519
+mad, and poor Wilcox raved with fever in that
+telepathic instant? The Thing of the idols,
+
+759
+01:16:58,519 --> 01:17:06,070
+the green, sticky spawn of the stars, had
+awaked to claim his own. The stars were right
+
+760
+01:17:06,070 --> 01:17:11,530
+again, and what an age-old cult had failed
+to do by design, a band of innocent sailors
+
+761
+01:17:11,530 --> 01:17:18,730
+had done by accident. After vigintillions
+of years great Cthulhu was loose again, and
+
+762
+01:17:18,730 --> 01:17:21,730
+ravening for delight.
+
+763
+01:17:21,730 --> 01:17:26,570
+Three men were swept up by the flabby claws
+before anybody turned. God rest them, if there
+
+764
+01:17:26,570 --> 01:17:33,080
+be any rest in the universe. They were Donovan,
+Guerrera, and Angstrom. Parker slipped as
+
+765
+01:17:33,080 --> 01:17:37,300
+the other three were plunging frenziedly over
+endless vistas of green-crusted rock to the
+
+766
+01:17:37,300 --> 01:17:42,170
+boat, and Johansen swears he was swallowed
+up by an angle of masonry which shouldn’t
+
+767
+01:17:42,170 --> 01:17:47,120
+have been there; an angle which was acute,
+but behaved as if it were obtuse. So only
+
+768
+01:17:47,120 --> 01:17:52,190
+Briden and Johansen reached the boat, and
+pulled desperately for the Alert as the mountainous
+
+769
+01:17:52,190 --> 01:17:57,480
+monstrosity flopped down the slimy stones
+and hesitated, floundering at the edge of
+
+770
+01:17:57,480 --> 01:18:00,120
+the water.
+
+771
+01:18:00,120 --> 01:18:04,720
+Steam had not been suffered to go down entirely,
+despite the departure of all hands for the
+
+772
+01:18:04,720 --> 01:18:09,300
+shore; and it was the work of only a few moments
+of feverish rushing up and down between wheel
+
+773
+01:18:09,300 --> 01:18:16,789
+and engines to get the Alert under way. Slowly,
+amidst the distorted horrors of that indescribable
+
+774
+01:18:16,789 --> 01:18:22,389
+scene, she began to churn the lethal waters;
+whilst on the masonry of that charnel shore
+
+775
+01:18:22,389 --> 01:18:28,480
+that was not of earth the titan Thing from
+the stars slavered and gibbered like Polypheme
+
+776
+01:18:28,480 --> 01:18:35,380
+cursing the fleeing ship of Odysseus. Then,
+bolder than the storied Cyclops, great Cthulhu
+
+777
+01:18:35,380 --> 01:18:42,320
+slid greasily into the water and began to
+pursue with vast wave-raising strokes of cosmic
+
+778
+01:18:42,320 --> 01:18:48,750
+potency. Briden looked back and went mad,
+laughing shrilly as he kept on laughing at
+
+779
+01:18:48,750 --> 01:18:54,159
+intervals till death found him one night in
+the cabin whilst Johansen was wandering deliriously.
+
+780
+01:18:54,159 --> 01:18:59,969
+But Johansen had not given out yet. Knowing
+that the Thing could surely overtake the Alert
+
+781
+01:18:59,969 --> 01:19:04,840
+until steam was fully up, he resolved on a
+desperate chance; and, setting the engine
+
+782
+01:19:04,840 --> 01:19:11,190
+for full speed, ran lightning-like on deck
+and reversed the wheel. There was a mighty
+
+783
+01:19:11,190 --> 01:19:16,130
+eddying and foaming in the noisome brine,
+and as the steam mounted higher and higher
+
+784
+01:19:16,130 --> 01:19:22,239
+the brave Norwegian drove his vessel head
+on against the pursuing jelly which rose above
+
+785
+01:19:22,239 --> 01:19:29,070
+the unclean froth like the stern of a daemon
+galleon. The awful squid-head with writhing
+
+786
+01:19:29,070 --> 01:19:35,210
+feelers came nearly up to the bowsprit of
+the sturdy yacht, but johansen drove on relentlessly.
+
+787
+01:19:35,210 --> 01:19:42,139
+There was a bursting as of an exploding bladder,
+a slushy nastiness as of a cloven sunfish,
+
+788
+01:19:42,139 --> 01:19:48,349
+a stench as of a thousand opened graves, and
+a sound that the chronicler could not put
+
+789
+01:19:48,349 --> 01:19:55,670
+on paper. For an instant the ship was befouled
+by an acrid and blinding green cloud, and
+
+790
+01:19:55,670 --> 01:20:01,519
+then there was only a venomous seething astern;
+where - God in heaven! - the scattered plasticity
+
+791
+01:20:01,519 --> 01:20:07,539
+of that nameless sky-spawn was nebulously
+recombining in its hateful original form,
+
+792
+01:20:07,539 --> 01:20:12,830
+whilst its distance widened every second as
+the Alert gained impetus from its mounting
+
+793
+01:20:12,830 --> 01:20:14,949
+steam.
+
+794
+01:20:14,949 --> 01:20:20,270
+That was all. After that Johansen only brooded
+over the idol in the cabin and attended to
+
+795
+01:20:20,270 --> 01:20:25,829
+a few matters of food for himself and the
+laughing maniac by his side. He did not try
+
+796
+01:20:25,829 --> 01:20:31,610
+to navigate after the first bold flight, for
+the reaction had taken something out of his
+
+797
+01:20:31,610 --> 01:20:38,340
+soul. Then came the storm of April 2nd, and
+a gathering of the clouds about his consciousness.
+
+798
+01:20:38,340 --> 01:20:44,110
+There is a sense of spectral whirling through
+liquid gulfs of infinity, of dizzying rides
+
+799
+01:20:44,110 --> 01:20:49,489
+through reeling universes on a comets tail,
+and of hysterical plunges from the pit to
+
+800
+01:20:49,489 --> 01:20:54,489
+the moon and from the moon back again to the
+pit, all livened by a cachinnating chorus
+
+801
+01:20:54,489 --> 01:21:00,980
+of the distorted, hilarious elder gods and
+the green, bat-winged mocking imps of Tartarus.
+
+802
+01:21:00,980 --> 01:21:07,880
+Out of that dream came rescue-the Vigilant,
+the vice-admiralty court, the streets of Dunedin,
+
+803
+01:21:07,880 --> 01:21:14,170
+and the long voyage back home to the old house
+by the Egeberg. He could not tell - they would
+
+804
+01:21:14,170 --> 01:21:22,219
+think him mad. He would write of what he knew
+before death came, but his wife must not guess.
+
+805
+01:21:22,219 --> 01:21:28,929
+Death would be a boon if only it could blot
+out the memories.
+
+806
+01:21:28,929 --> 01:21:34,060
+That was the document I read, and now I have
+placed it in the tin box beside the bas-relief
+
+807
+01:21:34,060 --> 01:21:40,940
+and the papers of Professor Angell. With it
+shall go this record of mine - this test of
+
+808
+01:21:40,940 --> 01:21:46,139
+my own sanity, wherein is pieced together
+that which I hope may never be pieced together
+
+809
+01:21:46,139 --> 01:21:52,389
+again. I have looked upon all that the universe
+has to hold of horror, and even the skies
+
+810
+01:21:52,389 --> 01:21:58,940
+of spring and the flowers of summer must ever
+afterward be poison to me. But I do not think
+
+811
+01:21:58,940 --> 01:22:08,650
+my life will be long. As my uncle went, as
+poor Johansen went, so I shall go. I know
+
+812
+01:22:08,650 --> 01:22:14,349
+too much, and the cult still lives.
+
+813
+01:22:14,349 --> 01:22:19,780
+Cthulhu still lives, too, I suppose, again
+in that chasm of stone which has shielded
+
+814
+01:22:19,780 --> 01:22:25,429
+him since the sun was young. His accursed
+city is sunken once more, for the Vigilant
+
+815
+01:22:25,429 --> 01:22:30,889
+sailed over the spot after the April storm;
+but his ministers on earth still bellow and
+
+816
+01:22:30,889 --> 01:22:38,030
+prance and slay around idol-capped monoliths
+in lonely places. He must have been trapped
+
+817
+01:22:38,030 --> 01:22:43,920
+by the sinking whilst within his black abyss,
+or else the world would by now be screaming
+
+818
+01:22:43,920 --> 01:22:52,060
+with fright and frenzy. Who knows the end?
+What has risen may sink, and what has sunk
+
+819
+01:22:52,060 --> 01:23:00,100
+may rise. Loathsomeness waits and dreams in
+the deep, and decay spreads over the tottering
+
+820
+01:23:00,100 --> 01:23:09,030
+cities of men. A time will come - but I must
+not and cannot think! Let me pray that, if
+
+821
+01:23:09,030 --> 01:23:15,120
+I do not survive this manuscript, my executors
+may put caution before audacity and see that
+
+822
+01:23:15,120 --> 01:23:27,449
+it meets no other eye.
+

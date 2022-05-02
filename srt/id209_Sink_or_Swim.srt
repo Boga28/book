@@ -1,7205 +1,7247 @@
 1
-00:00:01,040 --> 00:00:03,600
+00:00:01,040 --> 00:00:01,760
 CHAPTER ONE
-On board the Parvina 
 
 2
+00:00:02,320 --> 00:00:03,600
+On board the Parvina
+
+3
 00:00:05,520 --> 00:00:09,920
 Leaning on the rail at the stern of the 
 cruise ship Parvina, sipping his champagne,  
 
-3
+4
 00:00:10,560 --> 00:00:17,280
 Eddie Munro looked out across the water and into 
 the darkness. There was a warm, gentle breeze,  
 
-4
+5
 00:00:17,280 --> 00:00:23,200
 and the sea was calm except for the dizzy trail of 
 water churned up by the ship's angry propellers.  
 
-5
+6
 00:00:24,240 --> 00:00:29,840
 It was a beautiful evening and there was no 
 one else on deck. Eddie liked it that way. 
 
-6
+7
 00:00:30,880 --> 00:00:34,000
 He looked down at his watch, 
 which showed 10.31 p.m.,  
 
-7
+8
 00:00:34,640 --> 00:00:37,200
 and the ship was already 
 half a mile from the harbour.  
 
-8
+9
 00:00:39,040 --> 00:00:44,800
 He was amazed that such a huge cruise ship could 
 move so fast - he was amazed it stayed afloat at  
 
-9
+10
 00:00:44,800 --> 00:00:51,280
 all! He watched St Thomas island getting further 
 and further away. He stared at the silhouette of  
 
-10
+11
 00:00:51,280 --> 00:00:58,560
 the island, at its faint black shapes of hills 
 rising up into the night sky. Eddie smiled to  
 
-11
+12
 00:00:58,560 --> 00:01:03,520
 himself as he noticed he could no longer see 
 where the lights ended and the stars began. 
 
-12
+13
 00:01:05,280 --> 00:01:10,400
 He finished his champagne and, for good 
 luck, threw the glass far out into the sea.  
 
-13
+14
 00:01:11,040 --> 00:01:16,640
 He never heard it drop. He couldn't see much 
 at all in the warm Caribbean darkness, but he  
 
-14
+15
 00:01:16,640 --> 00:01:22,400
 noticed for the first time how high up he was. 
 The sea was a long, long way down, he thought. 
 
-15
+16
 00:01:25,040 --> 00:01:30,480
 At this point his wife, Lynn, came out looking 
 for him, wearing her long black evening dress  
 
-16
+17
 00:01:30,480 --> 00:01:36,480
 and the silk purple scarf she had bought on the 
 excursion earlier in the day. Her hair was dark  
 
-17
+18
 00:01:36,480 --> 00:01:42,080
 and short with plum-coloured highlights.
 He turned to put his arm around her as she  
 
-18
+19
 00:01:42,080 --> 00:01:46,880
 joined him. He noticed her perfume, 
 a powerful and luxurious scent. 
 
-19
+20
 00:01:47,760 --> 00:01:55,040
 "Hello," he said, turning round. "You smell 
 nice. And you look lovely. Are you married?" 
 
-20
+21
 00:01:56,160 --> 00:02:00,800
 "Yes, thank you. To a very wealthy 
 man, so you have no chance,"  
 
-21
+22
 00:02:00,800 --> 00:02:03,840
 she said, smiling.
 "Ah. But so am I." 
 
-22
+23
 00:02:05,040 --> 00:02:12,480
 "Ah, so you're married to a wealthy man, are you?"
 "I mean I'm wealthy. Very rich, in fact." 
 
-23
+24
 00:02:13,440 --> 00:02:21,200
 "Well aren't you the lucky one," Lynn said.
 "Yes, so if you're lucky, I might buy you dinner,"  
 
-24
+25
 00:02:21,200 --> 00:02:24,080
 said Eddie, turning back to 
 look out to sea once more. 
 
-25
+26
 00:02:25,040 --> 00:02:31,680
 "Well, lucky me. How can I refuse such charm?" 
 She looked at him and took hold of his hand.  
 
-26
+27
 00:02:32,400 --> 00:02:37,760
 She smiled and stared out into the night, too, 
 to the island which was now even further away. 
 
-27
+28
 00:02:39,600 --> 00:02:42,720
 "I thought I'd find you out here," she said. "How  
 
-28
+29
 00:02:42,720 --> 00:02:44,960
 many glasses have you thrown 
 into the sea this evening?" 
 
-29
+30
 00:02:45,600 --> 00:02:47,760
 "Only two," he said.
 "Eddie!" 
 
-30
+31
 00:02:48,800 --> 00:02:51,600
 "It's good luck."
 "No, it isn't. Not  
 
-31
+32
 00:02:51,600 --> 00:02:56,960
 if you're a fish and you get hit by a glass."
 "The fish might like it. It's probably quite  
 
-32
+33
 00:02:56,960 --> 00:03:01,760
 boring being a fish. The sudden arrival of a 
 champagne glass might brighten up your life." 
 
-33
+34
 00:03:02,480 --> 00:03:07,600
 "Or end it," she said.
 "It's fun," said Eddie. "You should try it." 
 
-34
+35
 00:03:08,320 --> 00:03:11,120
 "I think I've had enough 
 champagne," his wife said. 
 
-35
+36
 00:03:12,320 --> 00:03:18,320
 "I love the way the glass disappears the minute 
 it leaves my hand, and the sea eats it up. You  
 
-36
+37
 00:03:18,320 --> 00:03:22,640
 can't see it falling and you can't hear it 
 hit the water. But you know it's landed,  
 
-37
+38
 00:03:22,640 --> 00:03:28,480
 dived in and sunk to the bottom. Imagine 
 - a tiny glass holding a giant ocean." 
 
-38
+39
 00:03:29,840 --> 00:03:36,240
 "You think too much," she said, moving away 
 and pulling him with her. "Why don't you come  
 
-39
+40
 00:03:36,240 --> 00:03:40,240
 back inside? They're serving coffee and 
 I think there's going to be some jazz." 
 
-40
+41
 00:03:41,200 --> 00:03:43,600
 "All right," he said. "Just a few more minutes." 
 
-41
+42
 00:03:44,720 --> 00:03:49,600
 "We have two more weeks on this cruise, Eddie. 
 You have plenty of time to take it all in." 
 
-42
+43
 00:03:50,640 --> 00:03:54,720
 "It's incredible, though, isn't 
 it? So beautiful. It's perfect." 
 
-43
+44
 00:03:55,840 --> 00:04:00,960
 Lynn laughed. "It's completely black. 
 I can't see anything in the dark." 
 
-44
+45
 00:04:02,080 --> 00:04:06,240
 "I know. But it's all out there. 
 The blue sea, the white sand,  
 
-45
+46
 00:04:06,240 --> 00:04:09,840
 the palm trees, the boats..."
 "The champagne glasses..." 
 
-46
+47
 00:04:09,840 --> 00:04:17,920
 "Very funny," said Eddie. Then he pointed to the 
 horizon. "Look over there at the dots of light. Do  
 
-47
+48
 00:04:17,920 --> 00:04:25,360
 you think they're lights on the island or stars?"
 Lynn looked hard into the night and gave it some  
 
-48
+49
 00:04:25,360 --> 00:04:30,720
 thought. "Erm... lights."
 "But you're not sure." 
 
-49
+50
 00:04:31,360 --> 00:04:37,360
 "I am sure. I'm always sure."
 "Hmm," he said. "How is that?" 
 
-50
+51
 00:04:38,320 --> 00:04:43,040
 "Because I'm always right," she said, smiling.
 "Oh really?" 
 
-51
+52
 00:04:43,600 --> 00:04:47,360
 "Of course. I was right about setting 
 up your own business, wasn't I?" 
 
-52
+53
 00:04:47,920 --> 00:04:50,720
 "Yes."
 "And I was right about  
 
-53
+54
 00:04:50,720 --> 00:04:55,840
 selling the business off this year for twenty 
 million - only sixteen years after starting." 
 
-54
+55
 00:04:56,560 --> 00:05:00,160
 "Possibly," he teased. He 
 wouldn't give in so easily. 
 
-55
+56
 00:05:01,120 --> 00:05:06,400
 "And I was right to let you take me on this 
 cruise to relax and celebrate in style." 
 
-56
+57
 00:05:07,360 --> 00:05:12,000
 "Oh, I see. How generous."
 "Just think. You don't have to  
 
-57
+58
 00:05:12,000 --> 00:05:17,760
 work ever again. You're a millionaire, 
 Mr Edward Munro. How does that sound?" 
 
-58
+59
 00:05:18,880 --> 00:05:25,120
 "Lucky me," he said proudly.
 "Yes, lucky you. Lucky us. Now  
 
-59
+60
 00:05:25,120 --> 00:05:29,680
 come inside before we lose all our money 
 paying for missing champagne glasses." 
 
-60
+61
 00:05:32,320 --> 00:05:38,400
 Back inside, the dining room was full of people. 
 It was hot, but the lighting made it welcoming  
 
-61
+62
 00:05:38,400 --> 00:05:44,320
 and comfortable. In the time Eddie had been 
 outside, a space had been cleared for dancing and  
 
-62
+63
 00:05:44,320 --> 00:05:50,800
 a few couples were already on their feet. In the 
 corner, four musicians, three men and one woman,  
 
-63
+64
 00:05:50,800 --> 00:05:56,560
 were playing a song Eddie knew well, but he 
 couldn't recall its name. The singer was wearing a  
 
-64
+65
 00:05:56,560 --> 00:06:02,800
 navy blue cocktail dress, and the men were wearing 
 tuxedos, black ties and formal dinner suits. 
 
-65
+66
 00:06:04,640 --> 00:06:09,280
 Eddie noticed how young the woman looked. Too 
 young to have known the tune when it first  
 
-66
+67
 00:06:09,280 --> 00:06:15,440
 appeared, Eddie thought, but her voice was strong 
 and clear. And she seemed to believe in the words,  
 
-67
+68
 00:06:15,440 --> 00:06:21,760
 at least. How old was she? Twenty-five? 
 Twenty-six? Imagine singing on a cruise  
 
-68
+69
 00:06:21,760 --> 00:06:27,120
 ship in your twenties! What a life! 
 The fun, the parties, the people.  
 
-69
+70
 00:06:27,120 --> 00:06:31,200
 The places to go and things to see 
 - before your life had even started. 
 
-70
+71
 00:06:32,320 --> 00:06:38,320
 It seems so easy now, Eddie thought. His twenties 
 had been very different. And his thirties.  
 
-71
+72
 00:06:39,040 --> 00:06:45,120
 Eddie tried not to think about his own past. Now 
 was all that mattered. The past was the past.  
 
-72
+73
 00:06:46,160 --> 00:06:51,200
 'What doesn't kill you makes you stronger,' 
 Clive, his business partner, always said. 'No  
 
-73
+74
 00:06:51,200 --> 00:06:56,560
 such thing as luck,' he once said, 'it's simply 
 the moment when preparation meets opportunity.' 
 
-74
+75
 00:06:58,480 --> 00:07:01,840
 By now, Eddie was sitting back at 
 his table and next to his wife.  
 
-75
+76
 00:07:02,560 --> 00:07:07,760
 She was watching the band and tapping the table. 
 She smiled at the other passengers opposite her,  
 
-76
+77
 00:07:07,760 --> 00:07:10,560
 who smiled back, relaxed and enjoying the moment.  
 
-77
+78
 00:07:11,760 --> 00:07:18,400
 Eddie looked at his watch. It was almost 11 p.m., 
 but he wasn't tired. Quite the opposite. He felt  
 
-78
+79
 00:07:18,400 --> 00:07:23,520
 relaxed and energized. He'd always been 
 an evening person, never a morning person. 
 
-79
+80
 00:07:24,720 --> 00:07:29,360
 He looked around at the giant lounge with 
 its circular tables and well-dressed diners,  
 
-80
+81
 00:07:29,360 --> 00:07:34,960
 and the perfect white tablecloths. The waiters 
 and waitresses in their smart uniforms moved  
 
-81
+82
 00:07:34,960 --> 00:07:40,000
 smoothly in and out of the room, and Eddie's 
 eyes followed them as they carried plates  
 
-82
+83
 00:07:40,000 --> 00:07:45,280
 and coffee and cakes and trays around the 
 tables, along the aisles and past the bar. 
 
-83
+84
 00:07:46,560 --> 00:07:51,520
 Eddie watched the barman throwing ice cubes 
 and cocktail shakers in the air and juggling  
 
-84
+85
 00:07:51,520 --> 00:07:57,840
 them as he made the drinks in acrobatic style. 
 He was confident and polished, and also young.  
 
-85
+86
 00:07:58,800 --> 00:08:03,200
 Possibly the same age as the singer. 
 Why was everyone so young these days?  
 
-86
+87
 00:08:04,480 --> 00:08:08,080
 Where were all the cruise ship jobs when 
 Eddie was trying to get started in life?  
 
-87
+88
 00:08:09,440 --> 00:08:12,320
 Why hadn't he thought of working 
 on a ship in the Caribbean? 
 
-88
+89
 00:08:14,000 --> 00:08:19,040
 He found himself staring at the bar in the 
 distance. He was no longer thinking of anything  
 
-89
+90
 00:08:19,040 --> 00:08:24,160
 in particular. He was simply listening to the 
 sounds of jazz and the noise of a few hundred  
 
-90
+91
 00:08:24,160 --> 00:08:28,160
 people talking and laughing.
 And that was when he saw him. 
 
-91
+92
 00:08:29,520 --> 00:08:34,160
 That was the moment when he saw Dominic 
 for the first time in many, many years.  
 
-92
-00:08:35,440 --> 00:08:42,080
-The man was sitting at the bar, leaning forward 
-and smoking a large cigar. He was older now,  
-
 93
-00:08:42,080 --> 00:08:48,800
-clearly, and his hair was very grey, but Eddie 
-had no doubt that it was him. He couldn't believe  
+00:08:35,440 --> 00:08:39,840
+The man was sitting at the bar, leaning 
+forward and smoking a large cigar.  
 
 94
-00:08:48,800 --> 00:08:54,160
-that awful man was here on the ship.
-And then everything was different. 
+00:08:40,720 --> 00:08:47,120
+He was older now, clearly, and his hair was very 
+grey, but Eddie had no doubt that it was him.  
 
 95
-00:08:54,160 --> 00:08:59,280
-Nothing was the same. All was spoiled.
-Just like before.
-  
+00:08:47,920 --> 00:08:50,880
+He couldn't believe that awful 
+man was here on the ship. 
 
 96
-00:09:00,400 --> 00:09:02,880
-CHAPTER TWO
-Argument with Dominic 
+00:08:51,840 --> 00:08:57,280
+And then everything was different.
+Nothing was the same. All was spoiled. 
 
 97
+00:08:58,160 --> 00:09:01,120
+Just like before.
+ 
+CHAPTER TWO
+
+98
+00:09:01,680 --> 00:09:02,880
+Argument with Dominic
+
+99
 00:09:04,640 --> 00:09:10,640
 "You know your problem, Eddie?" said Dominic 
 Stephens in his office. "You're too hands-on."  
 
-98
+100
 00:09:11,760 --> 00:09:18,560
 He leaned back in his large, leather chair behind 
 his glass desk. He seldom made eye contact. His  
 
-99
+101
 00:09:18,560 --> 00:09:24,480
 shoulders looked tense and his neck was hidden.
 "I don't understand," said Eddie. "How can that  
 
-100
+102
 00:09:24,480 --> 00:09:30,720
 be a problem? The team really appreciates my style 
 and the customers love it. It's what I do best.  
 
-101
+103
 00:09:30,720 --> 00:09:36,640
 It's why I was brought here in the first place."
 "Oh, really?" said Dominic, clearly unimpressed. 
 
-102
+104
 00:09:37,280 --> 00:09:41,600
 "I know for a fact that Ann and Gary 
 didn't want an executive to run things.  
 
-103
+105
 00:09:41,600 --> 00:09:48,240
 They wanted someone with practical experience, 
 and drive - and lots of it. They said dull and  
 
-104
+106
 00:09:48,240 --> 00:09:53,680
 uninspiring executives and managers have 
 come and gone and there's been no direction,  
 
-105
+107
 00:09:53,680 --> 00:09:59,520
 no feeling for the business. No passion."
 "And you have passion?" said Dominic. 
 
-106
+108
 00:09:59,520 --> 00:10:04,960
 "Yes. Do you?"
 "This isn't about me, Eddie. It's about you,  
 
-107
+109
 00:10:04,960 --> 00:10:09,360
 and it takes more than passion to do 
 this job. You need to be a leader." 
 
-108
+110
 00:10:10,160 --> 00:10:16,320
 "I am a leader," replied Eddie. "I've done it 
 for years. My track record speaks for itself." 
 
-109
+111
 00:10:16,960 --> 00:10:22,320
 "Well, you can't do it all by yourself."
 "I'm not trying to do it all by myself,  
 
-110
+112
 00:10:22,320 --> 00:10:28,080
 Dominic. I'm building a team. I'm training new 
 people. Resources are limited. It takes time." 
 
-111
+113
 00:10:28,720 --> 00:10:33,600
 "We don't have time, Eddie."
 What did Dominic Stephens know  
 
-112
+114
 00:10:33,600 --> 00:10:39,760
 about passion or time? wondered Eddie. The only 
 passion he seemed to have was being in charge.  
 
-113
+115
 00:10:40,400 --> 00:10:46,080
 And golf. He seemed to have a lot of time 
 for that. He even kept his clubs in the  
 
-114
+116
 00:10:46,080 --> 00:10:52,480
 corner of his office. And today was Thursday. 
 On Thursdays he always left early to play golf  
 
-115
+117
 00:10:52,480 --> 00:10:57,920
 and he didn't even try to hide it.
 Eddie was so angry his mouth was dry.  
 
-116
+118
 00:10:59,280 --> 00:11:03,440
 "I don't know why you have a problem with 
 me, Dominic. There's nothing wrong with my  
 
-117
+119
 00:11:03,440 --> 00:11:06,880
 performance. Quite the opposite in fact."
 "Oh, really?" 
 
-118
+120
 00:11:07,680 --> 00:11:14,000
 "Yes. When I joined Fenton's, they were only 
 producing software for small businesses in the UK.  
 
-119
+121
 00:11:14,000 --> 00:11:18,080
 They had some accounting packages 
 and sales and marketing databases,  
 
-120
+122
 00:11:18,080 --> 00:11:23,840
 but not much else. I was brought in to expand 
 the business and build exports, and that is  
 
-121
+123
 00:11:23,840 --> 00:11:30,160
 exactly what I have done. I brought in some very 
 talented people to develop our products, and we  
 
-122
+124
 00:11:30,160 --> 00:11:35,840
 now offer some unique and very powerful programs 
 used by the biggest and best companies globally.  
 
-123
+125
 00:11:36,640 --> 00:11:42,240
 When I proposed and won the Moscow account, 
 you said it couldn't be done, and now we  
 
-124
+126
 00:11:42,240 --> 00:11:49,040
 supply the entire Russian region."
 "Erm, excuse me, Mr Passion. I  
 
-125
+127
 00:11:49,040 --> 00:11:54,160
 won the Moscow contract for you," said 
 Dominic, pointing firmly at his own chest. 
 
-126
+128
 00:11:55,200 --> 00:12:02,320
 Eddie could not believe his ears. This was so 
 unfair. Rage filled his whole mind and body.  
 
-127
+129
 00:12:02,960 --> 00:12:08,560
 "You did not win that contract. You knew some of 
 the people in the Russian state department there,  
 
-128
+130
 00:12:08,560 --> 00:12:14,560
 that's all. I spent most of last year - and the 
 year before - going to Russia and working long,  
 
-129
+131
 00:12:14,560 --> 00:12:19,280
 long hours to build a business plan that would 
 work. Don't take the credit away from me,  
 
-130
+132
 00:12:19,280 --> 00:12:24,480
 Dominic. Without me, this company could 
 never have won such a high-profile project." 
 
-131
+133
 00:12:25,280 --> 00:12:30,320
 "Well, I still haven't seen the final numbers, 
 and I still haven't seen the new business plan,"  
 
-132
+134
 00:12:30,880 --> 00:12:36,560
 Dominic said, throwing his arms around.
 "Yes, you have. I've kept you informed  
 
-133
+135
 00:12:36,560 --> 00:12:42,640
 the whole time with numerous emails."
 "Oh, emails, emails! I don't have time  
 
-134
+136
 00:12:42,640 --> 00:12:48,080
 for emails. I get about three hundred a day. 
 How on earth can I keep up with all that?" 
 
-135
+137
 00:12:49,040 --> 00:12:54,240
 Well, it would help if you didn't play so much 
 golf, Eddie wanted to say. It would help if you  
 
-136
+138
 00:12:54,240 --> 00:12:58,560
 let me do my job and didn't interfere. It 
 would help if you weren't so aggressive.  
 
-137
+139
 00:12:59,840 --> 00:13:06,000
 Instead, he tried to remain diplomatic and 
 said, "Well, if you don't read my emails,  
 
-138
+140
 00:13:06,000 --> 00:13:10,320
 how can we communicate?"
 "Simple. Pick up the phone." 
 
-139
+141
 00:13:11,360 --> 00:13:17,680
 He made it sound so easy. This was ridiculous. 
 "I do call you, Dominic. You're never there.  
 
-140
+142
 00:13:18,240 --> 00:13:22,560
 I leave messages but you don't call 
 back. When we do get time to meet,  
 
-141
+143
 00:13:22,560 --> 00:13:28,320
 I don't think you're really listening."
 "I'm always listening to you, Eddie," said  
 
-142
+144
 00:13:28,320 --> 00:13:36,800
 Dominic in a weary voice. "Because you talk so 
 much, that's all you ever do. Talk, talk, talk." 
 
-143
+145
 00:13:38,000 --> 00:13:43,040
 "You're making personal comments, and that is 
 not professional. I talk because I'm passionate.  
 
-144
+146
 00:13:43,040 --> 00:13:48,320
 And I deliver. If I say I'll do something, I 
 do it, and within budget, and you know it." 
 
-145
+147
 00:13:48,880 --> 00:13:54,880
 "You were not on budget. Last year 
 you went over budget by 25,000 pounds" 
 
-146
+148
 00:13:55,920 --> 00:14:01,600
 Not this again. Eddie was so tired of 
 the same story. "I can account for every  
 
-147
+149
 00:14:01,600 --> 00:14:06,480
 penny my department spent. No one seems to 
 know what happened to that 25,000 pounds." 
 
-148
+150
 00:14:07,440 --> 00:14:11,840
 Dominic looked at him accusingly.
 "Don't look at me like that,"  
 
-149
+151
 00:14:11,840 --> 00:14:14,000
 said Eddie.
 "Like what?" 
 
-150
+152
 00:14:15,280 --> 00:14:22,080
 "Look, the way I see it..." Eddie began, but again 
 he was cut off in mid-sentence. Dominic always  
 
-151
+153
 00:14:22,080 --> 00:14:29,280
 interrupted everyone. He was like a spoilt child.
 And so the situation was impossible. Eddie  
 
-152
+154
 00:14:29,280 --> 00:14:33,680
 simply wanted to leave. He could no 
 longer focus. He could never win. 
 
-153
+155
 00:14:35,520 --> 00:14:41,040
 Eddie came out of the office. His whole body was 
 trembling, and he tried very hard not to slam the  
 
-154
+156
 00:14:41,040 --> 00:14:47,920
 door, scream or break something. He realized he 
 was too angry and too upset to go back to the team  
 
-155
+157
 00:14:47,920 --> 00:14:52,880
 or finish his work. He decided to slip 
 out of the office for ten minutes,  
 
-156
+158
 00:14:52,880 --> 00:14:59,520
 just to calm down. He would have a coffee. 
 Or call Lynn. Come on, Ed, he told himself.  
 
-157
+159
 00:15:00,240 --> 00:15:02,960
 Get things in perspective. It's only a job. 
 
-158
+160
 00:15:04,640 --> 00:15:09,920
 He was almost at reception and the main door, when 
 Clive passed him on the way to the photocopier.  
 
-159
+161
 00:15:09,920 --> 00:15:13,440
 "Ed, what's wrong?" he asked, 
 stopping in the corridor. 
 
-160
+162
 00:15:14,800 --> 00:15:19,520
 Eddie couldn't speak. He was afraid to say 
 anything, as he didn't know what might come out.  
 
-161
+163
 00:15:20,240 --> 00:15:25,120
 His face was red and tears were 
 stinging his eyes. He looked down,  
 
-162
-00:15:25,120 --> 00:15:30,720
-ignored Clive and walked out of the door 
-into the street and towards the local cafe.
- 
-  
-
-163
-00:15:31,760 --> 00:15:34,320
-CHAPTER THREE
-Someone from the past 
-
 164
+00:15:25,120 --> 00:15:30,720
+ignored Clive and walked out of the door into 
+the street and towards the local cafe.
+ 
+ 
+
+165
+00:15:31,760 --> 00:15:32,560
+CHAPTER THREE
+
+166
+00:15:33,120 --> 00:15:34,320
+Someone from the past
+
+167
 00:15:36,160 --> 00:15:40,640
 "You all right, Eddie?" asked Lynn, who 
 had noticed Eddie staring at the bar.  
 
-165
+168
 00:15:41,840 --> 00:15:49,360
 Eddie took a moment and then said, "Yes, fine. 
 Why?" But he was still lost in thought. He wasn't  
 
-166
+169
 00:15:49,360 --> 00:15:55,520
 sure if the ship was moving or if he was dizzy.
 "You look so serious. Come on, let's dance." 
 
-167
+170
 00:15:56,880 --> 00:16:04,560
 He was still staring at the bar. The man was still 
 there. It was Dominic. Sitting at the bar barely  
 
-168
+171
 00:16:04,560 --> 00:16:12,000
 fifty meters away, drinking and smoking. As simple 
 as that. Was the world so small? thought Eddie.  
 
-169
+172
 00:16:12,000 --> 00:16:19,760
 Couldn't it be a bit bigger? Why here? Why now? 
 After all this time. Why on this ship? A familiar  
 
-170
+173
 00:16:19,760 --> 00:16:23,920
 sickness in his stomach returned.
 "Well, don't get too excited,  
 
-171
+174
 00:16:23,920 --> 00:16:29,600
 will you?" Eddie heard his wife say.
 "Sorry?" he said, turning his attention to Lynn. 
 
-172
+175
 00:16:30,400 --> 00:16:36,480
 "A dance! Can we dance?" Lynn said impatiently.
 "Yes, sure. Sorry." 
 
-173
+176
 00:16:38,080 --> 00:16:42,400
 They both got up and walked to the dance 
 floor. They held each other and danced  
 
-174
+177
 00:16:42,400 --> 00:16:46,720
 slowly for the final verse of yet another 
 song whose name Eddie couldn't remember. 
 
-175
+178
 00:16:48,640 --> 00:16:53,280
 Turning in the dance, Eddie was pleased that 
 Lynn was there with him as he tried to take in  
 
-176
+179
 00:16:53,280 --> 00:16:58,800
 the fact that he was now staring at the distant 
 shape of Dominic Stephens, on the far side of  
 
-177
+180
 00:16:58,800 --> 00:17:04,960
 the ship's dining room. The man, Eddie saw, now 
 turned to watch the dining room and the dancing.  
 
-178
+181
 00:17:05,760 --> 00:17:13,760
 He was hidden in a fog of his own cigar smoke. How 
 Eddie had hated him. And how, after all this time,  
 
-179
+182
 00:17:13,760 --> 00:17:16,560
 he still hated him.
 The memories. 
 
-180
+183
 00:17:17,200 --> 00:17:19,120
 The anger.
 The pain. 
 
-181
+184
 00:17:21,280 --> 00:17:24,640
 "Are you sure you're feeling 
 all right, Eddie?" asked Lynn  
 
-182
+185
 00:17:24,640 --> 00:17:29,200
 when they got back to their cabin. Eddie 
 was sitting on the bed staring into space. 
 
-183
+186
 00:17:29,920 --> 00:17:35,760
 "Yes. Just tired. I think I'm still jet-lagged, 
 and I'm tired after walking on the island today." 
 
-184
+187
 00:17:36,560 --> 00:17:37,920
 "You sure?"
 "Yes." 
 
-185
+188
 00:17:39,280 --> 00:17:42,560
 "That trip on the glass-bottomed 
 submarine was amazing, wasn't it?" 
 
-186
+189
 00:17:43,200 --> 00:17:47,040
 "Yeah," said Eddie. But he 
 still couldn't think straight.  
 
-187
+190
 00:17:47,040 --> 00:17:52,880
 His mind was filling up more and more with the 
 terrible realization that Dominic was on the ship. 
 
-188
+191
 00:17:53,920 --> 00:17:59,120
 Lynn knew him too well. "Eddie," 
 she said, sitting down beside him,  
 
-189
+192
 00:17:59,120 --> 00:18:04,080
 taking his hand and looking at him. She 
 stroked the back of his head. "What's wrong?" 
 
-190
+193
 00:18:05,680 --> 00:18:11,280
 Eddie had decided to accept that the trip was 
 now spoiled. Did he need to spoil it for his  
 
-191
+194
 00:18:11,280 --> 00:18:17,360
 wife? She didn't have to know. They would have 
 their luxury cruise and go home to a new life.  
 
-192
+195
 00:18:18,160 --> 00:18:23,360
 The ship was big enough. Dominic and Eddie 
 both looked older and Dominic probably wouldn't  
 
-193
+196
 00:18:23,360 --> 00:18:29,040
 even remember him, so why worry about it?
 But all the old feelings were there again,  
 
-194
+197
 00:18:29,040 --> 00:18:32,720
 and Eddie could sense his energy 
 slipping away just thinking about it.  
 
-195
+198
 00:18:33,600 --> 00:18:39,200
 It showed on his face and Lynn could see it. 
 Eddie could never hide much from his wife,  
 
-196
+199
 00:18:39,200 --> 00:18:47,680
 and before he knew it he found himself weakening.
 "It's Dominic. He's on the ship." It sounded so  
 
-197
+200
 00:18:47,680 --> 00:18:51,760
 strange to Eddie to even say those words.
 There was a pause. 
 
-198
+201
 00:18:52,800 --> 00:19:00,080
 Lynn looked more closely at her husband.
 "What?" said Lynn quietly. "Dominic Stephens?  
 
-199
+202
 00:19:00,640 --> 00:19:05,840
 You're kidding."
 "I'm not kidding, Lynn. I wish I was," said Eddie. 
 
-200
+203
 00:19:06,960 --> 00:19:10,000
 "I haven't heard that name in a long time." 
 
-201
+204
 00:19:10,000 --> 00:19:13,440
 "Well, he's here."
 "How do you know he's here?" 
 
-202
+205
 00:19:13,440 --> 00:19:18,000
 "I saw him. He was sitting at the bar this 
 evening when we came in from the deck." 
 
-203
+206
 00:19:18,960 --> 00:19:23,440
 "Eddie, we were sitting on the other side of 
 the dining room - you could hardly see anything.  
 
-204
+207
 00:19:23,440 --> 00:19:27,840
 How can you be sure it was him?"
 "Oh, I'm sure, Lynn. No mistake.  
 
-205
+208
 00:19:29,360 --> 00:19:35,680
 The same fat, lazy bloke. But less 
 hair now. And grey. And fatter." 
 
-206
+209
 00:19:37,120 --> 00:19:42,000
 Lynn was still trying to take it in. 
 "Dominic Stephens is on this ship?" 
 
-207
+210
 00:19:43,040 --> 00:19:47,280
 "Yes."
 She waited a moment. "Oh, Eddie." 
 
-208
+211
 00:19:48,880 --> 00:19:54,320
 They both sat there for a moment. Then Lynn 
 spoke again. She was already recovering.  
 
-209
+212
 00:19:55,280 --> 00:20:02,080
 "Well, look, it's a long time ago, Ed. It doesn't 
 matter any more. He doesn't matter any more. He's  
 
-210
+213
 00:20:02,080 --> 00:20:06,160
 nothing. You don't have to talk to him."
 "I know." 
 
-211
+214
 00:20:06,160 --> 00:20:11,040
 "It's a big ship," Lynn continued. "It's 
 extremely unlikely you're going meet him..." 
 
-212
+215
 00:20:11,040 --> 00:20:15,680
 "I saw him at the bar!" said Eddie.
 "... and even if you met him by chance,  
 
-213
+216
 00:20:15,680 --> 00:20:21,600
 as I said, he won't remember you." Then she 
 looked closely at Eddie and asked softly,  
 
-214
+217
 00:20:22,240 --> 00:20:26,880
 "You didn't speak to him, did you?"
 "No," replied Eddie. "Of course not." 
 
-215
+218
 00:20:27,920 --> 00:20:29,040
 "And did he see you?" 
 
-216
+219
 00:20:30,160 --> 00:20:34,640
 "No." Eddie wasn't sure if Dominic 
 had seen him or not. Probably not.  
 
-217
+220
 00:20:35,200 --> 00:20:40,320
 "Well, that's OK then," Lynn said, but 
 she knew it was an unhelpful thing to say. 
 
-218
+221
 00:20:41,040 --> 00:20:46,320
 "It's not OK, Lynn. It's not 
 OK at all. That man is back." 
 
-219
+222
 00:20:46,320 --> 00:20:51,520
 "He's not back. Try to calm down."
 "Calm down?!" said Eddie,  
 
-220
+223
 00:20:51,520 --> 00:20:57,760
 raising his voice and standing up. "We lost 
 everything because of him, Lynn, everything - he  
 
-221
+224
 00:20:57,760 --> 00:21:03,920
 cheated and bullied and took it all away!"
 "Yes, I know, Ed, but it was sixteen years ago.  
 
-222
+225
 00:21:04,560 --> 00:21:10,640
 We've come a long way since then. You and Clive 
 have each just put ten million quid in the bank!" 
 
-223
+226
 00:21:11,440 --> 00:21:14,480
 "So what? Dominic got away 
 with it all at Fenton's!" 
 
-224
+227
 00:21:15,280 --> 00:21:22,000
 "It's all in the past. It doesn't matter anymore."
 "It does matter. He's still getting away with it.  
 
-225
+228
 00:21:22,000 --> 00:21:26,400
 He still looks very pleased with himself."
 "You don't know that.  
 
-226
+229
 00:21:26,400 --> 00:21:32,320
 You don't know his life now. I can't believe 
 we're talking about all this after so long." 
 
-227
+230
 00:21:32,320 --> 00:21:36,640
 "Because he's here, Lynn. 
 On the ship. On our cruise!" 
 
-228
+231
 00:21:37,280 --> 00:21:45,120
 "Eddie, listen to me. Calm down. He and Neal 
 gave you a bad time, I know. But you fought back  
 
-229
+232
 00:21:45,120 --> 00:21:51,680
 and survived, and you became successful anyway. 
 Without him. In spite of him and the things he  
 
-230
+233
 00:21:51,680 --> 00:21:58,480
 said and did. You're here with me now, on holiday, 
 with financial security for the rest of our lives.  
 
-231
+234
 00:21:59,360 --> 00:22:05,280
 You did it. You climbed back out of the hole 
 and it's OK. He can't hurt you anymore." 
 
-232
+235
 00:22:06,160 --> 00:22:11,840
 "He nearly destroyed us, Lynn."
 "But he didn't, did he? We didn't let him." 
 
-233
+236
 00:22:12,560 --> 00:22:20,720
 Eddie wiped the tears from his eyes. "I can't 
 believe he's on board! Why? He's still out  
 
-234
+237
 00:22:20,720 --> 00:22:28,240
 there getting in the way. Spoiling everything."
 "He's not spoiling anything. Only if you let him.  
 
-235
+238
 00:22:29,200 --> 00:22:36,240
 You've come a long way since he pushed you out."
 "So why do I suddenly feel so angry? I can't  
 
-236
+239
 00:22:36,240 --> 00:22:40,640
 believe it. I think of him and those 
 days at Fenton's from time to time,  
 
-237
+240
 00:22:40,640 --> 00:22:46,800
 sometimes a lot, and it never upsets me.
 "Well, you went through a tough time.  
 
-238
+241
 00:22:46,800 --> 00:22:52,400
 It was very hard. If you really did see him 
 tonight, of course that's going to upset you.  
 
-239
+242
 00:22:53,040 --> 00:23:00,000
 It's not the same as the occasional memory."
 "Oh, I saw him all right. He still smokes those  
 
-240
+243
 00:23:00,000 --> 00:23:03,200
 hideous cigars."
 "OK," said Lynn. 
 
-241
+244
 00:23:04,320 --> 00:23:07,520
 "You went through it too, 
 you know," he reminded her. 
 
-242
+245
 00:23:07,520 --> 00:23:10,000
 "I know."
 Another pause. 
 
-243
+246
 00:23:11,200 --> 00:23:19,360
 "We lost so much, Lynn: the house, the money. 
 Us. I was off sick for a year. A year!" 
 
-244
+247
 00:23:20,160 --> 00:23:26,320
 "I know," said Lynn. "There's no getting away 
 from the damage the man caused. But you have  
 
-245
+248
 00:23:26,320 --> 00:23:32,720
 to calm down. Nothing is going to happen. You 
 don't have to see him again or talk to him." 
 
-246
+249
 00:23:32,720 --> 00:23:38,240
 "Well, what if he takes the same excursion as us 
 at some point? Or sits at our table for dinner?" 
 
-247
+250
 00:23:38,800 --> 00:23:43,360
 "Eddie, there are almost 2,000 
 people on board. It won't happen.  
 
-248
+251
 00:23:44,160 --> 00:23:50,160
 We can ignore him. Being the sort of person 
 Dominic is, he's probably treated lots of  
 
-249
+252
 00:23:50,160 --> 00:23:54,960
 people the way he treated you, so he won't 
 know who you are or remember what he did." 
 
-250
+253
 00:23:56,000 --> 00:24:01,520
 "Somehow that makes it worse."
 "Well, there's nothing we can do about it. If  
 
-251
+254
 00:24:01,520 --> 00:24:07,120
 we see him again or he even recognizes you, we'll 
 cross that bridge when we come to it, all right?" 
 
-252
+255
 00:24:08,160 --> 00:24:10,880
 Eddie was quiet.
 "All right?"  
 
-253
+256
 00:24:11,760 --> 00:24:14,560
 Lynn repeated, holding his face in her hands. 
 
-254
+257
 00:24:15,760 --> 00:24:19,200
 "OK," said Eddie.
  
  
-CHAPTER FOUR 
-
-255
-00:24:19,760 --> 00:24:25,680
-After the argument
-Eddie sat in a cafe not far from the office,  
-
-256
-00:24:25,680 --> 00:24:30,880
-dipping his teaspoon into a large cappuccino, and 
-tried to think of what he could do about his job.  
-
-257
-00:24:31,600 --> 00:24:36,560
-He could leave, but that would mean giving in 
-and letting Dominic have exactly what he wanted.  
+CHAPTER FOUR
 
 258
-00:24:37,440 --> 00:24:43,440
-Besides, it would take several months, possibly a 
-year, to find another good job, and he would still  
+00:24:19,760 --> 00:24:20,880
+After the argument
 
 259
-00:24:43,440 --> 00:24:49,120
-have to put up with him in the meantime. He could 
-officially complain about Dominic's behavior. He  
+00:24:22,560 --> 00:24:28,560
+Eddie sat in a cafe not far from the office, 
+dipping his teaspoon into a large cappuccino,  
 
 260
-00:24:49,120 --> 00:24:56,400
-had a strong case. But that would only make things 
-worse. Somehow Dominic had Gary, the CEO, on his  
+00:24:28,560 --> 00:24:33,680
+and tried to think of what he could do about 
+his job. He could leave, but that would mean  
 
 261
-00:24:56,400 --> 00:25:01,680
-side. And Ann Blake, the Financial Director, 
-would never support getting rid of Dominic,  
+00:24:33,680 --> 00:24:39,760
+giving in and letting Dominic have exactly what 
+he wanted. Besides, it would take several months,  
 
 262
+00:24:39,760 --> 00:24:44,400
+possibly a year, to find another good job, 
+and he would still have to put up with him  
+
+263
+00:24:44,400 --> 00:24:50,080
+in the meantime. He could officially complain 
+about Dominic's behavior. He had a strong case.  
+
+264
+00:24:50,720 --> 00:24:56,720
+But that would only make things worse. Somehow 
+Dominic had Gary, the CEO, on his side.  
+
+265
+00:24:57,280 --> 00:25:01,680
+And Ann Blake, the Financial Director, 
+would never support getting rid of Dominic,  
+
+266
 00:25:01,680 --> 00:25:08,240
 since she had hired him in the first place.
 "He's unbelievable. He actually said I was  
 
-263
+267
 00:25:08,240 --> 00:25:12,400
 too hands-on," said Eddie, stabbing 
 at his drink with his spoon. 
 
-264
+268
 00:25:13,280 --> 00:25:18,160
 "Really?" said Clive, who had left the 
 office and found Eddie sitting in the cafe. 
 
-265
+269
 00:25:18,720 --> 00:25:23,520
 "Yes. He also said I wasn't a leader 
 and that Moscow was his deal." 
 
-266
+270
 00:25:24,240 --> 00:25:28,960
 "You're joking," said Clive. 
 He seemed genuinely surprised.  
 
-267
+271
 00:25:28,960 --> 00:25:31,440
 "That deal was yours. Everyone knows that." 
 
-268
+272
 00:25:32,320 --> 00:25:34,720
 "Then he said my communication 
 wasn't good enough." 
 
-269
+273
 00:25:35,360 --> 00:25:42,480
 "Eh? He can talk. He's got no people skills 
 whatsoever. Anyway, he never reads his emails." 
 
-270
+274
 00:25:43,040 --> 00:25:46,880
 "I know. I told him that. 
 He says I should phone him,"  
 
-271
+275
 00:25:48,240 --> 00:25:52,080
 and Eddie laughed in disgust.
 "He's never there!" 
 
-272
+276
 00:25:53,120 --> 00:26:00,240
 "Exactly! I said that too. It's pointless, Clive. 
 He doesn't listen and he interrupts all the time.  
 
-273
+277
 00:26:00,240 --> 00:26:03,840
 He's so smug. He thinks he's 
 right about everything." 
 
-274
+278
 00:26:04,960 --> 00:26:08,480
 "At least you're not alone. Everyone 
 has the same problem with him." 
 
-275
+279
 00:26:09,200 --> 00:26:13,360
 "Well, what is his problem?"
 "It's obvious. He's insecure." 
 
-276
+280
 00:26:14,080 --> 00:26:17,120
 "Well, it's not obvious when you're 
 sitting in a meeting with him." 
 
-277
+281
 00:26:17,120 --> 00:26:23,120
 "He's a bully in a shirt and tie. All bullies 
 are insecure. Maybe his dad didn't show  
 
-278
+282
 00:26:23,120 --> 00:26:28,640
 him any love. Maybe his dad's worse!"
 Eddie tried to smile as he looked out  
 
-279
+283
 00:26:28,640 --> 00:26:34,320
 of the window, as if the answer were out there 
 somewhere. Maybe if he were to look long enough,  
 
-280
+284
 00:26:34,320 --> 00:26:38,880
 the answer would come and find him. 
 He doubted it. He was exhausted. 
 
-281
+285
 00:26:40,000 --> 00:26:47,040
 "Clive, how do they get to be in charge, these 
 people? They're utterly useless. He's useless." 
 
-282
+286
 00:26:47,760 --> 00:26:53,760
 "Yes, and he knows it. Deep down. That's why 
 he picks on people and moves responsibility.  
 
-283
+287
 00:26:54,400 --> 00:26:59,760
 No one actually knows what he does."
 "Yeah, and by the time they find out they  
 
-284
+288
 00:26:59,760 --> 00:27:02,480
 have to pay him a year's salary, 
 and then he gets another job." 
 
-285
+289
 00:27:03,120 --> 00:27:06,240
 "That's his skill, though. He 
 talks well to the top guys.  
 
-286
+290
 00:27:07,040 --> 00:27:11,840
 But the real people don't respect him. I spoke 
 to someone at Gallagher's the other week,  
 
-287
+291
 00:27:11,840 --> 00:27:15,040
 where Dominic worked for about two 
 years. They said the same thing." 
 
-288
+292
 00:27:16,000 --> 00:27:19,840
 "Do you think he has any idea what 
 people really think and say about him?" 
 
-289
+293
 00:27:20,560 --> 00:27:27,280
 "No, I don't think he does. He's so superior in 
 his own mind he probably thinks we're all losers." 
 
-290
+294
 00:27:28,000 --> 00:27:34,560
 "But he knows I'm good. He knows you're good 
 too, and that really irritates him, because we  
 
-291
+295
 00:27:34,560 --> 00:27:41,600
 know this job and he doesn't. He just moves tasks 
 and people around all day and calls it strategy." 
 
-292
+296
 00:27:42,160 --> 00:27:48,000
 "I know," said Clive.
 They both stared out of the window. 
 
-293
+297
 00:27:48,000 --> 00:27:53,520
 "Did you hear what he said to Steve the 
 other day?" asked Clive. "No, what?" 
 
-294
+298
 00:27:54,800 --> 00:27:58,160
 "'Dominic told Steve that he 
 got the top job because Ann  
 
-295
+299
 00:27:58,160 --> 00:28:06,320
 and Gary saw him as a wise ambassador.'"
 "Wise? Ambassador? Ambassador for what?" 
 
-296
+300
 00:28:06,880 --> 00:28:11,680
 "Who knows? He's in his own dream world."
 "Did he really say that?" 
 
-297
+301
 00:28:12,400 --> 00:28:17,600
 "Yes. And when Steve questioned it, Dominic 
 then said he was older than anyone else anyway." 
 
-298
+302
 00:28:18,720 --> 00:28:22,480
 "Unbelievable."
 "Who knows what he thinks?  
 
-299
+303
 00:28:22,480 --> 00:28:28,080
 He's not like us. I think that scares him."
 "Where do these people come from?" 
 
-300
+304
 00:28:28,880 --> 00:28:35,040
 "I don't know, mate, but they soon move 
 on. We just have to hold on. Look on  
 
-301
+305
 00:28:35,040 --> 00:28:42,560
 the bright side - it couldn't get any worse."
 But Eddie wasn't so sure. Eddie had the feeling  
 
-302
+306
 00:28:42,560 --> 00:28:46,320
 that things were going to get a lot worse.
 And he was right. 
 
-303
+307
 00:28:48,960 --> 00:28:53,920
 Back at home, Eddie spent the evening trying to 
 catch up on the work he'd missed that afternoon,  
 
-304
+308
 00:28:53,920 --> 00:28:57,840
 and looking at the many emails he 
 had sent Dominic. It was a nightmare. 
 
-305
+309
 00:28:59,120 --> 00:29:04,000
 Again and again he considered walking away 
 from the job, but it hurt him more simply to  
 
-306
+310
 00:29:04,000 --> 00:29:09,920
 give up. Besides, he was enjoying the Moscow 
 project, and he had done so much work for it.  
 
-307
+311
 00:29:10,800 --> 00:29:13,920
 When he was in Moscow, he 
 could get on with things. He  
 
-308
+312
 00:29:13,920 --> 00:29:19,280
 loved Russia and he loved the people there. 
 It was such a different world from the UK;  
 
-309
+313
 00:29:20,320 --> 00:29:28,160
 and the owners of Zariya, Dima and Tatiana, always 
 made him feel so welcome. Over time Eddie had  
 
-310
+314
 00:29:28,160 --> 00:29:32,720
 had to explain to them some of the difficulties 
 back in London, and they had been very helpful.  
 
-311
+315
 00:29:33,760 --> 00:29:40,000
 Eddie was reading one of Dima's emails and 
 smiling again when Lynn walked into the room. 
 
-312
+316
 00:29:40,000 --> 00:29:45,840
 "Will you be much longer?" asked Lynn.
 "Maybe. I'm behind on some deadlines,  
 
-313
+317
 00:29:45,840 --> 00:29:51,440
 and today's battle with Dominic didn't help."
 "Just leave it now, Ed. Come to bed," said Lynn. 
 
-314
+318
 00:29:52,080 --> 00:29:57,680
 "I can't. There's so much. Too much."
 "There's always too much,"  
 
-315
+319
 00:29:57,680 --> 00:30:01,840
 Lynn replied. "It will still be there 
 in the morning. Give yourself a break." 
 
-316
+320
 00:30:02,960 --> 00:30:08,320
 "Yeah, well, that's true, but with Dominic I have 
 to be extra careful. He picks on everything." 
 
-317
+321
 00:30:08,880 --> 00:30:11,680
 "He's an idiot."
 "Yeah, I know it,  
 
-318
+322
 00:30:11,680 --> 00:30:15,440
 and you know it, and everyone else 
 knows it, but he's still the boss." 
 
-319
+323
 00:30:16,480 --> 00:30:22,640
 "Well, what I mean is just ignore him."
 "How can I ignore him, Lynn? He's the boss!  
 
-320
+324
 00:30:22,640 --> 00:30:27,760
 He runs the division. He runs me."
 "Well, don't let him," said Lynn. 
 
-321
+325
 00:30:27,760 --> 00:30:33,120
 "I'm not letting him!" shouted Eddie. "I'm 
 trying to stop him. That's the problem!" 
 
-322
+326
 00:30:33,680 --> 00:30:38,960
 "There's no need to shout, Eddie. I'm not deaf."
 "Well, you're not being very helpful." 
 
-323
+327
 00:30:39,600 --> 00:30:43,760
 "Thanks a lot," she said 
 sarcastically. "I'm doing my best." 
 
-324
+328
 00:30:44,800 --> 00:30:51,280
 "Sorry. I was hired to build a team, win a project 
 like the one in Moscow and make things profitable.  
 
-325
+329
 00:30:52,160 --> 00:30:57,280
 He was brought in to oversee the whole division. 
 Then he gets bonuses for doing very little,  
 
-326
+330
 00:30:57,280 --> 00:31:00,240
 and I get the blame when the 
 numbers suddenly don't add up." 
 
-327
+331
 00:31:00,960 --> 00:31:04,160
 "Your numbers are fine."
 "Not according to Dominic." 
 
-328
+332
 00:31:04,880 --> 00:31:07,680
 "Why?"
 "Oh, well, during our  
 
-329
+333
 00:31:07,680 --> 00:31:13,600
 useless meeting today, he brought up that old 
 story about being 25,000 pounds over budget,  
 
-330
+334
 00:31:13,600 --> 00:31:18,720
 when everyone knows he fixed the numbers. 
 Somehow he gets his bonuses and puts  
 
-331
+335
 00:31:18,720 --> 00:31:23,120
 any blame on me. I'm almost certain 
 now that he wants me out, Lynn." 
 
-332
+336
 00:31:23,920 --> 00:31:31,360
 "Surely not. He needs you. If it weren't for you, 
 good people would have left ages ago. Besides,  
 
-333
+337
 00:31:31,360 --> 00:31:35,120
 who else could move Russia along?"
 "Oh, don't mention Russia." 
 
-334
+338
 00:31:35,760 --> 00:31:41,680
 "Why? That's your big success story."
 "Oh, he keeps going on about the fact that  
 
-335
+339
 00:31:41,680 --> 00:31:46,960
 he won the Moscow contract, not me."
 "What? That's just not true." 
 
-336
+340
 00:31:47,760 --> 00:31:50,800
 "I know."
 "What about Ann and Gary?  
 
-337
+341
 00:31:50,800 --> 00:31:56,640
 Can't you talk to them about all this?"
 "They've changed, Lynn. I've hardly seen them  
 
-338
+342
 00:31:56,640 --> 00:32:02,000
 since the new partners came in. Besides, Gary and 
 Dominic are always playing golf at the weekends.  
 
-339
+343
 00:32:02,800 --> 00:32:07,920
 Ann's OK still, but she's very political, 
 and I think she's embarrassed that Dominic's  
 
-340
+344
 00:32:07,920 --> 00:32:12,000
 upsetting everyone. After all, she 
 was the one who recruited him." 
 
-341
+345
 00:32:12,960 --> 00:32:15,920
 'And Human Resources? Can't 
 you report him to them?" 
 
-342
+346
 00:32:16,800 --> 00:32:20,080
 "What do I tell them? That he's 
 got the people skills of a goat!" 
 
-343
+347
 00:32:20,800 --> 00:32:25,600
 "Well, that's one thing. And the 
 intimidation, the lies and the..."  
 
-344
+348
 00:32:25,600 --> 00:32:29,040
 It's very hard to prove, Lynn. 
 He's got his back covered,  
 
-345
+349
 00:32:29,040 --> 00:32:32,640
 and they would only report the whole 
 thing to Ann and Gary. And then what?" 
 
-346
+350
 00:32:33,280 --> 00:32:37,840
 "Well, presumably they tell Dominic and 
 you all get together and sort it out." 
 
-347
+351
 00:32:38,800 --> 00:32:44,160
 "Easy, really. Why didn't I think of that?"
 "You know what I mean, Eddie. There's no  
 
-348
+352
 00:32:44,160 --> 00:32:49,200
 need to be sarcastic. I'm only trying to 
 help. I hate it when you're like this." 
 
-349
+353
 00:32:50,000 --> 00:32:54,560
 "Well, you're not living in the real world, 
 are you, Lynn? You're a Primary school teacher,  
 
-350
+354
 00:32:54,560 --> 00:32:59,280
 for goodness' sake. If things go wrong, you 
 all get into a circle and sing a song about  
 
-351
+355
 00:32:59,280 --> 00:33:04,160
 it. Or draw a picture. It's not that simple when 
 you're in a multi-million pound business and..." 
 
-352
-00:33:05,280 --> 00:33:10,480
-But Lynn had heard enough.
-She was already leaving the room. Eddie  
-
-353
-00:33:10,480 --> 00:33:17,120
-stared back at the open screen on his laptop at 
-hundreds and hundreds of emails. He thought about  
-
-354
-00:33:17,120 --> 00:33:23,280
-how much more he had to do before he could go to 
-bed, about the hurt he had caused Lynn and about  
-
-355
-00:33:23,280 --> 00:33:29,360
-the injustice of Dominic and of people like him.
-Eddie slammed down the laptop lid. 
-
 356
-00:33:30,160 --> 00:33:35,680
-The job was broken, the evening was broken, 
-and now his relationship was broken.
- 
-  
+00:33:05,280 --> 00:33:10,080
+But Lynn had heard enough.
+She was already leaving the room.  
 
 357
-00:33:36,800 --> 00:33:38,800
-CHAPTER FIVE
-Eddie's dream 
+00:33:10,080 --> 00:33:15,040
+Eddie stared back at the open screen on 
+his laptop at hundreds and hundreds of  
 
 358
+00:33:15,040 --> 00:33:19,840
+emails. He thought about how much more 
+he had to do before he could go to bed,  
+
+359
+00:33:20,560 --> 00:33:26,080
+about the hurt he had caused Lynn and about the 
+injustice of Dominic and of people like him. 
+
+360
+00:33:27,040 --> 00:33:32,880
+Eddie slammed down the laptop lid.
+The job was broken, the evening was broken,  
+
+361
+00:33:33,520 --> 00:33:38,000
+and now his relationship was broken.
+ 
+ 
+CHAPTER FIVE
+
+362
+00:33:38,000 --> 00:33:38,800
+Eddie's dream
+
+363
 00:33:40,480 --> 00:33:43,440
 Although the sea was calm, 
 Eddie didn't sleep well.  
 
-359
+364
 00:33:44,080 --> 00:33:49,840
 He had a dream that seemed to last all night.
 It began with him lying in bed in the cabin of  
 
-360
+365
 00:33:49,840 --> 00:33:54,480
 the ship, and waking up to find himself 
 in his old bedroom from his childhood.  
 
-361
+366
 00:33:55,200 --> 00:34:01,840
 But the bedroom was on the ship. He sat up in 
 the top bunk of some familiar bunk beds. In the  
 
-362
+367
 00:34:01,840 --> 00:34:08,080
 bottom bunk should have been his sister Ellen, 
 but he knew his wife was the occupant now. The  
 
-363
+368
 00:34:08,080 --> 00:34:13,680
 bottom bunk was empty, however, and he saw water 
 coming in quietly but rapidly under the door. 
 
-364
+369
 00:34:15,200 --> 00:34:19,840
 In his dream, he jumped out of his bunk 
 and straight into half a meter of water.  
 
-365
+370
 00:34:20,560 --> 00:34:28,240
 It was ice-cold and Eddie gasped in shock. He was 
 wearing a grey suit and black shoes, but no socks,  
 
-366
+371
 00:34:28,240 --> 00:34:34,880
 shirt or tie. With his feet already going numb 
 in the cold water, he opened the small wardrobe  
 
-367
+372
 00:34:34,880 --> 00:34:41,760
 to look for them and found a public telephone. 
 Business cards were stuck all over the wall. He  
 
-368
+373
 00:34:41,760 --> 00:34:48,160
 noticed his own from years ago with the familiar 
 Fentons logo. But his details were in Russian. 
 
-369
+374
 00:34:48,160 --> 00:34:50,880
 His stomach was tight.
 His head ached. 
 
-370
+375
 00:34:51,600 --> 00:34:56,800
 In his dreaming mind, a thousand tasks and 
 deadlines seemed to weigh upon his shoulders. 
 
-371
+376
 00:34:57,360 --> 00:35:03,520
 The phone started ringing. He picked it up.
 "Where are you?" a voice shouted on the other end. 
 
-372
+377
 00:35:03,520 --> 00:35:06,080
 It was Dominic.
 "The unmistakable,  
 
-373
+378
 00:35:06,080 --> 00:35:09,760
 cold, demanding tone of voice: 
 "Do you know what time it is?" 
 
-374
+379
 00:35:10,800 --> 00:35:16,960
 Eddie lifted the sleeve of his suit to look at his 
 watch, but its face was frosted over and unclear.  
 
-375
+380
 00:35:16,960 --> 00:35:20,400
 Water had got into it somehow. 
 The hands were barely visible. 
 
-376
+381
 00:35:21,280 --> 00:35:26,000
 "I can't tell," he heard himself say.
 "You can't tell the time?  
 
-377
+382
 00:35:26,000 --> 00:35:29,920
 Typical! What's the matter with you? 
 We're all waiting for you. Come on." 
 
-378
+383
 00:35:31,040 --> 00:35:35,600
 "Who's waiting for me? Where are you?"
 Eddie heard laughter in the background. 
 
-379
+384
 00:35:36,400 --> 00:35:40,160
 "On the bridge. Where do you 
 think?" Then the line went dead. 
 
-380
+385
 00:35:41,840 --> 00:35:47,440
 The water was up to Eddie's knees now, and rising 
 fast. He decided to leave the socks, shirt and  
 
-381
+386
 00:35:47,440 --> 00:35:52,320
 tie and make his way to the bridge - dressed 
 or not dressed. How much worse could it be? 
 
-382
+387
 00:35:53,360 --> 00:35:59,840
 As Eddie opened the door, water poured in at waist 
 level, and with it thousands of champagne glasses.  
 
-383
+388
 00:36:00,640 --> 00:36:04,800
 Most of them were intact, but many 
 were broken. Too many for Eddie to  
 
-384
+389
 00:36:04,800 --> 00:36:10,240
 avoid. His chest and legs were cut many 
 times as he waded out into the corridor. 
 
-385
+390
 00:36:11,200 --> 00:36:17,200
 He saw Clive at the far end.
 "Clive!" he shouted. "Clive, it's me! Over here!" 
 
-386
+391
 00:36:18,000 --> 00:36:24,080
 But Clive didn't hear him. He, too, was struggling 
 with the strong current of water dragging him down  
 
-387
+392
 00:36:24,080 --> 00:36:29,840
 and away at the far end of the corridor.
 "CLIVE!" shouted Eddie in his sleep. 
 
-388
+393
 00:36:30,960 --> 00:36:35,680
 Opposite Eddie in the dream was a metal ladder 
 which went up to the next level of the ship  
 
-389
+394
 00:36:35,680 --> 00:36:42,320
 through a small hole. It was big enough for him 
 to get through. This ladder led to another ladder  
 
-390
+395
 00:36:42,320 --> 00:36:48,320
 and another hole. And another. And another. 
 Ladders stretched all the way in a giant tunnel  
 
-391
+396
 00:36:48,320 --> 00:36:54,080
 leading upwards. Eddie climbed and climbed. 
 He could hear the laughter getting louder,  
 
-392
+397
 00:36:54,080 --> 00:36:58,880
 so he decided to follow the sound.
 When he reached the top, he suddenly  
 
-393
+398
 00:36:58,880 --> 00:37:05,280
 found himself on the ship's funnel. It was dark, 
 and a strong sea wind took his breath away.  
 
-394
+399
 00:37:05,920 --> 00:37:11,520
 He was scared and excited at the same time. He 
 thought the funnel would be hot, but it was not.  
 
-395
+400
 00:37:12,320 --> 00:37:17,520
 It was at an angle, and he was looking up into 
 the sky, almost touching the stars themselves. 
 
-396
+401
 00:37:18,560 --> 00:37:23,440
 "They're stars, Lynn. Not lights. 
 You were wrong," he shouted again  
 
-397
+402
 00:37:23,440 --> 00:37:29,040
 (in reality, his shouting woke Lynn up).
 Then he looked around and saw that the  
 
-398
+403
 00:37:29,040 --> 00:37:32,560
 front part of the ship was already 
 underwater and the ship was sinking. 
 
-399
+404
 00:37:33,120 --> 00:37:39,840
 "Lynn!" he shouted. This time it was a scream. 
 That was when he slipped and fell and, in his  
 
-400
+405
 00:37:39,840 --> 00:37:47,120
 sleep, flung out his arms to save himself. But 
 there was no impact. Instead he was now standing  
 
-401
+406
 00:37:47,120 --> 00:37:51,680
 on the bridge of the ship, which was full of 
 people from work - from his days at Fenton's.  
 
-402
+407
 00:37:52,320 --> 00:37:57,040
 People he hadn't thought of in all this time. 
 People he thought he'd never remember again.  
 
-403
+408
 00:37:57,760 --> 00:38:00,160
 People he certainly didn't want to see again. 
 
-404
+409
 00:38:01,120 --> 00:38:06,320
 Ann and Gary were there, but they were behind 
 Dominic, who stood by the wheel in his captain's  
 
-405
+410
 00:38:06,320 --> 00:38:12,480
 uniform staring at him. He was older now and 
 heavier. The way Eddie had seen him at the bar. 
 
-406
+411
 00:38:13,200 --> 00:38:16,560
 "Glad you could join us. 
 We're only sinking, you know!" 
 
-407
+412
 00:38:17,360 --> 00:38:22,880
 "What's going on?" said Eddie, looking around. 
 The jazz band was playing in the corner,  
 
-408
+413
 00:38:22,880 --> 00:38:28,480
 but the female singer was not the girl he had seen 
 earlier. Instead it was Lynn. Singing a song whose  
 
-409
+414
 00:38:28,480 --> 00:38:30,320
 name escaped him.
 "Lynn?" 
 
-410
+415
 00:38:31,440 --> 00:38:34,320
 She didn't look at him. She 
 was looking away and singing. 
 
-411
+416
 00:38:35,280 --> 00:38:41,840
 "LYNN! What are you doing here?" 
 shouted Eddie, confused and frightened. 
 
-412
+417
 00:38:42,400 --> 00:38:46,560
 "I'm the captain. What does 
 it look like?" said Dominic. 
 
-413
+418
 00:38:46,560 --> 00:38:52,720
 "No. Not you. Lynn. What's she doing 
 here?" She wasn't paying him any attention. 
 
-414
+419
 00:38:53,600 --> 00:38:58,240
 More and more people were coming on to 
 the bridge. He saw Dima and Tatiana.  
 
-415
+420
 00:38:58,240 --> 00:39:02,560
 They spoke in Russian. Eddie couldn't 
 hear them over the laughter of the crowd. 
 
-416
+421
 00:39:02,560 --> 00:39:07,040
 "Ssh. I can't hear what they're saying. 
 And I can't remember the name of the song." 
 
-417
+422
 00:39:07,600 --> 00:39:10,880
 "Never mind that, Eddie. We've 
 got more important things to do." 
 
-418
+423
 00:39:11,520 --> 00:39:12,960
 "What?"
 Laughter. 
 
-419
+424
 00:39:13,680 --> 00:39:17,600
 "We're sinking, no thanks to you."
 "Why? What have I done?" 
 
-420
+425
 00:39:18,160 --> 00:39:22,000
 More laughter from the crowd.
 A familiar face appeared. It was Neal. 
 
-421
+426
 00:39:22,560 --> 00:39:24,560
 "Champagne glasses, Eddie.  
 
-422
+427
 00:39:24,560 --> 00:39:27,840
 Champagne glasses," he said.
 "What about them?" 
 
-423
+428
 00:39:28,560 --> 00:39:33,600
 What about them?" shouted Dominic. 
 "They put a hole in the ship, you fool." 
 
-424
+429
 00:39:34,560 --> 00:39:38,640
 "That's impossible." Fear 
 filled Eddie's mind and body. 
 
-425
+430
 00:39:39,200 --> 00:39:45,760
 "Oh, really? Take a look around. Glass 
 everywhere. Holes in the side of my ship." 
 
-426
+431
 00:39:45,760 --> 00:39:52,080
 "It's not your ship!" protested Eddie.
 "Who cares? We'll be underwater in ten minutes.  
 
-427
+432
 00:39:52,080 --> 00:39:56,160
 Fifteen at the most," added Neal.
 "Shut up, Neal. You're only  
 
-428
+433
 00:39:56,160 --> 00:39:59,840
 here because of Dominic."
 Then he heard a loud buzzing. 
 
-429
+434
 00:40:00,480 --> 00:40:07,840
 A giant helicopter arrived and flew over the front 
 decks. And another. Three, four, five. Dozens.  
 
-430
+435
 00:40:07,840 --> 00:40:14,000
 Like bees around a beehive. Buzzing, louder 
 and louder. They flew around and shone powerful  
 
-431
+436
 00:40:14,000 --> 00:40:20,880
 lights on to the bridge. So many lights. The 
 noise and lights were unbearable. Then sirens.  
 
-432
+437
 00:40:20,880 --> 00:40:27,960
 Police sirens. People screaming. Eddie covered 
 his ears and shut his eyes. He cried out: "LYNN!" 
 
-433
-00:40:30,000 --> 00:40:35,520
-The noise lessened but the lights were bright, 
-so bright. He was trying to open his eyes, but he  
-
-434
-00:40:35,520 --> 00:40:41,360
-couldn't. Now someone was pulling at his arms.
-"Let me go! Let me go!" he shouted. 
-
-435
-00:40:41,360 --> 00:40:48,320
-"Eddie..." Lynn said, trying to wake him up.
-"Lynn?" His eyes were opening. It was so bright. 
-
-436
-00:40:49,040 --> 00:40:54,720
-"It's all right, I'm here," she said, holding him.
-"We've got to get off! We're sinking!" 
-
-437
-00:40:55,440 --> 00:41:02,160
-"It's all right," she said again.
-Then his eyes opened and he was finally awake.
- 
-  
-
 438
-00:41:03,440 --> 00:41:05,840
-CHAPTER SIX
-Another bad meeting 
+00:40:30,000 --> 00:40:33,280
+The noise lessened but the 
+lights were bright, so bright.  
 
 439
+00:40:33,840 --> 00:40:38,160
+He was trying to open his eyes, but he 
+couldn't. Now someone was pulling at his arms. 
+
+440
+00:40:38,160 --> 00:40:44,080
+"Let me go! Let me go!" he shouted.
+"Eddie..." Lynn said, trying to wake him up. 
+
+441
+00:40:44,800 --> 00:40:52,560
+"Lynn?" His eyes were opening. It was so bright.
+"It's all right, I'm here," she said, holding him. 
+
+442
+00:40:52,560 --> 00:40:57,840
+"We've got to get off! We're sinking!"
+"It's all right," she said again. 
+
+443
+00:40:59,040 --> 00:41:04,160
+Then his eyes opened and he was finally awake.
+ 
+ 
+CHAPTER SIX
+
+444
+00:41:04,880 --> 00:41:05,840
+Another bad meeting
+
+445
 00:41:07,760 --> 00:41:13,360
 The next morning Eddie woke early and his mind 
 was racing. The house was quiet and there was  
 
-440
+446
 00:41:13,360 --> 00:41:19,840
 little traffic outside. He felt like he hadn't 
 been to sleep at all, and he was still angry. 
 
-441
+447
 00:41:20,480 --> 00:41:26,400
 Lynn was still asleep. It was 5.50 a.m. He 
 listened to the radio for a while until he heard  
 
-442
+448
 00:41:26,400 --> 00:41:34,480
 the news, and then he got up, had a shower and 
 got dressed. By 6.45 a.m. he was ready for work  
 
-443
+449
 00:41:34,480 --> 00:41:39,440
 and quickly said goodbye to Lynn before walking to 
 the station to get the train into central London. 
 
-444
+450
 00:41:40,960 --> 00:41:44,320
 The train was full, but Eddie 
 managed to get a seat by the window.  
 
-445
+451
 00:41:45,040 --> 00:41:48,240
 It was a fast train with only a 
 couple of stops before Paddington.  
 
-446
+452
 00:41:49,920 --> 00:41:54,400
 As the train picked up speed and aimed for 
 the city, Eddie looked out at the fields  
 
-447
+453
 00:41:54,400 --> 00:42:01,200
 and industrial estates passing by. He took deep 
 breaths and tried to calm himself before the day  
 
-448
+454
 00:42:01,200 --> 00:42:07,600
 started. He thought about his conference call 
 with Moscow at 9.30 a.m., his scheduled sales  
 
-449
+455
 00:42:07,600 --> 00:42:14,640
 meeting at 12 noon, and a lunch appointment at 
 1.30 p.m. with Neal Skinner in Production. Then  
 
-450
+456
 00:42:14,640 --> 00:42:19,680
 he was hoping to block off a couple of hours in 
 the afternoon to catch up on emails and paperwork. 
 
-451
+457
 00:42:20,880 --> 00:42:26,480
 He got to the office at 8.15 a.m. and sat at 
 his desk with a double espresso and a bagel.  
 
-452
+458
 00:42:27,520 --> 00:42:33,040
 As his PC started up, Eddie sorted through some 
 of his papers and wrote a quick to do list for  
 
-453
+459
 00:42:33,040 --> 00:42:40,240
 the day ahead. He logged on to his email and took 
 care of a few basic queries, before noticing that  
 
-454
+460
 00:42:40,240 --> 00:42:46,880
 Dominic had sent a meeting schedule for 10 a.m. 
 There was no subject heading. Eddie saw that it  
 
-455
+461
 00:42:46,880 --> 00:42:52,240
 clashed with his Moscow call, so he rejected 
 it and suggested rescheduling for 11 a.m.,  
 
-456
+462
 00:42:52,800 --> 00:42:58,080
 and wrote a line to ask what the meeting was 
 about. To support his message, he mentioned  
 
-457
+463
 00:42:58,080 --> 00:43:03,600
 that he had an important call at 9.30 a.m. and 
 asked Dominic for his patience in the matter.  
 
-458
+464
 00:43:04,400 --> 00:43:09,440
 It annoyed him to think that his day with 
 Dominic was already starting on a negative note,  
 
-459
+465
 00:43:09,440 --> 00:43:16,320
 but he tried to put it to the back of his mind.
 By 9 a.m. the open-plan office was filling up, and  
 
-460
+466
 00:43:16,320 --> 00:43:22,320
 Maxine, Paula and Gavin arrived, who all worked in 
 Eddie's department and sat near him in the office. 
 
-461
+467
 00:43:22,320 --> 00:43:26,800
 "Hi, Ed! How's it going?" asked Paula.
 "Fine, thanks," replied Eddie. 
 
-462
+468
 00:43:27,520 --> 00:43:33,600
 "How was the meeting with Dominic yesterday?" 
 asked Gavin. "Oh, well, you know. A challenge,  
 
-463
+469
 00:43:33,600 --> 00:43:38,080
 shall we say," said Eddie, trying 
 to smile and not give too much away. 
 
-464
+470
 00:43:38,080 --> 00:43:43,840
 "I bet it was. Rather you than me, mate," 
 said Gavin. Eddie knew that Gavin and the  
 
-465
+471
 00:43:43,840 --> 00:43:49,200
 team were on his side, but what could they do?
 Eddie went back to dealing with his emails and  
 
-466
+472
 00:43:49,200 --> 00:43:56,160
 preparing for the call to Moscow at 9.30 a.m.
 At 9.20 a.m. his phone rang. It was Dominic.  
 
-467
+473
 00:43:56,960 --> 00:44:00,240
 "Did you get the meeting schedule 
 I sent? 10 a.m. this morning." 
 
-468
+474
 00:44:01,040 --> 00:44:07,440
 "Yes, I replied. I can't do that time. I've got 
 a call at 9.30 with Dima and his team in Moscow.  
 
-469
+475
 00:44:07,440 --> 00:44:12,800
 I'm dialing in Adam in IT, who needs an update on 
 the platform they're using for the new software." 
 
-470
+476
 00:44:13,520 --> 00:44:17,040
 "It's too early for IT. Why are 
 you bothering them with this?" 
 
-471
+477
 00:44:17,680 --> 00:44:21,920
 "Because we need their input on..."
 "Look, Eddie. Forget IT and forget  
 
-472
+478
 00:44:21,920 --> 00:44:26,640
 your call. Do it tomorrow."
 "I can't. It's taken ages to  
 
-473
+479
 00:44:26,640 --> 00:44:30,880
 find a time when we can all..."
 "You and I have a meeting at 10." 
 
-474
+480
 00:44:30,880 --> 00:44:36,080
 "What about?"
 "Let's discuss that then. OK?" Dominic hung up. 
 
-475
+481
 00:44:37,280 --> 00:44:40,720
 Eddie glanced around and 
 noticed Maxine looking at him. 
 
-476
+482
 00:44:40,720 --> 00:44:45,360
 "You OK?" she asked.
 "Not really. Max,  
 
-477
+483
 00:44:45,360 --> 00:44:50,320
 can you get hold of Dima for me and ask if he can 
 reschedule the call for any time this afternoon?" 
 
-478
+484
 00:44:51,040 --> 00:44:56,160
 "He won't like it," she said.
 "I know. Tell him I'm really sorry,  
 
-479
+485
 00:44:56,160 --> 00:45:01,600
 and tell him Dominic has to see me at 10 a.m. Tell 
 him I didn't have any warning. He'll understand."  
 
-480
+486
 00:45:02,400 --> 00:45:08,000
 Eddie tried to smile again. This smile was more 
 fake than the last, and Maxine could see it. 
 
-481
+487
 00:45:08,560 --> 00:45:12,480
 "OK," she said.
 Eddie calmly got up out  
 
-482
+488
 00:45:12,480 --> 00:45:17,760
 of his seat and walked across to the far side 
 of the office floor, took the lift upstairs  
 
-483
+489
 00:45:17,760 --> 00:45:23,840
 and went into the gents' toilet. It was empty.
 He went to the sink, turned on the cold tap,  
 
-484
+490
 00:45:23,840 --> 00:45:28,240
 collected water in his cupped hands and 
 splashed it on his face to freshen up.  
 
-485
+491
 00:45:29,280 --> 00:45:34,320
 The situation was impossible, he thought. 
 Eddie felt he could no longer do his job. 
 
-486
+492
 00:45:36,320 --> 00:45:39,920
 For a moment or two he stayed where 
 he was, leaning over the sink,  
 
-487
+493
 00:45:39,920 --> 00:45:45,360
 staring at the pouring water and watching 
 it go down the plughole. Then he looked up,  
 
-488
+494
 00:45:45,360 --> 00:45:50,400
 reached for some towels and dried his face.
 At that moment the phone in his pocket  
 
-489
+495
 00:45:50,400 --> 00:45:55,120
 announced the arrival of a text with the 
 sound of a mystical harp. It was from Lynn.
-  
+ 
 
-490
+496
 00:45:56,400 --> 00:46:01,040
 sorry about last night, hope 
 u r ok. stay strong. D is a  
 
-491
+497
 00:46:01,040 --> 00:46:09,120
 useless robot and he knows it. love u. L. x
  
 Eddie smiled and punched back a quick reply: 
 
-492
+498
 00:46:09,920 --> 00:46:15,600
 thanks, love u 2. X
  
 The text and cold water  
 
-493
+499
 00:46:15,600 --> 00:46:19,200
 seemed to give Eddie enough strength to go 
 back and face another meeting with Dominic.  
 
-494
+500
 00:46:20,000 --> 00:46:25,520
 It was almost ten o'clock. He had enough time to 
 grab a coffee before going to Dominic's office. 
 
-495
+501
 00:46:27,120 --> 00:46:32,640
 Eddie knocked on the door, walked in and sat 
 down. Dominic was engrossed in something on his  
 
-496
+502
 00:46:32,640 --> 00:46:39,280
 PC. Without looking up he muttered, "I'll be with 
 you in a moment," and spent the next five minutes  
 
-497
+503
 00:46:39,280 --> 00:46:44,960
 doing more work and ignoring Eddie. He even made 
 a phone call to someone Eddie had never heard of.  
 
-498
+504
 00:46:45,920 --> 00:46:50,480
 Eventually, Dominic turned his attention 
 away from his computer and on to Eddie. 
 
-499
+505
 00:46:51,040 --> 00:46:53,360
 "Right. What's the latest from Moscow?" 
 
-500
+506
 00:46:54,160 --> 00:46:58,880
 "I haven't called them yet."
 "Why not?" Dominic's tone was sharp.  
 
-501
+507
 00:46:58,880 --> 00:47:04,960
 Eddie was always amazed at how unpleasant and cold 
 this man was. Was he like this at home? What kind  
 
-502
+508
 00:47:04,960 --> 00:47:11,200
 of friends did he have? Did he have any friends?
 "I had a call planned for this morning at 9.30,  
 
-503
+509
 00:47:11,200 --> 00:47:13,920
 but you asked me to change it so 
 that we could have this meeting." 
 
-504
+510
 00:47:14,560 --> 00:47:18,560
 "So when are you talking to them?"
 "I don't know yet," said Eddie. 
 
-505
+511
 00:47:18,560 --> 00:47:21,040
 "You need to get a call 
 sorted as soon as possible." 
 
-506
+512
 00:47:21,760 --> 00:47:24,960
 "Maxine's doing that now."
 "Maxine shouldn't be doing  
 
-507
+513
 00:47:24,960 --> 00:47:30,240
 that sort of thing. She's only a temp."
 "Well, she sometimes takes phone calls  
 
-508
+514
 00:47:30,240 --> 00:47:36,320
 for us in the office and sets UP meetings."
 "She's not a secretary, Eddie, she's a student!  
 
-509
+515
 00:47:36,320 --> 00:47:40,880
 She types in data. You can't ask her 
 to phone our biggest customers..." 
 
-510
+516
 00:47:41,840 --> 00:47:46,160
 Eddie's face was red, he could feel 
 it. Already things were out of control. 
 
-511
+517
 00:47:46,880 --> 00:47:50,240
 "She's only setting up a 
 conference call," he said. 
 
-512
+518
 00:47:50,240 --> 00:47:56,960
 "Do it yourself," said Dominic impatiently.
 "Fine," Eddie. It wasn't fine at all. 
 
-513
+519
 00:47:57,760 --> 00:48:01,200
 "And copy me in on the schedule. 
 I want to join the call." 
 
-514
+520
 00:48:02,000 --> 00:48:03,920
 "Why?"
 "I want to find  
 
-515
+521
 00:48:03,920 --> 00:48:08,000
 out when Dima's going to order the rest of the 
 software for all the offices in the region." 
 
-516
+522
 00:48:08,880 --> 00:48:14,320
 "Dominic, please leave that to me. This call 
 is more for product training and looking at any  
 
-517
+523
 00:48:14,320 --> 00:48:19,040
 specific problems so far. I don't want 
 to distract him with pressure for more  
 
-518
+524
 00:48:19,040 --> 00:48:23,120
 orders. We have time for that."
 "We don't have time, Eddie." 
 
-519
+525
 00:48:23,760 --> 00:48:29,520
 "Yes, we do. At least until my next visit to 
 Moscow. That's when we will be looking at the next  
 
-520
+526
 00:48:29,520 --> 00:48:34,640
 orders. As a matter of fact I've got a meeting 
 with Neal in Production today to look at costs." 
 
-521
+527
 00:48:35,920 --> 00:48:40,160
 There was a knock on the door and Neal Skinner, 
 Head of Production, walked into the office. 
 
-522
+528
 00:48:41,120 --> 00:48:46,800
 "Well, well. Here he is!" said Dominic. "Come 
 in, Neal. We were just talking about you." 
 
-523
+529
 00:48:47,680 --> 00:48:52,240
 "Nothing bad, I hope," said 
 Neal. His smile was insincere. 
 
-524
+530
 00:48:53,200 --> 00:48:57,680
 He was a very tall, thin man who 
 always looked pale and wore dull suits.  
 
-525
+531
 00:48:58,400 --> 00:49:04,000
 The Grey Man, they called him in the office. 
 Neal was Eddie's main contact in Production  
 
-526
+532
 00:49:04,000 --> 00:49:06,240
 for all things related to the Moscow project. 
 
-527
+533
 00:49:07,200 --> 00:49:10,800
 He was a cold character who 
 took himself very seriously  
 
-528
+534
 00:49:10,800 --> 00:49:16,640
 and had little sense of humor. Like Dominic, 
 he had a superior manner and was stubborn.  
 
-529
+535
 00:49:18,000 --> 00:49:22,960
 When engaged in conversation he looked at the 
 other person critically, judging them negatively.  
 
-530
+536
 00:49:23,840 --> 00:49:28,640
 Neal always tried to give the impression that 
 he knew everyone and that he was in charge,  
 
-531
+537
 00:49:28,640 --> 00:49:33,520
 but it was clear he was not really comfortable in 
 his role and didn't really know what he was doing.  
 
-532
+538
 00:49:34,720 --> 00:49:39,840
 He hid behind business jargon, name-dropping 
 and things he had learned from going on too many  
 
-533
+539
 00:49:39,840 --> 00:49:46,400
 training courses. But bosses liked him. Employees 
 and customers did not. They thought he was a waste  
 
-534
+540
 00:49:46,400 --> 00:49:52,400
 of time. Eddie knew he was a waste of time.
 "Neal, thanks for joining us." 
 
-535
+541
 00:49:53,280 --> 00:49:58,400
 "No problem," Neal replied. So 
 agreeable. So good with a boss around.  
 
-536
+542
 00:49:58,400 --> 00:50:04,320
 Neal crossed his long legs and folded his arms.
 Eddie now had a feeling that this meeting had been  
 
-537
+543
 00:50:04,320 --> 00:50:09,680
 arranged, and that Neal was part of it. It was no 
 coincidence that he had turned up at that point. 
 
-538
+544
 00:50:10,480 --> 00:50:14,960
 "Did you see the match last night?" 
 Neal asked Dominic. Still no smile. 
 
-539
+545
 00:50:15,680 --> 00:50:20,080
 "No, I missed it. I heard that new 
 defender Slater scored an own goal  
 
-540
+546
 00:50:20,080 --> 00:50:26,160
 and saved us. That was very kind, thank you."
 "We're still five points ahead of you, though." 
 
-541
+547
 00:50:26,160 --> 00:50:30,880
 "Not for long. You've got Chelsea on Saturday, and 
 then you're away to Liverpool the following week." 
 
-542
+548
 00:50:31,760 --> 00:50:37,040
 "Gentlemen," interrupted Eddie, "if it's OK 
 with you... could we get back to business?" 
 
-543
+549
 00:50:38,000 --> 00:50:43,440
 "The thing is, Eddie," said Dominic, "we 
 need more people on the Moscow account..." 
 
-544
+550
 00:50:44,560 --> 00:50:48,960
 Eddie wasn't sure where this was going, but he 
 was slightly encouraged by the possibility of  
 
-545
+551
 00:50:48,960 --> 00:50:53,840
 getting more assistance. "Right. That's 
 good," he said, trying to be positive.  
 
-546
+552
 00:50:54,480 --> 00:50:57,680
 "We're short-staffed, as you 
 know, and we could use more help."  
 
-547
+553
 00:50:58,640 --> 00:51:03,280
 But he still wasn't sure why Neal was 
 there - he remained still and quiet,  
 
-548
+554
 00:51:03,280 --> 00:51:09,600
 looking first at Dominic and then at Eddie.
 "... so Neal has agreed to take charge and  
 
-549
+555
 00:51:09,600 --> 00:51:15,280
 give you guys a hand." Dominic looked back at 
 his computer screen, then tapped something on  
 
-550
+556
 00:51:15,280 --> 00:51:19,840
 his keyboard. Eddie looked at Neal.
 "Take charge of what,  
 
-551
+557
 00:51:19,840 --> 00:51:25,920
 exactly?" he asked, looking back at Dominic.
 "Take charge of the account. In Moscow."  
 
-552
+558
 00:51:27,040 --> 00:51:32,160
 Dominic gave a little laugh.
 Eddie went cold. He could feel the sharp blade  
 
-553
+559
 00:51:32,160 --> 00:51:39,040
 of realization enter his back. "Are you moving 
 to Moscow, Neal?" he asked, confused but hopeful. 
 
-554
+560
 00:51:39,760 --> 00:51:44,960
 "No, mate. I'm staying in London." 
 Neal smiled his superior smile. 
 
-555
+561
 00:51:46,000 --> 00:51:49,840
 Eddie did not like the sound of this. 
 He didn't like being laughed at either. 
 
-556
+562
 00:51:50,800 --> 00:51:55,680
 Eddie turned his attention to Dominic. "Dominic, 
 I don't quite follow. What's going on?" 
 
-557
+563
 00:51:56,400 --> 00:52:02,000
 "I've decided to make some changes in the team. 
 Neal has a lot of experience in this field, so  
 
-558
+564
 00:52:02,000 --> 00:52:07,600
 you will report to him. He is now Head of Product 
 and Business Development. It's a new position." 
 
-559
+565
 00:52:10,240 --> 00:52:15,440
 Neal kept his eyes on Dominic the whole time. 
 He looked very pleased with himself, as if he  
 
-560
+566
 00:52:15,440 --> 00:52:20,800
 was waiting to be given a trophy of some sort.
 'It makes sense, Eddie. Really," said Neal. 
 
-561
+567
 00:52:21,440 --> 00:52:26,000
 "I'm not interested in your opinion," 
 snapped Eddie. He was trying to stay calm  
 
-562
+568
 00:52:26,000 --> 00:52:32,000
 but inside he was ready to explode. He tried 
 to keep his voice steady. He leaned forward  
 
-563
+569
 00:52:32,000 --> 00:52:37,840
 on Dominic's desk and looked him in the eye.
 "So what's my position?" he asked.
  
-  
+ 
 
-564
-00:52:39,040 --> 00:52:41,840
+570
+00:52:39,040 --> 00:52:40,160
 CHAPTER SEVEN
-An encounter in Barbados 
 
-565
+571
+00:52:40,160 --> 00:52:41,840
+An encounter in Barbados
+
+572
 00:52:43,520 --> 00:52:46,880
 The Parvina docked quietly 
 at Bridgetown, Barbados,  
 
-566
+573
 00:52:46,880 --> 00:52:52,560
 at 7.20 a.m. Eddie and Lynn were already 
 awake and they lay in bed listening to  
 
-567
+574
 00:52:52,560 --> 00:53:00,160
 the radio. At 7.30 there was a knock on the door.
 "Good morning. Breakfast," said the voice outside. 
 
-568
+575
 00:53:00,160 --> 00:53:04,560
 Eddie got out of bed, almost believing 
 he would step into cold water once more,  
 
-569
+576
 00:53:04,560 --> 00:53:11,040
 and opened the door. A young, smiling man brought 
 in a large tray full of cereals, orange juice,  
 
-570
+577
 00:53:11,040 --> 00:53:16,880
 pastries and a cafeteria of coffee. Eddie led him 
 through the cabin to the balcony door, which he  
 
-571
+578
 00:53:16,880 --> 00:53:24,080
 opened. The humid air struck him immediately.
 "Phew, it's warm. Leave the tray inside," he  
 
-572
+579
 00:53:24,080 --> 00:53:29,200
 said to the man. "Thanks." Eddie gave 
 him a few dollars and the man left. 
 
-573
+580
 00:53:30,800 --> 00:53:34,880
 Eddie looked out across the harbour 
 view to where blue sea met white sand,  
 
-574
+581
 00:53:34,880 --> 00:53:40,960
 to the houses dotted about the town, and to 
 the green palm trees inland. Market stalls were  
 
-575
+582
 00:53:40,960 --> 00:53:46,000
 already being set up near the ship, where locals 
 could sell souvenirs and fruit to the passengers.  
 
-576
+583
 00:53:47,120 --> 00:53:52,880
 Eddie heard the distinctive metallic sound of a 
 steel band and saw five boys playing down below.  
 
-577
+584
 00:53:54,160 --> 00:53:58,400
 He could see at least three other ships 
 in the harbour. Given his nightmare,  
 
-578
+585
 00:53:58,400 --> 00:54:01,680
 he really appreciated the fact 
 that this was the reality. 
 
-579
+586
 00:54:03,120 --> 00:54:06,800
 "Good morning, Mrs Millionaire. 
 Another day in paradise," he said. 
 
-580
+587
 00:54:08,560 --> 00:54:13,360
 "What's for breakfast?" asked Lynn, yawning.
 "Get up and have a look." 
 
-581
+588
 00:54:14,320 --> 00:54:19,600
 "You seem very awake and lively," she said.
 "Yes, well, after last night's trip  
 
-582
+589
 00:54:19,600 --> 00:54:24,800
 to hell and back, this comes as a relief."
 "You were in a terrible state. Do you remember?" 
 
-583
+590
 00:54:25,600 --> 00:54:31,280
 "Yes. I'm trying not to think about it," said 
 Eddie. And he really was trying not to think about  
 
-584
+591
 00:54:31,280 --> 00:54:37,680
 it - about the dream, about Dominic Stephens, 
 about the real nightmare of sixteen years ago.  
 
-585
+592
 00:54:37,680 --> 00:54:42,320
 But he knew it wouldn't be easy.
 "Damn him," he said under his breath. 
 
-586
+593
 00:54:44,480 --> 00:54:49,840
 Lynn and Eddie had decided to do different things 
 that day. Eddie had chosen to go on a catamaran  
 
-587
+594
 00:54:49,840 --> 00:54:55,760
 and snorkeling trip in the morning, while Lynn 
 had booked tennis lessons. They took a taxi to  
 
-588
+595
 00:54:55,760 --> 00:55:00,560
 the Tropical Beach Hotel and Spa, where they 
 were welcomed with fruit punch and given a short  
 
-589
+596
 00:55:00,560 --> 00:55:06,720
 talk about the area by one of the hotel guides.
 The catamaran was scheduled to depart from the  
 
-590
+597
 00:55:06,720 --> 00:55:12,880
 hotel's private beach at 10.30 a.m., and Eddie 
 put on his life jacket and joined several other  
 
-591
+598
 00:55:12,880 --> 00:55:19,360
 passengers and hotel guests for the two-hour 
 trip. He was given a mask, snorkel and fins,  
 
-592
+599
 00:55:19,360 --> 00:55:24,640
 and he waved to Lynn as he walked down to where 
 the boat was tied up. He was carrying his deck  
 
-593
+600
 00:55:24,640 --> 00:55:30,640
 shoes and had a towel in his hand as he made 
 his way, barefoot, across the fine, smooth sand. 
 
-594
+601
 00:55:32,720 --> 00:55:37,920
 As he waited his turn to get on board, he looked 
 down at his feet in the warm, green water and  
 
-595
+602
 00:55:37,920 --> 00:55:42,880
 thought again about the nightmare and about 
 Dominic. He wondered where Dominic was today.  
 
-596
+603
 00:55:43,440 --> 00:55:49,760
 Was he on a trip? Was he even still on board?
 In the taxi on the way to the hotel,  
 
-597
+604
 00:55:49,760 --> 00:55:52,560
 Eddie had worried that Dominic 
 would be on the same excursion.  
 
-598
+605
 00:55:53,200 --> 00:55:58,240
 But how likely was it that he would meet him? 
 He started feeling angry again that Dominic was  
 
-599
+606
 00:55:58,240 --> 00:56:04,800
 on the ship. And that he still existed at all.
 In spite of this, Eddie was able to relax during  
 
-600
+607
 00:56:04,800 --> 00:56:11,040
 the boat trip. After an hour of sailing around the 
 bay and past some spectacular beaches and coves,  
 
-601
+608
 00:56:11,040 --> 00:56:15,840
 the catamaran dropped anchor and the small 
 group went snorkeling near an old shipwreck.  
 
-602
+609
 00:56:16,640 --> 00:56:21,120
 They watched and fed some stingrays, and 
 Eddie enjoyed the calming effect of being  
 
-603
+610
 00:56:21,120 --> 00:56:27,280
 below the surface and in a very different world 
 underwater. He was a good swimmer and very fit.  
 
-604
+611
 00:56:27,840 --> 00:56:32,640
 He had swum for his school and his university, 
 and he had won medals for long-distance swimming.  
 
-605
+612
 00:56:33,360 --> 00:56:37,280
 Even now, at home, he tried to get to 
 the local pool at least twice a week. 
 
-606
+613
 00:56:38,480 --> 00:56:42,560
 When he got back to the beach hotel, 
 he was feeling tired but refreshed.  
 
-607
+614
 00:56:42,560 --> 00:56:48,400
 He'd caught the sun too, and his forehead and 
 nose were burnt. He found Lynn sitting on a sun  
 
-608
+615
 00:56:48,400 --> 00:56:53,760
 lounger by a small pool with fountains. She 
 was reading and sipping another fruit punch. 
 
-609
+616
 00:56:54,800 --> 00:56:58,240
 "Hello, you. I thought I'd 
 find you here," he said. 
 
-610
+617
 00:56:58,240 --> 00:57:00,960
 "Oh, hi. How was it?"
 "Brilliant." 
 
-611
+618
 00:57:02,000 --> 00:57:07,120
 "You've caught the sun."
 "I know. I forgot to take some decent sun block.  
 
-612
+619
 00:57:07,120 --> 00:57:10,080
 I borrowed some off the guys on the 
 boat, but I think it was too late." 
 
-613
+620
 00:57:10,960 --> 00:57:13,760
 "Here," she said, reaching 
 for some cream in her bag.  
 
-614
+621
 00:57:14,880 --> 00:57:20,240
 "Use some of this." She passed him a tube 
 of cream and Eddie squeezed some into his  
 
-615
+622
 00:57:20,240 --> 00:57:24,880
 hand and rubbed it on his face.
 "How was the tennis?" he asked. 
 
-616
+623
 00:57:24,880 --> 00:57:28,960
 "It was cancelled. The guy never turned up, 
 and it was too late to get another trainer." 
 
-617
+624
 00:57:29,840 --> 00:57:32,800
 "Really? That's not good. 
 We've already paid for it." 
 
-618
+625
 00:57:33,440 --> 00:57:37,280
 "I know," said Lynn, "but they're 
 giving us lunch for free instead,  
 
-619
+626
 00:57:37,280 --> 00:57:42,000
 so I don't mind really. I'm booked for tennis 
 again in St Lucia in a few days, so that's OK." 
 
-620
+627
 00:57:42,720 --> 00:57:48,880
 He mocked her: "Listen to you! I 'm booked 
 for tennis again in St Lucia in a few days,  
 
-621
+628
 00:57:48,880 --> 00:57:52,560
 she says, sipping her cocktail." Then he said,  
 
-622
+629
 00:57:52,560 --> 00:57:57,200
 "This is the life, eh?"
 "It certainly is. Oh, look, here's Jen." 
 
-623
+630
 00:57:58,240 --> 00:58:02,480
 "Who's Jen?" asked Eddie, looking 
 around. He thought she looked familiar. 
 
-624
+631
 00:58:03,120 --> 00:58:07,200
 "She was booked for the tennis as well, so we 
 came here for a drink instead and we started  
 
-625
+632
 00:58:07,200 --> 00:58:12,080
 chatting. You'll never guess who she is."
 "I know her, don't I?" asked Eddie. 
 
-626
+633
 00:58:12,800 --> 00:58:16,880
 "Yes and no. The same thing happened 
 to me when I first saw her." 
 
-627
+634
 00:58:16,880 --> 00:58:22,080
 "She's from the ship. She must be," he said. Jen 
 was almost at the pool where they were sitting. 
 
-628
+635
 00:58:23,360 --> 00:58:26,480
 "Yes. Not only that. She's 
 the singer in the band!" 
 
-629
+636
 00:58:27,520 --> 00:58:33,760
 "Oh yes!" said Eddie, turning to meet her. 
 She had on wide sunglasses and a baseball cap.  
 
-630
+637
 00:58:34,400 --> 00:58:38,720
 She wore a colourful sarong with palm 
 tree patterns, and her T-shirt was orange  
 
-631
+638
 00:58:38,720 --> 00:58:44,160
 with a black saxophone logo. She was carrying a 
 drink in one hand and a cigarette in the other. 
 
-632
+639
 00:58:45,200 --> 00:58:51,600
 "Hi, Lynn. Is this your man then?" asked Jen.
 "Yes, this is Eddie. Eddie, this is Jen." 
 
-633
+640
 00:58:52,800 --> 00:58:55,600
 "Nice to meet you, Jen," 
 Eddie said, shaking her hand. 
 
-634
+641
 00:58:56,640 --> 00:59:02,560
 "Likewise," she said. "How was the boat trip?"
 "Great, thanks. They took us around some  
 
-635
+642
 00:59:02,560 --> 00:59:06,720
 fabulous beaches. Then we stopped and 
 swam off the reef near an old shipwreck." 
 
-636
+643
 00:59:07,360 --> 00:59:11,040
 "Cool!" said Jen.
 "Some stingrays came by and  
 
-637
+644
 00:59:11,040 --> 00:59:14,880
 we were given some food for them."
 "Oh, I'd love to do that,  
 
-638
+645
 00:59:14,880 --> 00:59:19,680
 but I'd be terrified," said Jen.
 "They're not that dangerous actually,  
 
-639
+646
 00:59:19,680 --> 00:59:23,360
 although they can give you a nasty bite."
 "Ugh!" said Lynn. 
 
-640
+647
 00:59:23,920 --> 00:59:29,360
 "Or sting with their tail," added Jen.
 "Yeah, well, that's true. It's rare, though," said  
 
-641
+648
 00:59:29,360 --> 00:59:34,160
 Eddie. "That usually happens if you stand on one 
 when they're buried in the sand in shallow water." 
 
-642
+649
 00:59:35,040 --> 00:59:38,880
 "Aren't you afraid of sharks?" asked 
 Jen, lifting up her sunglasses. 
 
-643
+650
 00:59:39,600 --> 00:59:42,640
 "I try not to stand on 
 sharks," said Eddie, smiling. 
 
-644
+651
 00:59:43,280 --> 00:59:46,320
 "You know what I mean."
 "There weren't any in the  
 
-645
+652
 00:59:46,320 --> 00:59:50,160
 area we were in," said Eddie, sitting 
 down on a sun lounger next to his wife. 
 
-646
+653
 00:59:51,040 --> 00:59:55,040
 "How do you know?" asked Lynn.
 "Well, you don't. You have to  
 
-647
+654
 00:59:55,040 --> 00:59:58,640
 hope that there aren't any."
 "You must be mad," said Jen. 
 
-648
+655
 00:59:59,680 --> 01:00:03,360
 "It's worth it. The fish you can 
 see near the reef are so beautiful." 
 
-649
+656
 01:00:04,240 --> 01:00:07,440
 "Well, Jen and I have been doing as 
 little as possible, haven't we, Jen?" 
 
-650
+657
 01:00:08,000 --> 01:00:12,000
 "Absolutely," said Jen, sitting back 
 on her lounger and sipping her drink. 
 
-651
+658
 01:00:13,120 --> 01:00:15,120
 "So, no tennis, then?" asked Eddie. 
 
-652
+659
 01:00:15,920 --> 01:00:19,520
 "No," said Jen. "But we get 
 a free lunch," she added. 
 
-653
+660
 01:00:20,080 --> 01:00:22,720
 "So I heard," said Eddie. 
 "What are you doing later?" 
 
-654
+661
 01:00:23,600 --> 01:00:28,080
 "Well, my partner will be here soon and 
 we're booked to go on the Island Safari." 
 
-655
+662
 01:00:28,080 --> 01:00:33,120
 "Oh, I saw that in the brochure," said Lynn. "Is 
 that the trip where you get a private jeep and go  
 
-656
+663
 01:00:33,120 --> 01:00:38,880
 around the island and see the Wildlife Reserve?"
 "Yes, that's it. I love all the animal trips.  
 
-657
+664
 01:00:38,880 --> 01:00:44,240
 I can't wait. Dominic isn't keen at all, but he 
 says he doesn't mind as long as he gets his golf,  
 
-658
+665
 01:00:45,200 --> 01:00:52,400
 Typical! It's like he's married to the stupid 
 game. I find it so dull. He loves it, though.  
 
-659
+666
 01:00:52,400 --> 01:00:56,160
 Do you play golf, Eddie?"
  
  
-CHAPTER EIGHT 
+CHAPTER EIGHT
 
-660
-01:00:56,160 --> 01:01:01,600
+667
+01:00:56,160 --> 01:00:57,200
 Eddie's departure
-"So, what's your position?" asked Clive  
 
-661
-01:01:01,600 --> 01:01:06,800
-later that evening at Eddie house. Eddie had come 
-straight home after the meeting and no one had  
+668
+01:00:58,800 --> 01:01:03,200
+"So, what's your position?" asked Clive 
+later that evening at Eddie house.  
 
-662
-01:01:06,800 --> 01:01:12,320
-been able to reach him. Clive had been worried, 
-and so he ha called in to see Eddie after work. 
+669
+01:01:04,000 --> 01:01:07,760
+Eddie had come straight home after the 
+meeting and no one had been able to reach him.  
 
-663
+670
+01:01:08,400 --> 01:01:12,320
+Clive had been worried, and so he ha 
+called in to see Eddie after work. 
+
+671
 01:01:13,600 --> 01:01:19,040
 "That's what I said," replied Eddie.
 "And what did he say?" asked Clive. 
 
-664
+672
 01:01:19,840 --> 01:01:26,080
 Lynn, clearly angry and upset, interrupted at 
 this point to add, "Oh Clive, listen to this..." 
 
-665
+673
 01:01:27,040 --> 01:01:34,080
 Eddie was trying to stay calm. He was in shock. 
 "He couldn't give me a straight answer. He went on  
 
-666
+674
 01:01:34,080 --> 01:01:38,880
 and on about budget control, an Neal's experience 
 in Austria when he was with Gallagher's." 
 
-667
+675
 01:01:39,520 --> 01:01:43,920
 "Neal doesn't do anything. And 
 Austria is very different from Russia.  
 
-668
+676
 01:01:43,920 --> 01:01:47,520
 Doesn't he realize that? This 
 project is completely different." 
 
-669
+677
 01:01:48,160 --> 01:01:53,440
 "I know, Clive, I said all that. There was 
 nothing I could say. When I got a chance to speak,  
 
-670
+678
 01:01:53,440 --> 01:01:58,480
 he either didn't listen or simply interrupted. 
 Or Neal joined in with a useless reason to  
 
-671
+679
 01:01:58,480 --> 01:02:03,920
 justify himself. It was pathetic to watch."
 "No one at Gallagher's has a good word to say  
 
-672
+680
 01:02:03,920 --> 01:02:09,040
 about Neal, or the work he did in Austria. 
 In fact, the rumor is that he was sacked  
 
-673
+681
 01:02:09,040 --> 01:02:14,560
 because he messed it up. That's how he got into 
 Fenton's in the first place. He needed a job  
 
-674
+682
 01:02:14,560 --> 01:02:18,160
 and Dominic is an old mate of his 
 from university. It makes me sick." 
 
-675
+683
 01:02:19,200 --> 01:02:24,400
 "I know." That was all Eddie could say. 
 He was so tired. He rubbed his eyes. 
 
-676
+684
 01:02:25,360 --> 01:02:30,000
 "So there's no position for you?" asked 
 Clive, but he could see the answer coming. 
 
-677
+685
 01:02:30,800 --> 01:02:34,400
 "Right," said Eddie.
 "They're making you redundant, then?" 
 
-678
+686
 01:02:35,280 --> 01:02:38,720
 "No."
 Clive was confused,  
 
-679
+687
 01:02:38,720 --> 01:02:42,880
 and Eddie could not bring himself to 
 say any more. So Lynn continued for him.  
 
-680
+688
 01:02:43,680 --> 01:02:47,840
 "They fired him," she said.
 There was a brief silence. 
 
-681
+689
 01:02:48,800 --> 01:02:53,840
 "They what"
 "Can you believe it? It's disgusting," said Lynn. 
 
-682
+690
 01:02:54,640 --> 01:02:57,760
 Clive turned to Eddie. "I 
 don't believe it," he said. 
 
-683
+691
 01:02:58,720 --> 01:03:03,520
 "Neither do I," said Eddie, staring into space.
 "Fired for what?" 
 
-684
+692
 01:03:04,560 --> 01:03:09,040
 "He's using the issue about the 
 25,000 pounds in last year's budget,  
 
-685
+693
 01:03:09,040 --> 01:03:13,440
 but he also said I was a negative influence 
 on the project and not hands-on enough'." 
 
-686
+694
 01:03:14,320 --> 01:03:20,960
 "You have got to be joking!" Neither Eddie 
 nor Lynn said anything. It was no joke. 
 
-687
+695
 01:03:21,680 --> 01:03:26,400
 "You're very hands-on. The other day he 
 said you were too hands-on, didn't he?" 
 
-688
+696
 01:03:26,960 --> 01:03:30,000
 "Exactly," said Eddie.
 "And in what way are you  
 
-689
+697
 01:03:30,000 --> 01:03:35,600
 negative? You are more enthusiastic and positive 
 than the two of them put together," said Clive. 
 
-690
+698
 01:03:36,240 --> 01:03:41,680
 Eddie didn't say anything.
 "He just wants a yes-man," continued Clive.  
 
-691
+699
 01:03:41,680 --> 01:03:46,720
 "Neal is the true corporate yes-man. He 
 plays the game and does what he's told.  
 
-692
+700
 01:03:46,720 --> 01:03:51,040
 But he's useless otherwise, and too 
 frightened to say anything and rock the boat." 
 
-693
+701
 01:03:51,760 --> 01:03:56,160
 "Who would want to be like that?"
 "These guys think they're above everyone else.  
 
-694
+702
 01:03:56,160 --> 01:04:00,640
 It's as simple as that. They have no idea 
 what other people really think of them.  
 
-695
+703
 01:04:01,200 --> 01:04:06,480
 They either scare you so you won't tell them, or 
 they just talk over you in case they look weak." 
 
-696
+704
 01:04:07,600 --> 01:04:11,840
 "Meanwhile, Neal gets a job 
 and Eddie doesn't," said Lynn. 
 
-697
+705
 01:04:12,480 --> 01:04:18,160
 "It's funny, but I really don't care anymore," 
 said Eddie. "They deserve each other. I don't want  
 
-698
+706
 01:04:18,160 --> 01:04:25,360
 to be a part of their grey world with their grey 
 suits and grey ideas. They have no imagination.  
 
-699
+707
 01:04:25,360 --> 01:04:32,640
 Only a selfish need to justify themselves."
 "They can't do this, surely?" Lynn asked Clive. 
 
-700
+708
 01:04:33,200 --> 01:04:37,040
 "They can and they have."
 "But it's unfair dismissal.  
 
-701
+709
 01:04:37,040 --> 01:04:41,760
 You can take them to a tribunal."
 "I'm not sure I can cope with that," said Eddie. 
 
-702
+710
 01:04:41,760 --> 01:04:44,880
 "But you have to," said Lynn. 
 "You've got to fight it." 
 
-703
+711
 01:04:45,920 --> 01:04:50,240
 "All I do with him is fight. Now 
 he has Neal to do his fighting.  
 
-704
+712
 01:04:50,240 --> 01:04:53,840
 And he says he has the full support 
 of Ann and Gary, so they're no help." 
 
-705
+713
 01:04:55,040 --> 01:04:58,640
 "You should have played more golf, 
 Ed," said Clive sarcastically. 
 
-706
+714
 01:04:59,440 --> 01:05:03,920
 Eddie thought about that for a moment 
 and then said, "Now that I have no job,  
 
-707
+715
 01:05:03,920 --> 01:05:10,400
 maybe I'll have the time."
 The next morning Eddie went into the office  
 
-708
+716
 01:05:10,400 --> 01:05:16,720
 early again to clear his desk. There were only a 
 few people there. He saw Adam from IT, who came  
 
-709
+717
 01:05:16,720 --> 01:05:22,720
 over to him. He noticed Eddie was busy emptying 
 drawers and throwing files and old documents away. 
 
-710
+718
 01:05:22,720 --> 01:05:28,080
 "Hi, Ed, how's it going? Doing a spring clean? 
 Good man. Long live the paperless office!" 
 
-711
+719
 01:05:28,960 --> 01:05:31,680
 "Not exactly, Adam. I'm 
 leaving, as a matter of fact." 
 
-712
+720
 01:05:32,400 --> 01:05:38,560
 "No way!" he said. "I had no idea."
 "Me neither," said Eddie, reaching for a  
 
-713
+721
 01:05:38,560 --> 01:05:42,960
 folder and glancing quickly at its contents. 
 He got halfway through and then threw the  
 
-714
+722
 01:05:42,960 --> 01:05:45,760
 folder into the bin.
 "What's happened?" 
 
-715
+723
 01:05:46,880 --> 01:05:52,400
 "I was fired yesterday," said Eddie. The 
 words sounded unreal when they came out. 
 
-716
+724
 01:05:52,400 --> 01:05:55,040
 "What for?"
 "Oh, it doesn't matter." 
 
-717
+725
 01:05:55,840 --> 01:05:58,560
 "You're one of the best 
 people here, Ed. I mean it." 
 
-718
+726
 01:05:59,600 --> 01:06:03,840
 "Thanks, Adam, but they don't want 
 the best here. They just want..."  
 
-719
+727
 01:06:04,560 --> 01:06:08,240
 Eddie stopped for a moment and looked 
 across the office, deep in thought.  
 
-720
+728
 01:06:09,120 --> 01:06:16,080
 "You know what, Adam, I have absolutely no idea 
 what they want." He turned and looked at Adam.  
 
-721
+729
 01:06:16,080 --> 01:06:18,480
 "And do you know what the worst thing is?"
 "What?" 
 
-722
+730
 01:06:19,440 --> 01:06:24,800
 "They don't know either. My guess is they just 
 want to be in charge. Nothing else matters.  
 
-723
+731
 01:06:24,800 --> 01:06:27,680
 They just want to move people 
 around and feel important,"  
 
-724
+732
 01:06:28,320 --> 01:06:32,720
 said Eddie, slamming a cupboard door shut 
 and pushing his chair away from the desk.  
 
-725
+733
 01:06:33,360 --> 01:06:38,880
 "They don't think about the people, their work, 
 their customers. They don't care about loyalty.  
 
-726
+734
 01:06:38,880 --> 01:06:44,080
 They don't care about building a business. 
 They talk, have meetings and play golf,  
 
-727
+735
 01:06:44,080 --> 01:06:48,400
 but they don't know the business and 
 they know they need us to make it work." 
 
-728
+736
 01:06:49,200 --> 01:06:54,880
 "You know your problem," came a voice from behind 
 them. "You were never a corporate man, Eddie." 
 
-729
+737
 01:06:55,680 --> 01:07:01,200
 It was Neal. Eddie was completely taken 
 by surprise. He was both embarrassed and  
 
-730
+738
 01:07:01,200 --> 01:07:05,920
 furious to see him standing there.
 Adam started walking away. "Look,  
 
-731
+739
 01:07:05,920 --> 01:07:09,680
 Ed, I'll catch you later," he said. 
 "Let's have a drink before you go, OK?" 
 
-732
+740
 01:07:10,800 --> 01:07:14,960
 "Sure," said Eddie, who decided to 
 ignore Neal and finish clearing his desk. 
 
-733
+741
 01:07:16,480 --> 01:07:19,600
 "You need the skin of a crocodile 
 in this business, I'm telling you."  
 
-734
+742
 01:07:20,400 --> 01:07:26,160
 Eddie tried to ignore him and carried on throwing 
 away files, paper, software manuals. Everything. 
 
-735
+743
 01:07:27,120 --> 01:07:31,840
 "Besides," continued Neal, 
 "Dominic needs someone like me.  
 
-736
+744
 01:07:31,840 --> 01:07:39,760
 Someone more... academic. He needs someone who can 
 talk to him." Eddie stopped and looked at him. Was  
 
-737
+745
 01:07:39,760 --> 01:07:46,400
 there no end to Neal's patronizing arrogance?
 "Neal, you're deceiving yourself. Dominic  
 
-738
+746
 01:07:46,400 --> 01:07:51,120
 wants a yes-man. Pure and simple. 
 Now he's got one. Congratulations." 
 
-739
+747
 01:07:51,120 --> 01:07:55,840
 "You're upset."
 "No, really? Amazing. How did you guess?" 
 
-740
+748
 01:07:56,560 --> 01:08:00,320
 "Look, I don't have a problem 
 with you. It's nothing personal." 
 
-741
+749
 01:08:01,200 --> 01:08:07,440
 "That's so generous of you, Neal. I feel so much 
 better," said Eddie, moving up close to him. He  
 
-742
+750
 01:08:07,440 --> 01:08:13,600
 could smell Neal's stale cigarette breath. "Well, 
 I have a big problem with you, and, believe it or  
 
-743
+751
 01:08:13,600 --> 01:08:21,200
 not, I am taking this very personally. I guess I'm 
 human, not a crocodile. What would you rather be?" 
 
-744
+752
 01:08:22,080 --> 01:08:27,840
 "I know how you feel," said Neal.
 "You have no idea how I feel, and don't talk  
 
-745
+753
 01:08:27,840 --> 01:08:33,760
 to me about how to talk to people like Dominic. 
 He needs someone more academic, indeed. What does  
 
-746
+754
 01:08:33,760 --> 01:08:38,880
 that mean? And corporate. What is corporate?"
 "You have to play the game, Eddie." 
 
-747
+755
 01:08:39,440 --> 01:08:43,360
 "Maybe. But I'm not interested if 
 the end result is turning into a grey  
 
-748
+756
 01:08:43,360 --> 01:08:49,440
 yes-man like you. Ask yourself the question: 
 are you true to yourself? I wonder." 
 
-749
+757
 01:08:50,720 --> 01:08:57,360
 "Nice, Eddie. Very professional," said 
 Neal, finally showing his irritation. 
 
-750
+758
 01:08:57,360 --> 01:09:03,040
 "And you know all about professional, do you? 
 Open your eyes. Really open your eyes. Listen  
 
-751
+759
 01:09:03,040 --> 01:09:08,320
 to what people say about you. You're deceiving 
 yourself and I actually feel sorry for you.  
 
-752
+760
 01:09:08,320 --> 01:09:12,960
 And if you want a second opinion, go and ask 
 people here or your old friends at Gallagher's." 
 
-753
+761
 01:09:14,880 --> 01:09:20,320
 Neal was walking away now, so Eddie shouted after 
 him: "Did they give you a good reference, by the  
 
-754
+762
 01:09:20,320 --> 01:09:28,320
 way? It wasn't redundancy, was it?" Eddie carried 
 on putting things in his bag before sitting down  
 
-755
+763
 01:09:28,320 --> 01:09:33,840
 to write an email to all his customers and 
 colleagues to inform them of his departure.
  
-  
+ 
 
-756
-01:09:34,720 --> 01:09:36,400
+764
+01:09:34,720 --> 01:09:35,840
 CHAPTER NINE
-The fight 
 
-757
+765
+01:09:35,840 --> 01:09:36,400
+The fight
+
+766
 01:09:38,480 --> 01:09:44,880
 As Dominic Stephens came out of the hotel towards 
 them, Eddie froze. He looked at Lynn and her face  
 
-758
+767
 01:09:44,880 --> 01:09:50,880
 said the same. Before they could make an excuse 
 to leave, Dominic was already on the cafe terrace.  
 
-759
+768
 01:09:51,680 --> 01:09:56,080
 His hair was grey and combed back, 
 and he was wearing white trousers,  
 
-760
+769
 01:09:56,080 --> 01:10:01,920
 grey golf shoes and a green polo shirt 
 which was too tight for his large stomach. 
 
-761
+770
 01:10:01,920 --> 01:10:08,000
 It was definitely Dominic. The same hard face 
 but now with a dark tan, though his chin and  
 
-762
+771
 01:10:08,000 --> 01:10:12,800
 cheeks were fuller than the last time Eddie 
 had seen him. He looked older and different. 
 
-763
+772
 01:10:14,080 --> 01:10:19,120
 "Hello, everyone. New friends, I 
 see," he said, putting out his hand.  
 
-764
+773
 01:10:19,840 --> 01:10:25,760
 In a reflex action, Eddie noticed his hand go 
 out to shake Dominic's. He instantly felt he  
 
-765
+774
 01:10:25,760 --> 01:10:32,240
 had betrayed himself. Dominic's handshake had not 
 changed: his palm at an angle, the fingers locked  
 
-766
+775
 01:10:32,240 --> 01:10:39,520
 tight, difficult to grip. Do Not Enter, it said.
 Again, automatically, Eddie lifted his sunglasses  
 
-767
+776
 01:10:39,520 --> 01:10:45,040
 to be polite, but Dominic kept his on. Eddie 
 waited for the moment when Dominic would  
 
-768
+777
 01:10:45,040 --> 01:10:52,000
 recognise him. But he did not. This cannot be 
 true, he thought. Is this really Dominic? After  
 
-769
+778
 01:10:52,000 --> 01:10:57,760
 all this time, am I shaking hands with him 
 and he does not know me? He looked at Lynn,  
 
-770
+779
 01:10:57,760 --> 01:11:02,320
 who was shaking his hand, too. Eddie could 
 see that she was not comfortable either. 
 
-771
+780
 01:11:03,520 --> 01:11:06,880
 "Nice to meet you," she said, 
 putting on her best smile. 
 
-772
+781
 01:11:07,840 --> 01:11:11,840
 "How was the tennis?" Dominic asked, 
 leaning on the back of Jen's chair. 
 
-773
+782
 01:11:12,800 --> 01:11:18,160
 "Cancelled," she said. "Then I met Lynn and we've 
 been working hard on cocktails since we got here." 
 
-774
+783
 01:11:18,880 --> 01:11:21,440
 "Ah, it's a hard life," he said. 
 
-775
+784
 01:11:22,160 --> 01:11:28,160
 Yes, thought Eddie. It can be very hard. 
 And some people make it harder. His head  
 
-776
+785
 01:11:28,160 --> 01:11:32,320
 was quickly filling up with flashes 
 of memory. Angry words and images. 
 
-777
+786
 01:11:33,920 --> 01:11:37,120
 "So, what are you guys 
 going to do?" asked Dominic. 
 
-778
+787
 01:11:38,000 --> 01:11:40,640
 "Er, we've got to get back 
 to the ship," said Eddie. 
 
-779
+788
 01:11:41,280 --> 01:11:44,160
 "I thought you were staying 
 for the free lunch," said Jen. 
 
-780
+789
 01:11:44,160 --> 01:11:47,440
 "Ah, there's no such thing 
 as a free lunch, eh, Eddie?" 
 
-781
+790
 01:11:48,400 --> 01:11:52,160
 Eddie wasn't sure if Dominic had 
 recognised him. Maybe. Maybe not.  
 
-782
+791
 01:11:52,720 --> 01:11:57,280
 Or maybe he was unsure and was playing 
 for time? He never showed much emotion,  
 
-783
+792
 01:11:57,280 --> 01:12:00,160
 and behind the dark glasses 
 he looked almost robotic. 
 
-784
+793
 01:12:01,280 --> 01:12:07,360
 "I don't really know," said Eddie. He was still 
 trying to recover from the shock of Dominic  
 
-785
+794
 01:12:07,360 --> 01:12:13,600
 standing there in front of him after so long.
 "Sure. I've been in business twenty-five years  
 
-786
+795
 01:12:13,600 --> 01:12:19,040
 and I can tell you no lunch is free."
 "Right," said Eddie. "Right,  
 
-787
+796
 01:12:19,040 --> 01:12:23,360
 well, nice to meet you both."
 "Come on," said Jen, "stay for lunch." 
 
-788
+797
 01:12:24,240 --> 01:12:27,440
 "No, really, I've had too much 
 sun, I think," said Eddie. 
 
-789
+798
 01:12:28,000 --> 01:12:34,400
 "Well, we can sit in the shade," said Jen.
 "No, I mean I don't feel too well," Eddie said. 
 
-790
+799
 01:12:35,120 --> 01:12:40,160
 "Hmm..." said Dominic, finally lifting 
 up his glasses and having a good look at  
 
-791
+800
 01:12:40,160 --> 01:12:45,680
 Eddie's face, "... your nose is burnt, 
 but you do look quite pale otherwise.  
 
-792
+801
 01:12:46,400 --> 01:12:51,120
 You look like you've seen a ghost."
 Eddie looked into Dominic's eyes.  
 
-793
+802
 01:12:51,840 --> 01:12:59,600
 He did not see any signs of recognition. He 
 looked away. "Right. Yes. Anyway. Lynn?" he said. 
 
-794
+803
 01:13:00,160 --> 01:13:05,200
 "Yes," she said, standing up. "I'm coming."
 "Well, maybe we could meet for a drink  
 
-795
+804
 01:13:05,200 --> 01:13:11,120
 after I finish tonight?" asked Jen.
 "She's a great singer, isn't she?" said Dominic. 
 
-796
+805
 01:13:11,120 --> 01:13:14,560
 "Yes," said Eddie.
 "Wonderful," said Lynn. 
 
-797
+806
 01:13:15,360 --> 01:13:19,360
 'I'm off at about eleven, so I'll come over 
 to the bar and we can meet you both then." 
 
-798
+807
 01:13:20,480 --> 01:13:27,040
 "We'll see how Ed feels," said Lynn.
 Sure. Well, tomorrow then? Or breakfast?"  
 
-799
+808
 01:13:28,080 --> 01:13:32,640
 Dominic was laughing. "We're stuck together 
 on the ship for the next two weeks,  
 
-800
+809
 01:13:32,640 --> 01:13:38,560
 so there's no getting away, is there?"
 Eddie had never imagined Dominic on holiday.  
 
-801
+810
 01:13:39,120 --> 01:13:44,880
 He only remembered that Dominic always came back 
 from holidays complaining about the children. "Ah,  
 
-802
+811
 01:13:44,880 --> 01:13:48,960
 it's good to be back in the office," 
 he used to say, "away, from the kids."  
 
-803
+812
 01:13:49,920 --> 01:13:53,440
 Eddie felt sorry for Dominic's family 
 whenever he heard him say that. 
 
-804
+813
 01:13:54,960 --> 01:14:00,000
 "What would his kids say if they heard him 
 say that?" Eddie had once asked Clive. "Why  
 
-805
+814
 01:14:00,000 --> 01:14:03,440
 did he have kids or a family at all 
 if he preferred to be in an office?" 
 
-806
+815
 01:14:04,240 --> 01:14:08,960
 "Because these guys like to be the center 
 of the universe, and kids and partners take  
 
-807
+816
 01:14:08,960 --> 01:14:14,240
 that away from them. Besides, family life 
 and kids are all about showing emotion,  
 
-808
+817
 01:14:14,240 --> 01:14:20,080
 and they find it too scary. That's why they 
 hide behind desks and power. Can you imagine  
 
-809
+818
 01:14:20,080 --> 01:14:25,360
 Dominic or Neal trying to be with their kids? They 
 don't know how. They probably didn't know how to  
 
-810
+819
 01:14:25,360 --> 01:14:30,640
 be with kids when they were kids."
 "That's so sad," Eddie had said. 
 
-811
+820
 01:14:30,640 --> 01:14:36,160
 "They are sad. They've missed the best things 
 in life and think money and status are enough.  
 
-812
+821
 01:14:36,880 --> 01:14:40,560
 But they are so superior in their 
 own minds that they don't know it." 
 
-813
+822
 01:14:41,600 --> 01:14:44,080
 "So they're actually happy? 
 Ignorance is happiness?" 
 
-814
+823
 01:14:44,720 --> 01:14:50,480
 "Maybe. I'm not so sure. How often do you 
 see these guys relax, laugh or even smile?" 
 
-815
+824
 01:14:51,440 --> 01:14:55,840
 "True."
 "Well, there's your answer." 
 
-816
+825
 01:14:57,440 --> 01:15:02,800
 "Eddie?" Lynn's voice suddenly brought Eddie 
 back to reality. "Eddie? Are you coming?" 
 
-817
+826
 01:15:03,520 --> 01:15:09,840
 "Yeah. Sorry," he said. "See you guys later."
 "Bye," said Jen and Dominic together. 
 
-818
+827
 01:15:12,000 --> 01:15:14,720
 Eddie and Lynn walked back 
 through the hotel to the taxis.  
 
-819
+828
 01:15:15,520 --> 01:15:18,800
 As they went back to the port 
 and the ship, Lynn spoke first. 
 
-820
+829
 01:15:19,680 --> 01:15:22,400
 "Well?"
 "He looks older. He's  
 
-821
+830
 01:15:22,400 --> 01:15:27,840
 still got that arrogant look. And he's put on a 
 lot of weight." Eddie glanced out of the window. 
 
-822
+831
 01:15:28,400 --> 01:15:31,200
 "Are they married, do you think? 
 What happened to his wife?" 
 
-823
+832
 01:15:32,080 --> 01:15:35,680
 "Don't know," said Eddie. "I 
 hope she left him. For her sake." 
 
-824
+833
 01:15:36,640 --> 01:15:39,200
 "I wonder what Jen is doing 
 with a man like him, then?" 
 
-825
+834
 01:15:40,240 --> 01:15:42,640
 "Goodness knows. He's old 
 enough to be her father." 
 
-826
+835
 01:15:43,920 --> 01:15:47,360
 The taxi moved along the harbour 
 and passed the yachts in the marina.  
 
-827
+836
 01:15:47,920 --> 01:15:52,160
 Eddie was shaking his head in disbelief.
 "I don't believe it, Lynn,"  
 
-828
+837
 01:15:52,160 --> 01:15:56,800
 he said. "Can you believe it?"
 "No. But at least he doesn't remember you,"  
 
-829
+838
 01:15:56,800 --> 01:16:00,480
 she said, looking at him. Eddie 
 kept staring out of the window.  
 
-830
+839
 01:16:01,040 --> 01:16:07,120
 "Do you think not?" he said. "Oh, come on. It's 
 over sixteen years, Ed. If he had remembered you,  
 
-831
+840
 01:16:07,120 --> 01:16:12,160
 he would have said something - don't you think?"
 "Not necessarily. You never know with him. I  
 
-832
+841
 01:16:12,160 --> 01:16:17,840
 never knew with him. He's a snake. A fat 
 snake now, of course. But still a snake." 
 
-833
+842
 01:16:18,800 --> 01:16:22,640
 "Maybe he's changed," said Lynn hopefully.
 "I doubt it." 
 
-834
+843
 01:16:23,840 --> 01:16:29,600
 The taxi slowed down and stopped near the gangway 
 for the Parvina. They paid the driver and got out. 
 
-835
+844
 01:16:31,200 --> 01:16:36,640
 "It doesn't matter if he's an angel now. I'll 
 never forgive him. The three things I hate  
 
-836
+845
 01:16:36,640 --> 01:16:41,520
 most in the world are arrogance, bullying 
 and betrayal. He's guilty of all three." 
 
-837
+846
 01:16:42,400 --> 01:16:46,480
 "Well, let's hope he doesn't remember 
 you. We don't have to see them anyway." 
 
-838
+847
 01:16:47,120 --> 01:16:51,040
 "He's with the singer of the ship's 
 band, Lynn - we'll see him every night!"  
 
-839
+848
 01:16:52,400 --> 01:16:57,600
 Lynn walked in silence on to the ship and 
 into the reception deck. What could she say? 
 
-840
+849
 01:16:59,120 --> 01:17:03,360
 That night Eddie and Lynn had dinner in the 
 main dining room, which was full, as it was  
 
-841
+850
 01:17:03,360 --> 01:17:09,440
 every night. As the sun went down and the room got 
 darker, Eddie found it harder to see if Dominic  
 
-842
+851
 01:17:09,440 --> 01:17:16,160
 was in the room or not. Throughout dinner he had 
 expected him to turn up, but he was not there. 
 
-843
+852
 01:17:16,160 --> 01:17:20,080
 As they finished dessert and drank their 
 coffee, however, Dominic appeared and took  
 
-844
+853
 01:17:20,080 --> 01:17:24,320
 a seat at the bar to watch Jen.
 "There he is," said Eddie. 
 
-845
+854
 01:17:25,200 --> 01:17:30,000
 "Oh yes. Well, maybe we could go 
 back to the cabin, or the casino." 
 
-846
+855
 01:17:30,000 --> 01:17:32,960
 "No, Lynn. We're not letting 
 him push us around again." 
 
-847
+856
 01:17:33,920 --> 01:17:38,800
 "But he'll soon see us and come over."
 "I doubt it. He was always antisocial." 
 
-848
+857
 01:17:39,520 --> 01:17:42,320
 "Maybe he's changed."
 "You keep saying that.  
 
-849
+858
 01:17:42,880 --> 01:17:47,280
 People like him never change."
 Eddie sipped his coffee and said,  
 
-850
+859
 01:17:48,000 --> 01:17:52,000
 "I think I need to know for sure if he 
 remembers me. I'd feel a lot happier." 
 
-851
+860
 01:17:52,800 --> 01:17:57,840
 "But why, Ed? What good will that do?" she asked.
 "I can't explain." 
 
-852
+861
 01:17:58,960 --> 01:18:02,960
 "Eddie, please... Look, he's leaving 
 anyway. He's not going to bother us." 
 
-853
+862
 01:18:04,160 --> 01:18:06,720
 But Eddie had already got up 
 from the table and was walking  
 
-854
+863
 01:18:06,720 --> 01:18:12,560
 over to the bar and the exit to follow him.
 He followed Dominic down the corridor and past the  
 
-855
+864
 01:18:12,560 --> 01:18:18,400
 Starlight Lounge, where people were playing cards 
 and reading. He followed him through the door,  
 
-856
+865
 01:18:18,400 --> 01:18:23,520
 out on to the side deck and to the stern of 
 the ship. It was dark, and Eddie thought he  
 
-857
+866
 01:18:23,520 --> 01:18:30,640
 had lost him. But then he swelled the unmistakable 
 cigar smoke and he saw him. The earlier breeze had  
 
-858
+867
 01:18:30,640 --> 01:18:37,440
 been replaced by a strong wind and the sea was 
 quite rough. He noticed Dominic in a small area,  
 
-859
+868
 01:18:37,440 --> 01:18:41,760
 alone, sheltered from the wind, leaning 
 on to the rail and looking out to sea. 
 
-860
+869
 01:18:42,960 --> 01:18:48,880
 "Hello," said Eddie, walking up to him.
 "Oh, hello there. Getting some fresh air?" 
 
-861
+870
 01:18:49,840 --> 01:18:53,920
 "I suppose so."
 "Me too," said Dominic.  
 
-862
+871
 01:18:53,920 --> 01:18:57,200
 "Feeling better?" he asked.
 "Yes, thanks." 
 
-863
+872
 01:18:58,240 --> 01:19:02,720
 They both looked out to sea together for 
 a long minute. Eddie broke the silence. 
 
-864
+873
 01:19:03,920 --> 01:19:08,240
 "You don't remember me, do you?" 
 he asked, looking at Dominic. 
 
-865
+874
 01:19:08,240 --> 01:19:13,040
 "Yes, I just asked if you were feeling 
 better. We met at the hotel today.  
 
-866
+875
 01:19:13,040 --> 01:19:18,240
 Your wife's tennis was cancelled."
 "No, not here. Back home. At work." 
 
-867
+876
 01:19:19,360 --> 01:19:23,040
 "What do you mean?" asked Dominic, 
 looking at Eddie. "Where?" 
 
-868
+877
 01:19:25,040 --> 01:19:27,280
 Eddie knew Dominic had been in many companies.  
 
-869
+878
 01:19:27,920 --> 01:19:32,720
 Creeping his way in, then getting thrown 
 out. Dominic called them redundancies.  
 
-870
+879
 01:19:32,720 --> 01:19:35,840
 Others knew better.
 "Fenton's." 
 
-871
+880
 01:19:37,120 --> 01:19:41,600
 Dominic looked at him and then looked harder, 
 using the light coming from the spotlight on the  
 
-872
+881
 01:19:41,600 --> 01:19:46,080
 wall. "What's your surname?" he asked.
 "Munro." 
 
-873
+882
 01:19:47,360 --> 01:19:52,640
 Dominic appeared to be trying to remember.
 "I was in sales. There was the big  
 
-874
+883
 01:19:52,640 --> 01:19:59,120
 project at Zariya in Moscow."
 "Ah," said Dominic. "Eddie Munro.  
 
-875
+884
 01:19:59,760 --> 01:20:06,960
 Yes." He smoked his cigar some more, buying 
 time. "When was that?" he asked finally. 
 
-876
+885
 01:20:07,840 --> 01:20:12,640
 "Sixteen years ago."
 "Wow, good memory," said Dominic. 
 
-877
+886
 01:20:13,440 --> 01:20:18,480
 "Not really..." said Eddie, "... you fired 
 me and it's not something one forgets." 
 
-878
+887
 01:20:19,200 --> 01:20:25,360
 "Did I?" and Dominic actually laughed. Over 
 the years Eddie had imagined meeting him  
 
-879
+888
 01:20:25,360 --> 01:20:29,280
 again and confronting him. He had 
 never imagined the man laughing. 
 
-880
+889
 01:20:30,080 --> 01:20:35,280
 "You did, yes. You found a way to blame 
 me for a budget loss of 25,000 pounds." 
 
-881
+890
 01:20:36,080 --> 01:20:41,200
 "It's a long time ago. I honestly can't 
 remember," said Dominic, still smoking,  
 
-882
+891
 01:20:41,200 --> 01:20:46,720
 looking back at the sea. Eddie was staring 
 at him. His mouth was dry. He was trembling. 
 
-883
+892
 01:20:47,440 --> 01:20:50,880
 "Well, I remember."
 "Good for you,"  
 
-884
+893
 01:20:51,520 --> 01:20:56,480
 said Dominic, and now his tone was changing.
 Less interested. Colder. 
 
-885
+894
 01:20:57,760 --> 01:21:02,480
 "Actually, I remember you were an incompetent 
 bully. You made my life miserable." 
 
-886
+895
 01:21:03,600 --> 01:21:10,240
 Dominic turned around and looked at Eddie. "Is 
 that so?" It was too dark to see if he was angry  
 
-887
+896
 01:21:10,240 --> 01:21:15,680
 or not. Eddie felt that the situation was getting 
 out of control, but there was no turning back.  
 
-888
+897
 01:21:15,680 --> 01:21:21,680
 The words were coming out on their own.
 "I was very successful at Fenton's," said Dominic  
 
-889
+898
 01:21:21,680 --> 01:21:27,840
 firmly, "and one reason was probably because I 
 was able to get rid of useless rubbish like you." 
 
-890
+899
 01:21:28,880 --> 01:21:32,480
 "They fired you from there 
 eventually, I heard. Why was that?" 
 
-891
+900
 01:21:33,200 --> 01:21:38,560
 Dominic started walking away. "An 
 interesting reunion, my friend, but it's late  
 
-892
+901
 01:21:39,120 --> 01:21:44,720
 and I'm bored with this conversation. I suggest 
 you leave the past in the past and move on." 
 
-893
+902
 01:21:45,440 --> 01:21:48,960
 Eddie grabbed his arm. He 
 felt Dominic's body stiffen. 
 
-894
+903
 01:21:48,960 --> 01:21:53,840
 "Get your hands off me," Dominic said, putting 
 his cigar in his mouth to free his hand. 
 
-895
+904
 01:21:54,480 --> 01:22:01,600
 "I moved on, Dominic. I moved on after you 
 took away my job, my money, my peace of mind  
 
-896
+905
 01:22:01,600 --> 01:22:05,680
 and almost my wife."
 Eddie was angry now.  
 
-897
+906
 01:22:05,680 --> 01:22:07,760
 The words were not coming out right any more. 
 
-898
+907
 01:22:08,320 --> 01:22:14,320
 "I've seen your wife, Eddie," Dominic 
 said, laughing. "I can tell you that you  
 
-899
+908
 01:22:14,320 --> 01:22:18,000
 still need to move on."
 "What does that mean?"  
 
-900
+909
 01:22:18,960 --> 01:22:23,840
 This time Eddie pushed him against the rail of 
 the ship and hit the cigar out of Dominic's mouth.  
 
-901
+910
 01:22:25,040 --> 01:22:30,240
 The light was shining on Dominic's face, and 
 Eddie saw a mixture of surprise and anger. 
 
-902
+911
 01:22:30,240 --> 01:22:36,800
 "Hey! What is your problem?!" he shouted, but they 
 were out on deck in the wind and darkness and it  
 
-903
+912
 01:22:36,800 --> 01:22:41,680
 was like a whisper. Dominic pushed back against 
 the rail, but Eddie would not let him move. 
 
-904
+913
 01:22:42,320 --> 01:22:49,600
 "You! You are my problem!" Eddie shouted. He had 
 no idea what he was doing any more. He was scared,  
 
-905
+914
 01:22:49,600 --> 01:22:55,520
 and angrier than he had been for a long time.
 "Move away, Eddie. This is unacceptable." 
 
-906
+915
 01:22:56,320 --> 01:23:03,760
 "Unacceptable? Unacceptable? Oh, really? So, after 
 all these years you know what is acceptable and  
 
-907
+916
 01:23:03,760 --> 01:23:10,560
 unacceptable. What you and Neal Skinner did to 
 me was unacceptable. The way you patronized and  
 
-908
+917
 01:23:10,560 --> 01:23:18,240
 intimidated me was unacceptable. You cheated 
 and lied. You were so smug, so superior." 
 
-909
+918
 01:23:18,240 --> 01:23:24,400
 "I was the boss. I made tough decisions. You 
 were a casualty. It happens in business. Sink  
 
-910
+919
 01:23:24,400 --> 01:23:28,960
 or swim, my friend. Get over it."
 Without thinking, Eddie brought  
 
-911
+920
 01:23:28,960 --> 01:23:35,600
 his knee hard and fast up into Dominic's groin. 
 Dominic shouted out in shock and blinding pain,  
 
-912
+921
 01:23:35,600 --> 01:23:41,280
 but was able to push his hand hard into Eddie's 
 face. Eddie lost his balance for a moment, giving  
 
-913
+922
 01:23:41,280 --> 01:23:47,520
 Dominic time to stand up straight. Dominic pushed 
 Eddie in the chest, but Eddie did not feel it.  
 
-914
+923
 01:23:47,520 --> 01:23:53,760
 He was too busy getting his hands around Dominic's 
 neck. He squeezed and squeezed, and Dominic tried  
 
-915
+924
 01:23:53,760 --> 01:23:59,440
 to get himself free. But he could not. Eddie's 
 hands were locked around Dominic's throat.  
 
-916
+925
 01:23:59,440 --> 01:24:04,720
 He dug in his nails to be sure. He pressed 
 his thumbs. Dominic was trying to speak,  
 
-917
+926
 01:24:04,720 --> 01:24:09,040
 but he couldn't. He choked out some words 
 but Eddie could make no sense of them. 
 
-918
+927
 01:24:09,600 --> 01:24:17,520
 "Just shut up! Shut up! You stupid... 
 arrogant man!" Eddie growled at him. 
 
-919
+928
 01:24:18,320 --> 01:24:22,400
 Eddie could finally see fear in 
 Dominic's face, which had gone pale,  
 
-920
+929
 01:24:22,400 --> 01:24:27,760
 and his eyes stared back at him. Eddie could see 
 he was going to pass out, so he loosened his grip.  
 
-921
+930
 01:24:28,640 --> 01:24:31,680
 What am I doing? he thought. This is madness. 
 
-922
+931
 01:24:32,640 --> 01:24:38,480
 But the moment he let go, pain suddenly shot into 
 Eddie's ear as Dominic threw a punch to the right  
 
-923
+932
 01:24:38,480 --> 01:24:45,680
 side of Eddie's head, and then to his right side 
 into his ribs. Eddie was wild and angry once more,  
 
-924
+933
 01:24:45,680 --> 01:24:50,480
 this time pushing Dominic back on to the 
 ship's rail. Hard against the rail. Fast  
 
-925
+934
 01:24:50,480 --> 01:24:55,840
 against the rail. Dominic shouting in pain 
 once more. Eddie punching and punching. 
 
-926
+935
 01:24:57,120 --> 01:25:05,440
 "OK, OK, enough, enough. Stop," pleaded 
 Dominic, his arms up in defense. 
 
-927
+936
 01:25:06,720 --> 01:25:12,720
 Eddie stopped. He loosened his grip again and 
 waited for a reaction from Dominic, but none came.  
 
-928
+937
 01:25:13,760 --> 01:25:19,200
 Eddie stood back and watched Dominic try 
 to stand up against the rail. Dominic was  
 
-929
+938
 01:25:19,200 --> 01:25:26,320
 holding his stomach and breathing heavily. He 
 coughed a couple of times. His head was down. 
 
-930
+939
 01:25:26,320 --> 01:25:30,800
 Eddie was out of breath himself. He hadn't 
 been in a fight since he was fifteen.  
 
-931
+940
 01:25:31,440 --> 01:25:34,800
 It felt just the same even as an adult - tiring,  
 
-932
+941
 01:25:34,800 --> 01:25:40,640
 frightening and sore. That time there was a 
 crowd watching. This time there was no one. 
 
-933
+942
 01:25:42,320 --> 01:25:48,720
 "Don't come near me or speak to 
 me again... ever. Do you hear me?" 
 
-934
+943
 01:25:50,320 --> 01:25:56,480
 Dominic was still trying to get his breath. Either 
 he could not speak or he did not want to. But he  
 
-935
+944
 01:25:56,480 --> 01:26:02,320
 said nothing. Eddie took one last look at him 
 and backed away until he was at a safe distance.  
 
-936
+945
 01:26:03,200 --> 01:26:05,680
 Then he left the deck and went back inside. 
 
-937
+946
 01:26:07,120 --> 01:26:10,720
 That was the last time anyone 
 ever saw Dominic Stephens.
  
-  
+ 
 
-938
-01:26:12,480 --> 01:26:15,040
+947
+01:26:12,480 --> 01:26:13,200
 CHAPTER TEN
-Sinking not swimming 
 
-939
+948
+01:26:13,760 --> 01:26:15,040
+Sinking not swimming
+
+949
 01:26:17,200 --> 01:26:21,840
 For a few days after his dismissal from 
 Fenton's, Eddie actually felt quite excited.  
 
-940
+950
 01:26:22,400 --> 01:26:26,000
 He was relieved. A great weight 
 had been lifted from his shoulders.  
 
-941
+951
 01:26:26,640 --> 01:26:32,240
 But this feeling did not last long, and he soon 
 started to feel irritable and, later on, angry. 
 
-942
+952
 01:26:34,080 --> 01:26:39,600
 For weeks he couldn't get Fenton's and Neal 
 and Dominic out of his mind. He thought over  
 
-943
+953
 01:26:39,600 --> 01:26:45,200
 and over again about the injustice of it all. He 
 thought about all the arguments and frustrations.  
 
-944
+954
 01:26:45,840 --> 01:26:51,680
 All the work he had done. All the work he could 
 have done. Wasted. He missed his colleagues and  
 
-945
+955
 01:26:51,680 --> 01:26:55,920
 a sense of belonging, and he missed going to 
 Russia and working with Dima and the team. 
 
-946
+956
 01:26:57,600 --> 01:27:02,720
 To cheer himself up, he tried to remind himself 
 that, apart from people like Dominic, there were  
 
-947
+957
 01:27:02,720 --> 01:27:09,280
 things he would not miss, like emails. On the 
 day Eddie left Fenton's for the last time, there  
 
-948
+958
 01:27:09,280 --> 01:27:15,520
 were over four hundred unanswered emails in his 
 inbox. Eddie always tried to get back to people,  
 
-949
+959
 01:27:16,080 --> 01:27:21,760
 but it had become impossible. Every time he got 
 rid of one email, a dozen more would appear within  
 
-950
+960
 01:27:21,760 --> 01:27:28,240
 half an hour. The world had gone mad, he thought. 
 At first, like everyone else, Eddie had welcomed  
 
-951
+961
 01:27:28,240 --> 01:27:34,880
 the new form of communication. It was neat, cheap, 
 fast and flexible. But soon it dragged him down.  
 
-952
+962
 01:27:35,680 --> 01:27:40,960
 He didn't like to admit it, but Dominic was right 
 about not reading emails. They were never-ending. 
 
-953
+963
 01:27:42,080 --> 01:27:46,320
 Dominic.
 Back in his mind again. 
 
-954
+964
 01:27:46,320 --> 01:27:50,240
 Many times he had terrible thoughts about 
 what he would like to do to Dominic,  
 
-955
+965
 01:27:50,240 --> 01:27:54,480
 and to Neal for that matter. He thought 
 of storming into the office and using  
 
-956
+966
 01:27:54,480 --> 01:27:58,320
 Dominic's own golf clubs to smash 
 up computers and break windows,  
 
-957
+967
 01:27:58,880 --> 01:28:04,720
 and then going into the car park and doing his 
 worst on Dominic's Mercedes. The shiny paintwork,  
 
-958
+968
 01:28:04,720 --> 01:28:11,200
 the windows - all slashed, scratched and broken. 
 It felt good but his conscience would not let him. 
 
-959
+969
 01:28:13,200 --> 01:28:17,840
 In the end, he followed Lynn's advice, which was 
 to get out of the house more and go for walks,  
 
-960
+970
 01:28:17,840 --> 01:28:24,560
 or go swimming. Keep busy. Get some exercise. They 
 lived two miles from their local sports center,  
 
-961
+971
 01:28:24,560 --> 01:28:29,280
 so every morning Eddie got up with Lynn and then 
 walked through the park to the pool at the sports  
 
-962
+972
 01:28:29,280 --> 01:28:34,480
 center. He made this his morning routine, but he 
 couldn't get used to being in a swimming pool on  
 
-963
+973
 01:28:34,480 --> 01:28:40,720
 a weekday morning at 10 a.m. He normally swam 
 after work, so it was strange for him to find  
 
-964
+974
 01:28:40,720 --> 01:28:45,920
 the pool almost empty, except for some elderly 
 swimmers and sometimes small school groups.  
 
-965
+975
 01:28:47,040 --> 01:28:52,880
 As he sat in the cafe afterwards, drinking a 
 coffee or two, he always felt better. He wanted to  
 
-966
+976
 01:28:52,880 --> 01:28:58,240
 stay there all day and hide. Then his heart would 
 sink at the thought of heading home to nothing. 
 
-967
+977
 01:28:59,840 --> 01:29:05,440
 In fairness, Eddie had started looking for jobs in 
 the same week that he was fired. But as depression  
 
-968
+978
 01:29:05,440 --> 01:29:13,680
 set in, he lost interest and motivation. Then, 
 to his alarm, he lost confidence. In a way,  
 
-969
+979
 01:29:13,680 --> 01:29:18,400
 this was worse than the depression, but these 
 were all new feelings and he was overwhelmed.  
 
-970
+980
 01:29:19,280 --> 01:29:24,400
 Everything he had done seemed meaningless, and he 
 wondered how he would ever do a serious job again. 
 
-971
+981
 01:29:25,520 --> 01:29:29,120
 He and Lynn had enough money saved 
 to last for about four months,  
 
-972
+982
 01:29:29,680 --> 01:29:34,320
 but the time soon passed and there were 
 no vacancies. His chances with the best  
 
-973
+983
 01:29:34,320 --> 01:29:39,360
 companies in his sector were also harmed by the 
 news of his dismissal over the budget fiasco. 
 
-974
+984
 01:29:42,160 --> 01:29:46,800
 By the time there were a couple of 
 opportunities, Eddie was physically unwell  
 
-975
+985
 01:29:46,800 --> 01:29:52,560
 and his doctor had agreed he was not fit for work. 
 It took time for sickness benefits to be paid,  
 
-976
+986
 01:29:53,120 --> 01:29:57,840
 and with the two of them living on Lynn's small 
 teaching salary the financial pressures grew.  
 
-977
+987
 01:29:58,640 --> 01:30:05,040
 Bills turned into reminders. Reminders turned 
 into final reminders. And final reminders became  
 
-978
+988
 01:30:05,040 --> 01:30:10,400
 phone calls from angry gas and electricity 
 companies, TV companies and insurance companies.  
 
-979
+989
 01:30:11,280 --> 01:30:18,000
 Then finally the bank called. Eddie was having a 
 bad day anyway. This was the last thing he needed. 
 
-980
+990
 01:30:19,760 --> 01:30:26,720
 "Hello, Mr Munro, this is CNTS bank. May I ask you 
 some security questions?" said a young male voice. 
 
-981
+991
 01:30:27,520 --> 01:30:30,880
 "Not really," said Eddie. He 
 almost hung up straight away. 
 
-982
+992
 01:30:31,840 --> 01:30:35,760
 "I just want to ask you some security 
 questions and then talk to you about  
 
-983
+993
 01:30:35,760 --> 01:30:39,840
 your account," the voice insisted.
 "Well, how do I know you're the bank? You  
 
-984
+994
 01:30:39,840 --> 01:30:44,720
 could be anyone," said Eddie. He had decided 
 to stay on the phone, but he wasn't going to  
 
-985
+995
 01:30:44,720 --> 01:30:50,320
 make it easy for the person at the other end.
 "I can assure you this is the CNTS bank calling." 
 
-986
+996
 01:30:51,440 --> 01:30:55,520
 "OK, then, well I can assure you that 
 this is Mr Munro. What do you want?" 
 
-987
+997
 01:30:56,320 --> 01:31:00,000
 "I can't do that, Mr Munro. I need 
 to ask some security questions." 
 
-988
+998
 01:31:01,280 --> 01:31:04,560
 "Well, my bank told me not to 
 give my security questions away." 
 
-989
+999
 01:31:05,280 --> 01:31:07,760
 "Mr Munro..."
 "Ah, you don't  
 
-990
+1000
 01:31:07,760 --> 01:31:12,720
 know I am Mr Munro yet, do you?" said 
 Eddie. "When is your date of birth?" 
 
-991
+1001
 01:31:13,520 --> 01:31:15,840
 "I'm not telling you that until 
 you prove you are the bank." 
 
-992
+1002
 01:31:17,120 --> 01:31:20,000
 "All right, sir, ask me a 
 question about your account." 
 
-993
+1003
 01:31:20,640 --> 01:31:24,000
 "OK, how much money is in my account?"
 "I can't tell you that.  
 
-994
+1004
 01:31:24,960 --> 01:31:29,840
 I have to ask you some security 
 questions first." Eddie hung up. 
 
-995
+1005
 01:31:30,480 --> 01:31:36,480
 Thirty seconds later the phone rang again. Eddie 
 considered ignoring it, but he was bored and was  
 
-996
+1006
 01:31:36,480 --> 01:31:44,240
 enjoying being in control for once. "Hello?"
 "Good morning, Mr Munro. This is CNTS bank..." 
 
-997
+1007
 01:31:44,240 --> 01:31:47,680
 "Hi, how are you?"
 The voice didn't know what  
 
-998
+1008
 01:31:47,680 --> 01:31:52,480
 to say for a moment, but then sprang back 
 into action. "I'm fine, thank you, sir." 
 
-999
+1009
 01:31:53,600 --> 01:31:58,080
 Eddie had to admit that the young man 
 was professional. If he was annoyed,  
 
-1000
+1010
 01:31:58,080 --> 01:32:03,840
 he was hiding it well. Eddie felt a little 
 guilty - the man was only doing his job.  
 
-1001
+1011
 01:32:04,720 --> 01:32:09,280
 Then he thought of Dominic and Neal and what 
 bosses like them would do to such youthful  
 
-1002
+1012
 01:32:09,280 --> 01:32:14,880
 enthusiasm. He realized that the voice was still 
 speaking, but Eddie wasn't paying attention.  
 
-1003
+1013
 01:32:15,920 --> 01:32:20,880
 "Sorry? I wasn't listening," he said.
 "That's OK, sir. I was just saying that  
 
-1004
+1014
 01:32:20,880 --> 01:32:25,920
 we need to talk to you about your account, 
 and I can get my supervisor if you wish." 
 
-1005
+1015
 01:32:25,920 --> 01:32:28,800
 Eddie decided to give some 
 ground. This was getting boring. 
 
-1006
+1016
 01:32:29,360 --> 01:32:32,800
 "Go on, I believe you. You're 
 CNTS bank. What do you want?" 
 
-1007
+1017
 01:32:34,160 --> 01:32:38,720
 "Thank you, Mr Munro. I just need to ask 
 you some security questions. Is that OK?" 
 
-1008
+1018
 01:32:39,520 --> 01:32:42,480
 "Fine."
 "Thank you. Can you confirm your  
 
-1009
+1019
 01:32:42,480 --> 01:32:45,280
 telephone banking password?"
 "Chinatown." 
 
-1010
+1020
 01:32:46,160 --> 01:32:50,400
 "Thank you. And can you give me the second 
 and last numbers in your security code?" 
 
-1011
+1021
 01:32:51,200 --> 01:32:54,000
 "Eight and three."
 "Thank you, Mr Munro." 
 
-1012
+1022
 01:32:54,800 --> 01:32:58,800
 "You're welcome."
 "That completes the security with you." 
 
-1013
+1023
 01:32:58,800 --> 01:33:02,640
 "I'm so pleased."
 "I was calling because your  
 
-1014
+1024
 01:33:02,640 --> 01:33:08,320
 account had insufficient funds to pay some direct 
 debits this month, and your credit card with us is  
 
-1015
+1025
 01:33:08,320 --> 01:33:14,000
 now stopped until you make further payments."
 "Great. Thank you for telling me. Goodbye." 
 
-1016
+1026
 01:33:14,000 --> 01:33:22,400
 "No, Mr Munro. You are currently overdrawn by 
 3,478.11 pounds, and the balance on your credit  
 
-1017
+1027
 01:33:22,400 --> 01:33:31,520
 card is 4,490.30 pounds I have to ask if and when 
 you will be making payments into your account." 
 
-1018
+1028
 01:33:32,960 --> 01:33:38,560
 "I have no idea. I've lost my job and I can't 
 work. I'm thinking of doing the lottery on  
 
-1019
+1029
 01:33:38,560 --> 01:33:42,320
 Saturday, so give me a call on Monday and 
 I'll tell you if I can pay you or not.  
 
-1020
+1030
 01:33:42,880 --> 01:33:46,080
 If it helps, I'll enter my bank 
 account number and see if it wins." 
 
-1021
+1031
 01:33:46,800 --> 01:33:51,360
 "Mr Munro, my supervisor is here. He would like 
 to have a word with you. Would that be OK?" 
 
-1022
-01:33:52,080 --> 01:33:58,000
-"Not really." Eddie hung up.
-This time the phone did not ring again,  
+1032
+01:33:52,080 --> 01:33:54,480
+"Not really." Eddie hung up. 
 
-1023
-01:33:58,000 --> 01:34:03,280
-which surprised Eddie in a way. He walked 
-slowly into the kitchen, made a coffee,  
+1033
+01:33:55,920 --> 01:33:59,520
+This time the phone did not ring 
+again, which surprised Eddie in a way.  
 
-1024
-01:34:03,280 --> 01:34:08,800
-picked up the newspaper and sat in an armchair to 
+1034
+01:34:00,160 --> 01:34:06,240
+He walked slowly into the kitchen, made a coffee, 
+picked up the newspaper and sat in an armchair to  
+
+1035
+01:34:06,240 --> 01:34:10,960
 flick through the pages to see what was on TV.
  
-  
-
-1025
-01:34:10,160 --> 01:34:12,320
+ 
 CHAPTER ELEVEN
-After the fight 
 
-1026
+1036
+01:34:11,600 --> 01:34:12,320
+After the fight
+
+1037
 01:34:14,240 --> 01:34:19,120
 Eddie went back inside the ship and made his way 
 to the toilets, where he locked himself inside a  
 
-1027
+1038
 01:34:19,120 --> 01:34:25,680
 cubicle. He was shaking and sweating. He sat 
 down and put out his hands in front of him,  
 
-1028
+1039
 01:34:25,680 --> 01:34:32,080
 watching the shaking in fascination and fear. He 
 could feel the pain in his chest now, and his ear  
 
-1029
+1040
 01:34:32,080 --> 01:34:37,360
 was sore. He wiped his face with the palm 
 of his hand; there was blood coming from  
 
-1030
+1041
 01:34:37,360 --> 01:34:42,560
 his nose. He used some toilet paper to 
 stop the bleeding. He felt exhausted. 
 
-1031
+1042
 01:34:44,880 --> 01:34:48,800
 Eddie stayed where he was for about ten 
 minutes. The toilets were empty and no  
 
-1032
+1043
 01:34:48,800 --> 01:34:54,560
 one else came in during that time. He almost 
 expected Dominic to come in, and he imagined  
 
-1033
+1044
 01:34:54,560 --> 01:35:00,400
 the fight starting all over again. A struggle 
 by the sinks, mirrors breaking, doors slamming. 
 
-1034
+1045
 01:35:02,080 --> 01:35:06,960
 He decided to make his way back to the dining 
 room. He came out of the cubicle and looked in  
 
-1035
+1046
 01:35:06,960 --> 01:35:13,840
 the mirror to straighten his clothes and his hair. 
 The bleeding had stopped. He washed his face. 
 
-1036
+1047
 01:35:14,480 --> 01:35:20,160
 The dance floor was full and the dining area was 
 being cleared. Lynn was at the table talking to  
 
-1037
+1048
 01:35:20,160 --> 01:35:25,040
 some other guests when Eddie found her.
 "Hello, stranger," she said. "You  
 
-1038
+1049
 01:35:25,040 --> 01:35:29,920
 took your time. Where's Dominic?"
 Eddie wasn't ready for a conversation  
 
-1039
+1050
 01:35:29,920 --> 01:35:34,800
 about this right now. "I couldn't find him."
 "So where've you been all this time?" 
 
-1040
+1051
 01:35:35,680 --> 01:35:39,520
 "I went to get some fresh air, then I 
 went over to the Starlight Lounge and  
 
-1041
+1052
 01:35:39,520 --> 01:35:44,720
 checked some emails on the internet."
 "Eddie, you're on holiday!" she said,  
 
-1042
+1053
 01:35:44,720 --> 01:35:47,680
 putting her arm around him.
 "I know. Sorry." 
 
-1043
+1054
 01:35:48,480 --> 01:35:52,960
 "Come on, what do you want to drink?"
 "I'll have a large scotch. No ice." 
 
-1044
+1055
 01:35:54,000 --> 01:35:58,400
 "Really?"
 "Well, why not? We're on holiday." Eddie  
 
-1045
+1056
 01:35:58,400 --> 01:36:04,640
 tried to smile. His ear and nose were stinging. 
 His chest ached. Maybe he had a broken rib? 
 
-1046
+1057
 01:36:05,680 --> 01:36:11,040
 "OK. Wait here. I'll get them," she said, and 
 Eddie turned to watch the dancing and the band.  
 
-1047
+1058
 01:36:12,320 --> 01:36:18,640
 He was calmer now. The shock felt less. He glanced 
 over at the band and saw Jen looking at him,  
 
-1048
+1059
 01:36:18,640 --> 01:36:24,400
 and she gave a small wave. He waved back, 
 but suddenly wondered if she was in fact  
 
-1049
+1060
 01:36:24,400 --> 01:36:29,040
 waving to Dominic somehow. He looked 
 behind him, but Dominic wasn't there. 
 
-1050
+1061
 01:36:31,200 --> 01:36:34,320
 When Lynn came back, they had their 
 drinks and danced for a while.  
 
-1051
+1062
 01:36:35,120 --> 01:36:39,520
 Eddie was tense the whole time, waiting for 
 Dominic to launch a sudden attack on the table.  
 
-1052
+1063
 01:36:40,320 --> 01:36:44,320
 Or maybe he had gone back to his cabin 
 to rest and would wait until tomorrow  
 
-1053
+1064
 01:36:44,320 --> 01:36:50,400
 or the next day to continue the fight.
 "I wonder where Dominic is?" said Lynn. 
 
-1054
+1065
 01:36:50,960 --> 01:36:54,720
 "No idea," said Eddie. "Come 
 on. I'm tired. Let's go to bed." 
 
-1055
+1066
 01:36:56,560 --> 01:37:01,600
 Even as they reached the cabin, Eddie was looking 
 around for Dominic, but he knew now that he must  
 
-1056
+1067
 01:37:01,600 --> 01:37:07,360
 have gone to his own cabin. He felt relieved as 
 they walked in, and he sat down on the couch. 
 
-1057
+1068
 01:37:09,360 --> 01:37:14,160
 Lynn was looking in the mirror, taking off her 
 necklace and earrings. In the mirror she watched  
 
-1058
+1069
 01:37:14,160 --> 01:37:20,160
 Eddie sitting down. "You OK?" she asked.
 "Not really." 
 
-1059
+1070
 01:37:20,160 --> 01:37:23,680
 "What happened to your face?"
 Eddie laughed briefly.  
 
-1060
+1071
 01:37:24,240 --> 01:37:30,720
 He suddenly saw the absurdity of it all. 
 "I had a fight with Dominic," he said,  
 
-1061
+1072
 01:37:30,720 --> 01:37:34,640
 looking at the bruises on his hands.
 "You mean you had an argument?" 
 
-1062
+1073
 01:37:35,600 --> 01:37:42,000
 "No, I mean I had a fight. A proper fight. You 
 know, where people hit each other a few times."  
 
-1063
+1074
 01:37:42,800 --> 01:37:48,000
 He was trying to laugh again. But the tears in 
 his eyes and on his cheeks were not happy ones.  
 
-1064
+1075
 01:37:49,040 --> 01:37:52,320
 Lynn stopped what she was doing 
 and came to sit beside Eddie. 
 
-1065
+1076
 01:37:53,040 --> 01:37:54,960
 "You're shaking."
 "Yeah." 
 
-1066
+1077
 01:37:56,000 --> 01:38:02,080
 "What happened?" she asked.
 "To be honest, I can't really remember.  
 
-1067
+1078
 01:38:02,080 --> 01:38:08,240
 It all happened so fast. We were outside on deck 
 one minute, and the next I was trying to strangle  
 
-1068
+1079
 01:38:08,240 --> 01:38:13,520
 him." Eddie made a strangling gesture with his 
 hands, and again he saw that they were shaking. 
 
-1069
+1080
 01:38:14,320 --> 01:38:18,800
 "What?"
 "I know. I can't really believe it myself.  
 
-1070
+1081
 01:38:19,520 --> 01:38:23,760
 At one point I think he was going to pass 
 out. I almost pushed him over the side." 
 
-1071
+1082
 01:38:24,560 --> 01:38:27,040
 "Eddie!"
 He was shaking his head. 
 
-1072
+1083
 01:38:28,000 --> 01:38:31,200
 "Was anyone watching all this? 
 You must have looked like madmen." 
 
-1073
+1084
 01:38:31,920 --> 01:38:37,120
 "No. It was just us. By the lifeboats."
 "Where is he now?" asked Lynn. 
 
-1074
+1085
 01:38:38,320 --> 01:38:44,240
 "I don't know. I thought he followed me back 
 inside, but he must have gone back to his cabin." 
 
-1075
+1086
 01:38:44,240 --> 01:38:49,360
 Lynn got Eddie a glass of water.
 "Thanks," he said. "Sorry." 
 
-1076
+1087
 01:38:50,400 --> 01:38:56,080
 "I can't believe this. You're like a pair of 
 kids. It's one thing to find him on board,  
 
-1077
+1088
 01:38:56,080 --> 01:38:59,040
 but it's another to start fighting 
 like kids in a playground." 
 
-1078
+1089
 01:38:59,760 --> 01:39:03,360
 "He started it," said Eddie.
 "Listen to yourself, Ed!" 
 
-1079
+1090
 01:39:04,160 --> 01:39:06,080
 "I know."
 "Look,  
 
-1080
+1091
 01:39:06,640 --> 01:39:11,040
 it's a shock that he's on the same cruise, 
 I admit, and I know it brings it all back.  
 
-1081
+1092
 01:39:11,760 --> 01:39:16,400
 But I thought the plan was to keep a low 
 profile now. Ignore him. Forget him." 
 
-1082
+1093
 01:39:17,200 --> 01:39:19,840
 "How can we forget him when 
 he's on the same cruise ship?" 
 
-1083
+1094
 01:39:20,560 --> 01:39:25,840
 "Well, we'll have to manage, and I 
 suggest we wait and see what happens.  
 
-1084
+1095
 01:39:26,560 --> 01:39:32,320
 If he approaches you at breakfast or something, 
 don't get involved. Apologise and walk away." 
 
-1085
+1096
 01:39:32,320 --> 01:39:36,320
 "Apologise?!"
 "OK, well, maybe not  
 
-1086
+1097
 01:39:36,320 --> 01:39:42,880
 apologise. Just ignore him. Promise?"
 "Yes, I promise," said Eddie.
  
-  
+ 
 
-1087
-01:39:44,400 --> 01:39:47,120
+1098
+01:39:44,400 --> 01:39:45,120
 CHAPTER TWELVE
-Lynn and Eddie argue 
 
-1088
+1099
+01:39:45,680 --> 01:39:47,120
+Lynn and Eddie argue
+
+1100
 01:39:49,840 --> 01:39:54,720
 Six months had passed since Eddie's departure 
 from Fenton's, and no work offers were coming  
 
-1089
+1101
 01:39:54,720 --> 01:40:02,320
 in. Summer was over and the evenings were getting 
 darker. Eddie had lost weight and his relationship  
 
-1090
+1102
 01:40:02,320 --> 01:40:08,320
 with Lynn was in a bad way. Either they argued 
 over most things or they didn't speak at all. 
 
-1091
+1103
 01:40:10,160 --> 01:40:15,760
 One Thursday afternoon Lynn came in from work 
 and Eddie was sitting in his armchair as usual,  
 
-1092
+1104
 01:40:15,760 --> 01:40:22,080
 watching a TV show from America. A couple 
 and their neighbours were arguing over a dog.  
 
-1093
+1105
 01:40:22,080 --> 01:40:25,200
 Lynn was soaking wet. The rain was heavy outside. 
 
-1094
+1106
 01:40:26,480 --> 01:40:33,520
 "These people are so stupid," he said, not looking 
 up. "This guy says he can't sleep because of his  
 
-1095
+1107
 01:40:33,520 --> 01:40:38,320
 neighbours dog, and the neighbour says the other 
 guy's been shooting at it with an air rifle!" 
 
-1096
+1108
 01:40:39,520 --> 01:40:44,560
 "It's OK. I'm fine, thanks. Don't get up," 
 Lynn said, putting down heavy shopping  
 
-1097
+1109
 01:40:44,560 --> 01:40:50,160
 bags as she came through the front door.
 "So this guy..." Eddie continued, "... the  
 
-1098
+1110
 01:40:50,160 --> 01:40:54,720
 guy with the dog, is suing the other guy 
 for a hundred thousand dollars in damages!" 
 
-1099
+1111
 01:40:55,840 --> 01:40:59,840
 Lynn was neither interested nor 
 amused. She took off her coat,  
 
-1100
+1112
 01:40:59,840 --> 01:41:05,360
 picked up the bags and went into the kitchen. 
 On the way, she threw the post on to the sofa. 
 
-1101
+1113
 01:41:06,720 --> 01:41:11,360
 "But the other guy - the guy with 
 the gun - he's suing the dog owner  
 
-1102
+1114
 01:41:11,360 --> 01:41:15,120
 because he says the dog barks all 
 night and messes up his garden." 
 
-1103
+1115
 01:41:16,240 --> 01:41:19,840
 Eddie knew he had already upset 
 Lynn, but he stayed where he was.  
 
-1104
+1116
 01:41:20,560 --> 01:41:25,840
 She was always upset these days. He decided 
 to shout out the rest of his commentary  
 
-1105
+1117
 01:41:25,840 --> 01:41:31,040
 so that Lynn could hear him in the kitchen.
 "And now their wives are complaining that  
 
-1106
+1118
 01:41:31,040 --> 01:41:36,000
 the men are obsessed with arguing with each 
 other. They've been fighting over the dog for  
 
-1107
+1119
 01:41:36,000 --> 01:41:41,920
 three years, and now they both want a divorce."
 Eddie heard Lynn say something from the kitchen. 
 
-1108
+1120
 01:41:42,800 --> 01:41:45,840
 "What?" he shouted.
 "Nothing." 
 
-1109
+1121
 01:41:46,880 --> 01:41:53,680
 "No, go on," he shouted. "What did you say?"
 "Nothing. Go back to your show. It sounds  
 
-1110
+1122
 01:41:53,680 --> 01:41:59,840
 fascinating," she said. Eddie got up 
 and went to see her. "What's wrong?" 
 
-1111
+1123
 01:42:00,480 --> 01:42:04,960
 Lynn ignored him and started putting 
 shopping away in cupboards and in the fridge. 
 
-1112
+1124
 01:42:06,560 --> 01:42:13,160
 "What's wrong?" he asked again.
 This time she stopped and looked at Eddie. "Erm,  
 
-1113
+1125
 01:42:13,840 --> 01:42:19,040
 well, let me see. I get up in the morning 
 and go to work while you sit and watch telly.  
 
-1114
+1126
 01:42:19,680 --> 01:42:25,280
 I come in from work, and you're still sitting and 
 watching telly. I do the shopping, I get no help.  
 
-1115
+1127
 01:42:25,280 --> 01:42:31,200
 I do the cooking, I get no help. I try to talk to 
 you, and I get nothing. You used to have breakfast  
 
-1116
+1128
 01:42:31,200 --> 01:42:35,920
 with me in the mornings, and now you don't get 
 up at all! We never go out. Our friends don't  
 
-1117
+1129
 01:42:35,920 --> 01:42:41,360
 call us. The house is a mess, and you're here 
 all day making it messier. You don't clean up,  
 
-1118
+1130
 01:42:41,360 --> 01:42:45,200
 you don't tidy. You look a mess..."
 "Thanks very much." 
 
-1119
+1131
 01:42:45,200 --> 01:42:51,440
 "... and I don't hear anything positive from 
 you about anything. Anything! I'm sick of it." 
 
-1120
+1132
 01:42:53,200 --> 01:42:58,080
 There was a pause after she stopped.
 "Bad day then?" he said. 
 
-1121
+1133
 01:42:58,080 --> 01:43:03,600
 "It's not funny, Eddie. I worry so 
 much about you, your job situation,  
 
-1122
+1134
 01:43:03,600 --> 01:43:08,240
 money - and then I go into work and I have at 
 least twenty - five kids in my class all day.  
 
-1123
+1135
 01:43:08,960 --> 01:43:12,400
 I try to keep them under control 
 and happy, but I just want to cry.  
 
-1124
+1136
 01:43:13,280 --> 01:43:19,520
 I want to tell them all to shut up. I want to tell 
 them to enjoy drawing pictures and singing songs,  
 
-1125
+1137
 01:43:19,520 --> 01:43:24,560
 because after that life is pointless."
 "So, you did have a bad day." 
 
-1126
+1138
 01:43:25,680 --> 01:43:30,640
 "Bad year, Eddie. Bad year."
 "So it's all my fault?" 
 
-1127
+1139
 01:43:31,360 --> 01:43:35,200
 "That is not what I mean."
 "Yeah, right." 
 
-1128
+1140
 01:43:36,640 --> 01:43:42,800
 At that point, Lynn picked up a full box of eggs 
 and threw it at Eddie. He ducked just in time,  
 
-1129
+1141
 01:43:42,800 --> 01:43:48,880
 and the whole thing exploded on the kitchen wall.
 "I guess we can have omelets for dinner," said  
 
-1130
+1142
 01:43:48,880 --> 01:43:55,600
 Eddie, but he knew things had gone too far.
 "You can have omelets for dinner. I'm going out." 
 
-1131
+1143
 01:43:56,800 --> 01:43:59,520
 "Where to?"
 "I'm going to Angela's." 
 
-1132
+1144
 01:44:00,560 --> 01:44:03,840
 "Angela's? That's two hours 
 away. When will you be back?" 
 
-1133
+1145
 01:44:04,880 --> 01:44:07,280
 "Saturday."
 "Saturday?" 
 
-1134
+1146
 01:44:08,000 --> 01:44:12,320
 "Maybe Sunday. I don't know."
 "Lynn, please." 
 
-1135
+1147
 01:44:12,320 --> 01:44:18,560
 "No, Eddie. I've had enough. We're broke - 
 worse than broke - we are in so much debt.  
 
-1136
+1148
 01:44:19,120 --> 01:44:23,440
 You've got no job and you can't get a 
 job, or you don't want one. I don't know." 
 
-1137
+1149
 01:44:23,440 --> 01:44:26,480
 "Lynn, listen to me."
 "You sit in the house all day,  
 
-1138
+1150
 01:44:26,480 --> 01:44:28,560
 feeling sorry for yourself..."
 "Lynn..." 
 
-1139
+1151
 01:44:29,120 --> 01:44:32,160
 She was crying now.
 "... and it isn't getting better,"  
 
-1140
+1152
 01:44:32,160 --> 01:44:37,200
 she sobbed. "It's getting worse and I 
 hate it. I'm sorry you lost your job,  
 
-1141
+1153
 01:44:37,200 --> 01:44:43,760
 and I'm sorry it made you ill. I'm sorry I'm not 
 strong enough now, but I can't help you anymore.  
 
-1142
+1154
 01:44:44,560 --> 01:44:54,080
 I tried. I've lost you. You're here, but you're 
 not here. I want a break. We want a break." 
 
-1143
+1155
 01:44:55,040 --> 01:44:59,840
 "No, Lynn. Please, we have to talk..."
 "I'll call you when I get to Angela's." 
 
-1144
+1156
 01:45:01,040 --> 01:45:05,120
 She was walking out of the kitchen and 
 into the hall. She opened the door under  
 
-1145
+1157
 01:45:05,120 --> 01:45:09,920
 the stairs and took out an overnight bag. 
 Eddie could see she had already packed it. 
 
-1146
+1158
 01:45:11,120 --> 01:45:18,800
 "I don't believe this. You're leaving me?"
 "No. I'll be back on Sunday. Maybe. I don't know." 
 
-1147
+1159
 01:45:20,000 --> 01:45:25,040
 "This is ridiculous. You can't go. Lynn, 
 we've been together for ten years." 
 
-1148
+1160
 01:45:26,640 --> 01:45:30,320
 She was putting on her coat.
 "What about your job?" 
 
-1149
+1161
 01:45:30,320 --> 01:45:35,360
 "I don't care about the job. You don't care 
 about work. Now I don't care about work." 
 
-1150
+1162
 01:45:36,160 --> 01:45:39,040
 She was walking down the 
 hall towards the front door.  
 
-1151
+1163
 01:45:39,040 --> 01:45:41,920
 Eddie grabbed her arm.
 "Get your hands off me." 
 
-1152
+1164
 01:45:42,480 --> 01:45:44,800
 "Lynn."
 "Get your hands off me!" 
 
-1153
+1165
 01:45:45,600 --> 01:45:48,880
 He let go.
 "Lynn, I'm sorry." 
 
-1154
+1166
 01:45:50,080 --> 01:45:54,320
 But she had walked out of the door and got 
 into her car, and was driving down the road. 
 
-1155
+1167
 01:45:55,520 --> 01:45:58,400
 Eddie stood in the doorway 
 and watched the car disappear.  
 
-1156
+1168
 01:45:59,520 --> 01:46:03,120
 The rain had stopped, but the 
 clouds were ready for another storm.  
 
-1157
+1169
 01:46:04,640 --> 01:46:10,480
 He went back inside and the house felt very 
 strange. Panic was in his mind, heart and stomach.  
 
-1158
+1170
 01:46:11,520 --> 01:46:16,400
 The kitchen door was open, and he saw broken 
 eggs dripping off the clock and down the wall. 
 
-1159
+1171
 01:46:17,360 --> 01:46:21,680
 He sat down on the sofa. The neighbours 
 were still arguing about the dog,  
 
-1160
+1172
 01:46:21,680 --> 01:46:25,840
 which was now in the studio, and a dog 
 psychologist was trying to talk to it.  
 
-1161
+1173
 01:46:27,040 --> 01:46:31,920
 This time last year he was in Moscow working 
 on the project of his career with good money  
 
-1162
+1174
 01:46:31,920 --> 01:46:38,080
 in the bank, and he and Lynn had even discussed 
 starting a family. Now, he had lost his job,  
 
-1163
+1175
 01:46:38,080 --> 01:46:44,400
 his money, his health, his confidence, and 
 even his wife. Instead of taking the company  
 
-1164
+1176
 01:46:44,400 --> 01:46:49,920
 to the next level and building a future, he was 
 sitting in his lounge watching a dog in therapy. 
 
-1165
+1177
 01:46:52,000 --> 01:46:55,840
 He looked around for the remote control 
 to change channels, and saw the post.  
 
-1166
+1178
 01:46:56,880 --> 01:47:00,000
 There were some letters for Lynn, 
 the new programme for the theatre,  
 
-1167
+1179
 01:47:00,000 --> 01:47:03,520
 more bills, and a letter from 
 Steve Scott, his solicitor.  
 
-1168
+1180
 01:47:05,200 --> 01:47:10,400
 He knew what the letter said before he opened it. 
 It was the result of many difficult meetings with  
 
-1169
+1181
 01:47:10,400 --> 01:47:16,000
 his solicitor and financial adviser. The 
 letter now confirmed that he was bankrupt. 
 
-1170
+1182
 01:47:17,520 --> 01:47:19,600
 Bankrupt.
 A death. 
 
-1171
+1183
 01:47:20,480 --> 01:47:25,280
 The end of a life with money.
 For a few more minutes Eddie  
 
-1172
+1184
 01:47:25,280 --> 01:47:31,440
 watched two American adults fighting and a dog 
 being hypnotized. Then he put the letter back  
 
-1173
+1185
 01:47:31,440 --> 01:47:35,840
 in its envelope and went into the kitchen 
 to clean the eggs off his kitchen wall.
  
-  
+ 
 
-1174
-01:47:37,200 --> 01:47:39,120
+1186
+01:47:37,200 --> 01:47:38,560
 CHAPTER THIRTEEN
-The search 
 
-1175
+1187
+01:47:38,560 --> 01:47:39,120
+The search
+
+1188
 01:47:40,960 --> 01:47:45,440
 The next morning Eddie and Lynn walked 
 into the dining room and saw Jen having  
 
-1176
+1189
 01:47:45,440 --> 01:47:51,120
 breakfast with some members of the band. Two 
 men in uniform were also sitting at the table.  
 
-1177
+1190
 01:47:52,000 --> 01:47:56,880
 They were asking questions and taking notes. 
 Eddie assumed it was a discussion about the  
 
-1178
+1191
 01:47:56,880 --> 01:48:02,080
 coming evening's performance. He was relieved 
 to see that Dominic was nowhere to be seen.  
 
-1179
+1192
 01:48:02,880 --> 01:48:06,320
 He still didn't feel ready for the 
 inevitable second confrontation. 
 
-1180
+1193
 01:48:07,360 --> 01:48:12,160
 "She looks upset," said Lynn as they sat 
 eating their breakfast at a table nearby. 
 
-1181
+1194
 01:48:14,000 --> 01:48:18,000
 "Maybe Dominic went back last 
 night and started another fight." 
 
-1182
+1195
 01:48:18,000 --> 01:48:21,200
 "Where is he then?"
 "Maybe she strangled him?" 
 
-1183
+1196
 01:48:21,200 --> 01:48:23,760
 "Eddie!"
 "Sorry. He's  
 
-1184
+1197
 01:48:23,760 --> 01:48:31,680
 having a lie-in, I suppose. Who knows? Who cares?"
 At this point Jen looked across and saw Eddie and  
 
-1185
+1198
 01:48:31,680 --> 01:48:37,280
 Lynn. She pointed at them and got up to come 
 over. The two men in uniform accompanied her. 
 
-1186
+1199
 01:48:38,080 --> 01:48:45,200
 "Hello, Jen," said Lynn. "Is something wrong?"
 "It's Dominic. He's missing. He never came  
 
-1187
+1200
 01:48:45,200 --> 01:48:51,040
 back last night. Have you seen him?"
 Eddie went cold. Lynn looked at him. 
 
-1188
+1201
 01:48:52,400 --> 01:48:57,200
 "Not this morning, no," said Eddie. Lynn 
 shook her head to say the same thing. 
 
-1189
+1202
 01:48:58,720 --> 01:49:01,520
 "Did you see him last night 
 at all?" said one of the men. 
 
-1190
+1203
 01:49:02,800 --> 01:49:08,560
 "Yes, I did," said Eddie. "I went out for 
 some fresh air, and Dominic was outside. We  
 
-1191
+1204
 01:49:08,560 --> 01:49:13,840
 chatted for a bit and then I came in. Dominic 
 stayed outside. I didn't see him after that." 
 
-1192
+1205
 01:49:15,120 --> 01:49:19,440
 Eddie could honestly say that this was 
 the truth. He decided not to mention the  
 
-1193
+1206
 01:49:19,440 --> 01:49:24,480
 part about trying to kill each other.
 "When was this?" asked the other man. 
 
-1194
+1207
 01:49:25,280 --> 01:49:30,160
 "Oh, about midnight, I think. Or just after."
 "What did you talk about?" 
 
-1195
+1208
 01:49:31,360 --> 01:49:35,680
 "Not much really. The cruise, the 
 weather, the food - that kind of thing."  
 
-1196
+1209
 01:49:36,960 --> 01:49:41,600
 Eddie decided he needed to tell them more. 
 Just in case people became suspicious.  
 
-1197
+1210
 01:49:41,600 --> 01:49:46,800
 Get his story out first. "I remembered him 
 from a long time ago, though," he said. 
 
-1198
+1211
 01:49:47,680 --> 01:49:51,280
 "What do you mean?" asked the second 
 man, looking up from his notes. 
 
-1199
+1212
 01:49:52,640 --> 01:49:57,440
 "Mr Stephens used to work at the same 
 company as me years ago - at Fenton's - a  
 
-1200
+1213
 01:49:57,440 --> 01:50:02,960
 software manufacturer in the UK. He was the 
 divisional boss for a while. I was in sales.  
 
-1201
+1214
 01:50:03,520 --> 01:50:07,760
 When Lynn and I first saw him yesterday, 
 we weren't sure if it was him or not.  
 
-1202
+1215
 01:50:08,640 --> 01:50:12,800
 I wasn't feeling well anyway, so we thought 
 we'd meet him later and find out then." 
 
-1203
+1216
 01:50:13,840 --> 01:50:17,360
 "And was it him? You knew him from work?"
 "Yes." 
 
-1204
+1217
 01:50:18,240 --> 01:50:20,880
 "And did you talk to him about 
 it when you saw him later?" 
 
-1205
+1218
 01:50:22,080 --> 01:50:27,680
 "He didn't really remember me, and it was almost 
 twenty years ago. I don't blame him. Anyway,  
 
-1206
+1219
 01:50:27,680 --> 01:50:31,760
 we're both here to get away from work, so I 
 guess that's why we didn't really talk about it.  
 
-1207
+1220
 01:50:32,320 --> 01:50:37,840
 I wasn't outside with him for that long."
 "Did he seem upset or stressed in any way?" 
 
-1208
+1221
 01:50:38,960 --> 01:50:45,520
 Eddie suddenly recalled Dominic's face again. He 
 had looked very upset and considerably stressed  
 
-1209
+1222
 01:50:45,520 --> 01:50:49,440
 when Eddie had his hands around 
 his neck. "Not particularly." 
 
-1210
+1223
 01:50:50,560 --> 01:50:56,400
 "What about you, ma'am?" asked the first man.
 "I only met him on the cruise for the first time  
 
-1211
+1224
 01:50:56,400 --> 01:51:01,840
 yesterday. Jen introduced us when we all met by 
 chance at the hotel around lunchtime yesterday." 
 
-1212
+1225
 01:51:02,800 --> 01:51:06,240
 "And how did he seem to you?"
 "Normal, I suppose.  
 
-1213
+1226
 01:51:06,880 --> 01:51:10,560
 Eddie wasn't feeling well, so we came 
 back. I didn't see him after that." 
 
-1214
+1227
 01:51:12,960 --> 01:51:18,160
 The Parvina returned to Barbados, where the 
 cruise was delayed and an official search began.  
 
-1215
+1228
 01:51:19,120 --> 01:51:22,880
 Eddie saw helicopters come and 
 go, and he saw police coming and  
 
-1216
+1229
 01:51:22,880 --> 01:51:28,880
 going at the harbour. There was even a TV crew.
 The atmosphere on board had not changed very much.  
 
-1217
+1230
 01:51:29,440 --> 01:51:33,920
 The ship was so big and there were so 
 many people, with so many things going on,  
 
-1218
+1231
 01:51:33,920 --> 01:51:39,200
 that Dominic's disappearance seemed only a 
 minor problem. It was almost like an additional  
 
-1219
+1232
 01:51:39,200 --> 01:51:45,120
 activity for the passengers to talk about. 
 Who was the man? When did he disappear? Why?  
 
-1220
+1233
 01:51:45,120 --> 01:51:49,440
 What happened? Was he injured on the 
 ship somewhere? Did he fall overboard? 
 
-1221
+1234
 01:51:51,280 --> 01:51:56,400
 Eddie and Lynn walked into town to get away from 
 things. They walked for hours around the streets  
 
-1222
+1235
 01:51:56,400 --> 01:52:01,200
 and marinas. Here and there they stopped and 
 looked at their map, and read their guidebook  
 
-1223
+1236
 01:52:01,200 --> 01:52:07,680
 about the history of Bridgetown. They tried not 
 to talk about Dominic, or even to think about it.  
 
-1224
+1237
 01:52:08,400 --> 01:52:12,240
 But Eddie could see that Lynn was worried, 
 and Lynn could see the same in Eddie.  
 
-1225
+1238
 01:52:13,200 --> 01:52:19,600
 Sooner or later they had to talk again. So they 
 had lunch in a cafe overlooking a small bay,  
 
-1226
+1239
 01:52:19,600 --> 01:52:23,680
 and Lynn was the first to speak.
 "What do you think has happened, Ed?" 
 
-1227
+1240
 01:52:24,800 --> 01:52:28,960
 "I've no idea. I left him 
 standing by the rail. He was OK.  
 
-1228
+1241
 01:52:29,760 --> 01:52:35,520
 After the fight, he was obviously tired 
 and so was I. To be honest, I think we  
 
-1229
+1242
 01:52:35,520 --> 01:52:41,120
 were both a bit shocked and embarrassed - and 
 bruised. But he was all right when I left him.  
 
-1230
+1243
 01:52:42,000 --> 01:52:46,320
 Actually, I thought he would come after me. 
 I was in the toilet for about ten minutes.  
 
-1231
+1244
 01:52:46,880 --> 01:52:52,080
 Then I came back in to find you."
 "Do you think he fell overboard?" she asked. 
 
-1232
+1245
 01:52:52,880 --> 01:52:57,680
 "Not from where we were. There was another 
 deck below, and the rail was too high.  
 
-1233
+1246
 01:52:57,680 --> 01:53:01,840
 To go overboard he'd need to jump."
 "So, do you think he jumped?" 
 
-1234
+1247
 01:53:02,960 --> 01:53:06,400
 "The man thinks he's better than 
 anyone else. Why would he do that?" 
 
-1235
+1248
 01:53:07,280 --> 01:53:12,160
 "Who knows? Sixteen years is 
 a long time. People change." 
 
-1236
+1249
 01:53:12,160 --> 01:53:16,400
 "Yeah, well, people like him 
 don't change. Unfortunately." 
 
-1237
+1250
 01:53:19,360 --> 01:53:23,440
 When they returned to the ship, the police 
 asked him to go to the office in Bridgetown  
 
-1238
+1251
 01:53:23,440 --> 01:53:28,880
 to give an official statement. Jen had made her 
 statement and given all the information she could.  
 
-1239
+1252
 01:53:29,680 --> 01:53:33,840
 When she mentioned meeting Lynn and Eddie, 
 it did not take them long to follow it up. 
 
-1240
+1253
 01:53:35,600 --> 01:53:40,560
 "And you met at the hotel, is that right?" 
 asked a tall policeman sitting at his PC. 
 
-1241
+1254
 01:53:41,680 --> 01:53:43,680
 "Yes."
 "Were you friends?" 
 
-1242
+1255
 01:53:45,040 --> 01:53:50,240
 "No, but I worked with him many years ago. We 
 never stayed in touch. We were only colleagues,  
 
-1243
+1256
 01:53:50,240 --> 01:53:54,640
 and I never knew much about him or his life. 
 I couldn't believe it when I saw him again  
 
-1244
+1257
 01:53:54,640 --> 01:54:00,640
 after so long. He didn't even recognise me."
 "So did you meet later, back on the boat?" 
 
-1245
+1258
 01:54:02,000 --> 01:54:08,960
 "Not together, no. As I said, his girlfriend 
 met my wife by chance. We met briefly at lunch,  
 
-1246
+1259
 01:54:08,960 --> 01:54:14,720
 and we agreed to meet later for a drink." Eddie 
 didn't mean to say that, but then he realized Jen  
 
-1247
+1260
 01:54:14,720 --> 01:54:20,160
 had probably said that in her statement.
 Eddie waited for another question. The  
 
-1248
+1261
 01:54:20,160 --> 01:54:26,400
 policeman looked up at him. "How did he seem 
 when you met him at the hotel? Happy? Sad?" 
 
-1249
+1262
 01:54:27,840 --> 01:54:34,080
 "It was hard to tell," said Eddie. That was 
 true. "He had his sunglasses on the whole time.  
 
-1250
+1263
 01:54:34,080 --> 01:54:37,520
 We only chatted for a few minutes."
 "And did you meet for a drink?" 
 
-1251
+1264
 01:54:38,880 --> 01:54:43,040
 "No, we didn't. We were supposed to meet 
 at the bar after Jen, his girlfriend,  
 
-1252
+1265
 01:54:43,040 --> 01:54:46,800
 finished her session with the band. 
 I met him briefly on deck though." 
 
-1253
+1266
 01:54:47,520 --> 01:54:53,680
 "I see," said the policeman, tapping information 
 on his keyboard. "What did you talk about?" 
 
-1254
-01:54:54,960 --> 01:54:58,640
-"Not much really. I was only 
-with him for about five minutes,  
-
-1255
-01:54:58,640 --> 01:55:03,840
-but I came inside because I was cold." Then 
-Eddie thought he should add something else.  
-
-1256
-01:55:04,800 --> 01:55:08,160
-"I was hoping to find out what 
-he'd been up to since the old days,  
-
-1257
-01:55:08,160 --> 01:55:11,200
-but I never saw him after that."
-"Why not?" 
-
-1258
-01:55:12,320 --> 01:55:15,760
-"I'm not sure, to be honest. I 
-was with my wife for the evening,  
-
-1259
-01:55:15,760 --> 01:55:21,760
-but we went back to our cabin earlier than we had 
-planned. We were tired. I was feeling unwell. I  
-
-1260
-01:55:21,760 --> 01:55:28,400
-was unwell at the hotel. Too much sun, I think."
-"Ah yes, Mr Stephens' girlfriend mentioned that.  
-
-1261
-01:55:29,280 --> 01:55:34,960
-What time did you go to your cabin?"
-"I have no idea." Eddie didn't like  
-
-1262
-01:55:34,960 --> 01:55:39,920
-to end his statement with uncertainty, so he 
-added: "On the ship you lose track of time.  
-
-1263
-01:55:40,720 --> 01:55:46,160
-We both went to sleep. The first thing we heard 
-about Dominic's disappearance was this morning  
-
-1264
-01:55:46,160 --> 01:55:52,000
-when Jen came to tell us at breakfast."
-The policeman nodded and carried on typing. 
-
-1265
-01:55:53,200 --> 01:55:58,320
-"So what do you think has happened?" Eddie 
-asked the policeman. "We're not allowed to say,  
-
-1266
-01:55:58,320 --> 01:56:04,880
-Mr Munro. A thorough search of the ship and the 
-area is being carried out. If we hear anything,  
-
 1267
-01:56:04,880 --> 01:56:09,360
-there will be an announcement."
-"Is that all then?" asked Eddie. 
+01:54:54,960 --> 01:54:59,760
+"Not much really. I was only with him for 
+about five minutes, but I came inside because  
 
 1268
-01:56:10,320 --> 01:56:15,280
-"Yes, thank you, that's all for now. We have 
-your details if we have any more questions." 
+01:54:59,760 --> 01:55:05,760
+I was cold." Then Eddie thought he should 
+add something else. "I was hoping to find  
 
 1269
-01:56:16,480 --> 01:56:22,800
-"OK," said Eddie. He got up and walked out of 
-the office into the bright Caribbean sunshine.
- 
-  
+01:55:05,760 --> 01:55:09,600
+out what he'd been up to since the old 
+days, but I never saw him after that." 
 
 1270
-01:56:23,520 --> 01:56:27,840
-CHAPTER FOURTEEN
-Swimming not sinking 
+01:55:10,640 --> 01:55:13,600
+"Why not?"
+"I'm not sure, to be honest.  
 
 1271
+01:55:14,160 --> 01:55:18,400
+I was with my wife for the evening, but we went 
+back to our cabin earlier than we had planned.  
+
+1272
+01:55:19,040 --> 01:55:24,560
+We were tired. I was feeling unwell. I was 
+unwell at the hotel. Too much sun, I think." 
+
+1273
+01:55:25,200 --> 01:55:31,920
+"Ah yes, Mr Stephens' girlfriend mentioned 
+that. What time did you go to your cabin?" 
+
+1274
+01:55:31,920 --> 01:55:37,760
+"I have no idea." Eddie didn't like to end 
+his statement with uncertainty, so he added:  
+
+1275
+01:55:38,320 --> 01:55:43,600
+"On the ship you lose track of time. We both 
+went to sleep. The first thing we heard about  
+
+1276
+01:55:43,600 --> 01:55:47,920
+Dominic's disappearance was this morning 
+when Jen came to tell us at breakfast." 
+
+1277
+01:55:49,600 --> 01:55:55,440
+The policeman nodded and carried on typing.
+"So what do you think has happened?" Eddie  
+
+1278
+01:55:55,440 --> 01:56:00,880
+asked the policeman. "We're not allowed 
+to say, Mr Munro. A thorough search of the  
+
+1279
+01:56:00,880 --> 01:56:06,080
+ship and the area is being carried out. If we 
+hear anything, there will be an announcement." 
+
+1280
+01:56:07,360 --> 01:56:12,880
+"Is that all then?" asked Eddie.
+"Yes, thank you, that's all for now. We  
+
+1281
+01:56:12,880 --> 01:56:20,240
+have your details if we have any more questions."
+"OK," said Eddie. He got up and walked out of the  
+
+1282
+01:56:20,240 --> 01:56:24,400
+office into the bright Caribbean sunshine.
+ 
+ 
+CHAPTER FOURTEEN
+
+1283
+01:56:25,040 --> 01:56:27,840
+Swimming not sinking
+
+1284
 01:56:28,720 --> 01:56:34,400
 In the end, Lynn stayed with Angela for five 
 months. She told Eddie that she needed some time  
 
-1272
+1285
 01:56:34,400 --> 01:56:40,240
 to feel normal again. They didn't argue anymore 
 and it was only a separation, but it frightened  
 
-1273
+1286
 01:56:40,240 --> 01:56:46,320
 Eddie. When Lynn left and stayed away for five 
 months instead of three nights, he really thought  
 
-1274
+1287
 01:56:46,320 --> 01:56:52,880
 he'd lost her forever. He was as low, lost and 
 lonely as anyone can feel, but he knew this was  
 
-1275
+1288
 01:56:52,880 --> 01:56:59,600
 a turning point. Losing Lynn was a thousand times 
 worse than losing his job, and he needed to make  
 
-1276
+1289
 01:56:59,600 --> 01:57:06,160
 changes. As Clive said to him during that time: 
 "When you hit rock bottom, the only way is up." 
 
-1277
+1290
 01:57:07,360 --> 01:57:13,520
 It was a mess, however. Eddie's mental health was 
 not good, and it got much worse when Lynn left.  
 
-1278
+1291
 01:57:14,880 --> 01:57:21,600
 He couldn't find work, and his depression made it 
 impossible to do so. Lynn also lost her job when  
 
-1279
+1292
 01:57:21,600 --> 01:57:27,360
 she didn't come back immediately. They had to sell 
 the house and furniture to cover all their debts,  
 
-1280
+1293
 01:57:27,360 --> 01:57:30,400
 and they were no longer in a position 
 to borrow money to start again. 
 
-1281
+1294
 01:57:31,760 --> 01:57:37,360
 Steve Scott, their solicitor, was an enormous 
 help to both of them, handling their finances  
 
-1282
+1295
 01:57:37,360 --> 01:57:42,880
 and their legal problems. He did everything 
 except start a divorce action for them,  
 
-1283
+1296
 01:57:42,880 --> 01:57:49,120
 and they had Clive to thank for that. Clive 
 realized that the separation could not last long,  
 
-1284
+1297
 01:57:49,120 --> 01:57:53,520
 and he kept in touch with both of them to make 
 sure that it didn't result in total breakdown. 
 
-1285
+1298
 01:57:55,120 --> 01:57:59,600
 By Christmas that year Eddie was staying at 
 Clive's and Lynn was I still at Angela's.  
 
-1286
+1299
 01:58:00,480 --> 01:58:03,840
 On New Year's Day Eddie called 
 Lynn to give her his best wishes. 
 
-1287
+1300
 01:58:05,040 --> 01:58:09,760
 "Happy New Year," he said.
 "Same to you. All the best," she said. 
 
-1288
+1301
 01:58:10,400 --> 01:58:15,920
 "I hope it's better than the last one," he said.
 "That won't be difficult. It couldn't be worse,"  
 
-1289
+1302
 01:58:16,480 --> 01:58:20,160
 she said.
 Silence. 
 
-1290
+1303
 01:58:20,160 --> 01:58:24,480
 "It's strange," said Eddie. "We have 
 never been apart on New Year's Eve." 
 
-1291
+1304
 01:58:25,120 --> 01:58:28,080
 "No," said Lynn.
 "What did you do?" 
 
-1292
+1305
 01:58:29,040 --> 01:58:35,680
 "Well, you know me. I don't like it much. Angela 
 and I stayed in on our own and watched DVDs.  
 
-1293
+1306
 01:58:36,480 --> 01:58:40,560
 Then some neighbours came around just before 
 midnight. We got to bed around two o'clock." 
 
-1294
+1307
 01:58:41,200 --> 01:58:42,000
 "Sounds good." 
 
-1295
+1308
 01:58:42,560 --> 01:58:44,320
 "Not really."
 "Why?" 
 
-1296
+1309
 01:58:45,120 --> 01:58:51,040
 "Well, you know..." she said.
 Eddie knew. "Yes," he said. 
 
-1297
+1310
 01:58:52,160 --> 01:58:54,720
 "You?" asked Lynn.
 "What?" 
 
-1298
+1311
 01:58:55,280 --> 01:58:59,040
 "What did you do?"
 "Oh, Clive and I went to the pub and  
 
-1299
+1312
 01:58:59,040 --> 01:59:03,520
 stayed there until about one. It was OK."
 "How is Clive?" 
 
-1300
+1313
 01:59:04,160 --> 01:59:08,160
 "He's here. Do you want to speak to him?"
 "No, it's all right. I'll text him." 
 
-1301
+1314
 01:59:08,960 --> 01:59:10,880
 "OK."
 A pause. 
 
-1302
+1315
 01:59:12,240 --> 01:59:15,840
 "Lynn?" said Eddie eventually.
 "I'm still here." 
 
-1303
+1316
 01:59:16,560 --> 01:59:18,560
 "I miss you."
 "I know." 
 
-1304
+1317
 01:59:19,760 --> 01:59:22,000
 "Come back. Please."
 "I can't." 
 
-1305
+1318
 01:59:23,280 --> 01:59:26,480
 "Why?"
 "Because... you haven't  
 
-1306
+1319
 01:59:26,480 --> 01:59:29,840
 got a house, and neither have I!"
 They both laughed a little. 
 
-1307
+1320
 01:59:30,480 --> 01:59:34,400
 "OK. If I get a house, will you come back?"
 "Only if you get a big one." 
 
-1308
+1321
 01:59:35,040 --> 01:59:36,800
 "OK."
 "Very big." 
 
-1309
+1322
 01:59:36,800 --> 01:59:38,880
 "OK."
 "With a garden." 
 
-1310
+1323
 01:59:38,880 --> 01:59:40,800
 "Right."
 "A big garden." 
 
-1311
+1324
 01:59:41,360 --> 01:59:44,320
 "I'l1 try."
 "And a swimming pool." 
 
-1312
+1325
 01:59:44,320 --> 01:59:46,560
 "Erm, OK."
 "Liar." 
 
-1313
+1326
 01:59:47,200 --> 01:59:50,240
 "OK, the swimming pool will 
 take time. I'll work on that." 
 
-1314
+1327
 01:59:50,960 --> 01:59:55,120
 "Fine. A large bathroom and modern 
 kitchen will be OK instead." 
 
-1315
+1328
 01:59:56,160 --> 01:59:58,560
 "With or without egg on the walls?" 
 
-1316
+1329
 01:59:59,600 --> 02:00:03,040
 He heard her laugh on the other end.
 Another pause. 
 
-1317
+1330
 02:00:04,320 --> 02:00:10,880
 "How are you feeling?" she asked. "Generally."
 "Not bad. Clive makes me go swimming and read  
 
-1318
+1331
 02:00:10,880 --> 02:00:13,120
 his car magazines."
 "Good for you." 
 
-1319
+1332
 02:00:13,920 --> 02:00:16,880
 "Hmm," muttered Eddie.
 Silence. 
 
-1320
+1333
 02:00:17,840 --> 02:00:20,080
 Eddie wanted to tell Lynn 
 again that he missed her. 
 
-1321
+1334
 02:00:20,800 --> 02:00:26,320
 "Don't give up, Ed," she said.
 "I know," he said. 
 
-1322
+1335
 02:00:26,320 --> 02:00:32,560
 Lynn was Eddie's motivation to rebuild his life, 
 and Clive was his support. But Eddie realized  
 
-1323
+1336
 02:00:32,560 --> 02:00:38,480
 that only he could turn things around. He was 
 encouraged that over the time he was out of work,  
 
-1324
+1337
 02:00:38,480 --> 02:00:44,720
 he had actually started missing his work and his 
 friends in the business. Over the next few years,  
 
-1325
+1338
 02:00:44,720 --> 02:00:49,040
 Eddie put together a business plan and 
 borrowed money from friends and family. 
 
-1326
+1339
 02:00:50,320 --> 02:00:57,040
 He began as an export agent in London for various 
 UK software companies. He still had a strong and  
 
-1327
+1340
 02:00:57,040 --> 02:01:02,000
 loyal commercial network throughout Europe, 
 and many of his old customers and contacts  
 
-1328
+1341
 02:01:02,000 --> 02:01:07,120
 were glad to have him back. Some had already 
 become disillusioned with the larger companies  
 
-1329
+1342
 02:01:07,120 --> 02:01:13,120
 like Fenton's, and Eddie's introduction of new 
 products and a faster and more personal service  
 
-1330
+1343
 02:01:13,120 --> 02:01:19,360
 brought good results. His enthusiasm and 
 energy returned, and every day he enjoyed the  
 
-1331
+1344
 02:01:19,360 --> 02:01:24,800
 thought that he was his own boss; no one could 
 undermine his plans or take away the credit. 
 
-1332
+1345
 02:01:26,080 --> 02:01:31,680
 He set up a small office not far from Notting Hill 
 and started off with a part-time office assistant.  
 
-1333
+1346
 02:01:32,400 --> 02:01:38,320
 At the end of the first year he had taken on 
 three full-time people. By the following year  
 
-1334
+1347
 02:01:38,320 --> 02:01:44,160
 he had moved to larger offices and had a team 
 of ten. It was the beginning of a sixteen-year  
 
-1335
+1348
 02:01:44,160 --> 02:01:50,560
 journey which turned Eddie from a bankrupt, broken 
 individual into a confident and very wealthy man. 
 
-1336
+1349
 02:01:52,160 --> 02:01:55,680
 Over time Eddie poached some 
 of the team from Fentons,  
 
-1337
+1350
 02:01:55,680 --> 02:01:58,400
 including Clive, who soon joined him as a partner.  
 
-1338
+1351
 02:02:00,400 --> 02:02:04,640
 Clive then head hunted some of the best people 
 from Fenton's production and development team.  
 
-1339
+1352
 02:02:06,480 --> 02:02:11,680
 With investment from some overseas partners, 
 they then created a series of online titles  
 
-1340
+1353
 02:02:11,680 --> 02:02:16,400
 for companies to provide general training, 
 systems and platforms to run their businesses. 
 
-1341
+1354
 02:02:17,440 --> 02:02:23,440
 This was a turning point. Clive and Eddie's team 
 developed a unique way of linking online training  
 
-1342
+1355
 02:02:23,440 --> 02:02:28,320
 with mobile phone technology, and their 
 best-seller was a twelve-module course  
 
-1343
+1356
 02:02:28,320 --> 02:02:35,200
 called People Skills for Successful Business. They 
 licensed it worldwide and won an innovation award.  
 
-1344
+1357
 02:02:36,000 --> 02:02:41,120
 At the awards night at the Savoy Hotel in London, 
 Clive suggested they send a copy of the whole  
 
-1345
+1358
 02:02:41,120 --> 02:02:47,040
 series to Dominic and Neal, but Eddie said it 
 was a waste. "They wouldn't understand," he said.  
 
-1346
+1359
 02:02:47,600 --> 02:02:53,120
 "Some people think they know everything anyway. 
 Let them suffer." And they toasted their success. 
 
-1347
+1360
 02:02:54,640 --> 02:02:58,640
 Business went from strength to strength, 
 and Eddie travelled extensively  
 
-1348
+1361
 02:02:58,640 --> 02:03:04,480
 to build strategic partnerships using the training 
 catalogue of integrated online-mobile training  
 
-1349
+1362
 02:03:04,480 --> 02:03:09,360
 (OMT). His contacts and friends in 
 business were loyal and supportive.  
 
-1350
+1363
 02:03:10,080 --> 02:03:15,200
 Within five years they had offices in 
 Hong Kong, San Francisco, New York,  
 
-1351
+1364
 02:03:15,200 --> 02:03:21,200
 Sydney, Bucharest, Munich and Paris.
 On the day when he and Clive sold the  
 
-1352
+1365
 02:03:21,200 --> 02:03:26,320
 business for 20 million pounds, Eddie came home 
 to Lynn, who was sitting in the garden reading. 
 
-1353
+1366
 02:03:27,280 --> 02:03:31,040
 "It's done," he said, smiling.
 "Really?" 
 
-1354
+1367
 02:03:32,160 --> 02:03:36,400
 "Really. We signed the agreement 
 this afternoon. It's over." 
 
-1355
+1368
 02:03:37,680 --> 02:03:41,840
 "Twenty million?" she asked.
 "Twenty million." 
 
-1356
+1369
 02:03:42,800 --> 02:03:47,120
 "Oh, Eddie!" She jumped up 
 and put her arms around him.  
 
-1357
+1370
 02:03:47,120 --> 02:03:54,240
 "I am so pleased for you. For us. You deserve it."
 "Thanks. Let's open the champagne." 
 
-1358
+1371
 02:03:55,040 --> 02:03:57,280
 "It's in the fridge. I'll 
 go and get it," she said. 
 
-1359
+1372
 02:03:58,080 --> 02:04:01,280
 When she came back, Eddie 
 handed her a large envelope. 
 
-1360
+1373
 02:04:02,000 --> 02:04:05,040
 "What's this?" she asked excitedly.
 "Open it." 
 
-1361
+1374
 02:04:05,840 --> 02:04:10,320
 Lynn tore open the envelope and pulled 
 out a large, colourful holiday brochure.  
 
-1362
+1375
 02:04:11,280 --> 02:04:15,120
 "What's this?" she asked.
 "It's a holiday brochure." 
 
-1363
-02:04:15,120 --> 02:04:18,320
-"I know it's a holiday 
-brochure," she said, smiling.  
+1376
+02:04:15,120 --> 02:04:19,840
+"I know it's a holiday brochure," she 
+said, smiling. "Where are we going?" 
 
-1364
-02:04:18,880 --> 02:04:22,080
-"Where are we going?"
+1377
+02:04:20,800 --> 02:04:23,840
 "We're going on a cruise."
  
-  
-
-1365
-02:04:22,880 --> 02:04:25,200
+ 
 CHAPTER FIFTEEN
-Revelations 
 
-1366
+1378
+02:04:24,400 --> 02:04:25,200
+Revelations
+
+1379
 02:04:27,280 --> 02:04:32,880
 Two more days passed with no sign of Dominic. 
 Then three days, then four, then five.  
 
-1367
+1380
 02:04:33,760 --> 02:04:39,200
 Soon a whole week had passed. Eventually the 
 authorities decided to call off the search,  
 
-1368
+1381
 02:04:39,200 --> 02:04:44,640
 and let the ship continue on its voyage. The 
 shipping line did not want to cause any further  
 
-1369
+1382
 02:04:44,640 --> 02:04:49,760
 inconvenience for the passengers. The longer 
 they stayed there, the more bad publicity they  
 
-1370
+1383
 02:04:49,760 --> 02:04:54,720
 faced from the press. From their point of 
 view the sooner things got back to normal,  
 
-1371
+1384
 02:04:54,720 --> 02:05:02,240
 the better. Cruise life continued and the 
 Parvina took Eddie and Lynn, and its mystery,  
 
-1372
+1385
 02:05:02,240 --> 02:05:10,640
 to St Lucia, Antigua, Martinique and Grenada.
 Back in Barbados, before flying home, Eddie and  
 
-1373
+1386
 02:05:10,640 --> 02:05:16,640
 Lynn went shopping and stopped at a cafe. The 
 TV was on by the bar, but the sound was off.  
 
-1374
+1387
 02:05:17,520 --> 02:05:22,880
 Eddie stared at the news and saw some familiar 
 pictures of the ship, the helicopter searches,  
 
-1375
+1388
 02:05:22,880 --> 02:05:27,200
 and the same photograph of Dominic that was 
 used in all the reports of his disappearance.  
 
-1376
+1389
 02:05:28,480 --> 02:05:33,360
 They had seen all these pictures before, 
 but this time the report seemed to continue  
 
-1377
+1390
 02:05:33,360 --> 02:05:39,920
 with interviews with people back in the UK.
 Eddie could see a businessman talking to a TV  
 
-1378
+1391
 02:05:39,920 --> 02:05:46,000
 journalist. Then another. Then there were pictures 
 of some buildings. They were offices where Dominic  
 
-1379
+1392
 02:05:46,000 --> 02:05:51,440
 had worked, but Eddie didn't recognise them. 
 There were pictures of Dominic's house, and an  
 
-1380
+1393
 02:05:51,440 --> 02:05:57,840
 interview with an elderly couple. The caption read 
 that they were Dominic's neighbours. There was no  
 
-1381
+1394
 02:05:57,840 --> 02:06:02,480
 time to get up and see if he could turn on the 
 sound before the news moved on to another topic. 
 
-1382
+1395
 02:06:03,840 --> 02:06:08,160
 "Lynn, they've just shown the report on 
 Dominic again. But they're showing more  
 
-1383
+1396
 02:06:08,160 --> 02:06:11,840
 stuff from home and about where he worked 
 - and interviews with his neighbours!" 
 
-1384
+1397
 02:06:12,640 --> 02:06:16,560
 "Well, everyone loves a good 
 mystery, I suppose," she said. 
 
-1385
+1398
 02:06:17,120 --> 02:06:20,480
 "No, I think the story's 
 changed. Something's going on." 
 
-1386
+1399
 02:06:21,440 --> 02:06:24,800
 "Well, maybe you should get a 
 newspaper or look on the internet." 
 
-1387
+1400
 02:06:25,520 --> 02:06:31,600
 "Good idea," said Eddie, looking around. There 
 were no papers, but there were two computer  
 
-1388
+1401
 02:06:31,600 --> 02:06:36,960
 screens in the corner. Eddie bought a username 
 and password from the waiter and went online.  
 
-1389
+1402
 02:06:37,760 --> 02:06:43,600
 He keyed in the address for The Times' website, 
 and there he saw a headline below the UK political  
 
-1390
+1403
 02:06:43,600 --> 02:06:50,160
 news that took him completely by surprise. Under 
 a familiar photograph of Dominic, it read:
-  
+ 
 
-1391
+1404
 02:06:50,960 --> 02:06:54,960
 Missing businessman stole 
 thousands. Police suspect suicide.
-  
+ 
 
-1392
+1405
 02:06:56,160 --> 02:07:00,480
 Eddie couldn't believe it. He clicked on 
 the headline and a new page revealed itself  
 
-1393
+1406
 02:07:00,480 --> 02:07:04,960
 on the screen. Underneath the headline 
 there was a picture of a younger Dominic,  
 
-1394
+1407
 02:07:04,960 --> 02:07:08,880
 and a new article appeared. Eddie 
 could not read it fast enough:
-  
+ 
 
-1395
+1408
 02:07:10,960 --> 02:07:15,280
 The search for missing London businessman 
 Dominic Stephens has finally been called off.  
 
-1396
+1409
 02:07:15,840 --> 02:07:21,440
 Authorities now believe that Mr Stephens took 
 his own life whilst on a cruise in the Caribbean,  
 
-1397
+1410
 02:07:21,440 --> 02:07:25,840
 leaving behind large debts and 
 a trail of fraud and corruption. 
 
-1398
+1411
 02:07:25,840 --> 02:07:31,280
 Mr Stephens went missing over a week ago on 
 the American cruise ship Parvina some time  
 
-1399
+1412
 02:07:31,280 --> 02:07:37,520
 after midnight on 20 June in the south 
 Caribbean sea. After days of searching,  
 
-1400
+1413
 02:07:37,520 --> 02:07:42,400
 it is now believed that Mr Stephens may have 
 jumped overboard somewhere between Barbados and  
 
-1401
+1414
 02:07:42,400 --> 02:07:49,600
 St Lucia in an act of suicide. The exact time of 
 his disappearance is not known. Search and rescue  
 
-1402
+1415
 02:07:49,600 --> 02:07:54,480
 teams have been covering an area of thousands 
 of square miles with no sign of Mr Stephens. 
 
-1403
+1416
 02:07:55,200 --> 02:08:00,480
 The disappearance follows reports that Mr Stephens 
 had recently been fired from Flash Electronics  
 
-1404
+1417
 02:08:00,480 --> 02:08:06,640
 Inc. by partners in the firm. It had been 
 discovered that Mr Stephens had embezzled at least  
 
-1405
+1418
 02:08:07,200 --> 02:08:12,800
 145,000 pounds from the company during the 
 seven years he had worked there as CEO.  
 
-1406
+1419
 02:08:13,440 --> 02:08:17,200
 Further interviews with police are 
 also being held at other companies,  
 
-1407
+1420
 02:08:17,200 --> 02:08:23,040
 who have also reported acts of fraud, corruption 
 and intimidation in connection with Mr Stephens. 
 
-1408
+1421
 02:08:23,920 --> 02:08:29,920
 The sixty-one-year-old businessman was due to 
 appear in court on 15 June, charged with theft,  
 
-1409
+1422
 02:08:29,920 --> 02:08:35,120
 but failed to make an appearance. He was 
 reported missing by his wife, Margaret Stephens,  
 
-1410
+1423
 02:08:35,120 --> 02:08:39,920
 but it is believed Mr Stephens left 
 the country on 16 June to join the  
 
-1411
+1424
 02:08:39,920 --> 02:08:44,640
 cruise ship Parvina. Friends and colleagues 
 spoke of their shock and disappointment... 
 
-1412
+1425
 02:08:46,240 --> 02:08:50,880
 Eddie looked up from the screen and turned 
 around to Lynn who was sipping an iced tea. 
 
-1413
+1426
 02:08:52,720 --> 02:08:56,560
 "Lynn, you're not going to believe this," he said. 
 
-1414
+1427
 02:08:59,760 --> 02:09:05,200
 On the last night of the cruise Eddie and Lynn had 
 a quiet dinner together in the Starlight Lounge,  
 
-1415
+1428
 02:09:05,200 --> 02:09:08,560
 danced for a while, and then went 
 for a walk on deck before bed. 
 
-1416
+1429
 02:09:10,560 --> 02:09:14,960
 Although the day's intense humidity 
 had gone, the evening was still warm.  
 
-1417
+1430
 02:09:14,960 --> 02:09:20,480
 The sky was clear, and bright stars mixed once 
 more with island lights on the far horizon.  
 
-1418
+1431
 02:09:21,360 --> 02:09:26,320
 Eddie leaned on the rail and looked out.
 "I'm going to miss all this," he said. 
 
-1419
+1432
 02:09:26,880 --> 02:09:30,560
 "I know. Me too. But we 
 can do it again, can't we?" 
 
-1420
+1433
 02:09:30,560 --> 02:09:34,400
 "Yes. Definitely."
 "But maybe next time  
 
-1421
+1434
 02:09:34,960 --> 02:09:39,360
 we can do it without your ex-boss turning 
 up and creating an international incident." 
 
-1422
+1435
 02:09:40,480 --> 02:09:44,160
 Eddie smiled. "Well, if he does turn up next time,  
 
-1423
+1436
 02:09:44,880 --> 02:09:48,960
 he'll have a lot of explaining to do."
 "Unbelievable.  
 
-1424
+1437
 02:09:48,960 --> 02:09:54,640
 It's like a story from a film or a book."
 "Yes. Truth is often stranger than fiction." 
 
-1425
+1438
 02:09:55,840 --> 02:10:02,560
 A pause. Both of them looked out to sea.
 "Do you really think he's out there?" asked Lynn. 
 
-1426
+1439
 02:10:03,360 --> 02:10:05,920
 "He must be. He's not on 
 the ship, that's for sure." 
 
-1427
+1440
 02:10:07,920 --> 02:10:14,240
 "It's a scary thought. He must have been so 
 desperate, to jump off a ship at sea. If he did  
 
-1428
+1441
 02:10:14,240 --> 02:10:18,240
 jump. Can you imagine?" said Lynn.
 "Maybe he fell." 
 
-1429
+1442
 02:10:19,200 --> 02:10:24,560
 "Maybe you pushed him," she said, smiling 
 and nudging Eddie in the side with her elbow.  
 
-1430
+1443
 02:10:25,280 --> 02:10:29,840
 It still hurt where Dominic had punched 
 him. The man was still a pain in his side. 
 
-1431
+1444
 02:10:30,720 --> 02:10:33,360
 "Maybe someone else pushed him?" suggested Eddie.  
 
-1432
+1445
 02:10:34,000 --> 02:10:38,800
 "Back home there was probably a long queue of 
 people waiting to do something like that to him,  
 
-1433
+1446
 02:10:38,800 --> 02:10:42,720
 and to all the superior-minded, 
 arrogant Dominic's of the world." 
 
-1434
+1447
 02:10:43,760 --> 02:10:49,040
 "Sad," she said.
 "Very," said Eddie. "Some are pushed and some  
 
-1435
+1448
 02:10:49,040 --> 02:10:55,840
 jump anyway. That's the way it is. That's the way 
 it's always been. The trick is what you do next." 
 
-1436
+1449
 02:10:57,040 --> 02:11:03,760
 Eddie took a deep, relaxed breath, let out a 
 long sigh and looked out to sea to the Caribbean  
 
-1437
+1450
 02:11:03,760 --> 02:11:08,400
 horizon once more and for the last time.
 And then he smiled. 
 
-1438
+1451
 02:11:09,360 --> 02:11:14,640
 It was very clear to him now.
 He could easily make out the difference between  
 
-1439
+1452
 02:11:14,640 --> 02:11:20,880
 the stars and the lights of the island, and he 
 wondered why he had never noticed it before.
 
-1440
+1453
 02:11:20,880 --> 02:11:21,380
 - THE END -
 

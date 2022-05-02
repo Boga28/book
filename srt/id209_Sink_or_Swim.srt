@@ -155,7 +155,7 @@ into the sea this evening?"
 "Only two," he said.
 
 34
-00:02:47,360 --> 00:02:47,860
+00:02:47,360 --> 00:02:47,760
 "Eddie!"
 
 35
@@ -284,7 +284,7 @@ gave it some thought. "Erm... lights."
 up your own business, wasn't I?"
 
 62
-00:04:47,920 --> 00:04:48,420
+00:04:47,920 --> 00:04:48,320
 "Yes."
 
 63
@@ -1016,11 +1016,11 @@ was sitting on the bed staring into space.
 and I'm tired after walking on the island today."
 
 214
-00:17:36,560 --> 00:17:37,060
+00:17:36,560 --> 00:17:37,040
 "You sure?"
 
 215
-00:17:37,600 --> 00:17:38,100
+00:17:37,600 --> 00:17:37,920
 "Yes."
 
 216
@@ -1146,7 +1146,7 @@ Lynn was still trying to take it in. 
 "Dominic Stephens is on this ship?"
 
 242
-00:19:43,040 --> 00:19:43,540
+00:19:43,040 --> 00:19:43,280
 "Yes."
 
 243
@@ -1343,7 +1343,7 @@ smokes those hideous cigars."
 you know," he reminded her.
 
 284
-00:23:07,520 --> 00:23:08,020
+00:23:07,520 --> 00:23:07,840
 "I know."
 
 285
@@ -1824,7 +1824,7 @@ numbers suddenly don't add up."
 "Not according to Dominic."
 
 386
-00:31:04,880 --> 00:31:05,380
+00:31:04,880 --> 00:31:05,120
 "Why?"
 
 387
@@ -1869,7 +1869,7 @@ that he won the Moscow contract, not me."
 "What? That's just not true."
 
 396
-00:31:47,760 --> 00:31:48,260
+00:31:47,760 --> 00:31:48,240
 "I know."
 
 397
@@ -2281,7 +2281,7 @@ had seen earlier. Instead it was Lynn. 
 Singing a song whose name escaped him.
 
 482
-00:38:30,080 --> 00:38:30,580
+00:38:30,080 --> 00:38:30,320
 "Lynn?"
 
 483
@@ -2325,11 +2325,11 @@ And I can't remember the name of the song."
 got more important things to do."
 
 491
-00:39:11,520 --> 00:39:12,020
+00:39:11,520 --> 00:39:11,840
 "What?"
 
 492
-00:39:12,480 --> 00:39:12,980
+00:39:12,480 --> 00:39:12,960
 Laughter.
 
 493
@@ -2887,7 +2887,7 @@ conference call," he said.
 I want to join the call."
 
 610
-00:48:02,000 --> 00:48:02,500
+00:48:02,000 --> 00:48:02,320
 "Why?"
 
 611
@@ -3803,7 +3803,7 @@ Clive, but he could see the answer coming.
 "They're making you redundant, then?"
 
 800
-01:02:35,280 --> 01:02:35,780
+01:02:35,280 --> 01:02:35,520
 "No."
 
 801
@@ -4025,7 +4025,7 @@ threw the folder into the bin.
 words sounded unreal when they came out.
 
 848
-01:05:52,400 --> 01:05:52,900
+01:05:52,400 --> 01:05:52,880
 "What for?"
 
 849
@@ -4053,7 +4053,7 @@ what they want." He turned and looked at Adam. 
 "And do you know what the worst thing is?"
 
 854
-01:06:18,160 --> 01:06:18,660
+01:06:18,160 --> 01:06:18,480
 "What?"
 
 855
@@ -4562,7 +4562,7 @@ Ignorance is happiness?"
 see these guys relax, laugh or even smile?"
 
 959
-01:14:51,440 --> 01:14:51,940
+01:14:51,440 --> 01:14:51,680
 "True."
 
 960
@@ -4593,7 +4593,7 @@ As they went back to the port 
 and the ship, Lynn spoke first.
 
 966
-01:15:19,680 --> 01:15:20,180
+01:15:19,680 --> 01:15:19,920
 "Well?"
 
 967
@@ -5316,7 +5316,7 @@ He didn't like to admit it, but Dominic was right 
 about not reading emails. They were never-ending.
 
 1117
-01:27:42,080 --> 01:27:42,580
+01:27:42,080 --> 01:27:42,560
 Dominic.
 
 1118
@@ -5601,7 +5601,7 @@ CNTS bank. What do you want?"
 you some security questions. Is that OK?"
 
 1176
-01:32:39,520 --> 01:32:40,020
+01:32:39,520 --> 01:32:39,840
 "Fine."
 
 1177
@@ -5809,7 +5809,7 @@ said, putting her arm around him.
 "I'll have a large scotch. No ice."
 
 1220
-01:35:54,000 --> 01:35:54,500
+01:35:54,000 --> 01:35:54,400
 "Really?"
 
 1221
@@ -5927,7 +5927,7 @@ and came to sit beside Eddie.
 "You're shaking."
 
 1245
-01:37:54,640 --> 01:37:55,140
+01:37:54,640 --> 01:37:54,960
 "Yeah."
 
 1246
@@ -5963,7 +5963,7 @@ At one point I think he was going to pass 
 out. I almost pushed him over the side."
 
 1253
-01:38:24,560 --> 01:38:25,060
+01:38:24,560 --> 01:38:24,960
 "Eddie!"
 
 1254
@@ -6015,7 +6015,7 @@ like kids in a playground."
 "Listen to yourself, Ed!"
 
 1265
-01:39:04,160 --> 01:39:04,660
+01:39:04,160 --> 01:39:04,560
 "I know."
 
 1266
@@ -6308,7 +6308,7 @@ Eddie, but he knew things had gone too far.
 "You can have omelets for dinner. I'm going out."
 
 1327
-01:43:56,800 --> 01:43:57,300
+01:43:56,800 --> 01:43:57,280
 "Where to?"
 
 1328
@@ -6356,7 +6356,7 @@ job, or you don't want one. I don't know."
 feeling sorry for yourself..."
 
 1338
-01:44:28,240 --> 01:44:28,740
+01:44:28,240 --> 01:44:28,560
 "Lynn..."
 
 1339
@@ -6436,7 +6436,7 @@ the front door. Eddie grabbed her arm.
 "Get your hands off me."
 
 1356
-01:45:42,480 --> 01:45:42,980
+01:45:42,480 --> 01:45:42,800
 "Lynn."
 
 1357
@@ -6609,7 +6609,7 @@ night and started another fight."
 "Maybe she strangled him?"
 
 1392
-01:48:21,200 --> 01:48:21,700
+01:48:21,200 --> 01:48:21,600
 "Eddie!"
 
 1393
@@ -6726,7 +6726,7 @@ we'd meet him later and find out then."
 "And was it him? You knew him from work?"
 
 1417
-01:50:17,040 --> 01:50:17,540
+01:50:17,040 --> 01:50:17,360
 "Yes."
 
 1418
@@ -6930,7 +6930,7 @@ it did not take them long to follow it up.
 asked a tall policeman sitting at his PC.
 
 1460
-01:53:41,680 --> 01:53:42,180
+01:53:41,680 --> 01:53:41,920
 "Yes."
 
 1461
@@ -7237,7 +7237,7 @@ midnight. We got to bed around two o'clock."
 "Not really."
 
 1524
-01:58:44,000 --> 01:58:44,500
+01:58:44,000 --> 01:58:44,320
 "Why?"
 
 1525
@@ -7253,7 +7253,7 @@ Eddie knew. "Yes," he said.
 "You?" asked Lynn.
 
 1528
-01:58:54,400 --> 01:58:54,900
+01:58:54,400 --> 01:58:54,720
 "What?"
 
 1529
@@ -7278,7 +7278,7 @@ stayed there until about one. It was OK."
 "No, it's all right. I'll text him."
 
 1534
-01:59:08,960 --> 01:59:09,460
+01:59:08,960 --> 01:59:09,280
 "OK."
 
 1535
@@ -7298,7 +7298,7 @@ A pause.
 "I miss you."
 
 1539
-01:59:18,080 --> 01:59:18,580
+01:59:18,080 --> 01:59:18,560
 "I know."
 
 1540
@@ -7310,7 +7310,7 @@ A pause.
 "I can't."
 
 1542
-01:59:23,280 --> 01:59:23,780
+01:59:23,280 --> 01:59:23,520
 "Why?"
 
 1543
@@ -7331,7 +7331,7 @@ They both laughed a little.
 "Only if you get a big one."
 
 1547
-01:59:35,040 --> 01:59:35,540
+01:59:35,040 --> 01:59:35,280
 "OK."
 
 1548
@@ -7339,7 +7339,7 @@ They both laughed a little.
 "Very big."
 
 1549
-01:59:36,800 --> 01:59:37,300
+01:59:36,800 --> 01:59:37,200
 "OK."
 
 1550
@@ -7367,7 +7367,7 @@ They both laughed a little.
 "Erm, OK."
 
 1556
-01:59:46,080 --> 01:59:46,580
+01:59:46,080 --> 01:59:46,560
 "Liar."
 
 1557
@@ -7410,7 +7410,7 @@ and read his car magazines."
 "Hmm," muttered Eddie.
 
 1566
-02:00:16,400 --> 02:00:16,900
+02:00:16,400 --> 02:00:16,880
 Silence.
 
 1567
@@ -7585,7 +7585,7 @@ sitting in the garden reading.
 "It's done," he said, smiling.
 
 1602
-02:03:30,720 --> 02:03:31,220
+02:03:30,720 --> 02:03:31,040
 "Really?"
 
 1603
@@ -8065,6 +8065,6 @@ never noticed it before.
  
 
 1700
-02:11:20,880 --> 02:11:21,380
+02:11:20,880 --> 02:11:21,378
 - THE END -
 

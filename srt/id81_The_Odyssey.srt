@@ -2077,14 +2077,14 @@ While Penelope prayed to Athene, Antinous 
 and his crew prepared their ship.  
 
 422
-00:54:07,280 --> 00:54:14,560
+00:54:07,280 --> 00:54:15,520
 As the sky grew dark, they left the shore and 
-sailed to Asteris, a little island between  
+sailed to Asteris, a little island between Ithaca  
 
 423
-00:54:14,560 --> 00:54:23,840
-Ithaca and the rocky coast of Samos. There they 
-waited for Telemachus's ship to come into view.
+00:54:15,520 --> 00:54:23,840
+and the rocky coast of Samos. There they waited 
+for Telemachus's ship to come into view.
  
  
  
@@ -3547,14 +3547,14 @@ about your life and your travels. What places 
 have you visited? What sights have you seen?  
 
 718
-01:30:40,160 --> 01:30:47,520
-And explain why our bard's stories of the 
-Trojan War cause you so much unhappiness. Did  
+01:30:40,160 --> 01:30:48,000
+And explain why our bard's stories of the Trojan 
+War cause you so much unhappiness. Did you know  
 
 719
-01:30:47,520 --> 01:30:54,240
-you know someone who died at Troy? Did you lose 
-a good friend, or someone from your family?'
+01:30:48,000 --> 01:30:54,240
+someone who died at Troy? Did you lose a good 
+friend, or someone from your family?'
  
  
  
@@ -5203,14 +5203,14 @@ So together we walked back to Circes house 
 and found our companions having baths.  
 
 1052
-02:11:42,320 --> 02:11:49,040
-Everyone greeted each other with tears in 
-their eyes. Then Circe ordered her servants  
+02:11:42,320 --> 02:11:49,600
+Everyone greeted each other with tears in their 
+eyes. Then Circe ordered her servants to prepare  
 
 1053
-02:11:49,040 --> 02:11:56,400
-to prepare a meal, and we celebrated our first 
-evening at Circe's house in very good humor.'
+02:11:49,600 --> 02:11:56,400
+a meal, and we celebrated our first evening 
+at Circe's house in very good humor.'
  
  
  
@@ -5605,7 +5605,7 @@ greedy suitors. But your father Laertes lives 
 a sad and lonely life, alone on his fruit farm.  
 
 1134
-02:21:49,760 --> 02:21:56,480
+02:21:49,760 --> 02:21:56,479
 He never goes down to the city now. In winter 
 he sleeps on the floor by his fire, without a  
 
@@ -5779,7 +5779,7 @@ to warn me about the dangers of the voyage ahead. 
 "Listen to my advice, Odysseus, and hopefully you  
 
 1169
-02:26:29,520 --> 02:26:39,121
+02:26:29,520 --> 02:26:39,120
 will remember it when you need it most. You will 
 soon meet the Sirens. They sit on their island,  
 
@@ -5874,7 +5874,7 @@ the sea floor. Three times a day she pulls it 
 down, and three times she throws it up again.  
 
 1188
-02:29:09,760 --> 02:29:16,400
+02:29:09,760 --> 02:29:16,399
 I pray that the gods keep you away from her, 
 because not even the sea-god Poseidon could  
 
@@ -6033,7 +6033,7 @@ rock, keeping the ship away from the rough water. 
 Stay at your oars and pull as hard as you can."
 
 1220
-02:33:17,760 --> 02:33:25,440
+02:33:17,760 --> 02:33:25,439
 The crew obeyed. I did not tell them about Scylla, 
 because fear of the monster would stop them from  
 
@@ -6351,7 +6351,7 @@ the sea. Worse followed, as Zeus struck the ship 
 with lightning. The whole ship shook violently.  
 
 1284
-02:41:10,720 --> 02:41:16,241
+02:41:10,720 --> 02:41:16,240
 The men held on tightly, but one by 
 one they were thrown from the ship.  
 
@@ -6366,7 +6366,7 @@ I alone was left on board. But soon the strength 
 of the enormous waves broke the ship into pieces.  
 
 1287
-02:41:33,680 --> 02:41:41,280
+02:41:33,680 --> 02:41:41,279
 Luckily, I managed to climb onto a broken piece 
 of wood, and I held on tightly. All night I was  
 
@@ -6386,7 +6386,7 @@ in the sea. Just in time, I managed to catch 
 a branch of the tree that grew from the rock.  
 
 1291
-02:42:04,640 --> 02:42:12,320
+02:42:04,640 --> 02:42:12,319
 I could not get my feet onto the tree, 
 but I hung by my arms, hour after hour.  
 
@@ -6406,7 +6406,7 @@ Scylla did not see me, because there was 
 nothing to protect me from her greedy mouths.
 
 1295
-02:42:34,640 --> 02:42:40,480
+02:42:34,640 --> 02:42:40,479
 'I was at sea for another nine days, until the 
 waves carried me to the shores of Calypso's  
 
@@ -6417,8 +6417,8 @@ home. But I have already told you about  
 
 1297
 02:42:48,800 --> 02:42:57,600
-my life with Calypso, good Phaeacians. 
-I have reached the end of my story.'
+my life with Calypso, good Phaeacians. I 
+have reached the end of my story.'
  
  
  
@@ -6565,7 +6565,7 @@ took all his gifts from the ship and piled them 
 next to him. Then they started their voyage home.
 
 1327
-02:46:28,640 --> 02:46:35,360
+02:46:28,640 --> 02:46:35,359
 Athene threw a fog over the island of Ithaca, so 
 that no one noticed Odysseus before she could warn  
 
@@ -6580,7 +6580,7 @@ homeland. He jumped to his feet and cried, 'Oh 
 no! Whose country have I come to this time?  
 
 1330
-02:46:51,760 --> 02:46:59,280
+02:46:51,760 --> 02:46:59,279
 Will they be kind hosts, or dangerous monsters? 
 Where can I keep my treasure safe? And what were  
 
@@ -6694,7 +6694,7 @@ beautiful goddess in front of him.  
 your tricks, Odysseus! You and I are so similar.  
 
 1353
-02:49:36,560 --> 02:49:43,440
+02:49:36,560 --> 02:49:43,439
 You are the cleverest and most resourceful person 
 in the world of men, and I am the cleverest  
 
@@ -6788,7 +6788,7 @@ warned him about the situation in the palace.  
 arrogant and greedy men, who will do anything.  
 
 1372
-02:51:34,640 --> 02:51:41,360
+02:51:34,640 --> 02:51:41,359
 They are even trying to murder your son 
 Telemachus. When it is time to fight them, I will  
 
@@ -7037,14 +7037,14 @@ When it was time for sleep, Eumaeus lent 
 Odysseus a thick coat to use as a blanket.  
 
 1422
-02:57:26,560 --> 02:57:32,320
+02:57:26,560 --> 02:57:31,760
 Then, always careful of his master's 
-property, he went out to sleep with the pigs,  
+property, he went out to sleep with  
 
 1423
-02:57:32,880 --> 02:57:36,319
-to protect them from thieves and 
-wild animals during the night.
+02:57:31,760 --> 02:57:36,320
+the pigs, to protect them from thieves 
+and wild animals during the night.
  
  
  
@@ -7097,7 +7097,7 @@ suitors. If you do not go home soon, you will 
 return to an empty house. But be careful.  
 
 1434
-02:58:37,920 --> 02:58:43,440
+02:58:37,920 --> 02:58:43,439
 The suitors have sent a ship to attack you 
 on your voyage home. They are waiting for  
 
@@ -7201,7 +7201,7 @@ climbed into their chariot.
 only hope that one day I can give  
 
 1455
-03:00:59,680 --> 03:01:06,320
+03:00:59,680 --> 03:01:06,319
 your good wishes to my father too, 
 and tell him of your kindness to me.'
 
@@ -7420,7 +7420,7 @@ One day a ship arrived from Phoenicia with 
 lots of jewels and pretty things for sale.  
 
 1500
-03:05:49,840 --> 03:05:56,400
+03:05:49,840 --> 03:05:56,399
 One of my father's servants was Phoenician. 
 As a young girl, she had been stolen from  
 
@@ -7744,7 +7744,7 @@ Tell me how many of them there are. 
 Then I can decide how to fight them.'
 
 1566
-03:13:23,600 --> 03:13:29,440
+03:13:23,600 --> 03:13:29,439
 'There are more than a hundred suitors. I know 
 that you have a great reputation as a soldier,  
 
@@ -7778,7 +7778,7 @@ disguised again as an old man. If the suitors 
 are rough with me, do not worry. Their day of  
 
 1573
-03:14:06,720 --> 03:14:14,240
+03:14:06,720 --> 03:14:14,239
 judgment is coming. But tell no one about my 
 return - not my father Laertes, or Eumaeus,  
 
@@ -7928,7 +7928,7 @@ of happiness. The other servants followed, and 
 finally Penelope came out of her room. Tears ran  
 
 1603
-03:17:36,640 --> 03:17:44,480
+03:17:36,640 --> 03:17:44,479
 down her face as she threw her arms around him. 
 'You are back, my child! And I thought I would  
 
@@ -7943,7 +7943,7 @@ But come, tell me what you learnt on your voyage.'
 received us kindly, but knew nothing about  
 
 1606
-03:18:00,800 --> 03:18:08,320
+03:18:00,800 --> 03:18:08,319
 Odysseus's fate. He lent me a chariot, though, 
 and with his son Peisistratus I went by land  
 
@@ -8052,7 +8052,7 @@ He would soon cure Melanthius of the arrogant 
 ways that he has learnt from the suitors.'
 
 1628
-03:20:47,520 --> 03:20:55,041
+03:20:47,520 --> 03:20:55,040
 Melanthius laughed as he walked away. 'Odysseus's 
 chance of returning is as low as Telemachus s  
 
@@ -8269,7 +8269,7 @@ But she decided to wait until the 
 suitors had gone home to their beds.
 
 1672
-03:26:12,720 --> 03:26:18,400
+03:26:12,720 --> 03:26:18,399
 First, though, she wanted to talk 
 to her son. 'It is not good for him  
 
@@ -8328,7 +8328,7 @@ Penelope now addressed the suitors. 'When my 
 husband sailed to Troy, he warned me of the  
 
 1684
-03:27:28,720 --> 03:27:36,240
+03:27:28,720 --> 03:27:36,239
 dangers that he would face. "I cannot promise that 
 I will ever return," he said. "Wait patiently for  
 
@@ -8427,7 +8427,7 @@ have never had to face a real hero. If Odysseus 
 returned now, you would soon run away in fear.'
 
 1704
-03:29:56,560 --> 03:30:04,480
+03:29:56,560 --> 03:30:04,479
 Eurymachus was very angry. He took a chair 
 and threw it at Odysseus. Odysseus stepped  
 
@@ -8653,7 +8653,7 @@ She sat at the stranger's feet to wash them, while 
 Penelope gave instructions to the other servants.  
 
 1750
-03:34:57,520 --> 03:35:05,041
+03:34:57,520 --> 03:35:05,040
 'Old man,' said Eurycleia, 'we have had many 
 travellers at the palace before, but none of  
 
@@ -8827,7 +8827,7 @@ day, you will see him again with your own eyes.'
 right. It is my dearest wish.'
 
 1785
-03:39:04,720 --> 03:39:13,280
+03:39:04,720 --> 03:39:13,279
 The farmer Melanthius, who had also come for the 
 meal, heard their conversation. 'This smelly old  
 
@@ -8882,7 +8882,7 @@ I would prefer to die than 
 to let you hurt my guest.'
 
 1796
-03:40:27,840 --> 03:40:31,360
+03:40:27,840 --> 03:40:31,359
 The suitors laughed at his 
 words, until they saw strange  
 
@@ -9051,7 +9051,7 @@ but it was impossible. 'Friends, I cannot 
 do it,' he said. 'Let someone else try. But  
 
 1830
-03:44:36,640 --> 03:44:44,161
+03:44:36,640 --> 03:44:44,160
 I fear that this bow will break the heart 
 of many men here today.' Antinous cried,  
 
@@ -9074,7 +9074,7 @@ Eurymachus and Antinous watched and 
 waited, learning from the others' mistakes.
 
 1835
-03:45:08,560 --> 03:45:15,200
+03:45:08,560 --> 03:45:15,199
 At this point Eumaeus and Philoetius the 
 cow farmer left the hall. The competition  
 
@@ -9084,7 +9084,7 @@ was bringing to an end their hopes for Odysseus's 
 happy return. They could not watch it any longer.
 
 1837
-03:45:22,800 --> 03:45:31,440
+03:45:22,800 --> 03:45:31,439
 But Odysseus came running after them. 'My 
 friends,' he said, 'do not leave yet. I have an  
 
@@ -9235,7 +9235,7 @@ that is impossible. So let him try his strength 
 against the rest of you. What harm could it do?'
 
 1868
-03:49:03,680 --> 03:49:11,280
+03:49:03,680 --> 03:49:11,279
 It was Eurymachus who replied. 'The people 
 will think badly of us if he succeeds. He is  
 
@@ -9453,7 +9453,7 @@ Eurymachus called to the other suitors,  
 Get your swords ready, men. We must fight!'
 
 1912
-03:54:29,520 --> 03:54:36,320
+03:54:29,520 --> 03:54:36,319
 Eurymachus ran at Odysseus with his sword, 
 but Odysseus shot an arrow at his chest. He  
 
@@ -9497,7 +9497,7 @@ The suitors, with few swords between them, 
 could do little to defend themselves.  
 
 1921
-03:55:32,560 --> 03:55:38,320
+03:55:32,560 --> 03:55:38,319
 But Melanthius the farmer had an idea. 
 'Telemachus must have the swords from  
 
@@ -9527,7 +9527,7 @@ that they could win against so many.
 his son. 'Who in the palace is helping them?'
 
 1927
-03:56:13,520 --> 03:56:21,280
+03:56:13,520 --> 03:56:21,279
 'Look!' cried Eumaeus. 'Melanthius has a 
 great pile of swords. He has found the room  
 
@@ -9587,7 +9587,7 @@ moment. Will you fight with us?'
 fighting the Trojans' finest soldiers,'  
 
 1939
-03:57:23,680 --> 03:57:27,200
+03:57:23,680 --> 03:57:27,199
 she replied. 'Now you are in your own home,  
 
 1940
@@ -9667,8 +9667,8 @@ the hall for more suitors to kill. But they were  
 
 1955
 03:59:08,720 --> 03:59:15,440
-all piled on the floor on top of 
-each other. No one was left alive.
+all piled on the floor on top of each 
+other. No one was left alive.
  
  
  
@@ -10026,12 +10026,8 @@ there is hope that one day our troubles will end.'
 2028
 04:07:06,640 --> 04:07:12,161
 Odysseus smiled at her words. 
-Then he took his dear wife  
+Then he took his dear wife  to their bed.
 
 2029
-04:07:13,040 --> 04:07:16,817
-to their bed.
- 
- 
+04:07:13,040 --> 04:07:16,800
 - THE END -
-

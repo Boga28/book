@@ -1,5207 +1,3612 @@
 1
-00:00:01,050 --> 00:00:04,600
+00:00:01,040 --> 00:00:03,280
 127 HOURS
 
 2
-00:00:04,600 --> 00:00:08,560
+00:00:04,480 --> 00:00:05,040
 PROLOGUE
-You are going to die.
 
 3
-00:00:08,560 --> 00:00:11,290
-I hear the voice in my head.
+00:00:06,160 --> 00:00:07,280
+You are going to die.
 
 4
-00:00:11,290 --> 00:00:13,550
+00:00:08,400 --> 00:00:12,880
+I hear the voice in my head. 
 I call it my first voice.
 
 5
-00:00:13,550 --> 00:00:18,179
-It always comes after I've made some kind
-of mistake.
+00:00:14,320 --> 00:00:21,200
+It always comes after I've made some kind of 
+mistake. Its words never help, they just make  
 
 6
-00:00:18,179 --> 00:00:23,380
-Its words never help, they just make me feel
-bad.
+00:00:21,200 --> 00:00:29,920
+me feel bad. So I wait for the second voice. Its 
+words are calm and sensible and nearly always help  
 
 7
-00:00:23,380 --> 00:00:26,449
-So I wait for the second voice.
+00:00:29,920 --> 00:00:38,320
+me. I wait, but tonight the second voice doesn't 
+come. There is only silence, darkness and cold.
 
 8
-00:00:26,449 --> 00:00:31,229
-Its words are calm and sensible and nearly
-always help me.
+00:00:39,680 --> 00:00:47,360
+In the first days, the second voice always came. 
+It stopped me feeling sad, angry, or afraid.  
 
 9
-00:00:31,229 --> 00:00:35,609
-I wait, but tonight the second voice doesn't
-come.
+00:00:48,400 --> 00:00:52,000
+It gave me ideas. It showed me things.  
 
 10
-00:00:35,609 --> 00:00:38,920
-There is only silence, darkness and cold.
+00:00:53,120 --> 00:01:00,640
+It brought me hope. I believed I could be free 
+again. But, slowly, that voice disappeared.  
 
 11
-00:00:38,920 --> 00:00:43,700
-In the first days, the second voice always
-came.
+00:01:01,680 --> 00:01:08,560
+My belief disappeared with it. Now there 
+is only the first voice. It says the same  
 
 12
-00:00:43,700 --> 00:00:47,890
-It stopped me feeling sad, angry, or afraid.
+00:01:08,560 --> 00:01:15,280
+thing over and over again. Finally, I must 
+accept the truth: I am going to die.
+ 
+ 
+ 
 
 13
-00:00:47,890 --> 00:00:50,079
-It gave me ideas.
+00:01:17,120 --> 00:01:17,840
+CHAPTER ONE
 
 14
-00:00:50,079 --> 00:00:52,679
-It showed me things.
-
-15
-00:00:52,679 --> 00:00:55,289
-It brought me hope.
-
-16
-00:00:55,289 --> 00:00:57,960
-I believed I could be free again.
-
-17
-00:00:57,960 --> 00:01:01,899
-But, slowly, that voice disappeared.
-
-18
-00:01:01,899 --> 00:01:04,629
-My belief disappeared with it.
-
-19
-00:01:04,629 --> 00:01:07,110
-Now there is only the first voice.
-
-20
-00:01:07,110 --> 00:01:11,240
-It says the same thing over and over again.
-
-21
-00:01:11,240 --> 00:01:17,300
-Finally, I must accept the truth: I am going
-to die.
-
-22
-00:01:17,300 --> 00:01:20,900
-CHAPTER ONE
+00:01:18,960 --> 00:01:20,880
 'The most beautiful place on Earth'
 
+15
+00:01:21,920 --> 00:01:29,040
+It is Saturday, April the 26th, 
+2003. My name is Aron Ralston.  
+
+16
+00:01:30,080 --> 00:01:37,680
+I'm biking and hiking in Canyonlands National 
+Park in southeast Utah, USA. Edward Abbey,  
+
+17
+00:01:37,680 --> 00:01:42,480
+one of my favourite writers, described it 
+as 'the most beautiful place on Earth'.  
+
+18
+00:01:43,680 --> 00:01:47,920
+Right now, with the sun on my back 
+and the wind in my hair, I agree.
+
+19
+00:01:49,440 --> 00:01:52,240
+Today is the third day of an activity holiday.  
+
+20
+00:01:53,280 --> 00:01:58,800
+It started on Thursday when I went climbing 
+and skiing on Mount Soplis with my friend,  
+
+21
+00:01:58,800 --> 00:02:06,880
+Brad. Yesterday, I biked the Slick Rock Trail, 
+alone. It's not very long - only a little  
+
+22
+00:02:06,880 --> 00:02:12,240
+over nineteen kilometres - but it's one of 
+the most difficult bike trails in the US.  
+
 23
-00:01:20,900 --> 00:01:27,460
-It is Saturday, April the 26th, 2003.
+00:02:13,600 --> 00:02:19,520
+Today, my plan is to hike through Blue John and 
+Horseshoe Canyons after biking to the trail.  
 
 24
-00:01:27,460 --> 00:01:30,400
-My name is Aron Ralston.
+00:02:20,560 --> 00:02:24,640
+I'll leave my bike at the end of the 
+trail and hike back to the carpark.  
 
 25
-00:01:30,400 --> 00:01:36,130
-I'm biking and hiking in Canyonlands National
-Park in southeast Utah, USA.
+00:02:25,600 --> 00:02:28,880
+I'll drive over in the truck 
+and collect the bike later.
 
 26
-00:01:36,130 --> 00:01:41,960
-Edward Abbey, one of my favourite writers,
-described it as 'the most beautiful place
+00:02:30,480 --> 00:02:35,840
+After that, I'll drive to Goblin Valley, 
+about eighty kilometres north of here.  
 
 27
-00:01:41,960 --> 00:01:43,040
-on Earth'.
+00:02:36,880 --> 00:02:42,800
+My friends are having a party there. I 
+hope I get some sleep because tomorrow  
 
 28
-00:01:43,040 --> 00:01:49,220
-Right now, with the sun on my back and the
-wind in my hair, I agree.
+00:02:42,800 --> 00:02:47,200
+I want to hike the most popular trail 
+in southern Utah - Little White Horse.
 
 29
-00:01:49,220 --> 00:01:52,490
-Today is the third day of an activity holiday.
+00:02:48,800 --> 00:02:53,040
+I plan to spend the whole of Monday 
+biking along the White Rim Trail.  
 
 30
-00:01:52,490 --> 00:01:59,570
-It started on Thursday when I went climbing
-and skiing on Mount Soplis with my friend,
+00:02:54,080 --> 00:02:58,880
+The trail forms a rough circle of 175 kilometres.  
 
 31
-00:01:59,570 --> 00:02:00,570
-Brad.
+00:03:00,000 --> 00:03:07,040
+It's not difficult and I should be able to finish 
+in about eighteen hours. By Monday evening,  
 
 32
-00:02:00,570 --> 00:02:04,240
-Yesterday, I biked the Slick Rock Trail, alone.
+00:03:07,040 --> 00:03:14,240
+I'll be back in Aspen, Colorado. Aspen is famous 
+for its mountains and the countryside around it.  
 
 33
-00:02:04,240 --> 00:02:10,810
-It's not very long - only a little over nineteen
-kilometres - but it's one of the most difficult
+00:03:15,200 --> 00:03:22,080
+It's a popular place for skiing. I live there and 
+I work for Ute Mountaineer, a sports equipment  
 
 34
-00:02:10,810 --> 00:02:13,290
-bike trails in the US.
+00:03:22,080 --> 00:03:29,200
+shop. Leona, one of the people I live and work 
+with, is having a goodbye party on Monday night.  
 
 35
-00:02:13,290 --> 00:02:19,310
-Today, my plan is to hike through Blue John
-and Horseshoe Canyons after biking to the
+00:03:30,320 --> 00:03:35,280
+Now that winter is over, she's going 
+to another town in Colorado to work  
 
 36
-00:02:19,310 --> 00:02:20,870
-trail.
+00:03:35,280 --> 00:03:40,480
+as a gardener for the summer. Her party 
+will be a cool way to end my trip.
+ 
+ 
 
 37
-00:02:20,870 --> 00:02:25,890
-I'll leave my bike at the end of the trail
-and hike back to the carpark.
-
-38
-00:02:25,890 --> 00:02:30,920
-I'll drive over in the truck and collect the
-bike later.
-
-39
-00:02:30,920 --> 00:02:37,060
-After that, I'll drive to Goblin Valley, about
-eighty kilometres north of here.
-
-40
-00:02:37,060 --> 00:02:40,120
-My friends are having a party there.
-
-41
-00:02:40,120 --> 00:02:45,650
-I hope I get some sleep because tomorrow I
-want to hike the most popular trail in southern
-
-42
-00:02:45,650 --> 00:02:48,260
-Utah - Little White Horse.
-
-43
-00:02:48,260 --> 00:02:53,900
-I plan to spend the whole of Monday biking
-along the White Rim Trail.
-
-44
-00:02:53,900 --> 00:03:00,319
-The trail forms a rough circle of 175 kilometres.
-
-45
-00:03:00,319 --> 00:03:04,930
-It's not difficult and I should be able to
-finish in about eighteen hours.
-
-46
-00:03:04,930 --> 00:03:08,101
-By Monday evening, I'll be back in Aspen,
-Colorado.
-
-47
-00:03:08,101 --> 00:03:14,720
-Aspen is famous for its mountains and the
-countryside around it.
-
-48
-00:03:14,720 --> 00:03:18,360
-It's a popular place for skiing.
-
-49
-00:03:18,360 --> 00:03:23,380
-I live there and I work for Ute Mountaineer,
-a sports equipment shop.
-
-50
-00:03:23,380 --> 00:03:30,569
-Leona, one of the people I live and work with,
-is having a goodbye party on Monday night.
-
-51
-00:03:30,569 --> 00:03:36,310
-Now that winter is over, she's going to another
-town in Colorado to work as a gardener for
-
-52
-00:03:36,310 --> 00:03:37,530
-the summer.
-
-53
-00:03:37,530 --> 00:03:42,000
-Her party will be a cool way to end my trip.
-
-54
-00:03:42,000 --> 00:03:45,010
+00:03:42,400 --> 00:03:43,360
 00 hrs
 
+38
+00:03:45,120 --> 00:03:51,440
+8.45 am I arrive at the Horseshoe Canyon 
+carpark early in the morning, pull my bike  
+
+39
+00:03:51,440 --> 00:03:57,520
+from the truck and lock the door. Then I check 
+the time: eight forty-five in the morning.  
+
+40
+00:03:58,480 --> 00:04:03,440
+As I start cycling, I wonder how quickly 
+I can get to the start of the trail.
+
+41
+00:04:04,880 --> 00:04:08,080
+I can now see the sign pointing 
+to this end of the trail.
+
+42
+00:04:09,600 --> 00:04:17,120
+That means I've cycled thirteen kilometres 
+in less than two hours. That's good. It will  
+
+43
+00:04:17,120 --> 00:04:23,920
+give me more time to finish my hike back to the 
+truck. I lock my bike to a tree and start walking.
+
+44
+00:04:25,360 --> 00:04:29,760
+As I walk, I think about the history 
+of the people who were here before me.  
+
+45
+00:04:30,880 --> 00:04:33,760
+One of them, Butch Cassidy, was very famous.  
+
+46
+00:04:34,960 --> 00:04:41,920
+He and his men stole horses and hid from the law 
+during the last years of the nineteenth century.
+
+47
+00:04:41,920 --> 00:04:45,920
+Since that time, the area has 
+been called Robbers Roost country.
+
+48
+00:04:47,360 --> 00:04:53,600
+My climbing bag is heavy with the weight of my 
+equipment. I think about my plan for the day.  
+
+49
+00:04:54,720 --> 00:04:58,160
+Blue John Canyon will be the 
+most difficult part of the hike.
+
+50
+00:04:59,680 --> 00:05:03,120
+Three kilometres along the 
+trail is the Big Drop Rappel.
+
+51
+00:05:04,560 --> 00:05:12,720
+Here, the canyon suddenly drops eighteen metres. 
+The hardest part is 180 metres before this.  
+
+52
+00:05:13,840 --> 00:05:17,760
+The walls there are very narrow 
+and the trail goes up and down,  
+
+53
+00:05:17,760 --> 00:05:22,960
+sharply. There are also a lot of 
+very large rocks called boulders,  
+
+54
+00:05:22,960 --> 00:05:28,880
+stuck between the canyon walls. If these 
+boulders move or fall, they can be dangerous.
+
 55
-00:03:45,010 --> 00:03:51,910
-8.45 am I arrive at the Horseshoe Canyon carpark
-early in the morning, pull my bike from the
+00:05:30,320 --> 00:05:32,800
+But I'm not thinking of danger at the moment.  
 
 56
-00:03:51,910 --> 00:03:53,470
-truck and lock the door.
+00:05:33,920 --> 00:05:42,560
+I am excited. Today, I will finally see the Great 
+Gallery. The Gallery is part of Horseshoe Canyon,  
 
 57
-00:03:53,470 --> 00:03:57,940
-Then I check the time: eight forty-five in
-the morning.
+00:05:42,560 --> 00:05:49,200
+and it's famous for the huge rock paintings which 
+cover its walls. Some of them are more than five  
 
 58
-00:03:57,940 --> 00:04:04,930
-As I start cycling, I wonder how quickly I
-can get to the start of the trail.
+00:05:49,200 --> 00:05:57,040
+thousand years old. I should reach my truck by 
+late afternoon. So far, things are going well.  
 
 59
-00:04:04,930 --> 00:04:09,030
-I can now see the sign pointing to this end
-of the trail.
+00:05:58,160 --> 00:06:06,240
+I arrived here earlier than I thought. This 
+gives me a little more time to finish my trip.
 
 60
-00:04:09,030 --> 00:04:13,840
-That means I've cycled thirteen kilometres
-in less than two hours.
+00:06:06,240 --> 00:06:13,280
+I always get very excited when I'm about to leave 
+on a trip. This means I sometimes forget things.  
 
 61
-00:04:13,840 --> 00:04:14,840
-That's good.
+00:06:14,480 --> 00:06:20,720
+Before starting this trip, I forgot to leave a 
+message telling anyone exactly where I was going.  
 
 62
-00:04:14,840 --> 00:04:21,289
-It will give me more time to finish my hike
-back to the truck.
+00:06:21,760 --> 00:06:28,320
+This is one of the things my mother taught me. 
+But this time, I just called a quick goodbye to  
 
 63
-00:04:21,289 --> 00:04:25,659
-I lock my bike to a tree and start walking.
+00:06:28,320 --> 00:06:37,920
+my housemates - Brian, Joe, and Leona. Leona asked 
+where I was going. I told her I was going to Utah  
 
 64
-00:04:25,659 --> 00:04:31,139
-As I walk, I think about the history of the
-people who were here before me.
-
-65
-00:04:31,139 --> 00:04:35,169
-One of them, Butch Cassidy, was very famous.
-
-66
-00:04:35,169 --> 00:04:40,219
-He and his men stole horses and hid from the
-law during the last years of the nineteenth
-
-67
-00:04:40,219 --> 00:04:42,279
-century.
-
-68
-00:04:42,279 --> 00:04:47,530
-Since that time, the area has been called
-Robbers Roost country.
-
-69
-00:04:47,530 --> 00:04:51,790
-My climbing bag is heavy with the weight of
-my equipment.
-
-70
-00:04:51,790 --> 00:04:54,330
-I think about my plan for the day.
-
-71
-00:04:54,330 --> 00:04:59,910
-Blue John Canyon will be the most difficult
-part of the hike.
-
-72
-00:04:59,910 --> 00:05:03,990
-Three kilometres along the trail is the Big
-Drop Rappel.
-
-73
-00:05:03,990 --> 00:05:08,210
-Here, the canyon suddenly drops eighteen metres.
-
-74
-00:05:08,210 --> 00:05:14,069
-The hardest part is 180 metres before this.
-
-75
-00:05:14,069 --> 00:05:19,569
-The walls there are very narrow and the trail
-goes up and down, sharply.
-
-76
-00:05:19,569 --> 00:05:24,960
-There are also a lot of very large rocks called
-boulders, stuck between the canyon walls.
-
-77
-00:05:24,960 --> 00:05:30,610
-If these boulders move or fall, they can be
-dangerous.
-
-78
-00:05:30,610 --> 00:05:33,400
-But I'm not thinking of danger at the moment.
-
-79
-00:05:33,400 --> 00:05:35,729
-I am excited.
-
-80
-00:05:35,729 --> 00:05:38,450
-Today, I will finally see the Great Gallery.
-
-81
-00:05:38,450 --> 00:05:45,180
-The Gallery is part of Horseshoe Canyon, and
-it's famous for the huge rock paintings which
-
-82
-00:05:45,180 --> 00:05:47,680
-cover its walls.
-
-83
-00:05:47,680 --> 00:05:51,520
-Some of them are more than five thousand years
-old.
-
-84
-00:05:51,520 --> 00:05:54,340
-I should reach my truck by late afternoon.
-
-85
-00:05:54,340 --> 00:05:58,360
-So far, things are going well.
-
-86
-00:05:58,360 --> 00:06:00,900
-I arrived here earlier than I thought.
-
-87
-00:06:00,900 --> 00:06:06,380
-This gives me a little more time to finish
-my trip.
-
-88
-00:06:06,380 --> 00:06:10,669
-I always get very excited when I'm about to
-leave on a trip.
-
-89
-00:06:10,669 --> 00:06:14,190
-This means I sometimes forget things.
-
-90
-00:06:14,190 --> 00:06:20,339
-Before starting this trip, I forgot to leave
-a message telling anyone exactly where I was
-
-91
-00:06:20,339 --> 00:06:21,339
-going.
-
-92
-00:06:21,339 --> 00:06:24,860
-This is one of the things my mother taught
-me.
-
-93
-00:06:24,860 --> 00:06:32,520
-But this time, I just called a quick goodbye
-to my housemates - Brian, Joe, and Leona.
-
-94
-00:06:32,520 --> 00:06:35,589
-Leona asked where I was going.
-
-95
-00:06:35,589 --> 00:06:41,229
-I told her I was going to Utah and promised
-to be back for her party.
-
-96
-00:06:41,229 --> 00:06:45,210
+00:06:37,920 --> 00:06:43,200
+and promised to be back for her party. 
 Then I got in my truck and drove away.
 
-97
-00:06:45,210 --> 00:06:47,279
-I can't wait for adventure.
+65
+00:06:45,040 --> 00:06:52,400
+I can't wait for adventure. It makes me feel 
+happier than anything. It's part of who I am.
 
-98
-00:06:47,279 --> 00:06:51,310
-It makes me feel happier than anything.
+66
+00:06:53,760 --> 00:06:59,840
+I'm on a high rock, looking down at the 
+trail. I've stopped because I can hear voices.  
 
-99
-00:06:51,310 --> 00:06:54,099
-It's part of who I am.
+67
+00:07:00,960 --> 00:07:10,240
+This surprises me. I had expected to be alone. 
+Two young women suddenly appear below me. I feel  
 
-100
-00:06:54,099 --> 00:06:57,720
-I'm on a high rock, looking down at the trail.
-
-101
-00:06:57,720 --> 00:07:00,379
-I've stopped because I can hear voices.
-
-102
-00:07:00,379 --> 00:07:03,449
-This surprises me.
-
-103
-00:07:03,449 --> 00:07:05,460
-I had expected to be alone.
-
-104
-00:07:05,460 --> 00:07:09,689
-Two young women suddenly appear below me.
-
-105
-00:07:09,689 --> 00:07:11,879
-I feel pleased.
-
-106
-00:07:11,879 --> 00:07:14,850
-I've spent the last eighteen hours alone.
-
-107
-00:07:14,850 --> 00:07:19,159
+68
+00:07:10,240 --> 00:07:17,600
+pleased. I've spent the last eighteen hours alone. 
 It will be good to have company for a while.
 
-108
-00:07:19,159 --> 00:07:22,479
-'Hi,' I call as I climb down the rock.
+69
+00:07:19,360 --> 00:07:26,560
+'Hi,' I call as I climb down the rock. 
+The girls hadn't noticed me. They turn,  
 
-109
-00:07:22,479 --> 00:07:25,729
-The girls hadn't noticed me.
+70
+00:07:26,560 --> 00:07:31,760
+looking a little nervous. I guess 
+they are about twenty-five years old.
 
-110
-00:07:25,729 --> 00:07:29,050
-They turn, looking a little nervous.
-
-111
-00:07:29,050 --> 00:07:33,330
-I guess they are about twenty-five years old.
-
-112
-00:07:33,330 --> 00:07:37,750
+71
+00:07:33,120 --> 00:07:36,560
 I smile and hold out my hand, 'My name's Aron.'
 
-113
-00:07:37,750 --> 00:07:39,389
-They smile back.
+72
+00:07:37,520 --> 00:07:43,840
+They smile back. 'I'm Megan,' says 
+the darker girl, 'and this is Kristi.'
 
-114
-00:07:39,389 --> 00:07:44,770
-'I'm Megan,' says the darker girl, 'and this
-is Kristi.'
+73
+00:07:44,560 --> 00:07:51,120
+We shake hands and continue along the trail. 
+As we go, we talk about our interests.  
 
-115
-00:07:44,770 --> 00:07:48,590
-We shake hands and continue along the trail.
+74
+00:07:52,160 --> 00:07:58,880
+We all love hiking, biking and adventures. 
+For all of us, this is more important than  
 
-116
-00:07:48,590 --> 00:07:52,379
-As we go, we talk about our interests.
+75
+00:07:58,880 --> 00:08:06,400
+earning a lot of money. They work in the same 
+business, too. They work for Outward Bound,  
 
-117
-00:07:52,379 --> 00:07:56,389
-We all love hiking, biking and adventures.
+76
+00:08:06,400 --> 00:08:14,400
+a sports equipment shop in Moab, Utah. Both Aspen 
+and Moab are important tourist centres for hikers.
 
-118
-00:07:56,389 --> 00:08:01,309
-For all of us, this is more important than
-earning a lot of money.
+77
+00:08:16,000 --> 00:08:22,640
+We are on the trail together for about five 
+kilometres. At that point, there is a smaller  
 
-119
-00:08:01,309 --> 00:08:04,569
-They work in the same business, too.
+78
+00:08:22,640 --> 00:08:30,000
+canyon to the west. The west canyon goes back 
+in a half-circle. The girls left their bikes  
 
-120
-00:08:04,569 --> 00:08:09,710
-They work for Outward Bound, a sports equipment
-shop in Moab, Utah.
+79
+00:08:30,000 --> 00:08:36,320
+at the end of it. We will say goodbye there and 
+I'll continue on alone to the Big Drop Rappel.
 
-121
-00:08:09,710 --> 00:08:16,179
-Both Aspen and Moab are important tourist
-centres for hikers.
+80
+00:08:37,760 --> 00:08:43,680
+We arrive just before 2.00 pm. I 
+don't feel like saying goodbye.  
 
-122
-00:08:16,179 --> 00:08:20,050
-We are on the trail together for about five
-kilometres.
+81
+00:08:44,720 --> 00:08:49,040
+In the hour and a half we've been 
+together, we've already become friends.
 
-123
-00:08:20,050 --> 00:08:24,279
-At that point, there is a smaller canyon to
-the west.
+82
+00:08:50,560 --> 00:08:55,600
+Megan feels the same. 'Why don't 
+you come with us?' she asks.  
 
-124
-00:08:24,279 --> 00:08:27,740
-The west canyon goes back in a half-circle.
+83
+00:08:56,640 --> 00:09:01,680
+'We can finish the west canyon trail, go 
+back to our truck and have a few beers.'
 
-125
-00:08:27,740 --> 00:08:32,020
-The girls left their bikes at the end of it.
+84
+00:09:03,360 --> 00:09:10,160
+I like the idea, but following my plan is 
+more important. I ask them to come with me.
 
-126
-00:08:32,020 --> 00:08:37,959
-We will say goodbye there and I'll continue
-on alone to the Big Drop Rappel.
+85
+00:09:11,200 --> 00:09:15,200
+'How far is it back to your truck?' Megan asks.
 
-127
-00:08:37,959 --> 00:08:41,789
-We arrive just before 2.00 pm.
-
-128
-00:08:41,789 --> 00:08:44,090
-I don't feel like saying goodbye.
-
-129
-00:08:44,090 --> 00:08:50,230
-In the hour and a half we've been together,
-we've already become friends.
-
-130
-00:08:50,230 --> 00:08:52,580
-Megan feels the same.
-
-131
-00:08:52,580 --> 00:08:55,000
-'Why don't you come with us?'
-
-132
-00:08:55,000 --> 00:08:56,100
-she asks.
-
-133
-00:08:56,100 --> 00:09:03,490
-'We can finish the west canyon trail, go back
-to our truck and have a few beers.'
-
-134
-00:09:03,490 --> 00:09:08,699
-I like the idea, but following my plan is
-more important.
-
-135
-00:09:08,699 --> 00:09:10,600
-I ask them to come with me.
-
-136
-00:09:10,600 --> 00:09:14,329
-'How far is it back to your truck?'
-
-137
-00:09:14,329 --> 00:09:16,829
-Megan asks.
-
-138
-00:09:16,829 --> 00:09:19,220
+86
+00:09:16,240 --> 00:09:18,240
 'Around thirteen kilometres.'
 
-139
-00:09:19,220 --> 00:09:22,110
-'That's too far.
+87
+00:09:19,680 --> 00:09:24,560
+'That's too far. You won't get 
+back before dark,' she says.
 
-140
-00:09:22,110 --> 00:09:25,580
-You won't get back before dark,' she says.
+88
+00:09:26,160 --> 00:09:29,600
+'Maybe not, but I really want 
+to do the Big Drop Rappel.  
 
-141
-00:09:25,580 --> 00:09:30,060
-'Maybe not, but I really want to do the Big
-Drop Rappel.
+89
+00:09:30,640 --> 00:09:36,160
+And I can't miss the paintings in the Great 
+Gallery. I'll meet you after for a drink.'
 
-142
-00:09:30,060 --> 00:09:34,779
-And I can't miss the paintings in the Great
-Gallery.
+90
+00:09:37,680 --> 00:09:41,200
+We agree on a plan to meet 
+and go to the party together.
 
-143
-00:09:34,779 --> 00:09:37,880
-I'll meet you after for a drink.'
+91
+00:09:42,560 --> 00:09:50,160
+Then I turn and wave goodbye. The movement is 
+so easy I don't think about it. But there is  
 
-144
-00:09:37,880 --> 00:09:42,860
-We agree on a plan to meet and go to the party
-together.
+92
+00:09:50,160 --> 00:09:56,240
+something I don't know. It is the last time 
+I will wave goodbye with my right hand.
+ 
+ 
+ 
 
-145
-00:09:42,860 --> 00:09:45,139
-Then I turn and wave goodbye.
-
-146
-00:09:45,139 --> 00:09:49,829
-The movement is so easy I don't think about
-it.
-
-147
-00:09:49,829 --> 00:09:51,690
-But there is something I don't know.
-
-148
-00:09:51,690 --> 00:09:57,329
-It is the last time I will wave goodbye with
-my right hand.
-
-149
-00:09:57,329 --> 00:10:00,959
+93
+00:09:57,760 --> 00:09:58,480
 CHAPTER TWO
+
+94
+00:09:59,600 --> 00:10:00,400
 The accident
 
-150
-00:10:00,959 --> 00:10:04,520
-The girls disappear into the west canyon.
+95
+00:10:01,520 --> 00:10:08,080
+The girls disappear into the west 
+canyon. I am alone again. I continue  
 
-151
-00:10:04,520 --> 00:10:07,430
-I am alone again.
+96
+00:10:08,080 --> 00:10:14,720
+walking towards the Big Drop Rappel. It seems 
+strangely quiet without Kristi and Megan.  
 
-152
-00:10:07,430 --> 00:10:10,750
-I continue walking towards the Big Drop Rappel.
-
-153
-00:10:10,750 --> 00:10:15,920
-It seems strangely quiet without Kristi and
-Megan.
-
-154
-00:10:15,920 --> 00:10:22,790
-I turn on my CD player and listen to a soft,
+97
+00:10:15,680 --> 00:10:22,320
+I turn on my CD player and listen to a soft, 
 slow song by Phish, one of my favourite bands.
 
-155
-00:10:22,790 --> 00:10:29,100
-The music is perfect for the way I feel: lucky,
-free and happy.
+98
+00:10:23,760 --> 00:10:30,400
+The music is perfect for the way I feel: 
+lucky, free and happy. The weather is perfect,  
 
-156
-00:10:29,100 --> 00:10:32,009
-The weather is perfect, too.
+99
+00:10:30,400 --> 00:10:35,440
+too. It's warm and sunny with just 
+a few white clouds in the sky.
 
-157
-00:10:32,009 --> 00:10:36,690
-It's warm and sunny with just a few white
-clouds in the sky.
+100
+00:10:37,120 --> 00:10:41,760
+Suddenly, my feet hit a pile of loose 
+stones and I nearly fall to the ground.
 
-158
-00:10:36,690 --> 00:10:42,970
-Suddenly, my feet hit a pile of loose stones
-and I nearly fall to the ground.
-
-159
-00:10:42,970 --> 00:10:45,829
+101
+00:10:42,880 --> 00:10:44,160
 Careful, Aron.
 
-160
-00:10:45,829 --> 00:10:50,070
-I listen to the voice in my head and look
-up the canyon.
+102
+00:10:44,840 --> 00:10:51,600
+I listen to the voice in my head and look up 
+the canyon. I can see that the trail ahead  
 
-161
-00:10:50,070 --> 00:10:53,250
-I can see that the trail ahead becomes more
-difficult.
+103
+00:10:51,600 --> 00:10:57,600
+becomes more difficult. The Big Drop 
+Rappel is now just under a kilometre away.
 
-162
-00:10:53,250 --> 00:10:59,620
-The Big Drop Rappel is now just under a kilometre
-away.
+104
+00:10:59,200 --> 00:11:03,520
+Twenty minutes later, I arrive at 
+the most difficult part of the trail.  
 
-163
-00:10:59,620 --> 00:11:04,350
-Twenty minutes later, I arrive at the most
-difficult part of the trail.
+105
+00:11:04,640 --> 00:11:11,840
+Here, the canyon walls are a lot narrower. The 
+trail rises and falls and is full of sharp rocks.  
 
-164
-00:11:04,350 --> 00:11:08,080
-Here, the canyon walls are a lot narrower.
+106
+00:11:12,960 --> 00:11:19,280
+I will have to be careful. I look up and see 
+part of a tree stuck between the canyon walls.  
 
-165
-00:11:08,080 --> 00:11:13,190
-The trail rises and falls and is full of sharp
-rocks.
+107
+00:11:20,320 --> 00:11:23,200
+It was carried along the canyon after heavy rain.  
 
-166
-00:11:13,190 --> 00:11:15,690
-I will have to be careful.
+108
+00:11:24,320 --> 00:11:30,080
+This is one of the dangers of hiking in 
+canyon country. After a sudden storm,  
 
-167
-00:11:15,690 --> 00:11:19,720
-I look up and see part of a tree stuck between
-the canyon walls.
+109
+00:11:30,080 --> 00:11:37,120
+canyons can quickly fill with water. In seconds, 
+the water can throw you against the canyon walls  
 
-168
-00:11:19,720 --> 00:11:24,050
-It was carried along the canyon after heavy
-rain.
+110
+00:11:37,120 --> 00:11:43,040
+and kill you. That's why it's always very 
+important to check the weather before canyoning.
 
-169
-00:11:24,050 --> 00:11:28,870
-This is one of the dangers of hiking in canyon
-country.
+111
+00:11:44,800 --> 00:11:50,640
+Just below the tree is the first drop in 
+the trail. It's only about three metres,  
 
-170
-00:11:28,870 --> 00:11:32,850
-After a sudden storm, canyons can quickly
-fill with water.
+112
+00:11:51,200 --> 00:11:56,080
+so I won't need any equipment. There 
+are plenty of holes in the rock  
 
-171
-00:11:32,850 --> 00:11:39,250
-In seconds, the water can throw you against
-the canyon walls and kill you.
+113
+00:11:56,080 --> 00:11:59,120
+for my hands and feet so I climb down easily.  
 
-172
-00:11:39,250 --> 00:11:45,190
-That's why it's always very important to check
-the weather before canyoning.
+114
+00:12:00,160 --> 00:12:07,040
+A metre from the bottom I let go and land on the 
+ground. Soft sand covers the tops of my boots.  
 
-173
-00:11:45,190 --> 00:11:49,230
-Just below the tree is the first drop in the
-trail.
+115
+00:12:08,240 --> 00:12:15,440
+From here, it would be difficult to climb back up. 
+One thing is immediately clear: I can't go back.
 
-174
-00:11:49,230 --> 00:11:54,470
-It's only about three metres, so I won't need
-any equipment.
+116
+00:12:16,880 --> 00:12:24,320
+The canyon walls become even narrower. Stuck 
+between them, as far as I can see, are boulders  
 
-175
-00:11:54,470 --> 00:11:59,439
-There are plenty of holes in the rock for
-my hands and feet so I climb down easily.
+117
+00:12:24,320 --> 00:12:31,760
+of different sizes. It's an unusual sight. I 
+stop and take a few pictures with my camera.
 
-176
-00:11:59,439 --> 00:12:04,310
-A metre from the bottom I let go and land
-on the ground.
+118
+00:12:33,200 --> 00:12:37,840
+The Big Drop Rappel is now 
+only about 160 metres away.  
 
-177
-00:12:04,310 --> 00:12:08,500
-Soft sand covers the tops of my boots.
+119
+00:12:39,360 --> 00:12:47,200
+Climbing down will be no problem. I have all 
+the equipment I need in my backpack. For food,  
 
-178
-00:12:08,500 --> 00:12:12,379
-From here, it would be difficult to climb
-back up.
+120
+00:12:47,200 --> 00:12:54,320
+I have two burritos. I also have a full water 
+bottle and an extra two litres in a CamelBak.
 
-179
-00:12:12,379 --> 00:12:16,360
-One thing is immediately clear: I can't go
-back.
+121
+00:12:55,760 --> 00:13:02,000
+The boulders are both good and bad news. The 
+good news is that I should be able to climb  
 
-180
-00:12:16,360 --> 00:12:20,779
-The canyon walls become even narrower.
+122
+00:13:02,000 --> 00:13:07,760
+over many of them. This will be quicker than 
+dropping on to the trail and climbing back up  
 
-181
-00:12:20,779 --> 00:12:25,709
-Stuck between them, as far as I can see, are
-boulders of different sizes.
+123
+00:13:07,760 --> 00:13:14,080
+again. The bad news is that the boulders 
+could move. I will have to be careful.
 
-182
-00:12:25,709 --> 00:12:29,209
-It's an unusual sight.
+124
+00:13:15,520 --> 00:13:21,920
+I manage the first few boulders without any 
+problems and reach another drop. This one  
 
-183
-00:12:29,209 --> 00:12:32,449
-I stop and take a few pictures with my camera.
+125
+00:13:21,920 --> 00:13:27,840
+is about four metres down. About three metres 
+from the edge of the drop is a boulder.  
 
-184
-00:12:32,449 --> 00:12:39,839
-The Big Drop Rappel is now only about 160
-metres away.
+126
+00:13:28,720 --> 00:13:31,520
+It's about the same size as the wheel of a bus.  
 
-185
-00:12:39,839 --> 00:12:42,399
-Climbing down will be no problem.
+127
+00:13:32,720 --> 00:13:39,200
+If I climb onto it, the drop from there will be 
+shorter. I chimney to the boulder quite easily.
 
-186
-00:12:42,399 --> 00:12:45,600
-I have all the equipment I need in my backpack.
+128
+00:13:40,640 --> 00:13:48,000
+As I stand on it, I feel something move. 
+The movement stops almost immediately.  
 
-187
-00:12:45,600 --> 00:12:49,839
-For food, I have two burritos.
+129
+00:13:48,000 --> 00:13:54,160
+It seems there's nothing to worry about. 
+I lie down, put my hands in two holes on  
 
-188
-00:12:49,839 --> 00:12:53,672
-I also have a full water bottle and an extra
-two litres in a CamelBak.
+130
+00:13:54,160 --> 00:13:59,040
+the far edge of the boulder and push my 
+legs over the opposite side to jump down.
 
-189
-00:12:53,672 --> 00:12:58,750
-The boulders are both good and bad news.
+131
+00:14:00,560 --> 00:14:05,520
+As most of my weight pushes on one side 
+of the boulder, it makes a strange sound.  
 
-190
-00:12:58,750 --> 00:13:04,300
-The good news is that I should be able to
-climb over many of them.
+132
+00:14:06,640 --> 00:14:12,880
+Immediately I know this is trouble but 
+it's too late to go back. From this point,  
 
-191
-00:13:04,300 --> 00:13:08,750
-This will be quicker than dropping on to the
-trail and climbing back up again.
+133
+00:14:12,880 --> 00:14:19,280
+everything seems to happen very slowly. I let 
+go of the boulder and drop towards the ground.  
 
-192
-00:13:08,750 --> 00:13:12,910
-The bad news is that the boulders could move.
+134
+00:14:20,400 --> 00:14:24,560
+As I fall, I look up and see the 
+boulder crashing towards my head.  
 
-193
-00:13:12,910 --> 00:13:14,680
-I will have to be careful.
+135
+00:14:25,600 --> 00:14:32,240
+If I don't get out of the way, I'm dead. I try 
+to push against the boulder with both hands.  
 
-194
-00:13:14,680 --> 00:13:21,009
-I manage the first few boulders without any
-problems and reach another drop.
+136
+00:14:33,280 --> 00:14:39,440
+It hits my left hand hard against the canyon 
+wall. I pull it back with a scream of pain.  
 
-195
-00:13:21,009 --> 00:13:24,220
-This one is about four metres down.
-
-196
-00:13:24,220 --> 00:13:29,029
-About three metres from the edge of the drop
-is a boulder.
-
-197
-00:13:29,029 --> 00:13:32,420
-It's about the same size as the wheel of a
-bus.
-
-198
-00:13:32,420 --> 00:13:37,060
-If I climb onto it, the drop from there will
-be shorter.
-
-199
-00:13:37,060 --> 00:13:40,870
-I chimney to the boulder quite easily.
-
-200
-00:13:40,870 --> 00:13:44,160
-As I stand on it, I feel something move.
-
-201
-00:13:44,160 --> 00:13:47,209
-The movement stops almost immediately.
-
-202
-00:13:47,209 --> 00:13:51,699
-It seems there's nothing to worry about.
-
-203
-00:13:51,699 --> 00:13:57,350
-I lie down, put my hands in two holes on the
-far edge of the boulder and push my legs over
-
-204
-00:13:57,350 --> 00:14:00,860
-the opposite side to jump down.
-
-205
-00:14:00,860 --> 00:14:06,569
-As most of my weight pushes on one side of
-the boulder, it makes a strange sound.
-
-206
-00:14:06,569 --> 00:14:11,949
-Immediately I know this is trouble but it's
-too late to go back.
-
-207
-00:14:11,949 --> 00:14:15,910
-From this point, everything seems to happen
-very slowly.
-
-208
-00:14:15,910 --> 00:14:20,470
-I let go of the boulder and drop towards the
-ground.
-
-209
-00:14:20,470 --> 00:14:25,870
-As I fall, I look up and see the boulder crashing
-towards my head.
-
-210
-00:14:25,870 --> 00:14:29,330
-If I don't get out of the way, I'm dead.
-
-211
-00:14:29,330 --> 00:14:32,740
-I try to push against the boulder with both
-hands.
-
-212
-00:14:32,740 --> 00:14:37,100
-It hits my left hand hard against the canyon
-wall.
-
-213
-00:14:37,100 --> 00:14:40,110
-I pull it back with a scream of pain.
-
-214
-00:14:40,110 --> 00:14:46,980
-The boulder then hits my right arm and traps
+137
+00:14:40,480 --> 00:14:45,680
+The boulder then hits my right arm and traps 
 my hand against the right side of the canyon.
+ 
+ 
 
-215
-00:14:46,980 --> 00:14:49,500
+138
+00:14:47,520 --> 00:14:48,400
 6 hrs
 
-216
-00:14:49,500 --> 00:14:54,820
-2.45 pm All this happens in a couple of seconds.
+139
+00:14:49,760 --> 00:14:57,840
+2.45 pm All this happens in a couple of seconds. 
+I don't even notice landing on the canyon floor.  
 
-217
-00:14:54,820 --> 00:14:58,740
-I don't even notice landing on the canyon
-floor.
+140
+00:14:58,640 --> 00:15:05,600
+I am so shocked I feel no pain. I just stand 
+there, looking at my trapped hand in disbelief.
 
-218
-00:14:58,740 --> 00:15:01,529
-I am so shocked I feel no pain.
+141
+00:15:07,040 --> 00:15:15,120
+Stupid, Aron, stupid! When you first stood on 
+the rock, it moved. That was a clear message to  
 
-219
-00:15:01,529 --> 00:15:06,830
-I just stand there, looking at my trapped
-hand in disbelief.
+142
+00:15:15,120 --> 00:15:20,640
+stay away! But you were in such a hurry to 
+finish the hike you didn't stop and check.
 
-220
-00:15:06,830 --> 00:15:09,510
-Stupid, Aron, stupid!
+143
+00:15:22,080 --> 00:15:26,640
+The voice in my head doesn't 
+help. It just makes things worse.
 
-221
-00:15:09,510 --> 00:15:13,189
-When you first stood on the rock, it moved.
+144
+00:15:28,160 --> 00:15:36,320
+A terrible pain travels up my arm. I scream 
+and pull hard to try and free myself. Nothing  
 
-222
-00:15:13,189 --> 00:15:17,230
-That was a clear message to stay away!
+145
+00:15:36,320 --> 00:15:44,080
+happens. I try again. This time I push against 
+the boulder with my knees at the same time.
 
-223
-00:15:17,230 --> 00:15:21,519
-But you were in such a hurry to finish the
-hike you didn't stop and check.
+146
+00:15:45,440 --> 00:15:49,680
+It's no good. The boulder 
+is a lot heavier than I am.
 
-224
-00:15:21,519 --> 00:15:24,830
-The voice in my head doesn't help.
-
-225
-00:15:24,830 --> 00:15:27,579
-It just makes things worse.
-
-226
-00:15:27,579 --> 00:15:31,740
-A terrible pain travels up my arm.
-
-227
-00:15:31,740 --> 00:15:35,519
-I scream and pull hard to try and free myself.
-
-228
-00:15:35,519 --> 00:15:38,060
-Nothing happens.
-
-229
-00:15:38,060 --> 00:15:40,389
-I try again.
-
-230
-00:15:40,389 --> 00:15:45,730
-This time I push against the boulder with
-my knees at the same time.
-
-231
-00:15:45,730 --> 00:15:47,589
-It's no good.
-
-232
-00:15:47,589 --> 00:15:50,339
-The boulder is a lot heavier than I am.
-
-233
-00:15:50,339 --> 00:15:54,040
+147
+00:15:50,720 --> 00:15:53,840
 I am stuck and there's no way out.
+ 
+ 
+ 
 
-234
-00:15:54,040 --> 00:15:58,220
+148
+00:15:53,840 --> 00:15:54,640
 CHAPTER THREE
+
+149
+00:15:55,840 --> 00:15:56,640
 Three plans
 
-235
-00:15:58,220 --> 00:16:01,329
-Stop thinking about how bad the problem is,
-Aron.
+150
+00:15:57,840 --> 00:16:03,200
+Stop thinking about how bad the problem 
+is, Aron. You need to be sensible.
 
-236
-00:16:01,329 --> 00:16:04,779
-You need to be sensible.
+151
+00:16:04,560 --> 00:16:12,160
+The voice in my head is right. I must be 
+sensible. This has to be my rule from now on.
 
-237
-00:16:04,779 --> 00:16:07,579
-The voice in my head is right.
+152
+00:16:13,520 --> 00:16:18,560
+The first thing I need is a 
+drink. Without stopping to think,  
 
-238
-00:16:07,579 --> 00:16:09,449
-I must be sensible.
+153
+00:16:18,560 --> 00:16:22,880
+I take the water bottle from my bag and 
+drink a third of it in five seconds.
 
-239
-00:16:09,449 --> 00:16:12,329
-This has to be my rule from now on.
+154
+00:16:24,320 --> 00:16:28,480
+I suddenly realise what I'm doing 
+and pull the bottle out of my mouth.  
 
-240
-00:16:12,329 --> 00:16:17,209
-The first thing I need is a drink.
-
-241
-00:16:17,209 --> 00:16:21,870
-Without stopping to think, I take the water
-bottle from my bag and drink a third of it
-
-242
-00:16:21,870 --> 00:16:24,569
-in five seconds.
-
-243
-00:16:24,569 --> 00:16:29,320
-I suddenly realise what I'm doing and pull
-the bottle out of my mouth.
-
-244
-00:16:29,320 --> 00:16:34,350
+155
+00:16:29,680 --> 00:16:32,880
 Already, I have broken my rule to be sensible.
 
-245
-00:16:34,350 --> 00:16:38,310
-I have no idea how long I will be here.
+156
+00:16:34,160 --> 00:16:36,960
+I have no idea how long I will be here.  
 
-246
-00:16:38,310 --> 00:16:42,610
-This means that the most important thing of
-all is to save water.
+157
+00:16:38,000 --> 00:16:41,760
+This means that the most important 
+thing of all is to save water.
 
-247
-00:16:42,610 --> 00:16:45,939
-Damn it, Aron!
+158
+00:16:42,880 --> 00:16:50,160
+Damn it, Aron! Stupid! Stupid! Stupid!
+ 
+ 
 
-248
-00:16:45,939 --> 00:16:47,050
-Stupid!
-
-249
-00:16:47,050 --> 00:16:48,160
-Stupid!
-
-250
-00:16:48,160 --> 00:16:49,259
-Stupid!
-
-251
-00:16:49,259 --> 00:16:53,699
+159
+00:16:50,160 --> 00:16:52,000
 6 hrs 43 mins
 
-252
-00:16:53,699 --> 00:16:58,740
-3.28 pm It's almost forty-five minutes since
-my accident.
+160
+00:16:53,920 --> 00:16:58,160
+3.28 pm It's almost forty-five 
+minutes since my accident.  
 
-253
-00:16:58,740 --> 00:17:02,180
-I am calmer than before.
+161
+00:16:59,280 --> 00:17:06,320
+I am calmer than before. For the last half hour, 
+I've been thinking of my best chance of escape.  
 
-254
-00:17:02,180 --> 00:17:07,340
-For the last half hour, I've been thinking
-of my best chance of escape.
+162
+00:17:07,200 --> 00:17:13,760
+I said I would meet Kristi and Megan after the 
+hike. If I don't appear, will they go to my  
 
-255
-00:17:07,340 --> 00:17:11,600
-I said I would meet Kristi and Megan after
-the hike.
+163
+00:17:13,760 --> 00:17:21,200
+truck to find me? I won't be there. But will they 
+realise that something is wrong and go for help?
 
-256
-00:17:11,600 --> 00:17:15,890
-If I don't appear, will they go to my truck
-to find me?
+164
+00:17:22,640 --> 00:17:27,840
+The answer is probably 'no'. Kristi 
+and Megan don't know me very well.  
 
-257
-00:17:15,890 --> 00:17:18,120
-I won't be there.
+165
+00:17:29,040 --> 00:17:31,840
+They'll just think that I 
+decided not to meet them.  
 
-258
-00:17:18,120 --> 00:17:22,150
-But will they realise that something is wrong
-and go for help?
+166
+00:17:32,880 --> 00:17:40,720
+What about other hikers? Will they find me by 
+chance? Again, the answer is probably 'no'.  
 
-259
-00:17:22,150 --> 00:17:25,080
-The answer is probably 'no'.
+167
+00:17:41,920 --> 00:17:48,800
+Very few people travel to the Great Gallery from 
+this end of the trail. My friends won't worry,  
 
-260
-00:17:25,080 --> 00:17:29,400
-Kristi and Megan don't know me very well.
+168
+00:17:48,800 --> 00:17:56,080
+either. They weren't completely sure I was 
+going to the party. Even on Monday evening,  
 
-261
-00:17:29,400 --> 00:17:33,170
-They'll just think that I decided not to meet
-them.
+169
+00:17:56,080 --> 00:18:02,880
+my housemates will just think I'm late getting 
+back. No one will miss me until Tuesday morning.  
 
-262
-00:17:33,170 --> 00:17:35,430
-What about other hikers?
+170
+00:18:03,920 --> 00:18:09,440
+When I don't arrive for work, Brion After, 
+my boss, will know that something is wrong.  
 
-263
-00:17:35,430 --> 00:17:38,000
-Will they find me by chance?
+171
+00:18:10,560 --> 00:18:15,520
+I am never late for work. He will 
+probably call my family and they  
 
-264
-00:17:38,000 --> 00:17:42,260
-Again, the answer is probably 'no'.
+172
+00:18:15,520 --> 00:18:22,560
+will tell the police that I am missing. But I 
+didn't tell anyone exactly where I was going,  
 
-265
-00:17:42,260 --> 00:17:47,310
-Very few people travel to the Great Gallery
-from this end of the trail.
-
-266
-00:17:47,310 --> 00:17:50,510
-My friends won't worry, either.
-
-267
-00:17:50,510 --> 00:17:53,910
-They weren't completely sure I was going to
-the party.
-
-268
-00:17:53,910 --> 00:17:59,850
-Even on Monday evening, my housemates will
-just think I'm late getting back.
-
-269
-00:17:59,850 --> 00:18:03,080
-No one will miss me until Tuesday morning.
-
-270
-00:18:03,080 --> 00:18:10,060
-When I don't arrive for work, Brion After,
-my boss, will know that something is wrong.
-
-271
-00:18:10,060 --> 00:18:13,360
-I am never late for work.
-
-272
-00:18:13,360 --> 00:18:18,830
-He will probably call my family and they will
-tell the police that I am missing.
-
-273
-00:18:18,830 --> 00:18:25,040
-But I didn't tell anyone exactly where I was
-going, so it will take the police days to
-
-274
-00:18:25,040 --> 00:18:26,870
-find me.
-
-275
-00:18:26,870 --> 00:18:31,390
+173
+00:18:23,200 --> 00:18:29,600
+so it will take the police days to find me. 
 If I don't escape before then, I will die.
 
-276
-00:18:31,390 --> 00:18:35,510
-All of this means that I will have to get
-out of here alone.
+174
+00:18:31,120 --> 00:18:35,840
+All of this means that I will have 
+to get out of here alone. But how?
 
-277
-00:18:35,510 --> 00:18:37,370
-But how?
+175
+00:18:37,120 --> 00:18:43,280
+I can think of three possible plans. The 
+first plan is to use the large knife on the  
 
-278
-00:18:37,370 --> 00:18:39,960
-I can think of three possible plans.
+176
+00:18:43,280 --> 00:18:49,360
+multi-tool to chip at the boulder. This might 
+take away enough of the rock to free my hand.  
 
-279
-00:18:39,960 --> 00:18:45,820
-The first plan is to use the large knife on
-the multi-tool to chip at the boulder.
+177
+00:18:50,480 --> 00:18:57,280
+The second plan is to try and lift the boulder 
+using some of my equipment. The third plan is  
 
-280
-00:18:45,820 --> 00:18:50,690
-This might take away enough of the rock to
-free my hand.
+178
+00:18:57,280 --> 00:19:05,200
+the worst. I could amputate my arm using the 
+multi-tool. It's too soon to think of that idea.
 
-281
-00:18:50,690 --> 00:18:55,390
-The second plan is to try and lift the boulder
-using some of my equipment.
+179
+00:19:06,800 --> 00:19:16,160
+I try plan one. I take the multi-tool from my 
+climbing bag. It has two knives. One is longer  
 
-282
-00:18:55,390 --> 00:18:59,080
-The third plan is the worst.
+180
+00:19:16,160 --> 00:19:24,560
+than the other. I use the longest one, which is 
+not so sharp. To free my hand, I must remove a  
 
-283
-00:18:59,080 --> 00:19:01,800
-I could amputate my arm using the multi-tool.
+181
+00:19:24,560 --> 00:19:31,200
+piece of rock over fifteen centimetres wide and 
+seven centimetres deep. That's a lot of rock.
+ 
+ 
 
-284
-00:19:01,800 --> 00:19:06,990
-It's too soon to think of that idea.
-
-285
-00:19:06,990 --> 00:19:09,270
-I try plan one.
-
-286
-00:19:09,270 --> 00:19:12,310
-I take the multi-tool from my climbing bag.
-
-287
-00:19:12,310 --> 00:19:15,600
-It has two knives.
-
-288
-00:19:15,600 --> 00:19:17,570
-One is longer than the other.
-
-289
-00:19:17,570 --> 00:19:22,070
-I use the longest one, which is not so sharp.
-
-290
-00:19:22,070 --> 00:19:28,040
-To free my hand, I must remove a piece of
-rock over fifteen centimetres wide and seven
-
-291
-00:19:28,040 --> 00:19:30,460
-centimetres deep.
-
-292
-00:19:30,460 --> 00:19:32,200
-That's a lot of rock.
-
-293
-00:19:32,200 --> 00:19:36,280
+182
+00:19:32,880 --> 00:19:34,480
 10 hrs 15 mins
 
-294
-00:19:36,280 --> 00:19:42,950
-7.0 pm I've been chipping at the rock for
-almost three and a half hours.
+183
+00:19:36,320 --> 00:19:44,160
+7.0 pm I've been chipping at the rock for almost 
+three and a half hours. I stop for a drink of  
 
-295
-00:19:42,950 --> 00:19:44,780
-I stop for a drink of water.
+184
+00:19:44,160 --> 00:19:51,600
+water. I lay the multi-tool on the boulder and 
+reach for the water bottle. This time I am more  
 
-296
-00:19:44,780 --> 00:19:49,960
-I lay the multi-tool on the boulder and reach
-for the water bottle.
+185
+00:19:51,600 --> 00:19:58,080
+careful and take only a sip. I wonder how long 
+I'll be able to survive with the water I have  
 
-297
-00:19:49,960 --> 00:19:54,710
-This time I am more careful and take only
-a sip.
+186
+00:19:58,080 --> 00:20:06,400
+left, only two-thirds of a litre. Until Monday 
+night, maybe? Tuesday morning at the latest.
+ 
+ 
+ 
 
-298
-00:19:54,710 --> 00:19:59,970
-I wonder how long I'll be able to survive
-with the water I have left, only two-thirds
-
-299
-00:19:59,970 --> 00:20:01,990
-of a litre.
-
-300
-00:20:01,990 --> 00:20:04,610
-Until Monday night, maybe?
-
-301
-00:20:04,610 --> 00:20:07,430
-Tuesday morning at the latest.
-
-302
-00:20:07,430 --> 00:20:12,310
+187
+00:20:07,920 --> 00:20:08,640
 CHAPTER FOUR
+
+188
+00:20:09,920 --> 00:20:10,720
 Night and day
 
-303
-00:20:12,310 --> 00:20:17,630
-After Kristi and Megan left Aron, they got
-lost in the west canyon and arrived late at
+189
+00:20:11,840 --> 00:20:16,240
+After Kristi and Megan left Aron, 
+they got lost in the west canyon  
 
-304
-00:20:17,630 --> 00:20:19,810
-the meeting place.
+190
+00:20:16,240 --> 00:20:20,560
+and arrived late at the 
+meeting place. He wasn't there.
 
-305
-00:20:19,810 --> 00:20:22,480
-He wasn't there.
+191
+00:20:22,240 --> 00:20:26,480
+'He's probably left already,' said 
+Megan, 'but he can't be far away.  
 
-306
-00:20:22,480 --> 00:20:27,910
-'He's probably left already,' said Megan,
-'but he can't be far away.
+192
+00:20:27,680 --> 00:20:30,480
+Let's drive around and see if we can find him.'
 
-307
-00:20:27,910 --> 00:20:31,170
-Let's drive around and see if we can find
-him.'
+193
+00:20:31,920 --> 00:20:34,640
+But there was no sign of Aron or his bike.  
 
-308
-00:20:31,170 --> 00:20:35,910
-But there was no sign of Aron or his bike.
+194
+00:20:35,680 --> 00:20:40,640
+'It doesn't really matter,' said 
+Megan. 'We'll see him at the party.'
 
-309
-00:20:35,910 --> 00:20:38,740
-'It doesn't really matter,' said Megan.
+195
+00:20:42,080 --> 00:20:47,440
+Again, she was wrong. By the 
+time they reached Goblin Valley,  
 
-310
-00:20:38,740 --> 00:20:41,770
-'We'll see him at the party.'
+196
+00:20:47,440 --> 00:20:50,960
+the car park was full and there 
+was nowhere to stay for the night.
 
-311
-00:20:41,770 --> 00:20:44,310
-Again, she was wrong.
+197
+00:20:52,400 --> 00:20:58,640
+The girls now felt very tired and decided 
+not to go to the party. 'We'll drive to  
 
-312
-00:20:44,310 --> 00:20:49,940
-By the time they reached Goblin Valley, the
-car park was full and there was nowhere to
+198
+00:20:58,640 --> 00:21:05,200
+Little Wild Horse Canyon tomorrow morning,' 
+said Megan. 'We'll probably find Aron there.'
 
-313
-00:20:49,940 --> 00:20:51,540
-stay for the night.
+199
+00:21:06,880 --> 00:21:10,480
+Kristi agreed and they parked by 
+the side of the road for the night.
 
-314
-00:20:51,540 --> 00:20:57,300
-The girls now felt very tired and decided
-not to go to the party.
+200
+00:21:12,000 --> 00:21:16,480
+The next morning, there was no sign 
+of Aron at Little Wild Horse Canyon.  
 
-315
-00:20:57,300 --> 00:21:02,820
-'We'll drive to Little Wild Horse Canyon tomorrow
-morning,' said Megan.
+201
+00:21:17,440 --> 00:21:22,400
+All they found was a truck from Colorado 
+with a bike inside and skis on the roof.
 
-316
-00:21:02,820 --> 00:21:06,210
-'We'll probably find Aron there.'
+202
+00:21:23,920 --> 00:21:26,720
+'That's probably Aron's truck,' said Megan.  
 
-317
-00:21:06,210 --> 00:21:11,090
-Kristi agreed and they parked by the side
-of the road for the night.
+203
+00:21:27,680 --> 00:21:31,840
+'He must be in the canyon 
+already. We've missed him again.'
 
-318
-00:21:11,090 --> 00:21:17,670
-The next morning, there was no sign of Aron
-at Little Wild Horse Canyon.
-
-319
-00:21:17,670 --> 00:21:23,430
-All they found was a truck from Colorado with
-a bike inside and skis on the roof.
-
-320
-00:21:23,430 --> 00:21:27,330
-'That's probably Aron's truck,' said Megan.
-
-321
-00:21:27,330 --> 00:21:31,030
-'He must be in the canyon already.
-
-322
-00:21:31,030 --> 00:21:33,220
-We've missed him again.'
-
-323
-00:21:33,220 --> 00:21:38,450
-She wrote their email addresses on a piece
+204
+00:21:32,960 --> 00:21:37,840
+She wrote their email addresses on a piece 
 of paper and left it on the truck window.
 
-324
-00:21:38,450 --> 00:21:42,370
-'Why didn't we just get his phone number?'
-
-325
-00:21:42,370 --> 00:21:45,930
+205
+00:21:39,280 --> 00:21:45,040
+'Why didn't we just get his phone number?' 
 Megan asked as they drove back to Moab.
+ 
+ 
 
-326
-00:21:45,930 --> 00:21:49,250
+206
+00:21:46,240 --> 00:21:48,000
 15 hrs 15 mins
 
-327
-00:21:49,250 --> 00:21:54,680
-12.00 am My headlamp is on and I'm chipping
-at the boulder.
+207
+00:21:49,600 --> 00:21:56,800
+12.00 am My headlamp is on and I'm chipping at the 
+boulder. I've managed to chip a space above and  
 
-328
-00:21:54,680 --> 00:21:59,250
-I've managed to chip a space above and below
-an area of pink rock.
+208
+00:21:56,800 --> 00:22:03,760
+below an area of pink rock. Perhaps I can remove 
+this large piece before I stop for the night.  
 
-329
-00:21:59,250 --> 00:22:04,950
-Perhaps I can remove this large piece before
-I stop for the night.
+209
+00:22:04,800 --> 00:22:11,040
+I will need to hit it hard. I don't want to 
+break the knife, so I use a different part of  
 
-330
-00:22:04,950 --> 00:22:07,480
-I will need to hit it hard.
+210
+00:22:11,040 --> 00:22:18,080
+the multi-tool. I hit the boulder as hard as I can 
+and the piece of rock falls onto my trapped arm.  
 
-331
-00:22:07,480 --> 00:22:11,800
-I don't want to break the knife, so I use
-a different part of the multi-tool.
+211
+00:22:19,120 --> 00:22:26,000
+I can now see some softer rock below. I chip at 
+the rock for another hour and remove as much as  
 
-332
-00:22:11,800 --> 00:22:19,150
-I hit the boulder as hard as I can and the
-piece of rock falls onto my trapped arm.
+212
+00:22:26,000 --> 00:22:32,400
+the piece that came off before. More success, 
+but my left arm hurts and I have to stop.
 
-333
-00:22:19,150 --> 00:22:21,660
-I can now see some softer rock below.
+213
+00:22:34,160 --> 00:22:41,840
+I take a sip of water. I have decided to do 
+this every ninety minutes. I look up at the sky.  
 
-334
-00:22:21,660 --> 00:22:28,250
-I chip at the rock for another hour and remove
-as much as the piece that came off before.
-
-335
-00:22:28,250 --> 00:22:34,370
-More success, but my left arm hurts and I
-have to stop.
-
-336
-00:22:34,370 --> 00:22:35,840
-I take a sip of water.
-
-337
-00:22:35,840 --> 00:22:40,630
-I have decided to do this every ninety minutes.
-
-338
-00:22:40,630 --> 00:22:42,310
-I look up at the sky.
-
-339
-00:22:42,310 --> 00:22:46,940
+214
+00:22:42,880 --> 00:22:45,200
 It's a clear night and it's very cold.
 
-340
-00:22:46,940 --> 00:22:49,940
-Now that I've stopped chipping I feel cold.
+215
+00:22:46,720 --> 00:22:54,640
+Now that I've stopped chipping I feel cold. The 
+wind is the worst. Every few minutes, it blows  
 
-341
-00:22:49,940 --> 00:22:52,320
-The wind is the worst.
+216
+00:22:54,640 --> 00:23:01,920
+down the canyon and makes my body shake. I decide 
+to use my climbing bag as a jacket to keep warm.  
 
-342
-00:22:52,320 --> 00:22:57,670
-Every few minutes, it blows down the canyon
-and makes my body shake.
+217
+00:23:03,040 --> 00:23:11,120
+I lay everything inside it on top of the boulder. 
+Then I put the bag back on. I'm a little warmer  
 
-343
-00:22:57,670 --> 00:23:03,120
-I decide to use my climbing bag as a jacket
-to keep warm.
+218
+00:23:11,120 --> 00:23:17,600
+but I need something soft to put my legs 
+on. I take my rope, form it into a circle,  
 
-344
-00:23:03,120 --> 00:23:07,330
-I lay everything inside it on top of the boulder.
+219
+00:23:17,600 --> 00:23:23,760
+and lay it on a rock below me. Now I can rest 
+my knees instead of standing up all the time.
 
-345
-00:23:07,330 --> 00:23:09,850
-Then I put the bag back on.
+220
+00:23:25,520 --> 00:23:28,960
+After a while, I begin to 
+feel uncomfortable again.  
 
-346
-00:23:09,850 --> 00:23:14,850
-I'm a little warmer but I need something soft
-to put my legs on.
+221
+00:23:30,080 --> 00:23:36,160
+The problem is the weight on my legs. I 
+decide to try and build some kind of seat.  
 
-347
-00:23:14,850 --> 00:23:20,510
-I take my rope, form it into a circle, and
-lay it on a rock below me.
+222
+00:23:37,200 --> 00:23:43,360
+I put on my harness and rope. Then I 
+tie carabiners to one end of the rope  
 
-348
-00:23:20,510 --> 00:23:25,980
-Now I can rest my knees instead of standing
-up all the time.
+223
+00:23:43,360 --> 00:23:49,840
+and make a kind of ball. The idea is to throw 
+the rope over one of the boulders above my head.  
 
-349
-00:23:25,980 --> 00:23:29,910
-After a while, I begin to feel uncomfortable
-again.
-
-350
-00:23:29,910 --> 00:23:33,370
-The problem is the weight on my legs.
-
-351
-00:23:33,370 --> 00:23:37,340
-I decide to try and build some kind of seat.
-
-352
-00:23:37,340 --> 00:23:40,490
-I put on my harness and rope.
-
-353
-00:23:40,490 --> 00:23:45,990
-Then I tie carabiners to one end of the rope
-and make a kind of ball.
-
-354
-00:23:45,990 --> 00:23:51,330
-The idea is to throw the rope over one of
-the boulders above my head.
-
-355
-00:23:51,330 --> 00:23:57,220
-If I do it right, the ball will stick in the
+224
+00:23:51,040 --> 00:23:56,320
+If I do it right, the ball will stick in the 
 space between the boulder and the canyon wall.
 
-356
-00:23:57,220 --> 00:24:02,450
-It takes twenty-five throws before it lands
-in the right place.
+225
+00:23:57,680 --> 00:24:01,600
+It takes twenty-five throws before 
+it lands in the right place.  
 
-357
-00:24:02,450 --> 00:24:05,670
-Now, will it hold my weight?
+226
+00:24:02,880 --> 00:24:10,480
+Now, will it hold my weight? I sit 
+in the harness. It holds. Success!  
 
-358
-00:24:05,670 --> 00:24:09,010
-I sit in the harness.
+227
+00:24:11,520 --> 00:24:20,080
+I feel very happy. But I'm not comfortable 
+for long. I soon need to move again. I stand  
 
-359
-00:24:09,010 --> 00:24:10,700
-It holds.
+228
+00:24:20,080 --> 00:24:26,800
+and chip for twenty minutes, then sit and rest 
+for twenty minutes. This becomes my routine.
 
-360
-00:24:10,700 --> 00:24:11,700
-Success!
+229
+00:24:28,160 --> 00:24:35,520
+As morning comes, I'm not feeling too unhappy. 
+This first night was not as bad as I thought.  
 
-361
-00:24:11,700 --> 00:24:14,120
-I feel very happy.
+230
+00:24:36,560 --> 00:24:42,240
+I've done quite well, but one thought still 
+worries me: I haven't chipped much rock  
 
-362
-00:24:14,120 --> 00:24:16,780
-But I'm not comfortable for long.
+231
+00:24:42,240 --> 00:24:49,120
+from the boulder. At this speed, it will 
+take me 150 hours to free my trapped arm.
 
-363
-00:24:16,780 --> 00:24:19,640
-I soon need to move again.
+232
+00:24:50,480 --> 00:24:54,720
+Chipping is not enough. I will 
+have to think of something else.
+ 
+ 
+ 
 
-364
-00:24:19,640 --> 00:24:24,450
-I stand and chip for twenty minutes, then
-sit and rest for twenty minutes.
-
-365
-00:24:24,450 --> 00:24:28,420
-This becomes my routine.
-
-366
-00:24:28,420 --> 00:24:32,850
-As morning comes, I'm not feeling too unhappy.
-
-367
-00:24:32,850 --> 00:24:36,330
-This first night was not as bad as I thought.
-
-368
-00:24:36,330 --> 00:24:42,570
-I've done quite well, but one thought still
-worries me: I haven't chipped much rock from
-
-369
-00:24:42,570 --> 00:24:43,690
-the boulder.
-
-370
-00:24:43,690 --> 00:24:50,870
-At this speed, it will take me 150 hours to
-free my trapped arm.
-
-371
-00:24:50,870 --> 00:24:52,800
-Chipping is not enough.
-
-372
-00:24:52,800 --> 00:24:56,120
-I will have to think of something else.
-
-373
-00:24:56,120 --> 00:24:58,870
+233
+00:24:55,920 --> 00:24:56,720
 CHAPTER FIVE
+
+234
+00:24:57,840 --> 00:25:00,000
 A sad message
 
-374
-00:24:58,870 --> 00:25:03,550
+235
+00:25:00,000 --> 00:25:01,920
 23 hrs 30 mins
 
-375
-00:25:03,550 --> 00:25:07,100
-8.15 am I am feeling optimistic.
+236
+00:25:03,840 --> 00:25:11,360
+8.15 am I am feeling optimistic. The sun is 
+shining into the canyon and a raven has just  
 
-376
-00:25:07,100 --> 00:25:13,730
-The sun is shining into the canyon and a raven
-has just flown across the blue sky above my
+237
+00:25:11,360 --> 00:25:17,760
+flown across the blue sky above my head. The 
+sight and sound of the bird fills me with hope.
 
-377
-00:25:13,730 --> 00:25:14,730
-head.
+238
+00:25:19,120 --> 00:25:24,160
+I hold my leg in the sunlight. 
+It feels warm against my skin.  
 
-378
-00:25:14,730 --> 00:25:19,220
-The sight and sound of the bird fills me with
-hope.
+239
+00:25:25,280 --> 00:25:33,600
+But I need to do something. It's time for plan 
+two. I will use my ropes, webbing and carabiners  
 
-379
-00:25:19,220 --> 00:25:21,720
-I hold my leg in the sunlight.
+240
+00:25:33,600 --> 00:25:41,280
+to try and lift the boulder and free my hand. I 
+look up. There's a sharp piece of rock above my  
 
-380
-00:25:21,720 --> 00:25:25,540
-It feels warm against my skin.
+241
+00:25:41,280 --> 00:25:47,440
+head. If I can throw the rope around this, it 
+might hold everything in the right position.
 
-381
-00:25:25,540 --> 00:25:27,090
-But I need to do something.
+242
+00:25:48,880 --> 00:25:55,840
+After many tries, I finally succeed. I tie 
+the other end of the rope around the boulder.  
 
-382
-00:25:27,090 --> 00:25:30,810
-It's time for plan two.
+243
+00:25:56,560 --> 00:26:02,560
+But when I pull, nothing happens. Everything 
+holds, but the boulder doesn't move.  
 
-383
-00:25:30,810 --> 00:25:37,600
-I will use my ropes, webbing and carabiners
-to try and lift the boulder and free my hand.
+244
+00:26:03,600 --> 00:26:09,840
+I put more weight on the rope, but it still 
+doesn't work. The rope is not tight enough.
+ 
+ 
 
-384
-00:25:37,600 --> 00:25:39,570
-I look up.
-
-385
-00:25:39,570 --> 00:25:42,820
-There's a sharp piece of rock above my head.
-
-386
-00:25:42,820 --> 00:25:49,360
-If I can throw the rope around this, it might
-hold everything in the right position.
-
-387
-00:25:49,360 --> 00:25:52,770
-After many tries, I finally succeed.
-
-388
-00:25:52,770 --> 00:25:56,310
-I tie the other end of the rope around the
-boulder.
-
-389
-00:25:56,310 --> 00:25:59,620
-But when I pull, nothing happens.
-
-390
-00:25:59,620 --> 00:26:03,710
-Everything holds, but the boulder doesn't
-move.
-
-391
-00:26:03,710 --> 00:26:08,180
-I put more weight on the rope, but it still
-doesn't work.
-
-392
-00:26:08,180 --> 00:26:10,370
-The rope is not tight enough.
-
-393
-00:26:10,370 --> 00:26:14,180
+245
+00:26:11,040 --> 00:26:13,040
 28 hrs 15 mins
 
-394
-00:26:14,180 --> 00:26:20,880
-1.00 pm I've spent four hours trying to lift
-the boulder, but nothing has worked.
+246
+00:26:14,240 --> 00:26:19,840
+1.00 pm I've spent four hours trying to 
+lift the boulder, but nothing has worked.
 
-395
-00:26:20,880 --> 00:26:23,680
+247
+00:26:21,040 --> 00:26:24,000
 Suddenly, I hear voices.
 
-396
-00:26:23,680 --> 00:26:24,930
-'Help!
+248
+00:26:24,000 --> 00:26:27,280
+'Help! Help!' I shout.
 
-397
-00:26:24,930 --> 00:26:26,190
-Help!'
+249
+00:26:28,560 --> 00:26:35,680
+I stop and listen. At first, there's 
+nothing. But then I hear a sound from above  
 
-398
-00:26:26,190 --> 00:26:28,700
-I shout.
+250
+00:26:35,680 --> 00:26:43,440
+and realise my mistake. It's just a small animal 
+moving in the rock. I'd imagined it was people.
 
-399
-00:26:28,700 --> 00:26:30,440
-I stop and listen.
+251
+00:26:44,800 --> 00:26:47,760
+The sound of my voice shouting 
+for help frightened me.
 
-400
-00:26:30,440 --> 00:26:33,820
-At first, there's nothing.
+252
+00:26:49,040 --> 00:26:54,480
+It made me feel lost and alone. I make 
+a promise that I won't do it again.  
 
-401
-00:26:33,820 --> 00:26:37,410
-But then I hear a sound from above and realise
-my mistake.
+253
+00:26:55,520 --> 00:27:01,920
+The optimistic feelings of earlier in the 
+day have disappeared. No one is going to save  
 
-402
-00:26:37,410 --> 00:26:41,290
-It's just a small animal moving in the rock.
+254
+00:27:01,920 --> 00:27:08,960
+me. That leaves only the third, and worst, 
+plan: I will have to amputate my right arm.  
 
-403
-00:26:41,290 --> 00:26:44,280
-I'd imagined it was people.
+255
+00:27:10,080 --> 00:27:16,720
+What will I need for the job? The knife, that's 
+certain, but also a tourniquet to stop the blood.  
 
-404
-00:26:44,280 --> 00:26:48,300
-The sound of my voice shouting for help frightened
-me.
+256
+00:27:17,760 --> 00:27:21,040
+The plastic pipe from the 
+CamelBak seems best for that.  
 
-405
-00:26:48,300 --> 00:26:51,630
-It made me feel lost and alone.
+257
+00:27:22,000 --> 00:27:28,640
+I take it off and use a carabiner to make it 
+tight. It works well and I feel a bit better.
 
-406
-00:26:51,630 --> 00:26:55,280
-I make a promise that I won't do it again.
+258
+00:27:30,240 --> 00:27:36,560
+As soon as I put the knife against the 
+skin of my arm, I feel ill. I can't do it.  
 
-407
-00:26:55,280 --> 00:27:00,010
-The optimistic feelings of earlier in the
-day have disappeared.
+259
+00:27:37,520 --> 00:27:43,120
+It would be like killing myself. I drop 
+the knife and lay my head on the boulder.  
 
-408
-00:27:00,010 --> 00:27:03,490
-No one is going to save me.
+260
+00:27:44,080 --> 00:27:51,120
+None of my plans have worked. I can't 
+free my hand. I can't lift the boulder.  
 
-409
-00:27:03,490 --> 00:27:10,370
-That leaves only the third, and worst, plan:
-I will have to amputate my right arm.
+261
+00:27:52,080 --> 00:27:58,960
+I can't amputate my arm. My only hope is 
+rescue, but I'll die before help arrives.
 
-410
-00:27:10,370 --> 00:27:12,290
-What will I need for the job?
+262
+00:28:00,400 --> 00:28:06,560
+I feel angry with the boulder, but it's not the 
+boulder's fault - it's mine. Everything about  
 
-411
-00:27:12,290 --> 00:27:17,390
-The knife, that's certain, but also a tourniquet
-to stop the blood.
+263
+00:28:06,560 --> 00:28:13,760
+this stupid adventure was a mistake. I didn't 
+tell anyone where I was going, I didn't go with  
 
-412
-00:27:17,390 --> 00:27:22,270
-The plastic pipe from the CamelBak seems best
-for that.
+264
+00:28:13,760 --> 00:28:18,480
+Kristi and Megan to the west canyon, and I 
+didn't get off the boulder when it moved.
+ 
+ 
 
-413
-00:27:22,270 --> 00:27:25,920
-I take it off and use a carabiner to make
-it tight.
-
-414
-00:27:25,920 --> 00:27:30,550
-It works well and I feel a bit better.
-
-415
-00:27:30,550 --> 00:27:35,750
-As soon as I put the knife against the skin
-of my arm, I feel ill.
-
-416
-00:27:35,750 --> 00:27:37,750
-I can't do it.
-
-417
-00:27:37,750 --> 00:27:40,560
-It would be like killing myself.
-
-418
-00:27:40,560 --> 00:27:44,280
-I drop the knife and lay my head on the boulder.
-
-419
-00:27:44,280 --> 00:27:47,160
-None of my plans have worked.
-
-420
-00:27:47,160 --> 00:27:49,770
-I can't free my hand.
-
-421
-00:27:49,770 --> 00:27:51,540
-I can't lift the boulder.
-
-422
-00:27:51,540 --> 00:27:55,260
-I can't amputate my arm.
-
-423
-00:27:55,260 --> 00:28:00,510
-My only hope is rescue, but I'll die before
-help arrives.
-
-424
-00:28:00,510 --> 00:28:05,560
-I feel angry with the boulder, but it's not
-the boulder's fault - it's mine.
-
-425
-00:28:05,560 --> 00:28:09,090
-Everything about this stupid adventure was
-a mistake.
-
-426
-00:28:09,090 --> 00:28:15,310
-I didn't tell anyone where I was going, I
-didn't go with Kristi and Megan to the west
-
-427
-00:28:15,310 --> 00:28:19,350
-canyon, and I didn't get off the boulder when
-it moved.
-
-428
-00:28:19,350 --> 00:28:21,930
+265
+00:28:19,920 --> 00:28:20,800
 30 hrs
 
-429
-00:28:21,930 --> 00:28:28,310
-2.45 pm It's exactly twenty-four hours since
-the accident.
+266
+00:28:22,240 --> 00:28:26,720
+2.45 pm It's exactly twenty-four 
+hours since the accident.
 
-430
-00:28:28,310 --> 00:28:33,240
-I decide it's time to film a message for my
-family and friends.
+267
+00:28:28,160 --> 00:28:32,000
+I decide it's time to film a 
+message for my family and friends.  
 
-431
-00:28:33,240 --> 00:28:38,260
-I place my camcorder on the boulder, turn
-it on and start speaking.
+268
+00:28:33,120 --> 00:28:37,360
+I place my camcorder on the boulder, 
+turn it on and start speaking.
 
-432
-00:28:38,260 --> 00:28:41,920
-'My name is Aron Ralston.
+269
+00:28:38,800 --> 00:28:47,520
+'My name is Aron Ralston. It's just after 
+three o'clock on Sunday, April the 27th, 2003.  
 
-433
-00:28:41,920 --> 00:28:44,190
-It's just after three o'clock on Sunday, April
-the 27th, 2003.
+270
+00:28:48,560 --> 00:28:55,440
+I have been trapped in Blue John Canyon for the 
+last twenty-four hours. My parents are Donna and  
 
-434
-00:28:44,190 --> 00:28:54,140
-I have been trapped in Blue John Canyon for
-the last twenty-four hours.
+271
+00:28:55,440 --> 00:29:03,600
+Larry Ralston of Eaglewood, Colorado. If anyone 
+finds this, please give it to them. Thank you.'
 
-435
-00:28:54,140 --> 00:28:58,630
-My parents are Donna and Larry Ralston of
-Eaglewood, Colorado.
+272
+00:29:05,040 --> 00:29:11,760
+I describe all that has happened in the last 
+two days. As I reach the end of my story,  
 
-436
-00:28:58,630 --> 00:29:02,760
-If anyone finds this, please give it to them.
+273
+00:29:11,760 --> 00:29:18,560
+I feel very sad. I know this could be a final 
+goodbye to my parents and sister, Sonja.
 
-437
-00:29:02,760 --> 00:29:04,450
-Thank you.'
+274
+00:29:19,920 --> 00:29:24,320
+After telling them how much I love them, 
+there is only one more thing to say.  
 
-438
-00:29:04,450 --> 00:29:09,600
-I describe all that has happened in the last
-two days.
-
-439
-00:29:09,600 --> 00:29:14,290
-As I reach the end of my story, I feel very
-sad.
-
-440
-00:29:14,290 --> 00:29:20,360
-I know this could be a final goodbye to my
-parents and sister, Sonja.
-
-441
-00:29:20,360 --> 00:29:25,020
-After telling them how much I love them, there
-is only one more thing to say.
-
-442
-00:29:25,020 --> 00:29:29,070
+275
+00:29:25,520 --> 00:29:28,000
 'Mum, Dad, Sonja - I'm sorry.'
 
-443
-00:29:29,070 --> 00:29:31,860
-I turn off the machine.
+276
+00:29:28,960 --> 00:29:34,640
+I turn off the machine. All I can do 
+now is wait for someone to find me.
+ 
+ 
+ 
 
-444
-00:29:31,860 --> 00:29:36,260
-All I can do now is wait for someone to find
-me.
-
-445
-00:29:36,260 --> 00:29:38,720
+277
+00:29:36,080 --> 00:29:36,880
 CHAPTER SIX
+
+278
+00:29:38,000 --> 00:29:38,560
 Waiting
 
-446
-00:29:38,720 --> 00:29:43,130
+279
+00:29:39,680 --> 00:29:41,680
 33 hrs 15 mins
 
-447
-00:29:43,130 --> 00:29:48,110
-6.00 pm My second night in the canyon is moving
-closer.
+280
+00:29:43,360 --> 00:29:52,720
+6.00 pm My second night in the canyon is moving 
+closer. Beyond that, I see no future. Escape has  
 
-448
-00:29:48,110 --> 00:29:51,570
-Beyond that, I see no future.
+281
+00:29:52,720 --> 00:29:59,520
+been impossible and I will die before anyone 
+finds me. I feel strong enough to survive the  
 
-449
-00:29:51,570 --> 00:29:57,610
-Escape has been impossible and I will die
-before anyone finds me.
+282
+00:29:59,520 --> 00:30:08,320
+fear of death, but not my body's need for water. 
+This terrible, growing thirst will drive me crazy.
 
-450
-00:29:57,610 --> 00:30:04,020
-I feel strong enough to survive the fear of
-death, but not my body's need for water.
+283
+00:30:08,320 --> 00:30:11,520
+I now have only a quarter 
+of a litre of water left.  
 
-451
-00:30:04,020 --> 00:30:08,570
-This terrible, growing thirst will drive me
-crazy.
+284
+00:30:12,560 --> 00:30:20,560
+I have to make this last as long as possible. I 
+drank at 3.15 pm, just after I finished filming.  
 
-452
-00:30:08,570 --> 00:30:12,000
-I now have only a quarter of a litre of water
-left.
+285
+00:30:21,600 --> 00:30:25,280
+Then I missed the next drink and 
+decided to save it for later.  
 
-453
-00:30:12,000 --> 00:30:15,720
-I have to make this last as long as possible.
+286
+00:30:26,240 --> 00:30:32,320
+I'll drink at nine, midnight, three and six in 
+the morning, but I'll take even smaller sips.
 
-454
-00:30:15,720 --> 00:30:21,940
-I drank at 3.15 pm, just after I finished
-filming.
+287
+00:30:33,760 --> 00:30:39,120
+The mosquitoes have found me. There are 
+several at my feet and some drinking the  
 
-455
-00:30:21,940 --> 00:30:26,530
-Then I missed the next drink and decided to
-save it for later.
+288
+00:30:39,120 --> 00:30:44,800
+blood on the canyon wall. I kill five 
+or six as they circle around my head.  
 
-456
-00:30:26,530 --> 00:30:31,980
-I'll drink at nine, midnight, three and six
-in the morning, but I'll take even smaller
+289
+00:30:45,760 --> 00:30:51,920
+Can I eat them, I wonder? Even if I could, 
+it wouldn't be enough to keep me alive.
 
-457
-00:30:31,980 --> 00:30:32,980
-sips.
+290
+00:30:53,360 --> 00:30:58,160
+I go back to waiting. It seems 
+colder than the night before.  
 
-458
-00:30:32,980 --> 00:30:36,840
-The mosquitoes have found me.
+291
+00:30:59,120 --> 00:31:02,000
+I start chipping at the 
+boulder just to keep warm.
+ 
+ 
 
-459
-00:30:36,840 --> 00:30:41,710
-There are several at my feet and some drinking
-the blood on the canyon wall.
-
-460
-00:30:41,710 --> 00:30:45,050
-I kill five or six as they circle around my
-head.
-
-461
-00:30:45,050 --> 00:30:47,950
-Can I eat them, I wonder?
-
-462
-00:30:47,950 --> 00:30:53,590
-Even if I could, it wouldn't be enough to
-keep me alive.
-
-463
-00:30:53,590 --> 00:30:55,560
-I go back to waiting.
-
-464
-00:30:55,560 --> 00:30:59,270
-It seems colder than the night before.
-
-465
-00:30:59,270 --> 00:31:02,840
-I start chipping at the boulder just to keep
-warm.
-
-466
-00:31:02,840 --> 00:31:06,750
+292
+00:31:03,120 --> 00:31:05,200
 36 hrs 15 mins
 
-467
-00:31:06,750 --> 00:31:09,630
-9.00 pm Night has fallen.
+293
+00:31:06,800 --> 00:31:09,120
+9.00 pm Night has fallen.  
 
-468
-00:31:09,630 --> 00:31:12,240
-The mosquitoes have gone.
+294
+00:31:10,160 --> 00:31:16,160
+The mosquitoes have gone. The sky above 
+is beautiful: clear with bright stars.  
 
-469
-00:31:12,240 --> 00:31:17,500
-The sky above is beautiful: clear with bright
-stars.
+295
+00:31:17,200 --> 00:31:23,440
+But clear skies mean lower temperatures. I 
+must do something to cover more of my body.
 
-470
-00:31:17,500 --> 00:31:20,900
-But clear skies mean lower temperatures.
+296
+00:31:24,880 --> 00:31:32,160
+I tie the camera bag around my left arm. Then 
+I tie webbing around my right arm and put  
 
-471
-00:31:20,900 --> 00:31:25,090
-I must do something to cover more of my body.
+297
+00:31:32,160 --> 00:31:38,160
+rope around each of my legs. I do the 
+same for my right arm, using webbing.
 
-472
-00:31:25,090 --> 00:31:28,080
-I tie the camera bag around my left arm.
+298
+00:31:39,520 --> 00:31:45,840
+I put rope round each leg. It looks 
+funny and I can't help smiling.
 
-473
-00:31:28,080 --> 00:31:35,240
-Then I tie webbing around my right arm and
-put rope around each of my legs.
+299
+00:31:46,400 --> 00:31:53,200
+I begin my routine of standing and sitting. 
+Most of my body feels warmer, but I'm still  
 
-474
-00:31:35,240 --> 00:31:38,900
-I do the same for my right arm, using webbing.
+300
+00:31:53,200 --> 00:31:59,840
+shaking because my head and neck are cold. I 
+decide to put the plastic rope bag over my head.  
 
-475
-00:31:38,900 --> 00:31:42,020
-I put rope round each leg.
+301
+00:32:00,960 --> 00:32:04,000
+I keep the far end open to let fresh air in.  
 
-476
-00:31:42,020 --> 00:31:45,700
-It looks funny and I can't help smiling.
+302
+00:32:05,040 --> 00:32:10,960
+I lay my head against the boulder. I 
+still can't sleep but at least I'm warmer.
 
-477
-00:31:45,700 --> 00:31:50,640
-I begin my routine of standing and sitting.
+303
+00:32:12,320 --> 00:32:15,920
+The long, boring hours of 
+the night pass slowly by.  
 
-478
-00:31:50,640 --> 00:31:56,760
-Most of my body feels warmer, but I'm still
-shaking because my head and neck are cold.
+304
+00:32:17,120 --> 00:32:25,040
+Finally, the sky grows lighter. Today, it's a 
+dirty white colour. I wonder if this is cloud.  
 
-479
-00:31:56,760 --> 00:32:01,040
-I decide to put the plastic rope bag over
-my head.
+305
+00:32:26,080 --> 00:32:31,120
+Clouds at night are good because they trap the 
+day's heat in the canyon, but clouds during  
 
-480
-00:32:01,040 --> 00:32:05,120
-I keep the far end open to let fresh air in.
+306
+00:32:31,120 --> 00:32:37,280
+the day are bad because the sun doesn't warm 
+the air. There's also the chance of a storm.
 
-481
-00:32:05,120 --> 00:32:08,080
-I lay my head against the boulder.
+307
+00:32:38,800 --> 00:32:41,840
+Slowly the pale sky turns bright blue.  
 
-482
-00:32:08,080 --> 00:32:11,690
-I still can't sleep but at least I'm warmer.
+308
+00:32:42,560 --> 00:32:48,960
+It's going to be hot again. As always, the 
+light and warm air make me want to do something.  
 
-483
-00:32:11,690 --> 00:32:16,920
-The long, boring hours of the night pass slowly
-by.
+309
+00:32:50,000 --> 00:32:56,080
+I try and lift the boulder again by 
+pushing down on the rope with my feet.
 
-484
-00:32:16,920 --> 00:32:19,800
-Finally, the sky grows lighter.
+310
+00:32:56,080 --> 00:32:59,520
+This doesn't work either and 
+I feel suddenly hopeless.  
 
-485
-00:32:19,800 --> 00:32:23,590
-Today, it's a dirty white colour.
+311
+00:33:00,720 --> 00:33:07,680
+What more can I do? No voice inside 
+my head suggests anything useful. All  
 
-486
-00:32:23,590 --> 00:32:25,141
-I wonder if this is cloud.
-
-487
-00:32:25,141 --> 00:32:31,150
-Clouds at night are good because they trap
-the day's heat in the canyon, but clouds during
-
-488
-00:32:31,150 --> 00:32:34,900
-the day are bad because the sun doesn't warm
-the air.
-
-489
-00:32:34,900 --> 00:32:39,260
-There's also the chance of a storm.
-
-490
-00:32:39,260 --> 00:32:41,910
-Slowly the pale sky turns bright blue.
-
-491
-00:32:41,910 --> 00:32:44,860
-It's going to be hot again.
-
-492
-00:32:44,860 --> 00:32:50,100
-As always, the light and warm air make me
-want to do something.
-
-493
-00:32:50,100 --> 00:32:55,460
-I try and lift the boulder again by pushing
-down on the rope with my feet.
-
-494
-00:32:55,460 --> 00:33:01,020
-This doesn't work either and I feel suddenly
-hopeless.
-
-495
-00:33:01,020 --> 00:33:03,230
-What more can I do?
-
-496
-00:33:03,230 --> 00:33:07,730
-No voice inside my head suggests anything
-useful.
-
-497
-00:33:07,730 --> 00:33:13,770
-All I see in my mind are pictures of the food
+312
+00:33:07,680 --> 00:33:12,320
+I see in my mind are pictures of the food 
 and drink left on the floor of my truck.
 
-498
-00:33:13,770 --> 00:33:17,490
-I think again about amputating my arm.
+313
+00:33:13,680 --> 00:33:19,600
+I think again about amputating my arm. 
+I didn't try hard enough the last time.  
 
-499
-00:33:17,490 --> 00:33:20,940
-I didn't try hard enough the last time.
-
-500
-00:33:20,940 --> 00:33:24,400
+314
+00:33:20,720 --> 00:33:24,160
 I need to be brave and try again.
 
-501
-00:33:24,400 --> 00:33:26,990
-I put on the tourniquet and make it tight.
+315
+00:33:24,160 --> 00:33:26,640
+I put on the tourniquet and make it tight.  
 
-502
-00:33:26,990 --> 00:33:33,680
-When everything is ready, I try to cut through
-the skin of my arm with the longer knife.
+316
+00:33:27,680 --> 00:33:32,960
+When everything is ready, I try to cut through 
+the skin of my arm with the longer knife.  
 
-503
-00:33:33,680 --> 00:33:37,140
-I push hard but the skin doesn't break.
+317
+00:33:34,080 --> 00:33:41,200
+I push hard but the skin doesn't break. 
+Then, over the same area, I use the shorter,  
 
-504
-00:33:37,140 --> 00:33:42,560
-Then, over the same area, I use the shorter,
-sharper knife.
-
-505
-00:33:42,560 --> 00:33:45,290
-But even that doesn't work.
-
-506
-00:33:45,290 --> 00:33:49,840
+318
+00:33:41,200 --> 00:33:48,160
+sharper knife. But even that doesn't work. 
 It's still not sharp enough to do the job.
 
-507
-00:33:49,840 --> 00:33:55,860
-All I have for the time I've spent on this
-is a long red line across my right arm.
+319
+00:33:49,520 --> 00:33:53,360
+All I have for the time I've 
+spent on this is a long red line  
 
-508
-00:33:55,860 --> 00:33:59,640
-I take off the tourniquet and go back to waiting.
+320
+00:33:53,360 --> 00:33:58,720
+across my right arm. I take off the 
+tourniquet and go back to waiting.
+ 
+ 
 
-509
-00:33:59,640 --> 00:34:03,640
+321
+00:33:59,840 --> 00:34:01,760
 47 hrs 30 mins
 
-510
-00:34:03,640 --> 00:34:07,010
-8.15 am The raven appears.
+322
+00:34:03,600 --> 00:34:12,640
+8.15 am The raven appears. I check my watch. It 
+has arrived at exactly the same time as yesterday.
 
-511
-00:34:07,010 --> 00:34:08,639
-I check my watch.
+323
+00:34:14,080 --> 00:34:16,400
+For the first time in two days,  
 
-512
-00:34:08,639 --> 00:34:13,310
-It has arrived at exactly the same time as
-yesterday.
+324
+00:34:16,400 --> 00:34:22,880
+I need to urinate. I open my shorts and watch 
+the yellow urine disappear into the sand.
 
-513
-00:34:13,310 --> 00:34:18,730
-For the first time in two days, I need to
-urinate.
+325
+00:34:24,320 --> 00:34:27,360
+I spend most of the day chipping, resting,  
 
-514
-00:34:18,730 --> 00:34:24,510
-I open my shorts and watch the yellow urine
-disappear into the sand.
+326
+00:34:27,360 --> 00:34:30,320
+and counting the minutes before 
+my next drink of water.
+ 
+ 
 
-515
-00:34:24,510 --> 00:34:29,820
-I spend most of the day chipping, resting,
-and counting the minutes before my next drink
-
-516
-00:34:29,820 --> 00:34:31,300
-of water.
-
-517
-00:34:31,300 --> 00:34:34,030
+327
+00:34:31,440 --> 00:34:33,840
 54 hrs
 
-518
-00:34:34,030 --> 00:34:40,650
-2.45 pm It's the middle of the afternoon and
-time to film again.
+328
+00:34:34,400 --> 00:34:39,040
+2.45 pm It's the middle of the 
+afternoon and time to film again.  
 
-519
-00:34:40,650 --> 00:34:43,740
-Filming has now become a part of my daily
-routine.
+329
+00:34:40,160 --> 00:34:46,000
+Filming has now become a part of my 
+daily routine. I turn on the camcorder.
 
-520
-00:34:43,740 --> 00:34:47,110
-I turn on the camcorder.
+330
+00:34:47,600 --> 00:34:54,480
+'Hi, everyone. It's Monday, April 
+the 28th. I'm still trapped.  
 
-521
-00:34:47,110 --> 00:34:50,120
-'Hi, everyone.
+331
+00:34:55,440 --> 00:35:01,440
+I've been here for exactly forty-eight 
+hours. That's two whole days with no  
 
-522
-00:34:50,120 --> 00:34:53,440
-It's Monday, April the 28th.
+332
+00:35:01,440 --> 00:35:06,960
+sleep and very little water. I now have 
+only about one-eighth of a litre left.'
 
-523
-00:34:53,440 --> 00:34:55,610
-I'm still trapped.
+333
+00:35:08,400 --> 00:35:16,080
+I continue with a message to my sister, Sonja. 
+She is getting married in the autumn. I tell  
 
-524
-00:34:55,610 --> 00:34:59,950
-I've been here for exactly forty-eight hours.
+334
+00:35:16,080 --> 00:35:20,080
+her how proud I am of her and 
+send her my love and best wishes.
 
-525
-00:34:59,950 --> 00:35:04,200
-That's two whole days with no sleep and very
-little water.
+335
+00:35:21,520 --> 00:35:28,720
+I finish filming at 3.35 pm. It's strange 
+but I feel the need to urinate again.  
 
-526
-00:35:04,200 --> 00:35:08,550
-I now have only about one-eighth of a litre
-left.'
+336
+00:35:29,840 --> 00:35:33,840
+This time, my second voice tells 
+me not to urinate on the ground.
 
-527
-00:35:08,550 --> 00:35:11,570
-I continue with a message to my sister, Sonja.
+337
+00:35:35,360 --> 00:35:39,520
+Save it, Aron. It will soon 
+be all you have to drink.
 
-528
-00:35:11,570 --> 00:35:15,650
-She is getting married in the autumn.
+338
+00:35:40,720 --> 00:35:44,720
+It's good advice. I urinate into the CamelBak.  
 
-529
-00:35:15,650 --> 00:35:20,780
-I tell her how proud I am of her and send
-her my love and best wishes.
+339
+00:35:45,840 --> 00:35:53,600
+The urine is now a dark orange colour. The 
+other urine was clearer. Why didn't I save it?
+ 
+ 
 
-530
-00:35:20,780 --> 00:35:25,970
-I finish filming at 3.35 pm.
-
-531
-00:35:25,970 --> 00:35:29,510
-It's strange but I feel the need to urinate
-again.
-
-532
-00:35:29,510 --> 00:35:35,710
-This time, my second voice tells me not to
-urinate on the ground.
-
-533
-00:35:35,710 --> 00:35:36,710
-Save it, Aron.
-
-534
-00:35:36,710 --> 00:35:41,830
-It will soon be all you have to drink.
-
-535
-00:35:41,830 --> 00:35:42,990
-It's good advice.
-
-536
-00:35:42,990 --> 00:35:45,480
-I urinate into the CamelBak.
-
-537
-00:35:45,480 --> 00:35:49,060
-The urine is now a dark orange colour.
-
-538
-00:35:49,060 --> 00:35:52,470
-The other urine was clearer.
-
-539
-00:35:52,470 --> 00:35:54,470
-Why didn't I save it?
-
-540
-00:35:54,470 --> 00:35:58,560
+340
+00:35:54,960 --> 00:35:57,840
 57 hrs 15 mins
 
-541
-00:35:58,560 --> 00:36:02,440
-6.00 pm It's early evening.
+341
+00:35:58,640 --> 00:36:05,680
+6.00 pm It's early evening. Sunlight shines 
+off the bottom of thin clouds high above me.  
 
-542
-00:36:02,440 --> 00:36:06,450
-Sunlight shines off the bottom of thin clouds
-high above me.
+342
+00:36:06,720 --> 00:36:12,160
+I hope they will stay and keep the 
+heat in the canyon. But as time passes,  
 
-543
-00:36:06,450 --> 00:36:10,890
-I hope they will stay and keep the heat in
-the canyon.
+343
+00:36:12,160 --> 00:36:20,720
+it seems to grow colder. My water won't last much 
+longer. Soon, I will have to start drinking urine.
 
-544
-00:36:10,890 --> 00:36:14,830
-But as time passes, it seems to grow colder.
+344
+00:36:22,160 --> 00:36:27,920
+Like the raven, the mosquitoes seem 
+to arrive on time. I kill a few more.  
 
-545
-00:36:14,830 --> 00:36:17,560
-My water won't last much longer.
-
-546
-00:36:17,560 --> 00:36:22,450
-Soon, I will have to start drinking urine.
-
-547
-00:36:22,450 --> 00:36:26,810
-Like the raven, the mosquitoes seem to arrive
-on time.
-
-548
-00:36:26,810 --> 00:36:28,970
-I kill a few more.
-
-549
-00:36:28,970 --> 00:36:34,330
-Mosquitoes mean there must be water quite
+345
+00:36:29,040 --> 00:36:34,000
+Mosquitoes mean there must be water quite 
 close - probably at the Big Drop Rappel.
 
-550
-00:36:34,330 --> 00:36:36,830
-Forget it, Aron.
+346
+00:36:35,360 --> 00:36:39,840
+Forget it, Aron. You'll never see water again.
 
-551
-00:36:36,830 --> 00:36:40,090
-You'll never see water again.
+347
+00:36:40,480 --> 00:36:44,320
+The first voice is back. I try not to listen.
 
-552
-00:36:40,090 --> 00:36:43,060
-The first voice is back.
-
-553
-00:36:43,060 --> 00:36:45,280
-I try not to listen.
-
-554
-00:36:45,280 --> 00:36:49,760
+348
+00:36:45,760 --> 00:36:46,560
 CHAPTER SEVEN
+
+349
+00:36:47,760 --> 00:36:48,560
 'Where's Aron?'
 
-555
-00:36:49,760 --> 00:36:54,740
-Back in Aspen, Aron's housemates were preparing
-for the party.
+350
+00:36:49,760 --> 00:36:56,960
+Back in Aspen, Aron's housemates were preparing 
+for the party. Elliot, another friend of his,  
 
-556
-00:36:54,740 --> 00:37:01,110
-Elliot, another friend of his, was moving
-into the house after Leona had gone.
+351
+00:36:56,960 --> 00:37:04,480
+was moving into the house after Leona had gone. 
+At eight-thirty, he asked, 'Has anyone seen Aron?'
 
-557
-00:37:01,110 --> 00:37:05,390
-At eight-thirty, he asked, 'Has anyone seen
-Aron?'
+352
+00:37:05,840 --> 00:37:10,160
+'No,' said Brian. 'He's 
+probably still on his trip.'
 
-558
-00:37:05,390 --> 00:37:08,430
-'No,' said Brian.
+353
+00:37:11,200 --> 00:37:14,800
+'Does he know about the party?' Elliot asked.
 
-559
-00:37:08,430 --> 00:37:10,140
-'He's probably still on his trip.'
+354
+00:37:15,920 --> 00:37:20,240
+'Of course,' said Leona. 'He 
+said he'd be here for sure.
 
-560
-00:37:10,140 --> 00:37:13,570
-'Does he know about the party?'
-
-561
-00:37:13,570 --> 00:37:15,270
-Elliot asked.
-
-562
-00:37:15,270 --> 00:37:18,770
-'Of course,' said Leona.
-
-563
-00:37:18,770 --> 00:37:21,850
-'He said he'd be here for sure.
-
-564
-00:37:21,850 --> 00:37:23,820
-He'd better come.
-
-565
-00:37:23,820 --> 00:37:26,170
-It's my goodbye party.
-
-566
-00:37:26,170 --> 00:37:29,630
+355
+00:37:21,520 --> 00:37:28,000
+He'd better come. It's my goodbye party. 
 I'll be upset if he doesn't come.'
 
-567
-00:37:29,630 --> 00:37:33,940
-The party ended at around two o'clock the
-next morning, but there was still no sign
+356
+00:37:28,960 --> 00:37:36,240
+The party ended at around two o'clock the next 
+morning, but there was still no sign of Aron.
 
-568
-00:37:33,940 --> 00:37:36,470
-of Aron.
+357
+00:37:36,240 --> 00:37:40,240
+The first person to think something 
+might be wrong was Aron's boss,  
 
-569
-00:37:36,470 --> 00:37:42,090
-The first person to think something might
-be wrong was Aron's boss, Brion.
+358
+00:37:40,240 --> 00:37:45,680
+Brion. Early Tuesday morning, he 
+called the house and spoke to Leona.
 
-570
-00:37:42,090 --> 00:37:47,250
-Early Tuesday morning, he called the house
-and spoke to Leona.
+359
+00:37:47,040 --> 00:37:50,640
+'He didn't come to the party 
+last night,' Leona told him.  
 
-571
-00:37:47,250 --> 00:37:51,430
-'He didn't come to the party last night,'
-Leona told him.
-
-572
-00:37:51,430 --> 00:37:54,890
+360
+00:37:51,600 --> 00:37:53,680
 'I thought he'd driven straight to work.'
 
-573
-00:37:54,890 --> 00:37:59,290
-'No, he's not here, and Aron's never late.
+361
+00:37:55,200 --> 00:37:58,160
+'No, he's not here, and Aron's never late.  
 
-574
-00:37:59,290 --> 00:38:01,260
-I think something might be wrong.
+362
+00:37:59,200 --> 00:38:04,240
+I think something might be wrong. Could 
+you call me right away if he gets back?'
 
-575
-00:38:01,260 --> 00:38:05,110
-Could you call me right away if he gets back?'
+363
+00:38:05,440 --> 00:38:08,880
+'Yes, sure,' said Leona, feeling a little worried.
 
-576
-00:38:05,110 --> 00:38:10,550
-'Yes, sure,' said Leona, feeling a little
-worried.
+364
+00:38:10,320 --> 00:38:14,640
+She called Brion later that 
+afternoon to ask if Aron had arrived.
 
-577
-00:38:10,550 --> 00:38:15,290
-She called Brion later that afternoon to ask
-if Aron had arrived.
+365
+00:38:15,840 --> 00:38:19,840
+'No,' said Brion. 'Did he say where he was going?'
 
-578
-00:38:15,290 --> 00:38:17,360
-'No,' said Brion.
+366
+00:38:21,280 --> 00:38:26,880
+'He didn't say much to any of us. Only 
+that he was going climbing and biking.  
 
-579
-00:38:17,360 --> 00:38:21,470
-'Did he say where he was going?'
+367
+00:38:28,000 --> 00:38:36,240
+He also said he might hike in Utah. Somewhere 
+in Canyonlands. He didn't say where, exactly.'
 
-580
-00:38:21,470 --> 00:38:24,870
-'He didn't say much to any of us.
+368
+00:38:37,600 --> 00:38:43,920
+'Mmm, that's a big area,' said Brion. 'I'll 
+wait until nine o'clock tomorrow morning.  
 
-581
-00:38:24,870 --> 00:38:28,190
-Only that he was going climbing and biking.
-
-582
-00:38:28,190 --> 00:38:31,100
-He also said he might hike in Utah.
-
-583
-00:38:31,100 --> 00:38:33,350
-Somewhere in Canyonlands.
-
-584
-00:38:33,350 --> 00:38:37,220
-He didn't say where, exactly.'
-
-585
-00:38:37,220 --> 00:38:41,490
-'Mmm, that's a big area,' said Brion.
-
-586
-00:38:41,490 --> 00:38:44,310
-'I'll wait until nine o'clock tomorrow morning.
-
-587
-00:38:44,310 --> 00:38:49,860
+369
+00:38:44,960 --> 00:38:48,080
 If he's not back by then, I'll call his parents.'
 
-588
-00:38:49,860 --> 00:38:53,620
-Aron's housemates decided not to wait any
-longer.
+370
+00:38:49,520 --> 00:38:56,320
+Aron's housemates decided not to wait any longer. 
+At six-thirty that evening, they called the  
 
-589
-00:38:53,620 --> 00:38:57,460
-At six-thirty that evening, they called the
-police.
+371
+00:38:56,320 --> 00:39:04,000
+police. The officer on the desk asked for Aron's 
+information: full name, age, height and weight.  
 
-590
-00:38:57,460 --> 00:39:05,270
-The officer on the desk asked for Aron's information:
-full name, age, height and weight.
+372
+00:39:05,040 --> 00:39:09,200
+He also wanted to know the model of 
+his truck and the license-plate number.  
 
-591
-00:39:05,270 --> 00:39:09,720
-He also wanted to know the model of his truck
-and the license-plate number.
+373
+00:39:10,160 --> 00:39:14,880
+But there was something the officer didn't 
+tell them: a person has to be missing for  
 
-592
-00:39:09,720 --> 00:39:14,910
-But there was something the officer didn't
-tell them: a person has to be missing for
+374
+00:39:14,880 --> 00:39:19,280
+at least forty-eight hours before the 
+police will start a search and rescue  
 
-593
-00:39:14,910 --> 00:39:20,760
-at least forty-eight hours before the police
-will start a search and rescue operation.
+375
+00:39:19,280 --> 00:39:24,640
+operation. This meant that they wouldn't 
+do anything until late the following day.
+ 
+ 
 
-594
-00:39:20,760 --> 00:39:26,120
-This meant that they wouldn't do anything
-until late the following day.
-
-595
-00:39:26,120 --> 00:39:30,020
+376
+00:39:26,560 --> 00:39:28,640
 63 Mrs 15 mins
 
-596
-00:39:30,020 --> 00:39:36,410
-12.00 am It's my third night here and I've
-decided to take my first sip of urine.
+377
+00:39:29,840 --> 00:39:35,600
+12.00 am It's my third night here and I've 
+decided to take my first sip of urine.  
 
-597
-00:39:36,410 --> 00:39:42,030
-There's still half a cup of water left, but
-I want to save it.
+378
+00:39:36,640 --> 00:39:40,400
+There's still half a cup of water 
+left, but I want to save it.
 
-598
-00:39:42,030 --> 00:39:46,900
-The urine tastes bad, but not quite as bad
-as I thought.
+379
+00:39:41,760 --> 00:39:45,600
+The urine tastes bad, but not 
+quite as bad as I thought.  
 
-599
-00:39:46,900 --> 00:39:51,640
-I decide not to drink any more until the water
-is finished.
+380
+00:39:46,720 --> 00:39:54,000
+I decide not to drink any more until the water is 
+finished. I've changed my drinking routine because  
 
-600
-00:39:51,640 --> 00:39:56,430
-I've changed my drinking routine because the
-night is colder.
+381
+00:39:54,000 --> 00:40:01,040
+the night is colder. I can now only sit for a 
+few minutes so I take smaller sips every hour.
+ 
+ 
 
-601
-00:39:56,430 --> 00:40:01,950
-I can now only sit for a few minutes so I
-take smaller sips every hour.
-
-602
-00:40:01,950 --> 00:40:05,550
+382
+00:40:02,480 --> 00:40:04,640
 66 hrs 15 mins
 
-603
-00:40:05,550 --> 00:40:11,140
-3.00 am It's now sixty hours since my accident.
+383
+00:40:05,840 --> 00:40:09,840
+3.00 am It's now sixty hours since my accident.  
 
-604
-00:40:11,140 --> 00:40:15,580
-That's sixty hours of pain, no sleep, and
-very little water.
+384
+00:40:10,720 --> 00:40:14,960
+That's sixty hours of pain, no 
+sleep, and very little water.
 
-605
-00:40:15,580 --> 00:40:21,020
-Two hours later, it's time for my next sip
-of water.
+385
+00:40:16,400 --> 00:40:23,120
+Two hours later, it's time for my next sip of 
+water. I put the bottle between my legs and  
 
-606
-00:40:21,020 --> 00:40:25,150
-I put the bottle between my legs and turn
-the top.
+386
+00:40:23,120 --> 00:40:31,520
+turn the top. When it's open, I try and lift it 
+towards my mouth. But it hits my harness and falls  
 
-607
-00:40:25,150 --> 00:40:28,540
-When it's open, I try and lift it towards
-my mouth.
-
-608
-00:40:28,540 --> 00:40:33,510
-But it hits my harness and falls back onto
-my legs.
-
-609
-00:40:33,510 --> 00:40:37,040
-I am too tired to catch it.
-
-610
-00:40:37,040 --> 00:40:40,680
+387
+00:40:31,520 --> 00:40:39,760
+back onto my legs. I am too tired to catch it. 
 Some of the valuable water falls onto my shorts.
 
-611
-00:40:40,680 --> 00:40:42,050
-'Damn!
+388
+00:40:41,280 --> 00:40:46,240
+'Damn! Damn! Damn!' I shout.
 
-612
-00:40:42,050 --> 00:40:43,420
-Damn!
+389
+00:40:47,280 --> 00:40:52,080
+Now look what you've done! Says the first voice.
 
-613
-00:40:43,420 --> 00:40:44,790
-Damn!'
+390
+00:40:52,080 --> 00:40:57,760
+I know exactly what I've done. I've 
+just lost half of the rest of my life.
+ 
+ 
 
-614
-00:40:44,790 --> 00:40:47,540
-I shout.
-
-615
-00:40:47,540 --> 00:40:49,730
-Now look what you've done!
-
-616
-00:40:49,730 --> 00:40:52,180
-Says the first voice.
-
-617
-00:40:52,180 --> 00:40:55,170
-I know exactly what I've done.
-
-618
-00:40:55,170 --> 00:40:57,940
-I've just lost half of the rest of my life.
-
-619
-00:40:57,940 --> 00:40:59,210
+391
+00:40:58,960 --> 00:41:00,000
 70 hrs
 
-620
-00:40:59,210 --> 00:41:07,720
-6.45 am As morning arrives once more, I feel
-a little hope.
+392
+00:41:01,920 --> 00:41:10,320
+6.45 am As morning arrives once more, I feel a 
+little hope. At least I've survived another night.  
 
-621
-00:41:07,720 --> 00:41:11,730
-At least I've survived another night.
+393
+00:41:11,360 --> 00:41:16,800
+It's now Tuesday, April the 29th: 
+my fourth day trapped in the canyon.
 
-622
-00:41:11,730 --> 00:41:18,330
-It's now Tuesday, April the 29th: my fourth
-day trapped in the canyon.
+394
+00:41:18,240 --> 00:41:23,600
+I decide to film earlier today. I 
+put the camcorder on the boulder,  
 
-623
-00:41:18,330 --> 00:41:21,520
-I decide to film earlier today.
+395
+00:41:23,600 --> 00:41:29,120
+then turn the screen the other way. I 
+don't want to look at myself as I speak.
 
-624
-00:41:21,520 --> 00:41:26,740
-I put the camcorder on the boulder, then turn
-the screen the other way.
+396
+00:41:30,640 --> 00:41:37,520
+'Hi. It's Tuesday morning. I guess 
+everyone missed me when I didn't arrive  
 
-625
-00:41:26,740 --> 00:41:30,190
-I don't want to look at myself as I speak.
+397
+00:41:37,520 --> 00:41:43,440
+for Leona's party last night. Most people 
+will probably think I'm still travelling.  
 
-626
-00:41:30,190 --> 00:41:31,320
-'Hi.
+398
+00:41:44,560 --> 00:41:50,080
+Except for Brion. When I don't arrive 
+for work, he'll think something is wrong.  
 
-627
-00:41:31,320 --> 00:41:34,700
-It's Tuesday morning.
+399
+00:41:51,120 --> 00:41:57,600
+He might call the police and report me missing. 
+They'll wait forty-eight hours before searching.  
 
-628
-00:41:34,700 --> 00:41:40,950
-I guess everyone missed me when I didn't arrive
-for Leona's party last night.
+400
+00:41:58,640 --> 00:42:04,560
+If I'm lucky, they'll start some time 
+on Wednesday. If I'm very lucky, they  
 
-629
-00:41:40,950 --> 00:41:44,250
-Most people will probably think I'm still
-travelling.
+401
+00:42:04,560 --> 00:42:11,440
+might search the Robbers Roost area first. Even 
+then, the earliest they'll reach me is Thursday.  
 
-630
-00:41:44,250 --> 00:41:47,010
-Except for Brion.
+402
+00:42:12,480 --> 00:42:18,640
+I'll try to stay alive as long as I can, but I 
+can't imagine living longer than one more day.  
 
-631
-00:41:47,010 --> 00:41:51,350
-When I don't arrive for work, he'll think
-something is wrong.
+403
+00:42:19,760 --> 00:42:27,920
+This means help will arrive too late. By Thursday, 
+I'll be dead. And this video will be history.'
+ 
+ 
+ 
 
-632
-00:41:51,350 --> 00:41:54,540
-He might call the police and report me missing.
-
-633
-00:41:54,540 --> 00:41:58,250
-They'll wait forty-eight hours before searching.
-
-634
-00:41:58,250 --> 00:42:03,170
-If I'm lucky, they'll start some time on Wednesday.
-
-635
-00:42:03,170 --> 00:42:07,880
-If I'm very lucky, they might search the Robbers
-Roost area first.
-
-636
-00:42:07,880 --> 00:42:12,730
-Even then, the earliest they'll reach me is
-Thursday.
-
-637
-00:42:12,730 --> 00:42:18,520
-I'll try to stay alive as long as I can, but
-I can't imagine living longer than one more
-
-638
-00:42:18,520 --> 00:42:19,520
-day.
-
-639
-00:42:19,520 --> 00:42:22,440
-This means help will arrive too late.
-
-640
-00:42:22,440 --> 00:42:25,640
-By Thursday, I'll be dead.
-
-641
-00:42:25,640 --> 00:42:29,840
-And this video will be history.'
-
-642
-00:42:29,840 --> 00:42:32,400
+404
+00:42:29,600 --> 00:42:30,480
 CHAPTER EIGHT
+
+405
+00:42:31,520 --> 00:42:32,240
 The raven
 
-643
-00:42:32,400 --> 00:42:37,140
+406
+00:42:33,360 --> 00:42:35,440
 70 hrs 45 mins
 
-644
-00:42:37,140 --> 00:42:43,280
-7.30 am That last video recording was the
-most pessimistic so far.
+407
+00:42:37,600 --> 00:42:44,640
+7.30 am That last video recording was the 
+most pessimistic so far. It's strange,  
 
-645
-00:42:43,280 --> 00:42:48,510
-It's strange, but the feeling of hopelessness
-doesn't last.
+408
+00:42:44,640 --> 00:42:51,360
+but the feeling of hopelessness doesn't last. 
+As the sky grows brighter, I think of the raven.  
 
-646
-00:42:48,510 --> 00:42:52,540
-As the sky grows brighter, I think of the
-raven.
+409
+00:42:52,320 --> 00:42:57,840
+The bird is a sign of hope. Just thinking 
+about it makes me want to do something.
 
-647
-00:42:52,540 --> 00:42:55,490
-The bird is a sign of hope.
+410
+00:42:59,360 --> 00:43:06,240
+I try lifting the boulder once more. I make 
+the rope even shorter, but when I step on it,  
 
-648
-00:42:55,490 --> 00:42:59,570
-Just thinking about it makes me want to do
-something.
+411
+00:43:06,240 --> 00:43:13,760
+nothing happens. I do everything I can to 
+make it work. I push, jump and shout as I  
 
-649
-00:42:59,570 --> 00:43:02,100
-I try lifting the boulder once more.
+412
+00:43:13,760 --> 00:43:20,880
+put all my weight onto the rope. It's still no 
+good. The boulder doesn't move a millimetre.
 
-650
-00:43:02,100 --> 00:43:08,290
-I make the rope even shorter, but when I step
-on it, nothing happens.
+413
+00:43:22,320 --> 00:43:30,400
+I step down and lay my head on the boulder. I feel 
+like crying but I can't. There's not enough water  
 
-651
-00:43:08,290 --> 00:43:11,870
-I do everything I can to make it work.
+414
+00:43:30,400 --> 00:43:40,000
+in my body to produce any tears. But there's still 
+the knife. It's lying open on top of the boulder.
 
-652
-00:43:11,870 --> 00:43:16,170
-I push, jump and shout as I put all my weight
-onto the rope.
+415
+00:43:40,000 --> 00:43:42,320
+Suddenly, I know what I'm going to do.  
 
-653
-00:43:16,170 --> 00:43:18,970
-It's still no good.
+416
+00:43:43,520 --> 00:43:49,840
+Quickly, I put the tourniquet around my arm 
+and tighten it. Then I pick up the multi-tool,  
 
-654
-00:43:18,970 --> 00:43:22,420
-The boulder doesn't move a millimetre.
+417
+00:43:50,480 --> 00:43:57,520
+open the shorter knife and push it hard into my 
+arm. This time, the knife goes all the way in.
 
-655
-00:43:22,420 --> 00:43:25,990
-I step down and lay my head on the boulder.
+418
+00:43:58,960 --> 00:44:03,040
+I pull out the knife and look at the 
+deep hole I've made in my right arm.  
 
-656
-00:43:25,990 --> 00:43:28,710
-I feel like crying but I can't.
+419
+00:44:04,080 --> 00:44:11,680
+I can't believe I've done this. It didn't even 
+hurt and there's very little blood. I can see the  
 
-657
-00:43:28,710 --> 00:43:33,290
-There's not enough water in my body to produce
-any tears.
+420
+00:44:11,680 --> 00:44:18,320
+bones in my arm through the hole. I will never be 
+able to cut through them with only a small knife.
 
-658
-00:43:33,290 --> 00:43:35,760
-But there's still the knife.
+421
+00:44:19,760 --> 00:44:26,240
+It's time for a drink. I pick up the bottle and 
+feel the last of the water disappear down my  
 
-659
-00:43:35,760 --> 00:43:39,580
-It's lying open on top of the boulder.
+422
+00:44:26,240 --> 00:44:34,480
+throat. I check the time. It's exactly 8.00 
+am and all I have to drink now is urine.
+ 
+ 
 
-660
-00:43:39,580 --> 00:43:43,190
-Suddenly, I know what I'm going to do.
-
-661
-00:43:43,190 --> 00:43:47,840
-Quickly, I put the tourniquet around my arm
-and tighten it.
-
-662
-00:43:47,840 --> 00:43:54,300
-Then I pick up the multi-tool, open the shorter
-knife and push it hard into my arm.
-
-663
-00:43:54,300 --> 00:43:59,050
-This time, the knife goes all the way in.
-
-664
-00:43:59,050 --> 00:44:04,330
-I pull out the knife and look at the deep
-hole I've made in my right arm.
-
-665
-00:44:04,330 --> 00:44:06,470
-I can't believe I've done this.
-
-666
-00:44:06,470 --> 00:44:11,119
-It didn't even hurt and there's very little
-blood.
-
-667
-00:44:11,119 --> 00:44:14,840
-I can see the bones in my arm through the
-hole.
-
-668
-00:44:14,840 --> 00:44:19,000
-I will never be able to cut through them with
-only a small knife.
-
-669
-00:44:19,000 --> 00:44:22,470
-It's time for a drink.
-
-670
-00:44:22,470 --> 00:44:27,810
-I pick up the bottle and feel the last of
-the water disappear down my throat.
-
-671
-00:44:27,810 --> 00:44:30,100
-I check the time.
-
-672
-00:44:30,100 --> 00:44:35,540
-It's exactly 8.00 am and all I have to drink
-now is urine.
-
-673
-00:44:35,540 --> 00:44:39,620
+423
+00:44:35,680 --> 00:44:38,080
 71 hrs 45 mins
 
-674
-00:44:39,620 --> 00:44:42,440
-8.30 am The raven appears.
+424
+00:44:39,840 --> 00:44:45,520
+8.30 am The raven appears. It's 
+fifteen minutes late but I'm happy.  
 
-675
-00:44:42,440 --> 00:44:46,590
-It's fifteen minutes late but I'm happy.
+425
+00:44:46,480 --> 00:44:52,640
+I was beginning to think it wouldn't come. I feel 
+happy and start thinking of all the wonderful  
 
-676
-00:44:46,590 --> 00:44:49,619
-I was beginning to think it wouldn't come.
+426
+00:44:52,640 --> 00:44:59,920
+times I've spent with friends and family. I 
+remember a trip to Washington D.C. with my sister,  
 
-677
-00:44:49,619 --> 00:44:54,760
-I feel happy and start thinking of all the
-wonderful times I've spent with friends and
+427
+00:44:59,920 --> 00:45:05,600
+and another to Gettysburg with my dad. 
+I also think of all the adventures I've  
 
-678
-00:44:54,760 --> 00:44:55,840
-family.
+428
+00:45:05,600 --> 00:45:12,240
+had with different friends. The time passes 
+quickly Midday arrives without me realising.
 
-679
-00:44:55,840 --> 00:45:01,590
-I remember a trip to Washington D.C. with
-my sister, and another to Gettysburg with
+429
+00:45:13,600 --> 00:45:20,240
+I urinate into the CamelBak. Then I pour the 
+clearer half of the urine into my water bottle.  
 
-680
-00:45:01,590 --> 00:45:03,360
-my dad.
+430
+00:45:21,280 --> 00:45:28,160
+I throw the rest away. I have no idea how 
+long anyone can survive on urine alone.  
 
-681
-00:45:03,360 --> 00:45:07,890
-I also think of all the adventures I've had
-with different friends.
-
-682
-00:45:07,890 --> 00:45:13,170
-The time passes quickly Midday arrives without
-me realising.
-
-683
-00:45:13,170 --> 00:45:16,970
-I urinate into the CamelBak.
-
-684
-00:45:16,970 --> 00:45:21,390
-Then I pour the clearer half of the urine
-into my water bottle.
-
-685
-00:45:21,390 --> 00:45:23,880
-I throw the rest away.
-
-686
-00:45:23,880 --> 00:45:28,820
-I have no idea how long anyone can survive
-on urine alone.
-
-687
-00:45:28,820 --> 00:45:32,770
+431
+00:45:29,280 --> 00:45:32,320
 At least drinking it wasn't as bad as I expected.
 
-688
-00:45:32,770 --> 00:45:36,260
-It is now the warmest part of the day.
+432
+00:45:33,680 --> 00:45:39,280
+It is now the warmest part of the day. 
+This is the time I am most comfortable.  
 
-689
-00:45:36,260 --> 00:45:40,550
-This is the time I am most comfortable.
+433
+00:45:40,320 --> 00:45:44,320
+I have found the best way to sit 
+and feel calmer in the warm air.  
 
-690
-00:45:40,550 --> 00:45:45,130
-I have found the best way to sit and feel
-calmer in the warm air.
+434
+00:45:45,360 --> 00:45:51,680
+Perhaps help will arrive in time. If 
+so, I will soon be as free as the raven.
 
-691
-00:45:45,130 --> 00:45:48,110
-Perhaps help will arrive in time.
+435
+00:45:53,120 --> 00:46:00,000
+Three hours later, I have reached the end of my 
+third day trapped in the canyon. None of my plans  
 
-692
-00:45:48,110 --> 00:45:53,350
-If so, I will soon be as free as the raven.
+436
+00:46:00,000 --> 00:46:06,480
+of escape have worked. All I can do is stay 
+strong for another night and hope for rescue.
 
-693
-00:45:53,350 --> 00:45:58,590
-Three hours later, I have reached the end
-of my third day trapped in the canyon.
+437
+00:46:07,760 --> 00:46:16,400
+I eat the last burrito. It is too dry to get down 
+my throat so I take a mouthful of urine. The urine  
 
-694
-00:45:58,590 --> 00:46:02,700
-None of my plans of escape have worked.
+438
+00:46:16,400 --> 00:46:21,840
+tastes better at night because it's colder, 
+but it's still going to be a long, hard night.  
 
-695
-00:46:02,700 --> 00:46:08,080
-All I can do is stay strong for another night
-and hope for rescue.
+439
+00:46:22,880 --> 00:46:28,320
+On Wednesday morning, Brion After was 
+at work in the shop. At nine-fifteen,  
 
-696
-00:46:08,080 --> 00:46:09,730
-I eat the last burrito.
+440
+00:46:28,960 --> 00:46:35,120
+he called Leona to check if he had arrived, 
+but he hadn't. Brion had waited long enough.
 
-697
-00:46:09,730 --> 00:46:15,580
-It is too dry to get down my throat so I take
-a mouthful of urine.
+441
+00:46:36,480 --> 00:46:42,240
+He picked up the phone. Aron's 
+mother answered on the first ring.
 
-698
-00:46:15,580 --> 00:46:21,770
-The urine tastes better at night because it's
-colder, but it's still going to be a long,
-
-699
-00:46:21,770 --> 00:46:23,030
-hard night.
-
-700
-00:46:23,030 --> 00:46:27,830
-On Wednesday morning, Brion After was at work
-in the shop.
-
-701
-00:46:27,830 --> 00:46:33,020
-At nine-fifteen, he called Leona to check
-if he had arrived, but he hadn't.
-
-702
-00:46:33,020 --> 00:46:36,700
-Brion had waited long enough.
-
-703
-00:46:36,700 --> 00:46:38,990
-He picked up the phone.
-
-704
-00:46:38,990 --> 00:46:41,920
-Aron's mother answered on the first ring.
-
-705
-00:46:41,920 --> 00:46:43,800
+442
+00:46:42,240 --> 00:46:43,120
 'Mrs Ralston?'
 
-706
-00:46:43,800 --> 00:46:44,800
+443
+00:46:44,400 --> 00:46:44,720
 'Yes?'
 
-707
-00:46:44,800 --> 00:46:50,820
-'This is Brion After - Aron's boss at Ute
-Mountaineer.
+444
+00:46:46,240 --> 00:46:49,520
+'This is Brion After - Aron's 
+boss at Ute Mountaineer.  
 
-708
-00:46:50,820 --> 00:46:54,180
-I'm afraid I'm rather worried about him.
+445
+00:46:50,480 --> 00:46:56,800
+I'm afraid I'm rather worried about him. He 
+hasn't returned from a trip he took last week.  
 
-709
-00:46:54,180 --> 00:46:58,150
-He hasn't returned from a trip he took last
-week.
+446
+00:46:57,920 --> 00:47:03,520
+Do you know where he went? No one here 
+has seen him since last Wednesday.'
 
-710
-00:46:58,150 --> 00:47:00,720
-Do you know where he went?
-
-711
-00:47:00,720 --> 00:47:04,350
-No one here has seen him since last Wednesday.'
-
-712
-00:47:04,350 --> 00:47:07,520
-'Oh dear,' said Aron's mother.
-
-713
-00:47:07,520 --> 00:47:10,690
+447
+00:47:04,960 --> 00:47:09,840
+'Oh dear,' said Aron's mother. 
 'I have no idea where he is.
 
-714
-00:47:10,690 --> 00:47:15,580
-I called him last week and left a message,
-but he didn't call back.
+448
+00:47:11,040 --> 00:47:14,960
+I called him last week and left a 
+message, but he didn't call back.  
 
-715
-00:47:15,580 --> 00:47:20,230
-Did he tell any of his housemates where he
-was going?'
+449
+00:47:16,000 --> 00:47:19,040
+Did he tell any of his 
+housemates where he was going?'
 
-716
-00:47:20,230 --> 00:47:26,930
-'No, just that he might hike somewhere in
-the Canyonlands area of Utah,' explained Brion
+450
+00:47:20,640 --> 00:47:26,480
+'No, just that he might hike somewhere in the 
+Canyonlands area of Utah,' explained Brion
 
-717
-00:47:26,930 --> 00:47:30,810
+451
+00:47:27,440 --> 00:47:29,760
 'I think you should call the Aspen police.'
 
-718
-00:47:30,810 --> 00:47:33,640
-'Yes, I'll do that right now.
-
-719
-00:47:33,640 --> 00:47:36,530
+452
+00:47:30,880 --> 00:47:35,600
+'Yes, I'll do that right now. 
 I'll let you know what happens.'
 
-720
-00:47:36,530 --> 00:47:39,420
+453
+00:47:37,200 --> 00:47:38,400
 'Thank you, Brion.'
 
-721
-00:47:39,420 --> 00:47:44,490
-Mrs Ralston's hand was shaking as she put
-down the phone.
+454
+00:47:39,440 --> 00:47:47,600
+Mrs Ralston's hand was shaking as she put down 
+the phone. She suddenly had an idea. Perhaps  
 
-722
-00:47:44,490 --> 00:47:46,680
-She suddenly had an idea.
-
-723
-00:47:46,680 --> 00:47:53,540
-Perhaps Aron had sent an email to one of his
+455
+00:47:47,600 --> 00:47:51,840
+Aron had sent an email to one of his 
 friends saying where he was going?
 
-724
-00:47:53,540 --> 00:47:56,150
-She went to the computer.
+456
+00:47:53,280 --> 00:48:00,960
+She went to the computer. Aron had an email 
+address - but what was it? She found his name,  
 
-725
-00:47:56,150 --> 00:47:59,760
-Aron had an email address - but what was it?
+457
+00:48:00,960 --> 00:48:07,760
+but had to answer a secret question to read 
+his emails. None of the answers she gave worked  
 
-726
-00:47:59,760 --> 00:48:04,950
-She found his name, but had to answer a secret
-question to read his emails.
+458
+00:48:07,760 --> 00:48:14,720
+but she kept trying. In the end, she guessed the 
+correct answer and sent the information to Brion.
 
-727
-00:48:04,950 --> 00:48:09,000
-None of the answers she gave worked but she
-kept trying.
+459
+00:48:16,160 --> 00:48:22,640
+After Brion had called the Aspen police, the 
+head officer, Adam Crider, started the rescue  
 
-728
-00:48:09,000 --> 00:48:16,630
-In the end, she guessed the correct answer
-and sent the information to Brion.
+460
+00:48:22,640 --> 00:48:28,320
+operation. He called Mrs Ralston for the 
+license-plate number of her son's truck.  
 
-729
-00:48:16,630 --> 00:48:23,290
-After Brion had called the Aspen police, the
-head officer, Adam Crider, started the rescue
+461
+00:48:29,440 --> 00:48:35,840
+Mrs Ralston had written it down on a piece 
+of paper. When she read it to Officer Crider,  
 
-730
-00:48:23,290 --> 00:48:24,480
-operation.
+462
+00:48:35,840 --> 00:48:42,000
+she didn't realise it was wrong. Aron had 
+given it to her in a hurry and made a mistake.
 
-731
-00:48:24,480 --> 00:48:29,220
-He called Mrs Ralston for the license-plate
-number of her son's truck.
+463
+00:48:43,600 --> 00:48:49,280
+Officer Crider called back and told Mrs Ralston 
+there was no record of that license plate.  
 
-732
-00:48:29,220 --> 00:48:33,930
-Mrs Ralston had written it down on a piece
-of paper.
+464
+00:48:50,320 --> 00:48:56,000
+This left her with another problem. How could 
+she find the correct license-plate number?
 
-733
-00:48:33,930 --> 00:48:39,130
-When she read it to Officer Crider, she didn't
-realise it was wrong.
+465
+00:48:57,440 --> 00:49:03,760
+Brion After was having better luck. He had 
+found a list of email addresses for Aron's  
 
-734
-00:48:39,130 --> 00:48:44,040
-Aron had given it to her in a hurry and made
-a mistake.
+466
+00:49:03,760 --> 00:49:10,800
+climbing friends. Perhaps they knew where 
+he was. He wanted to check immediately,  
 
-735
-00:48:44,040 --> 00:48:49,930
-Officer Crider called back and told Mrs Ralston
-there was no record of that license plate.
+467
+00:49:10,800 --> 00:49:16,320
+but he had to leave for Australia that 
+day. He called Aron's housemate Elliot  
 
-736
-00:48:49,930 --> 00:48:53,560
-This left her with another problem.
+468
+00:49:16,320 --> 00:49:23,200
+and asked him to manage the store and rescue 
+operation until he returned. Elliot agreed.
 
-737
-00:48:53,560 --> 00:48:56,670
-How could she find the correct license-plate
-number?
+469
+00:49:24,640 --> 00:49:30,960
+When Elliot reached the store, he received 
+a call from Mrs Ralston. She wanted to check  
 
-738
-00:48:56,670 --> 00:49:00,820
-Brion After was having better luck.
+470
+00:49:30,960 --> 00:49:35,920
+the license-plate number she had 
+given Brion. It was on his desk.  
 
-739
-00:49:00,820 --> 00:49:05,490
-He had found a list of email addresses for
-Aron's climbing friends.
-
-740
-00:49:05,490 --> 00:49:08,940
-Perhaps they knew where he was.
-
-741
-00:49:08,940 --> 00:49:14,280
-He wanted to check immediately, but he had
-to leave for Australia that day.
-
-742
-00:49:14,280 --> 00:49:20,140
-He called Aron's housemate Elliot and asked
-him to manage the store and rescue operation
-
-743
-00:49:20,140 --> 00:49:22,510
-until he returned.
-
-744
-00:49:22,510 --> 00:49:24,910
-Elliot agreed.
-
-745
-00:49:24,910 --> 00:49:30,200
-When Elliot reached the store, he received
-a call from Mrs Ralston.
-
-746
-00:49:30,200 --> 00:49:33,980
-She wanted to check the license-plate number
-she had given Brion.
-
-747
-00:49:33,980 --> 00:49:36,690
-It was on his desk.
-
-748
-00:49:36,690 --> 00:49:39,790
+471
+00:49:36,960 --> 00:49:39,120
 Elliot checked as she read out the number.
 
-749
-00:49:39,790 --> 00:49:40,790
-'Wait.
+472
+00:49:40,560 --> 00:49:45,360
+'Wait. Did you say 886, Mrs Ralston?'
 
-750
-00:49:40,790 --> 00:49:45,940
-Did you say 886, Mrs Ralston?'
-
-751
-00:49:45,940 --> 00:49:46,940
+473
+00:49:46,560 --> 00:49:46,880
 'Yes.'
 
-752
-00:49:46,940 --> 00:49:50,720
-'Brion made a mistake.
+474
+00:49:48,000 --> 00:49:53,120
+'Brion made a mistake. He wrote down 888.  
 
-753
-00:49:50,720 --> 00:49:54,470
-He wrote down 888.
+475
+00:49:54,160 --> 00:49:57,840
+I'll call Officer Crider and 
+give him the correct number.'
 
-754
-00:49:54,470 --> 00:49:57,960
-I'll call Officer Crider and give him the
-correct number.'
+476
+00:49:58,880 --> 00:50:03,840
+By early afternoon, Elliot had 
+received an email from Steve Pratchett,  
 
-755
-00:49:57,960 --> 00:50:04,920
-By early afternoon, Elliot had received an
-email from Steve Pratchett, the most important
+477
+00:50:03,840 --> 00:50:09,680
+the most important of Aron's climbing 
+friends. Steve had climbed for many years.  
 
-756
-00:50:04,920 --> 00:50:07,940
-of Aron's climbing friends.
+478
+00:50:10,800 --> 00:50:18,800
+He often led rescue operations to find climbers 
+lost in the mountains. Another friend, Jason,  
 
-757
-00:50:07,940 --> 00:50:11,050
-Steve had climbed for many years.
+479
+00:50:18,800 --> 00:50:23,920
+had sent Steve a list of all the canyons 
+Aron said he wanted to hike in Canyonlands.  
 
-758
-00:50:11,050 --> 00:50:16,170
-He often led rescue operations to find climbers
-lost in the mountains.
+480
+00:50:25,120 --> 00:50:30,160
+Steve called the Utah police for the 
+area and spoke to one the main officers,  
 
-759
-00:50:16,170 --> 00:50:22,650
-Another friend, Jason, had sent Steve a list
-of all the canyons Aron said he wanted to
+481
+00:50:30,160 --> 00:50:37,280
+Kyle Ekker. Officer Ekker was very helpful. 
+Steve gave him the latest license-plate  
 
-760
-00:50:22,650 --> 00:50:25,400
-hike in Canyonlands.
+482
+00:50:37,280 --> 00:50:41,680
+number for Aron's truck and Officer 
+Ekker sent his men out to look for it.
 
-761
-00:50:25,400 --> 00:50:32,350
-Steve called the Utah police for the area
-and spoke to one the main officers, Kyle Ekker.
+483
+00:50:43,440 --> 00:50:50,960
+They returned as night fell. There was no sign of 
+the truck. Officer Ekker checked the number with  
 
-762
-00:50:32,350 --> 00:50:35,310
-Officer Ekker was very helpful.
+484
+00:50:50,960 --> 00:50:58,880
+the national license office. There was no vehicle 
+on record. Once again, the number was wrong.
 
-763
-00:50:35,310 --> 00:50:40,430
-Steve gave him the latest license-plate number
-for Aron's truck and Officer Ekker sent his
+485
+00:51:00,240 --> 00:51:02,480
+The bad news reached Aron's mother.  
 
-764
-00:50:40,430 --> 00:50:43,670
-men out to look for it.
+486
+00:51:03,520 --> 00:51:09,120
+Then she remembered that Aron was living in 
+Albuquerque, New Mexico, when he bought the truck.  
 
-765
-00:50:43,670 --> 00:50:46,580
-They returned as night fell.
+487
+00:51:10,160 --> 00:51:16,800
+The vehicle license office for the area was in 
+Santa Fe. She called and an officer searched  
 
-766
-00:50:46,580 --> 00:50:49,560
-There was no sign of the truck.
+488
+00:51:16,800 --> 00:51:26,080
+the records and found Aron's name. The records 
+showed his license-plate number as NM 846-MMY.
 
-767
-00:50:49,560 --> 00:50:54,010
-Officer Ekker checked the number with the
-national license office.
+489
+00:51:27,840 --> 00:51:33,520
+Finally, they had the correct number. The 
+information was given to Officer Ekker.  
 
-768
-00:50:54,010 --> 00:50:57,100
-There was no vehicle on record.
+490
+00:51:34,480 --> 00:51:40,480
+It was too late to continue searching that 
+night. It would have to wait until the morning.
 
-769
-00:50:57,100 --> 00:50:59,470
-Once again, the number was wrong.
+491
+00:51:42,000 --> 00:51:48,000
+'Wait for us, Aron,' Mrs Ralston said 
+as she went to bed. 'We're coming.'
+ 
+ 
 
-770
-00:50:59,470 --> 00:51:03,070
-The bad news reached Aron's mother.
-
-771
-00:51:03,070 --> 00:51:08,960
-Then she remembered that Aron was living in
-Albuquerque, New Mexico, when he bought the
-
-772
-00:51:08,960 --> 00:51:09,960
-truck.
-
-773
-00:51:09,960 --> 00:51:15,270
-The vehicle license office for the area was
-in Santa Fe.
-
-774
-00:51:15,270 --> 00:51:20,340
-She called and an officer searched the records
-and found Aron's name.
-
-775
-00:51:20,340 --> 00:51:27,240
-The records showed his license-plate number
-as NM 846-MMY.
-
-776
-00:51:27,240 --> 00:51:31,520
-Finally, they had the correct number.
-
-777
-00:51:31,520 --> 00:51:33,730
-The information was given to Officer Ekker.
-
-778
-00:51:33,730 --> 00:51:38,030
-It was too late to continue searching that
-night.
-
-779
-00:51:38,030 --> 00:51:41,060
-It would have to wait until the morning.
-
-780
-00:51:41,060 --> 00:51:46,970
-'Wait for us, Aron,' Mrs Ralston said as she
-went to bed.
-
-781
-00:51:46,970 --> 00:51:48,920
-'We're coming.'
-
-782
-00:51:48,920 --> 00:51:52,810
+492
+00:51:49,120 --> 00:51:51,120
 89 hrs 15 mins
 
-783
-00:51:52,810 --> 00:51:55,980
-2.00 am The darkness seems unreal.
+493
+00:51:52,640 --> 00:52:00,480
+2.00 am The darkness seems unreal. In fact, I 
+don't know what is real and what isn't anymore.  
 
-784
-00:51:55,980 --> 00:52:01,710
-In fact, I don't know what is real and what
-isn't anymore.
+494
+00:52:01,600 --> 00:52:07,840
+I start to have visions. Friends suddenly 
+appear in the canyon like silent ghosts  
 
-785
-00:52:01,710 --> 00:52:04,740
-I start to have visions.
+495
+00:52:07,840 --> 00:52:14,320
+and wave me towards them. I follow and find 
+myself in some place I know from the past.  
 
-786
-00:52:04,740 --> 00:52:10,450
-Friends suddenly appear in the canyon like
-silent ghosts and wave me towards them.
+496
+00:52:15,360 --> 00:52:22,640
+They smile at me in a kind way, but they never 
+speak. Because of their kindness, I am not afraid.  
 
-787
-00:52:10,450 --> 00:52:15,600
-I follow and find myself in some place I know
-from the past.
+497
+00:52:23,600 --> 00:52:30,240
+I know they are protecting me. I am 
+happy while the visions last. To me,  
 
-788
-00:52:15,600 --> 00:52:19,150
-They smile at me in a kind way, but they never
-speak.
+498
+00:52:30,240 --> 00:52:37,200
+they are real. It is only when they disappear and 
+the cold and pain return that I know they are not.  
 
-789
-00:52:19,150 --> 00:52:23,720
-Because of their kindness, I am not afraid.
+499
+00:52:38,400 --> 00:52:46,000
+Then, shaking hard, I continue chipping at the 
+boulder. After that, I sit again and it's not long  
 
-790
-00:52:23,720 --> 00:52:25,830
-I know they are protecting me.
+500
+00:52:46,000 --> 00:52:53,280
+before the visions return. During the second half 
+of the night, I have visions of myself as a child.  
 
-791
-00:52:25,830 --> 00:52:29,590
-I am happy while the visions last.
+501
+00:52:55,120 --> 00:52:58,240
+Sometimes I'm playing cards with my grandfather.  
 
-792
-00:52:29,590 --> 00:52:31,620
-To me, they are real.
+502
+00:52:59,280 --> 00:53:03,440
+Other times I am running across 
+bright green fields with my friends.
 
-793
-00:52:31,620 --> 00:52:38,350
-It is only when they disappear and the cold
-and pain return that I know they are not.
+503
+00:53:05,040 --> 00:53:09,920
+Something about the visions tells me that I 
+have not given the people I care about enough  
 
-794
-00:52:38,350 --> 00:52:43,390
-Then, shaking hard, I continue chipping at
-the boulder.
+504
+00:53:09,920 --> 00:53:16,400
+attention. I'm always thinking of the things I 
+want to achieve and not noticing other people.  
 
-795
-00:52:43,390 --> 00:52:48,250
-After that, I sit again and it's not long
-before the visions return.
+505
+00:53:17,520 --> 00:53:22,800
+Now I realise that my love for friends and 
+family is the main reason I want to escape.  
 
-796
-00:52:48,250 --> 00:52:55,840
-During the second half of the night, I have
-visions of myself as a child.
+506
+00:53:23,840 --> 00:53:29,280
+The thought of seeing them again is 
+keeping me alive. I promise myself that  
 
-797
-00:52:55,840 --> 00:52:59,580
-Sometimes I'm playing cards with my grandfather.
+507
+00:53:29,280 --> 00:53:33,760
+if I can escape from here back to the 
+people, I will be kinder towards them.
 
-798
-00:52:59,580 --> 00:53:05,530
-Other times I am running across bright green
-fields with my friends.
+508
+00:53:35,120 --> 00:53:42,080
+The visions always include some kind of drink. 
+It is usually something cold and sweet like apple  
 
-799
-00:53:05,530 --> 00:53:09,980
-Something about the visions tells me that
-I have not given the people I care about enough
+509
+00:53:42,080 --> 00:53:50,800
+juice or ice tea. Just as I am about to drink, the 
+vision disappears and I wake up. Then I feel the  
 
-800
-00:53:09,980 --> 00:53:11,770
-attention.
-
-801
-00:53:11,770 --> 00:53:17,760
-I'm always thinking of the things I want to
-achieve and not noticing other people.
-
-802
-00:53:17,760 --> 00:53:23,640
-Now I realise that my love for friends and
-family is the main reason I want to escape.
-
-803
-00:53:23,640 --> 00:53:27,980
-The thought of seeing them again is keeping
-me alive.
-
-804
-00:53:27,980 --> 00:53:33,050
-I promise myself that if I can escape from
-here back to the people, I will be kinder
-
-805
-00:53:33,050 --> 00:53:34,490
-towards them.
-
-806
-00:53:34,490 --> 00:53:38,570
-The visions always include some kind of drink.
-
-807
-00:53:38,570 --> 00:53:44,740
-It is usually something cold and sweet like
-apple juice or ice tea.
-
-808
-00:53:44,740 --> 00:53:50,180
-Just as I am about to drink, the vision disappears
-and I wake up.
-
-809
-00:53:50,180 --> 00:53:54,800
-Then I feel the cold and the pain of the rope
-against my legs.
-
-810
-00:53:54,800 --> 00:53:59,340
+510
+00:53:50,800 --> 00:53:58,080
+cold and the pain of the rope against my legs. 
 I stand up and begin my routine all over again.
 
-811
-00:53:59,340 --> 00:54:04,940
-However, the visions tell me something: I
-am not ready to die.
+511
+00:53:59,520 --> 00:54:03,600
+However, the visions tell me 
+something: I am not ready to die.  
 
-812
-00:54:04,940 --> 00:54:11,430
-As morning comes on the fifth day, I feel
-sure I can still last a few more days.
+512
+00:54:04,640 --> 00:54:09,840
+As morning comes on the fifth day, I feel 
+sure I can still last a few more days.  
 
-813
-00:54:11,430 --> 00:54:17,140
-I don't know if this is true, but I'm still
-alive when the sun rises.
+513
+00:54:11,360 --> 00:54:18,240
+I don't know if this is true, but I'm still 
+alive when the sun rises. The raven appears on  
 
-814
-00:54:17,140 --> 00:54:19,450
-The raven appears on time.
+514
+00:54:18,240 --> 00:54:26,080
+time. The sound of its wings and the light in the 
+canyon are beautiful. I watch its smooth flight,  
 
-815
-00:54:19,450 --> 00:54:24,200
-The sound of its wings and the light in the
-canyon are beautiful.
+515
+00:54:26,080 --> 00:54:32,320
+following the line of the canyon. I take out my 
+camera and film as it disappears from view.
+ 
+ 
+ 
 
-816
-00:54:24,200 --> 00:54:28,810
-I watch its smooth flight, following the line
-of the canyon.
-
-817
-00:54:28,810 --> 00:54:33,950
-I take out my camera and film as it disappears
-from view.
-
-818
-00:54:33,950 --> 00:54:36,430
+516
+00:54:33,760 --> 00:54:34,560
 CHAPTER NINE
+
+517
+00:54:35,600 --> 00:54:36,480
 'It's his truck'
 
-819
-00:54:36,430 --> 00:54:41,260
+518
+00:54:37,520 --> 00:54:39,920
 97 hrs 45 mins
 
-820
-00:54:41,260 --> 00:54:46,160
-10.30 am I don't want to look at my watch.
+519
+00:54:41,520 --> 00:54:49,200
+10.30 am I don't want to look at my watch. When 
+I did this last night, the time seemed to pass  
 
-821
-00:54:46,160 --> 00:54:51,040
-When I did this last night, the time seemed
-to pass more slowly.
+520
+00:54:49,200 --> 00:54:58,800
+more slowly. I have a new idea. It came to me, as 
+I was looking at all the rocks around me. Why not  
 
-822
-00:54:51,040 --> 00:54:52,610
-I have a new idea.
+521
+00:54:58,800 --> 00:55:06,240
+find a hard rock and use it to break the boulder? 
+There's one in a hole in the canyon wall above me.  
 
-823
-00:54:52,610 --> 00:54:57,880
-It came to me, as I was looking at all the
-rocks around me.
-
-824
-00:54:57,880 --> 00:55:02,700
-Why not find a hard rock and use it to break
-the boulder?
-
-825
-00:55:02,700 --> 00:55:05,660
-There's one in a hole in the canyon wall above
-me.
-
-826
-00:55:05,660 --> 00:55:08,530
-It is round and black.
-
-827
-00:55:08,530 --> 00:55:10,960
-I reach up and pull it out.
-
-828
-00:55:10,960 --> 00:55:14,700
+522
+00:55:06,240 --> 00:55:14,000
+It is round and black. I reach up and pull it out. 
 It's perfect - just the right size and weight.
 
-829
-00:55:14,700 --> 00:55:18,540
-I hit the rock hard against the boulder.
+523
+00:55:15,680 --> 00:55:21,360
+I hit the rock hard against the boulder. 
+Little bits of stone fly into the air.  
 
-830
-00:55:18,540 --> 00:55:22,250
-Little bits of stone fly into the air.
+524
+00:55:22,400 --> 00:55:28,720
+It's working. I continue, but soon have to 
+stop because of the pain in my left hand.  
 
-831
-00:55:22,250 --> 00:55:24,440
-It's working.
-
-832
-00:55:24,440 --> 00:55:29,980
-I continue, but soon have to stop because
-of the pain in my left hand.
-
-833
-00:55:29,980 --> 00:55:33,680
+525
+00:55:29,840 --> 00:55:31,760
 I decide to rest for a while.
 
-834
-00:55:33,680 --> 00:55:37,099
-Early afternoon is usually the warmest time
-of day.
+526
+00:55:33,280 --> 00:55:40,240
+Early afternoon is usually the warmest time 
+of day. But today it's only thirteen degrees,  
 
-835
-00:55:37,099 --> 00:55:42,710
-But today it's only thirteen degrees, the
-coldest day so far.
+527
+00:55:40,240 --> 00:55:46,000
+the coldest day so far. It also means 
+that tonight will be the coldest night.  
 
-836
-00:55:42,710 --> 00:55:47,730
-It also means that tonight will be the coldest
-night.
+528
+00:55:47,200 --> 00:55:50,960
+Realising this makes me want to do 
+something while it's still light.
 
-837
-00:55:47,730 --> 00:55:52,050
-Realising this makes me want to do something
-while it's still light.
+529
+00:55:52,480 --> 00:55:57,920
+The problem with using the black rock 
+was that it hurt my left hand. But what  
 
-838
-00:55:52,050 --> 00:55:57,760
-The problem with using the black rock was
-that it hurt my left hand.
+530
+00:55:57,920 --> 00:56:05,520
+if I tie a sock around my hand to protect 
+it? I do this and it works. By 6.00 pm,  
 
-839
-00:55:57,760 --> 00:56:01,270
-But what if I tie a sock around my hand to
-protect it?
+531
+00:56:06,240 --> 00:56:12,320
+I have taken off more of the boulder in three 
+hours than I did in four days. But it's still  
 
-840
-00:56:01,270 --> 00:56:04,390
-I do this and it works.
+532
+00:56:12,320 --> 00:56:18,320
+not enough. And even with the sock there is 
+too much pain in my left hand to continue.
 
-841
-00:56:04,390 --> 00:56:11,300
-By 6.00 pm, I have taken off more of the boulder
-in three hours than I did in four days.
+533
+00:56:19,680 --> 00:56:25,520
+I put down the rock. I feel sure I won't 
+survive another night in the canyon.  
 
-842
-00:56:11,300 --> 00:56:13,280
-But it's still not enough.
+534
+00:56:26,480 --> 00:56:31,920
+I finally accept this. There is 
+nothing else I can do to save myself.
+ 
+ 
 
-843
-00:56:13,280 --> 00:56:19,930
-And even with the sock there is too much pain
-in my left hand to continue.
-
-844
-00:56:19,930 --> 00:56:22,200
-I put down the rock.
-
-845
-00:56:22,200 --> 00:56:26,710
-I feel sure I won't survive another night
-in the canyon.
-
-846
-00:56:26,710 --> 00:56:28,500
-I finally accept this.
-
-847
-00:56:28,500 --> 00:56:32,650
-There is nothing else I can do to save myself.
-
-848
-00:56:32,650 --> 00:56:37,210
+535
+00:56:33,120 --> 00:56:35,760
 110 hrs 15 mins
 
-849
-00:56:37,210 --> 00:56:40,721
-11.00 pm The canyon feels as cold as ice.
+536
+00:56:37,280 --> 00:56:44,800
+11.00 pm The canyon feels as cold as ice. 
+I have been awake for over a hundred hours.  
 
-850
-00:56:40,721 --> 00:56:45,740
-I have been awake for over a hundred hours.
+537
+00:56:46,000 --> 00:56:52,400
+Another night of the sitting - standing routine 
+will kill me. I haven't had any clean water since  
 
-851
-00:56:45,740 --> 00:56:50,040
-Another night of the sitting - standing routine
-will kill me.
+538
+00:56:52,400 --> 00:57:00,240
+eight o'clock yesterday morning, only urine. How 
+much longer can I survive? Death could come at  
 
-852
-00:56:50,040 --> 00:56:56,420
-I haven't had any clean water since eight
-o'clock yesterday morning, only urine.
+539
+00:57:00,240 --> 00:57:06,880
+any moment. I am so certain of this that I take 
+the knife and write the dates of my life on the  
 
-853
-00:56:56,420 --> 00:56:58,900
-How much longer can I survive?
+540
+00:57:06,880 --> 00:57:14,960
+canyon wall. When I have finished I read them by 
+the light of my headlamp: ARON OCT 75 - APR 03.
 
-854
-00:56:58,900 --> 00:57:01,480
-Death could come at any moment.
+541
+00:57:16,640 --> 00:57:22,800
+Around midnight, I have another vision. I 
+am walking alone through the canyon wall.  
 
-855
-00:57:01,480 --> 00:57:07,550
-I am so certain of this that I take the knife
-and write the dates of my life on the canyon
+542
+00:57:23,920 --> 00:57:29,040
+On the other side is a living room. 
+I step inside and look around.  
 
-856
-00:57:07,550 --> 00:57:08,550
-wall.
+543
+00:57:30,160 --> 00:57:36,000
+A little boy in a red shirt comes into 
+the room. I guess he must be about three.  
 
-857
-00:57:08,550 --> 00:57:17,210
-When I have finished I read them by the light
-of my headlamp: ARON OCT 75 - APR 03.
+544
+00:57:37,280 --> 00:57:43,680
+Suddenly, I know who he is. He is my future 
+son and the room is in my future home.  
 
-858
-00:57:17,210 --> 00:57:20,060
-Around midnight, I have another vision.
+545
+00:57:44,800 --> 00:57:51,040
+The little boy runs across the wooden floor, 
+laughing. I pick him up with my left arm.  
 
-859
-00:57:20,060 --> 00:57:24,010
-I am walking alone through the canyon wall.
+546
+00:57:52,080 --> 00:57:58,480
+My right arm has no hand. Then I put him 
+onto my shoulder and he laughs even more.  
 
-860
-00:57:24,010 --> 00:57:27,080
-On the other side is a living room.
+547
+00:57:59,520 --> 00:58:04,000
+He holds my arms in his little hands 
+and together we dance around the room.  
 
-861
-00:57:27,080 --> 00:57:29,690
-I step inside and look around.
+548
+00:58:05,120 --> 00:58:08,960
+The sun is shining and I 
+feel free, happy, and alive.
 
-862
-00:57:29,690 --> 00:57:34,210
-A little boy in a red shirt comes into the
-room.
+549
+00:58:10,720 --> 00:58:17,360
+The vision disappears. I am back in the canyon 
+again, but now I don't feel the same as before.  
 
-863
-00:57:34,210 --> 00:57:36,859
-I guess he must be about three.
+550
+00:58:18,560 --> 00:58:22,480
+Seeing the boy has changed everything. Now,  
 
-864
-00:57:36,859 --> 00:57:40,620
-Suddenly, I know who he is.
+551
+00:58:22,480 --> 00:58:27,520
+even with the cold, pain, tiredness 
+and thirst, I am sure I will survive.
 
-865
-00:57:40,620 --> 00:57:44,340
-He is my future son and the room is in my
-future home.
+552
+00:58:29,200 --> 00:58:34,480
+On Thursday, May the 1st, Kyle Ekker 
+was looking at a map of the Canyonlands  
 
-866
-00:57:44,340 --> 00:57:49,080
-The little boy runs across the wooden floor,
-laughing.
+553
+00:58:34,480 --> 00:58:42,400
+area on his office wall. The clock above 
+read 9.07 am. Already that morning,  
 
-867
-00:57:49,080 --> 00:57:52,220
-I pick him up with my left arm.
+554
+00:58:42,400 --> 00:58:46,560
+his men had searched the top and 
+centre of the area and found nothing.
 
-868
-00:57:52,220 --> 00:57:55,260
-My right arm has no hand.
+555
+00:58:48,000 --> 00:58:53,440
+What about the Robbers Roost canyons 
+in the south? The only roads down there  
 
-869
-00:57:55,260 --> 00:57:59,720
-Then I put him onto my shoulder and he laughs
-even more.
+556
+00:58:53,440 --> 00:59:00,720
+were made of rocks and sand. It might take 
+longer to search. He called Glen Sherrill,  
 
-870
-00:57:59,720 --> 00:58:04,700
-He holds my arms in his little hands and together
-we dance around the room.
+557
+00:59:00,720 --> 00:59:07,200
+the head officer for the area. When Glen 
+answered the phone, Kyle described Aron's truck.
 
-871
-00:58:04,700 --> 00:58:09,609
-The sun is shining and I feel free, happy,
-and alive.
+558
+00:59:08,560 --> 00:59:14,800
+'It's a red Toyota. License number NM 846-MMY.'
 
-872
-00:58:09,609 --> 00:58:12,450
-The vision disappears.
+559
+00:59:16,080 --> 00:59:19,200
+'I think I've seen a truck 
+like that,' Glen replied.  
 
-873
-00:58:12,450 --> 00:58:18,900
-I am back in the canyon again, but now I don't
-feel the same as before.
+560
+00:59:20,240 --> 00:59:23,360
+'I'll radio one of my men and ask them to check.'
 
-874
-00:58:18,900 --> 00:58:21,570
-Seeing the boy has changed everything.
-
-875
-00:58:21,570 --> 00:58:29,450
-Now, even with the cold, pain, tiredness and
-thirst, I am sure I will survive.
-
-876
-00:58:29,450 --> 00:58:35,970
-On Thursday, May the 1st, Kyle Ekker was looking
-at a map of the Canyonlands area on his office
-
-877
-00:58:35,970 --> 00:58:36,970
-wall.
-
-878
-00:58:36,970 --> 00:58:41,480
-The clock above read 9.07 am.
-
-879
-00:58:41,480 --> 00:58:48,270
-Already that morning, his men had searched
-the top and centre of the area and found nothing.
-
-880
-00:58:48,270 --> 00:58:51,780
-What about the Robbers Roost canyons in the
-south?
-
-881
-00:58:51,780 --> 00:58:55,690
-The only roads down there were made of rocks
-and sand.
-
-882
-00:58:55,690 --> 00:58:59,320
-It might take longer to search.
-
-883
-00:58:59,320 --> 00:59:02,800
-He called Glen Sherrill, the head officer
-for the area.
-
-884
-00:59:02,800 --> 00:59:07,820
-When Glen answered the phone, Kyle described
-Aron's truck.
-
-885
-00:59:07,820 --> 00:59:11,580
-'It's a red Toyota.
-
-886
-00:59:11,580 --> 00:59:14,920
-License number NM 846-MMY.'
-
-887
-00:59:14,920 --> 00:59:20,520
-'I think I've seen a truck like that,' Glen
-replied.
-
-888
-00:59:20,520 --> 00:59:24,020
-'I'll radio one of my men and ask them to
-check.'
-
-889
-00:59:24,020 --> 00:59:28,560
+561
+00:59:24,560 --> 00:59:26,720
 Kyle thanked him and put down the phone.
 
-890
-00:59:28,560 --> 00:59:31,550
-Twenty minutes later, Glen called back.
+562
+00:59:28,160 --> 00:59:32,640
+Twenty minutes later, Glen 
+called back. 'Officer Kyle?'
 
-891
-00:59:31,550 --> 00:59:33,780
-'Officer Kyle?'
-
-892
-00:59:33,780 --> 00:59:34,900
+563
+00:59:33,840 --> 00:59:34,400
 'Speaking.'
 
-893
-00:59:34,900 --> 00:59:38,230
-'Glen Sherrill here.
+564
+00:59:35,520 --> 00:59:39,920
+'Glen Sherrill here. We've found 
+the truck you're looking for.  
 
-894
-00:59:38,230 --> 00:59:40,580
-We've found the truck you're looking for.
-
-895
-00:59:40,580 --> 00:59:44,830
+565
+00:59:41,040 --> 00:59:43,120
 It's in the Horseshoe Canyon carpark.'
 
-896
-00:59:44,830 --> 00:59:51,660
-By 10.00 am, the good news had reached Elliot,
-Steve, and Mrs Ralston.
+566
+00:59:44,640 --> 00:59:51,760
+By 10.00 am, the good news had reached 
+Elliot, Steve, and Mrs Ralston. Steve  
 
-897
-00:59:51,660 --> 00:59:58,160
-Steve immediately arranged for a rescue team
-to join the police and help in the search.
+567
+00:59:51,760 --> 00:59:56,640
+immediately arranged for a rescue team to 
+join the police and help in the search.  
 
-898
-00:59:58,160 --> 01:00:00,609
-Half an hour later, they were on their way.
+568
+00:59:57,840 --> 01:00:03,120
+Half an hour later, they were on their 
+way. Things were now moving fast.
+ 
+ 
+ 
 
-899
-01:00:00,609 --> 01:00:05,119
-Things were now moving fast.
-
-900
-01:00:05,119 --> 01:00:07,700
+569
+01:00:04,960 --> 01:00:05,680
 CHAPTER TEN
+
+570
+01:00:06,800 --> 01:00:07,360
 Escape
 
-901
-01:00:07,700 --> 01:00:11,560
+571
+01:00:08,560 --> 01:00:10,320
 120 hrs
 
-902
-01:00:11,560 --> 01:00:16,340
-8.45 am It's Thursday, May the 1st.
+572
+01:00:12,160 --> 01:00:20,640
+8.45 am It's Thursday, May the 1st. 120 
+hours without sleep. Two days without  
 
-903
-01:00:16,340 --> 01:00:19,710
-120 hours without sleep.
+573
+01:00:20,640 --> 01:00:27,840
+water. I can't believe I'm still alive. I 
+didn't think I'd survive beyond Wednesday.  
 
-904
-01:00:19,710 --> 01:00:22,260
-Two days without water.
+574
+01:00:29,040 --> 01:00:32,560
+Perhaps the vision of the little 
+boy kept me alive last night.  
 
-905
-01:00:22,260 --> 01:00:25,760
-I can't believe I'm still alive.
+575
+01:00:33,680 --> 01:00:38,400
+But now, with no sign of a rescue, 
+my hopes are disappearing fast.
 
-906
-01:00:25,760 --> 01:00:28,680
-I didn't think I'd survive beyond Wednesday.
+576
+01:00:39,760 --> 01:00:43,040
+I am also upset because the raven hasn't appeared.  
 
-907
-01:00:28,680 --> 01:00:33,940
-Perhaps the vision of the little boy kept
-me alive last night.
+577
+01:00:44,080 --> 01:00:50,480
+It's never been this late before. I try and 
+forget about the bird and pick up the camcorder.  
 
-908
-01:00:33,940 --> 01:00:39,270
-But now, with no sign of a rescue, my hopes
-are disappearing fast.
+578
+01:00:51,360 --> 01:00:56,320
+I am certain that this will be 
+my last message to my family.
 
-909
-01:00:39,270 --> 01:00:44,410
-I am also upset because the raven hasn't appeared.
+579
+01:00:56,320 --> 01:01:00,240
+I am calm as I leave necessary 
+instructions for my parents.
 
-910
-01:00:44,410 --> 01:00:47,140
-It's never been this late before.
+580
+01:01:01,760 --> 01:01:04,480
+I tell them to give most of my things to Sonja.  
 
-911
-01:00:47,140 --> 01:00:50,890
-I try and forget about the bird and pick up
-the camcorder.
+581
+01:01:05,600 --> 01:01:12,960
+Then I tell them what to do with my dead body. The 
+video ends with three simple words: 'I love you.'
 
-912
-01:00:50,890 --> 01:00:55,130
-I am certain that this will be my last message
-to my family.
+582
+01:01:14,400 --> 01:01:17,760
+I'm crying as I close the 
+camcorder for the last time.  
 
-913
-01:00:55,130 --> 01:01:01,940
-I am calm as I leave necessary instructions
-for my parents.
+583
+01:01:18,800 --> 01:01:22,240
+But there are no tears - my 
+body is too dry for tears.
 
-914
-01:01:01,940 --> 01:01:05,890
-I tell them to give most of my things to Sonja.
+584
+01:01:23,760 --> 01:01:31,120
+Now I can only wait. I can't accept this. I've 
+discovered that nothing I can do will help me  
 
-915
-01:01:05,890 --> 01:01:09,000
-Then I tell them what to do with my dead body.
+585
+01:01:31,120 --> 01:01:38,240
+escape. But it's better to be doing something than 
+nothing. I pick up the black rock and hit it as  
 
-916
-01:01:09,000 --> 01:01:14,720
-The video ends with three simple words: 'I
-love you.'
+586
+01:01:38,240 --> 01:01:44,640
+hard as I can against the boulder. I continue, 
+trying to forget the pain in my left hand.  
 
-917
-01:01:14,720 --> 01:01:18,010
-I'm crying as I close the camcorder for the
-last time.
+587
+01:01:45,760 --> 01:01:52,160
+In the end, I can't. I try to drop the 
+rock, but the fingers of my hand won't open.
 
-918
-01:01:18,010 --> 01:01:23,960
-But there are no tears - my body is too dry
-for tears.
-
-919
-01:01:23,960 --> 01:01:26,390
-Now I can only wait.
-
-920
-01:01:26,390 --> 01:01:28,680
-I can't accept this.
-
-921
-01:01:28,680 --> 01:01:32,099
-I've discovered that nothing I can do will
-help me escape.
-
-922
-01:01:32,099 --> 01:01:36,250
-But it's better to be doing something than
-nothing.
-
-923
-01:01:36,250 --> 01:01:41,140
-I pick up the black rock and hit it as hard
-as I can against the boulder.
-
-924
-01:01:41,140 --> 01:01:45,410
-I continue, trying to forget the pain in my
-left hand.
-
-925
-01:01:45,410 --> 01:01:48,490
-In the end, I can't.
-
-926
-01:01:48,490 --> 01:01:53,880
-I try to drop the rock, but the fingers of
-my hand won't open.
-
-927
-01:01:53,880 --> 01:01:58,740
+588
+01:01:53,600 --> 01:01:57,280
 What have you done now? asks the first voice.
 
-928
-01:01:58,740 --> 01:02:01,180
+589
+01:01:58,480 --> 01:02:00,320
 Stay calm, says the second.
 
-929
-01:02:01,180 --> 01:02:06,470
-Slowly, my fingers loosen and the stone falls
-out of my hand.
+590
+01:02:01,440 --> 01:02:05,840
+Slowly, my fingers loosen and 
+the stone falls out of my hand.  
 
-930
-01:02:06,470 --> 01:02:09,240
-I look at my other arm.
+591
+01:02:06,400 --> 01:02:10,560
+I look at my other arm. It's 
+covered with bits of rock.
 
-931
-01:02:09,240 --> 01:02:12,390
-It's covered with bits of rock.
+592
+01:02:12,080 --> 01:02:16,800
+As I'm removing these with the knife 
+I push too hard and the blade goes  
 
-932
-01:02:12,390 --> 01:02:17,510
-As I'm removing these with the knife I push
-too hard and the blade goes through the skin
+593
+01:02:16,800 --> 01:02:24,000
+through the skin near my wrist. I don't feel 
+anything. That part of my arm must be dead.  
 
-933
-01:02:17,510 --> 01:02:19,540
-near my wrist.
+594
+01:02:25,120 --> 01:02:32,000
+My right hand died long ago. It's now 
+a dark blue colour. I push the knife  
 
-934
-01:02:19,540 --> 01:02:22,260
-I don't feel anything.
+595
+01:02:32,000 --> 01:02:38,480
+through the skin of my thumb. There's a sound 
+as some gas escapes, followed by a bad smell.
 
-935
-01:02:22,260 --> 01:02:25,290
-That part of my arm must be dead.
+596
+01:02:39,920 --> 01:02:46,400
+The arm is poisoned and the poison will kill me. 
+I don't want the arm to be a part of me anymore.  
 
-936
-01:02:25,290 --> 01:02:28,450
-My right hand died long ago.
+597
+01:02:47,440 --> 01:02:54,160
+I throw myself against the boulder. When I look 
+at my arm, I see that it's in a strange position.
 
-937
-01:02:28,450 --> 01:02:31,040
-It's now a dark blue colour.
+598
+01:02:55,600 --> 01:03:02,720
+That moment is like the sun coming out. 
+I realise what it means. I can break my  
 
-938
-01:02:31,040 --> 01:02:33,890
-I push the knife through the skin of my thumb.
+599
+01:03:02,720 --> 01:03:08,480
+arm by using my own weight. That means I 
+won't have to cut through bone anymore.  
 
-939
-01:02:33,890 --> 01:02:39,390
-There's a sound as some gas escapes, followed
-by a bad smell.
+600
+01:03:09,600 --> 01:03:16,880
+I throw the whole weight of my body below the 
+boulder. There is a loud noise. I keep going.  
 
-940
-01:02:39,390 --> 01:02:43,770
-The arm is poisoned and the poison will kill
-me.
+601
+01:03:18,000 --> 01:03:24,720
+There is a second loud noise. I've done 
+it! I've broken both bones in my arm.
 
-941
-01:02:43,770 --> 01:02:47,660
-I don't want the arm to be a part of me anymore.
+602
+01:03:26,160 --> 01:03:29,840
+I tie the tourniquet, take 
+the knife and begin cutting.
 
-942
-01:02:47,660 --> 01:02:50,890
-I throw myself against the boulder.
+603
+01:03:30,720 --> 01:03:34,560
+The only thing on my mind is 
+escape, but the pain is terrible.
 
-943
-01:02:50,890 --> 01:02:54,930
-When I look at my arm, I see that it's in
-a strange position.
-
-944
-01:02:54,930 --> 01:02:59,300
-That moment is like the sun coming out.
-
-945
-01:02:59,300 --> 01:03:01,850
-I realise what it means.
-
-946
-01:03:01,850 --> 01:03:05,510
-I can break my arm by using my own weight.
-
-947
-01:03:05,510 --> 01:03:09,690
-That means I won't have to cut through bone
-anymore.
-
-948
-01:03:09,690 --> 01:03:13,820
-I throw the whole weight of my body below
-the boulder.
-
-949
-01:03:13,820 --> 01:03:16,130
-There is a loud noise.
-
-950
-01:03:16,130 --> 01:03:17,160
-I keep going.
-
-951
-01:03:17,160 --> 01:03:21,020
-There is a second loud noise.
-
-952
-01:03:21,020 --> 01:03:22,750
-I've done it!
-
-953
-01:03:22,750 --> 01:03:26,390
-I've broken both bones in my arm.
-
-954
-01:03:26,390 --> 01:03:30,420
-I tie the tourniquet, take the knife and begin
-cutting.
-
-955
-01:03:30,420 --> 01:03:35,650
-The only thing on my mind is escape, but the
-pain is terrible.
-
-956
-01:03:35,650 --> 01:03:38,910
+604
+01:03:35,520 --> 01:03:38,000
 I scream as I push down with the knife.
 
-957
-01:03:38,910 --> 01:03:44,440
-For almost one hour the pain, screams, and
-cutting continue.
+605
+01:03:39,600 --> 01:03:43,840
+For almost one hour the pain, 
+screams, and cutting continue.
+ 
+ 
 
-958
-01:03:44,440 --> 01:03:48,800
+606
+01:03:44,880 --> 01:03:48,080
 122 hrs 47 mins
 
-959
-01:03:48,800 --> 01:03:56,060
-11.32 am Finally, I feel the knife hit rock
-on the other side of my arm.
+607
+01:03:49,600 --> 01:03:55,520
+11.32 am Finally, I feel the knife 
+hit rock on the other side of my arm.  
 
-960
-01:03:56,060 --> 01:04:00,380
-I fall back with a single thought screaming
-through my head.
+608
+01:03:56,480 --> 01:03:59,680
+I fall back with a single thought 
+screaming through my head.
 
-961
-01:04:00,380 --> 01:04:03,590
-You've done it, Aron!
+609
+01:04:00,800 --> 01:04:06,800
+You've done it, Aron! You're FREE! FREE! FREE!
 
-962
-01:04:03,590 --> 01:04:05,660
-You're FREE!
+610
+01:04:08,240 --> 01:04:13,440
+There's no time to lose. Blood is 
+coming out of the end of my arm  
 
-963
-01:04:05,660 --> 01:04:06,700
-FREE!
+611
+01:04:13,440 --> 01:04:15,520
+and it's a long walk back to my truck.
 
-964
-01:04:06,700 --> 01:04:07,740
-FREE!
+612
+01:04:16,880 --> 01:04:22,640
+I tighten the tourniquet. Then I tie 
+my climbing bag on my arm to hold it.  
 
-965
-01:04:07,740 --> 01:04:10,390
-There's no time to lose.
+613
+01:04:23,680 --> 01:04:29,600
+I tighten it around my neck and put 
+my things inside. Before I leave,  
 
-966
-01:04:10,390 --> 01:04:17,070
-Blood is coming out of the end of my arm and
-it's a long walk back to my truck.
+614
+01:04:29,600 --> 01:04:36,160
+I take two pictures of the part of my arm still 
+trapped by the boulder. Now I am ready to go.
 
-967
-01:04:17,070 --> 01:04:19,740
-I tighten the tourniquet.
+615
+01:04:37,600 --> 01:04:46,800
+I can't walk straight. My body crashes from one 
+side of the canyon wall to the other. I stop. My  
 
-968
-01:04:19,740 --> 01:04:23,880
-Then I tie my climbing bag on my arm to hold
-it.
+616
+01:04:46,800 --> 01:04:56,640
+heart is going much too fast. I could still die at 
+any moment. I make myself stay calm. What I need  
 
-969
-01:04:23,880 --> 01:04:27,750
-I tighten it around my neck and put my things
-inside.
+617
+01:04:56,640 --> 01:05:03,280
+most of all is water. There might be some at the 
+Big Drop Rappel, but first I need to get there.
 
-970
-01:04:27,750 --> 01:04:34,890
-Before I leave, I take two pictures of the
-part of my arm still trapped by the boulder.
+618
+01:05:04,640 --> 01:05:09,440
+It takes me twenty minutes. I 
+stand at the edge and look down.  
 
-971
-01:04:34,890 --> 01:04:37,780
-Now I am ready to go.
+619
+01:05:10,480 --> 01:05:13,680
+It is just over eighteen 
+metres to the canyon floor.
 
-972
-01:04:37,780 --> 01:04:40,250
-I can't walk straight.
+620
+01:05:15,120 --> 01:05:22,320
+There are metal rings in the rock for climbers. 
+I tie my rope to them and rappel down.  
 
-973
-01:04:40,250 --> 01:04:44,910
-My body crashes from one side of the canyon
-wall to the other.
+621
+01:05:22,320 --> 01:05:29,360
+With only one arm, this is not easy. For 
+once, I am careful as I go down the rope.  
 
-974
-01:04:44,910 --> 01:04:46,000
-I stop.
+622
+01:05:30,400 --> 01:05:37,840
+I reach the bottom and turn. On the ground in 
+front of me is a pool of brown water. It's full  
 
-975
-01:04:46,000 --> 01:04:49,970
-My heart is going much too fast.
+623
+01:05:37,840 --> 01:05:44,800
+of dead mosquitoes but I don't care. I fill my 
+bottle and drink one litre in a few seconds.  
 
-976
-01:04:49,970 --> 01:04:53,120
-I could still die at any moment.
+624
+01:05:46,000 --> 01:05:52,320
+I drink another and don't want to move. I just 
+want to stay there for the rest of my life.
 
-977
-01:04:53,120 --> 01:04:56,220
-I make myself stay calm.
-
-978
-01:04:56,220 --> 01:04:59,440
-What I need most of all is water.
-
-979
-01:04:59,440 --> 01:05:04,190
-There might be some at the Big Drop Rappel,
-but first I need to get there.
-
-980
-01:05:04,190 --> 01:05:07,420
-It takes me twenty minutes.
-
-981
-01:05:07,420 --> 01:05:09,830
-I stand at the edge and look down.
-
-982
-01:05:09,830 --> 01:05:15,440
-It is just over eighteen metres to the canyon
-floor.
-
-983
-01:05:15,440 --> 01:05:18,849
-There are metal rings in the rock for climbers.
-
-984
-01:05:18,849 --> 01:05:21,990
-I tie my rope to them and rappel down.
-
-985
-01:05:21,990 --> 01:05:25,500
-With only one arm, this is not easy.
-
-986
-01:05:25,500 --> 01:05:30,090
-For once, I am careful as I go down the rope.
-
-987
-01:05:30,090 --> 01:05:32,700
-I reach the bottom and turn.
-
-988
-01:05:32,700 --> 01:05:36,920
-On the ground in front of me is a pool of
-brown water.
-
-989
-01:05:36,920 --> 01:05:41,380
-It's full of dead mosquitoes but I don't care.
-
-990
-01:05:41,380 --> 01:05:45,530
-I fill my bottle and drink one litre in a
-few seconds.
-
-991
-01:05:45,530 --> 01:05:49,640
-I drink another and don't want to move.
-
-992
-01:05:49,640 --> 01:05:52,790
-I just want to stay there for the rest of
-my life.
-
-993
-01:05:52,790 --> 01:05:57,300
-That won't be long if you don't start walking.
-
-994
-01:05:57,300 --> 01:06:01,950
+625
+01:05:54,400 --> 01:06:00,240
+That won't be long if you don't start walking. 
 There are still twelve kilometres to go.
 
-995
-01:06:01,950 --> 01:06:04,210
-The voice is right.
+626
+01:06:01,760 --> 01:06:09,600
+The voice is right. I drink one more litre, 
+slowly this time. Then I fill my bottle and  
 
-996
-01:06:04,210 --> 01:06:08,400
-I drink one more litre, slowly this time.
+627
+01:06:09,600 --> 01:06:15,280
+the CamelBak and begin walking. Blood 
+is coming out faster from my arm now.  
 
-997
-01:06:08,400 --> 01:06:11,910
-Then I fill my bottle and the CamelBak and
-begin walking.
+628
+01:06:16,320 --> 01:06:19,120
+I wonder if I can get back to the truck in time.
 
-998
-01:06:11,910 --> 01:06:16,460
-Blood is coming out faster from my arm now.
+629
+01:06:20,720 --> 01:06:28,880
+Things start to go wrong. I get lost up a side 
+canyon and have to turn round. Then I notice that  
 
-999
-01:06:16,460 --> 01:06:21,060
-I wonder if I can get back to the truck in
-time.
+630
+01:06:28,880 --> 01:06:36,720
+water is coming out of my CamelBak. There's a hole 
+in it. Quickly, I drink the rest of the water.  
 
-1000
-01:06:21,060 --> 01:06:22,810
-Things start to go wrong.
+631
+01:06:37,760 --> 01:06:44,240
+Now I only have the water in the water bottle. 
+This has to last all the way back to the truck  
 
-1001
-01:06:22,810 --> 01:06:28,089
-I get lost up a side canyon and have to turn
-round.
+632
+01:06:44,240 --> 01:06:50,800
+and the temperature is rising. I am so weak 
+and tired I can't imagine surviving that long.  
 
-1002
-01:06:28,089 --> 01:06:32,480
-Then I notice that water is coming out of
-my CamelBak.
+633
+01:06:51,840 --> 01:06:57,360
+I take a sip and keep the water in my 
+mouth as I walk. That seems to help.
 
-1003
-01:06:32,480 --> 01:06:34,200
-There's a hole in it.
+634
+01:06:59,120 --> 01:07:01,840
+I still wonder if I can get back to my truck.  
 
-1004
-01:06:34,200 --> 01:06:38,010
-Quickly, I drink the rest of the water.
+635
+01:07:02,960 --> 01:07:09,440
+I can't walk straight, I can't think for more 
+than a few seconds, and I'm losing blood, fast.
+ 
+ 
 
-1005
-01:06:38,010 --> 01:06:41,740
-Now I only have the water in the water bottle.
-
-1006
-01:06:41,740 --> 01:06:46,520
-This has to last all the way back to the truck
-and the temperature is rising.
-
-1007
-01:06:46,520 --> 01:06:51,950
-I am so weak and tired I can't imagine surviving
-that long.
-
-1008
-01:06:51,950 --> 01:06:56,570
-I take a sip and keep the water in my mouth
-as I walk.
-
-1009
-01:06:56,570 --> 01:06:58,500
-That seems to help.
-
-1010
-01:06:58,500 --> 01:07:03,000
-I still wonder if I can get back to my truck.
-
-1011
-01:07:03,000 --> 01:07:09,780
-I can't walk straight, I can't think for more
-than a few seconds, and I'm losing blood,
-
-1012
-01:07:09,780 --> 01:07:10,880
-fast.
-
-1013
-01:07:10,880 --> 01:07:15,300
+636
+01:07:10,560 --> 01:07:13,840
 125 hrs 10 mins
 
-1014
-01:07:15,300 --> 01:07:19,180
-1.55 pm I've arrived at the Great Gallery.
+637
+01:07:15,440 --> 01:07:18,880
+1.55 pm I've arrived at the Great Gallery.  
 
-1015
-01:07:19,180 --> 01:07:24,020
-The paintings are amazing but all I can think
-of is water.
+638
+01:07:19,920 --> 01:07:25,520
+The paintings are amazing but all I can 
+think of is water. There is more here.
 
-1016
-01:07:24,020 --> 01:07:27,010
-There is more here.
+639
+01:07:26,880 --> 01:07:32,960
+I stop to fill the water bottle. It has 
+taken me two and a half hours to travel  
 
-1017
-01:07:27,010 --> 01:07:29,300
-I stop to fill the water bottle.
+640
+01:07:32,960 --> 01:07:41,280
+six kilometres. For someone close to death I have 
+done well. But my problems are getting worse every  
 
-1018
-01:07:29,300 --> 01:07:35,470
-It has taken me two and a half hours to travel
-six kilometres.
+641
+01:07:41,280 --> 01:07:48,240
+minute. Blood is now coming from my arm really 
+fast and I'm in terrible pain from the amputation.  
 
-1019
-01:07:35,470 --> 01:07:38,570
-For someone close to death I have done well.
+642
+01:07:49,280 --> 01:07:53,840
+I want to stop and rest, 
+but I can't. I must go on.
 
-1020
-01:07:38,570 --> 01:07:42,340
-But my problems are getting worse every minute.
+643
+01:07:55,200 --> 01:08:01,840
+I walk as fast as I can. By two-thirty, 
+I have covered nearly ten kilometres.  
 
-1021
-01:07:42,340 --> 01:07:49,530
-Blood is now coming from my arm really fast
-and I'm in terrible pain from the amputation.
+644
+01:08:02,960 --> 01:08:07,680
+Only three more kilometres to my truck, 
+but I'm feeling weaker every minute.
+ 
+ 
 
-1022
-01:07:49,530 --> 01:07:52,930
-I want to stop and rest, but I can't.
-
-1023
-01:07:52,930 --> 01:07:55,450
-I must go on.
-
-1024
-01:07:55,450 --> 01:07:57,690
-I walk as fast as I can.
-
-1025
-01:07:57,690 --> 01:08:03,369
-By two-thirty, I have covered nearly ten kilometres.
-
-1026
-01:08:03,369 --> 01:08:08,730
-Only three more kilometres to my truck, but
-I'm feeling weaker every minute.
-
-1027
-01:08:08,730 --> 01:08:13,369
+645
+01:08:08,880 --> 01:08:12,160
 125 hrs 45 mins
 
-1028
-01:08:13,369 --> 01:08:18,290
-2.30 pm I've come to another huge canyon.
+646
+01:08:13,920 --> 01:08:20,800
+2.30 pm I've come to another huge canyon. 
+The walls must be over thirty metres high.  
 
-1029
-01:08:18,290 --> 01:08:21,739
-The walls must be over thirty metres high.
+647
+01:08:21,840 --> 01:08:29,600
+Ahead of me is a steep hill. This is bad news. 
+I'll never be able to climb it - I'm too weak.  
 
-1030
-01:08:21,739 --> 01:08:24,270
-Ahead of me is a steep hill.
+648
+01:08:30,800 --> 01:08:38,080
+Something makes me look again. I shake 
+my head, unable to believe what I see.
 
-1031
-01:08:24,270 --> 01:08:26,839
-This is bad news.
+649
+01:08:38,080 --> 01:08:42,400
+About seventy metres ahead of me are 
+a family of three people - a man,  
 
-1032
-01:08:26,839 --> 01:08:31,319
-I'll never be able to climb it - I'm too weak.
+650
+01:08:42,400 --> 01:08:46,720
+a woman and a young boy. They 
+are walking away from me.
 
-1033
-01:08:31,319 --> 01:08:33,210
-Something makes me look again.
+651
+01:08:47,760 --> 01:08:52,800
+'HELP! HELP! PLEASE! I NEED HELP!'
 
-1034
-01:08:33,210 --> 01:08:37,580
-I shake my head, unable to believe what I
-see.
-
-1035
-01:08:37,580 --> 01:08:43,810
-About seventy metres ahead of me are a family
-of three people - a man, a woman and a young
-
-1036
-01:08:43,810 --> 01:08:44,810
-boy.
-
-1037
-01:08:44,810 --> 01:08:47,989
-They are walking away from me.
-
-1038
-01:08:47,989 --> 01:08:49,339
-'HELP!
-
-1039
-01:08:49,339 --> 01:08:50,690
-HELP!
-
-1040
-01:08:50,690 --> 01:08:52,040
-PLEASE!
-
-1041
-01:08:52,040 --> 01:08:53,539
-I NEED HELP!'
-
-1042
-01:08:53,539 --> 01:08:57,079
+652
+01:08:54,080 --> 01:08:56,400
 They turn and come running towards me.
 
-1043
-01:08:57,079 --> 01:09:04,270
-When they reach me, I begin telling my story:
-'My name is Aron Ralston.
+653
+01:08:57,920 --> 01:09:05,200
+When they reach me, I begin telling my story: 
+'My name is Aron Ralston. I was trapped by a  
 
-1044
-01:09:04,270 --> 01:09:08,909
-I was trapped by a boulder in the canyon for
-five days.
+654
+01:09:05,200 --> 01:09:12,160
+boulder in the canyon for five days. This 
+morning, I had to amputate my arm to escape.  
 
-1045
-01:09:08,909 --> 01:09:13,440
-This morning, I had to amputate my arm to
-escape.
-
-1046
-01:09:13,440 --> 01:09:15,130
-I need a doctor.
-
-1047
-01:09:15,130 --> 01:09:17,880
-I'm losing blood, fast...'
-
-1048
-01:09:17,880 --> 01:09:21,650
+655
+01:09:13,200 --> 01:09:21,120
+I need a doctor. I'm losing blood, fast...' 
 Unable to continue, I fall to the ground.
 
-1049
-01:09:21,650 --> 01:09:24,670
-The man gives me a bottle of water.
+656
+01:09:22,480 --> 01:09:28,720
+The man gives me a bottle of water. 'The police 
+at the carpark told us about you,' he says.
 
-1050
-01:09:24,670 --> 01:09:30,420
-'The police at the carpark told us about you,'
-he says.
+657
+01:09:30,160 --> 01:09:37,920
+His name is Eric. His wife is Monique and his 
+son is called Andy. They are tourists from the  
 
-1051
-01:09:30,420 --> 01:09:32,739
-His name is Eric.
+658
+01:09:37,920 --> 01:09:44,080
+Netherlands. Eric gives me more water while 
+Monique and Andy run back to get the police.  
 
-1052
-01:09:32,739 --> 01:09:36,210
-His wife is Monique and his son is called
-Andy.
+659
+01:09:45,280 --> 01:09:50,160
+After about ten minutes, Eric helps 
+me up and we continue walking slowly.
 
-1053
-01:09:36,210 --> 01:09:40,009
-They are tourists from the Netherlands.
+660
+01:09:51,520 --> 01:09:58,000
+The steep trail is ahead. Even with Eric's 
+help, I know I won't be able to climb it.  
 
-1054
-01:09:40,009 --> 01:09:45,699
-Eric gives me more water while Monique and
-Andy run back to get the police.
+661
+01:09:59,040 --> 01:10:03,040
+'How will I ever get out 
+of here?' I ask myself.
+ 
+ 
+ 
 
-1055
-01:09:45,699 --> 01:09:51,029
-After about ten minutes, Eric helps me up
-and we continue walking slowly.
-
-1056
-01:09:51,029 --> 01:09:53,940
-The steep trail is ahead.
-
-1057
-01:09:53,940 --> 01:09:58,699
-Even with Eric's help, I know I won't be able
-to climb it.
-
-1058
-01:09:58,699 --> 01:10:01,969
-'How will I ever get out of here?'
-
-1059
-01:10:01,969 --> 01:10:04,370
-I ask myself.
-
-1060
-01:10:04,370 --> 01:10:08,511
+662
+01:10:04,160 --> 01:10:05,040
 CHAPTER ELEVEN
+
+663
+01:10:06,240 --> 01:10:08,400
 127 hours
 
-1061
-01:10:08,511 --> 01:10:14,030
+664
+01:10:09,680 --> 01:10:12,640
 126 hrs 18 mins
 
-1062
-01:10:14,030 --> 01:10:19,949
-3.03 pm A noise somewhere above me answers
-the question.
+665
+01:10:14,240 --> 01:10:20,800
+3.03 pm A noise somewhere above me 
+answers the question. It's a helicopter!  
 
-1063
-01:10:19,949 --> 01:10:21,239
-It's a helicopter!
+666
+01:10:21,760 --> 01:10:28,400
+A helicopter to take me to hospital. I 
+can't believe it! It doesn't seem real.  
 
-1064
-01:10:21,239 --> 01:10:25,050
-A helicopter to take me to hospital.
+667
+01:10:29,440 --> 01:10:34,080
+I sit down and wait as a man jumps 
+to the ground and walks towards me.
 
-1065
-01:10:25,050 --> 01:10:27,340
-I can't believe it!
+668
+01:10:35,360 --> 01:10:37,840
+'Are you Aron Ralston?' he asks.
 
-1066
-01:10:27,340 --> 01:10:29,620
-It doesn't seem real.
-
-1067
-01:10:29,620 --> 01:10:34,690
-I sit down and wait as a man jumps to the
-ground and walks towards me.
-
-1068
-01:10:34,690 --> 01:10:37,269
-'Are you Aron Ralston?'
-
-1069
-01:10:37,269 --> 01:10:38,500
-he asks.
-
-1070
-01:10:38,500 --> 01:10:39,619
+669
+01:10:38,960 --> 01:10:39,280
 'Yes.'
 
-1071
-01:10:39,619 --> 01:10:45,840
-A second man gets out of the helicopter and
-they help me inside.
+670
+01:10:40,400 --> 01:10:44,000
+A second man gets out of the 
+helicopter and they help me  
 
-1072
-01:10:45,840 --> 01:10:49,949
-I ask one of the men to get my climbing bag.
+671
+01:10:44,000 --> 01:10:50,720
+inside. I ask one of the men to get 
+my climbing bag. Eric gives it to him.
 
-1073
-01:10:49,949 --> 01:10:51,499
-Eric gives it to him.
+672
+01:10:52,320 --> 01:10:56,320
+'Thank you, Eric,' I say. 'Thanks for everything.'  
 
-1074
-01:10:51,499 --> 01:10:54,909
-'Thank you, Eric,' I say.
+673
+01:10:57,360 --> 01:11:00,880
+I wave goodbye as the 
+helicopter rises into the air.
 
-1075
-01:10:54,909 --> 01:10:57,610
-'Thanks for everything.'
+674
+01:11:01,840 --> 01:11:06,240
+I sit behind the pilot and watch 
+blood pour slowly down my arm.
 
-1076
-01:10:57,610 --> 01:11:02,070
-I wave goodbye as the helicopter rises into
-the air.
+675
+01:11:07,600 --> 01:11:12,320
+Be strong, Aron. You're almost safe.
 
-1077
-01:11:02,070 --> 01:11:07,329
-I sit behind the pilot and watch blood pour
-slowly down my arm.
+676
+01:11:12,320 --> 01:11:15,360
+'Keep him talking,' the pilot says to his partner.
 
-1078
-01:11:07,329 --> 01:11:10,369
-Be strong, Aron.
+677
+01:11:16,480 --> 01:11:20,000
+'Where are we going?' I ask the second man.
 
-1079
-01:11:10,369 --> 01:11:11,949
-You're almost safe.
+678
+01:11:21,120 --> 01:11:25,920
+'We're taking you to the 
+hospital in Moab,' he replies.
 
-1080
-01:11:11,949 --> 01:11:15,579
-'Keep him talking,' the pilot says to his
-partner.
-
-1081
-01:11:15,579 --> 01:11:18,599
-'Where are we going?'
-
-1082
-01:11:18,599 --> 01:11:20,709
-I ask the second man.
-
-1083
-01:11:20,709 --> 01:11:25,190
-'We're taking you to the hospital in Moab,'
-he replies.
-
-1084
-01:11:25,190 --> 01:11:27,889
+679
+01:11:25,920 --> 01:11:27,200
 'How long will that take?'
 
-1085
-01:11:27,889 --> 01:11:31,869
+680
+01:11:28,240 --> 01:11:30,240
 'It's about twelve minutes from here.'
 
-1086
-01:11:31,869 --> 01:11:37,219
-He asks me what happened in the canyon and
-I begin telling my story.
+681
+01:11:31,680 --> 01:11:35,920
+He asks me what happened in the 
+canyon and I begin telling my story.  
 
-1087
-01:11:37,219 --> 01:11:41,750
-By the time I finish, we are circling around
-Moab.
+682
+01:11:37,040 --> 01:11:44,800
+By the time I finish, we are circling around Moab. 
+I look down and see an area of green grass below.
 
-1088
-01:11:41,750 --> 01:11:45,690
-I look down and see an area of green grass
-below.
+683
+01:11:46,320 --> 01:11:54,000
+This gets bigger as we move down towards it. I 
+realise we are landing in front of the hospital.  
 
-1089
-01:11:45,690 --> 01:11:50,420
-This gets bigger as we move down towards it.
+684
+01:11:54,000 --> 01:11:58,400
+A man who looks like a policeman is 
+standing with two nurses in white  
 
-1090
-01:11:50,420 --> 01:11:53,209
-I realise we are landing in front of the hospital.
+685
+01:11:58,400 --> 01:12:04,640
+coats on the hospital steps. The helicopter 
+lands and the nurses carry me into the building.
 
-1091
-01:11:53,209 --> 01:11:59,820
-A man who looks like a policeman is standing
-with two nurses in white coats on the hospital
+686
+01:12:06,000 --> 01:12:11,440
+They put me in an empty room. The 
+man walks in and introduces himself.  
 
-1092
-01:11:59,820 --> 01:12:01,310
-steps.
+687
+01:12:12,640 --> 01:12:17,120
+'Hi, Aron. I'm Steve, and I'm a Park Ranger.'
 
-1093
-01:12:01,310 --> 01:12:06,219
-The helicopter lands and the nurses carry
-me into the building.
+688
+01:12:18,400 --> 01:12:24,080
+As the nurses take off my shoes, I ask 
+Steve to let my mother know that I'm OK  
 
-1094
-01:12:06,219 --> 01:12:08,199
-They put me in an empty room.
+689
+01:12:24,640 --> 01:12:29,120
+and to arrange for someone to collect all 
+the things I left at Horseshoe Canyon.
 
-1095
-01:12:08,199 --> 01:12:12,040
-The man walks in and introduces himself.
+690
+01:12:30,400 --> 01:12:33,680
+'I'll do that when we've 
+finished here,' Steve replies.
 
-1096
-01:12:12,040 --> 01:12:13,949
-'Hi, Aron.
+691
+01:12:35,120 --> 01:12:43,360
+He wants to know what happened in the canyon. Once 
+again, I tell my story. It's the third time I've  
 
-1097
-01:12:13,949 --> 01:12:17,150
-I'm Steve, and I'm a Park Ranger.'
+692
+01:12:43,360 --> 01:12:50,640
+done this in two hours. When I finish, I can see 
+that Steve wants to ask me a lot of questions.
 
-1098
-01:12:17,150 --> 01:12:25,510
-As the nurses take off my shoes, I ask Steve
-to let my mother know that I'm OK and to arrange
+693
+01:12:52,080 --> 01:12:57,920
+He doesn't get the chance. A doctor comes 
+back into the room with a large needle.
 
-1099
-01:12:25,510 --> 01:12:29,940
-for someone to collect all the things I left
-at Horseshoe Canyon.
+694
+01:12:59,280 --> 01:13:04,320
+'Wait!' I say as she goes to put it into my skin.  
 
-1100
-01:12:29,940 --> 01:12:35,380
-'I'll do that when we've finished here,' Steve
-replies.
+695
+01:13:04,320 --> 01:13:11,760
+'I have a problem with needles. I sometimes 
+go into shock. I fell out of a chair once.'
 
-1101
-01:12:35,380 --> 01:12:39,020
-He wants to know what happened in the canyon.
+696
+01:13:13,120 --> 01:13:17,840
+The doctor looks surprised. 'You 
+mean you're not in shock already?'
 
-1102
-01:12:39,020 --> 01:12:42,210
-Once again, I tell my story.
-
-1103
-01:12:42,210 --> 01:12:45,330
-It's the third time I've done this in two
-hours.
-
-1104
-01:12:45,330 --> 01:12:52,340
-When I finish, I can see that Steve wants
-to ask me a lot of questions.
-
-1105
-01:12:52,340 --> 01:12:54,059
-He doesn't get the chance.
-
-1106
-01:12:54,059 --> 01:12:59,790
-A doctor comes back into the room with a large
-needle.
-
-1107
-01:12:59,790 --> 01:13:00,790
-'Wait!'
-
-1108
-01:13:00,790 --> 01:13:03,519
-I say as she goes to put it into my skin.
-
-1109
-01:13:03,519 --> 01:13:07,199
-'I have a problem with needles.
-
-1110
-01:13:07,199 --> 01:13:10,059
-I sometimes go into shock.
-
-1111
-01:13:10,059 --> 01:13:12,619
-I fell out of a chair once.'
-
-1112
-01:13:12,619 --> 01:13:14,769
-The doctor looks surprised.
-
-1113
-01:13:14,769 --> 01:13:18,039
-'You mean you're not in shock already?'
-
-1114
-01:13:18,039 --> 01:13:21,209
+697
+01:13:18,640 --> 01:13:20,400
 'I don't know,' I reply.
 
-1115
-01:13:21,209 --> 01:13:25,179
+698
+01:13:21,600 --> 01:13:23,840
 'Look, do you want this for the pain or not?'
 
-1116
-01:13:25,179 --> 01:13:27,510
-'Damn it, yes!'
+699
+01:13:25,280 --> 01:13:32,800
+'Damn it, yes!' I say. I continue talking 
+to Steve as the needle goes into my arm.
+ 
+ 
 
-1117
-01:13:27,510 --> 01:13:29,119
-I say.
-
-1118
-01:13:29,119 --> 01:13:34,499
-I continue talking to Steve as the needle
-goes into my arm.
-
-1119
-01:13:34,499 --> 01:13:37,539
+700
+01:13:34,000 --> 01:13:36,160
 127 hrs
 
-1120
-01:13:37,539 --> 01:13:43,280
-3.45 pm I suddenly hear another man's voice.
+701
+01:13:38,080 --> 01:13:41,840
+3.45 pm I suddenly hear another man's voice.  
 
-1121
-01:13:43,280 --> 01:13:45,690
-He sounds like a doctor.
+702
+01:13:43,040 --> 01:13:49,840
+He sounds like a doctor. He pulls at the things 
+over my right arm and asks Steve what they are.
 
-1122
-01:13:45,690 --> 01:13:49,531
-He pulls at the things over my right arm and
-asks Steve what they are.
+703
+01:13:51,280 --> 01:13:54,800
+'There are a couple of tourniquets 
+under there,' Steve replies.
 
-1123
-01:13:49,531 --> 01:13:55,719
-'There are a couple of tourniquets under there,'
-Steve replies.
+704
+01:13:56,080 --> 01:14:00,720
+'No, just one,' I whisper. I 
+look at the clock on the wall.
 
-1124
-01:13:55,719 --> 01:13:58,769
-'No, just one,' I whisper.
+705
+01:14:02,160 --> 01:14:09,200
+It's 3.45 pm on Thursday, May the 
+1st. I realise that my nightmare  
 
-1125
-01:13:58,769 --> 01:14:02,510
-I look at the clock on the wall.
+706
+01:14:09,200 --> 01:14:17,840
+has lasted for exactly 127 hours. It's my last 
+thought before falling into a long, deep sleep.
+ 
+ 
 
-1126
-01:14:02,510 --> 01:14:06,760
-It's 3.45 pm on Thursday, May the 1st.
-
-1127
-01:14:06,760 --> 01:14:14,409
-I realise that my nightmare has lasted for
-exactly 127 hours.
-
-1128
-01:14:14,409 --> 01:14:20,000
-It's my last thought before falling into a
-long, deep sleep.
-
-1129
-01:14:20,000 --> 01:14:21,150
+707
+01:14:18,880 --> 01:14:19,520
 EPILOGUE
 
-1130
-01:14:21,150 --> 01:14:26,369
-My rescue was only the first part of a long,
-difficult fight back to health.
+708
+01:14:20,960 --> 01:14:27,680
+My rescue was only the first part of a long, 
+difficult fight back to health. In that first  
 
-1131
-01:14:26,369 --> 01:14:31,219
-In that first month, I had five operations.
+709
+01:14:27,680 --> 01:14:34,240
+month, I had five operations. I was also 
+taking eighteen different medicines a day.  
 
-1132
-01:14:31,219 --> 01:14:35,810
-I was also taking eighteen different medicines
-a day.
+710
+01:14:35,440 --> 01:14:42,400
+Most were for the pain and to fight the poison in 
+my blood. While I was taking them, I couldn't do  
 
-1133
-01:14:35,810 --> 01:14:40,239
-Most were for the pain and to fight the poison
-in my blood.
+711
+01:14:42,400 --> 01:14:50,560
+anything well. I couldn't sleep and my thoughts 
+were unclear. After ten days in hospital, I went  
 
-1134
-01:14:40,239 --> 01:14:43,829
-While I was taking them, I couldn't do anything
-well.
+712
+01:14:50,560 --> 01:14:57,600
+home. A week later, I was back in hospital in 
+Denver for my fifth and most difficult operation.  
 
-1135
-01:14:43,829 --> 01:14:48,309
-I couldn't sleep and my thoughts were unclear.
+713
+01:14:58,640 --> 01:15:05,840
+The time I woke up after the operation was the 
+lowest point after my escape. I felt terrible.  
 
-1136
-01:14:48,309 --> 01:14:52,019
-After ten days in hospital, I went home.
+714
+01:15:06,880 --> 01:15:10,800
+I couldn't eat, I couldn't 
+sleep and I was still in pain.  
 
-1137
-01:14:52,019 --> 01:14:58,130
-A week later, I was back in hospital in Denver
-for my fifth and most difficult operation.
-
-1138
-01:14:58,130 --> 01:15:04,820
-The time I woke up after the operation was
-the lowest point after my escape.
-
-1139
-01:15:04,820 --> 01:15:06,489
-I felt terrible.
-
-1140
-01:15:06,489 --> 01:15:11,739
-I couldn't eat, I couldn't sleep and I was
-still in pain.
-
-1141
-01:15:11,739 --> 01:15:15,699
-Later, I discovered that I nearly died.
-
-1142
-01:15:15,699 --> 01:15:20,099
+715
+01:15:11,920 --> 01:15:19,040
+Later, I discovered that I nearly died. 
 However by May the 25th, I was home to stay.
 
-1143
-01:15:20,099 --> 01:15:24,579
-The following weeks were difficult for my
-family.
+716
+01:15:20,800 --> 01:15:26,400
+The following weeks were difficult for 
+my family. I was like a child again,  
 
-1144
-01:15:24,579 --> 01:15:29,190
-I was like a child again, unable to do anything
-for myself.
+717
+01:15:26,400 --> 01:15:34,000
+unable to do anything for myself. Slowly, 
+however, things got better. I was soon eating  
 
-1145
-01:15:29,190 --> 01:15:33,060
-Slowly, however, things got better.
+718
+01:15:34,000 --> 01:15:39,360
+normal food and by the end of the summer, I 
+was the same weight as before the accident.
 
-1146
-01:15:33,060 --> 01:15:38,670
-I was soon eating normal food and by the end
-of the summer, I was the same weight as before
+719
+01:15:40,800 --> 01:15:50,000
+By this time, I had a prosthetic arm. I learnt 
+to use it quite well. I felt pleased. It wouldn't  
 
-1147
-01:15:38,670 --> 01:15:40,050
-the accident.
+720
+01:15:50,000 --> 01:15:56,720
+be long before I would be able to go climbing 
+again. Of course, I didn't tell my mother that.
 
-1148
-01:15:40,050 --> 01:15:43,100
-By this time, I had a prosthetic arm.
+721
+01:15:58,160 --> 01:16:05,040
+On August the 31st, four months after the 
+accident, I spoke at Sonja's wedding. Four  
 
-1149
-01:15:43,100 --> 01:15:47,349
-I learnt to use it quite well.
+722
+01:16:05,040 --> 01:16:09,920
+days later, I climbed Mount Moran 
+in Wyoming with eight of my friends.
 
-1150
-01:15:47,349 --> 01:15:49,010
-I felt pleased.
+723
+01:16:11,360 --> 01:16:16,720
+On October the 25th - two days before 
+my twenty-eighth birthday - I returned  
 
-1151
-01:15:49,010 --> 01:15:53,869
-It wouldn't be long before I would be able
-to go climbing again.
+724
+01:16:16,720 --> 01:16:22,080
+to Blue John Canyon. Some friends, 
+including Kristi Moore, were with me.  
 
-1152
-01:15:53,869 --> 01:15:58,400
-Of course, I didn't tell my mother that.
+725
+01:16:23,120 --> 01:16:25,600
+We filmed the place where the accident happened.  
 
-1153
-01:15:58,400 --> 01:16:05,050
-On August the 31st, four months after the
-accident, I spoke at Sonja's wedding.
+726
+01:16:26,800 --> 01:16:32,400
+Then, as the others made their way back to their 
+vehicles, I stayed behind for a few minutes.  
 
-1154
-01:16:05,050 --> 01:16:11,659
-Four days later, I climbed Mount Moran in
-Wyoming with eight of my friends.
+727
+01:16:33,600 --> 01:16:38,160
+Just before I left, I looked at the 
+dates of my life on the canyon wall.  
 
-1155
-01:16:11,659 --> 01:16:19,329
-On October the 25th - two days before my twenty-eighth
-birthday - I returned to Blue John Canyon.
+728
+01:16:39,120 --> 01:16:48,080
+I was wrong. My life didn't end in the canyon. 
+Thoughts of the people I love had kept me alive.  
 
-1156
-01:16:19,329 --> 01:16:23,300
-Some friends, including Kristi Moore, were
-with me.
+729
+01:16:48,080 --> 01:16:56,640
+If I wanted to see them again, I had to survive. 
+That's what I told myself. And that's what I did.
 
-1157
-01:16:23,300 --> 01:16:26,670
-We filmed the place where the accident happened.
+730
+01:16:58,480 --> 01:17:04,640
+My accident changed my life. I know that 
+even if I could travel back in time,  
 
-1158
-01:16:26,670 --> 01:16:32,119
-Then, as the others made their way back to
-their vehicles, I stayed behind for a few
+731
+01:17:04,640 --> 01:17:11,200
+I wouldn't change anything. I would still say 
+goodbye to Megan and Kristi and continue alone.  
 
-1159
-01:16:32,119 --> 01:16:33,610
-minutes.
+732
+01:17:12,320 --> 01:17:18,160
+I've learned a lot from that choice. I believe 
+we are on Earth to do the things we love,  
 
-1160
-01:16:33,610 --> 01:16:39,270
-Just before I left, I looked at the dates
-of my life on the canyon wall.
+733
+01:17:18,720 --> 01:17:24,800
+even if that means making a hard choice. 
+Sometimes, that means cutting out something  
 
-1161
-01:16:39,270 --> 01:16:41,289
-I was wrong.
+734
+01:17:24,800 --> 01:17:31,640
+and leaving it in the past. Saying goodbye to 
+things from our past is also a new beginning.
+ 
+ 
+ 
+ 
 
-1162
-01:16:41,289 --> 01:16:44,640
-My life didn't end in the canyon.
-
-1163
-01:16:44,640 --> 01:16:47,489
-Thoughts of the people I love had kept me
-alive.
-
-1164
-01:16:47,489 --> 01:16:52,949
-If I wanted to see them again, I had to survive.
-
-1165
-01:16:52,949 --> 01:16:55,619
-That's what I told myself.
-
-1166
-01:16:55,619 --> 01:16:57,480
-And that's what I did.
-
-1167
-01:16:57,480 --> 01:17:01,639
-My accident changed my life.
-
-1168
-01:17:01,639 --> 01:17:07,360
-I know that even if I could travel back in
-time, I wouldn't change anything.
-
-1169
-01:17:07,360 --> 01:17:12,429
-I would still say goodbye to Megan and Kristi
-and continue alone.
-
-1170
-01:17:12,429 --> 01:17:15,519
-I've learned a lot from that choice.
-
-1171
-01:17:15,519 --> 01:17:20,590
-I believe we are on Earth to do the things
-we love, even if that means making a hard
-
-1172
-01:17:20,590 --> 01:17:22,010
-choice.
-
-1173
-01:17:22,010 --> 01:17:27,729
-Sometimes, that means cutting out something
-and leaving it in the past.
-
-1174
-01:17:27,729 --> 01:17:37,719
-Saying goodbye to things from our past is
-also a new beginning.
-
-1175
-01:17:37,719 --> 01:17:37,979
+735
+01:17:31,640 --> 01:17:33,172
 - THE END -
 

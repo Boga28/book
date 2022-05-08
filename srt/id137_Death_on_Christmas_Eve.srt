@@ -1,1110 +1,804 @@
 1
-00:00:00,269 --> 00:00:08,360
+00:00:00,240 --> 00:00:00,800
 CHAPTER ONE
-As a child I had been impressed by the Boerum
 
 2
-00:00:08,360 --> 00:00:09,640
-House.
+00:00:05,680 --> 00:00:08,640
+As a child I had been 
+impressed by the Boerum House.  
 
 3
-00:00:09,640 --> 00:00:16,370
-It was fairly new then, and shiny with new
-paint - a huge Victorian building.
+00:00:09,440 --> 00:00:16,320
+It was fairly new then, and shiny with new 
+paint - a huge Victorian building. Standing  
 
 4
-00:00:16,370 --> 00:00:21,240
-Standing in front of it this early Christmas
-Eve, however, I could find no echo of that
+00:00:16,320 --> 00:00:22,240
+in front of it this early Christmas Eve, however, 
+I could find no echo of that youthful impression.  
 
 5
-00:00:21,240 --> 00:00:23,420
-youthful impression.
+00:00:23,200 --> 00:00:29,040
+It was all a depressing gray now, and the 
+curtains behind the windows were drawn completely  
 
 6
-00:00:23,420 --> 00:00:29,150
-It was all a depressing gray now, and the
-curtains behind the windows were drawn completely
+00:00:29,040 --> 00:00:33,360
+so that the house seemed to present 
+blindly staring eyes to the passerby.
 
 7
-00:00:29,150 --> 00:00:35,210
-so that the house seemed to present blindly
-staring eyes to the passerby.
+00:00:34,960 --> 00:00:41,520
+When I knocked my stick sharply on the door, 
+Celia opened it. 'There is a doorbell,' she said.
 
 8
-00:00:35,210 --> 00:00:39,480
-When I knocked my stick sharply on the door,
-Celia opened it.
+00:00:42,880 --> 00:00:48,240
+She was still wearing the long unfashionable 
+and badly wrinkled black dress which must have  
 
 9
-00:00:39,480 --> 00:00:43,130
-'There is a doorbell,' she said.
+00:00:48,240 --> 00:00:55,120
+been her mother's, and she looked more than ever 
+like old Katrin had in her later years: the thin  
 
 10
-00:00:43,130 --> 00:00:48,210
-She was still wearing the long unfashionable
-and badly wrinkled black dress which must
+00:00:55,120 --> 00:00:58,480
+bony body, the tight thin line of her lips,  
 
 11
-00:00:48,210 --> 00:00:53,600
-have been her mother's, and she looked more
-than ever like old Katrin had in her later
+00:00:58,480 --> 00:01:03,680
+the colorless hair pulled back hard enough 
+to remove every wrinkle from her forehead.  
 
 12
-00:00:53,600 --> 00:01:00,140
-years: the thin bony body, the tight thin
-line of her lips, the colorless hair pulled
-
-13
-00:01:00,140 --> 00:01:05,570
-back hard enough to remove every wrinkle from
-her forehead.
-
-14
-00:01:05,570 --> 00:01:12,799
-She reminded me of a steel trap ready to shut
+00:01:05,280 --> 00:01:11,840
+She reminded me of a steel trap ready to shut 
 down on anyone who touched her incautiously.
 
+13
+00:01:12,720 --> 00:01:16,640
+I said, 'I am aware that the 
+doorbell is not connected, Celia,'  
+
+14
+00:01:17,520 --> 00:01:26,080
+and walked past her into the hall. She banged the 
+door shut, and instantly we were in half-darkness.
+
 15
-00:01:12,799 --> 00:01:18,689
-I said, 'I am aware that the doorbell is not
-connected, Celia,' and walked past her into
+00:01:26,080 --> 00:01:29,760
+I put out my hand for the light 
+switch, but Celia said sharply,  
 
 16
-00:01:18,689 --> 00:01:20,649
-the hall.
+00:01:29,760 --> 00:01:33,920
+'This is no time for lights! There's been 
+a death in this house, you know that.'
 
 17
-00:01:20,649 --> 00:01:23,999
-She banged the door shut, and instantly we
-were in half-darkness.
+00:01:35,440 --> 00:01:40,080
+'I have good reason to know,' I said, 
+'but your manner now does not impress me.'
 
 18
-00:01:23,999 --> 00:01:31,840
-I put out my hand for the light switch, but
-Celia said sharply, 'This is no time for lights!
+00:01:41,200 --> 00:01:43,920
+'She was my brother's wife, and very dear to me.'
 
 19
-00:01:31,840 --> 00:01:34,810
-There's been a death in this house, you know
-that.'
+00:01:45,360 --> 00:01:48,640
+I moved towards her and rested 
+my stick on her shoulder.  
 
 20
-00:01:34,810 --> 00:01:40,819
-'I have good reason to know,' I said, 'but
-your manner now does not impress me.'
+00:01:50,000 --> 00:01:59,120
+'Celia,' I said, 'as your family's lawyer, let me 
+give you a word of advice. The inquest is over,  
 
 21
-00:01:40,819 --> 00:01:45,560
-'She was my brother's wife, and very dear
-to me.'
+00:01:59,120 --> 00:02:08,320
+and you've been cleared. But nobody believed 
+you then, and nobody ever will. Remember that.'
 
 22
-00:01:45,560 --> 00:01:49,590
-I moved towards her and rested my stick on
-her shoulder.
+00:02:08,320 --> 00:02:11,440
+She pulled away. 'Is that 
+what you came to tell me?'
 
 23
-00:01:49,590 --> 00:01:57,390
-'Celia,' I said, 'as your family's lawyer,
-let me give you a word of advice.
+00:02:13,120 --> 00:02:16,960
+'I came because I knew your 
+brother would want to see me today.  
 
 24
-00:01:57,390 --> 00:02:01,369
-The inquest is over, and you've been cleared.
-
-25
-00:02:01,369 --> 00:02:06,310
-But nobody believed you then, and nobody ever
-will.
-
-26
-00:02:06,310 --> 00:02:08,580
-Remember that.'
-
-27
-00:02:08,580 --> 00:02:09,780
-She pulled away.
-
-28
-00:02:09,780 --> 00:02:12,310
-'Is that what you came to tell me?'
-
-29
-00:02:12,310 --> 00:02:17,780
-'I came because I knew your brother would
-want to see me today.
-
-30
-00:02:17,780 --> 00:02:20,860
+00:02:17,680 --> 00:02:19,920
 I suggest you keep away while I talk to him.'
 
-31
-00:02:20,860 --> 00:02:23,540
-'Keep away from him yourself!'
+25
+00:02:21,440 --> 00:02:27,600
+'Keep away from him yourself!' she cried. 'He 
+was at the inquest and saw them clear my name.  
 
-32
-00:02:23,540 --> 00:02:24,540
-she cried.
+26
+00:02:28,240 --> 00:02:31,360
+In a little while he'll forget the 
+terrible things he thinks about me.  
 
-33
-00:02:24,540 --> 00:02:27,830
-'He was at the inquest and saw them clear
-my name.
-
-34
-00:02:27,830 --> 00:02:32,430
-In a little while he'll forget the terrible
-things he thinks about me.
-
-35
-00:02:32,430 --> 00:02:36,530
+27
+00:02:32,160 --> 00:02:35,840
 Keep away from him so that he can forget.'
 
-36
-00:02:36,530 --> 00:02:41,970
-I started walking cautiously up the dark stairs,
-but she followed me.
+28
+00:02:36,400 --> 00:02:43,440
+I started walking cautiously up the dark 
+stairs, but she followed me. 'I prayed,'  
 
-37
-00:02:41,970 --> 00:02:49,080
-'I prayed,' she said, 'and was told that life
-is too short for hatred.
+29
+00:02:43,440 --> 00:02:51,440
+she said, 'and was told that life is too short for 
+hatred. So when he comes to me, I'll forgive him.'
 
-38
-00:02:49,080 --> 00:02:53,860
-So when he comes to me, I'll forgive him.'
+30
+00:02:53,600 --> 00:02:57,280
+I reached the top of the stairs 
+and almost fell over something.  
 
-39
-00:02:53,860 --> 00:02:57,850
-I reached the top of the stairs and almost
-fell over something.
+31
+00:02:58,240 --> 00:03:04,240
+I swore, then said, 'If you're not going to use 
+lights, you should at least keep the way clear.  
 
-40
-00:02:57,850 --> 00:03:04,250
-I swore, then said, 'If you're not going to
-use lights, you should at least keep the way
-
-41
-00:03:04,250 --> 00:03:05,250
-clear.
-
-42
-00:03:05,250 --> 00:03:07,890
+32
+00:03:05,120 --> 00:03:06,880
 Why don't you get these things out of here?'
 
-43
-00:03:07,890 --> 00:03:11,790
-'They are poor Jessie's things,' she said.
+33
+00:03:08,480 --> 00:03:15,440
+'They are poor Jessie's things,' she said. 
+'Ready for throwing out. It hurts Charlie  
 
-44
-00:03:11,790 --> 00:03:14,640
-'Ready for throwing out.
+34
+00:03:15,440 --> 00:03:19,360
+to see anything of hers. I knew it 
+would be best to throw them out.'  
 
-45
-00:03:14,640 --> 00:03:17,500
-It hurts Charlie to see anything of hers.
+35
+00:03:20,720 --> 00:03:24,320
+Alarm came into her voice. 'But 
+you won't tell him, will you?'
 
-46
-00:03:17,500 --> 00:03:20,900
-I knew it would be best to throw them out.'
+36
+00:03:26,480 --> 00:03:30,000
+I went into Charlie's room 
+and closed the door behind me.  
 
-47
-00:03:20,900 --> 00:03:23,200
-Alarm came into her voice.
+37
+00:03:30,960 --> 00:03:36,080
+The curtains were drawn, but the ceiling light 
+showed me that he was lying on his bed with an  
 
-48
-00:03:23,200 --> 00:03:26,620
-'But you won't tell him, will you?'
+38
+00:03:36,080 --> 00:03:41,120
+arm over his eyes. Slowly, 
+he stood up and looked at me.
 
-49
-00:03:26,620 --> 00:03:31,150
-I went into Charlie's room and closed the
-door behind me.
+39
+00:03:42,800 --> 00:03:46,160
+'Well,' he said at last, nodding towards the door,  
 
-50
-00:03:31,150 --> 00:03:35,900
-The curtains were drawn, but the ceiling light
-showed me that he was lying on his bed with
+40
+00:03:47,600 --> 00:03:50,320
+she didn't give you any light 
+on the way up, did she?'
 
-51
-00:03:35,900 --> 00:03:38,319
-an arm over his eyes.
-
-52
-00:03:38,319 --> 00:03:42,570
-Slowly, he stood up and looked at me.
-
-53
-00:03:42,570 --> 00:03:49,440
-'Well,' he said at last, nodding towards the
-door, she didn't give you any light on the
-
-54
-00:03:49,440 --> 00:03:51,550
-way up, did she?'
-
-55
-00:03:51,550 --> 00:03:55,780
+41
+00:03:52,160 --> 00:03:54,720
 'No,' I said, 'but I know the way.'
 
-56
-00:03:55,780 --> 00:04:00,940
-'She gets around better in the dark than I
-do in the light.
+42
+00:03:56,480 --> 00:04:02,640
+'She gets around better in the dark than I do in 
+the light. She'd rather have it that way, too.  
 
-57
-00:04:00,940 --> 00:04:03,830
-She'd rather have it that way, too.
+43
+00:04:03,920 --> 00:04:07,600
+Otherwise she might look into a 
+mirror and be frightened of what she  
 
-58
-00:04:03,830 --> 00:04:09,920
-Otherwise she might look into a mirror and
-be frightened of what she saw.'
+44
+00:04:07,600 --> 00:04:15,840
+saw.' He gave a short laugh. 'All you 
+hear from her now is how she loved Jessie,  
 
-59
-00:04:09,920 --> 00:04:13,330
-He gave a short laugh.
+45
+00:04:16,480 --> 00:04:23,200
+and how sorry she is. Maybe she thinks if she 
+says if often enough, people will believe it.'
 
-60
-00:04:13,330 --> 00:04:19,469
-'All you hear from her now is how she loved
-Jessie, and how sorry she is.
+46
+00:04:24,640 --> 00:04:29,040
+I dropped my hat and stick on the 
+bed and put my overcoat beside them.  
 
-61
-00:04:19,469 --> 00:04:24,810
-Maybe she thinks if she says if often enough,
-people will believe it.'
+47
+00:04:30,160 --> 00:04:34,400
+Then I took out a cigarette and waited 
+until he found a match to light it for me.  
 
-62
-00:04:24,810 --> 00:04:30,479
-I dropped my hat and stick on the bed and
-put my overcoat beside them.
+48
+00:04:35,920 --> 00:04:41,840
+His hand shook violently. Charlie 
+was five years younger than Celia,  
 
-63
-00:04:30,479 --> 00:04:36,190
-Then I took out a cigarette and waited until
-he found a match to light it for me.
+49
+00:04:42,560 --> 00:04:49,120
+but seeing him then I thought he looked ten years 
+older. His hair was so fair that it was difficult  
 
-64
-00:04:36,190 --> 00:04:39,930
-His hand shook violently.
+50
+00:04:49,120 --> 00:04:55,840
+to see whether or not he was going gray. He had 
+not shaved for several days, and there were huge  
 
-65
-00:04:39,930 --> 00:04:44,919
-Charlie was five years younger than Celia,
-but seeing him then I thought he looked ten
+51
+00:04:55,840 --> 00:05:03,200
+blue-black bags under his eyes. He stared 
+at me, pulling uncertainly at his mustache.
 
-66
-00:04:44,919 --> 00:04:47,029
-years older.
-
-67
-00:04:47,029 --> 00:04:52,430
-His hair was so fair that it was difficult
-to see whether or not he was going gray.
-
-68
-00:04:52,430 --> 00:04:59,710
-He had not shaved for several days, and there
-were huge blue-black bags under his eyes.
-
-69
-00:04:59,710 --> 00:05:05,259
-He stared at me, pulling uncertainly at his
-mustache.
-
-70
-00:05:05,259 --> 00:05:09,240
+52
+00:05:05,040 --> 00:05:09,840
 'You know why I wanted to see you,' he said.
 
-71
-00:05:09,240 --> 00:05:16,039
-'I can imagine,' I said, 'but I'd rather you
-told me.'
+53
+00:05:09,840 --> 00:05:13,840
+'I can imagine,' I said, 
+'but I'd rather you told me.'
 
-72
-00:05:16,039 --> 00:05:18,300
-'It's Celia,' he said.
+54
+00:05:15,600 --> 00:05:21,840
+'It's Celia,' he said. 'I want 
+her to get what she deserves.  
 
-73
-00:05:18,300 --> 00:05:23,190
-'I want her to get what she deserves.
+55
+00:05:22,880 --> 00:05:30,400
+Not prison. I want the law to take her and 
+kill her, and I want to be there to watch it.'
 
-74
-00:05:23,190 --> 00:05:24,580
-Not prison.
+56
+00:05:32,560 --> 00:05:39,760
+'You were at the inquest, Charlie,' I said. 
+'You saw what happened. Celia's cleared and,  
 
-75
-00:05:24,580 --> 00:05:32,849
-I want the law to take her and kill her, and
-I want to be there to watch it.'
+57
+00:05:39,760 --> 00:05:43,680
+unless more evidence can be 
+produced, she stays cleared.'
 
-76
-00:05:32,849 --> 00:05:36,020
-'You were at the inquest, Charlie,' I said.
+58
+00:05:45,440 --> 00:05:51,840
+'What more evidence does anyone need? They were 
+arguing violently at the top of the stairs.  
 
-77
-00:05:36,020 --> 00:05:37,900
-'You saw what happened.
+59
+00:05:52,400 --> 00:05:57,440
+Celia threw Jessie down to the bottom 
+and killed her. That's murder, isn't it?'
 
-78
-00:05:37,900 --> 00:05:44,969
-Celia's cleared and, unless more evidence
-can be produced, she stays cleared.'
+60
+00:05:59,760 --> 00:06:07,040
+I was tired, and sat down in the old leather 
+armchair. 'There were no witnesses,' I said.
 
-79
-00:05:44,969 --> 00:05:48,449
-'What more evidence does anyone need?
+61
+00:06:08,240 --> 00:06:15,920
+'I heard Jessie scream and I heard her fall,' he 
+said, 'and when I ran out and found her there,  
 
-80
-00:05:48,449 --> 00:05:52,320
-They were arguing violently at the top of
-the stairs.
+62
+00:06:15,920 --> 00:06:20,640
+I heard Celia bang her door 
+shut. She pushed Jessie!'
 
-81
-00:05:52,320 --> 00:05:56,319
-Celia threw Jessie down to the bottom and
-killed her.
+63
+00:06:22,880 --> 00:06:27,200
+'But you didn't see anything. 
+And Celia says she wasn't there.  
 
-82
-00:05:56,319 --> 00:05:59,880
-That's murder, isn't it?'
+64
+00:06:28,320 --> 00:06:33,840
+As you weren't an eyewitness, you can't make a 
+murder out of what might have been an accident.'
 
-83
-00:05:59,880 --> 00:06:04,330
-I was tired, and sat down in the old leather
-armchair.
+65
+00:06:35,120 --> 00:06:40,800
+He slowly shook his head. 'You 
+don't really believe that,' he said.  
 
-84
-00:06:04,330 --> 00:06:08,640
-'There were no witnesses,' I said.
+66
+00:06:41,680 --> 00:06:48,000
+'Because if you do, you can get out 
+now and never come near me again.'
 
-85
-00:06:08,640 --> 00:06:15,720
-'I heard Jessie scream and I heard her fall,'
-he said, 'and when I ran out and found her
+67
+00:06:48,000 --> 00:06:55,200
+'It doesn't matter what I believe. I'm telling 
+you the legal position. What about motive? What  
 
-86
-00:06:15,720 --> 00:06:19,240
-there, I heard Celia bang her door shut.
-
-87
-00:06:19,240 --> 00:06:21,669
-She pushed Jessie!'
-
-88
-00:06:21,669 --> 00:06:25,710
-'But you didn't see anything.
-
-89
-00:06:25,710 --> 00:06:28,629
-And Celia says she wasn't there.
-
-90
-00:06:28,629 --> 00:06:35,319
-As you weren't an eyewitness, you can't make
-a murder out of what might have been an accident.'
-
-91
-00:06:35,319 --> 00:06:37,969
-He slowly shook his head.
-
-92
-00:06:37,969 --> 00:06:42,089
-'You don't really believe that,' he said.
-
-93
-00:06:42,089 --> 00:06:48,219
-'Because if you do, you can get out now and
-never come near me again.'
-
-94
-00:06:48,219 --> 00:06:50,719
-'It doesn't matter what I believe.
-
-95
-00:06:50,719 --> 00:06:53,449
-I'm telling you the legal position.
-
-96
-00:06:53,449 --> 00:06:55,279
-What about motive?
-
-97
-00:06:55,279 --> 00:06:58,189
-What did Celia have to gain from Jessie's
-death?
-
-98
-00:06:58,189 --> 00:07:02,650
+68
+00:06:55,200 --> 00:07:02,240
+did Celia have to gain from Jessie's death? 
 There's no money or property involved.'
 
-99
-00:07:02,650 --> 00:07:05,360
-Charlie sat down on the edge of his bed.
+69
+00:07:02,240 --> 00:07:10,240
+Charlie sat down on the edge of his bed. 'No,' he 
+whispered, 'there's no money or property in it.  
 
-100
-00:07:05,360 --> 00:07:11,559
-'No,' he whispered, 'there's no money or property
-in it.
+70
+00:07:12,080 --> 00:07:18,800
+It's me. First, it was the old lady with 
+her heart trouble whenever I tried to do  
 
-101
-00:07:11,559 --> 00:07:14,289
-It's me.
+71
+00:07:18,800 --> 00:07:24,880
+anything for myself. Then when she died 
+and I thought I was free, it was Celia.  
 
-102
-00:07:14,289 --> 00:07:19,470
-First, it was the old lady with her heart
-trouble whenever I tried to do anything for
+72
+00:07:25,680 --> 00:07:29,840
+She never had a husband or 
+a baby - but she had me!'
 
-103
-00:07:19,470 --> 00:07:21,129
-myself.
+73
+00:07:31,920 --> 00:07:34,480
+'She's your sister, Charlie. She loves you.'
 
-104
-00:07:21,129 --> 00:07:25,939
-Then when she died and I thought I was free,
-it was Celia.
+74
+00:07:35,680 --> 00:07:40,720
+He laughed unpleasantly. 'And she can't let me go.  
 
-105
-00:07:25,939 --> 00:07:32,349
-She never had a husband or a baby - but she
-had me!'
+75
+00:07:41,920 --> 00:07:49,040
+When I think back now, I still can't understand 
+how she did it. She would look at me in a certain  
 
-106
-00:07:32,349 --> 00:07:33,879
-'She's your sister, Charlie.
+76
+00:07:49,040 --> 00:07:55,480
+way and all the strength would go out of me. 
+And it was like that until I met Jessie ...  
 
-107
-00:07:33,879 --> 00:07:35,919
-She loves you.'
+77
+00:07:56,480 --> 00:08:04,320
+I remember the day I brought Jessie home, and 
+told Celia we were married. There was a look  
 
-108
-00:07:35,919 --> 00:07:37,729
-He laughed unpleasantly.
+78
+00:08:04,320 --> 00:08:11,840
+in her eye - the same look that must have been 
+there when she pushed Jessie down those stairs.'
 
-109
-00:07:37,729 --> 00:07:42,159
-'And she can't let me go.
+79
+00:08:12,800 --> 00:08:15,840
+I said, 'But you admitted at the inquest  
 
-110
-00:07:42,159 --> 00:07:47,180
-When I think back now, I still can't understand
-how she did it.
+80
+00:08:15,840 --> 00:08:19,120
+that you never saw her threaten 
+or do anything to hurt Jessie.'
 
-111
-00:07:47,180 --> 00:07:52,479
-She would look at me in a certain way and
-all the strength would go out of me.
+81
+00:08:20,560 --> 00:08:28,000
+'Of course I never saw! But Jessie would go around 
+sick to her heart every day without saying a Word,  
 
-112
-00:07:52,479 --> 00:07:59,990
-And it was like that until I met Jessie ... I
-remember the day I brought Jessie home, and
+82
+00:08:28,000 --> 00:08:31,120
+and would cry in bed every 
+night and not tell me why.  
 
-113
-00:07:59,990 --> 00:08:03,599
-told Celia we were married.
+83
+00:08:32,400 --> 00:08:40,080
+I knew what was going on. I talked to her and I 
+talked to Celia, and both of them just shook their  
 
-114
-00:08:03,599 --> 00:08:08,949
-There was a look in her eye - the same look
-that must have been there when she pushed
+84
+00:08:40,080 --> 00:08:45,440
+heads. But when I saw Jessie lying 
+there, it didn't surprise me at all.'
 
-115
-00:08:08,949 --> 00:08:12,939
-Jessie down those stairs.'
-
-116
-00:08:12,939 --> 00:08:18,379
-I said, 'But you admitted at the inquest that
-you never saw her threaten or do anything
-
-117
-00:08:18,379 --> 00:08:19,969
-to hurt Jessie.'
-
-118
-00:08:19,969 --> 00:08:23,430
-'Of course I never saw!
-
-119
-00:08:23,430 --> 00:08:28,439
-But Jessie would go around sick to her heart
-every day without saying a Word, and would
-
-120
-00:08:28,439 --> 00:08:32,470
-cry in bed every night and not tell me why.
-
-121
-00:08:32,470 --> 00:08:35,210
-I knew what was going on.
-
-122
-00:08:35,210 --> 00:08:41,200
-I talked to her and I talked to Celia, and
-both of them just shook their heads.
-
-123
-00:08:41,200 --> 00:08:46,490
-But when I saw Jessie lying there, it didn't
-surprise me at all.'
-
-124
-00:08:46,490 --> 00:08:54,440
-'I don't think it surprised anyone who knows
+85
+00:08:47,280 --> 00:08:54,240
+'I don't think it surprised anyone who knows 
 Celia,' I said, 'but that isn't evidence.'
 
-125
-00:08:54,440 --> 00:08:56,410
-He beat his hand against his knee.
+86
+00:08:54,240 --> 00:08:59,760
+He beat his hand against his knee. 'What 
+can I do? That's what I need you to tell me.  
 
-126
-00:08:56,410 --> 00:08:58,540
-'What can I do?
+87
+00:09:00,720 --> 00:09:06,800
+All my life I've never done anything because 
+of her. And that's what she expects now - that  
 
-127
-00:08:58,540 --> 00:09:01,060
-That's what I need you to tell me.
+88
+00:09:06,800 --> 00:09:13,120
+I won't do anything, and that she'll get away 
+with it.' He stood up and stared at the door,  
 
-128
-00:09:01,060 --> 00:09:04,670
-All my life I've never done anything because
-of her.
+89
+00:09:13,120 --> 00:09:19,280
+then at me. 'But I can do something,' 
+he whispered. 'Do you know what?'
 
-129
-00:09:04,670 --> 00:09:10,340
-And that's what she expects now - that I won't
-do anything, and that she'll get away with
+90
+00:09:20,560 --> 00:09:26,720
+I stood up facing him and shook my head. 'Whatever 
+you're thinking, put it out of your mind,' I said.
 
-130
-00:09:10,340 --> 00:09:11,440
-it.'
+91
+00:09:27,680 --> 00:09:34,880
+'Don't confuse me,' he said. 'You know you can 
+get away with murder if you're as clever as Celia.  
 
-131
-00:09:11,440 --> 00:09:14,620
-He stood up and stared at the door, then at
-me.
-
-132
-00:09:14,620 --> 00:09:17,670
-'But I can do something,' he whispered.
-
-133
-00:09:17,670 --> 00:09:20,690
-'Do you know what?'
-
-134
-00:09:20,690 --> 00:09:23,070
-I stood up facing him and shook my head.
-
-135
-00:09:23,070 --> 00:09:28,100
-'Whatever you're thinking, put it out of your
-mind,' I said.
-
-136
-00:09:28,100 --> 00:09:30,510
-'Don't confuse me,' he said.
-
-137
-00:09:30,510 --> 00:09:35,820
-'You know you can get away with murder if
-you're as clever as Celia.
-
-138
-00:09:35,820 --> 00:09:40,030
+92
+00:09:35,440 --> 00:09:38,240
 Don't you think I'm as clever as Celia?'
 
-139
-00:09:40,030 --> 00:09:42,060
-I held his shoulders.
+93
+00:09:39,840 --> 00:09:43,440
+I held his shoulders. 'Don't 
+talk like that, Charlie!'
 
-140
-00:09:42,060 --> 00:09:44,710
-'Don't talk like that, Charlie!'
+94
+00:09:44,480 --> 00:09:50,160
+He pulled away. His eyes were bright 
+and his teeth showed behind his lips.  
 
-141
-00:09:44,710 --> 00:09:46,080
-He pulled away.
+95
+00:09:50,160 --> 00:09:55,440
+'What should I do?' he cried. 'Forget 
+everything now Jessie is dead and buried?  
 
-142
-00:09:46,080 --> 00:09:49,450
-His eyes were bright and his teeth showed
-behind his lips.
+96
+00:09:56,160 --> 00:10:00,480
+Sit here until Celia gets tired of 
+being afraid of me and kills me too?'
 
-143
-00:09:49,450 --> 00:09:53,140
-'What should I do?' he cried.
+97
+00:10:01,760 --> 00:10:06,960
+'You haven't been out of this house since the 
+inquest,' I said. 'It's about time you went out.'
 
-144
-00:09:53,140 --> 00:09:56,390
-'Forget everything now Jessie is dead and
-buried?
-
-145
-00:09:56,390 --> 00:10:01,990
-Sit here until Celia gets tired of being afraid
-of me and kills me too?'
-
-146
-00:10:01,990 --> 00:10:05,760
-'You haven't been out of this house since
-the inquest,' I said.
-
-147
-00:10:05,760 --> 00:10:08,370
-'It's about time you went out.'
-
-148
-00:10:08,370 --> 00:10:12,260
+98
+00:10:08,000 --> 00:10:11,440
 'And have everybody laugh at me!' he said.
 
-149
-00:10:12,260 --> 00:10:18,030
-'Al Sharp said that some of your friends would
-be at his bar tonight, and he'd like to see
+99
+00:10:13,440 --> 00:10:16,960
+'Al Sharp said that some of your 
+friends would be at his bar tonight,  
 
-150
-00:10:18,030 --> 00:10:19,920
-you there,' I said.
-
-151
-00:10:19,920 --> 00:10:23,740
+100
+00:10:16,960 --> 00:10:22,560
+and he'd like to see you there,' I said. 
 'That's my advice - for whatever it's worth.'
 
-152
-00:10:23,740 --> 00:10:27,530
-'It's not worth anything,' said Celia.
+101
+00:10:23,680 --> 00:10:29,920
+'It's not worth anything,' said Celia. 
+The door had opened and she stood there,  
 
-153
-00:10:27,530 --> 00:10:33,660
-The door had opened and she stood there, her
-eyes narrowed against the light in the room.
+102
+00:10:29,920 --> 00:10:34,560
+her eyes narrowed against the light in 
+the room. Charlie turned towards her.
 
-154
-00:10:33,660 --> 00:10:35,030
-Charlie turned towards her.
+103
+00:10:35,200 --> 00:10:38,480
+'I told you never to come 
+into this room!' he said.
 
-155
-00:10:35,030 --> 00:10:39,890
-'I told you never to come into this room!'
-he said.
+104
+00:10:39,680 --> 00:10:45,840
+Her face remained calm. 'I'm not in it. I 
+came to tell you that your dinner is ready.'
 
-156
-00:10:39,890 --> 00:10:42,470
-Her face remained calm.
+105
+00:10:47,600 --> 00:10:52,240
+He took a threatening step towards 
+her. 'Did you have your ear at the door  
 
-157
-00:10:42,470 --> 00:10:44,060
-'I'm not in it.
+106
+00:10:52,240 --> 00:11:00,000
+long enough to hear everything I said?' 
+he asked. 'Or shall I repeat it for you?'
 
-158
-00:10:44,060 --> 00:10:47,820
-I came to tell you that your dinner is ready.'
+107
+00:11:00,000 --> 00:11:04,880
+'I heard an invitation to go drinking 
+while this house is still in mourning,'  
 
-159
-00:10:47,820 --> 00:10:50,040
-He took a threatening step towards her.
+108
+00:11:04,880 --> 00:11:07,520
+she said, 'and I object to that.'
 
-160
-00:10:50,040 --> 00:10:55,700
-'Did you have your ear at the door long enough
-to hear everything I said?' he asked.
+109
+00:11:09,440 --> 00:11:18,800
+He looked at her, amazed. 'Celia, tell me you 
+don't mean that! Only the blackest hypocrite alive  
 
-161
-00:10:55,700 --> 00:10:59,070
-'Or shall I repeat it for you?'
+110
+00:11:18,800 --> 00:11:22,240
+or someone mad could say what 
+you've just said, and mean it.'
 
-162
-00:10:59,070 --> 00:11:05,800
-'I heard an invitation to go drinking while
-this house is still in mourning,' she said,
+111
+00:11:23,360 --> 00:11:29,680
+'Mad!' she cried. 'You dare use 
+that word? Locked in your room,  
 
-163
-00:11:05,800 --> 00:11:09,720
-'and I object to that.'
+112
+00:11:29,680 --> 00:11:35,600
+talking to yourself.' She turned to me suddenly. 
+'You've talked to him. Is it possible-?'
 
-164
-00:11:09,720 --> 00:11:12,410
-He looked at her, amazed.
-
-165
-00:11:12,410 --> 00:11:16,320
-'Celia, tell me you don't mean that!
-
-166
-00:11:16,320 --> 00:11:22,220
-Only the blackest hypocrite alive or someone
-mad could say what you've just said, and mean
-
-167
-00:11:22,220 --> 00:11:23,340
-it.'
-
-168
-00:11:23,340 --> 00:11:24,470
-'Mad!'
-
-169
-00:11:24,470 --> 00:11:25,470
-she cried.
-
-170
-00:11:25,470 --> 00:11:28,519
-'You dare use that word?
-
-171
-00:11:28,519 --> 00:11:31,390
-Locked in your room, talking to yourself.'
-
-172
-00:11:31,390 --> 00:11:33,550
-She turned to me suddenly.
-
-173
-00:11:33,550 --> 00:11:34,550
-'You've talked to him.
-
-174
-00:11:34,550 --> 00:11:35,680
-Is it possible-?'
-
-175
-00:11:35,680 --> 00:11:38,930
+113
+00:11:35,600 --> 00:11:38,320
 'He's as sane as you, Celia,' I said.
 
-176
-00:11:38,930 --> 00:11:43,130
-'Then he knows he shouldn't drink in bars
-at a time like this.
+114
+00:11:39,200 --> 00:11:44,800
+'Then he knows he shouldn't drink in bars at a 
+time like this. How could you ask him to do this?'
 
-177
-00:11:43,130 --> 00:11:45,980
-How could you ask him to do this?'
+115
+00:11:46,880 --> 00:11:51,440
+'If you weren't preparing to throw out 
+Jessie's things, Celia,' I said, 'I would  
 
-178
-00:11:45,980 --> 00:11:51,940
-'If you weren't preparing to throw out Jessie's
-things, Celia,' I said, 'I would take that
+116
+00:11:51,440 --> 00:11:57,840
+take that question seriously.' It was a dangerous 
+thing to say, and I immediately regretted it.  
 
-179
-00:11:51,940 --> 00:11:54,530
-question seriously.'
+117
+00:11:59,120 --> 00:12:03,680
+Before I could move, Charlie was past 
+me and was holding Celia's arms tightly.
 
-180
-00:11:54,530 --> 00:11:59,300
-It was a dangerous thing to say, and I immediately
-regretted it.
+118
+00:12:04,640 --> 00:12:10,480
+'Did you dare go into her room?' he shouted, 
+shaking her. And getting an immediate answer  
 
-181
-00:11:59,300 --> 00:12:03,980
-Before I could move, Charlie was past me and
-was holding Celia's arms tightly.
+119
+00:12:10,480 --> 00:12:16,720
+from her face, he dropped her arms as if they 
+were red hot, and stood there with his head down.  
 
-182
-00:12:03,980 --> 00:12:09,500
-'Did you dare go into her room?' he shouted,
-shaking her.
-
-183
-00:12:09,500 --> 00:12:15,340
-And getting an immediate answer from her face,
-he dropped her arms as if they were red hot,
-
-184
-00:12:15,340 --> 00:12:17,720
-and stood there with his head down.
-
-185
-00:12:17,720 --> 00:12:21,060
+120
+00:12:18,960 --> 00:12:20,080
 'Where are her things?'
 
-186
-00:12:21,060 --> 00:12:24,410
-'By the stairs, Charlie.
+121
+00:12:21,840 --> 00:12:24,800
+'By the stairs, Charlie. Everything is there.'
 
-187
-00:12:24,410 --> 00:12:27,320
-Everything is there.'
+122
+00:12:27,040 --> 00:12:30,240
+He walked out of the room, and 
+Celia turned to look at me.  
 
-188
-00:12:27,320 --> 00:12:31,180
-He walked out of the room, and Celia turned
-to look at me.
+123
+00:12:31,920 --> 00:12:37,840
+There was such terrible hatred in her face that 
+I desperately wanted to get out of that house.  
 
-189
-00:12:31,180 --> 00:12:37,230
-There was such terrible hatred in her face
-that I desperately wanted to get out of that
+124
+00:12:38,640 --> 00:12:41,840
+I took my things from the bed, but 
+she stood in front of the door.
 
-190
-00:12:37,230 --> 00:12:38,820
-house.
+125
+00:12:43,440 --> 00:12:48,880
+'Do you see what you've done?' she said in 
+a rough whisper. 'Now I will have to pack  
 
-191
-00:12:38,820 --> 00:12:42,500
-I took my things from the bed, but she stood
-in front of the door.
+126
+00:12:48,880 --> 00:12:56,080
+them all again - just because of you. You old 
+fool! It should have been you with her when I-'
 
-192
-00:12:42,500 --> 00:12:45,780
-'Do you see what you've done?'
+127
+00:12:57,040 --> 00:13:03,680
+I dropped my stick sharply on her shoulder. 
+'As your lawyer, Celia,' I said, 'I advise  
 
-193
-00:12:45,780 --> 00:12:48,070
-she said in a rough whisper.
+128
+00:13:03,680 --> 00:13:08,320
+you to speak only during your sleep, when you 
+can't be made responsible for what you say.'
 
-194
-00:12:48,070 --> 00:12:51,090
-'Now I will have to pack them all again - just
-because of you.
+129
+00:13:10,240 --> 00:13:15,120
+She said no more, but I made sure 
+she stayed safely in front of me  
 
-195
-00:12:51,090 --> 00:12:53,480
-You old fool!
+130
+00:13:15,120 --> 00:13:16,800
+until I was out in the street again.
 
-196
-00:12:53,480 --> 00:12:57,170
-It should have been you with her when I-'
+131
+00:13:18,720 --> 00:13:23,200
+It was only a few minutes walk to Al 
+Sharp's bar, and I was grateful for  
 
-197
-00:12:57,170 --> 00:12:59,970
-I dropped my stick sharply on her shoulder.
+132
+00:13:23,200 --> 00:13:29,200
+the clear winter air in my face. Al was 
+alone behind the bar, polishing glasses.
 
-198
-00:12:59,970 --> 00:13:06,291
-'As your lawyer, Celia,' I said, 'I advise
-you to speak only during your sleep, when
+133
+00:13:30,720 --> 00:13:35,840
+'Merry Christmas,' he said, and put a 
+comfortable-looking bottle and two glasses  
 
-199
-00:13:06,291 --> 00:13:10,460
-you can't be made responsible for what you
-say.'
+134
+00:13:35,840 --> 00:13:44,160
+on the bar. 'I was expecting you.' Al poured two 
+drinks. We drank, and he leaned across the bar.  
 
-200
-00:13:10,460 --> 00:13:16,200
-She said no more, but I made sure she stayed
-safely in front of me until I was out in the
-
-201
-00:13:16,200 --> 00:13:19,000
-street again.
-
-202
-00:13:19,000 --> 00:13:24,060
-It was only a few minutes walk to Al Sharp's
-bar, and I was grateful for the clear winter
-
-203
-00:13:24,060 --> 00:13:26,400
-air in my face.
-
-204
-00:13:26,400 --> 00:13:30,890
-Al was alone behind the bar, polishing glasses.
-
-205
-00:13:30,890 --> 00:13:36,990
-'Merry Christmas,' he said, and put a comfortable-looking
-bottle and two glasses on the bar.
-
-206
-00:13:36,990 --> 00:13:39,660
-'I was expecting you.'
-
-207
-00:13:39,660 --> 00:13:41,850
-Al poured two drinks.
-
-208
-00:13:41,850 --> 00:13:46,360
-We drank, and he leaned across the bar.
-
-209
-00:13:46,360 --> 00:13:48,130
+135
+00:13:45,920 --> 00:13:47,840
 'Just come from there?'
 
-210
-00:13:48,130 --> 00:13:51,180
+136
+00:13:48,400 --> 00:13:49,440
 'Yes,' I said.
 
-211
-00:13:51,180 --> 00:13:53,220
+137
+00:13:51,280 --> 00:13:52,240
 'See Charlie?'
 
-212
-00:13:53,220 --> 00:13:57,290
+138
+00:13:53,760 --> 00:13:55,360
 'And Celia,' I said.
 
-213
-00:13:57,290 --> 00:14:02,940
-'I've seen her too when she goes by to do
-some shopping,' he said.
+139
+00:13:56,960 --> 00:14:02,960
+'I've seen her too when she goes by 
+to do some shopping,' he said. 'Runs  
 
-214
-00:14:02,940 --> 00:14:06,820
-'Runs along with her head down, as if she's
-being chased by something.
+140
+00:14:02,960 --> 00:14:08,400
+along with her head down, as if she's being 
+chased by something. And I guess she is.'
 
-215
-00:14:06,820 --> 00:14:09,080
-And I guess she is.'
-
-216
-00:14:09,080 --> 00:14:12,570
+141
+00:14:09,920 --> 00:14:11,600
 'I guess she is, too,' I said.
 
-217
-00:14:12,570 --> 00:14:16,470
-'Did you tell Charlie I'd like to see him
-some time?'
+142
+00:14:12,800 --> 00:14:15,840
+'Did you tell Charlie I'd 
+like to see him some time?'
 
-218
-00:14:16,470 --> 00:14:18,450
-'Yes,' I said.
+143
+00:14:17,040 --> 00:14:19,280
+'Yes,' I said. 'I told him!'
 
-219
-00:14:18,450 --> 00:14:20,230
-'I told him!'
-
-220
-00:14:20,230 --> 00:14:23,700
+144
+00:14:20,560 --> 00:14:21,360
 'What did he say?'
 
-221
-00:14:23,700 --> 00:14:24,700
-'Nothing.
+145
+00:14:23,040 --> 00:14:30,240
+'Nothing. Celia said it was wrong for him 
+to come here while he was in mourning.'
 
-222
-00:14:24,700 --> 00:14:30,380
-Celia said it was wrong for him to come here
-while he was in mourning.'
-
-223
-00:14:30,380 --> 00:14:37,090
-Al whistled softly, and moved a finger in
+146
+00:14:30,240 --> 00:14:36,240
+Al whistled softly, and moved a finger in 
 circles at his forehead in a silent, 'crazy!'.
 
-224
-00:14:37,090 --> 00:14:43,630
-'Tell me,' he said, 'do you think it's safe
-for them to be alone together?
+147
+00:14:37,840 --> 00:14:45,360
+'Tell me,' he said, 'do you think it's safe for 
+them to be alone together? The way things are,  
 
-225
-00:14:43,630 --> 00:14:50,460
-The way things are, the way Charlie feels,
-there could be more trouble there.'
+148
+00:14:45,360 --> 00:14:48,560
+the way Charlie feels, there 
+could be more trouble there.'
 
-226
-00:14:50,460 --> 00:14:53,870
-'It looked like that for a while tonight,'
-I said.
+149
+00:14:50,160 --> 00:14:54,720
+'It looked like that for a while tonight,' 
+I said. 'But then it calmed down.'
 
-227
-00:14:53,870 --> 00:14:54,870
-'But then it calmed down.'
-
-228
-00:14:54,870 --> 00:15:00,280
+150
+00:14:56,480 --> 00:14:58,880
 'Until the next time,' said Al.
 
-229
-00:15:00,280 --> 00:15:02,170
+151
+00:15:00,000 --> 00:15:01,440
 'I'll be there,' I said.
 
-230
-00:15:02,170 --> 00:15:06,760
-Al looked at me and shook his head.
+152
+00:15:03,120 --> 00:15:04,960
+Al looked at me and shook his head.  
 
-231
-00:15:06,760 --> 00:15:09,950
-'Nothing changes in that house,' he said.
+153
+00:15:06,640 --> 00:15:12,800
+'Nothing changes in that house,' he said. 
+'That's how you can work out all the answers.  
 
-232
-00:15:09,950 --> 00:15:13,330
-'That's how you can work out all the answers.
+154
+00:15:14,320 --> 00:15:18,160
+That's how I knew you'd be standing 
+here now talking to me about it.'
 
-233
-00:15:13,330 --> 00:15:20,140
-That's how I knew you'd be standing here now
-talking to me about it.'
+155
+00:15:20,000 --> 00:15:22,240
+I could still smell the dampness of the house,  
 
-234
-00:15:20,140 --> 00:15:25,050
-I could still smell the dampness of the house,
-and I knew it would take days to get it out
+156
+00:15:23,040 --> 00:15:25,840
+and I knew it would take days 
+to get it out of my clothes.
 
-235
-00:15:25,050 --> 00:15:26,770
-of my clothes.
+157
+00:15:27,760 --> 00:15:31,680
+'This is one day I'd like to take 
+out of the year permanently,' I said.
 
-236
-00:15:26,770 --> 00:15:33,130
-'This is one day I'd like to take out of the
-year permanently,' I said.
+158
+00:15:32,800 --> 00:15:36,480
+'And leave them alone with 
+their problems,' agreed Al.
 
-237
-00:15:33,130 --> 00:15:36,540
-'And leave them alone with their problems,'
-agreed Al.
+159
+00:15:38,160 --> 00:15:42,240
+'They're not alone,' I said. 'Jessie is with them.  
 
-238
-00:15:36,540 --> 00:15:41,560
-'They're not alone,' I said.
+160
+00:15:43,680 --> 00:15:48,160
+Jessie will always be with them until 
+that house and everything in it is gone.'
 
-239
-00:15:41,560 --> 00:15:44,100
-'Jessie is with them.
-
-240
-00:15:44,100 --> 00:15:50,420
-Jessie will always be with them until that
-house and everything in it is gone.'
-
-241
-00:15:50,420 --> 00:15:52,860
+161
+00:15:50,160 --> 00:15:50,960
 Al frowned.
 
-242
-00:15:52,860 --> 00:15:56,240
-'It's the strangest thing that ever happened
-in this town.
+162
+00:15:52,480 --> 00:15:57,120
+'It's the strangest thing that ever 
+happened in this town. The house  
 
-243
-00:15:56,240 --> 00:16:02,800
-The house all black, her running through the
-streets like something hunted, him lying there
+163
+00:15:57,120 --> 00:16:02,800
+all black, her running through the streets 
+like something hunted, him lying there in  
 
-244
-00:16:02,800 --> 00:16:07,690
-in that room with only the walls to look at,
-for -how long?
+164
+00:16:02,800 --> 00:16:08,960
+that room with only the walls to look at, for 
+-how long? When was it Jessie had that fall?'
 
-245
-00:16:07,690 --> 00:16:11,290
-When was it Jessie had that fall?'
+165
+00:16:11,040 --> 00:16:18,560
+By moving my eyes a little I could see my face 
+in the mirror behind Al: red, deeply lined,  
 
-246
-00:16:11,290 --> 00:16:18,290
-By moving my eyes a little I could see my
-face in the mirror behind Al: red, deeply
+166
+00:16:19,600 --> 00:16:32,320
+a little amazed. 'Twenty years,' I heard myself 
+saying. 'Just twenty years ago tonight.'
+ 
+ 
 
-247
-00:16:18,290 --> 00:16:21,450
-lined, a little amazed.
-
-248
-00:16:21,450 --> 00:16:26,860
-'Twenty years,' I heard myself saying.
-
-249
-00:16:26,860 --> 00:16:28,089
-'Just twenty years ago tonight.'
-
-250
-00:16:28,089 --> 00:16:28,110
+167
+00:16:32,320 --> 00:16:32,856
 - THE END -
 

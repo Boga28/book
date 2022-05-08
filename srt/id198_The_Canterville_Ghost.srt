@@ -1,2332 +1,1521 @@
 1
-00:00:07,960 --> 00:00:12,520
-Mr Hiram B. Otis was a rich American from
-New York.
+00:00:07,840 --> 00:00:11,760
+Mr Hiram B. Otis was a rich 
+American from New York.  
 
 2
-00:00:12,520 --> 00:00:17,290
-He had come to live and work in England, but
-he did not want to live in London.
+00:00:12,320 --> 00:00:17,040
+He had come to live and work in England, 
+but he did not want to live in London.  
 
 3
-00:00:17,290 --> 00:00:19,520
-He did not want to live in the city.
+00:00:17,040 --> 00:00:22,160
+He did not want to live in the city. He wanted 
+to live in the countryside outside London.
 
 4
-00:00:19,520 --> 00:00:23,800
-He wanted to live in the countryside outside
-London.
+00:00:23,200 --> 00:00:27,280
+Canterville Chase was a large 
+and very old house near London.  
 
 5
-00:00:23,800 --> 00:00:28,300
-Canterville Chase was a large and very old
-house near London.
-
-6
-00:00:28,300 --> 00:00:31,119
-Lord Canterville, the owner, wanted to sell
-it.
-
-7
-00:00:31,119 --> 00:00:34,770
+00:00:28,000 --> 00:00:34,320
+Lord Canterville, the owner, wanted to sell it. 
 So Mr Hiram B. Otis visited Lord Canterville.
 
+6
+00:00:35,360 --> 00:00:42,320
+'I do not live in Canterville Chase,' Lord 
+Canterville said to Mr Otis. 'I do not want  
+
+7
+00:00:42,320 --> 00:00:47,040
+to live there. The house has a 
+ghost - The Canterville Ghost.'
+
 8
-00:00:34,770 --> 00:00:40,760
-'I do not live in Canterville Chase,' Lord
-Canterville said to Mr Otis.
+00:00:48,000 --> 00:00:53,680
+'I come from America,' said Mr 
+Otis. 'America is a modern country.  
 
 9
-00:00:40,760 --> 00:00:43,649
-'I do not want to live there.
+00:00:53,680 --> 00:00:57,840
+I don't believe in ghosts. Have 
+you seen this Canterville Ghost?'
 
 10
-00:00:43,649 --> 00:00:47,510
-The house has a ghost - The Canterville Ghost.'
+00:00:58,640 --> 00:01:02,960
+'No,' said Lord Canterville, 
+'but I have heard it at night.'
 
 11
-00:00:47,510 --> 00:00:51,699
-'I come from America,' said Mr Otis.
+00:01:03,840 --> 00:01:10,080
+'I don't believe in ghosts,' Mr Otis 
+said again. 'No one has found a ghost.  
 
 12
-00:00:51,699 --> 00:00:53,780
-'America is a modern country.
+00:01:10,080 --> 00:01:15,040
+No one has put a ghost in a museum. And 
+you haven't seen this ghost either.'
 
 13
-00:00:53,780 --> 00:00:55,510
-I don't believe in ghosts.
+00:01:15,840 --> 00:01:23,040
+'But several members of my family have seen it,' 
+said Lord Canterville. 'My aunt saw the ghost.  
 
 14
-00:00:55,510 --> 00:00:58,719
-Have you seen this Canterville Ghost?'
+00:01:23,680 --> 00:01:27,520
+She was so frightened that she 
+was ill for the rest of her life.  
 
 15
-00:00:58,719 --> 00:01:03,219
-'No,' said Lord Canterville, 'but I have heard
-it at night.'
+00:01:28,240 --> 00:01:33,200
+Also, the servants have seen it so they 
+will not stay in the house at night.  
 
 16
-00:01:03,219 --> 00:01:07,590
-'I don't believe in ghosts,' Mr Otis said
-again.
+00:01:34,000 --> 00:01:41,440
+Only the housekeeper, Mrs Umney, lives in 
+Canterville Chase. Mrs Umney lives there alone.'
 
 17
-00:01:07,590 --> 00:01:10,300
-'No one has found a ghost.
+00:01:42,720 --> 00:01:45,760
+'I want to buy the house,' said Mr Otis.  
 
 18
-00:01:10,300 --> 00:01:12,600
-No one has put a ghost in a museum.
+00:01:45,760 --> 00:01:50,640
+'I'll buy the ghost as well. Will you sell 
+Canterville Chase? Will you sell the ghost?'
 
 19
-00:01:12,600 --> 00:01:15,890
-And you haven't seen this ghost either.'
+00:01:51,760 --> 00:01:55,920
+'Yes, I will,' said Lord 
+Canterville. 'But, please remember,  
 
 20
-00:01:15,890 --> 00:01:21,119
-'But several members of my family have seen
-it,' said Lord Canterville.
+00:01:56,480 --> 00:02:07,840
+I told you about the ghost 
+before you bought the house.'
 
 21
-00:01:21,119 --> 00:01:23,890
-'My aunt saw the ghost.
+00:02:10,880 --> 00:02:16,880
+Mr Hiram B. Otis bought Canterville Chase. 
+Then his family came to England from America.  
 
 22
-00:01:23,890 --> 00:01:28,520
-She was so frightened that she was ill for
-the rest of her life.
+00:02:17,680 --> 00:02:21,840
+He had a wife called Lucretia, 
+three sons and a daughter.
 
 23
-00:01:28,520 --> 00:01:33,909
-Also, the servants have seen it so they will
-not stay in the house at night.
+00:02:22,640 --> 00:02:29,040
+The eldest son, Washington, was almost twenty 
+years old. He was good-looking and had fair  
 
 24
-00:01:33,909 --> 00:01:39,420
-Only the housekeeper, Mrs Umney, lives in
-Canterville Chase.
+00:02:29,040 --> 00:02:36,320
+hair. His two young brothers were twins. They 
+were twelve years old. The daughter, Virginia,  
 
 25
-00:01:39,420 --> 00:01:41,649
-Mrs Umney lives there alone.'
+00:02:36,320 --> 00:02:41,360
+was fifteen years old. She had 
+large blue eyes and a lovely face.
 
 26
-00:01:41,649 --> 00:01:46,090
-'I want to buy the house,' said Mr Otis.
+00:02:42,720 --> 00:02:45,760
+Mr Otis took his family to 
+live at Canterville Chase.  
 
 27
-00:01:46,090 --> 00:01:47,869
-'I'll buy the ghost as well.
+00:02:46,640 --> 00:02:52,560
+The old house was in the countryside west of 
+London. Mr Otis and his family travelled from  
 
 28
-00:01:47,869 --> 00:01:49,880
-Will you sell Canterville Chase?
+00:02:52,560 --> 00:02:58,080
+London by train. Then they rode to the 
+house in a wagon pulled by two horses.
 
 29
-00:01:49,880 --> 00:01:51,090
-Will you sell the ghost?'
+00:02:59,520 --> 00:03:06,720
+Canterville Chase was big and old. Trees grew 
+all around the house. The Otis family wanted to  
 
 30
-00:01:51,090 --> 00:01:54,540
-'Yes, I will,' said Lord Canterville.
+00:03:06,720 --> 00:03:12,800
+stop and look at the outside of the house, but 
+the sky darkened. A thunderstorm was coming.  
 
 31
-00:01:54,540 --> 00:02:11,070
-'But, please remember, I told you about the
-ghost before you bought the house.'
+00:03:13,760 --> 00:03:17,840
+Rain started to fall, so the family 
+went inside the house quickly.
 
 32
-00:02:11,070 --> 00:02:14,840
-Mr Hiram B. Otis bought Canterville Chase.
+00:03:19,280 --> 00:03:25,680
+Mrs Umney, the housekeeper, was waiting for them 
+by the front door. She was an old woman and wore  
 
 33
-00:02:14,840 --> 00:02:17,930
-Then his family came to England from America.
+00:03:25,680 --> 00:03:31,840
+a black dress and white apron. She lived at 
+Canterville Chase and looked after the house.
 
 34
-00:02:17,930 --> 00:02:22,770
-He had a wife called Lucretia, three sons
-and a daughter.
+00:03:32,480 --> 00:03:37,520
+'Welcome to Canterville Chase,' said 
+Mrs Umney. 'Would you like some tea?'
 
 35
-00:02:22,770 --> 00:02:27,260
-The eldest son, Washington, was almost twenty
-years old.
-
-36
-00:02:27,260 --> 00:02:30,330
-He was good-looking and had fair hair.
-
-37
-00:02:30,330 --> 00:02:32,750
-His two young brothers were twins.
-
-38
-00:02:32,750 --> 00:02:34,710
-They were twelve years old.
-
-39
-00:02:34,710 --> 00:02:38,600
-The daughter, Virginia, was fifteen years
-old.
-
-40
-00:02:38,600 --> 00:02:42,890
-She had large blue eyes and a lovely face.
-
-41
-00:02:42,890 --> 00:02:46,820
-Mr Otis took his family to live at Canterville
-Chase.
-
-42
-00:02:46,820 --> 00:02:50,700
-The old house was in the countryside west
-of London.
-
-43
-00:02:50,700 --> 00:02:54,610
-Mr Otis and his family travelled from London
-by train.
-
-44
-00:02:54,610 --> 00:03:00,070
-Then they rode to the house in a wagon pulled
-by two horses.
-
-45
-00:03:00,070 --> 00:03:03,140
-Canterville Chase was big and old.
-
-46
-00:03:03,140 --> 00:03:05,570
-Trees grew all around the house.
-
-47
-00:03:05,570 --> 00:03:11,220
-The Otis family wanted to stop and look at
-the outside of the house, but the sky darkened.
-
-48
-00:03:11,220 --> 00:03:13,670
-A thunderstorm was coming.
-
-49
-00:03:13,670 --> 00:03:19,490
-Rain started to fall, so the family went inside
-the house quickly.
-
-50
-00:03:19,490 --> 00:03:24,060
-Mrs Umney, the housekeeper, was waiting for
-them by the front door.
-
-51
-00:03:24,060 --> 00:03:28,510
-She was an old woman and wore a black dress
-and white apron.
-
-52
-00:03:28,510 --> 00:03:32,140
-She lived at Canterville Chase and looked
-after the house.
-
-53
-00:03:32,140 --> 00:03:36,230
-'Welcome to Canterville Chase,' said Mrs Umney.
-
-54
-00:03:36,230 --> 00:03:38,770
-'Would you like some tea?'
-
-55
-00:03:38,770 --> 00:03:41,990
+00:03:38,400 --> 00:03:40,560
 'Yes, please,' said Mrs Otis.
 
-56
-00:03:41,990 --> 00:03:45,680
-The Otis family followed Mrs Umney into the
-library.
+36
+00:03:41,760 --> 00:03:47,200
+The Otis family followed Mrs Umney into the 
+library. There was a big table in the centre of  
 
-57
-00:03:45,680 --> 00:03:50,010
-There was a big table in the centre of the
-room and many chairs.
+37
+00:03:47,200 --> 00:03:53,600
+the room and many chairs. Mrs Umney put teacups 
+on the table, then she brought a pot of tea.
 
-58
-00:03:50,010 --> 00:03:55,510
-Mrs Umney put teacups on the table, then she
-brought a pot of tea.
+38
+00:03:55,280 --> 00:04:01,360
+The Otises sat in the library and drank their tea. 
+They looked out of a large window at the rain.  
 
-59
-00:03:55,510 --> 00:03:59,230
-The Otises sat in the library and drank their
-tea.
+39
+00:04:02,240 --> 00:04:08,720
+The rain was falling heavily and the sky was 
+black. They heard thunder and they saw lightning.
 
-60
-00:03:59,230 --> 00:04:02,450
-They looked out of a large window at the rain.
+40
+00:04:09,680 --> 00:04:15,840
+Mrs Otis looked around the room. There were many 
+books on bookshelves. There were paintings on  
 
-61
-00:04:02,450 --> 00:04:06,580
-The rain was falling heavily and the sky was
-black.
+41
+00:04:15,840 --> 00:04:22,480
+the walls. There was also a red stain on the 
+floor. The red stain was by the fireplace.
 
-62
-00:04:06,580 --> 00:04:09,940
-They heard thunder and they saw lightning.
-
-63
-00:04:09,940 --> 00:04:12,490
-Mrs Otis looked around the room.
-
-64
-00:04:12,490 --> 00:04:14,990
-There were many books on bookshelves.
-
-65
-00:04:14,990 --> 00:04:17,380
-There were paintings on the walls.
-
-66
-00:04:17,380 --> 00:04:20,790
-There was also a red stain on the floor.
-
-67
-00:04:20,790 --> 00:04:22,930
-The red stain was by the fireplace.
-
-68
-00:04:22,930 --> 00:04:25,830
-'What is this red stain?'
-
-69
-00:04:25,830 --> 00:04:28,530
+42
+00:04:23,680 --> 00:04:28,320
+'What is this red stain?' 
 Mrs Otis asked Mrs Umney.
 
-70
-00:04:28,530 --> 00:04:33,210
-'It is blood,' answered the old housekeeper
-in a quiet voice.
+43
+00:04:28,320 --> 00:04:32,720
+'It is blood,' answered the old 
+housekeeper in a quiet voice.
 
-71
-00:04:33,210 --> 00:04:37,949
-'I don't want a blood-stain in my library,'
-said Mrs Otis.
+44
+00:04:33,520 --> 00:04:36,080
+'I don't want a blood-stain in my library,'  
 
-72
-00:04:37,949 --> 00:04:39,440
-'Please remove the stain.
-
-73
-00:04:39,440 --> 00:04:41,860
+45
+00:04:36,080 --> 00:04:40,720
+said Mrs Otis. 'Please remove the stain. 
 Please clean the floor immediately.'
 
-74
-00:04:41,860 --> 00:04:43,490
-The old woman smiled.
+46
+00:04:41,680 --> 00:04:47,120
+The old woman smiled. 'It is the 
+blood of Lady Eleanore de Canterville.  
 
-75
-00:04:43,490 --> 00:04:48,050
-'It is the blood of Lady Eleanore de Canterville.
+47
+00:04:47,760 --> 00:04:55,280
+She was murdered by her husband, Sir 
+Simon de Canterville, in 1575. The  
 
-76
-00:04:48,050 --> 00:04:54,370
-She was murdered by her husband, Sir Simon
-de Canterville, in 1575.
+48
+00:04:55,280 --> 00:05:00,960
+blood-stain has been here for over three 
+hundred years. It cannot be removed.'
 
-77
-00:04:54,370 --> 00:04:59,449
-The blood-stain has been here for over three
-hundred years.
+49
+00:05:01,840 --> 00:05:07,600
+'Nonsense,' said Washington Otis. 'I have 
+some Pinkerton's Stain Remover from America.  
 
-78
-00:04:59,449 --> 00:05:01,680
-It cannot be removed.'
+50
+00:05:07,600 --> 00:05:09,840
+It can remove any stain. Watch.'
 
-79
-00:05:01,680 --> 00:05:04,560
-'Nonsense,' said Washington Otis.
+51
+00:05:10,480 --> 00:05:15,520
+Washington Otis took the stain remover 
+from a bag. Pinkerton's Stain Remover  
 
-80
-00:05:04,560 --> 00:05:07,830
-'I have some Pinkerton's Stain Remover from
-America.
+52
+00:05:15,520 --> 00:05:21,920
+looked like a small black stick. He rubbed 
+the stick on the blood-stain. A minute later  
 
-81
-00:05:07,830 --> 00:05:09,780
-It can remove any stain.
+53
+00:05:21,920 --> 00:05:26,400
+the floor was clean. The stick had 
+removed the stain quickly and easily.
 
-82
-00:05:09,780 --> 00:05:10,780
-Watch.'
+54
+00:05:28,000 --> 00:05:34,160
+Mrs Umney looked at the floor. She was 
+frightened. No one had removed the blood-stain  
 
-83
-00:05:10,780 --> 00:05:14,469
-Washington Otis took the stain remover from
-a bag.
+55
+00:05:34,160 --> 00:05:38,640
+for three hundred years. Mrs 
+Umney was very frightened.
 
-84
-00:05:14,469 --> 00:05:18,290
-Pinkerton's Stain Remover looked like a small
-black stick.
+56
+00:05:39,520 --> 00:05:44,400
+'Pinkerton's can remove anything,' said 
+Washington Otis. 'The blood-stain has gone.'
 
-85
-00:05:18,290 --> 00:05:20,150
-He rubbed the stick on the blood-stain.
+57
+00:05:49,920 --> 00:05:56,880
+Lightning flashed and lit the library. Thunder 
+crashed over the house. Mrs Umney fainted.
 
-86
-00:05:20,150 --> 00:05:23,860
-A minute later the floor was clean.
+58
+00:05:57,840 --> 00:06:03,440
+Mr and Mrs Otis ran across the library. They 
+helped the old housekeeper who lay on the floor.  
 
-87
-00:05:23,860 --> 00:05:28,270
-The stick had removed the stain quickly and
-easily.
+59
+00:06:04,080 --> 00:06:07,760
+Mrs Umney's eyes were closed 
+and her face was pale.
 
-88
-00:05:28,270 --> 00:05:30,610
-Mrs Umney looked at the floor.
+60
+00:06:08,720 --> 00:06:13,200
+'Mrs Umney! Mrs Umney!' cried 
+Mrs Otis. 'Can you speak?'
 
-89
-00:05:30,610 --> 00:05:32,120
-She was frightened.
+61
+00:06:14,080 --> 00:06:15,840
+Mrs Umney opened her eyes.  
 
-90
-00:05:32,120 --> 00:05:36,690
-No one had removed the blood-stain for three
-hundred years.
+62
+00:06:17,200 --> 00:06:24,880
+'Trouble will come to this house,' she said. 'I 
+have seen the ghost. The ghost will come to you.'
 
-91
-00:05:36,690 --> 00:05:40,199
-Mrs Umney was very frightened.
+63
+00:06:26,160 --> 00:06:32,400
+All the Otises helped Mrs Umney to stand 
+up. 'The ghost will come,' she said again.  
 
-92
-00:05:40,199 --> 00:05:43,120
-'Pinkerton's can remove anything,' said Washington
-Otis.
+64
+00:06:33,120 --> 00:06:40,320
+'You must not remove the blood-stain. You must not 
+clean the library floor. The ghost will be angry.'
 
-93
-00:05:43,120 --> 00:05:50,210
-'The blood-stain has gone.'
-
-94
-00:05:50,210 --> 00:05:53,030
-Lightning flashed and lit the library.
-
-95
-00:05:53,030 --> 00:05:55,780
-Thunder crashed over the house.
-
-96
-00:05:55,780 --> 00:05:58,030
-Mrs Umney fainted.
-
-97
-00:05:58,030 --> 00:06:01,060
-Mr and Mrs Otis ran across the library.
-
-98
-00:06:01,060 --> 00:06:04,360
-They helped the old housekeeper who lay on
-the floor.
-
-99
-00:06:04,360 --> 00:06:08,389
-Mrs Umney's eyes were closed and her face
-was pale.
-
-100
-00:06:08,389 --> 00:06:10,060
-'Mrs Umney!
-
-101
-00:06:10,060 --> 00:06:11,240
-Mrs Umney!'
-
-102
-00:06:11,240 --> 00:06:12,729
-cried Mrs Otis.
-
-103
-00:06:12,729 --> 00:06:14,400
-'Can you speak?'
-
-104
-00:06:14,400 --> 00:06:17,379
-Mrs Umney opened her eyes.
-
-105
-00:06:17,379 --> 00:06:20,740
-'Trouble will come to this house,' she said.
-
-106
-00:06:20,740 --> 00:06:23,520
-'I have seen the ghost.
-
-107
-00:06:23,520 --> 00:06:26,389
-The ghost will come to you.'
-
-108
-00:06:26,389 --> 00:06:29,430
-All the Otises helped Mrs Umney to stand up.
-
-109
-00:06:29,430 --> 00:06:33,319
-'The ghost will come,' she said again.
-
-110
-00:06:33,319 --> 00:06:35,479
-'You must not remove the blood-stain.
-
-111
-00:06:35,479 --> 00:06:38,979
-You must not clean the library floor.
-
-112
-00:06:38,979 --> 00:06:41,539
-The ghost will be angry.'
-
-113
-00:06:41,539 --> 00:06:44,219
+65
+00:06:41,440 --> 00:06:43,920
 Then Mrs Umney went upstairs to her room.
 
-114
-00:06:44,219 --> 00:06:47,849
-'Let's look for the ghost,' said the Otis
-boys.
+66
+00:06:44,880 --> 00:06:49,120
+'Let's look for the ghost,' said the 
+Otis boys. 'Let's look round the house.'
 
-115
-00:06:47,849 --> 00:06:50,590
-'Let's look round the house.'
-
-116
-00:06:50,590 --> 00:06:53,669
-The Otises looked round the house together.
-
-117
-00:06:53,669 --> 00:07:09,309
+67
+00:06:50,320 --> 00:07:01,840
+The Otises looked round the house together. 
 But they did not see the Canterville Ghost.
 
-118
-00:07:09,309 --> 00:07:12,210
-That night the family went to bed early.
+68
+00:07:09,040 --> 00:07:15,200
+That night the family went to bed early. 
+The storm continued all night. Next  
 
-119
-00:07:12,210 --> 00:07:15,289
-The storm continued all night.
+69
+00:07:15,200 --> 00:07:20,080
+morning they went into the library. The 
+blood-stain had reappeared on the floor.
 
-120
-00:07:15,289 --> 00:07:17,690
-Next morning they went into the library.
+70
+00:07:21,120 --> 00:07:24,640
+'I'll remove this blood-stain 
+once more,' said Washington Otis.  
 
-121
-00:07:17,690 --> 00:07:21,449
-The blood-stain had reappeared on the floor.
+71
+00:07:25,200 --> 00:07:30,240
+'Mother doesn't want a blood-stain in 
+the library. I'll clean the floor again.'
 
-122
-00:07:21,449 --> 00:07:25,539
-'I'll remove this blood-stain once more,'
-said Washington Otis.
+72
+00:07:30,240 --> 00:07:33,200
+He removed the blood-stain 
+with Pinkerton's Stain Remover.  
 
-123
-00:07:25,539 --> 00:07:28,039
-'Mother doesn't want a blood-stain in the
-library.
+73
+00:07:33,840 --> 00:07:39,040
+The library floor was clean. But the next 
+morning the stain had come back again.
 
-124
-00:07:28,039 --> 00:07:30,479
-I'll clean the floor again.'
+74
+00:07:40,400 --> 00:07:46,160
+'This is very strange,' said Mr Otis. 
+'I'll lock the library door at night.  
 
-125
-00:07:30,479 --> 00:07:34,110
-He removed the blood-stain with Pinkerton's
-Stain Remover.
+75
+00:07:46,160 --> 00:07:50,000
+No one can come into the library. No 
+one can put a stain on the floor.'
 
-126
-00:07:34,110 --> 00:07:36,580
-The library floor was clean.
+76
+00:07:50,960 --> 00:07:56,960
+'I don't think Pinkerton's Stain Remover is bad,' 
+said Washington Otis. 'I think there really is a  
 
-127
-00:07:36,580 --> 00:07:39,919
-But the next morning the stain had come back
-again.
+77
+00:07:56,960 --> 00:08:02,320
+ghost. The ghost is making the blood-stain. The 
+ghost puts the stain on the floor at night.'
 
-128
-00:07:39,919 --> 00:07:44,099
-'This is very strange,' said Mr Otis.
+78
+00:08:04,480 --> 00:08:11,440
+'We must find this ghost,' said Mr Hiram 
+B. Otis. 'It must stop making these stains.  
 
-129
-00:07:44,099 --> 00:07:46,349
-'I'll lock the library door at night.
+79
+00:08:11,440 --> 00:08:13,760
+Your mother does not like 
+blood on the library floor.'
 
-130
-00:07:46,349 --> 00:07:48,280
-No one can come into the library.
+80
+00:08:15,520 --> 00:08:20,880
+That day the family went out. They walked 
+around the countryside near Canterville Chase.  
 
-131
-00:07:48,280 --> 00:07:50,689
-No one can put a stain on the floor.'
+81
+00:08:21,520 --> 00:08:26,880
+They went to the nearby village. They looked 
+at the old village houses. Then they walked  
 
-132
-00:07:50,689 --> 00:07:55,639
-'I don't think Pinkerton's Stain Remover is
-bad,' said Washington Otis.
+82
+00:08:26,880 --> 00:08:32,160
+back to Canterville Chase through the woods. It 
+was a summer evening and the weather was fine.
 
-133
-00:07:55,639 --> 00:07:57,990
-'I think there really is a ghost.
+83
+00:08:36,080 --> 00:08:42,640
+It was late when they got back to the house. 
+The Otises were hungry and tired. After eating  
 
-134
-00:07:57,990 --> 00:08:00,110
-The ghost is making the blood-stain.
+84
+00:08:42,640 --> 00:08:48,880
+supper they went to bed. The bedrooms were 
+upstairs. There was a long corridor upstairs.  
 
-135
-00:08:00,110 --> 00:08:03,569
-The ghost puts the stain on the floor at night.'
-
-136
-00:08:03,569 --> 00:08:09,150
-'We must find this ghost,' said Mr Hiram B.
-Otis.
-
-137
-00:08:09,150 --> 00:08:11,699
-'It must stop making these stains.
-
-138
-00:08:11,699 --> 00:08:15,770
-Your mother does not like blood on the library
-floor.'
-
-139
-00:08:15,770 --> 00:08:18,319
-That day the family went out.
-
-140
-00:08:18,319 --> 00:08:21,780
-They walked around the countryside near Canterville
-Chase.
-
-141
-00:08:21,780 --> 00:08:23,719
-They went to the nearby village.
-
-142
-00:08:23,719 --> 00:08:26,419
-They looked at the old village houses.
-
-143
-00:08:26,419 --> 00:08:29,939
-Then they walked back to Canterville Chase
-through the woods.
-
-144
-00:08:29,939 --> 00:08:36,339
-It was a summer evening and the weather was
-fine.
-
-145
-00:08:36,339 --> 00:08:39,030
-It was late when they got back to the house.
-
-146
-00:08:39,030 --> 00:08:42,290
-The Otises were hungry and tired.
-
-147
-00:08:42,290 --> 00:08:44,960
-After eating supper they went to bed.
-
-148
-00:08:44,960 --> 00:08:46,450
-The bedrooms were upstairs.
-
-149
-00:08:46,450 --> 00:08:49,730
-There was a long corridor upstairs.
-
-150
-00:08:49,730 --> 00:08:54,100
+85
+00:08:49,440 --> 00:08:54,000
 The bedroom doors were along this corridor.
 
-151
-00:08:54,100 --> 00:08:56,690
-Mr Otis woke up after midnight.
+86
+00:08:54,000 --> 00:08:59,680
+Mr Otis woke up after midnight. There 
+was a strange noise outside his room.  
 
-152
-00:08:56,690 --> 00:09:00,700
-There was a strange noise outside his room.
-
-153
-00:09:00,700 --> 00:09:03,230
-The sound was like metal chains.
-
-154
-00:09:03,230 --> 00:09:06,590
+87
+00:09:00,480 --> 00:09:05,440
+The sound was like metal chains. 
 The chains were nabbing together.
 
-155
-00:09:06,590 --> 00:09:10,680
-Mr Otis got out of bed and opened the bedroom
-door.
+88
+00:09:06,400 --> 00:09:11,760
+Mr Otis got out of bed and opened the 
+bedroom door. He-looked into the corridor.
 
-156
-00:09:10,680 --> 00:09:12,290
-He-looked into the corridor.
+89
+00:09:12,880 --> 00:09:20,640
+He saw the Canterville Ghost in the corridor. 
+The ghost was an old man with burning red eyes.  
 
-157
-00:09:12,290 --> 00:09:16,590
-He saw the Canterville Ghost in the corridor.
+90
+00:09:21,280 --> 00:09:28,240
+He had long grey hair and wore very old-fashioned 
+clothes. There were chains on his hands and feet.  
 
-158
-00:09:16,590 --> 00:09:21,490
-The ghost was an old man with burning red
-eyes.
+91
+00:09:28,960 --> 00:09:32,160
+He was rubbing the chains 
+together so they made a noise.
 
-159
-00:09:21,490 --> 00:09:25,690
-He had long grey hair and wore very old-fashioned
-clothes.
+92
+00:09:33,360 --> 00:09:36,560
+'My dear sir, your chains make a terrible noise,'  
 
-160
-00:09:25,690 --> 00:09:28,650
-There were chains on his hands and feet.
+93
+00:09:37,120 --> 00:09:41,360
+Mr Otis said to the ghost. 'You 
+must put some oil on those chains.  
 
-161
-00:09:28,650 --> 00:09:32,910
-He was rubbing the chains together so they
-made a noise.
+94
+00:09:42,080 --> 00:09:47,520
+Here is some Tammany Rising Sun Oil from the 
+United States. Please put the oil on your chains.'
 
-162
-00:09:32,910 --> 00:09:39,640
-'My dear sir, your chains make a terrible
-noise,' Mr Otis said to the ghost.
+95
+00:09:48,800 --> 00:09:52,160
+Mr Otis put a bottle of oil 
+on a table in the corridor.  
 
-163
-00:09:39,640 --> 00:09:42,330
-'You must put some oil on those chains.
+96
+00:09:52,800 --> 00:09:55,840
+Then he closed his bedroom 
+door and went back to bed.
 
-164
-00:09:42,330 --> 00:09:46,060
-Here is some Tammany Rising Sun Oil from the
-United States.
+97
+00:09:58,400 --> 00:10:03,920
+The Canterville Ghost was very surprised. 
+He had lived in Canterville Chase for  
 
-165
-00:09:46,060 --> 00:09:49,020
-Please put the oil on your chains.'
+98
+00:10:03,920 --> 00:10:10,080
+three hundred years. Everyone was frightened 
+of him, because everyone was afraid of ghosts.  
 
-166
-00:09:49,020 --> 00:09:53,070
-Mr Otis put a bottle of oil on a table in
-the corridor.
-
-167
-00:09:53,070 --> 00:09:58,660
-Then he closed his bedroom door and went back
-to bed.
-
-168
-00:09:58,660 --> 00:10:01,970
-The Canterville Ghost was very surprised.
-
-169
-00:10:01,970 --> 00:10:06,650
-He had lived in Canterville Chase for three
-hundred years.
-
-170
-00:10:06,650 --> 00:10:11,030
-Everyone was frightened of him, because everyone
-was afraid of ghosts.
-
-171
-00:10:11,030 --> 00:10:14,570
+99
+00:10:10,800 --> 00:10:13,440
 But this American gentleman was not afraid.
 
-172
-00:10:14,570 --> 00:10:17,780
-The Canterville Ghost decided to work harder.
+100
+00:10:14,320 --> 00:10:18,960
+The Canterville Ghost decided to 
+work harder. He wanted to frighten  
 
-173
-00:10:17,780 --> 00:10:20,530
-He wanted to frighten the American.
+101
+00:10:18,960 --> 00:10:25,040
+the American. He made a terrible noise and 
+shone a horrible green light in the corridor.
 
-174
-00:10:20,530 --> 00:10:25,530
-He made a terrible noise and shone a horrible
-green light in the corridor.
+102
+00:10:26,000 --> 00:10:30,400
+Another door opened at the end of 
+the corridor. Mr Otis's youngest  
 
-175
-00:10:25,530 --> 00:10:29,200
-Another door opened at the end of the corridor.
+103
+00:10:30,400 --> 00:10:36,240
+sons came out of their bedroom. The two young boys 
+had the pillows from their beds in their hands.  
 
-176
-00:10:29,200 --> 00:10:32,940
-Mr Otis's youngest sons came out of their
-bedroom.
+104
+00:10:37,040 --> 00:10:40,960
+They threw the pillows at the 
+ghost. They laughed at the ghost.
 
-177
-00:10:32,940 --> 00:10:37,240
-The two young boys had the pillows from their
-beds in their hands.
+105
+00:10:43,520 --> 00:10:49,600
+The ghost was amazed and upset. No one 
+had laughed at him before. He was a ghost.  
 
-178
-00:10:37,240 --> 00:10:39,770
-They threw the pillows at the ghost.
+106
+00:10:50,160 --> 00:10:56,720
+Everyone is frightened of ghosts. No one had 
+ever laughed at the Canterville Ghost before.
 
-179
-00:10:39,770 --> 00:10:43,720
-They laughed at the ghost.
+107
+00:10:57,840 --> 00:11:00,560
+The Canterville Ghost did not know what to do.  
 
-180
-00:10:43,720 --> 00:10:46,420
-The ghost was amazed and upset.
+108
+00:11:01,280 --> 00:11:04,480
+He disappeared through the wall 
+and the house became quiet.
 
-181
-00:10:46,420 --> 00:10:48,920
-No one had laughed at him before.
+109
+00:11:05,520 --> 00:11:08,000
+The ghost went to the secret room where he lived.  
 
-182
-00:10:48,920 --> 00:10:50,780
-He was a ghost.
+110
+00:11:08,560 --> 00:11:12,240
+He sat down on a chair. He 
+thought about what had happened.
 
-183
-00:10:50,780 --> 00:10:53,100
-Everyone is frightened of ghosts.
+111
+00:11:13,360 --> 00:11:19,440
+He had frightened people for three hundred years. 
+He had looked through windows and frightened the  
 
-184
-00:10:53,100 --> 00:10:58,120
-No one had ever laughed at the Canterville
-Ghost before.
+112
+00:11:19,440 --> 00:11:24,720
+servants. He had knocked on bedroom doors. 
+He had frightened people in their beds.  
 
-185
-00:10:58,120 --> 00:11:01,540
-The Canterville Ghost did not know what to
-do.
+113
+00:11:25,280 --> 00:11:31,200
+He had blown out candles in the night. He had 
+turned green and made noises with his chains.  
 
-186
-00:11:01,540 --> 00:11:05,740
-He disappeared through the wall and the house
-became quiet.
+114
+00:11:31,760 --> 00:11:38,640
+Everyone had always been frightened. No one had 
+given him Rising Sun Oil to put on his chains.  
 
-187
-00:11:05,740 --> 00:11:08,760
-The ghost went to the secret room where he
-lived.
+115
+00:11:39,360 --> 00:11:56,320
+No one had thrown pillows at 
+him. He was a very unhappy ghost.
 
-188
-00:11:08,760 --> 00:11:10,820
-He sat down on a chair.
+116
+00:11:56,320 --> 00:12:02,480
+Washington Otis removed the blood-stain in 
+the library every day. Every morning the  
 
-189
-00:11:10,820 --> 00:11:13,580
-He thought about what had happened.
+117
+00:12:02,480 --> 00:12:07,040
+stain had reappeared. But the stain 
+was no longer the color of blood.  
 
-190
-00:11:13,580 --> 00:11:17,390
-He had frightened people for three hundred
-years.
+118
+00:12:07,920 --> 00:12:13,600
+One morning it was brown. Another morning 
+it was purple. Then it became bright green.
 
-191
-00:11:17,390 --> 00:11:20,680
-He had looked through windows and frightened
-the servants.
+119
+00:12:14,560 --> 00:12:19,520
+The Otises laughed at the blood-stain. They 
+looked for it every morning before breakfast.
 
-192
-00:11:20,680 --> 00:11:23,030
-He had knocked on bedroom doors.
+120
+00:12:20,480 --> 00:12:23,920
+'What color is it today?' asked Washington Otis.
 
-193
-00:11:23,030 --> 00:11:25,530
-He had frightened people in their beds.
+121
+00:12:23,920 --> 00:12:27,760
+'It's green!' shouted the 
+twins. 'It's green blood today.'
 
-194
-00:11:25,530 --> 00:11:28,440
-He had blown out candles in the night.
+122
+00:12:28,880 --> 00:12:31,920
+They laughed at the green 
+blood-stain on the library floor.
 
-195
-00:11:28,440 --> 00:11:32,450
-He had turned green and made noises with his
-chains.
+123
+00:12:33,280 --> 00:12:37,840
+Virginia Otis did not laugh. The 
+young girl was silent at breakfast.  
 
-196
-00:11:32,450 --> 00:11:35,160
-Everyone had always been frightened.
+124
+00:12:38,640 --> 00:12:43,920
+The blood-stain made her feel sad and she almost 
+cried when she saw the bright green stain.  
 
-197
-00:11:35,160 --> 00:11:39,570
-No one had given him Rising Sun Oil to put
-on his chains.
+125
+00:12:44,640 --> 00:12:49,520
+She was sure that the ghost put the stain 
+on the floor. She felt sorry for the ghost.
 
-198
-00:11:39,570 --> 00:11:42,330
-No one had thrown pillows at him.
+126
+00:12:50,640 --> 00:12:56,720
+'The stain has been here for three hundred years,' 
+said Virginia. 'We have been here for three weeks.  
 
-199
-00:11:42,330 --> 00:11:56,500
-He was a very unhappy ghost.
+127
+00:12:57,280 --> 00:13:01,920
+The poor ghost puts the stain on the floor 
+every night. Can't you leave the stain there?'
 
-200
-00:11:56,500 --> 00:12:01,810
-Washington Otis removed the blood-stain in
-the library every day.
-
-201
-00:12:01,810 --> 00:12:04,840
-Every morning the stain had reappeared.
-
-202
-00:12:04,840 --> 00:12:08,230
-But the stain was no longer the color of blood.
-
-203
-00:12:08,230 --> 00:12:10,260
-One morning it was brown.
-
-204
-00:12:10,260 --> 00:12:12,200
-Another morning it was purple.
-
-205
-00:12:12,200 --> 00:12:14,780
-Then it became bright green.
-
-206
-00:12:14,780 --> 00:12:17,560
-The Otises laughed at the blood-stain.
-
-207
-00:12:17,560 --> 00:12:20,660
-They looked for it every morning before breakfast.
-
-208
-00:12:20,660 --> 00:12:24,220
-'What color is it today?' asked Washington
-Otis.
-
-209
-00:12:24,220 --> 00:12:25,480
-'It's green!'
-
-210
-00:12:25,480 --> 00:12:26,730
-shouted the twins.
-
-211
-00:12:26,730 --> 00:12:29,090
-'It's green blood today.'
-
-212
-00:12:29,090 --> 00:12:33,860
-They laughed at the green blood-stain on the
-library floor.
-
-213
-00:12:33,860 --> 00:12:36,060
-Virginia Otis did not laugh.
-
-214
-00:12:36,060 --> 00:12:38,930
-The young girl was silent at breakfast.
-
-215
-00:12:38,930 --> 00:12:43,890
-The blood-stain made her feel sad and she
-almost cried when she saw the bright green
-
-216
-00:12:43,890 --> 00:12:44,890
-stain.
-
-217
-00:12:44,890 --> 00:12:48,130
-She was sure that the ghost put the stain
-on the floor.
-
-218
-00:12:48,130 --> 00:12:50,240
-She felt sorry for the ghost.
-
-219
-00:12:50,240 --> 00:12:54,750
-'The stain has been here for three hundred
-years,' said Virginia.
-
-220
-00:12:54,750 --> 00:12:57,440
-'We have been here for three weeks.
-
-221
-00:12:57,440 --> 00:13:00,420
-The poor ghost puts the stain on the floor
-every night.
-
-222
-00:13:00,420 --> 00:13:03,220
-Can't you leave the stain there?'
-
-223
-00:13:03,220 --> 00:13:18,130
+128
+00:13:02,960 --> 00:13:05,840
 But the others did not listen to Virginia.
 
-224
-00:13:18,130 --> 00:13:22,670
-The second appearance of the ghost was on
-a Sunday night.
+129
+00:13:17,920 --> 00:13:23,760
+The second appearance of the ghost was on 
+a Sunday night. The Otises had all gone  
 
-225
-00:13:22,670 --> 00:13:25,040
-The Otises had all gone to bed.
+130
+00:13:23,760 --> 00:13:33,840
+to bed. Suddenly they were woken up. They 
+heard a terrible crashing noise downstairs.
 
-226
-00:13:25,040 --> 00:13:27,010
-Suddenly they were woken up.
+131
+00:13:35,920 --> 00:13:42,720
+The whole family ran out of their bedrooms. They 
+ran downstairs. It was dark but Mr Otis and his  
 
-227
-00:13:27,010 --> 00:13:32,760
-They heard a terrible crashing noise downstairs.
+132
+00:13:42,720 --> 00:13:48,880
+eldest son carried candles. They heard another 
+crashing noise in the hallway near the front door.
 
-228
-00:13:32,760 --> 00:13:38,680
-The whole family ran out of their bedrooms.
+133
+00:13:54,400 --> 00:13:57,840
+There was a suit of armor in the hallway. This  
 
-229
-00:13:38,680 --> 00:13:40,730
-They ran downstairs.
+134
+00:13:57,840 --> 00:14:03,680
+suit of armor was more than three hundred years 
+old. It had fallen over and made a loud noise.  
 
-230
-00:13:40,730 --> 00:13:45,700
-It was dark but Mr Otis and his eldest son
-carried candles.
+135
+00:14:04,560 --> 00:14:08,080
+The Canterville Ghost was sitting 
+on the floor next to the armor.
 
-231
-00:13:45,700 --> 00:13:54,690
-They heard another crashing noise in the hallway
-near the front door.
+136
+00:14:09,040 --> 00:14:15,120
+The ghost had tried to put on the suit of armor. 
+He wanted to walk around the house and frighten  
 
-232
-00:13:54,690 --> 00:13:57,640
-There was a suit of armor in the hallway.
-
-233
-00:13:57,640 --> 00:14:01,430
-This suit of armor was more than three hundred
-years old.
-
-234
-00:14:01,430 --> 00:14:04,810
-It had fallen over and made a loud noise.
-
-235
-00:14:04,810 --> 00:14:09,110
-The Canterville Ghost was sitting on the floor
-next to the armor.
-
-236
-00:14:09,110 --> 00:14:12,900
-The ghost had tried to put on the suit of
-armor.
-
-237
-00:14:12,900 --> 00:14:17,000
-He wanted to walk around the house and frighten
-the Otis family.
-
-238
-00:14:17,000 --> 00:14:18,680
-But the metal suit was too heavy.
-
-239
-00:14:18,680 --> 00:14:23,160
+137
+00:14:15,120 --> 00:14:21,680
+the Otis family. But the metal suit was too heavy. 
 The suit of armor had fallen onto the floor.
 
-240
-00:14:23,160 --> 00:14:26,490
-The Canterville Ghost was sitting beside the
-armor.
+138
+00:14:22,880 --> 00:14:25,680
+The Canterville Ghost was 
+sitting beside the armor.  
 
-241
-00:14:26,490 --> 00:14:28,190
-He was rubbing his knee.
+139
+00:14:26,240 --> 00:14:30,080
+He was rubbing his knee. He had hurt himself.
 
-242
-00:14:28,190 --> 00:14:30,330
-He had hurt himself.
+140
+00:14:30,080 --> 00:14:33,280
+Mr Hiram B. Otis pointed a gun at the ghost.  
 
-243
-00:14:30,330 --> 00:14:34,180
-Mr Hiram B. Otis pointed a gun at the ghost.
+141
+00:14:34,000 --> 00:14:40,000
+Washington Otis held his candle high in 
+the air. The Otis twins laughed loudly.  
 
-244
-00:14:34,180 --> 00:14:37,860
-Washington Otis held his candle high in the
-air.
-
-245
-00:14:37,860 --> 00:14:41,230
-The Otis twins laughed loudly.
-
-246
-00:14:41,230 --> 00:14:44,230
-Virginia was afraid and stood beside her mother.
-
-247
-00:14:44,230 --> 00:14:49,130
+142
+00:14:40,640 --> 00:14:46,320
+Virginia was afraid and stood beside her mother. 
 They all looked at the Canterville Ghost.
 
-248
-00:14:49,130 --> 00:14:51,350
-The ghost was very angry.
+143
+00:14:48,960 --> 00:14:55,760
+The ghost was very angry. He stood up and gave a 
+loud shout. He blew out the candle in Washington  
 
-249
-00:14:51,350 --> 00:14:54,130
-He stood up and gave a loud shout.
-
-250
-00:14:54,130 --> 00:14:57,190
-He blew out the candle in Washington Otis's
-hand.
-
-251
-00:14:57,190 --> 00:14:59,090
-There was no light in the hall.
-
-252
-00:14:59,090 --> 00:15:02,090
+144
+00:14:55,760 --> 00:15:01,440
+Otis's hand. There was no light in the hall. 
 Then the ghost ran up the stairs in the darkness.
 
-253
-00:15:02,090 --> 00:15:05,330
-He stopped at the top of the stairs and laughed.
+145
+00:15:02,400 --> 00:15:07,360
+He stopped at the top of the stairs and 
+laughed. He had a frightening laugh.  
 
-254
-00:15:05,330 --> 00:15:07,790
-He had a frightening laugh.
+146
+00:15:08,080 --> 00:15:13,920
+Men's hair had turned grey when they heard 
+him laugh. But the Otises were not afraid.
 
-255
-00:15:07,790 --> 00:15:11,840
-Men's hair had turned grey when they heard
-him laugh.
+147
+00:15:14,880 --> 00:15:20,640
+'Are you in pain?' asked Mrs Otis. 'I 
+have a bottle of Dr Dobell's medicine.  
 
-256
-00:15:11,840 --> 00:15:14,390
-But the Otises were not afraid.
+148
+00:15:20,640 --> 00:15:24,400
+It is good for stomach-aches and 
+headaches. Please take the medicine.'
 
-257
-00:15:14,390 --> 00:15:17,760
-'Are you in pain?' asked Mrs Otis.
+149
+00:15:25,440 --> 00:15:30,880
+The ghost looked at Mrs Otis angrily. 
+Then he disappeared in a green cloud  
 
-258
-00:15:17,760 --> 00:15:20,480
-'I have a bottle of Dr Dobell's medicine.
+150
+00:15:30,880 --> 00:15:38,000
+and went back to his secret room. He was very 
+unhappy. He had tried to put on the suit of armor,  
 
-259
-00:15:20,480 --> 00:15:23,610
-It is good for stomach-aches and headaches.
+151
+00:15:38,000 --> 00:15:53,840
+but it was too heavy. The armor had fallen 
+over and the ghost had hurt his leg.
 
-260
-00:15:23,610 --> 00:15:25,700
-Please take the medicine.'
+152
+00:15:56,080 --> 00:16:00,480
+The ghost stayed in his room during 
+the day. He came out at night  
 
-261
-00:15:25,700 --> 00:15:28,590
-The ghost looked at Mrs Otis angrily.
+153
+00:16:00,480 --> 00:16:06,880
+to visit the library. He repainted the 
+blood-stain every night. And every morning,  
 
-262
-00:15:28,590 --> 00:15:33,700
-Then he disappeared in a green cloud and went
-back to his secret room.
+154
+00:16:06,880 --> 00:16:11,360
+Washington Otis removed the blood-stain 
+with Pinkerton's Stain Remover.
 
-263
-00:15:33,700 --> 00:15:36,050
-He was very unhappy.
+155
+00:16:12,480 --> 00:16:19,120
+But the ghost had a problem. He had quickly 
+finished all his red paint. Now his brown and  
 
-264
-00:15:36,050 --> 00:15:40,230
-He had tried to put on the suit of armor,
-but it was too heavy.
+156
+00:16:19,120 --> 00:16:26,000
+purple paints were finished as well. So, sometimes 
+he painted the blood-stain green, sometimes blue.
 
-265
-00:15:40,230 --> 00:15:56,250
-The armor had fallen over and the ghost had
-hurt his leg.
+157
+00:16:27,200 --> 00:16:33,680
+The ghost made plans. He wanted to frighten 
+the Otis twins. He planned to visit the  
 
-266
-00:15:56,250 --> 00:15:59,280
-The ghost stayed in his room during the day.
+158
+00:16:33,680 --> 00:16:41,040
+twins in the night. He planned to turn himself 
+green and make a horrible noise. He planned to  
 
-267
-00:15:59,280 --> 00:16:02,560
-He came out at night to visit the library.
+159
+00:16:41,040 --> 00:16:46,880
+visit the twins in their bedroom. He planned to 
+touch them with his ice-cold hands in the dark.
 
-268
-00:16:02,560 --> 00:16:05,870
-He repainted the blood-stain every night.
+160
+00:16:48,240 --> 00:16:51,840
+He left his secret room at 
+midnight. The house was dark.
 
-269
-00:16:05,870 --> 00:16:12,750
-And every morning, Washington Otis removed
-the blood-stain with Pinkerton's Stain Remover.
+161
+00:16:52,480 --> 00:16:57,280
+He climbed the stairs and walked along 
+the corridor. The twins' bedroom was  
 
-270
-00:16:12,750 --> 00:16:15,060
-But the ghost had a problem.
+162
+00:16:57,280 --> 00:17:03,840
+at the end of the corridor round a corner. 
+He turned the corner. Suddenly he stopped.
 
-271
-00:16:15,060 --> 00:16:17,940
-He had quickly finished all his red paint.
+163
+00:17:04,880 --> 00:17:11,440
+In front of him was a round face with 
+a terrible mouth and burning eyes. Fire  
 
-272
-00:16:17,940 --> 00:16:21,770
-Now his brown and purple paints were finished
-as well.
+164
+00:17:11,440 --> 00:17:16,720
+shone out of the mouth and eyes of this 
+horrible face. It was the face of a ghost!
 
-273
-00:16:21,770 --> 00:16:27,420
-So, sometimes he painted the blood-stain green,
-sometimes blue.
+165
+00:17:17,600 --> 00:17:20,480
+The Canterville Ghost gave a shout and ran back to  
 
-274
-00:16:27,420 --> 00:16:29,620
-The ghost made plans.
+166
+00:17:20,480 --> 00:17:25,440
+his secret room. He had never seen a 
+ghost before and felt very frightened.
 
-275
-00:16:29,620 --> 00:16:32,810
-He wanted to frighten the Otis twins.
+167
+00:17:27,840 --> 00:17:31,840
+Before daylight came, the 
+Canterville Ghost felt better.  
 
-276
-00:16:32,810 --> 00:16:35,630
-He planned to visit the twins in the night.
+168
+00:17:32,480 --> 00:17:38,240
+Were there two ghosts in the house? He must 
+find out. He must meet the second ghost.
 
-277
-00:16:35,630 --> 00:16:40,620
-He planned to turn himself green and make
-a horrible noise.
+169
+00:17:39,440 --> 00:17:43,600
+He went back upstairs and walked along 
+the corridor towards the twins' room.  
 
-278
-00:16:40,620 --> 00:16:43,490
-He planned to visit the twins in their bedroom.
+170
+00:17:44,560 --> 00:17:48,720
+The second ghost was still there, 
+but its eyes were no longer burning.  
 
-279
-00:16:43,490 --> 00:16:48,460
-He planned to touch them with his ice-cold
-hands in the dark.
+171
+00:17:49,520 --> 00:17:55,280
+He went up to it. He touched it. The head 
+of the second ghost fell onto the floor.  
 
-280
-00:16:48,460 --> 00:16:50,980
-He left his secret room at midnight.
+172
+00:17:56,320 --> 00:18:02,800
+It was not a ghost at all. It was a head made 
+from a large round vegetable called a pumpkin.  
 
-281
-00:16:50,980 --> 00:16:52,730
-The house was dark.
+173
+00:18:03,520 --> 00:18:07,760
+The twins had put a candle inside 
+it. There was a card on the floor.
 
-282
-00:16:52,730 --> 00:16:56,390
-He climbed the stairs and walked along the
-corridor.
-
-283
-00:16:56,390 --> 00:17:00,730
-The twins' bedroom was at the end of the corridor
-round a corner.
-
-284
-00:17:00,730 --> 00:17:02,810
-He turned the corner.
-
-285
-00:17:02,810 --> 00:17:05,100
-Suddenly he stopped.
-
-286
-00:17:05,100 --> 00:17:10,959
-In front of him was a round face with a terrible
-mouth and burning eyes.
-
-287
-00:17:10,959 --> 00:17:15,309
-Fire shone out of the mouth and eyes of this
-horrible face.
-
-288
-00:17:15,309 --> 00:17:17,850
-It was the face of a ghost!
-
-289
-00:17:17,850 --> 00:17:22,319
-The Canterville Ghost gave a shout and ran
-back to his secret room.
-
-290
-00:17:22,319 --> 00:17:28,289
-He had never seen a ghost before and felt
-very frightened.
-
-291
-00:17:28,289 --> 00:17:32,730
-Before daylight came, the Canterville Ghost
-felt better.
-
-292
-00:17:32,730 --> 00:17:35,409
-Were there two ghosts in the house?
-
-293
-00:17:35,409 --> 00:17:36,789
-He must find out.
-
-294
-00:17:36,789 --> 00:17:39,700
-He must meet the second ghost.
-
-295
-00:17:39,700 --> 00:17:44,789
-He went back upstairs and walked along the
-corridor towards the twins' room.
-
-296
-00:17:44,789 --> 00:17:49,760
-The second ghost was still there, but its
-eyes were no longer burning.
-
-297
-00:17:49,760 --> 00:17:51,340
-He went up to it.
-
-298
-00:17:51,340 --> 00:17:53,019
-He touched it.
-
-299
-00:17:53,019 --> 00:17:56,580
-The head of the second ghost fell onto the
-floor.
-
-300
-00:17:56,580 --> 00:17:58,799
-It was not a ghost at all.
-
-301
-00:17:58,799 --> 00:18:03,759
-It was a head made from a large round vegetable
-called a pumpkin.
-
-302
-00:18:03,759 --> 00:18:06,659
-The twins had put a candle inside it.
-
-303
-00:18:06,659 --> 00:18:09,309
-There was a card on the floor.
-
-304
-00:18:09,309 --> 00:18:14,870
+174
+00:18:09,120 --> 00:18:13,840
 THE OTIS GHOST THE ONLY TRUE CANTERVILLE GHOST
 
-305
-00:18:14,870 --> 00:18:18,809
-The twins had put the head in the corridor
-to frighten him.
+175
+00:18:14,640 --> 00:18:20,720
+The twins had put the head in the corridor to 
+frighten him. This made the Canterville Ghost very  
 
-306
-00:18:18,809 --> 00:18:22,179
-This made the Canterville Ghost very angry.
+176
+00:18:20,720 --> 00:18:27,840
+angry. What could he do? He could think of nothing 
+at that moment, so he went back to his room.
 
-307
-00:18:22,179 --> 00:18:23,929
-What could he do?
+177
+00:18:38,640 --> 00:18:44,000
+The ghost felt very weak and tired. 
+He stayed in his room for five days.  
 
-308
-00:18:23,929 --> 00:18:38,850
-He could think of nothing at that moment,
-so he went back to his room.
+178
+00:18:44,800 --> 00:18:50,080
+He did not repaint the blood-stain in 
+the library. There had been a blood-stain  
 
-309
-00:18:38,850 --> 00:18:41,990
-The ghost felt very weak and tired.
+179
+00:18:50,080 --> 00:18:55,840
+on the library floor for three hundred 
+years. Now the library floor was clean.
 
-310
-00:18:41,990 --> 00:18:45,059
-He stayed in his room for five days.
+180
+00:18:57,520 --> 00:19:03,760
+After a week the ghost felt better. He decided 
+to try once more to frighten the Otis twins.  
 
-311
-00:18:45,059 --> 00:18:49,049
-He did not repaint the blood-stain in the
-library.
+181
+00:19:04,560 --> 00:19:10,320
+He planned to make his face look as horrible as 
+possible. He waited until the middle of the night.
 
-312
-00:18:49,049 --> 00:18:53,400
-There had been a blood-stain on the library
-floor for three hundred years.
+182
+00:19:13,440 --> 00:19:18,880
+Slowly and silently he walked to the 
+twins' bedroom. It was one o'clock  
 
-313
-00:18:53,400 --> 00:18:57,909
-Now the library floor was clean.
+183
+00:19:18,880 --> 00:19:24,720
+in the morning. The house was quiet. The 
+door of the twins' room was slightly open.
 
-314
-00:18:57,909 --> 00:19:00,690
-After a week the ghost felt better.
+184
+00:19:25,680 --> 00:19:29,280
+The ghost took off his head 
+and carried it under his arm.  
 
-315
-00:19:00,690 --> 00:19:04,789
-He decided to try once more to frighten the
-Otis twins.
+185
+00:19:30,000 --> 00:19:34,720
+It is terrifying to see a headless 
+ghost. He wanted to terrify the twins.
 
-316
-00:19:04,789 --> 00:19:08,830
-He planned to make his face look as horrible
-as possible.
+186
+00:19:35,520 --> 00:19:40,000
+He pushed open the door of the twins' 
+bedroom. The door banged against the wall.
 
-317
-00:19:08,830 --> 00:19:11,889
-He waited until the middle of the night.
+187
+00:19:40,720 --> 00:19:43,520
+He had planned to shout and 
+hold his head in his hinds.  
 
-318
-00:19:11,889 --> 00:19:17,590
-Slowly and silently he walked to the twins'
-bedroom.
+188
+00:19:44,320 --> 00:19:47,440
+But a heavy jug of water fell 
+from the top of the door.
 
-319
-00:19:17,590 --> 00:19:19,600
-It was one o'clock in the morning.
+189
+00:19:48,320 --> 00:19:55,280
+The twins had played a trick on him. He was 
+soaked with water. The twins shouted and laughed.
 
-320
-00:19:19,600 --> 00:19:22,580
-The house was quiet.
+190
+00:19:56,240 --> 00:20:00,160
+The ghost ran back down the corridor. He could not  
 
-321
-00:19:22,580 --> 00:19:25,860
-The door of the twins' room was slightly open.
+191
+00:20:00,160 --> 00:20:06,080
+frighten the twins. He could not 
+frighten anyone in the Otis family.
 
-322
-00:19:25,860 --> 00:19:29,710
-The ghost took off his head and carried it
-under his arm.
+192
+00:20:06,080 --> 00:20:08,640
+Washington Otis came out of his bedroom.  
 
-323
-00:19:29,710 --> 00:19:33,110
-It is terrifying to see a headless ghost.
+193
+00:20:08,640 --> 00:20:13,040
+The ghost stopped running. Behind 
+him, the twins ran down the corridor.  
 
-324
-00:19:33,110 --> 00:19:35,780
-He wanted to terrify the twins.
+194
+00:20:13,600 --> 00:20:19,840
+They shouted - 'Boo!' - in his ears and waved 
+their arms. Washington Otis laughed at him.
 
-325
-00:19:35,780 --> 00:19:38,420
-He pushed open the door of the twins' bedroom.
+195
+00:20:20,640 --> 00:20:26,160
+The ghost did not know what to do. He 
+ran through the nearest door, went back  
 
-326
-00:19:38,420 --> 00:19:40,980
-The door banged against the wall.
+196
+00:20:26,160 --> 00:20:34,320
+to the secret room and lay down. He could not 
+frighten anyone. He was a very unhappy ghost.
 
-327
-00:19:40,980 --> 00:19:44,610
-He had planned to shout and hold his head
-in his hinds.
+197
+00:20:47,360 --> 00:20:50,640
+The Otises did not see the 
+Canterville ghost at night again.  
 
-328
-00:19:44,610 --> 00:19:48,580
-But a heavy jug of water fell from the top
-of the door.
+198
+00:20:51,520 --> 00:20:56,480
+The twins waited for him when it was 
+dark. They put a rope across the corridor.  
 
-329
-00:19:48,580 --> 00:19:51,470
-The twins had played a trick on him.
+199
+00:20:56,480 --> 00:21:02,160
+They tied metal tins to the rope. But 
+the ghost did not walk into the tins.  
 
-330
-00:19:51,470 --> 00:19:53,490
-He was soaked with water.
+200
+00:21:02,160 --> 00:21:07,280
+Only Mr Otis came along the corridor. He 
+fell over the rope and was very angry.
 
-331
-00:19:53,490 --> 00:19:56,299
-The twins shouted and laughed.
+201
+00:21:08,640 --> 00:21:16,240
+Virginia Otis was also angry with the twins. 
+'Can't you leave the poor ghost alone?' she said.  
 
-332
-00:19:56,299 --> 00:19:59,480
-The ghost ran back down the corridor.
+202
+00:21:16,240 --> 00:21:20,080
+'Why do you want to hurt him? Why 
+do you want to play tricks on him?  
 
-333
-00:19:59,480 --> 00:20:02,049
-He could not frighten the twins.
+203
+00:21:20,800 --> 00:21:24,560
+He has lived here for a very 
+long time. Leave him alone.'
 
-334
-00:20:02,049 --> 00:20:06,240
-He could not frighten anyone in the Otis family.
+204
+00:21:25,680 --> 00:21:32,160
+The twins did not listen, but the ghost heard 
+Virginia's words. The words gave him hope.
 
-335
-00:20:06,240 --> 00:20:08,880
-Washington Otis came out of his bedroom.
+205
+00:21:33,440 --> 00:21:36,000
+One afternoon, Virginia went to the library.  
 
-336
-00:20:08,880 --> 00:20:10,730
-The ghost stopped running.
+206
+00:21:36,560 --> 00:21:43,920
+The library door was slightly open. She pushed the 
+door wide open and quietly walked into the room.
 
-337
-00:20:10,730 --> 00:20:13,820
-Behind him, the twins ran down the corridor.
+207
+00:21:43,920 --> 00:21:48,160
+There was somebody sitting by the 
+window. It was the Canterville Ghost!
 
-338
-00:20:13,820 --> 00:20:15,469
-They shouted - 'Boo!'
+208
+00:21:49,200 --> 00:21:51,280
+He was looking at the library window  
 
-339
-00:20:15,469 --> 00:20:18,129
-- in his ears and waved their arms.
-
-340
-00:20:18,129 --> 00:20:20,820
-Washington Otis laughed at him.
-
-341
-00:20:20,820 --> 00:20:24,080
-The ghost did not know what to do.
-
-342
-00:20:24,080 --> 00:20:29,200
-He ran through the nearest door, went back
-to the secret room and lay down.
-
-343
-00:20:29,200 --> 00:20:32,249
-He could not frighten anyone.
-
-344
-00:20:32,249 --> 00:20:47,649
-He was a very unhappy ghost.
-
-345
-00:20:47,649 --> 00:20:51,749
-The Otises did not see the Canterville ghost
-at night again.
-
-346
-00:20:51,749 --> 00:20:54,499
-The twins waited for him when it was dark.
-
-347
-00:20:54,499 --> 00:20:56,720
-They put a rope across the corridor.
-
-348
-00:20:56,720 --> 00:20:59,450
-They tied metal tins to the rope.
-
-349
-00:20:59,450 --> 00:21:02,549
-But the ghost did not walk into the tins.
-
-350
-00:21:02,549 --> 00:21:05,210
-Only Mr Otis came along the corridor.
-
-351
-00:21:05,210 --> 00:21:09,220
-He fell over the rope and was very angry.
-
-352
-00:21:09,220 --> 00:21:12,250
-Virginia Otis was also angry with the twins.
-
-353
-00:21:12,250 --> 00:21:15,360
-'Can't you leave the poor ghost alone?'
-
-354
-00:21:15,360 --> 00:21:16,360
-she said.
-
-355
-00:21:16,360 --> 00:21:18,399
-'Why do you want to hurt him?
-
-356
-00:21:18,399 --> 00:21:20,999
-Why do you want to play tricks on him?
-
-357
-00:21:20,999 --> 00:21:23,980
-He has lived here for a very long time.
-
-358
-00:21:23,980 --> 00:21:25,799
-Leave him alone.'
-
-359
-00:21:25,799 --> 00:21:30,620
-The twins did not listen, but the ghost heard
-Virginia's words.
-
-360
-00:21:30,620 --> 00:21:33,749
-The words gave him hope.
-
-361
-00:21:33,749 --> 00:21:36,779
-One afternoon, Virginia went to the library.
-
-362
-00:21:36,779 --> 00:21:39,470
-The library door was slightly open.
-
-363
-00:21:39,470 --> 00:21:44,230
-She pushed the door wide open and quietly
-walked into the room.
-
-364
-00:21:44,230 --> 00:21:46,740
-There was somebody sitting by the window.
-
-365
-00:21:46,740 --> 00:21:49,470
-It was the Canterville Ghost!
-
-366
-00:21:49,470 --> 00:21:54,019
-He was looking at the library window which
-was made of colored glass.
-
-367
-00:21:54,019 --> 00:21:57,299
+209
+00:21:51,280 --> 00:21:55,920
+which was made of colored glass. 
 There were words painted on the glass.
 
-368
-00:21:57,299 --> 00:22:01,659
-He was wearing his best clothes and had combed
-his long grey hair.
+210
+00:21:57,040 --> 00:22:00,960
+He was wearing his best clothes 
+and had combed his long grey hair.
 
-369
-00:22:01,659 --> 00:22:07,360
-'I feel very sorry for you,' said Virginia
-quietly.
+211
+00:22:02,480 --> 00:22:06,400
+'I feel very sorry for 
+you,' said Virginia quietly.  
 
-370
-00:22:07,360 --> 00:22:10,940
-'I'm sorry that my brothers were not very
-kind to you.
+212
+00:22:07,120 --> 00:22:12,560
+'I'm sorry that my brothers were not very kind 
+to you. But you did try to frighten them.'
 
-371
-00:22:10,940 --> 00:22:13,379
-But you did try to frighten them.'
+213
+00:22:13,760 --> 00:22:22,960
+'Yes I did,' said the ghost. 'It is my job to 
+frighten everyone who comes to Canterville Chase.'
 
-372
-00:22:13,379 --> 00:22:17,950
-'Yes I did,' said the ghost.
+214
+00:22:24,400 --> 00:22:27,360
+'You are very wicked, I know,' said Virginia,  
 
-373
-00:22:17,950 --> 00:22:23,240
-'It is my job to frighten everyone who comes
-to Canterville Chase.'
+215
+00:22:27,920 --> 00:22:31,520
+'Mrs Umney, the housekeeper, told 
+us that you killed your wife.'
 
-374
-00:22:23,240 --> 00:22:30,490
-'You are very wicked, I know,' said Virginia,
-'Mrs Umney, the housekeeper, told us that
+216
+00:22:32,720 --> 00:22:35,760
+'Yes I did,' replied the ghost.  
 
-375
-00:22:30,490 --> 00:22:31,759
-you killed your wife.'
+217
+00:22:36,480 --> 00:22:43,200
+'But she wasn't very kind. And it wasn't very 
+kind of her brothers to starve me to death.'
 
-376
-00:22:31,759 --> 00:22:36,779
-'Yes I did,' replied the ghost.
+218
+00:22:44,320 --> 00:22:51,680
+'Starve you to death?' said Virginia. 'Oh, poor 
+ghost, are you hungry? Would you like a sandwich?'
 
-377
-00:22:36,779 --> 00:22:38,510
-'But she wasn't very kind.
+219
+00:22:52,640 --> 00:22:59,840
+'No thank you,' he replied. 'I never 
+eat anything. But you are very kind.  
 
-378
-00:22:38,510 --> 00:22:44,909
-And it wasn't very kind of her brothers to
-starve me to death.'
+220
+00:23:00,640 --> 00:23:08,320
+You are much kinder than the rest of your 
+family. They are rude, nasty and unkind.'
 
-379
-00:22:44,909 --> 00:22:47,490
-'Starve you to death?' said Virginia.
+221
+00:23:08,320 --> 00:23:12,720
+'Stop!' cried Virginia. 'You 
+are nasty and unkind too.  
 
-380
-00:22:47,490 --> 00:22:50,840
-'Oh, poor ghost, are you hungry?
+222
+00:23:13,440 --> 00:23:19,040
+You stole my paint box. You used my paints 
+to make the blood-stain in the library.  
 
-381
-00:22:50,840 --> 00:22:52,629
-Would you like a sandwich?'
+223
+00:23:19,840 --> 00:23:23,840
+I never told anyone about it. But 
+now I'm going to fetch my father.'
 
-382
-00:22:52,629 --> 00:22:56,409
-'No thank you,' he replied.
-
-383
-00:22:56,409 --> 00:22:58,460
-'I never eat anything.
-
-384
-00:22:58,460 --> 00:23:00,820
-But you are very kind.
-
-385
-00:23:00,820 --> 00:23:04,139
-You are much kinder than the rest of your
-family.
-
-386
-00:23:04,139 --> 00:23:08,309
-They are rude, nasty and unkind.'
-
-387
-00:23:08,309 --> 00:23:09,490
-'Stop!'
-
-388
-00:23:09,490 --> 00:23:10,980
-cried Virginia.
-
-389
-00:23:10,980 --> 00:23:13,669
-'You are nasty and unkind too.
-
-390
-00:23:13,669 --> 00:23:15,950
-You stole my paint box.
-
-391
-00:23:15,950 --> 00:23:19,409
-You used my paints to make the blood-stain
-in the library.
-
-392
-00:23:19,409 --> 00:23:22,200
-I never told anyone about it.
-
-393
-00:23:22,200 --> 00:23:24,879
-But now I'm going to fetch my father.'
-
-394
-00:23:24,879 --> 00:23:29,220
+224
+00:23:24,800 --> 00:23:27,520
 She turned to go, but the ghost spoke again.
 
-395
-00:23:29,220 --> 00:23:33,019
-'Please do not go, Miss Virginia,' said the
-ghost.
+225
+00:23:28,560 --> 00:23:35,360
+'Please do not go, Miss Virginia,' 
+said the ghost. 'I am so lonely  
 
-396
-00:23:33,019 --> 00:23:37,330
-'I am so lonely and so unhappy.
+226
+00:23:35,360 --> 00:23:43,680
+and so unhappy. I do not know what to 
+do. I want to go to sleep and I cannot.'
 
-397
-00:23:37,330 --> 00:23:40,299
-I do not know what to do.
-
-398
-00:23:40,299 --> 00:23:44,909
-I want to go to sleep and I cannot.'
-
-399
-00:23:44,909 --> 00:23:48,269
-'It's easy to sleep,' said Virginia.
-
-400
-00:23:48,269 --> 00:23:50,119
+227
+00:23:44,880 --> 00:23:49,840
+'It's easy to sleep,' said Virginia. 
 'You go to bed and close your eyes.'
 
-401
-00:23:50,119 --> 00:23:56,360
-'I have not slept for three hundred years,'
-said the ghost.
+228
+00:23:51,280 --> 00:23:54,560
+'I have not slept for three hundred years,'  
 
-402
-00:23:56,360 --> 00:24:02,980
-'I have not slept since I was murdered by
-my wife's brothers.'
+229
+00:23:55,200 --> 00:24:00,960
+said the ghost. 'I have not slept since 
+I was murdered by my wife's brothers.'
 
-403
-00:24:02,980 --> 00:24:07,749
-Virginia walked across the library and looked
-at the old face of the ghost.
+230
+00:24:02,400 --> 00:24:08,880
+Virginia walked across the library and looked 
+at the old face of the ghost. It was a sad face.
 
-404
-00:24:07,749 --> 00:24:10,289
-It was a sad face.
+231
+00:24:11,440 --> 00:24:16,320
+'Poor ghost,' said Virginia, 
+'how can I help you to sleep?'
 
-405
-00:24:10,289 --> 00:24:17,929
-'Poor ghost,' said Virginia, 'how can I help
-you to sleep?'
+232
+00:24:17,760 --> 00:24:22,880
+'Far away in the woods,' said the 
+ghost, 'there is a little garden.  
 
-406
-00:24:17,929 --> 00:24:24,110
-'Far away in the woods,' said the ghost, 'there
-is a little garden.
+233
+00:24:23,840 --> 00:24:30,800
+In the little garden the grass grows long 
+and thick. There are many flowers and trees.  
 
-407
-00:24:24,110 --> 00:24:28,830
-In the little garden the grass grows long
-and thick.
+234
+00:24:31,680 --> 00:24:39,040
+A nightingale sings all night long. 
+The bird's sweet song is beautiful  
 
-408
-00:24:28,830 --> 00:24:32,191
-There are many flowers and trees.
+235
+00:24:39,680 --> 00:24:49,040
+and sad. The white stars and the pale moon look 
+down on this little garden. It is very peaceful.'
 
-409
-00:24:32,191 --> 00:24:35,850
-A nightingale sings all night long.
-
-410
-00:24:35,850 --> 00:24:41,659
-The bird's sweet song is beautiful and sad.
-
-411
-00:24:41,659 --> 00:24:46,880
-The white stars and the pale moon look down
-on this little garden.
-
-412
-00:24:46,880 --> 00:24:50,850
-It is very peaceful.'
-
-413
-00:24:50,850 --> 00:24:53,549
-Virginia's eyes were full of tears.
-
-414
-00:24:53,549 --> 00:24:56,700
+236
+00:24:50,320 --> 00:24:54,960
+Virginia's eyes were full of tears. 
 She put her hands over her face.
 
-415
-00:24:56,700 --> 00:25:02,149
-'You mean it is the Garden of Death,' she
-said quietly.
+237
+00:24:56,480 --> 00:25:00,800
+'You mean it is the Garden 
+of Death,' she said quietly.
 
-416
-00:25:02,149 --> 00:25:07,730
-'Yes, the Garden of Sleep,' said the ghost.
+238
+00:25:02,000 --> 00:25:06,800
+'Yes, the Garden of Sleep,' said the ghost.  
 
-417
-00:25:07,730 --> 00:25:09,860
-'It is very beautiful.
+239
+00:25:07,520 --> 00:25:14,000
+'It is very beautiful. There is peace 
+and silence. There is no yesterday  
 
-418
-00:25:09,860 --> 00:25:12,640
-There is peace and silence.
+240
+00:25:14,000 --> 00:25:23,280
+and no tomorrow. But only Love can open the door 
+to the garden. For Love is stronger than Death.'
 
-419
-00:25:12,640 --> 00:25:16,340
-There is no yesterday and no tomorrow.
-
-420
-00:25:16,340 --> 00:25:20,909
-But only Love can open the door to the garden.
-
-421
-00:25:20,909 --> 00:25:25,330
-For Love is stronger than Death.'
-
-422
-00:25:25,330 --> 00:25:28,009
-Virginia did not know what to say.
-
-423
-00:25:28,009 --> 00:25:30,799
+241
+00:25:24,800 --> 00:25:29,760
+Virginia did not know what to say. 
 She listened as the ghost spoke again.
 
-424
-00:25:30,799 --> 00:25:35,639
-'Have you read the writing on the library
-window?'
+242
+00:25:31,440 --> 00:25:34,640
+'Have you read the writing on the library window?'
 
-425
-00:25:35,639 --> 00:25:41,029
-'Yes,' said Virginia, 'but I do not understand
-it.'
+243
+00:25:36,000 --> 00:25:39,840
+'Yes,' said Virginia, 'but 
+I do not understand it.'
 
-426
-00:25:41,029 --> 00:25:43,330
-'Look,' said the ghost.
+244
+00:25:41,120 --> 00:25:45,600
+'Look,' said the ghost. 'Read 
+the lines on the window.'
 
-427
-00:25:43,330 --> 00:25:47,419
-'Read the lines on the window.'
+245
+00:25:46,880 --> 00:25:50,400
+Virginia looked at the window 
+and read the lines of poetry:
+ 
+ 
 
-428
-00:25:47,419 --> 00:25:52,059
-Virginia looked at the window and read the
-lines of poetry:
-
-429
-00:25:52,059 --> 00:25:54,820
+246
+00:25:51,760 --> 00:25:53,920
 When a golden girl shall weep
 
-430
-00:25:54,820 --> 00:25:57,929
+247
+00:25:54,560 --> 00:25:56,720
 For the ghost that cannot sleep,
 
-431
-00:25:57,929 --> 00:26:01,080
+248
+00:25:57,680 --> 00:26:00,160
 Then the dead at last shall die
 
-432
-00:26:01,080 --> 00:26:04,489
+249
+00:26:00,960 --> 00:26:03,280
 And in restful earth may lie.
+ 
+ 
 
-433
-00:26:04,489 --> 00:26:11,489
-'The words mean you must weep for me,' said
-the unhappy ghost.
+250
+00:26:05,360 --> 00:26:08,640
+'The words mean you must weep for me,'  
 
-434
-00:26:11,489 --> 00:26:15,739
-'Then the Angel of Death will let me rest.
+251
+00:26:09,360 --> 00:26:14,640
+said the unhappy ghost. 'Then the 
+Angel of Death will let me rest.
 
-435
-00:26:15,739 --> 00:26:16,929
+252
+00:26:15,440 --> 00:26:16,320
 Will you help?'
 
-436
-00:26:16,929 --> 00:26:21,639
+253
+00:26:17,520 --> 00:26:20,000
 'What do I have to do?' asked Virginia.
 
-437
-00:26:21,639 --> 00:26:24,960
-'You must come with me into the darkness.
+254
+00:26:21,440 --> 00:26:28,560
+'You must come with me into the darkness. 
+You will see strange things. You will hear  
 
-438
-00:26:24,960 --> 00:26:27,760
-You will see strange things.
+255
+00:26:28,560 --> 00:26:38,160
+strange voices, but nothing will hurt you. You 
+are good and kind. The dark cannot hurt you.'
 
-439
-00:26:27,760 --> 00:26:33,269
-You will hear strange voices, but nothing
-will hurt you.
+256
+00:26:39,440 --> 00:26:45,520
+Virginia did not answer and the ghost waited. 
+He had waited for three hundred years.  
 
-440
-00:26:33,269 --> 00:26:36,160
-You are good and kind.
-
-441
-00:26:36,160 --> 00:26:39,980
-The dark cannot hurt you.'
-
-442
-00:26:39,980 --> 00:26:43,519
-Virginia did not answer and the ghost waited.
-
-443
-00:26:43,519 --> 00:26:46,779
-He had waited for three hundred years.
-
-444
-00:26:46,779 --> 00:26:50,019
+257
+00:26:46,480 --> 00:26:49,520
 This was the longest minute of all that time.
 
-445
-00:26:50,019 --> 00:26:54,239
-'I am not afraid,' said Virginia at last.
-
-446
-00:26:54,239 --> 00:26:58,059
+258
+00:26:51,120 --> 00:26:56,160
+'I am not afraid,' said Virginia at last. 
 'I will come with you into the dark.'
 
-447
-00:26:58,059 --> 00:27:00,570
-The ghost kissed her hand.
+259
+00:26:57,840 --> 00:27:04,400
+The ghost kissed her hand. His lips were 
+cold like ice, but they burned like fire.  
 
-448
-00:27:00,570 --> 00:27:05,529
-His lips were cold like ice, but they burned
-like fire.
+260
+00:27:05,360 --> 00:27:09,280
+The ghost held her hand and they 
+walked to the wall of the library.  
 
-449
-00:27:05,529 --> 00:27:10,360
-The ghost held her hand and they walked to
-the wall of the library.
+261
+00:27:10,160 --> 00:27:14,560
+The wall opened. There was 
+darkness beyond the wall  
 
-450
-00:27:10,360 --> 00:27:12,570
-The wall opened.
+262
+00:27:14,560 --> 00:27:25,920
+and a cold wind. Voices spoke out of the wind. 'Go 
+back, Virginia. Go back before it is too late.'
 
-451
-00:27:12,570 --> 00:27:16,239
-There was darkness beyond the wall and a cold
-wind.
+263
+00:27:27,840 --> 00:27:30,480
+Virginia walked into the darkness with the ghost.  
 
-452
-00:27:16,239 --> 00:27:19,330
-Voices spoke out of the wind.
+264
+00:27:31,040 --> 00:27:35,200
+Virginia and the ghost disappeared 
+through the library wall.
 
-453
-00:27:19,330 --> 00:27:22,059
-'Go back, Virginia.
+265
+00:27:45,440 --> 00:27:51,200
+Virginia did not come downstairs for supper. 
+Mr Otis sent one of the servants to her room.  
 
-454
-00:27:22,059 --> 00:27:28,429
-Go back before it is too late.'
+266
+00:27:52,000 --> 00:27:58,400
+The servant could not find Virginia so everybody 
+searched the house. They looked everywhere  
 
-455
-00:27:28,429 --> 00:27:31,619
-Virginia walked into the darkness with the
-ghost.
+267
+00:27:58,400 --> 00:28:02,880
+but they could not find her. Mr 
+and Mrs Otis were very worried.
 
-456
-00:27:31,619 --> 00:27:40,669
-Virginia and the ghost disappeared through
-the library wall.
+268
+00:28:04,080 --> 00:28:09,520
+It was a summer evening and the sun had 
+not set, so the family and the servants  
 
-457
-00:27:40,669 --> 00:27:48,850
-Virginia did not come downstairs for supper.
+269
+00:28:09,520 --> 00:28:16,720
+searched the gardens before it was dark. In the 
+garden there were many trees and a deep pond.  
 
-458
-00:27:48,850 --> 00:27:52,190
-Mr Otis sent one of the servants to her room.
+270
+00:28:16,720 --> 00:28:23,760
+They looked in the pond. They looked in the trees. 
+Then they asked people at the railway station. But  
 
-459
-00:27:52,190 --> 00:27:57,100
-The servant could not find Virginia so everybody
-searched the house.
+271
+00:28:23,760 --> 00:28:30,720
+no one had seen Virginia. Mr Otis went to tell the 
+village policeman that Virginia had disappeared.  
 
-460
-00:27:57,100 --> 00:28:00,870
-They looked everywhere but they could not
-find her.
+272
+00:28:31,440 --> 00:28:36,480
+But, by that time, it was dark and no 
+one could search any more that night.
 
-461
-00:28:00,870 --> 00:28:04,350
-Mr and Mrs Otis were very worried.
+273
+00:28:37,840 --> 00:28:45,360
+None of the family wanted to eat or sleep. 
+They sat in the library and waited. They hoped  
 
-462
-00:28:04,350 --> 00:28:09,980
-It was a summer evening and the sun had not
-set, so the family and the servants searched
+274
+00:28:45,360 --> 00:28:51,280
+Virginia would return safely. They planned 
+to search for Virginia again in the morning.
 
-463
-00:28:09,980 --> 00:28:13,009
-the gardens before it was dark.
+275
+00:28:53,680 --> 00:28:59,840
+It was midnight when the family decided to 
+go to bed. They left the library and started  
 
-464
-00:28:13,009 --> 00:28:16,970
-In the garden there were many trees and a
-deep pond.
+276
+00:28:59,840 --> 00:29:06,720
+to walk up the stairs together. Suddenly all 
+the clocks in the house struck twelve and they  
 
-465
-00:28:16,970 --> 00:28:18,779
-They looked in the pond.
+277
+00:29:06,720 --> 00:29:17,040
+heard a terrible noise. Thunder crashed outside 
+the house and the Otises heard a dreadful cry.  
 
-466
-00:28:18,779 --> 00:28:20,960
-They looked in the trees.
-
-467
-00:28:20,960 --> 00:28:23,739
-Then they asked people at the railway station.
-
-468
-00:28:23,739 --> 00:28:26,690
-But no one had seen Virginia.
-
-469
-00:28:26,690 --> 00:28:31,230
-Mr Otis went to tell the village policeman
-that Virginia had disappeared.
-
-470
-00:28:31,230 --> 00:28:38,010
-But, by that time, it was dark and no one
-could search any more that night.
-
-471
-00:28:38,010 --> 00:28:41,749
-None of the family wanted to eat or sleep.
-
-472
-00:28:41,749 --> 00:28:44,879
-They sat in the library and waited.
-
-473
-00:28:44,879 --> 00:28:48,340
-They hoped Virginia would return safely.
-
-474
-00:28:48,340 --> 00:28:53,899
-They planned to search for Virginia again
-in the morning.
-
-475
-00:28:53,899 --> 00:28:57,899
-It was midnight when the family decided to
-go to bed.
-
-476
-00:28:57,899 --> 00:29:02,960
-They left the library and started to walk
-up the stairs together.
-
-477
-00:29:02,960 --> 00:29:09,679
-Suddenly all the clocks in the house struck
-twelve and they heard a terrible noise.
-
-478
-00:29:09,679 --> 00:29:24,559
-Thunder crashed outside the house and the
-Otises heard a dreadful cry.
-
-479
-00:29:24,559 --> 00:29:31,159
-Strange music sounded inside the house and
+278
+00:29:24,000 --> 00:29:29,360
+Strange music sounded inside the house and 
 a door opened at the top of the stairs.
 
-480
-00:29:31,159 --> 00:29:33,529
-Virginia stood in the doorway.
+279
+00:29:30,560 --> 00:29:34,880
+Virginia stood in the doorway. She 
+looked down the stairs at them.  
 
-481
-00:29:33,529 --> 00:29:35,440
-She looked down the stairs at them.
+280
+00:29:35,760 --> 00:29:40,400
+Her face was very pale and she 
+carried a small box in her hand.
 
-482
-00:29:35,440 --> 00:29:41,340
-Her face was very pale and she carried a small
-box in her hand.
+281
+00:29:41,760 --> 00:29:47,920
+'Where have you been?' Mr Otis asked 
+angrily. 'Your mother has been very worried.  
 
-483
-00:29:41,340 --> 00:29:43,629
-'Where have you been?'
+282
+00:29:47,920 --> 00:29:51,840
+You have frightened us all. You must 
+never play a trick like this again.'
 
-484
-00:29:43,629 --> 00:29:45,480
-Mr Otis asked angrily.
-
-485
-00:29:45,480 --> 00:29:48,139
-'Your mother has been very worried.
-
-486
-00:29:48,139 --> 00:29:49,869
-You have frightened us all.
-
-487
-00:29:49,869 --> 00:29:52,080
-You must never play a trick like this again.'
-
-488
-00:29:52,080 --> 00:29:56,240
-'Except on the ghost,' said the twins.
-
-489
-00:29:56,240 --> 00:29:58,860
+283
+00:29:53,360 --> 00:29:57,840
+'Except on the ghost,' said the twins. 
 'You can play tricks on the ghost!'
 
-490
-00:29:58,860 --> 00:30:05,340
-'Father,' Virginia said quietly, 'I have been
-with the ghost.
+284
+00:29:59,280 --> 00:30:06,240
+'Father,' Virginia said quietly, 'I 
+have been with the ghost. He is dead  
 
-491
-00:30:05,340 --> 00:30:08,520
-He is dead and now he can rest.
+285
+00:30:06,240 --> 00:30:11,680
+and now he can rest. He gave me this 
+box of beautiful jewels before he died.'
 
-492
-00:30:08,520 --> 00:30:13,179
-He gave me this box of beautiful jewels before
-he died.'
-
-493
-00:30:13,179 --> 00:30:16,210
-She showed her father the small box.
-
-494
-00:30:16,210 --> 00:30:18,900
+286
+00:30:12,960 --> 00:30:18,640
+She showed her father the small box. 
 Inside was a necklace made of red stones.
 
-495
-00:30:18,900 --> 00:30:22,659
-'Where did you get this?' asked her father.
+287
+00:30:19,920 --> 00:30:24,000
+'Where did you get this?' asked 
+her father. 'Where have you been?'
 
-496
-00:30:22,659 --> 00:30:25,570
-'Where have you been?'
+288
+00:30:25,440 --> 00:30:30,640
+Mr Otis forgot to be angry. He was so 
+pleased to see that Virginia was safe.
 
-497
-00:30:25,570 --> 00:30:28,080
-Mr Otis forgot to be angry.
+289
+00:30:31,760 --> 00:30:34,480
+'Come. I'll show you,' said Virginia.
 
-498
-00:30:28,080 --> 00:30:31,659
-He was so pleased to see that Virginia was
-safe.
+290
+00:30:35,440 --> 00:30:37,920
+She turned back to the door 
+at the top of the stairs.  
 
-499
-00:30:31,659 --> 00:30:32,830
-'Come.
-
-500
-00:30:32,830 --> 00:30:35,690
-I'll show you,' said Virginia.
-
-501
-00:30:35,690 --> 00:30:38,870
-She turned back to the door at the top of
-the stairs.
-
-502
-00:30:38,870 --> 00:30:41,359
-All of the family followed her.
-
-503
-00:30:41,359 --> 00:30:46,799
+291
+00:30:38,640 --> 00:30:43,600
+All of the family followed her. 
 Washington Otis carried a lighted candle.
 
-504
-00:30:46,799 --> 00:30:50,230
-Virginia led them along a secret corridor.
+292
+00:30:46,240 --> 00:30:54,000
+Virginia led them along a secret corridor. They 
+came to an old wooden door which was open. Beyond  
 
-505
-00:30:50,230 --> 00:30:54,070
-They came to an old wooden door which was
-open.
+293
+00:30:54,000 --> 00:31:00,880
+the door was a little room with a low ceiling. 
+There was an iron ring in the wall and two chains.  
 
-506
-00:30:54,070 --> 00:30:57,149
-Beyond the door was a little room with a low
-ceiling.
+294
+00:31:01,840 --> 00:31:08,640
+At the end of the chains was a body. 
+Only bones remained. It was a skeleton.
 
-507
-00:30:57,149 --> 00:31:02,100
-There was an iron ring in the wall and two
-chains.
+295
+00:31:10,240 --> 00:31:17,840
+'This is the body of Sir Simon de Canterville,' 
+said Virginia. 'He murdered his wife in 1575.  
 
-508
-00:31:02,100 --> 00:31:05,559
-At the end of the chains was a body.
+296
+00:31:18,720 --> 00:31:25,360
+Then his wife's brothers shut him in this 
+room. He was given no food. Sir Simon  
 
-509
-00:31:05,559 --> 00:31:07,950
-Only bones remained.
+297
+00:31:25,360 --> 00:31:33,120
+starved to death. His ghost was in this house for 
+three hundred years. But now he has found peace.'
 
-510
-00:31:07,950 --> 00:31:09,169
-It was a skeleton.
+298
+00:31:34,400 --> 00:31:36,960
+The Otis family looked around the little room  
 
-511
-00:31:09,169 --> 00:31:15,259
-'This is the body of Sir Simon de Canterville,'
-said Virginia.
+299
+00:31:37,600 --> 00:31:45,840
+and did not know what to say. Virginia knelt on 
+the floor beside the skeleton and began to pray.
 
-512
-00:31:15,259 --> 00:31:19,029
-'He murdered his wife in 1575.
+300
+00:31:56,480 --> 00:32:00,160
+There was a funeral four nights later. The Otises  
 
-513
-00:31:19,029 --> 00:31:22,450
-Then his wife's brothers shut him in this
-room.
-
-514
-00:31:22,450 --> 00:31:24,669
-He was given no food.
-
-515
-00:31:24,669 --> 00:31:27,559
-Sir Simon starved to death.
-
-516
-00:31:27,559 --> 00:31:31,450
-His ghost was in this house for three hundred
-years.
-
-517
-00:31:31,450 --> 00:31:34,679
-But now he has found peace.'
-
-518
-00:31:34,679 --> 00:31:40,729
-The Otis family looked around the little room
-and did not know what to say.
-
-519
-00:31:40,729 --> 00:31:56,720
-Virginia knelt on the floor beside the skeleton
-and began to pray.
-
-520
-00:31:56,720 --> 00:31:59,460
-There was a funeral four nights later.
-
-521
-00:31:59,460 --> 00:32:07,720
-The Otises buried the body of Sir Simon de
+301
+00:32:00,160 --> 00:32:04,560
+buried the body of Sir Simon de 
 Canterville in a grave among the trees.
 
-522
-00:32:07,720 --> 00:32:13,899
-The Otises, Mrs Umney the housekeeper, and
-all the servants from Canterville Chase stood
+302
+00:32:07,520 --> 00:32:14,160
+The Otises, Mrs Umney the housekeeper, and all 
+the servants from Canterville Chase stood near  
 
-523
-00:32:13,899 --> 00:32:15,869
-near the grave.
+303
+00:32:14,160 --> 00:32:21,280
+the grave. Behind them were people from the nearby 
+village. Many people had come to the funeral.
 
-524
-00:32:15,869 --> 00:32:19,679
-Behind them were people from the nearby village.
+304
+00:32:22,400 --> 00:32:28,240
+Virginia carried white flowers. She 
+looked up at the stars and the pale moon  
 
-525
-00:32:19,679 --> 00:32:22,960
-Many people had come to the funeral.
+305
+00:32:28,240 --> 00:32:34,000
+and the dark trees. She remembered what the 
+ghost had said about the Garden of Death.  
 
-526
-00:32:22,960 --> 00:32:25,549
-Virginia carried white flowers.
+306
+00:32:37,280 --> 00:32:43,680
+A nightingale began to sing. The bird's 
+sweet song was beautiful and sad.
 
-527
-00:32:25,549 --> 00:32:30,650
-She looked up at the stars and the pale moon
-and the dark trees.
+307
+00:32:44,880 --> 00:32:52,000
+Virginia smiled. 'God has forgiven 
+him for murdering his wife,' she said.
 
-528
-00:32:30,650 --> 00:32:35,879
-She remembered what the ghost had said about
-the Garden of Death.
+308
+00:32:52,000 --> 00:32:56,042
+Hughie thanked him and looked at the envelope. 
+These words were written on the envelope:  
 
-529
-00:32:35,879 --> 00:32:40,179
-A nightingale began to sing.
+309
+00:32:56,042 --> 00:32:59,267
+A wedding present to Hugh Erskine 
+and Laura Merton, from an old beggar.
 
-530
-00:32:40,179 --> 00:32:44,820
-The bird's sweet song was beautiful and sad.
-
-531
-00:32:44,820 --> 00:32:47,539
-Virginia smiled.
-
-532
-00:32:47,539 --> 00:32:51,050
-'God has forgiven him for murdering his wife,'
-she said.
-
-533
-00:32:51,050 --> 00:32:52,050
-Hughie thanked him and looked at the envelope.
-
-534
-00:32:52,050 --> 00:32:53,050
-These words were written on the envelope:
-A wedding present to Hugh Erskine and Laura
-
-535
-00:32:53,050 --> 00:32:54,050
-Merton, from an old beggar.
-
-536
-00:32:54,050 --> 00:32:55,050
+310
+00:32:59,267 --> 00:33:01,493
 Inside was a check for ten thousand pounds.
+ 
+ 
+ 
+ 
 
-537
-00:32:55,050 --> 00:32:55,052
+311
+00:33:01,493 --> 00:33:02,000
 - THE END -
 

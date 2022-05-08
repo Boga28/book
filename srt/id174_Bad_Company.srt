@@ -1,5303 +1,3704 @@
 1
-00:00:01,079 --> 00:00:02,079
+00:00:01,120 --> 00:00:01,840
 CHAPTER ONE
 
 2
-00:00:02,079 --> 00:00:07,029
+00:00:03,360 --> 00:00:04,880
 A body on the beach
-Noise.
 
 3
-00:00:07,029 --> 00:00:09,340
-Headache.
+00:00:08,640 --> 00:00:15,920
+Noise. Headache. Dry mouth.
 
 4
-00:00:09,340 --> 00:00:13,960
-Dry mouth.
+00:00:16,800 --> 00:00:22,640
+Half asleep, Helen Shepherd turned 
+over in bed, but the noise didn't stop.  
 
 5
-00:00:13,960 --> 00:00:24,439
-Half asleep, Helen Shepherd turned over in
-bed, but the noise didn't stop.
-
-6
-00:00:24,439 --> 00:00:27,890
+00:00:24,240 --> 00:00:26,160
 A moment later she woke up.
 
+6
+00:00:27,680 --> 00:00:34,640
+The noise. It was her phone. She took 
+it off the table next to her bed.
+
 7
-00:00:27,890 --> 00:00:30,119
-The noise.
+00:00:36,080 --> 00:00:41,680
+'Yes?' she said. Her dry mouth 
+made it difficult to talk.  
 
 8
-00:00:30,119 --> 00:00:32,599
-It was her phone.
-
-9
-00:00:32,599 --> 00:00:36,050
-She took it off the table next to her bed.
-
-10
-00:00:36,050 --> 00:00:37,650
-'Yes?'
-
-11
-00:00:37,650 --> 00:00:39,690
-she said.
-
-12
-00:00:39,690 --> 00:00:43,050
-Her dry mouth made it difficult to talk.
-
-13
-00:00:43,050 --> 00:00:46,470
-And her head hurt quite badly.
-
-14
-00:00:46,470 --> 00:00:49,290
+00:00:42,720 --> 00:00:48,160
+And her head hurt quite badly. 
 Too much wine last night!
 
-15
-00:00:49,290 --> 00:00:54,010
-'Is that Detective Inspector Shepherd?'
+9
+00:00:50,480 --> 00:00:55,280
+'Is that Detective Inspector 
+Shepherd?' asked a voice.
 
-16
-00:00:54,010 --> 00:00:56,680
-asked a voice.
-
-17
-00:00:56,680 --> 00:00:59,830
+10
+00:00:56,560 --> 00:00:58,800
 'Yes,' said Shepherd.
 
+11
+00:01:00,240 --> 00:01:07,600
+'I'm sorry to wake you,' said the voice. The 
+voice waited for Shepherd to say something,  
+
+12
+00:01:08,320 --> 00:01:14,000
+but she didn't. She looked at 
+the clock. It was six thirty.
+
+13
+00:01:15,760 --> 00:01:27,120
+'Er, well, my name's Webb,' said the voice. 
+'Brian Webb. I'm your new sergeant. I start  
+
+14
+00:01:27,680 --> 00:01:37,600
+working for you today. Well, this morning, 
+actually. Erm... I'm sorry to wake you up, but...'
+
+15
+00:01:38,320 --> 00:01:44,640
+'Sergeant,' said Shepherd. 'People call 
+me at all times of the day and night.  
+
+16
+00:01:45,280 --> 00:01:49,360
+Forget the "sorry". Just 
+tell me what the problem is.'
+
+17
+00:01:51,360 --> 00:01:55,680
+'There's a body on the 
+beach,' said Webb. 'In Hythe.  
+
 18
-00:00:59,830 --> 00:01:05,300
-'I'm sorry to wake you,' said the voice.
+00:01:56,720 --> 00:02:01,600
+About two hundred metres from 
+the Grand Hotel. I'm there now.'
 
 19
-00:01:05,300 --> 00:01:10,690
-The voice waited for Shepherd to say something,
-but she didn't.
-
-20
-00:01:10,690 --> 00:01:12,860
-She looked at the clock.
-
-21
-00:01:12,860 --> 00:01:14,930
-It was six thirty.
-
-22
-00:01:14,930 --> 00:01:21,070
-'Er, well, my name's Webb,' said the voice.
-
-23
-00:01:21,070 --> 00:01:23,780
-'Brian Webb.
-
-24
-00:01:23,780 --> 00:01:25,790
-I'm your new sergeant.
-
-25
-00:01:25,790 --> 00:01:29,810
-I start working for you today.
-
-26
-00:01:29,810 --> 00:01:33,550
-Well, this morning, actually.
-
-27
-00:01:33,550 --> 00:01:34,830
-Erm...
-
-28
-00:01:34,830 --> 00:01:39,100
-I'm sorry to wake you up, but...'
-
-29
-00:01:39,100 --> 00:01:41,860
-'Sergeant,' said Shepherd.
-
-30
-00:01:41,860 --> 00:01:45,690
-'People call me at all times of the day and
-night.
-
-31
-00:01:45,690 --> 00:01:47,750
-Forget the "sorry".
-
-32
-00:01:47,750 --> 00:01:51,750
-Just tell me what the problem is.'
-
-33
-00:01:51,750 --> 00:01:55,229
-'There's a body on the beach,' said Webb.
-
-34
-00:01:55,229 --> 00:01:57,130
-'In Hythe.
-
-35
-00:01:57,130 --> 00:02:00,190
-About two hundred metres from the Grand Hotel.
-
-36
-00:02:00,190 --> 00:02:02,790
-I'm there now.'
-
-37
-00:02:02,790 --> 00:02:12,920
-'I'll be twenty minutes,' replied Shepherd
+00:02:03,680 --> 00:02:09,920
+'I'll be twenty minutes,' replied Shepherd 
 and put her phone back down on the table.
 
-38
-00:02:12,920 --> 00:02:16,840
-Shepherd stood under the shower for five minutes.
+20
+00:02:12,480 --> 00:02:15,280
+Shepherd stood under the shower for five minutes.  
 
-39
-00:02:16,840 --> 00:02:22,150
-The hot water got the blood moving around
-her tired body.
+21
+00:02:16,640 --> 00:02:21,920
+The hot water got the blood 
+moving around her tired body.
 
-40
-00:02:22,150 --> 00:02:27,670
-She drank half a litre of water and took three
-aspirins.
+22
+00:02:21,920 --> 00:02:30,080
+She drank half a litre of water and took three 
+aspirins. Five minutes later she was in her car.
 
-41
-00:02:27,670 --> 00:02:33,000
-Five minutes later she was in her car.
+23
+00:02:32,800 --> 00:02:38,160
+The drive from her house in Folkestone to 
+Hythe took Shepherd less than ten minutes.  
 
-42
-00:02:33,000 --> 00:02:39,910
-The drive from her house in Folkestone to
-Hythe took Shepherd less than ten minutes.
+24
+00:02:39,680 --> 00:02:46,880
+It was the start of autumn and small seaside 
+towns like Hythe were becoming quiet again  
 
-43
-00:02:39,910 --> 00:02:46,870
-It was the start of autumn and small seaside
-towns like Hythe were becoming quiet again
+25
+00:02:46,880 --> 00:02:53,840
+after the busy summer. The school holidays 
+were over, the beaches were almost empty,  
 
-44
-00:02:46,870 --> 00:02:48,710
-after the busy summer.
-
-45
-00:02:48,710 --> 00:02:57,500
-The school holidays were over, the beaches
-were almost empty, and this early in the morning
-
-46
-00:02:57,500 --> 00:03:01,940
+26
+00:02:55,040 --> 00:02:59,280
+and this early in the morning 
 there were few cars on the roads.
 
-47
-00:03:01,940 --> 00:03:08,900
-As she came into Hythe, Shepherd passed the
-Sea view Cafe on her right.
+27
+00:03:01,680 --> 00:03:10,480
+As she came into Hythe, Shepherd passed the Sea 
+view Cafe on her right. It was just opening for  
 
-48
-00:03:08,900 --> 00:03:11,790
-It was just opening for breakfast.
+28
+00:03:10,480 --> 00:03:19,360
+breakfast. Two hundred metres down the road, also 
+on the right, she could see a large building - the  
 
-49
-00:03:11,790 --> 00:03:18,320
-Two hundred metres down the road, also on
-the right, she could see a large building
+29
+00:03:19,360 --> 00:03:27,840
+Grand Hotel. On her left was the sea wall. And 
+on the other side of the wall were the beach  
 
-50
-00:03:18,320 --> 00:03:21,930
-- the Grand Hotel.
+30
+00:03:27,840 --> 00:03:34,880
+and the sea. There were a number of cars by the 
+side of the road. Shepherd stopped behind them.
 
-51
-00:03:21,930 --> 00:03:25,080
-On her left was the sea wall.
+31
+00:03:36,400 --> 00:03:38,880
+She looked quickly at herself in the car mirror:  
 
-52
-00:03:25,080 --> 00:03:30,120
-And on the other side of the wall were the
-beach and the sea.
+32
+00:03:40,240 --> 00:03:47,520
+grey-blonde hair tied back, intelligent 
+eyes, small nose, thin mouth.  
 
-53
-00:03:30,120 --> 00:03:33,760
-There were a number of cars by the side of
-the road.
+33
+00:03:49,440 --> 00:03:57,200
+'I don't look too bad,' she thought. But she 
+felt tired and old, and her head still hurt.
 
-54
-00:03:33,760 --> 00:03:36,650
-Shepherd stopped behind them.
+34
+00:03:59,520 --> 00:04:02,800
+She got out of her car and looked over the wall.  
 
-55
-00:03:36,650 --> 00:03:45,150
-She looked quickly at herself in the car mirror:
-grey-blonde hair tied back, intelligent eyes,
+35
+00:04:04,240 --> 00:04:12,320
+A cold wind was coming off the sea. The sun 
+was only just up. About fifty metres along  
 
-56
-00:03:45,150 --> 00:03:48,709
-small nose, thin mouth.
+36
+00:04:12,320 --> 00:04:19,680
+the beach some people were standing around 
+and looking down at something. The body.
 
-57
-00:03:48,709 --> 00:03:52,920
-'I don't look too bad,' she thought.
+37
+00:04:21,680 --> 00:04:28,320
+One of them, a young man in a blue 
+suit, looked round and saw Shepherd.
 
-58
-00:03:52,920 --> 00:03:59,769
-But she felt tired and old, and her head still
-hurt.
+38
+00:04:28,320 --> 00:04:32,960
+'That must be Webb,' thought 
+Shepherd. 'He looks about sixteen.'
 
-59
-00:03:59,769 --> 00:04:03,480
-She got out of her car and looked over the
-wall.
+39
+00:04:34,640 --> 00:04:41,840
+It was true what people said: as you 
+get older, police officers look younger.
 
-60
-00:04:03,480 --> 00:04:07,810
-A cold wind was coming off the sea.
-
-61
-00:04:07,810 --> 00:04:10,459
-The sun was only just up.
-
-62
-00:04:10,459 --> 00:04:19,359
-About fifty metres along the beach some people
-were standing around and looking down at something.
-
-63
-00:04:19,359 --> 00:04:21,969
-The body.
-
-64
-00:04:21,969 --> 00:04:27,960
-One of them, a young man in a blue suit, looked
-round and saw Shepherd.
-
-65
-00:04:27,960 --> 00:04:31,650
-'That must be Webb,' thought Shepherd.
-
-66
-00:04:31,650 --> 00:04:34,889
-'He looks about sixteen.'
-
-67
-00:04:34,889 --> 00:04:42,199
-It was true what people said: as you get older,
-police officers look younger.
-
-68
-00:04:42,199 --> 00:04:46,240
+40
+00:04:41,840 --> 00:04:44,560
 Webb came to meet Shepherd as she walked over.
 
-69
-00:04:46,240 --> 00:04:48,759
-'I'm Brian Webb, madam,' he said.
+41
+00:04:45,920 --> 00:04:50,000
+'I'm Brian Webb, madam,' he 
+said. 'Your new sergeant.'
 
-70
-00:04:48,759 --> 00:04:50,240
-'Your new sergeant.'
-
-71
-00:04:50,240 --> 00:04:54,259
+42
+00:04:51,120 --> 00:04:53,280
 'I know,' said Shepherd.
 
-72
-00:04:54,259 --> 00:04:58,279
+43
+00:04:55,040 --> 00:04:56,960
 'You know?' asked Webb.
 
-73
-00:04:58,279 --> 00:05:02,309
-'Yes, Sergeant,' replied Shepherd.
+44
+00:04:58,640 --> 00:05:05,200
+'Yes, Sergeant,' replied Shepherd. She 
+waved a hand at the others. 'You're the  
 
-74
-00:05:02,309 --> 00:05:05,009
-She waved a hand at the others.
+45
+00:05:05,200 --> 00:05:11,440
+only person here I don't know, so you must be 
+my new sergeant. I'm a detective, remember.'
 
-75
-00:05:05,009 --> 00:05:09,990
-'You're the only person here I don't know,
-so you must be my new sergeant.
+46
+00:05:12,400 --> 00:05:16,960
+'Oh!' said Webb, looking down and then up again.
 
-76
-00:05:09,990 --> 00:05:13,080
-I'm a detective, remember.'
-
-77
-00:05:13,080 --> 00:05:18,919
-'Oh!' said Webb, looking down and then up
-again.
-
-78
-00:05:18,919 --> 00:05:21,259
+47
+00:05:18,480 --> 00:05:19,920
 Shepherd looked him in the eye.
 
-79
-00:05:21,259 --> 00:05:23,749
-'And don't call me madam,' she said.
+48
+00:05:20,960 --> 00:05:26,080
+'And don't call me madam,' she said. 'It's 
+Shep. That's what everyone calls me.'
 
-80
-00:05:23,749 --> 00:05:24,809
-'It's Shep.
-
-81
-00:05:24,809 --> 00:05:27,189
-That's what everyone calls me.'
-
-82
-00:05:27,189 --> 00:05:31,740
+49
+00:05:27,840 --> 00:05:30,640
 'Right, madam - Shep,' said Webb.
 
-83
-00:05:31,740 --> 00:05:33,849
-'OK,' said Shepherd.
+50
+00:05:31,680 --> 00:05:35,680
+'OK,' said Shepherd. 'Let's 
+go and see what we've got.'
 
-84
-00:05:33,849 --> 00:05:37,690
-'Let's go and see what we've got.'
+51
+00:05:37,440 --> 00:05:41,360
+They walked over to the other people. On the beach  
 
-85
-00:05:37,690 --> 00:05:40,530
-They walked over to the other people.
+52
+00:05:41,360 --> 00:05:48,080
+was the body of a young woman wearing a dark blue 
+skirt, a white blouse and a short red jacket.  
 
-86
-00:05:40,530 --> 00:05:46,629
-On the beach was the body of a young woman
-wearing a dark blue skirt, a white blouse
-
-87
-00:05:46,629 --> 00:05:49,349
-and a short red jacket.
-
-88
-00:05:49,349 --> 00:05:52,389
-She had a pretty face and short blonde hair.
-
-89
-00:05:52,389 --> 00:05:56,080
+53
+00:05:49,120 --> 00:05:55,520
+She had a pretty face and short blonde hair. 
 The back of her head was dark with blood.
 
-90
-00:05:56,080 --> 00:06:01,500
-A man in white clothes was down on one knee
-looking at the body.
+54
+00:05:56,960 --> 00:06:00,800
+A man in white clothes was down 
+on one knee looking at the body.  
 
-91
-00:06:01,500 --> 00:06:05,119
+55
+00:06:02,000 --> 00:06:05,840
 He heard Shepherd arrive and looked up.
 
-92
-00:06:05,119 --> 00:06:08,530
+56
+00:06:05,840 --> 00:06:07,760
 'Morning, Shep,' he said.
 
-93
-00:06:08,530 --> 00:06:11,870
+57
+00:06:08,560 --> 00:06:10,880
 'Dr Atkinson,' replied Shep.
 
-94
-00:06:11,870 --> 00:06:17,189
-Atkinson stood up and took the plastic gloves
-off his hands.
+58
+00:06:12,240 --> 00:06:15,600
+Atkinson stood up and took the 
+plastic gloves off his hands.
 
-95
-00:06:17,189 --> 00:06:19,270
-'It's murder,' he said.
+59
+00:06:16,880 --> 00:06:22,400
+'It's murder,' he said. 'Someone hit her 
+on the back of the head. It killed her.'
 
-96
-00:06:19,270 --> 00:06:21,899
-'Someone hit her on the back of the head.
-
-97
-00:06:21,899 --> 00:06:23,099
-It killed her.'
-
-98
-00:06:23,099 --> 00:06:26,110
+60
+00:06:23,600 --> 00:06:26,160
 'Hit her with what?' asked Shepherd.
 
-99
-00:06:26,110 --> 00:06:30,569
-'I don't know at the moment,' answered Atkinson.
+61
+00:06:26,160 --> 00:06:33,440
+'I don't know at the moment,' answered Atkinson. 
+He looked up and down the beach. 'But it could  
 
-100
-00:06:30,569 --> 00:06:33,029
-He looked up and down the beach.
+62
+00:06:33,440 --> 00:06:40,640
+still be here on the beach. Not a stone, I don't 
+think. Something longer. A piece of wood, maybe.'
 
-101
-00:06:33,029 --> 00:06:35,050
-'But it could still be here on the beach.
+63
+00:06:42,320 --> 00:06:48,560
+Shepherd looked up and down the beach. There 
+were lots of bits of wood, brought in by the sea.
 
-102
-00:06:35,050 --> 00:06:37,610
-Not a stone, I don't think.
-
-103
-00:06:37,610 --> 00:06:38,779
-Something longer.
-
-104
-00:06:38,779 --> 00:06:42,780
-A piece of wood, maybe.'
-
-105
-00:06:42,780 --> 00:06:45,889
-Shepherd looked up and down the beach.
-
-106
-00:06:45,889 --> 00:06:49,360
-There were lots of bits of wood, brought in
-by the sea.
-
-107
-00:06:49,360 --> 00:06:53,330
+64
+00:06:49,600 --> 00:06:52,320
 'What time did she die?' asked Shepherd.
 
-108
-00:06:53,330 --> 00:06:58,400
-'Late last night or early this morning,' replied
-Atkinson.
+65
+00:06:53,760 --> 00:06:57,760
+'Late last night or early this 
+morning,' replied Atkinson.  
 
-109
-00:06:58,400 --> 00:07:02,550
-'Say between eleven and two.
+66
+00:06:58,560 --> 00:07:04,400
+'Say between eleven and two. I 
+can probably tell you more later.'
 
-110
-00:07:02,550 --> 00:07:05,479
-I can probably tell you more later.'
-
-111
-00:07:05,479 --> 00:07:10,669
+67
+00:07:05,360 --> 00:07:08,080
 'OK, thanks,' said Shepherd.
 
-112
-00:07:10,669 --> 00:07:15,270
-She said nothing for a moment and just looked
-out to sea.
+68
+00:07:10,400 --> 00:07:16,880
+She said nothing for a moment and just looked 
+out to sea. Her head was feeling better already.  
 
-113
-00:07:15,270 --> 00:07:18,369
-Her head was feeling better already.
+69
+00:07:18,080 --> 00:07:24,080
+Three aspirins and a dead body - a quick 
+way to make a headache go away. Not funny  
 
-114
-00:07:18,369 --> 00:07:23,729
-Three aspirins and a dead body - a quick way
-to make a headache go away.
+70
+00:07:24,080 --> 00:07:33,280
+really - not for the poor woman dead on the 
+beach. 'Excuse me, ma-, I mean Shep,' said Webb.
 
-115
-00:07:23,729 --> 00:07:29,569
-Not funny really - not for the poor woman
-dead on the beach.
+71
+00:07:34,720 --> 00:07:39,840
+Shepherd looked at him. Webb moved 
+uncomfortably from one foot to the other.  
 
-116
-00:07:29,569 --> 00:07:35,159
-'Excuse me, ma-, I mean Shep,' said Webb.
+72
+00:07:40,720 --> 00:07:44,400
+He was a bit like a young dog, 
+wanting to please her all the time.
 
-117
-00:07:35,159 --> 00:07:37,279
-Shepherd looked at him.
+73
+00:07:46,000 --> 00:07:53,840
+'The man who found her... er, the body,' 
+began Webb. 'He's a waiter at the Grand Hotel  
 
-118
-00:07:37,279 --> 00:07:40,969
-Webb moved uncomfortably from one foot to
-the other.
+74
+00:07:53,840 --> 00:08:00,080
+and he thinks she was staying there. Well, 
+actually, he's quite sure she was staying there.'
 
-119
-00:07:40,969 --> 00:07:45,349
-He was a bit like a young dog, wanting to
-please her all the time.
-
-120
-00:07:45,349 --> 00:07:51,089
-'The man who found her... er, the body,' began
-Webb.
-
-121
-00:07:51,089 --> 00:07:56,729
-'He's a waiter at the Grand Hotel and he thinks
-she was staying there.
-
-122
-00:07:56,729 --> 00:08:01,680
-Well, actually, he's quite sure she was staying
-there.'
-
-123
-00:08:01,680 --> 00:08:04,889
+75
+00:08:01,360 --> 00:08:03,840
 'And where is he now?' asked Shepherd.
 
-124
-00:08:04,889 --> 00:08:08,969
-'Erm... he's at the hotel,' replied Webb.
+76
+00:08:04,480 --> 00:08:10,720
+'Erm... he's at the hotel,' replied 
+Webb. 'He had to go to work.'
 
-125
-00:08:08,969 --> 00:08:12,110
-'He had to go to work.'
+77
+00:08:11,680 --> 00:08:16,240
+'What?' said Shepherd, giving Webb an angry look.
 
-126
-00:08:12,110 --> 00:08:17,150
-'What?' said Shepherd, giving Webb an angry
-look.
+78
+00:08:17,440 --> 00:08:21,920
+'Well... erm... he was late 
+already,' replied Webb.
 
-127
-00:08:17,150 --> 00:08:23,860
-'Well... erm... he was late already,' replied
-Webb.
+79
+00:08:23,600 --> 00:08:27,520
+And what if I want to speak to 
+him?' asked Shepherd. 'Now?'
 
-128
-00:08:23,860 --> 00:08:28,080
-And what if I want to speak to him?' asked
-Shepherd.
+80
+00:08:29,520 --> 00:08:34,880
+'Well...' Webb looked more 
+uncomfortable. 'I can always.'
 
-129
-00:08:28,080 --> 00:08:29,770
-'Now?'
+81
+00:08:35,440 --> 00:08:44,000
+'No,' said Shepherd. 'Later. First, I want you to 
+get as many officers as you can down here on the  
 
-130
-00:08:29,770 --> 00:08:31,470
-'Well...'
+82
+00:08:44,000 --> 00:08:50,400
+beach. They're looking for the piece of wood 
+or some other thing that killed this woman.'
 
-131
-00:08:31,470 --> 00:08:33,370
-Webb looked more uncomfortable.
-
-132
-00:08:33,370 --> 00:08:36,090
-'I can always.'
-
-133
-00:08:36,090 --> 00:08:37,720
-'No,' said Shepherd.
-
-134
-00:08:37,720 --> 00:08:38,720
-'Later.
-
-135
-00:08:38,720 --> 00:08:45,070
-First, I want you to get as many officers
-as you can down here on the beach.
-
-136
-00:08:45,070 --> 00:08:50,470
-They're looking for the piece of wood or some
-other thing that killed this woman.'
-
-137
-00:08:50,470 --> 00:08:54,910
+83
+00:08:51,360 --> 00:08:53,280
 'Right, Shep,' replied Webb.
 
-138
-00:08:54,910 --> 00:08:56,970
+84
+00:08:54,480 --> 00:08:56,480
 Shepherd turned to Dr Atkinson.
 
-139
-00:08:56,970 --> 00:09:04,820
-'Let the photographer finish his work, then
-you can take the body away,' she said.
+85
+00:08:58,400 --> 00:09:03,680
+'Let the photographer finish his work, 
+then you can take the body away,' she said.
 
-140
-00:09:04,820 --> 00:09:09,400
+86
+00:09:04,480 --> 00:09:07,840
 'OK, Shep,' replied Atkinson.
 
-141
-00:09:09,400 --> 00:09:14,620
-Shepherd walked back up the beach and sat
-on the top of the sea wall, enjoying the smell
+87
+00:09:08,960 --> 00:09:12,880
+Shepherd walked back up the beach 
+and sat on the top of the sea wall,  
 
-142
-00:09:14,620 --> 00:09:16,000
-of the sea air.
+88
+00:09:13,600 --> 00:09:18,800
+enjoying the smell of the sea air. She 
+looked in her bag for some cigarettes,  
 
-143
-00:09:16,000 --> 00:09:23,430
-She looked in her bag for some cigarettes,
-then remembered she didn't smoke any more.
-
-144
-00:09:23,430 --> 00:09:27,580
+89
+00:09:19,360 --> 00:09:25,840
+then remembered she didn't smoke any more. 
 Three weeks without a cigarette - not bad.
 
-145
-00:09:27,580 --> 00:09:30,410
-She watched Webb finish his call.
+90
+00:09:27,280 --> 00:09:33,280
+She watched Webb finish his call. 'He must 
+be one of these university police officers,'  
 
-146
-00:09:30,410 --> 00:09:34,620
-'He must be one of these university police
-officers,' she thought.
+91
+00:09:33,280 --> 00:09:37,840
+she thought. 'They leave 
+university, become a police officer,  
 
-147
-00:09:34,620 --> 00:09:41,490
-'They leave university, become a police officer,
-then a sergeant by the age of twenty-five,
-
-148
-00:09:41,490 --> 00:09:45,820
+92
+00:09:38,400 --> 00:09:43,760
+then a sergeant by the age of twenty-five, 
 and know little about real police work.'
 
-149
-00:09:45,820 --> 00:09:49,110
+93
+00:09:45,520 --> 00:09:50,320
 Webb walked up the beach to Shepherd.
 
-150
-00:09:49,110 --> 00:09:55,090
-'Have you worked on many murders before, Sergeant?'
-asked Shepherd.
+94
+00:09:50,320 --> 00:09:54,400
+'Have you worked on many murders 
+before, Sergeant?' asked Shepherd.
 
-151
-00:09:55,090 --> 00:09:58,050
-'No, Shep,' he replied.
+95
+00:09:55,600 --> 00:10:02,000
+'No, Shep,' he replied. 'Not 
+many. Well, not any really.'
 
-152
-00:09:58,050 --> 00:10:00,240
-'Not many.
+96
+00:10:03,600 --> 00:10:09,440
+'So,' thought Shepherd, 'this could be a 
+difficult job for Webb - his first murder.'
 
-153
-00:10:00,240 --> 00:10:02,080
-Well, not any really.'
+97
+00:10:11,680 --> 00:10:16,800
+'The first twenty-four hours are the most 
+important,' said Shepherd. 'Don't forget that.'
 
-154
-00:10:02,080 --> 00:10:11,020
-'So,' thought Shepherd, 'this could be a difficult
-job for Webb - his first murder.'
+98
+00:10:17,840 --> 00:10:22,080
+'Yes. I mean no. I won't,' replied Webb.
 
-155
-00:10:11,020 --> 00:10:15,730
-'The first twenty-four hours are the most
-important,' said Shepherd.
+99
+00:10:24,160 --> 00:10:30,880
+'I want the person who did this,' said Shepherd. 
+'And I want him or her by this time tomorrow.  
 
-156
-00:10:15,730 --> 00:10:17,680
-'Don't forget that.'
-
-157
-00:10:17,680 --> 00:10:18,680
-'Yes.
-
-158
-00:10:18,680 --> 00:10:20,180
-I mean no.
-
-159
-00:10:20,180 --> 00:10:23,560
-I won't,' replied Webb.
-
-160
-00:10:23,560 --> 00:10:27,500
-'I want the person who did this,' said Shepherd.
-
-161
-00:10:27,500 --> 00:10:32,160
-'And I want him or her by this time tomorrow.
-
-162
-00:10:32,160 --> 00:10:34,790
+100
+00:10:31,760 --> 00:10:34,640
 After that our job starts to get more difficult.'
 
-163
-00:10:34,790 --> 00:10:39,690
+101
+00:10:36,080 --> 00:10:37,920
 'Right, Shep,' said Webb.
 
-164
-00:10:39,690 --> 00:10:42,400
-'Now,' said Shepherd.
+102
+00:10:40,080 --> 00:10:48,240
+'Now,' said Shepherd. 'You go to the Grand Hotel. 
+Talk to the waiter who found the body. Find out  
 
-165
-00:10:42,400 --> 00:10:45,880
-'You go to the Grand Hotel.
-
-166
-00:10:45,880 --> 00:10:48,090
-Talk to the waiter who found the body.
-
-167
-00:10:48,090 --> 00:10:51,720
-Find out who the dead woman is and what she
-was doing here.
-
-168
-00:10:51,720 --> 00:10:54,780
+103
+00:10:48,240 --> 00:10:53,840
+who the dead woman is and what she was doing here. 
 And get us a room where we can talk to people.'
 
-169
-00:10:54,780 --> 00:10:58,200
+104
+00:10:55,200 --> 00:10:57,040
 'OK, Shep,' said Webb.
 
-170
-00:10:58,200 --> 00:11:04,760
-'I'm going over the road for some breakfast,'
-said Shepherd, looking at the Seaview Cafe.
+105
+00:10:58,480 --> 00:11:02,560
+'I'm going over the road for 
+some breakfast,' said Shepherd,  
 
-171
-00:11:04,760 --> 00:11:09,570
-'I'll see you at the hotel in half an hour.'
+106
+00:11:02,560 --> 00:11:07,120
+looking at the Seaview Cafe. 'I'll 
+see you at the hotel in half an hour.'
 
-172
-00:11:09,570 --> 00:11:12,430
+107
+00:11:09,280 --> 00:11:11,680
 Webb watched Shepherd walk over to the cafe.
 
-173
-00:11:12,430 --> 00:11:19,450
-'She wants the job done quickly,' he thought
-to himself, 'but first she wants breakfast.
+108
+00:11:12,960 --> 00:11:17,920
+'She wants the job done quickly,' he thought 
+to himself, 'but first she wants breakfast.  
 
-174
-00:11:19,450 --> 00:11:27,740
+109
+00:11:19,200 --> 00:11:21,360
 This could be a long and difficult day.'
+ 
+ 
+ 
 
-175
-00:11:27,740 --> 00:11:35,180
+110
+00:11:27,680 --> 00:11:28,400
 CHAPTER TWO
+
+111
+00:11:29,840 --> 00:11:32,000
 McNab Music International
 
-176
-00:11:35,180 --> 00:11:41,190
-Twenty-five minutes later Shepherd walked
-through the front doors of the Grand Hotel.
+112
+00:11:34,720 --> 00:11:39,760
+Twenty-five minutes later Shepherd walked 
+through the front doors of the Grand Hotel.  
 
-177
-00:11:41,190 --> 00:11:45,900
-She felt much better after a bacon sandwich
-and a cup of coffee.
+113
+00:11:40,960 --> 00:11:44,640
+She felt much better after a bacon 
+sandwich and a cup of coffee.  
 
-178
-00:11:45,900 --> 00:11:49,470
-It was eight o'clock and Webb was waiting
-for her.
+114
+00:11:45,680 --> 00:11:52,080
+It was eight o'clock and Webb was waiting 
+for her. There were a number of comfortable  
 
-179
-00:11:49,470 --> 00:11:56,340
-There were a number of comfortable sofas and
-chairs near the front desk, but at this time
+115
+00:11:52,080 --> 00:11:58,880
+sofas and chairs near the front desk, but at this 
+time in the morning not many people were around.
 
-180
-00:11:56,340 --> 00:12:00,020
-in the morning not many people were around.
+116
+00:12:00,480 --> 00:12:05,360
+'I've got us a room,' said Webb, leading 
+the way to the back of the hotel.  
 
-181
-00:12:00,020 --> 00:12:06,570
-'I've got us a room,' said Webb, leading the
-way to the back of the hotel.
+117
+00:12:06,240 --> 00:12:10,640
+'It's the Wells room - named after 
+H.G. Wells, the famous writer.  
 
-182
-00:12:06,570 --> 00:12:11,510
-'It's the Wells room - named after H.G. Wells,
-the famous writer.
+118
+00:12:11,200 --> 00:12:14,880
+Did you know that he lived near here 
+- between Hythe and Folkestone?'
 
-183
-00:12:11,510 --> 00:12:15,970
-Did you know that he lived near here - between
-Hythe and Folkestone?'
-
-184
-00:12:15,970 --> 00:12:20,290
+119
+00:12:16,000 --> 00:12:19,520
 'No,' said Shepherd, her voice uninterested.
 
-185
-00:12:20,290 --> 00:12:25,600
-Soon they came to a door with the word 'Wells'
-on it.
+120
+00:12:21,040 --> 00:12:24,640
+Soon they came to a door 
+with the word 'Wells' on it.
 
-186
-00:12:25,600 --> 00:12:28,400
+121
+00:12:25,760 --> 00:12:27,040
 Webb opened the door.
 
-187
-00:12:28,400 --> 00:12:31,760
-'It's not a very large room,' he said.
+122
+00:12:28,080 --> 00:12:35,840
+'It's not a very large room,' he said. 'The 
+hotel uses it for small meetings and parties.'
 
-188
-00:12:31,760 --> 00:12:37,890
-'The hotel uses it for small meetings and
-parties.'
+123
+00:12:37,520 --> 00:12:43,040
+'It's fine,' said Shepherd 
+looking round. There was a table  
 
-189
-00:12:37,890 --> 00:12:42,290
-'It's fine,' said Shepherd looking round.
+124
+00:12:43,040 --> 00:12:47,840
+in the centre of the room and four 
+chairs down each side of the table.
 
-190
-00:12:42,290 --> 00:12:49,860
-There was a table in the centre of the room
-and four chairs down each side of the table.
+125
+00:12:49,440 --> 00:12:53,600
+Shepherd took a chair and waved 
+a hand for Webb to sit down too.
 
-191
-00:12:49,860 --> 00:12:55,060
-Shepherd took a chair and waved a hand for
-Webb to sit down too.
+126
+00:12:55,120 --> 00:12:58,800
+'OK,' she said. 'What have you got?'
 
-192
-00:12:55,060 --> 00:12:57,530
-'OK,' she said.
+127
+00:13:00,400 --> 00:13:08,080
+'The dead woman is Claudia Engel,' said Webb. 
+He took a piece of paper from inside his jacket  
 
-193
-00:12:57,530 --> 00:12:59,660
-'What have you got?'
+128
+00:13:08,080 --> 00:13:15,280
+and looked at it. 'She's German, but she lived in 
+London. She was here with three other people from  
 
-194
-00:12:59,660 --> 00:13:05,670
-'The dead woman is Claudia Engel,' said Webb.
-
-195
-00:13:05,670 --> 00:13:09,540
-He took a piece of paper from inside his jacket
-and looked at it.
-
-196
-00:13:09,540 --> 00:13:13,320
-'She's German, but she lived in London.
-
-197
-00:13:13,320 --> 00:13:20,320
-She was here with three other people from
-a company called MMI - McNab Music International.
-
-198
-00:13:20,320 --> 00:13:22,180
+129
+00:13:15,280 --> 00:13:21,920
+a company called MMI - McNab Music International. 
 They're a music company from London.
 
-199
-00:13:22,180 --> 00:13:26,290
-They use the hotel for meetings from time
-to time.'
+130
+00:13:22,880 --> 00:13:25,760
+They use the hotel for 
+meetings from time to time.'
 
-200
-00:13:26,290 --> 00:13:31,100
+131
+00:13:27,040 --> 00:13:29,600
 'Who are the others?' asked Shepherd.
 
-201
-00:13:31,100 --> 00:13:33,890
-Webb looked down at his piece of paper again.
+132
+00:13:30,800 --> 00:13:34,160
+Webb looked down at his piece of paper again.  
 
-202
-00:13:33,890 --> 00:13:35,700
-'James McNab.
+133
+00:13:34,160 --> 00:13:41,680
+'James McNab. It's his company. Then 
+there's Ajit Chowdury and Harriet Johnson.'
 
-203
-00:13:35,700 --> 00:13:37,410
-It's his company.
+134
+00:13:43,520 --> 00:13:47,840
+Just then the door opened. A man 
+came into the room and stopped.  
 
-204
-00:13:37,410 --> 00:13:43,880
-Then there's Ajit Chowdury and Harriet Johnson.'
+135
+00:13:48,960 --> 00:13:56,480
+He was tall, in his early forties, clean-shaven 
+and good-looking. He was well dressed:  
 
-205
-00:13:43,880 --> 00:13:46,300
-Just then the door opened.
+136
+00:13:57,280 --> 00:14:05,840
+expensive dark grey suit, clean white shirt and 
+red tie. Shepherd could almost smell the money.
 
-206
-00:13:46,300 --> 00:13:49,230
-A man came into the room and stopped.
-
-207
-00:13:49,230 --> 00:13:55,430
-He was tall, in his early forties, clean-shaven
-and good-looking.
-
-208
-00:13:55,430 --> 00:14:03,860
-He was well dressed: expensive dark grey suit,
-clean white shirt and red tie.
-
-209
-00:14:03,860 --> 00:14:07,190
-Shepherd could almost smell the money.
-
-210
-00:14:07,190 --> 00:14:11,540
+137
+00:14:06,960 --> 00:14:09,440
 The man looked at Webb, then at Shepherd.
 
-211
-00:14:11,540 --> 00:14:14,810
-'I'm James McNab,' he said to Shepherd.
+138
+00:14:11,200 --> 00:14:16,640
+'I'm James McNab,' he said to Shepherd. 
+'Your sergeant said you wanted to see me.'  
 
-212
-00:14:14,810 --> 00:14:18,310
-'Your sergeant said you wanted to see me.'
+139
+00:14:18,000 --> 00:14:24,320
+His voice was rather high for a tall man. 'I 
+asked him why, but he said he couldn't tell me.'
 
-213
-00:14:18,310 --> 00:14:21,060
-His voice was rather high for a tall man.
+140
+00:14:26,000 --> 00:14:29,840
+Shepherd got the feeling that this 
+was a man who liked to be the boss.  
 
-214
-00:14:21,060 --> 00:14:26,490
-'I asked him why, but he said he couldn't
-tell me.'
+141
+00:14:31,280 --> 00:14:35,360
+He certainly didn't mind walking 
+into a room without knocking first.
 
-215
-00:14:26,490 --> 00:14:31,490
-Shepherd got the feeling that this was a man
-who liked to be the boss.
+142
+00:14:36,560 --> 00:14:41,440
+'Well, what's the problem?' said 
+McNab, looking at his watch.  
 
-216
-00:14:31,490 --> 00:14:35,970
-He certainly didn't mind walking into a room
-without knocking first.
+143
+00:14:42,720 --> 00:14:46,560
+'I've got a meeting at nine 
+o'clock and a lot to do before it.'
 
-217
-00:14:35,970 --> 00:14:42,200
-'Well, what's the problem?' said McNab, looking
-at his watch.
+144
+00:14:49,040 --> 00:14:53,360
+With Webb so new to the job, 
+Shepherd couldn't see him  
 
-218
-00:14:42,200 --> 00:14:49,330
-'I've got a meeting at nine o'clock and a
-lot to do before it.'
+145
+00:14:53,360 --> 00:14:59,840
+asking many questions. She looked at 
+McNab and tried to decide how to begin.  
 
-219
-00:14:49,330 --> 00:14:56,240
-With Webb so new to the job, Shepherd couldn't
-see him asking many questions.
+146
+00:15:01,520 --> 00:15:06,480
+'I'd like him to feel less sure of 
+himself from the beginning,' she thought.
 
-220
-00:14:56,240 --> 00:15:00,320
-She looked at McNab and tried to decide how
-to begin.
-
-221
-00:15:00,320 --> 00:15:07,140
-'I'd like him to feel less sure of himself
-from the beginning,' she thought.
-
-222
-00:15:07,140 --> 00:15:12,100
+147
+00:15:07,520 --> 00:15:11,840
 'Does Claudia Engel work for you?' asked Shepherd.
 
-223
-00:15:12,100 --> 00:15:15,590
-'Yes, she does,' replied McNab.
+148
+00:15:12,480 --> 00:15:15,920
+'Yes, she does,' replied McNab. 'And?'
 
-224
-00:15:15,590 --> 00:15:16,590
-'And?'
+149
+00:15:18,080 --> 00:15:23,600
+'I'm afraid I've got some bad news,' said 
+Shepherd. 'We found a body on the beach  
 
-225
-00:15:16,590 --> 00:15:21,750
-'I'm afraid I've got some bad news,' said
-Shepherd.
-
-226
-00:15:21,750 --> 00:15:25,160
-'We found a body on the beach this morning.
-
-227
-00:15:25,160 --> 00:15:27,950
-We believe it is Claudia Engel.
-
-228
-00:15:27,950 --> 00:15:30,390
+150
+00:15:23,600 --> 00:15:30,480
+this morning. We believe it is Claudia Engel. 
 We also believe that someone murdered her.'
 
-229
-00:15:30,390 --> 00:15:31,510
-'What?'
+151
+00:15:31,440 --> 00:15:41,600
+'What?' McNab's mouth fell open. 'Claudia? 
+I don't believe it. It can't be true.'
 
-230
-00:15:31,510 --> 00:15:35,990
-McNab's mouth fell open.
-
-231
-00:15:35,990 --> 00:15:37,110
-'Claudia?
-
-232
-00:15:37,110 --> 00:15:39,361
-I don't believe it.
-
-233
-00:15:39,361 --> 00:15:42,080
-It can't be true.'
-
-234
-00:15:42,080 --> 00:15:46,089
+152
+00:15:42,560 --> 00:15:45,280
 'I'm afraid it is,' said Shepherd.
 
-235
-00:15:46,089 --> 00:15:49,600
-'That's terrible!' said McNab.
+153
+00:15:46,480 --> 00:15:50,320
+'That's terrible!' said McNab. 'Terrible!'
 
-236
-00:15:49,600 --> 00:15:50,660
-'Terrible!'
+154
+00:15:52,080 --> 00:15:56,720
+'I need to ask you some questions,' 
+said Shepherd. 'Take a seat.'
 
-237
-00:15:50,660 --> 00:15:55,839
-'I need to ask you some questions,' said Shepherd.
+155
+00:15:58,400 --> 00:16:05,440
+'Well,' said McNab, looking at his watch 
+again. 'Of course, I'll do what I can to help.'  
 
-238
-00:15:55,839 --> 00:15:58,870
-'Take a seat.'
-
-239
-00:15:58,870 --> 00:16:02,780
-'Well,' said McNab, looking at his watch again.
-
-240
-00:16:02,780 --> 00:16:07,279
-'Of course, I'll do what I can to help.'
-
-241
-00:16:07,279 --> 00:16:11,279
+156
+00:16:07,040 --> 00:16:09,040
 He pulled a chair out and sat down.
 
-242
-00:16:11,279 --> 00:16:15,420
+157
+00:16:10,960 --> 00:16:14,080
 'Tell me why you're here in Hythe,' said Shepherd.
 
-243
-00:16:15,420 --> 00:16:17,990
-McNab took a moment to think.
+158
+00:16:15,120 --> 00:16:19,920
+McNab took a moment to think. He 
+looked at Webb and then at Shepherd.
 
-244
-00:16:17,990 --> 00:16:20,870
-He looked at Webb and then at Shepherd.
+159
+00:16:21,680 --> 00:16:29,120
+'Two or three times a year we come here for a day 
+or two,' he began. 'Our offices are in London, but  
 
-245
-00:16:20,870 --> 00:16:26,830
-'Two or three times a year we come here for
-a day or two,' he began.
+160
+00:16:29,840 --> 00:16:33,600
+it's sometimes easier to work without 
+the phone going every five minutes.  
 
-246
-00:16:26,830 --> 00:16:32,940
-'Our offices are in London, but it's sometimes
-easier to work without the phone going every
+161
+00:16:34,480 --> 00:16:37,840
+We come here to get away and 
+talk about important business.'
 
-247
-00:16:32,940 --> 00:16:34,690
-five minutes.
-
-248
-00:16:34,690 --> 00:16:38,390
-We come here to get away and talk about important
-business.'
-
-249
-00:16:38,390 --> 00:16:42,870
+162
+00:16:38,560 --> 00:16:41,280
 'What important business?' asked Shepherd.
 
-250
-00:16:42,870 --> 00:16:44,490
-McNab moved on his chair.
+163
+00:16:42,560 --> 00:16:48,080
+McNab moved on his chair. 'Why 
+do you want to know?' he asked.  
 
-251
-00:16:44,490 --> 00:16:48,490
-'Why do you want to know?' he asked.
+164
+00:16:49,360 --> 00:16:53,600
+'I don't like to tell people too much about 
+our business. Do you need to know this?'
 
-252
-00:16:48,490 --> 00:16:52,670
-'I don't like to tell people too much about
-our business.
+165
+00:16:55,760 --> 00:16:59,360
+Shepherd put both hands on the table and sat up.
 
-253
-00:16:52,670 --> 00:16:56,220
-Do you need to know this?'
+166
+00:17:00,800 --> 00:17:09,040
+'Mr McNab,' she said quietly, a hard look 
+in her eyes, 'we're talking about a murder.  
 
-254
-00:16:56,220 --> 00:17:00,290
-Shepherd put both hands on the table and sat
-up.
+167
+00:17:10,480 --> 00:17:15,680
+I'm going to ask any question I 
+want and you're going to answer it.'
 
-255
-00:17:00,290 --> 00:17:09,659
-'Mr McNab,' she said quietly, a hard look
-in her eyes, 'we're talking about a murder.
+168
+00:17:17,760 --> 00:17:22,560
+McNab put both hands up in front of 
+him, as if keeping Shepherd away.  
 
-256
-00:17:09,659 --> 00:17:18,119
-I'm going to ask any question I want and you're
-going to answer it.'
+169
+00:17:22,560 --> 00:17:26,160
+'OK, OK,' he said. 'I was only asking.'
 
-257
-00:17:18,119 --> 00:17:22,889
-McNab put both hands up in front of him, as
-if keeping Shepherd away.
-
-258
-00:17:22,889 --> 00:17:24,970
-'OK, OK,' he said.
-
-259
-00:17:24,970 --> 00:17:27,850
-'I was only asking.'
-
-260
-00:17:27,850 --> 00:17:29,630
+170
+00:17:27,440 --> 00:17:28,720
 Shepherd sat back.
 
-261
-00:17:29,630 --> 00:17:34,929
-McNab put his hands down and started speaking
-again.
+171
+00:17:29,760 --> 00:17:33,200
+McNab put his hands down 
+and started speaking again.  
 
-262
-00:17:34,929 --> 00:17:38,830
-'MMI is a music company.
+172
+00:17:35,440 --> 00:17:44,960
+'MMI is a music company. We make and sell CDs. 
+We sell music over the internet. We work with  
 
-263
-00:17:38,830 --> 00:17:41,110
-We make and sell CDs.
+173
+00:17:44,960 --> 00:17:52,400
+musicians. Anything to do with music, we do 
+it - like I say, we're in the music business.'
 
-264
-00:17:41,110 --> 00:17:44,110
-We sell music over the internet.
+174
+00:17:54,320 --> 00:17:57,760
+'So what did you come here to 
+talk about?' asked Shepherd.
 
-265
-00:17:44,110 --> 00:17:46,700
-We work with musicians.
+175
+00:17:59,200 --> 00:18:04,720
+'We had to decide a number of things,' 
+replied McNab, but said no more.
 
-266
-00:17:46,700 --> 00:17:53,400
-Anything to do with music, we do it - like
-I say, we're in the music business.'
+176
+00:18:06,400 --> 00:18:11,840
+Shepherd looked at him. 'Mr 
+McNab,' she said angrily,  
 
-267
-00:17:53,400 --> 00:17:58,610
-'So what did you come here to talk about?'
-asked Shepherd.
+177
+00:18:11,840 --> 00:18:19,760
+'this is going to be much easier if you help 
+me. What things did you have to decide?'
 
-268
-00:17:58,610 --> 00:18:06,820
-'We had to decide a number of things,' replied
-McNab, but said no more.
+178
+00:18:21,200 --> 00:18:26,560
+'We have some new bands we're interested 
+in - we wanted to talk about them,'  
 
-269
-00:18:06,820 --> 00:18:08,620
-Shepherd looked at him.
+179
+00:18:27,520 --> 00:18:35,280
+answered McNab, not looking at Shepherd. 'Two 
+of them are very good. And I wanted to talk to  
 
-270
-00:18:08,620 --> 00:18:17,220
-'Mr McNab,' she said angrily, 'this is going
-to be much easier if you help me.
+180
+00:18:35,280 --> 00:18:39,840
+the others about where the company 
+is going over the next few years.'
 
-271
-00:18:17,220 --> 00:18:20,389
-What things did you have to decide?'
+181
+00:18:41,600 --> 00:18:45,920
+'Tell me about the other people 
+who work for you,' said Shepherd.
 
-272
-00:18:20,389 --> 00:18:28,669
-'We have some new bands we're interested in
-- we wanted to talk about them,' answered
+182
+00:18:47,280 --> 00:18:52,400
+McNab looked happier now he was talking about the 
+people in the company and not company business.
 
-273
-00:18:28,669 --> 00:18:31,450
-McNab, not looking at Shepherd.
+183
+00:18:53,760 --> 00:19:01,760
+'Well, there's Ajit Chowdury,' said McNab. 'He's 
+the money man, the company accountant. Harriet  
 
-274
-00:18:31,450 --> 00:18:33,499
-'Two of them are very good.
+184
+00:19:01,760 --> 00:19:10,480
+Johnson looks after sales. She sells MMI's music 
+all round the world. And then Claudia looks...  
 
-275
-00:18:33,499 --> 00:18:41,950
-And I wanted to talk to the others about where
-the company is going over the next few years.'
+185
+00:19:12,000 --> 00:19:19,280
+looked after the music side of things. The 
+music itself, and the musicians and the bands.'
 
-276
-00:18:41,950 --> 00:18:47,649
-'Tell me about the other people who work for
-you,' said Shepherd.
-
-277
-00:18:47,649 --> 00:18:52,470
-McNab looked happier now he was talking about
-the people in the company and not company
-
-278
-00:18:52,470 --> 00:18:53,549
-business.
-
-279
-00:18:53,549 --> 00:18:57,149
-'Well, there's Ajit Chowdury,' said McNab.
-
-280
-00:18:57,149 --> 00:19:01,750
-'He's the money man, the company accountant.
-
-281
-00:19:01,750 --> 00:19:04,630
-Harriet Johnson looks after sales.
-
-282
-00:19:04,630 --> 00:19:09,279
-She sells MMI's music all round the world.
-
-283
-00:19:09,279 --> 00:19:16,080
-And then Claudia looks... looked after the
-music side of things.
-
-284
-00:19:16,080 --> 00:19:21,370
-The music itself, and the musicians and the
-bands.'
-
-285
-00:19:21,370 --> 00:19:25,679
+186
+00:19:21,120 --> 00:19:24,320
 'And how does everyone get on?' asked Shepherd.
 
-286
-00:19:25,679 --> 00:19:27,789
+187
+00:19:25,360 --> 00:19:26,800
 McNab thought for a moment.
 
-287
-00:19:27,789 --> 00:19:31,200
-'I think we get on well,' he said.
+188
+00:19:28,640 --> 00:19:32,000
+'I think we get on well,' he said. 'Of course,  
 
-288
-00:19:31,200 --> 00:19:37,710
-'Of course, we don't always agree with each
-other, but we're always adult about it.
+189
+00:19:32,000 --> 00:19:38,000
+we don't always agree with each other, but 
+we're always adult about it. Nobody takes  
 
-289
-00:19:37,710 --> 00:19:42,020
-Nobody takes their ball home and says they
-don't want to play anymore, if you see what
+190
+00:19:38,000 --> 00:19:42,320
+their ball home and says they don't want 
+to play anymore, if you see what I mean.'
 
-290
-00:19:42,020 --> 00:19:44,070
-I mean.'
+191
+00:19:43,760 --> 00:19:47,840
+McNab smiled. Shepherd didn't smile back.
 
-291
-00:19:44,070 --> 00:19:45,970
-McNab smiled.
-
-292
-00:19:45,970 --> 00:19:49,090
-Shepherd didn't smile back.
-
-293
-00:19:49,090 --> 00:19:52,190
+192
+00:19:48,800 --> 00:19:51,840
 'Tell us about last night,' she said.
 
-294
-00:19:52,190 --> 00:19:55,470
-'There's not much to tell,' answered McNab.
+193
+00:19:52,480 --> 00:20:00,560
+'There's not much to tell,' answered McNab. 'We 
+worked until about five. Then we met in the bar  
 
-295
-00:19:55,470 --> 00:19:59,509
-'We worked until about five.
+194
+00:20:00,560 --> 00:20:05,920
+sometime between seven and seven 
+thirty. We had dinner together in  
 
-296
-00:19:59,509 --> 00:20:04,740
-Then we met in the bar sometime between seven
-and seven thirty.
+195
+00:20:05,920 --> 00:20:12,080
+the restaurant and finished about nine 
+thirty. Then we went our different ways.  
 
-297
-00:20:04,740 --> 00:20:10,549
-We had dinner together in the restaurant and
-finished about nine thirty.
+196
+00:20:12,800 --> 00:20:19,840
+I went to my room and watched TV for half an 
+hour. Then I had a shower and went to bed.'
 
-298
-00:20:10,549 --> 00:20:12,950
-Then we went our different ways.
+197
+00:20:21,040 --> 00:20:24,480
+Shepherd looked at Webb to 
+see if he had any questions.
 
-299
-00:20:12,950 --> 00:20:17,419
-I went to my room and watched TV for half
-an hour.
+198
+00:20:26,560 --> 00:20:30,480
+'Did anything unusual happen 
+yesterday evening?' he asked.
 
-300
-00:20:17,419 --> 00:20:21,489
-Then I had a shower and went to bed.'
+199
+00:20:31,760 --> 00:20:37,040
+'Good question,' thought Shepherd. 'Maybe 
+there's more to Webb than I thought.'
 
-301
-00:20:21,489 --> 00:20:26,820
-Shepherd looked at Webb to see if he had any
-questions.
+200
+00:20:38,880 --> 00:20:43,360
+'No.' began McNab, but then 
+he stopped and thought.  
 
-302
-00:20:26,820 --> 00:20:31,639
-'Did anything unusual happen yesterday evening?'
-he asked.
+201
+00:20:45,120 --> 00:20:48,640
+'Actually, yes. There was something strange.'
 
-303
-00:20:31,639 --> 00:20:35,340
-'Good question,' thought Shepherd.
+202
+00:20:50,080 --> 00:20:54,480
+Webb didn't say anything. He just 
+waited for McNab to speak again.
 
-304
-00:20:35,340 --> 00:20:38,440
-'Maybe there's more to Webb than I thought.'
+203
+00:20:56,560 --> 00:21:04,480
+'When we were in the bar,' said McNab, 'a 
+man came in. As soon as he saw Claudia,  
 
-305
-00:20:38,440 --> 00:20:44,749
-'No.' began McNab, but then he stopped and
-thought.
+204
+00:21:05,120 --> 00:21:12,880
+he turned round and walked out again - 
+but she saw him. It was very strange.  
 
-306
-00:20:44,749 --> 00:20:47,440
-'Actually, yes.
+205
+00:21:12,880 --> 00:21:16,800
+Her face turned white. For a 
+moment she looked terrible.  
 
-307
-00:20:47,440 --> 00:20:50,429
-There was something strange.'
+206
+00:21:18,080 --> 00:21:26,320
+We asked her if she was OK. She said yes, she was 
+fine. She said it was just someone she once knew.'
 
-308
-00:20:50,429 --> 00:20:52,299
-Webb didn't say anything.
-
-309
-00:20:52,299 --> 00:20:55,210
-He just waited for McNab to speak again.
-
-310
-00:20:55,210 --> 00:21:00,911
-'When we were in the bar,' said McNab, 'a
-man came in.
-
-311
-00:21:00,911 --> 00:21:09,910
-As soon as he saw Claudia, he turned round
-and walked out again - but she saw him.
-
-312
-00:21:09,910 --> 00:21:13,110
-It was very strange.
-
-313
-00:21:13,110 --> 00:21:14,700
-Her face turned white.
-
-314
-00:21:14,700 --> 00:21:18,330
-For a moment she looked terrible.
-
-315
-00:21:18,330 --> 00:21:20,249
-We asked her if she was OK.
-
-316
-00:21:20,249 --> 00:21:23,809
-She said yes, she was fine.
-
-317
-00:21:23,809 --> 00:21:26,470
-She said it was just someone she once knew.'
-
-318
-00:21:26,470 --> 00:21:32,429
+207
+00:21:28,480 --> 00:21:31,040
 'What did the man look like?' asked Webb.
 
-319
-00:21:32,429 --> 00:21:35,350
-'I really don't remember,' said McNab.
+208
+00:21:32,480 --> 00:21:37,520
+'I really don't remember,' said 
+McNab. 'Fair hair, not tall,  
 
-320
-00:21:35,350 --> 00:21:39,440
-'Fair hair, not tall, not short, nothing unusual.
+209
+00:21:37,520 --> 00:21:41,600
+not short, nothing unusual. I 
+only saw him for a few seconds.'
 
-321
-00:21:39,440 --> 00:21:43,889
-I only saw him for a few seconds.'
+210
+00:21:43,440 --> 00:21:46,800
+Shepherd felt it was important 
+to find out more about this man  
 
-322
-00:21:43,889 --> 00:21:49,320
-Shepherd felt it was important to find out
-more about this man and decided to end the
+211
+00:21:47,520 --> 00:21:52,160
+and decided to end the conversation, 
+but McNab was speaking again.
 
-323
-00:21:49,320 --> 00:21:53,549
-conversation, but McNab was speaking again.
+212
+00:21:53,760 --> 00:21:58,240
+'Inspector,' he said, 'I hope 
+you find this man soon. I mean,  
 
-324
-00:21:53,549 --> 00:21:58,080
-'Inspector,' he said, 'I hope you find this
-man soon.
+213
+00:21:58,960 --> 00:22:02,640
+I'm sure the news of Claudia's 
+murder will be in the newspapers.  
 
-325
-00:21:58,080 --> 00:22:02,929
-I mean, I'm sure the news of Claudia's murder
-will be in the newspapers.
+214
+00:22:02,640 --> 00:22:07,120
+But I'd like to keep MMI away from 
+this kind of news as much as I can.'
 
-326
-00:22:02,929 --> 00:22:09,470
-But I'd like to keep MMI away from this kind
-of news as much as I can.'
+215
+00:22:09,040 --> 00:22:14,240
+Shepherd smiled to herself. McNab, the 
+boss, was looking after his company again.
 
-327
-00:22:09,470 --> 00:22:10,779
-Shepherd smiled to herself.
+216
+00:22:16,000 --> 00:22:19,200
+'It'll take as long as it 
+takes, Mr McNab,' she said.  
 
-328
-00:22:10,779 --> 00:22:15,400
-McNab, the boss, was looking after his company
-again.
+217
+00:22:20,080 --> 00:22:27,120
+'I'll probably want to talk to you again, after 
+we've spoken to Ms Johnson and Mr Chowdury. I'll  
 
-329
-00:22:15,400 --> 00:22:20,360
-'It'll take as long as it takes, Mr McNab,'
-she said.
+218
+00:22:27,120 --> 00:22:33,360
+also want my officers to look round all your hotel 
+rooms. You can go now, but don't leave the hotel.'
 
-330
-00:22:20,360 --> 00:22:27,210
-'I'll probably want to talk to you again,
-after we've spoken to Ms Johnson and Mr Chowdury.
+219
+00:22:34,960 --> 00:22:39,840
+McNab opened his mouth to say something, 
+but then he saw the look in Shepherd's eye.  
 
-331
-00:22:27,210 --> 00:22:31,070
-I'll also want my officers to look round all
-your hotel rooms.
+220
+00:22:40,400 --> 00:22:44,320
+He closed his mouth, looked at 
+Webb, then back at Shepherd.
 
-332
-00:22:31,070 --> 00:22:35,260
-You can go now, but don't leave the hotel.'
-
-333
-00:22:35,260 --> 00:22:40,679
-McNab opened his mouth to say something, but
-then he saw the look in Shepherd's eye.
-
-334
-00:22:40,679 --> 00:22:45,260
-He closed his mouth, looked at Webb, then
-back at Shepherd.
-
-335
-00:22:45,260 --> 00:22:46,601
+221
+00:22:45,280 --> 00:22:46,800
 'Right,' he said.
 
-336
-00:22:46,601 --> 00:22:49,559
+222
+00:22:48,240 --> 00:22:50,400
 'Thank you,' said Shepherd.
 
-337
-00:22:49,559 --> 00:22:56,520
-McNab left the room, closing the door behind
-him.
+223
+00:22:51,600 --> 00:22:54,880
+McNab left the room, closing the door behind him.
 
-338
-00:22:56,520 --> 00:22:57,769
+224
+00:22:56,080 --> 00:22:57,200
 Shepherd turned to Webb.
 
-339
-00:22:57,769 --> 00:23:03,289
-'With people like McNab, you've got to let
-them know who's the boss,' she said.
+225
+00:22:57,920 --> 00:23:01,600
+'With people like McNab, you've got 
+to let them know who's the boss,'  
 
-340
-00:23:03,289 --> 00:23:06,779
-'It's us - the police - not them.
+226
+00:23:02,160 --> 00:23:08,240
+she said. 'It's us - the police 
+- not them. Don't forget that.'
 
-341
-00:23:06,779 --> 00:23:09,460
-Don't forget that.'
-
-342
-00:23:09,460 --> 00:23:13,110
+227
+00:23:09,600 --> 00:23:11,760
 'Right, Shep,' replied Webb.
 
-343
-00:23:13,110 --> 00:23:15,490
-'Now,' said Shepherd.
+228
+00:23:13,200 --> 00:23:21,520
+'Now,' said Shepherd. 'Harriet Johnson next. But 
+before that, we need to know more about that man  
 
-344
-00:23:15,490 --> 00:23:17,519
-'Harriet Johnson next.
+229
+00:23:21,520 --> 00:23:29,600
+who came into the bar last night. Get someone to 
+ask around the hotel. Did anyone see a man - our  
 
-345
-00:23:17,519 --> 00:23:24,460
-But before that, we need to know more about
-that man who came into the bar last night.
+230
+00:23:29,600 --> 00:23:37,600
+Mr X - come into the hotel between seven and seven 
+thirty, go into the bar and then leave quickly?  
 
-346
-00:23:24,460 --> 00:23:27,480
-Get someone to ask around the hotel.
+231
+00:23:38,320 --> 00:23:46,720
+If so, who is he? I also want to know when Claudia 
+Engel left the hotel. And was anyone with her?'
 
-347
-00:23:27,480 --> 00:23:35,509
-Did anyone see a man - our Mr X - come into
-the hotel between seven and seven thirty,
+232
+00:23:48,160 --> 00:23:51,440
+'OK,' said Webb. He stood up.
 
-348
-00:23:35,509 --> 00:23:38,090
-go into the bar and then leave quickly?
+233
+00:23:52,240 --> 00:23:57,760
+'And we need a look at these people's rooms,' 
+said Shepherd, 'Engel's room and the other three.  
 
-349
-00:23:38,090 --> 00:23:40,570
-If so, who is he?
+234
+00:23:58,560 --> 00:24:04,320
+Two officers to each room. If they find 
+anything strange or unusual, I want to know.'
 
-350
-00:23:40,570 --> 00:23:45,499
-I also want to know when Claudia Engel left
-the hotel.
-
-351
-00:23:45,499 --> 00:23:48,169
-And was anyone with her?'
-
-352
-00:23:48,169 --> 00:23:50,970
-'OK,' said Webb.
-
-353
-00:23:50,970 --> 00:23:51,970
-He stood up.
-
-354
-00:23:51,970 --> 00:23:57,539
-'And we need a look at these people's rooms,'
-said Shepherd, 'Engel's room and the other
-
-355
-00:23:57,539 --> 00:23:58,799
-three.
-
-356
-00:23:58,799 --> 00:24:01,100
-Two officers to each room.
-
-357
-00:24:01,100 --> 00:24:05,519
-If they find anything strange or unusual,
-I want to know.'
-
-358
-00:24:05,519 --> 00:24:09,059
+235
+00:24:05,360 --> 00:24:08,000
 'Right, Shep,' said Webb, going to the door.
 
-359
-00:24:09,059 --> 00:24:12,610
+236
+00:24:09,360 --> 00:24:11,680
 'And, Sergeant?' said Shepherd.
 
-360
-00:24:12,610 --> 00:24:15,759
+237
+00:24:12,560 --> 00:24:14,080
 'Yes,' said Webb.
 
-361
-00:24:15,759 --> 00:24:16,759
-Shepherd looked at her watch.
+238
+00:24:15,280 --> 00:24:18,960
+Shepherd looked at her watch. It 
+was too early for a glass of wine.
 
-362
-00:24:16,759 --> 00:24:20,039
-It was too early for a glass of wine.
-
-363
-00:24:20,039 --> 00:24:28,629
+239
+00:24:20,720 --> 00:24:22,400
 'Get someone to bring us some coffee.'
+ 
+ 
+ 
 
-364
-00:24:28,629 --> 00:24:34,139
+240
+00:24:28,480 --> 00:24:29,280
 CHAPTER THREE
+
+241
+00:24:30,320 --> 00:24:31,840
 Questions for Ms Johnson
 
-365
-00:24:34,139 --> 00:24:38,639
-Harriet Johnson was wearing black jeans and
-a pink blouse.
+242
+00:24:33,920 --> 00:24:40,320
+Harriet Johnson was wearing black jeans and 
+a pink blouse. She had long dark hair and  
 
-366
-00:24:38,639 --> 00:24:43,019
-She had long dark hair and looked very sure
-of herself.
+243
+00:24:40,320 --> 00:24:45,840
+looked very sure of herself. She sat 
+down in front of Shepherd and Webb.
 
-367
-00:24:43,019 --> 00:24:45,460
-She sat down in front of Shepherd and Webb.
-
-368
-00:24:45,460 --> 00:24:49,789
-'James told me the news,' she said.
-
-369
-00:24:49,789 --> 00:24:53,220
+244
+00:24:46,960 --> 00:24:51,520
+'James told me the news,' she said. 
 'I understand you want to talk to me.'
 
-370
-00:24:53,220 --> 00:24:58,970
-'Yes,' said Shepherd slowly, giving Johnson
-a long look.
+245
+00:24:53,200 --> 00:25:02,000
+'Yes,' said Shepherd slowly, giving Johnson a 
+long look. 'How well did you know Ms Engel?'
 
-371
-00:24:58,970 --> 00:25:03,169
-'How well did you know Ms Engel?'
-
-372
-00:25:03,169 --> 00:25:06,450
-'Well enough,' replied Johnson.
-
-373
-00:25:06,450 --> 00:25:10,460
+246
+00:25:04,000 --> 00:25:08,320
+'Well enough,' replied Johnson. 
 'We worked together for two years.'
 
-374
-00:25:10,460 --> 00:25:13,429
-Shepherd gave her another long look.
+247
+00:25:10,000 --> 00:25:13,840
+Shepherd gave her another long 
+look. Something was wrong.
 
-375
-00:25:13,429 --> 00:25:14,659
-Something was wrong.
-
-376
-00:25:14,659 --> 00:25:21,539
+248
+00:25:15,920 --> 00:25:18,960
 'You don't look sad,' said Shepherd.
 
-377
-00:25:21,539 --> 00:25:23,020
+249
+00:25:21,040 --> 00:25:22,480
 Johnson gave a short laugh.
 
-378
-00:25:23,020 --> 00:25:27,669
-'No, I don't, do I?' she said.
+250
+00:25:23,440 --> 00:25:29,520
+'No, I don't, do I?' she said. Her 
+mouth smiled, but not her eyes.  
 
-379
-00:25:27,669 --> 00:25:30,870
-Her mouth smiled, but not her eyes.
+251
+00:25:30,960 --> 00:25:37,280
+'Well, I didn't like Claudia Engel 
+at all. Actually, I hated her.'
 
-380
-00:25:30,870 --> 00:25:35,730
-'Well, I didn't like Claudia Engel at all.
-
-381
-00:25:35,730 --> 00:25:38,749
-Actually, I hated her.'
-
-382
-00:25:38,749 --> 00:25:41,129
+252
+00:25:38,320 --> 00:25:40,480
 Shepherd looked questioningly at Johnson.
 
-383
-00:25:41,129 --> 00:25:46,019
-'The old, old story,' said Johnson, again
-with a short laugh.
+253
+00:25:41,520 --> 00:25:47,440
+'The old, old story,' said Johnson, again 
+with a short laugh. 'I had a boyfriend.  
 
-384
-00:25:46,019 --> 00:25:48,389
-'I had a boyfriend.
+254
+00:25:48,160 --> 00:25:54,000
+She took him away from me. They started going 
+out while I thought he and I were still together.  
 
-385
-00:25:48,389 --> 00:25:50,429
-She took him away from me.
+255
+00:25:54,960 --> 00:26:01,600
+Then I found out what was happening. He 
+left me for her - well, I told him not  
 
-386
-00:25:50,429 --> 00:25:54,289
-They started going out while I thought he
-and I were still together.
+256
+00:26:01,600 --> 00:26:05,040
+to come back actually. Then later she left him.'
 
-387
-00:25:54,289 --> 00:25:57,740
-Then I found out what was happening.
-
-388
-00:25:57,740 --> 00:26:03,200
-He left me for her - well, I told him not
-to come back actually.
-
-389
-00:26:03,200 --> 00:26:05,850
-Then later she left him.'
-
-390
-00:26:05,850 --> 00:26:08,570
+257
+00:26:06,720 --> 00:26:09,760
 'I see,' said Shepherd.
 
-391
-00:26:08,570 --> 00:26:11,960
-'She made me very unhappy.
+258
+00:26:09,760 --> 00:26:14,080
+'She made me very unhappy. Then 
+she made my boyfriend unhappy.  
 
-392
-00:26:11,960 --> 00:26:14,629
-Then she made my boyfriend unhappy.
+259
+00:26:15,280 --> 00:26:22,000
+Mind you, he never really did know what he 
+wanted anyway. This all happened two years ago,  
 
-393
-00:26:14,629 --> 00:26:18,990
-Mind you, he never really did know what he
-wanted anyway.
+260
+00:26:22,000 --> 00:26:28,960
+when she started at MMI. It all meant nothing 
+to her. But it didn't mean nothing to me.'
 
-394
-00:26:18,990 --> 00:26:24,779
-This all happened two years ago, when she
-started at MMI.
-
-395
-00:26:24,779 --> 00:26:26,869
-It all meant nothing to her.
-
-396
-00:26:26,869 --> 00:26:31,660
-But it didn't mean nothing to me.'
-
-397
-00:26:31,660 --> 00:26:34,190
+261
+00:26:31,360 --> 00:26:33,920
 'And you hated her,' said Shepherd.
 
-398
-00:26:34,190 --> 00:26:36,629
-'I did,' said Johnson.
+262
+00:26:34,720 --> 00:26:37,840
+'I did,' said Johnson. 'I probably still do.'
 
-399
-00:26:36,629 --> 00:26:38,860
-'I probably still do.'
+263
+00:26:39,440 --> 00:26:41,920
+'Yes,' thought Shepherd. 'You do.'  
 
-400
-00:26:38,860 --> 00:26:41,509
-'Yes,' thought Shepherd.
+264
+00:26:43,040 --> 00:26:46,640
+She could almost feel the hate coming 
+across from the other side of the table.
 
-401
-00:26:41,509 --> 00:26:43,279
-'You do.'
-
-402
-00:26:43,279 --> 00:26:47,369
-She could almost feel the hate coming across
-from the other side of the table.
-
-403
-00:26:47,369 --> 00:26:51,299
+265
+00:26:48,080 --> 00:26:50,880
 'But I didn't kill her,' said Johnson.
 
-404
-00:26:51,299 --> 00:26:56,960
-'How did the others feel about Engel?' asked
-Shepherd.
+266
+00:26:51,680 --> 00:26:57,200
+'How did the others feel about Engel?' 
+asked Shepherd. 'McNab, Chowdury.'
 
-405
-00:26:56,960 --> 00:26:59,059
-'McNab, Chowdury.'
+267
+00:26:58,560 --> 00:27:04,800
+Johnson smiled again. 'They didn't like 
+her much,' she answered. 'Ajit Chowdury  
 
-406
-00:26:59,059 --> 00:27:00,460
-Johnson smiled again.
+268
+00:27:04,800 --> 00:27:09,600
+wanted her job. OK, he's the accountant, 
+but he thinks he knows a lot about music.  
 
-407
-00:27:00,460 --> 00:27:03,919
-'They didn't like her much,' she answered.
+269
+00:27:10,720 --> 00:27:16,160
+He doesn't want to sit in an office all day. He 
+wants to be out and about with famous musicians.'
 
-408
-00:27:03,919 --> 00:27:06,059
-'Ajit Chowdury wanted her job.
-
-409
-00:27:06,059 --> 00:27:10,970
-OK, he's the accountant, but he thinks he
-knows a lot about music.
-
-410
-00:27:10,970 --> 00:27:13,499
-He doesn't want to sit in an office all day.
-
-411
-00:27:13,499 --> 00:27:17,190
-He wants to be out and about with famous musicians.'
-
-412
-00:27:17,190 --> 00:27:21,129
+270
+00:27:17,760 --> 00:27:21,200
 'And McNab?' asked Shepherd.
 
-413
-00:27:21,129 --> 00:27:26,070
-'Dear old James,' answered Johnson.
+271
+00:27:22,240 --> 00:27:30,160
+'Dear old James,' answered Johnson. 'He likes 
+everyone to think he's the boss, doesn't he? But,  
 
-414
-00:27:26,070 --> 00:27:29,679
-'He likes everyone to think he's the boss,
-doesn't he?
+272
+00:27:30,160 --> 00:27:38,080
+actually... well, he's just a little bit afraid 
+of women. You probably saw that, Inspector.'
 
-415
-00:27:29,679 --> 00:27:32,129
-But, actually...
+273
+00:27:39,760 --> 00:27:44,800
+For a moment Shepherd thought about 
+smiling, but decided against the idea.
 
-416
-00:27:32,129 --> 00:27:36,460
-well, he's just a little bit afraid of women.
+274
+00:27:46,320 --> 00:27:52,080
+'Anyway,' Johnson was speaking again, 
+'he was certainly afraid of Claudia.  
 
-417
-00:27:36,460 --> 00:27:40,019
-You probably saw that, Inspector.'
+275
+00:27:53,360 --> 00:28:02,000
+Over the last two years she was the real brains 
+behind the company. The musicians loved her. She  
 
-418
-00:27:40,019 --> 00:27:46,559
-For a moment Shepherd thought about smiling,
-but decided against the idea.
+276
+00:28:02,000 --> 00:28:08,720
+knew what music the public wanted to buy. And 
+James knew he just had to agree to her ideas.'
 
-419
-00:27:46,559 --> 00:27:53,700
-'Anyway,' Johnson was speaking again, 'he
-was certainly afraid of Claudia.
+277
+00:28:10,800 --> 00:28:14,480
+'How long have you worked 
+for MMI?' asked Shepherd.
 
-420
-00:27:53,700 --> 00:27:58,769
-Over the last two years she was the real brains
-behind the company.
-
-421
-00:27:58,769 --> 00:28:01,330
-The musicians loved her.
-
-422
-00:28:01,330 --> 00:28:05,129
-She knew what music the public wanted to buy.
-
-423
-00:28:05,129 --> 00:28:08,890
-And James knew he just had to agree to her
-ideas.'
-
-424
-00:28:08,890 --> 00:28:13,909
-'How long have you worked for MMI?'
-
-425
-00:28:13,909 --> 00:28:15,340
-asked Shepherd.
-
-426
-00:28:15,340 --> 00:28:18,200
-'Fifteen years,' answered Johnson.
-
-427
-00:28:18,200 --> 00:28:20,759
+278
+00:28:15,040 --> 00:28:19,840
+'Fifteen years,' answered Johnson. 
 'Since James started the company.'
 
-428
-00:28:20,759 --> 00:28:25,220
+279
+00:28:21,360 --> 00:28:24,560
 'And the company is doing well?' asked Shepherd.
 
-429
-00:28:25,220 --> 00:28:28,460
-'Fine,' replied Johnson quickly.
-
-430
-00:28:28,460 --> 00:28:32,110
+280
+00:28:24,560 --> 00:28:31,040
+'Fine,' replied Johnson quickly. 
 Too quickly maybe, thought Shepherd.
 
-431
-00:28:32,110 --> 00:28:38,279
-'Some of our musicians are big names all over
-the world,' said Johnson.
+281
+00:28:32,560 --> 00:28:38,640
+'Some of our musicians are big names all 
+over the world,' said Johnson. 'And we're  
 
-432
-00:28:38,279 --> 00:28:40,690
-'And we're taking on two new bands.
+282
+00:28:38,640 --> 00:28:43,840
+taking on two new bands. I haven't heard 
+them, but people say they're excellent.'
 
-433
-00:28:40,690 --> 00:28:44,249
-I haven't heard them, but people say they're
-excellent.'
-
-434
-00:28:44,249 --> 00:28:52,200
+283
+00:28:46,400 --> 00:28:49,920
 'Tell us about last night,' said Shepherd.
 
-435
-00:28:52,200 --> 00:28:57,379
-Johnson told Webb and Shepherd about the four
-of them having drinks in the bar.
+284
+00:28:51,680 --> 00:28:56,480
+Johnson told Webb and Shepherd about the 
+four of them having drinks in the bar.
 
-436
-00:28:57,379 --> 00:29:01,460
-'Then we had dinner,' said Johnson.
-
-437
-00:29:01,460 --> 00:29:05,859
+285
+00:28:57,600 --> 00:29:04,560
+'Then we had dinner,' said Johnson. 
 'We finished about nine thirty.'
 
-438
-00:29:05,859 --> 00:29:10,269
-'McNab told us about a man who came into the
-bar.
+286
+00:29:06,480 --> 00:29:09,440
+'McNab told us about a man who came into the bar.  
 
-439
-00:29:10,269 --> 00:29:13,179
-Someone Claudia Engel knew,' said Shepherd.
+287
+00:29:10,160 --> 00:29:14,880
+Someone Claudia Engel knew,' said 
+Shepherd. 'You haven't told us about him.'
 
-440
-00:29:13,179 --> 00:29:15,179
-'You haven't told us about him.'
+288
+00:29:15,840 --> 00:29:16,720
+'I didn't see him,'  
 
-441
-00:29:15,179 --> 00:29:18,249
-'I didn't see him,' replied Johnson.
+289
+00:29:17,280 --> 00:29:22,400
+replied Johnson. 'I had my back to the door, 
+and by the time I turned round, he was gone.'
 
-442
-00:29:18,249 --> 00:29:23,240
-'I had my back to the door, and by the time
-I turned round, he was gone.'
+290
+00:29:24,080 --> 00:29:28,560
+'But you're sure Ms Engel knew 
+him?' Shepherd made it a question.
 
-443
-00:29:23,240 --> 00:29:27,769
-'But you're sure Ms Engel knew him?'
+291
+00:29:29,920 --> 00:29:36,400
+'Oh yes,' said Johnson. 'The look 
+on her face told me that. Actually,  
 
-444
-00:29:27,769 --> 00:29:29,600
-Shepherd made it a question.
-
-445
-00:29:29,600 --> 00:29:32,169
-'Oh yes,' said Johnson.
-
-446
-00:29:32,169 --> 00:29:35,220
-'The look on her face told me that.
-
-447
-00:29:35,220 --> 00:29:39,480
-Actually, I think she met him later.
-
-448
-00:29:39,480 --> 00:29:42,759
+292
+00:29:37,680 --> 00:29:40,720
+I think she met him later. 
 She certainly met someone.'
 
-449
-00:29:42,759 --> 00:29:45,820
+293
+00:29:42,320 --> 00:29:44,320
 Shepherd looked questioningly at Johnson.
 
-450
-00:29:45,820 --> 00:29:51,960
-After dinner I sat in the lounge, had a coffee
-and read a book,' began Johnson.
+294
+00:29:45,440 --> 00:29:51,200
+After dinner I sat in the lounge, had a 
+coffee and read a book,' began Johnson.  
 
-451
-00:29:51,960 --> 00:29:59,929
-'While I was there, Claudia came down from
-her room and went out of the front doors.
+295
+00:29:52,320 --> 00:29:58,080
+'While I was there, Claudia came down from 
+her room and went out of the front doors.  
 
-452
-00:29:59,929 --> 00:30:06,259
-From where I was sitting I could see through
-the doors - they're glass - and she was standing
+296
+00:29:59,600 --> 00:30:04,960
+From where I was sitting I could see 
+through the doors - they're glass - and  
 
-453
-00:30:06,259 --> 00:30:07,690
-there.
+297
+00:30:04,960 --> 00:30:12,240
+she was standing there. Outside. Waiting. 
+I'm sure she was waiting for someone.  
 
-454
-00:30:07,690 --> 00:30:09,120
-Outside.
+298
+00:30:13,760 --> 00:30:19,200
+Then she walked away to the left. It was as 
+if she could see the person she was meeting.'
 
-455
-00:30:09,120 --> 00:30:10,549
-Waiting.
-
-456
-00:30:10,549 --> 00:30:13,249
-I'm sure she was waiting for someone.
-
-457
-00:30:13,249 --> 00:30:15,640
-Then she walked away to the left.
-
-458
-00:30:15,640 --> 00:30:20,380
-It was as if she could see the person she
-was meeting.'
-
-459
-00:30:20,380 --> 00:30:25,239
+299
+00:30:21,040 --> 00:30:23,440
 'Why did you think that?' asked Shepherd.
 
-460
-00:30:25,239 --> 00:30:28,779
+300
+00:30:24,880 --> 00:30:27,920
 'Just the way she was walking,' said Johnson.
 
-461
-00:30:28,779 --> 00:30:34,720
-'But you didn't see the person she was meeting?'
-asked Shepherd.
+301
+00:30:29,440 --> 00:30:33,680
+'But you didn't see the person 
+she was meeting?' asked Shepherd.
 
-462
-00:30:34,720 --> 00:30:35,919
-'No,' said Johnson.
+302
+00:30:34,320 --> 00:30:36,880
+'No,' said Johnson. 'It was too dark.'
 
-463
-00:30:35,919 --> 00:30:38,570
-'It was too dark.'
-
-464
-00:30:38,570 --> 00:30:42,879
+303
+00:30:38,560 --> 00:30:41,120
 'What time was this?' asked Shepherd.
 
-465
-00:30:42,879 --> 00:30:47,649
-'Probably about ten thirty,' answered Johnson.
+304
+00:30:42,320 --> 00:30:49,440
+'Probably about ten thirty,' answered 
+Johnson. 'Maybe ten forty-five.  
 
-466
-00:30:47,649 --> 00:30:49,519
-'Maybe ten forty-five.
-
-467
-00:30:49,519 --> 00:30:52,820
-I went up to my room soon after that.'
-
-468
-00:30:52,820 --> 00:30:55,539
+305
+00:30:49,440 --> 00:30:54,640
+I went up to my room soon after that.' 
 She moved uncomfortably on her chair.
 
-469
-00:30:55,539 --> 00:31:02,399
-'And you didn't see Ms Engel again?' asked
-Shepherd.
+306
+00:30:56,480 --> 00:31:00,720
+'And you didn't see Ms Engel 
+again?' asked Shepherd.
 
-470
-00:31:02,399 --> 00:31:06,009
+307
+00:31:01,680 --> 00:31:03,840
 'No,' replied Johnson.
 
-471
-00:31:06,009 --> 00:31:08,249
+308
+00:31:05,600 --> 00:31:06,960
 Shepherd looked at Webb.
 
-472
-00:31:08,249 --> 00:31:13,100
+309
+00:31:08,080 --> 00:31:12,480
 'There's salt on your shoes,' he said to Johnson.
 
-473
-00:31:13,100 --> 00:31:16,970
+310
+00:31:14,320 --> 00:31:16,640
 'What do you mean?' asked Johnson.
 
-474
-00:31:16,970 --> 00:31:19,980
-'They're white round the bottoms,' said Webb.
+311
+00:31:17,520 --> 00:31:21,360
+'They're white round the bottoms,' 
+said Webb. 'That's salt. From the sea.  
 
-475
-00:31:19,980 --> 00:31:20,980
-'That's salt.
-
-476
-00:31:20,980 --> 00:31:21,980
-From the sea.
-
-477
-00:31:21,980 --> 00:31:25,519
+312
+00:31:22,320 --> 00:31:23,440
 Have you been on the beach?'
 
-478
-00:31:25,519 --> 00:31:27,690
-Shepherd looked at Johnson's shoes.
+313
+00:31:25,040 --> 00:31:26,720
+Shepherd looked at Johnson's shoes.  
 
-479
-00:31:27,690 --> 00:31:29,779
-They were black trainers.
+314
+00:31:27,440 --> 00:31:31,840
+They were black trainers. And there 
+was salt round the bottom of them.
 
-480
-00:31:29,779 --> 00:31:32,140
-And there was salt round the bottom of them.
-
-481
-00:31:32,140 --> 00:31:36,000
+315
+00:31:32,560 --> 00:31:34,640
 'Not bad, Webb,' she thought.
 
-482
-00:31:36,000 --> 00:31:43,190
-'Well, I went for a walk on the beach yesterday
-afternoon,' replied Johnson.
+316
+00:31:36,160 --> 00:31:41,920
+'Well, I went for a walk on the beach 
+yesterday afternoon,' replied Johnson.
 
-483
-00:31:43,190 --> 00:31:46,690
-'Yesterday afternoon?'
+317
+00:31:43,360 --> 00:31:47,520
+'Yesterday afternoon?' Webb made it a question.
 
-484
-00:31:46,690 --> 00:31:48,980
-Webb made it a question.
-
-485
-00:31:48,980 --> 00:31:52,580
+318
+00:31:48,880 --> 00:31:51,120
 'Yes,' replied Johnson.
 
-486
-00:31:52,580 --> 00:31:55,359
-'You didn't go out again in the evening?
-
-487
-00:31:55,359 --> 00:31:59,119
+319
+00:31:52,320 --> 00:31:58,000
+'You didn't go out again in the evening? 
 After ten thirty perhaps?' asked Webb.
 
-488
-00:31:59,119 --> 00:32:04,629
-'No,' answered Johnson, her voice not as strong
-as before.
+320
+00:31:59,200 --> 00:32:08,000
+'No,' answered Johnson, her voice not as strong 
+as before. 'I've told you. I went up to my room.'
 
-489
-00:32:04,629 --> 00:32:06,989
-'I've told you.
+321
+00:32:09,360 --> 00:32:12,320
+Webb said nothing. He just looked at Johnson.
 
-490
-00:32:06,989 --> 00:32:09,700
-I went up to my room.'
+322
+00:32:13,600 --> 00:32:17,120
+Shepherd could see Johnson's face 
+beginning to go a little red.  
 
-491
-00:32:09,700 --> 00:32:11,169
-Webb said nothing.
+323
+00:32:18,400 --> 00:32:21,120
+Maybe there was something she 
+didn't want the police to know.
 
-492
-00:32:11,169 --> 00:32:14,059
-He just looked at Johnson.
+324
+00:32:22,640 --> 00:32:25,280
+Johnson moved uncomfortably on her chair again.  
 
-493
-00:32:14,059 --> 00:32:18,750
-Shepherd could see Johnson's face beginning
-to go a little red.
+325
+00:32:26,320 --> 00:32:29,680
+'I've told you,' she said 
+again. 'I went up to my room.'
 
-494
-00:32:18,750 --> 00:32:23,169
-Maybe there was something she didn't want
-the police to know.
-
-495
-00:32:23,169 --> 00:32:25,940
-Johnson moved uncomfortably on her chair again.
-
-496
-00:32:25,940 --> 00:32:28,480
-'I've told you,' she said again.
-
-497
-00:32:28,480 --> 00:32:31,559
-'I went up to my room.'
-
-498
-00:32:31,559 --> 00:32:32,970
+326
+00:32:31,200 --> 00:32:32,400
 Webb looked at Shepherd.
 
-499
-00:32:32,970 --> 00:32:36,159
-'OK, Ms Johnson,' said Shepherd.
+327
+00:32:33,920 --> 00:32:35,440
+'OK, Ms Johnson,'  
 
-500
-00:32:36,159 --> 00:32:37,929
-'You can go.
+328
+00:32:35,440 --> 00:32:42,080
+said Shepherd. 'You can go. We'll want to talk 
+to you again, so don't leave the hotel. OK?'
 
-501
-00:32:37,929 --> 00:32:41,190
-We'll want to talk to you again, so don't
-leave the hotel.
+329
+00:32:42,080 --> 00:32:47,360
+'Right,' said Johnson quietly, 
+and she left the room, head down.
 
-502
-00:32:41,190 --> 00:32:42,190
-OK?'
-
-503
-00:32:42,190 --> 00:32:49,270
-'Right,' said Johnson quietly, and she left
-the room, head down.
-
-504
-00:32:49,270 --> 00:32:51,330
+330
+00:32:48,800 --> 00:32:50,640
 Shepherd and Webb looked at each other.
 
-505
-00:32:51,330 --> 00:32:56,330
-'She wasn't very happy about something, was
-she?' said Shepherd.
+331
+00:32:52,240 --> 00:32:55,840
+'She wasn't very happy about 
+something, was she?' said Shepherd.
 
-506
-00:32:56,330 --> 00:33:00,350
-'There's something she's not telling us,'
-answered Webb.
+332
+00:32:56,800 --> 00:32:58,880
+'There's something she's not telling us,'  
 
-507
-00:33:00,350 --> 00:33:04,059
-'Or maybe she just didn't like my questions.'
+333
+00:32:58,880 --> 00:33:02,560
+answered Webb. 'Or maybe she 
+just didn't like my questions.'
 
-508
-00:33:04,059 --> 00:33:05,129
+334
+00:33:03,600 --> 00:33:04,480
 Shepherd stood up.
 
-509
-00:33:05,129 --> 00:33:10,369
-'I need some air,' she said, taking her bag
-off the back of the chair.
+335
+00:33:05,440 --> 00:33:10,320
+'I need some air,' she said, taking 
+her bag off the back of the chair.  
 
-510
-00:33:10,369 --> 00:33:12,349
-'And I've got a call to make.
+336
+00:33:10,320 --> 00:33:16,000
+'And I've got a call to make. Go and 
+see if there's any news about our Mr X  
 
-511
-00:33:12,349 --> 00:33:17,899
-Go and see if there's any news about our Mr
-X or from the officers in the rooms.
+337
+00:33:16,000 --> 00:33:19,920
+or from the officers in the rooms. I'll 
+be outside the front of the hotel.'
 
-512
-00:33:17,899 --> 00:33:23,259
-I'll be outside the front of the hotel.'
-
-513
-00:33:23,259 --> 00:33:24,259
+338
+00:33:21,720 --> 00:33:22,720
 ***
 
-514
-00:33:24,259 --> 00:33:28,489
-Fifteen minutes later Shepherd was standing
-outside the front doors of the hotel.
+339
+00:33:22,720 --> 00:33:27,600
+Fifteen minutes later Shepherd was standing 
+outside the front doors of the hotel.  
 
-515
-00:33:28,489 --> 00:33:30,629
+340
+00:33:28,240 --> 00:33:29,520
 Her phone was in her hand.
 
-516
-00:33:30,629 --> 00:33:34,749
-Webb came out of the hotel at a fast walk.
+341
+00:33:30,720 --> 00:33:36,240
+Webb came out of the hotel at a fast 
+walk. He had a piece of paper in his hand.
 
-517
-00:33:34,749 --> 00:33:36,700
-He had a piece of paper in his hand.
-
-518
-00:33:36,700 --> 00:33:40,320
+342
+00:33:37,280 --> 00:33:39,200
 'Two things, Shep,' he said.
 
-519
-00:33:40,320 --> 00:33:41,720
-Shepherd closed her phone.
+343
+00:33:39,920 --> 00:33:43,120
+Shepherd closed her phone. 'Well?' she asked.
 
-520
-00:33:41,720 --> 00:33:42,720
-'Well?'
+344
+00:33:43,920 --> 00:33:48,880
+'We know who Mr X is,' said Webb, 
+looking pleased with himself. 'And  
 
-521
-00:33:42,720 --> 00:33:43,720
-she asked.
+345
+00:33:49,520 --> 00:33:55,200
+one of the receptionists agrees with Johnson 
+that Engel left the hotel at ten thirty.  
 
-522
-00:33:43,720 --> 00:33:49,009
-'We know who Mr X is,' said Webb, looking
-pleased with himself.
+346
+00:33:55,920 --> 00:34:05,840
+But she also saw Chowdury leave the 
+hotel at about ten forty-five.'
+ 
+ 
+ 
 
-523
-00:33:49,009 --> 00:33:56,200
-'And one of the receptionists agrees with
-Johnson that Engel left the hotel at ten thirty.
-
-524
-00:33:56,200 --> 00:34:07,499
-But she also saw Chowdury leave the hotel
-at about ten forty-five.'
-
-525
-00:34:07,499 --> 00:34:15,440
+347
+00:34:07,280 --> 00:34:08,000
 CHAPTER FOUR
+
+348
+00:34:09,600 --> 00:34:12,080
 How well is MMI doing?
 
-526
-00:34:15,440 --> 00:34:19,990
-Shepherd waited for Webb to say more, but
-he didn't.
+349
+00:34:15,040 --> 00:34:18,320
+Shepherd waited for Webb 
+to say more, but he didn't.  
 
-527
-00:34:19,990 --> 00:34:23,890
-'He probably wants me to say, "Well done,"'
-she thought.
+350
+00:34:19,760 --> 00:34:23,520
+'He probably wants me to say, 
+"Well done,"' she thought.
 
-528
-00:34:23,890 --> 00:34:25,320
-'Come on.
+351
+00:34:24,640 --> 00:34:29,600
+'Come on. Don't just stand 
+there. Tell me,' she said.
 
-529
-00:34:25,320 --> 00:34:28,180
-Don't just stand there.
+352
+00:34:30,800 --> 00:34:38,000
+Webb looked uncomfortable. His face went a little 
+red. He looked at the piece of paper in his hand.
 
-530
-00:34:28,180 --> 00:34:31,150
-Tell me,' she said.
+353
+00:34:39,520 --> 00:34:46,640
+'Well... erm... the man's called Darren 
+Fleming. We talked to some of the people  
 
-531
-00:34:31,150 --> 00:34:33,290
-Webb looked uncomfortable.
+354
+00:34:46,640 --> 00:34:51,840
+who work in the bar. He comes into the 
+hotel for a drink from time to time.  
 
-532
-00:34:33,290 --> 00:34:36,220
-His face went a little red.
-
-533
-00:34:36,220 --> 00:34:39,110
-He looked at the piece of paper in his hand.
-
-534
-00:34:39,110 --> 00:34:45,300
-'Well... erm... the man's called Darren Fleming.
-
-535
-00:34:45,300 --> 00:34:48,790
-We talked to some of the people who work in
-the bar.
-
-536
-00:34:48,790 --> 00:34:52,330
-He comes into the hotel for a drink from time
-to time.
-
-537
-00:34:52,330 --> 00:34:54,730
-He lives in Hythe somewhere.
-
-538
-00:34:54,730 --> 00:34:57,580
+355
+00:34:52,480 --> 00:34:56,400
+He lives in Hythe somewhere. 
 We're trying to find him now.'
 
-539
-00:34:57,580 --> 00:34:59,500
-'Right,' said Shepherd.
+356
+00:34:57,440 --> 00:35:04,080
+'Right,' said Shepherd. 'When you do, 
+bring him here. What about Chowdury?'
 
-540
-00:34:59,500 --> 00:35:02,870
-'When you do, bring him here.
-
-541
-00:35:02,870 --> 00:35:06,130
-What about Chowdury?'
-
-542
-00:35:06,130 --> 00:35:08,770
+357
+00:35:05,840 --> 00:35:08,000
 Webb looked at the paper in his hand again.
 
-543
-00:35:08,770 --> 00:35:13,160
-'Do you always write things down?' asked Shepherd.
+358
+00:35:09,360 --> 00:35:15,840
+'Do you always write things down?' asked 
+Shepherd. 'Do you have problems remembering?'
 
-544
-00:35:13,160 --> 00:35:16,250
-'Do you have problems remembering?'
+359
+00:35:16,960 --> 00:35:23,600
+'No, Shep,' said Webb, smiling a little, 
+but still looking rather uncomfortable. He  
 
-545
-00:35:16,250 --> 00:35:23,620
-'No, Shep,' said Webb, smiling a little, but
-still looking rather uncomfortable.
-
-546
-00:35:23,620 --> 00:35:25,620
-He waved the paper at her.
-
-547
-00:35:25,620 --> 00:35:27,760
-'Someone gave me this.
-
-548
-00:35:27,760 --> 00:35:31,600
+360
+00:35:23,600 --> 00:35:30,880
+waved the paper at her. 'Someone gave me this. 
 Detective Constable Fox I think his name is.'
 
-549
-00:35:31,600 --> 00:35:35,200
-'All right, all right,' said Shepherd.
+361
+00:35:31,760 --> 00:35:36,960
+'All right, all right,' said Shepherd. 
+She preferred not to think about DC  
 
-550
-00:35:35,200 --> 00:35:37,350
-She preferred not to think about DC Fox.
+362
+00:35:36,960 --> 00:35:44,000
+Fox. Fox loved writing everything down, 
+putting everything in the right place,  
 
-551
-00:35:37,350 --> 00:35:44,970
-Fox loved writing everything down, putting
-everything in the right place, doing everything
+363
+00:35:44,000 --> 00:35:49,520
+doing everything just right. Not 
+Shepherd's sort of person at all.
 
-552
-00:35:44,970 --> 00:35:47,090
-just right.
-
-553
-00:35:47,090 --> 00:35:49,750
-Not Shepherd's sort of person at all.
-
-554
-00:35:49,750 --> 00:35:54,540
-'I know he's a lot older than you,' said Shepherd.
-
-555
-00:35:54,540 --> 00:35:58,330
+364
+00:35:51,280 --> 00:35:57,840
+'I know he's a lot older than you,' said Shepherd. 
 'But don't take too many lessons from Fox.'
 
-556
-00:35:58,330 --> 00:36:02,870
+365
+00:35:58,720 --> 00:36:01,280
 'I'll try not to,' replied Webb.
 
-557
-00:36:02,870 --> 00:36:08,110
-For a moment Webb thought he saw the start
-of a smile on Shepherd's face, but then it
+366
+00:36:02,640 --> 00:36:08,400
+For a moment Webb thought he saw the start of a 
+smile on Shepherd's face, but then it was gone.
 
-558
-00:36:08,110 --> 00:36:10,100
-was gone.
+367
+00:36:10,960 --> 00:36:17,680
+'The receptionist remembered Chowdury leaving 
+the hotel at about ten forty-five last night,'  
 
-559
-00:36:10,100 --> 00:36:18,500
-'The receptionist remembered Chowdury leaving
-the hotel at about ten forty-five last night,'
+368
+00:36:18,240 --> 00:36:20,880
+said Webb. 'He was dressed in running clothes.'
 
-560
-00:36:18,500 --> 00:36:19,500
-said Webb.
+369
+00:36:22,400 --> 00:36:29,760
+Shepherd thought for a moment. 
+'OK,' she said. 'Get Ajit Chowdury.  
 
-561
-00:36:19,500 --> 00:36:22,890
-'He was dressed in running clothes.'
-
-562
-00:36:22,890 --> 00:36:25,090
-Shepherd thought for a moment.
-
-563
-00:36:25,090 --> 00:36:28,020
-'OK,' she said.
-
-564
-00:36:28,020 --> 00:36:31,100
-'Get Ajit Chowdury.
-
-565
-00:36:31,100 --> 00:36:33,560
+370
+00:36:30,800 --> 00:36:32,400
 We'll have a talk with him next.'
 
-566
-00:36:33,560 --> 00:36:38,450
-She put her phone away in her bag.
+371
+00:36:34,560 --> 00:36:36,400
+She put her phone away in her bag.  
 
-567
-00:36:38,450 --> 00:36:43,900
-'I've just been on the phone to a friend of
-mine in London,' she told Webb.
+372
+00:36:38,160 --> 00:36:45,360
+'I've just been on the phone to a friend of 
+mine in London,' she told Webb. 'She told me  
 
-568
-00:36:43,900 --> 00:36:48,570
-'She told me some interesting things about
-MMI.
+373
+00:36:46,000 --> 00:36:53,840
+some interesting things about MMI. I hope the 
+company accountant has some good answers.'
 
-569
-00:36:48,570 --> 00:36:57,020
-I hope the company accountant has some good
-answers.'
-
-570
-00:36:57,020 --> 00:36:58,020
+374
+00:36:55,640 --> 00:36:56,640
 ***
 
-571
-00:36:58,020 --> 00:37:02,070
-Twenty minutes later Chowdury was sitting
-in the Wells room in front of Shepherd and
+375
+00:36:56,640 --> 00:37:02,160
+Twenty minutes later Chowdury was sitting in 
+the Wells room in front of Shepherd and Webb.  
 
-572
-00:37:02,070 --> 00:37:03,070
-Webb.
+376
+00:37:03,040 --> 00:37:08,720
+It was ten thirty. Chowdury was a tall 
+good-looking man in his early thirties.  
 
-573
-00:37:03,070 --> 00:37:04,890
-It was ten thirty.
+377
+00:37:09,840 --> 00:37:17,680
+He had on a dark brown suit, cream shirt and 
+light brown tie. His fingers were playing  
 
-574
-00:37:04,890 --> 00:37:10,060
-Chowdury was a tall good-looking man in his
-early thirties.
+378
+00:37:17,680 --> 00:37:23,680
+with the front of his jacket; his eyes were 
+looking from Shepherd to Webb and back again.
 
-575
-00:37:10,060 --> 00:37:16,630
-He had on a dark brown suit, cream shirt and
-light brown tie.
+379
+00:37:25,280 --> 00:37:28,080
+'Softly, softly,' thought Shepherd.  
 
-576
-00:37:16,630 --> 00:37:22,050
-His fingers were playing with the front of
-his jacket; his eyes were looking from Shepherd
+380
+00:37:28,720 --> 00:37:36,640
+'Don't make him uncomfortable, or he won't 
+say anything. Start with some easy questions.'
 
-577
-00:37:22,050 --> 00:37:24,480
-to Webb and back again.
+381
+00:37:38,560 --> 00:37:42,240
+'Tell us about your job, Mr Chowdury,' she began.
 
-578
-00:37:24,480 --> 00:37:28,450
-'Softly, softly,' thought Shepherd.
+382
+00:37:43,440 --> 00:37:50,240
+Chowdury sat back in the chair and stopped playing 
+with his jacket. 'I'm the company accountant.  
 
-579
-00:37:28,450 --> 00:37:33,840
-'Don't make him uncomfortable, or he won't
-say anything.
+383
+00:37:50,240 --> 00:37:54,240
+I look after the money,' he 
+answered, smiling a little.
 
-580
-00:37:33,840 --> 00:37:38,810
-Start with some easy questions.'
+384
+00:37:55,600 --> 00:38:02,160
+'So I understand,' said Shepherd. 'And is 
+it a good job? A good company to work for?'
 
-581
-00:37:38,810 --> 00:37:43,930
-'Tell us about your job, Mr Chowdury,' she
-began.
+385
+00:38:03,280 --> 00:38:06,320
+'Well, yes. I think so,' he replied.
 
-582
-00:37:43,930 --> 00:37:47,660
-Chowdury sat back in the chair and stopped
-playing with his jacket.
+386
+00:38:07,280 --> 00:38:12,960
+'Do you all like each other? I mean, do 
+you work well together?' asked Shepherd.
 
-583
-00:37:47,660 --> 00:37:50,110
-'I'm the company accountant.
+387
+00:38:14,080 --> 00:38:18,640
+'We aren't all great friends,' he 
+replied. 'But we work well together. Yes.'
 
-584
-00:37:50,110 --> 00:37:54,900
-I look after the money,' he answered, smiling
-a little.
-
-585
-00:37:54,900 --> 00:37:59,030
-'So I understand,' said Shepherd.
-
-586
-00:37:59,030 --> 00:38:00,440
-'And is it a good job?
-
-587
-00:38:00,440 --> 00:38:02,750
-A good company to work for?'
-
-588
-00:38:02,750 --> 00:38:04,270
-'Well, yes.
-
-589
-00:38:04,270 --> 00:38:06,970
-I think so,' he replied.
-
-590
-00:38:06,970 --> 00:38:09,120
-'Do you all like each other?
-
-591
-00:38:09,120 --> 00:38:13,700
-I mean, do you work well together?' asked
-Shepherd.
-
-592
-00:38:13,700 --> 00:38:16,600
-'We aren't all great friends,' he replied.
-
-593
-00:38:16,600 --> 00:38:18,760
-'But we work well together.
-
-594
-00:38:18,760 --> 00:38:19,820
-Yes.'
-
-595
-00:38:19,820 --> 00:38:26,150
+388
+00:38:19,680 --> 00:38:23,920
 'Claudia Engel too?' asked Shepherd quietly.
 
-596
-00:38:26,150 --> 00:38:31,220
-Chowdury looked away to one side for a moment
-then back at Shepherd.
+389
+00:38:25,600 --> 00:38:28,160
+Chowdury looked away to one side for a moment  
 
-597
-00:38:31,220 --> 00:38:35,910
-'She could be rather difficult,' he said.
+390
+00:38:28,880 --> 00:38:34,880
+then back at Shepherd. 'She could 
+be rather difficult,' he said.
 
-598
-00:38:35,910 --> 00:38:39,310
-'Tell me about it,' said Shepherd.
+391
+00:38:36,720 --> 00:38:43,200
+'Tell me about it,' said Shepherd. 'Believe me, 
+I know all about working with difficult people.'
 
-599
-00:38:39,310 --> 00:38:45,000
-'Believe me, I know all about working with
-difficult people.'
+392
+00:38:44,480 --> 00:38:51,680
+Chowdury gave her a small smile. 'She was a hard 
+woman,' he began. 'She knew what she wanted.  
 
-600
-00:38:45,000 --> 00:38:47,180
-Chowdury gave her a small smile.
+393
+00:38:52,800 --> 00:39:00,160
+She knew how to get it. And she didn't 
+allow anybody to get in her way.'
 
-601
-00:38:47,180 --> 00:38:50,120
-'She was a hard woman,' he began.
+394
+00:39:00,160 --> 00:39:06,080
+'I understand you know quite a bit about 
+music,' said Shepherd, 'as well as money.'
 
-602
-00:38:50,120 --> 00:38:52,880
-'She knew what she wanted.
+395
+00:39:07,040 --> 00:39:14,160
+'Yes,' replied Chowdury. 'But Claudia never 
+listened to what I thought. I spend a lot of  
 
-603
-00:38:52,880 --> 00:38:55,020
-She knew how to get it.
+396
+00:39:14,160 --> 00:39:21,680
+time in clubs. I've seen a lot of good 
+new bands. But she always knew best.'
 
-604
-00:38:55,020 --> 00:38:59,690
-And she didn't allow anybody to get in her
-way.'
-
-605
-00:38:59,690 --> 00:39:07,040
-'I understand you know quite a bit about music,'
-said Shepherd, 'as well as money.'
-
-606
-00:39:07,040 --> 00:39:10,010
-'Yes,' replied Chowdury.
-
-607
-00:39:10,010 --> 00:39:12,560
-'But Claudia never listened to what I thought.
-
-608
-00:39:12,560 --> 00:39:16,480
-I spend a lot of time in clubs.
-
-609
-00:39:16,480 --> 00:39:19,160
-I've seen a lot of good new bands.
-
-610
-00:39:19,160 --> 00:39:21,960
-But she always knew best.'
-
-611
-00:39:21,960 --> 00:39:29,150
-There was something strange in Chowdury's
+397
+00:39:23,680 --> 00:39:28,320
+There was something strange in Chowdury's 
 voice that made Shepherd ask her next question.
 
-612
-00:39:29,150 --> 00:39:31,310
-'Were you lovers?'
+398
+00:39:30,000 --> 00:39:32,160
+'Were you lovers?' she asked.
 
-613
-00:39:31,310 --> 00:39:32,750
-she asked.
-
-614
-00:39:32,750 --> 00:39:36,300
+399
+00:39:33,200 --> 00:39:35,200
 Webb turned quickly to look at Shepherd.
 
-615
-00:39:36,300 --> 00:39:39,310
-There was fire in Chowdury's eyes.
-
-616
-00:39:39,310 --> 00:39:42,790
+400
+00:39:36,080 --> 00:39:41,840
+There was fire in Chowdury's eyes. 
 'It's nothing to do with...' he started.
 
-617
-00:39:42,790 --> 00:39:50,310
-'It's murder,' said Shepherd, her voice hard,
-before Chowdury could finish.
+401
+00:39:42,560 --> 00:39:48,400
+'It's murder,' said Shepherd, her voice 
+hard, before Chowdury could finish.
 
-618
-00:39:50,310 --> 00:39:51,770
-Chowdury's head went down.
+402
+00:39:50,000 --> 00:39:58,640
+Chowdury's head went down. Then he looked at 
+her again. 'We slept together once,' he said,  
 
-619
-00:39:51,770 --> 00:39:54,640
-Then he looked at her again.
+403
+00:39:58,640 --> 00:40:04,480
+an angry look in his eyes. And then she 
+said that was it. It was over. Finished.'
 
-620
-00:39:54,640 --> 00:40:00,350
-'We slept together once,' he said, an angry
-look in his eyes.
+404
+00:40:05,440 --> 00:40:10,320
+'And that made you angry,' said 
+Shepherd. It wasn't a question.
 
-621
-00:40:00,350 --> 00:40:02,570
-And then she said that was it.
+405
+00:40:11,520 --> 00:40:17,280
+'It still does,' said Chowdury. 'But not 
+enough to kill her. It hurt me at the time,  
 
-622
-00:40:02,570 --> 00:40:04,380
-It was over.
+406
+00:40:17,280 --> 00:40:23,840
+but it was just one night. And she didn't tell 
+everyone about it. No-one in the office knew.'
 
-623
-00:40:04,380 --> 00:40:05,380
-Finished.'
-
-624
-00:40:05,380 --> 00:40:08,900
-'And that made you angry,' said Shepherd.
-
-625
-00:40:08,900 --> 00:40:11,750
-It wasn't a question.
-
-626
-00:40:11,750 --> 00:40:13,890
-'It still does,' said Chowdury.
-
-627
-00:40:13,890 --> 00:40:16,370
-'But not enough to kill her.
-
-628
-00:40:16,370 --> 00:40:19,010
-It hurt me at the time, but it was just one
-night.
-
-629
-00:40:19,010 --> 00:40:21,550
-And she didn't tell everyone about it.
-
-630
-00:40:21,550 --> 00:40:23,450
-No-one in the office knew.'
-
-631
-00:40:23,450 --> 00:40:29,660
+407
+00:40:25,760 --> 00:40:28,960
 'Did she like working for McNab?' asked Shepherd.
 
-632
-00:40:29,660 --> 00:40:36,141
-'When she started, she was quite happy,' began
-Chowdury, 'but things have been difficult
+408
+00:40:30,240 --> 00:40:34,480
+'When she started, she was 
+quite happy,' began Chowdury,  
 
-633
-00:40:36,141 --> 00:40:38,660
+409
+00:40:34,480 --> 00:40:37,840
+'but things have been difficult 
 for the last month or two.'
 
-634
-00:40:38,660 --> 00:40:42,580
+410
+00:40:39,040 --> 00:40:41,280
 'In what way?' asked Shepherd.
 
-635
-00:40:42,580 --> 00:40:49,440
-'Well, at first she and James always agreed
-on everything,' replied Chowdury.
+411
+00:40:42,320 --> 00:40:50,720
+'Well, at first she and James always agreed on 
+everything,' replied Chowdury. 'But, like I said,  
 
-636
-00:40:49,440 --> 00:40:54,770
-'But, like I said, for the last month or two
-they haven't.
+412
+00:40:50,720 --> 00:40:58,400
+for the last month or two they haven't. I was 
+walking past McNab's room yesterday afternoon -  
 
-637
-00:40:54,770 --> 00:40:59,901
-I was walking past McNab's room yesterday
-afternoon - we're all on the second floor
+413
+00:40:58,400 --> 00:41:05,920
+we're all on the second floor - and I could hear 
+her in there. They were shouting at each other.'
 
-638
-00:40:59,901 --> 00:41:03,250
-- and I could hear her in there.
-
-639
-00:41:03,250 --> 00:41:05,260
-They were shouting at each other.'
-
-640
-00:41:05,260 --> 00:41:08,580
+414
+00:41:05,920 --> 00:41:08,240
 'What about?' asked Shepherd.
 
-641
-00:41:08,580 --> 00:41:12,140
-'I didn't hear much,' answered Chowdury.
+415
+00:41:09,040 --> 00:41:14,400
+'I didn't hear much,' answered Chowdury. 
+'One of the hotel cleaners was near,  
 
-642
-00:41:12,140 --> 00:41:16,350
-'One of the hotel cleaners was near, so I
-couldn't stop and listen.
+416
+00:41:14,400 --> 00:41:20,320
+so I couldn't stop and listen. But 
+I did hear her say, "You need me,  
 
-643
-00:41:16,350 --> 00:41:21,360
-But I did hear her say, "You need me, James.
+417
+00:41:20,320 --> 00:41:28,160
+James. Give me what I want, or your company 
+is finished." That was all I heard.'
 
-644
-00:41:21,360 --> 00:41:27,340
-Give me what I want, or your company is finished."
+418
+00:41:31,040 --> 00:41:37,040
+'What do you think she wanted?' asked Shepherd. 
+'Money.' Chowdury didn't stop to think for a  
 
-645
-00:41:27,340 --> 00:41:28,730
-That was all I heard.'
+419
+00:41:37,040 --> 00:41:43,200
+moment. 'Ah!' said Shepherd, thinking about the 
+telephone conversation with her friend in London.
 
-646
-00:41:28,730 --> 00:41:34,890
-'What do you think she wanted?' asked Shepherd.
-
-647
-00:41:34,890 --> 00:41:35,890
-'Money.'
-
-648
-00:41:35,890 --> 00:41:38,120
-Chowdury didn't stop to think for a moment.
-
-649
-00:41:38,120 --> 00:41:44,560
-'Ah!' said Shepherd, thinking about the telephone
-conversation with her friend in London.
-
-650
-00:41:44,560 --> 00:41:49,490
-And how is the company doing?' asked Shepherd.
-
-651
-00:41:49,490 --> 00:41:52,200
+420
+00:41:44,400 --> 00:41:52,480
+And how is the company doing?' asked Shepherd. 
 'I've heard it's not doing too well.'
 
-652
-00:41:52,200 --> 00:41:56,590
+421
+00:41:52,480 --> 00:41:55,680
 'Who told you that?' asked Chowdury quickly.
 
-653
-00:41:56,590 --> 00:42:00,290
-'How is the company doing?'
+422
+00:41:57,200 --> 00:42:02,800
+'How is the company doing?' Shepherd 
+asked again, her voice a little harder.
 
-654
-00:42:00,290 --> 00:42:04,750
-Shepherd asked again, her voice a little harder.
-
-655
-00:42:04,750 --> 00:42:06,620
+423
+00:42:04,320 --> 00:42:05,680
 Chowdury thought for a moment.
 
-656
-00:42:06,620 --> 00:42:10,600
-'Not great,' he said.
+424
+00:42:07,840 --> 00:42:15,920
+'Not great,' he said. 'I mean, I'm the accountant. 
+I can make the numbers look good on paper,  
 
-657
-00:42:10,600 --> 00:42:14,411
-'I mean, I'm the accountant.
+425
+00:42:15,920 --> 00:42:25,280
+but actually they're not great. Some of our big 
+stars aren't as good as they were. Sales fell last  
 
-658
-00:42:14,411 --> 00:42:20,560
-I can make the numbers look good on paper,
-but actually they're not great.
+426
+00:42:25,280 --> 00:42:32,640
+year and will fall again this year. There are two 
+new bands out there that we think are very good.  
 
-659
-00:42:20,560 --> 00:42:24,590
-Some of our big stars aren't as good as they
-were.
-
-660
-00:42:24,590 --> 00:42:28,060
-Sales fell last year and will fall again this
-year.
-
-661
-00:42:28,060 --> 00:42:34,080
-There are two new bands out there that we
-think are very good.
-
-662
-00:42:34,080 --> 00:42:41,320
-Claudia was trying to get them to work with
+427
+00:42:33,520 --> 00:42:40,160
+Claudia was trying to get them to work with 
 MMI, but they're still thinking about it.'
 
-663
-00:42:41,320 --> 00:42:45,860
-'I see,' said Shepherd.
+428
+00:42:42,240 --> 00:42:49,280
+'I see,' said Shepherd. She said 
+nothing for a moment. Then Webb spoke.  
 
-664
-00:42:45,860 --> 00:42:47,730
-She said nothing for a moment.
+429
+00:42:51,120 --> 00:42:56,720
+'What about last night?' he asked. 'Where 
+were you going at about a quarter to eleven?'
 
-665
-00:42:47,730 --> 00:42:50,250
-Then Webb spoke.
+430
+00:42:57,520 --> 00:43:01,120
+'For a run. Why?' asked Chowdury.
 
-666
-00:42:50,250 --> 00:42:54,620
-'What about last night?' he asked.
-
-667
-00:42:54,620 --> 00:42:57,410
-'Where were you going at about a quarter to
-eleven?'
-
-668
-00:42:57,410 --> 00:43:00,060
-'For a run.
-
-669
-00:43:00,060 --> 00:43:01,060
-Why?'
-
-670
-00:43:01,060 --> 00:43:02,700
-asked Chowdury.
-
-671
-00:43:02,700 --> 00:43:05,350
+431
+00:43:02,480 --> 00:43:04,800
 'Which way did you go?' asked Webb.
 
-672
-00:43:05,350 --> 00:43:08,880
-'Out of the hotel and right,' replied Chowdury.
+432
+00:43:05,680 --> 00:43:13,280
+'Out of the hotel and right,' replied Chowdury. 'I 
+ran along by the beach for four or five kilometres  
 
-673
-00:43:08,880 --> 00:43:14,360
-'I ran along by the beach for four or five
-kilometres and then came back.
+433
+00:43:13,280 --> 00:43:17,440
+and then came back. I got 
+back about eleven thirty.'
 
-674
-00:43:14,360 --> 00:43:18,050
-I got back about eleven thirty.'
+434
+00:43:18,640 --> 00:43:24,560
+Shepherd thought, 'Claudia Engel's body was a 
+few hundred metres to the left of the hotel.  
 
-675
-00:43:18,050 --> 00:43:25,620
-Shepherd thought, 'Claudia Engel's body was
-a few hundred metres to the left of the hotel.
-
-676
-00:43:25,620 --> 00:43:28,290
+435
+00:43:25,440 --> 00:43:26,240
 The other way.'
 
-677
-00:43:28,290 --> 00:43:32,570
-At that moment DC Fox's head came round the
-door.
+436
+00:43:28,000 --> 00:43:35,040
+At that moment DC Fox's head came round the 
+door. 'Shep,' he said. 'You'll want to see this.'
 
-678
-00:43:32,570 --> 00:43:34,310
-'Shep,' he said.
+437
+00:43:36,640 --> 00:43:39,840
+Shepherd left the room for a 
+moment and then came back in.  
 
-679
-00:43:34,310 --> 00:43:35,870
-'You'll want to see this.'
+438
+00:43:40,880 --> 00:43:47,440
+Fox stood by the door. In Shepherd's hand 
+was a golf club in a long plastic bag.
 
-680
-00:43:35,870 --> 00:43:41,340
-Shepherd left the room for a moment and then
-came back in.
+439
+00:43:48,960 --> 00:43:56,160
+'One of my officers found this in your room,' 
+she said to Chowdury. 'Is it yours?'
+ 
+ 
+ 
 
-681
-00:43:41,340 --> 00:43:43,470
-Fox stood by the door.
-
-682
-00:43:43,470 --> 00:43:48,150
-In Shepherd's hand was a golf club in a long
-plastic bag.
-
-683
-00:43:48,150 --> 00:43:56,040
-'One of my officers found this in your room,'
-she said to Chowdury.
-
-684
-00:43:56,040 --> 00:44:02,430
-'Is it yours?'
-
-685
-00:44:02,430 --> 00:44:08,850
+440
+00:44:02,320 --> 00:44:03,120
 CHAPTER FIVE
+
+441
+00:44:04,640 --> 00:44:08,320
 More about Claudia Engel
 
-686
-00:44:08,850 --> 00:44:12,550
+442
+00:44:08,320 --> 00:44:11,440
 Chowdury opened his mouth and closed it again.
 
-687
-00:44:12,550 --> 00:44:16,640
+443
+00:44:13,200 --> 00:44:16,080
 'Yes, it's mine,' he said.
 
-688
-00:44:16,640 --> 00:44:22,350
+444
+00:44:17,200 --> 00:44:22,000
 'You only have one golf club?' asked Shepherd.
 
-689
-00:44:22,350 --> 00:44:23,350
-'It's a new one,' answered Chowdury.
+445
+00:44:22,000 --> 00:44:27,120
+'It's a new one,' answered Chowdury. 
+'I bought it the day before yesterday.  
 
-690
-00:44:23,350 --> 00:44:27,890
-'I bought it the day before yesterday.
+446
+00:44:27,680 --> 00:44:31,360
+My other clubs are in the golf 
+bag in the back of my car.'
 
-691
-00:44:27,890 --> 00:44:32,340
-My other clubs are in the golf bag in the
-back of my car.'
+447
+00:44:33,040 --> 00:44:39,120
+'We'll need to look at those too,' said 
+Shepherd, putting out a hand. 'Keys, please.'
 
-692
-00:44:32,340 --> 00:44:38,650
-'We'll need to look at those too,' said Shepherd,
-putting out a hand.
+448
+00:44:40,960 --> 00:44:46,800
+Chowdury gave his car keys to Shepherd. She 
+passed his keys and the golf club to Fox.
 
-693
-00:44:38,650 --> 00:44:41,470
-'Keys, please.'
-
-694
-00:44:41,470 --> 00:44:43,880
-Chowdury gave his car keys to Shepherd.
-
-695
-00:44:43,880 --> 00:44:47,340
-She passed his keys and the golf club to Fox.
-
-696
-00:44:47,340 --> 00:44:51,050
+449
+00:44:48,160 --> 00:44:50,240
 'You know what to do,' she said.
 
-697
-00:44:51,050 --> 00:44:55,350
+450
+00:44:51,040 --> 00:44:53,280
 'Yes, Shep,' Fox replied.
 
-698
-00:44:55,350 --> 00:44:58,520
+451
+00:44:54,880 --> 00:44:57,920
 Shepherd looked at her watch, then at Chowdury.
 
-699
-00:44:58,520 --> 00:45:03,810
-'You can go,' she said, 'but don't leave the
-hotel.
+452
+00:44:59,600 --> 00:45:05,680
+'You can go,' she said, 'but don't leave the 
+hotel. I'll have more questions for you later.'
 
-700
-00:45:03,810 --> 00:45:07,830
-I'll have more questions for you later.'
-
-701
-00:45:07,830 --> 00:45:09,240
+453
+00:45:07,360 --> 00:45:08,400
 Chowdury left the room.
 
-702
-00:45:09,240 --> 00:45:11,660
-Webb looked at Shepherd.
+454
+00:45:09,680 --> 00:45:16,480
+Webb looked at Shepherd. 'Your phone call,' he 
+said. 'That's how you know business is not good.'
 
-703
-00:45:11,660 --> 00:45:14,220
-'Your phone call,' he said.
+455
+00:45:17,600 --> 00:45:23,600
+'Yes,' replied Shepherd. 'A friend in 
+the music business. It's a small world.'
 
-704
-00:45:14,220 --> 00:45:17,700
-'That's how you know business is not good.'
+456
+00:45:25,920 --> 00:45:32,080
+'And how did you know that Chowdury and 
+Engel were lovers at one time?' Webb asked.
 
-705
-00:45:17,700 --> 00:45:19,950
-'Yes,' replied Shepherd.
+457
+00:45:32,080 --> 00:45:33,840
+'I didn't,' said Shepherd.  
 
-706
-00:45:19,950 --> 00:45:22,980
-'A friend in the music business.
-
-707
-00:45:22,980 --> 00:45:26,280
-It's a small world.'
-
-708
-00:45:26,280 --> 00:45:30,230
-'And how did you know that Chowdury and Engel
-were lovers at one time?'
-
-709
-00:45:30,230 --> 00:45:31,820
-Webb asked.
-
-710
-00:45:31,820 --> 00:45:34,180
-'I didn't,' said Shepherd.
-
-711
-00:45:34,180 --> 00:45:43,140
-'But there was something in his voice that
+458
+00:45:35,040 --> 00:45:40,320
+'But there was something in his voice that 
 made me think it was a good question to ask.'
 
-712
-00:45:43,140 --> 00:45:47,010
-Shepherd took a pen from the table and started
-playing with it.
+459
+00:45:42,720 --> 00:45:46,080
+Shepherd took a pen from the 
+table and started playing with it.  
 
-713
-00:45:47,010 --> 00:45:52,000
-'And DC Fox told me that Darren Fleming is
-here.
+460
+00:45:47,520 --> 00:45:51,760
+'And DC Fox told me that Darren Fleming is here.
 
-714
-00:45:52,000 --> 00:45:55,050
-Get him in here next.
+461
+00:45:52,720 --> 00:46:01,280
+Get him in here next. Ask for some sandwiches 
+for later too. And more coffee, if you want it.'
 
-715
-00:45:55,050 --> 00:45:57,700
-Ask for some sandwiches for later too.
+462
+00:46:01,280 --> 00:46:06,240
+Shepherd looked at her watch. It was 
+twelve o'clock. Time for a real drink.
 
-716
-00:45:57,700 --> 00:46:01,710
-And more coffee, if you want it.'
+463
+00:46:07,680 --> 00:46:11,600
+And you can get me a glass of 
+red wine from the bar,' she said.
 
-717
-00:46:01,710 --> 00:46:02,710
-Shepherd looked at her watch.
+464
+00:46:13,520 --> 00:46:15,600
+Webb looked at Shepherd as he stood up.  
 
-718
-00:46:02,710 --> 00:46:05,250
-It was twelve o'clock.
+465
+00:46:16,640 --> 00:46:19,920
+She was certainly different from 
+other police inspectors he knew.
 
-719
-00:46:05,250 --> 00:46:07,090
-Time for a real drink.
-
-720
-00:46:07,090 --> 00:46:13,810
-And you can get me a glass of red wine from
-the bar,' she said.
-
-721
-00:46:13,810 --> 00:46:16,870
-Webb looked at Shepherd as he stood up.
-
-722
-00:46:16,870 --> 00:46:20,500
-She was certainly different from other police
-inspectors he knew.
-
-723
-00:46:20,500 --> 00:46:25,190
+466
+00:46:20,960 --> 00:46:23,520
 But he just said, 'Right, Shep.'
 
-724
-00:46:25,190 --> 00:46:29,680
-And this time you ask the questions,' said
-Shepherd.
+467
+00:46:24,880 --> 00:46:30,800
+And this time you ask the questions,' 
+said Shepherd. Webb smiled.
 
-725
-00:46:29,680 --> 00:46:31,820
-Webb smiled.
-
-726
-00:46:31,820 --> 00:46:32,900
+468
+00:46:31,920 --> 00:46:32,400
 'Thanks.'
 
-727
-00:46:32,900 --> 00:46:39,140
-'Don't thank me yet,' replied Shepherd, not
-smiling back.
+469
+00:46:34,320 --> 00:46:42,200
+'Don't thank me yet,' replied Shepherd, not 
+smiling back. 'I'll be in here with you.'
 
-728
-00:46:39,140 --> 00:46:42,210
-'I'll be in here with you.'
-
-729
-00:46:42,210 --> 00:46:43,210
+470
+00:46:42,200 --> 00:46:43,200
 ***
 
-730
-00:46:43,210 --> 00:46:47,380
-A few minutes later, they were back in the
-Wells room.
+471
+00:46:43,200 --> 00:46:49,360
+A few minutes later, they were back in the Wells 
+room. Shepherd and Webb were in their usual seats;  
 
-731
-00:46:47,380 --> 00:46:53,570
-Shepherd and Webb were in their usual seats;
-Darren Fleming was opposite them.
+472
+00:46:49,920 --> 00:46:51,760
+Darren Fleming was opposite them.  
 
-732
-00:46:53,570 --> 00:46:58,840
-Fleming was in his late twenties, wearing
-jeans and a brown shirt.
+473
+00:46:53,120 --> 00:46:58,240
+Fleming was in his late twenties, 
+wearing jeans and a brown shirt.
 
-733
-00:46:58,840 --> 00:47:02,670
+474
+00:46:59,600 --> 00:47:02,240
 'Why am I here?' he asked Shepherd.
 
-734
-00:47:02,670 --> 00:47:06,610
+475
+00:47:03,200 --> 00:47:06,080
 'You were in the hotel last night,' said Webb.
 
-735
-00:47:06,610 --> 00:47:11,780
-'Yes, but only for a short time,' answered
-Fleming.
+476
+00:47:07,440 --> 00:47:11,200
+'Yes, but only for a short 
+time,' answered Fleming.
 
-736
-00:47:11,780 --> 00:47:15,340
+477
+00:47:12,240 --> 00:47:14,160
 'Why was that?' asked Webb.
 
-737
-00:47:15,340 --> 00:47:18,200
-'Because I saw someone...'
+478
+00:47:15,120 --> 00:47:19,920
+'Because I saw someone...' 
+began Fleming. He stopped.  
 
-738
-00:47:18,200 --> 00:47:19,200
-began Fleming.
+479
+00:47:21,040 --> 00:47:27,200
+He looked at Shepherd, then back at 
+Webb. 'What's all this about?' he asked.
 
-739
-00:47:19,200 --> 00:47:20,200
-He stopped.
+480
+00:47:28,720 --> 00:47:35,840
+'We found a body on the beach early this morning,' 
+said Webb. 'Claudia Engel's body. She was dead.'
 
-740
-00:47:20,200 --> 00:47:23,640
-He looked at Shepherd, then back at Webb.
+481
+00:47:36,880 --> 00:47:38,880
+'Murdered?' asked Fleming.
 
-741
-00:47:23,640 --> 00:47:27,960
-'What's all this about?' he asked.
-
-742
-00:47:27,960 --> 00:47:33,320
-'We found a body on the beach early this morning,'
-said Webb.
-
-743
-00:47:33,320 --> 00:47:35,330
-'Claudia Engel's body.
-
-744
-00:47:35,330 --> 00:47:36,420
-She was dead.'
-
-745
-00:47:36,420 --> 00:47:37,420
-'Murdered?'
-
-746
-00:47:37,420 --> 00:47:38,420
-asked Fleming.
-
-747
-00:47:38,420 --> 00:47:40,060
+482
+00:47:39,920 --> 00:47:41,520
 'Yes,' said Webb.
 
-748
-00:47:40,060 --> 00:47:42,860
-'Poor Claudia,' said Fleming.
+483
+00:47:43,600 --> 00:47:49,440
+'Poor Claudia,' said Fleming. 'Poor Claudia.'
 
-749
-00:47:42,860 --> 00:47:45,650
-'Poor Claudia.'
-
-750
-00:47:45,650 --> 00:47:52,650
+484
+00:47:51,600 --> 00:47:53,600
 'You knew her?' asked Webb.
 
-751
-00:47:52,650 --> 00:47:54,050
-'Yes.
+485
+00:47:54,560 --> 00:48:02,560
+'Yes. We were students together in London,' said 
+Fleming. 'We lived in the same house. For a year.  
 
-752
-00:47:54,050 --> 00:47:59,700
-We were students together in London,' said
-Fleming.
-
-753
-00:47:59,700 --> 00:48:02,050
-'We lived in the same house.
-
-754
-00:48:02,050 --> 00:48:04,750
-For a year.
-
-755
-00:48:04,750 --> 00:48:05,820
+486
+00:48:04,400 --> 00:48:05,840
 Not happy times.'
 
-756
-00:48:05,820 --> 00:48:10,080
+487
+00:48:07,120 --> 00:48:08,960
 'Why not?' asked Webb.
 
-757
-00:48:10,080 --> 00:48:16,440
-'It was an unhappy house - mainly because
-of Claudia,' said Fleming.
+488
+00:48:10,720 --> 00:48:15,840
+'It was an unhappy house - mainly 
+because of Claudia,' said Fleming.  
 
-758
-00:48:16,440 --> 00:48:20,370
-He was quiet for a moment, remembering.
+489
+00:48:16,720 --> 00:48:21,120
+He was quiet for a moment, 
+remembering. Then he spoke again.
 
-759
-00:48:20,370 --> 00:48:22,220
-Then he spoke again.
+490
+00:48:22,880 --> 00:48:27,920
+'We were studying the same thing - 
+business - so I saw a lot of her.  
 
-760
-00:48:22,220 --> 00:48:29,680
-'We were studying the same thing - business
-- so I saw a lot of her.
+491
+00:48:29,440 --> 00:48:35,760
+She wasn't a nice person. When she said 
+something, you never knew if it was true.  
 
-761
-00:48:29,680 --> 00:48:31,630
-She wasn't a nice person.
+492
+00:48:37,600 --> 00:48:44,240
+She sometimes told stories about people - other 
+students - and I knew the stories were untrue.  
 
-762
-00:48:31,630 --> 00:48:37,860
-When she said something, you never knew if
-it was true.
+493
+00:48:46,800 --> 00:48:53,520
+She could be really nice if she wanted 
+something - help with her studies, someone to  
 
-763
-00:48:37,860 --> 00:48:47,050
-She sometimes told stories about people - other
-students - and I knew the stories were untrue.
+494
+00:48:53,520 --> 00:49:02,160
+cook her a meal - but you had to do what she 
+wanted. If you didn't, she told everyone else  
 
-764
-00:48:47,050 --> 00:48:53,880
-She could be really nice if she wanted something
-- help with her studies, someone to cook her
+495
+00:49:02,160 --> 00:49:08,000
+how terrible you were. By the end of the 
+year I just wanted to get out of that house.  
 
-765
-00:48:53,880 --> 00:48:58,570
-a meal - but you had to do what she wanted.
+496
+00:49:09,200 --> 00:49:13,200
+There were five of us living there 
+and everyone felt the same way.'
 
-766
-00:48:58,570 --> 00:49:04,020
-If you didn't, she told everyone else how
-terrible you were.
-
-767
-00:49:04,020 --> 00:49:08,680
-By the end of the year I just wanted to get
-out of that house.
-
-768
-00:49:08,680 --> 00:49:13,920
-There were five of us living there and everyone
-felt the same way.'
-
-769
-00:49:13,920 --> 00:49:18,980
+497
+00:49:14,880 --> 00:49:17,920
 'Did she know how you felt?' asked Webb.
 
-770
-00:49:18,980 --> 00:49:21,200
-'Oh yes,' said Fleming.
+498
+00:49:17,920 --> 00:49:26,560
+'Oh yes,' said Fleming. 'She certainly knew how I 
+felt. One time she wanted to borrow a piece of my  
 
-771
-00:49:21,200 --> 00:49:23,940
-'She certainly knew how I felt.
+499
+00:49:26,560 --> 00:49:34,960
+work. She wanted to use it in something she was 
+doing. I wasn't having any of it. I told her no.  
 
-772
-00:49:23,940 --> 00:49:28,140
-One time she wanted to borrow a piece of my
-work.
+500
+00:49:34,960 --> 00:49:42,240
+She could do her own work. She said some bad 
+things about me to other people and I found out.'
 
-773
-00:49:28,140 --> 00:49:31,780
-She wanted to use it in something she was
-doing.
-
-774
-00:49:31,780 --> 00:49:33,540
-I wasn't having any of it.
-
-775
-00:49:33,540 --> 00:49:35,210
-I told her no.
-
-776
-00:49:35,210 --> 00:49:37,850
-She could do her own work.
-
-777
-00:49:37,850 --> 00:49:42,290
-She said some bad things about me to other
-people and I found out.'
-
-778
-00:49:42,290 --> 00:49:46,250
+501
+00:49:43,840 --> 00:49:45,600
 'And?' asked Webb.
 
-779
-00:49:46,250 --> 00:49:49,050
-'I told her what I thought of her.
+502
+00:49:46,560 --> 00:49:48,160
+'I told her what I thought of her.  
 
-780
-00:49:49,050 --> 00:49:52,100
-In front of most of the students from one
-of our classes.
+503
+00:49:48,960 --> 00:49:54,000
+In front of most of the students from 
+one of our classes. I was so angry.'
 
-781
-00:49:52,100 --> 00:49:55,620
-I was so angry.'
+504
+00:49:55,360 --> 00:50:01,680
+Then Fleming smiled. 'But that 
+was ten years ago,' he said.
 
-782
-00:49:55,620 --> 00:49:57,940
-Then Fleming smiled.
+505
+00:50:02,720 --> 00:50:05,120
+And are you still angry?' asked Webb.  
 
-783
-00:49:57,940 --> 00:50:02,140
-'But that was ten years ago,' he said.
+506
+00:50:06,000 --> 00:50:09,440
+'Because you just turned round and 
+walked out of the hotel last night.'
 
-784
-00:50:02,140 --> 00:50:06,340
-And are you still angry?' asked Webb.
+507
+00:50:10,800 --> 00:50:13,760
+Fleming sat up in his chair and looked at Webb.
 
-785
-00:50:06,340 --> 00:50:11,300
-'Because you just turned round and walked
-out of the hotel last night.'
+508
+00:50:14,800 --> 00:50:21,840
+'No,' he said. 'I'm not angry now. 
+If anything, I feel sorry for her.  
 
-786
-00:50:11,300 --> 00:50:14,900
-Fleming sat up in his chair and looked at
-Webb.
+509
+00:50:22,880 --> 00:50:30,160
+She had no real friends. But yes, I walked out 
+last night. The past is sometimes a dangerous  
 
-787
-00:50:14,900 --> 00:50:18,050
-'No,' he said.
+510
+00:50:30,160 --> 00:50:38,720
+place. I didn't want to go there. I went back 
+home. I was unlucky enough to see Claudia Engel  
 
-788
-00:50:18,050 --> 00:50:20,000
-'I'm not angry now.
+511
+00:50:38,720 --> 00:50:46,800
+for about five seconds yesterday evening. That's 
+all. I didn't see her again. Now can I go?'
 
-789
-00:50:20,000 --> 00:50:22,480
-If anything, I feel sorry for her.
+512
+00:50:48,400 --> 00:50:51,280
+'You didn't meet her later 
+that evening?' asked Webb.
 
-790
-00:50:22,480 --> 00:50:24,980
-She had no real friends.
-
-791
-00:50:24,980 --> 00:50:28,100
-But yes, I walked out last night.
-
-792
-00:50:28,100 --> 00:50:30,990
-The past is sometimes a dangerous place.
-
-793
-00:50:30,990 --> 00:50:33,540
-I didn't want to go there.
-
-794
-00:50:33,540 --> 00:50:36,000
-I went back home.
-
-795
-00:50:36,000 --> 00:50:41,450
-I was unlucky enough to see Claudia Engel
-for about five seconds yesterday evening.
-
-796
-00:50:41,450 --> 00:50:42,630
-That's all.
-
-797
-00:50:42,630 --> 00:50:46,170
-I didn't see her again.
-
-798
-00:50:46,170 --> 00:50:47,870
-Now can I go?'
-
-799
-00:50:47,870 --> 00:50:52,140
-'You didn't meet her later that evening?'
-asked Webb.
-
-800
-00:50:52,140 --> 00:50:55,240
+513
+00:50:51,840 --> 00:50:54,560
 'Certainly not,' replied Fleming.
 
-801
-00:50:55,240 --> 00:51:01,440
-'Was anyone with you when you were at home?'
-asked Webb.
+514
+00:50:55,680 --> 00:50:58,960
+'Was anyone with you when you 
+were at home?' asked Webb.
 
-802
-00:51:01,440 --> 00:51:03,830
+515
+00:51:00,320 --> 00:51:02,320
 'No,' replied Fleming.
 
-803
-00:51:03,830 --> 00:51:05,600
-'Did you phone anyone?
+516
+00:51:03,600 --> 00:51:07,360
+'Did you phone anyone? Email anyone?' asked Webb.
 
-804
-00:51:05,600 --> 00:51:09,890
-Email anyone?' asked Webb.
-
-805
-00:51:09,890 --> 00:51:13,120
+517
+00:51:09,360 --> 00:51:11,440
 'No,' replied Fleming.
 
-806
-00:51:13,120 --> 00:51:14,460
+518
+00:51:12,800 --> 00:51:13,920
 Webb looked at Shepherd.
 
-807
-00:51:14,460 --> 00:51:19,580
-'Put all this in writing for one of my officers,'
-Shepherd told Fleming.
+519
+00:51:15,520 --> 00:51:17,840
+'Put all this in writing for one of my officers,'  
 
-808
-00:51:19,580 --> 00:51:21,700
-'Then you can go.
+520
+00:51:18,720 --> 00:51:22,720
+Shepherd told Fleming. 'Then you 
+can go. But don't leave Hythe.'
 
-809
-00:51:21,700 --> 00:51:26,480
-But don't leave Hythe.'
-
-810
-00:51:26,480 --> 00:51:27,480
+521
+00:51:25,160 --> 00:51:26,160
 ***
 
-811
-00:51:27,480 --> 00:51:32,210
-Ten minutes later Shepherd and Webb were standing
-outside the front doors of the hotel.
+522
+00:51:26,160 --> 00:51:31,200
+Ten minutes later Shepherd and Webb were 
+standing outside the front doors of the hotel.  
 
-812
-00:51:32,210 --> 00:51:37,760
-Webb had a sandwich, Shepherd her glass of
-wine.
+523
+00:51:32,480 --> 00:51:36,320
+Webb had a sandwich, Shepherd her glass of wine.
 
-813
-00:51:37,760 --> 00:51:43,920
-'What a nice young woman Claudia Engel was!'
-said Shepherd.
+524
+00:51:38,800 --> 00:51:42,880
+'What a nice young woman Claudia 
+Engel was!' said Shepherd.
 
-814
-00:51:43,920 --> 00:51:46,120
+525
+00:51:43,840 --> 00:51:44,640
 Webb smiled.
 
-815
-00:51:46,120 --> 00:51:48,960
+526
+00:51:45,680 --> 00:51:46,880
 Shepherd drank some wine.
 
-816
-00:51:48,960 --> 00:51:51,980
+527
+00:51:48,720 --> 00:51:51,200
 'Good questioning in there,' she said.
 
-817
-00:51:51,980 --> 00:51:54,690
+528
+00:51:52,320 --> 00:51:53,840
 'Thank you,' said Webb.
 
-818
-00:51:54,690 --> 00:51:58,530
-'Don't get too pleased with yourself,' said
-Shepherd.
+529
+00:51:55,200 --> 00:52:00,480
+'Don't get too pleased with yourself,' said 
+Shepherd. 'We've still got a long way to go.'
 
-819
-00:51:58,530 --> 00:52:02,520
-'We've still got a long way to go.'
+530
+00:52:02,240 --> 00:52:09,600
+Webb smiled to himself. 'By the way, Shep,' he 
+began, 'there's a door at the back of the hotel  
 
-820
-00:52:02,520 --> 00:52:04,140
-Webb smiled to himself.
+531
+00:52:09,600 --> 00:52:12,160
+where you could go out without anyone seeing you.'
 
-821
-00:52:04,140 --> 00:52:10,350
-'By the way, Shep,' he began, 'there's a door
-at the back of the hotel where you could go
+532
+00:52:13,760 --> 00:52:17,840
+'Right,' said Shepherd. 'That's good to know.'
 
-822
-00:52:10,350 --> 00:52:13,130
-out without anyone seeing you.'
-
-823
-00:52:13,130 --> 00:52:15,970
-'Right,' said Shepherd.
-
-824
-00:52:15,970 --> 00:52:19,760
-'That's good to know.'
-
-825
-00:52:19,760 --> 00:52:21,490
+533
+00:52:19,360 --> 00:52:20,560
 Shepherd thought for a moment.
 
-826
-00:52:21,490 --> 00:52:26,500
-'Let's go and have a look round Engel's room,'
-she said.
+534
+00:52:22,320 --> 00:52:29,280
+'Let's go and have a look round Engel's room,' 
+she said. 'I know DC Fox has been there already,  
 
-827
-00:52:26,500 --> 00:52:33,240
-'I know DC Fox has been there already, but
-I want to see it for myself.
+535
+00:52:30,160 --> 00:52:36,800
+but I want to see it for myself. Fox is a 
+good officer, but sometimes he's too careful.  
 
-828
-00:52:33,240 --> 00:52:38,420
-Fox is a good officer, but sometimes he's
-too careful.
+536
+00:52:38,160 --> 00:52:45,840
+He doesn't let his brain run free. Get the key 
+from reception and meet me on the second floor.'
 
-829
-00:52:38,420 --> 00:52:40,610
-He doesn't let his brain run free.
-
-830
-00:52:40,610 --> 00:52:46,450
-Get the key from reception and meet me on
-the second floor.'
-
-831
-00:52:46,450 --> 00:52:47,450
+537
+00:52:47,000 --> 00:52:48,000
 ***
 
-832
-00:52:47,450 --> 00:52:55,310
-A few minutes later Webb met Shepherd outside
-Claudia Engel's room.
+538
+00:52:48,000 --> 00:52:52,880
+A few minutes later Webb met Shepherd 
+outside Claudia Engel's room.
 
-833
-00:52:55,310 --> 00:53:01,060
-'Reception gave me a key, but it isn't Engel's,'
-said Webb as he opened the door.
+539
+00:52:54,640 --> 00:52:57,360
+'Reception gave me a key, but it isn't Engel's,'  
 
-834
-00:53:01,060 --> 00:53:04,690
-'No-one can find her key and it wasn't on
-the body.'
+540
+00:52:58,080 --> 00:53:03,520
+said Webb as he opened the door. 'No-one 
+can find her key and it wasn't on the body.'
 
-835
-00:53:04,690 --> 00:53:10,740
+541
+00:53:04,720 --> 00:53:08,240
 'Oh,' said Shepherd, 'that's interesting.'
 
-836
-00:53:10,740 --> 00:53:15,570
-Claudia Engel had a large double room looking
-over the sea.
+542
+00:53:10,160 --> 00:53:13,840
+Claudia Engel had a large double 
+room looking over the sea.
 
-837
-00:53:15,570 --> 00:53:18,590
-'I'll start in the bathroom,' said Shepherd.
+543
+00:53:15,280 --> 00:53:19,280
+'I'll start in the bathroom,' said 
+Shepherd. 'You look round here.'
 
-838
-00:53:18,590 --> 00:53:19,590
-'You look round here.'
-
-839
-00:53:19,590 --> 00:53:23,480
+544
+00:53:20,800 --> 00:53:23,120
 'What are we looking for?' asked Webb.
 
-840
-00:53:23,480 --> 00:53:29,050
+545
+00:53:24,160 --> 00:53:27,840
 'We'll know it when we see it,' answered Shepherd.
 
-841
-00:53:29,050 --> 00:53:31,720
-Shepherd took a quick look round the bathroom.
+546
+00:53:28,640 --> 00:53:34,720
+Shepherd took a quick look round the bathroom. 
+There wasn't much to see - Engel was only staying  
 
-842
-00:53:31,720 --> 00:53:37,100
-There wasn't much to see - Engel was only
-staying two or three nights.
+547
+00:53:34,720 --> 00:53:41,920
+two or three nights. Shepherd saw nothing 
+unusual. She went back into the bedroom.
 
-843
-00:53:37,100 --> 00:53:39,670
-Shepherd saw nothing unusual.
-
-844
-00:53:39,670 --> 00:53:42,260
-She went back into the bedroom.
-
-845
-00:53:42,260 --> 00:53:45,170
+548
+00:53:41,920 --> 00:53:43,920
 Webb was looking through Engel's clothes.
 
-846
-00:53:45,170 --> 00:53:47,480
+549
+00:53:45,040 --> 00:53:46,720
 'Anything?' asked Shepherd.
 
-847
-00:53:47,480 --> 00:53:51,060
+550
+00:53:47,440 --> 00:53:49,280
 'No, Shep,' answered Webb.
 
-848
-00:53:51,060 --> 00:53:53,280
-Shepherd looked round the room.
+551
+00:53:50,640 --> 00:53:51,840
+Shepherd looked round the room.  
 
-849
-00:53:53,280 --> 00:53:59,110
-There was a book, a clock and a music magazine
-on the table next to the bed.
+552
+00:53:52,960 --> 00:53:59,840
+There was a book, a clock and a music magazine 
+on the table next to the bed. Some keys on the  
 
-850
-00:53:59,110 --> 00:54:04,080
-Some keys on the table too - house and car,
-thought Shepherd.
+553
+00:53:59,840 --> 00:54:07,360
+table too - house and car, thought Shepherd. A 
+raincoat behind the door - nothing in the pockets.
 
-851
-00:54:04,080 --> 00:54:07,990
-A raincoat behind the door - nothing in the
-pockets.
+554
+00:54:09,360 --> 00:54:15,920
+She looked round the room again. Something 
+was wrong. She didn't know what. She could  
 
-852
-00:54:07,990 --> 00:54:12,200
-She looked round the room again.
-
-853
-00:54:12,200 --> 00:54:13,780
-Something was wrong.
-
-854
-00:54:13,780 --> 00:54:15,730
-She didn't know what.
-
-855
-00:54:15,730 --> 00:54:21,560
-She could feel her morning headache coming
+555
+00:54:15,920 --> 00:54:19,520
+feel her morning headache coming 
 back, just when she didn't need it.
 
-856
-00:54:21,560 --> 00:54:24,230
-Just then she heard Webb's phone.
+556
+00:54:21,200 --> 00:54:28,720
+Just then she heard Webb's phone. He answered 
+it. Shepherd looked out of the window at the sea,  
 
-857
-00:54:24,230 --> 00:54:26,800
-He answered it.
+557
+00:54:28,720 --> 00:54:34,800
+not listening to Webb's conversation, but 
+thinking about the room. What was wrong with it?  
 
-858
-00:54:26,800 --> 00:54:31,400
-Shepherd looked out of the window at the sea,
-not listening to Webb's conversation, but
+558
+00:54:36,080 --> 00:54:41,040
+And where was Engel's key? She 
+heard Webb finish his conversation.
 
-859
-00:54:31,400 --> 00:54:34,100
-thinking about the room.
-
-860
-00:54:34,100 --> 00:54:35,590
-What was wrong with it?
-
-861
-00:54:35,590 --> 00:54:39,330
-And where was Engel's key?
-
-862
-00:54:39,330 --> 00:54:42,910
-She heard Webb finish his conversation.
-
-863
-00:54:42,910 --> 00:54:44,780
+559
+00:54:42,480 --> 00:54:43,440
 Shepherd looked at Webb.
 
-864
-00:54:44,780 --> 00:54:46,300
-'Well?'
+560
+00:54:45,040 --> 00:54:46,720
+'Well?' she asked.
 
-865
-00:54:46,300 --> 00:54:47,450
-she asked.
-
-866
-00:54:47,450 --> 00:54:52,090
+561
+00:54:47,840 --> 00:54:50,080
 'Nothing important,' replied Webb.
 
-867
-00:54:52,090 --> 00:54:54,470
+562
+00:54:51,680 --> 00:54:53,440
 Shepherd looked round the room a third time.
 
-868
-00:54:54,470 --> 00:55:00,430
-'You know I said, "We'll know it when we see
-it,"' she began.
+563
+00:54:55,360 --> 00:54:59,360
+'You know I said, "We'll know 
+it when we see it,"' she began.
 
-869
-00:55:00,430 --> 00:55:03,380
+564
+00:55:00,240 --> 00:55:02,720
 'Yes?' said Webb questioningly.
 
-870
-00:55:03,380 --> 00:55:09,440
-'Well, we'll also know it if we don't see
-it,' said Shepherd.
+565
+00:55:04,000 --> 00:55:09,120
+'Well, we'll also know it if we 
+don't see it,' said Shepherd.
 
-871
-00:55:09,440 --> 00:55:13,830
-'What do you mean?' asked Webb.
+566
+00:55:10,720 --> 00:55:14,560
+'What do you mean?' asked Webb. Then he smiled.  
 
-872
-00:55:13,830 --> 00:55:16,020
-Then he smiled.
+567
+00:55:15,760 --> 00:55:21,360
+'Oh, I see. So what have we not 
+found - other than the key?'
 
-873
-00:55:16,020 --> 00:55:18,210
-'Oh, I see.
+568
+00:55:23,200 --> 00:55:26,480
+'The thing that business people all 
+around the world carry with them  
 
-874
-00:55:18,210 --> 00:55:22,400
-So what have we not found - other than the
-key?'
+569
+00:55:26,480 --> 00:55:28,880
+at all times,' said Shepherd.
 
-875
-00:55:22,400 --> 00:55:28,521
-'The thing that business people all around
-the world carry with them at all times,' said
-
-876
-00:55:28,521 --> 00:55:29,521
-Shepherd.
-
-877
-00:55:29,521 --> 00:55:34,400
+570
+00:55:30,000 --> 00:55:33,840
 'A laptop computer,' replied Webb.
 
-878
-00:55:34,400 --> 00:55:39,640
+571
+00:55:35,440 --> 00:55:37,760
 'Let's start again,' said Shepherd.
 
-879
-00:55:39,640 --> 00:55:41,770
-Five minutes later they were finished.
+572
+00:55:39,280 --> 00:55:44,080
+Five minutes later they were finished. 
+There wasn't a laptop in the room - not  
 
-880
-00:55:41,770 --> 00:55:47,650
-There wasn't a laptop in the room - not in
-the cupboard, not under the bed, not in the
+573
+00:55:44,080 --> 00:55:49,520
+in the cupboard, not under the 
+bed, not in the bed, nowhere.
 
-881
-00:55:47,650 --> 00:55:50,200
-bed, nowhere.
+574
+00:55:51,120 --> 00:55:57,760
+'We need to find it,' said Shepherd. 'First, find 
+out if she had one here - I can't believe she  
 
-882
-00:55:50,200 --> 00:55:54,500
-'We need to find it,' said Shepherd.
+575
+00:55:57,760 --> 00:56:05,360
+didn't - and find out what sort it was. Then put 
+all our officers on it. Look all around the hotel.  
 
-883
-00:55:54,500 --> 00:56:00,170
-'First, find out if she had one here - I can't
-believe she didn't - and find out what sort
+576
+00:56:06,080 --> 00:56:12,240
+Have another look in the rooms of those other 
+three jokers - McNab, Johnson and Chowdury. Send  
 
-884
-00:56:00,170 --> 00:56:01,360
-it was.
+577
+00:56:12,240 --> 00:56:17,760
+someone round to Fleming's house. And get as many 
+people as you can to go along the beach again.'
 
-885
-00:56:01,360 --> 00:56:03,980
-Then put all our officers on it.
-
-886
-00:56:03,980 --> 00:56:06,320
-Look all around the hotel.
-
-887
-00:56:06,320 --> 00:56:12,370
-Have another look in the rooms of those other
-three jokers - McNab, Johnson and Chowdury.
-
-888
-00:56:12,370 --> 00:56:14,480
-Send someone round to Fleming's house.
-
-889
-00:56:14,480 --> 00:56:18,540
-And get as many people as you can to go along
-the beach again.'
-
-890
-00:56:18,540 --> 00:56:21,430
+578
+00:56:19,200 --> 00:56:20,640
 'Right, Shep,' said Webb.
 
-891
-00:56:21,430 --> 00:56:29,140
-'After that, you'll find me in the bar,' said
-Shepherd.
+579
+00:56:21,600 --> 00:56:29,840
+'After that, you'll find me 
+in the bar,' said Shepherd.
+ 
+ 
+ 
 
-892
-00:56:29,140 --> 00:56:35,000
+580
+00:56:31,920 --> 00:56:32,720
 CHAPTER SIX
+
+581
+00:56:34,080 --> 00:56:34,960
 Unanswered questions
 
-893
-00:56:35,000 --> 00:56:42,780
-At two o'clock Webb found Shepherd, sitting
-at the bar, talking to the barman.
+582
+00:56:37,040 --> 00:56:41,120
+At two o'clock Webb found 
+Shepherd, sitting at the bar,  
 
-894
-00:56:42,780 --> 00:56:45,550
-She looked round as Webb came in.
+583
+00:56:41,120 --> 00:56:46,640
+talking to the barman. She looked round 
+as Webb came in. The barman moved away.
 
-895
-00:56:45,550 --> 00:56:47,780
-The barman moved away.
+584
+00:56:48,560 --> 00:56:52,000
+'Engel had a laptop,' said 
+Webb, sitting next to her.  
 
-896
-00:56:47,780 --> 00:56:52,570
-'Engel had a laptop,' said Webb, sitting next
-to her.
+585
+00:56:52,880 --> 00:56:57,920
+'We know what sort it is. I've got 
+all our officers looking for it.'
 
-897
-00:56:52,570 --> 00:56:54,690
-'We know what sort it is.
+586
+00:56:57,920 --> 00:57:06,080
+'Good,' said Shepherd. 'Now, there are a 
+number of things I want to know. For a start,  
 
-898
-00:56:54,690 --> 00:56:57,560
-I've got all our officers looking for it.'
+587
+00:57:06,080 --> 00:57:13,680
+what's on Engel's laptop? Second, why did 
+Engel think that MMI needed her so much?  
 
-899
-00:56:57,560 --> 00:57:00,060
-'Good,' said Shepherd.
+588
+00:57:14,640 --> 00:57:20,000
+Remember what Chowdury heard her say - "Give 
+me what I want, or your company is finished."  
 
-900
-00:57:00,060 --> 00:57:05,190
-'Now, there are a number of things I want
-to know.
+589
+00:57:20,880 --> 00:57:28,240
+What could she do to bring an end to the 
+company? Next, what's Harriet Johnson  
 
-901
-00:57:05,190 --> 00:57:08,870
-For a start, what's on Engel's laptop?
+590
+00:57:29,200 --> 00:57:37,200
+not telling us? She was very uncomfortable 
+about some of our questions. And last,  
 
-902
-00:57:08,870 --> 00:57:14,690
-Second, why did Engel think that MMI needed
-her so much?
+591
+00:57:38,240 --> 00:57:42,080
+why do McNab and Johnson say 
+that the business is doing well  
 
-903
-00:57:14,690 --> 00:57:21,180
-Remember what Chowdury heard her say - "Give
-me what I want, or your company is finished."
+592
+00:57:42,720 --> 00:57:49,040
+when Chowdury says it isn't, and my friend 
+in the music business knows it isn't?'
 
-904
-00:57:21,180 --> 00:57:25,240
-What could she do to bring an end to the company?
+593
+00:57:50,320 --> 00:57:56,080
+Shepherd waved at the barman. 'I'll have 
+a glass of red wine, please,' she said.
 
-905
-00:57:25,240 --> 00:57:32,420
-Next, what's Harriet Johnson not telling us?
+594
+00:57:57,680 --> 00:58:01,200
+Webb gave Shepherd a funny look. Shepherd saw it.
 
-906
-00:57:32,420 --> 00:57:36,340
-She was very uncomfortable about some of our
-questions.
+595
+00:58:02,640 --> 00:58:05,680
+'When you've done this job 
+as long as I have, Sergeant,'  
 
-907
-00:57:36,340 --> 00:57:43,920
-And last, why do McNab and Johnson say that
-the business is doing well when Chowdury says
+596
+00:58:06,320 --> 00:58:10,640
+she said, 'you'll find you need a 
+glass of red wine now and then.'
 
-908
-00:57:43,920 --> 00:57:50,770
-it isn't, and my friend in the music business
-knows it isn't?'
-
-909
-00:57:50,770 --> 00:57:52,020
-Shepherd waved at the barman.
-
-910
-00:57:52,020 --> 00:57:57,130
-'I'll have a glass of red wine, please,' she
-said.
-
-911
-00:57:57,130 --> 00:58:00,020
-Webb gave Shepherd a funny look.
-
-912
-00:58:00,020 --> 00:58:02,330
-Shepherd saw it.
-
-913
-00:58:02,330 --> 00:58:08,450
-'When you've done this job as long as I have,
-Sergeant,' she said, 'you'll find you need
-
-914
-00:58:08,450 --> 00:58:11,700
-a glass of red wine now and then.'
-
-915
-00:58:11,700 --> 00:58:17,090
+597
+00:58:13,040 --> 00:58:15,200
 'While you're working?' asked Webb.
 
-916
-00:58:17,090 --> 00:58:20,880
+598
+00:58:16,880 --> 00:58:19,680
 'It helps me think,' replied Shepherd.
 
-917
-00:58:20,880 --> 00:58:27,030
-A grey-haired man came into the room and stood
-at the far end of the bar.
+599
+00:58:21,520 --> 00:58:25,920
+A grey-haired man came into the room 
+and stood at the far end of the bar.  
 
-918
-00:58:27,030 --> 00:58:32,130
-He put his keys on top of the bar and waited
-for the barman to come over.
+600
+00:58:26,800 --> 00:58:30,720
+He put his keys on top of the bar and 
+waited for the barman to come over.
 
-919
-00:58:32,130 --> 00:58:35,860
+601
+00:58:32,880 --> 00:58:35,840
 DC Fox came to the door and waved.
 
-920
-00:58:35,860 --> 00:58:41,530
-'See what he wants,' said Shepherd and stayed
-sitting.
+602
+00:58:36,560 --> 00:58:43,120
+'See what he wants,' said Shepherd and stayed 
+sitting. Webb left the room to talk to Fox.
 
-921
-00:58:41,530 --> 00:58:45,950
-Webb left the room to talk to Fox.
+603
+00:58:45,520 --> 00:58:50,400
+Shepherd sat and thought. She 
+looked at the grey-haired man,  
 
-922
-00:58:45,950 --> 00:58:48,230
-Shepherd sat and thought.
+604
+00:58:51,440 --> 00:58:58,480
+now sitting at the other end of the bar. Then 
+she looked at his keys. There were four or five.  
 
-923
-00:58:48,230 --> 00:58:55,060
-She looked at the grey-haired man, now sitting
-at the other end of the bar.
+605
+00:58:59,040 --> 00:59:06,560
+And something else. What was it? Oh 
+yes! A memory stick for a computer.
 
-924
-00:58:55,060 --> 00:58:57,420
-Then she looked at his keys.
+606
+00:59:09,200 --> 00:59:16,400
+Webb came back. 'They've found Engel's room key 
+and her laptop,' he told Shepherd. 'They were  
 
-925
-00:58:57,420 --> 00:58:59,310
-There were four or five.
+607
+00:59:16,400 --> 00:59:21,520
+hidden in an old garage at the back of the hotel. 
+But I don't think we're going to get anything  
 
-926
-00:58:59,310 --> 00:59:00,550
-And something else.
+608
+00:59:21,520 --> 00:59:28,000
+from the laptop. Someone's broken it up. It was in 
+pieces. And I'm not sure we've got all the bits.'
 
-927
-00:59:00,550 --> 00:59:02,250
-What was it?
+609
+00:59:29,600 --> 00:59:31,840
+Shepherd put her head in her hands for a moment.  
 
-928
-00:59:02,250 --> 00:59:03,920
-Oh yes!
+610
+00:59:32,960 --> 00:59:38,960
+Then she looked up and saw the memory stick 
+on the bar again. It gave her an idea.
 
-929
-00:59:03,920 --> 00:59:09,500
-A memory stick for a computer.
+611
+00:59:40,320 --> 00:59:46,080
+'Wait a minute,' she said. She looked out 
+of the window, and thought for a minute.  
 
-930
-00:59:09,500 --> 00:59:10,850
-Webb came back.
+612
+00:59:46,080 --> 00:59:49,840
+Then she looked at Webb. 'I've had an idea.'  
 
-931
-00:59:10,850 --> 00:59:15,840
-'They've found Engel's room key and her laptop,'
-he told Shepherd.
+613
+00:59:51,280 --> 00:59:56,560
+She thought for a few moments more, a 
+finger to her mouth, her eyes half closed.
 
-932
-00:59:15,840 --> 00:59:19,480
-'They were hidden in an old garage at the
-back of the hotel.
+614
+00:59:59,040 --> 01:00:05,280
+'OK. Let's do it,' said 
+Shepherd. 'I want to see McNab,  
 
-933
-00:59:19,480 --> 00:59:23,190
-But I don't think we're going to get anything
-from the laptop.
+615
+01:00:05,840 --> 01:00:12,560
+Johnson and Chowdury in the Wells room. 
+Fleming too. Send a car for him. Let's  
 
-934
-00:59:23,190 --> 00:59:24,340
-Someone's broken it up.
-
-935
-00:59:24,340 --> 00:59:26,060
-It was in pieces.
-
-936
-00:59:26,060 --> 00:59:30,059
-And I'm not sure we've got all the bits.'
-
-937
-00:59:30,059 --> 00:59:33,240
-Shepherd put her head in her hands for a moment.
-
-938
-00:59:33,240 --> 00:59:37,230
-Then she looked up and saw the memory stick
-on the bar again.
-
-939
-00:59:37,230 --> 00:59:39,660
-It gave her an idea.
-
-940
-00:59:39,660 --> 00:59:42,720
-'Wait a minute,' she said.
-
-941
-00:59:42,720 --> 00:59:46,420
-She looked out of the window, and thought
-for a minute.
-
-942
-00:59:46,420 --> 00:59:49,090
-Then she looked at Webb.
-
-943
-00:59:49,090 --> 00:59:50,530
-'I've had an idea.'
-
-944
-00:59:50,530 --> 00:59:57,750
-She thought for a few moments more, a finger
-to her mouth, her eyes half closed.
-
-945
-00:59:57,750 --> 00:59:58,900
-'OK.
-
-946
-00:59:58,900 --> 01:00:03,360
-Let's do it,' said Shepherd.
-
-947
-01:00:03,360 --> 01:00:09,200
-'I want to see McNab, Johnson and Chowdury
-in the Wells room.
-
-948
-01:00:09,200 --> 01:00:10,380
-Fleming too.
-
-949
-01:00:10,380 --> 01:00:12,590
-Send a car for him.
-
-950
-01:00:12,590 --> 01:00:14,960
-Let's say we'll meet in forty-five minutes.
-
-951
-01:00:14,960 --> 01:00:17,940
+616
+01:00:12,560 --> 01:00:16,800
+say we'll meet in forty-five minutes. 
 I've got a few things to do first.'
 
-952
-01:00:17,940 --> 01:00:27,860
-'Right, Shep,' said Webb and left the room,
+617
+01:00:19,200 --> 01:00:25,680
+'Right, Shep,' said Webb and left the room, 
 asking himself what her idea could be.
 
-953
-01:00:27,860 --> 01:00:31,780
-Shepherd sat for a few minutes, thinking through
-her idea.
+618
+01:00:27,440 --> 01:00:30,720
+Shepherd sat for a few minutes, 
+thinking through her idea.  
 
-954
-01:00:31,780 --> 01:00:35,290
+619
+01:00:31,520 --> 01:00:35,120
 Then she left too, taking her wine with her.
 
-955
-01:00:35,290 --> 01:00:36,290
+620
+01:00:37,640 --> 01:00:38,640
 ***
 
-956
-01:00:36,290 --> 01:00:44,260
-It was four thirty by the time Webb got everyone
-together in the Wells room.
+621
+01:00:38,640 --> 01:00:44,800
+It was four thirty by the time Webb got everyone 
+together in the Wells room. Shepherd walked in  
 
-957
-01:00:44,260 --> 01:00:46,200
-Shepherd walked in and looked round.
+622
+01:00:44,800 --> 01:00:52,000
+and looked round. Webb was already sitting in 
+his usual place. Across the table sat Chowdury,  
 
-958
-01:00:46,200 --> 01:00:50,280
-Webb was already sitting in his usual place.
+623
+01:00:52,000 --> 01:00:59,840
+McNab and Johnson. Fleming sat a little away from 
+the table. DC Fox stood just inside the door.
 
-959
-01:00:50,280 --> 01:00:53,430
-Across the table sat Chowdury, McNab and Johnson.
+624
+01:01:00,880 --> 01:01:08,240
+'Good afternoon, everyone,' said Shepherd. 'This 
+is Mr Fleming.' She waved a hand at Fleming. 'You  
 
-960
-01:00:53,430 --> 01:00:57,020
-Fleming sat a little away from the table.
+625
+01:01:08,240 --> 01:01:15,680
+will know him from last night. He knew Ms Engel 
+some years ago.' She looked at Fleming. 'Over here  
 
-961
-01:00:57,020 --> 01:01:00,620
-DC Fox stood just inside the door.
+626
+01:01:16,320 --> 01:01:21,920
+are Mr McNab, Ms Engel's boss, and Mr Chowdury 
+and Ms Johnson, who worked with Ms Engel.'
 
-962
-01:01:00,620 --> 01:01:03,450
-'Good afternoon, everyone,' said Shepherd.
+627
+01:01:23,600 --> 01:01:27,280
+Shepherd walked round the table. 
+There was an envelope in her hand,  
 
-963
-01:01:03,450 --> 01:01:06,190
-'This is Mr Fleming.'
+628
+01:01:28,000 --> 01:01:32,400
+which she put on the table in front 
+of her chair. Then she sat down.
 
-964
-01:01:06,190 --> 01:01:08,250
-She waved a hand at Fleming.
+629
+01:01:34,000 --> 01:01:39,920
+'I've asked you all here together because one 
+of you killed Claudia Engel,' said Shepherd.
 
-965
-01:01:08,250 --> 01:01:10,320
-'You will know him from last night.
+630
+01:01:41,840 --> 01:01:46,400
+Everyone started speaking at the 
+same time. Shepherd put up a hand.
 
-966
-01:01:10,320 --> 01:01:12,500
-He knew Ms Engel some years ago.'
-
-967
-01:01:12,500 --> 01:01:14,550
-She looked at Fleming.
-
-968
-01:01:14,550 --> 01:01:21,270
-'Over here are Mr McNab, Ms Engel's boss,
-and Mr Chowdury and Ms Johnson, who worked
-
-969
-01:01:21,270 --> 01:01:24,070
-with Ms Engel.'
-
-970
-01:01:24,070 --> 01:01:25,250
-Shepherd walked round the table.
-
-971
-01:01:25,250 --> 01:01:31,800
-There was an envelope in her hand, which she
-put on the table in front of her chair.
-
-972
-01:01:31,800 --> 01:01:33,440
-Then she sat down.
-
-973
-01:01:33,440 --> 01:01:41,140
-'I've asked you all here together because
-one of you killed Claudia Engel,' said Shepherd.
-
-974
-01:01:41,140 --> 01:01:45,300
-Everyone started speaking at the same time.
-
-975
-01:01:45,300 --> 01:01:46,750
-Shepherd put up a hand.
-
-976
-01:01:46,750 --> 01:01:50,440
-'Stop talking,' she said.
-
-977
-01:01:50,440 --> 01:01:51,510
+631
+01:01:46,400 --> 01:01:52,320
+'Stop talking,' she said. 
 Everyone stopped speaking.
 
-978
-01:01:51,510 --> 01:01:59,380
-'I don't know how many friends Ms Engel had,'
-began Shepherd, 'but certainly no-one here
+632
+01:01:52,320 --> 01:01:54,960
+'I don't know how many friends Ms Engel had,'  
 
-979
-01:01:59,380 --> 01:02:01,900
-was friends with her.'
+633
+01:01:55,600 --> 01:02:00,320
+began Shepherd, 'but certainly 
+no-one here was friends with her.'
 
-980
-01:02:01,900 --> 01:02:06,580
-McNab started to say something, but Shepherd
-put up a hand again.
+634
+01:02:01,520 --> 01:02:05,840
+McNab started to say something, 
+but Shepherd put up a hand again.
 
-981
-01:02:06,580 --> 01:02:09,030
-'Later, Mr McNab,' she said.
-
-982
-01:02:09,030 --> 01:02:10,910
+635
+01:02:06,560 --> 01:02:10,800
+'Later, Mr McNab,' she said. 
 'You can say something later.'
 
-983
-01:02:10,910 --> 01:02:16,020
-'Not one of you liked her.
+636
+01:02:12,960 --> 01:02:21,680
+'Not one of you liked her. Each of you could be 
+the killer. Mr Fleming, you say you were at home,  
 
-984
-01:02:16,020 --> 01:02:18,180
-Each of you could be the killer.
+637
+01:02:22,240 --> 01:02:30,000
+but we don't know if that's true. Mr Chowdury, you 
+say you turned right for a run along the beach,  
 
-985
-01:02:18,180 --> 01:02:24,860
-Mr Fleming, you say you were at home, but
-we don't know if that's true.
+638
+01:02:30,000 --> 01:02:35,840
+but what if you went the other way? 
+Ms Johnson, you say you sat in the  
 
-986
-01:02:24,860 --> 01:02:31,110
-Mr Chowdury, you say you turned right for
-a run along the beach, but what if you went
+639
+01:02:35,840 --> 01:02:42,720
+lounge and then went to your room, but 
+what if you went outside? And Mr McNab,  
 
-987
-01:02:31,110 --> 01:02:32,530
-the other way?
+640
+01:02:43,760 --> 01:02:50,160
+you say you watched TV in your room and 
+then went to bed, but how do we know that?'
 
-988
-01:02:32,530 --> 01:02:39,750
-Ms Johnson, you say you sat in the lounge
-and then went to your room, but what if you
+641
+01:02:51,840 --> 01:02:55,520
+Shepherd saw Johnson look at 
+McNab and move on her seat.
 
-989
-01:02:39,750 --> 01:02:41,119
-went outside?
-
-990
-01:02:41,119 --> 01:02:49,900
-And Mr McNab, you say you watched TV in your
-room and then went to bed, but how do we know
-
-991
-01:02:49,900 --> 01:02:52,290
-that?'
-
-992
-01:02:52,290 --> 01:02:56,350
-Shepherd saw Johnson look at McNab and move
-on her seat.
-
-993
-01:02:56,350 --> 01:02:59,050
+642
+01:02:56,400 --> 01:02:58,960
 'Now look here-' said McNab.
 
-994
-01:02:59,050 --> 01:03:02,660
-'Shut up,' said Shepherd.
+643
+01:02:58,960 --> 01:03:05,840
+'Shut up,' said Shepherd. She looked at the 
+four faces in front of her, then at McNab.
 
-995
-01:03:02,660 --> 01:03:07,080
-She looked at the four faces in front of her,
-then at McNab.
+644
+01:03:07,280 --> 01:03:13,920
+'MMI isn't doing well, is it?' she 
+said. And don't try and tell me it is.'
 
-996
-01:03:07,080 --> 01:03:11,190
-'MMI isn't doing well, is it?'
-
-997
-01:03:11,190 --> 01:03:12,190
-she said.
-
-998
-01:03:12,190 --> 01:03:15,530
-And don't try and tell me it is.'
-
-999
-01:03:15,530 --> 01:03:17,800
+645
+01:03:14,760 --> 01:03:17,360
 McNab gave Chowdury an angry look.
 
-1000
-01:03:17,800 --> 01:03:19,970
-'I didn't tell her,' said Chowdury.
+646
+01:03:18,080 --> 01:03:20,960
+'I didn't tell her,' said 
+Chowdury. 'She knew already.'
 
-1001
-01:03:19,970 --> 01:03:22,450
-'She knew already.'
-
-1002
-01:03:22,450 --> 01:03:24,930
+647
+01:03:22,160 --> 01:03:23,760
 McNab looked back at Shepherd.
 
-1003
-01:03:24,930 --> 01:03:27,510
+648
+01:03:24,640 --> 01:03:25,920
 'How...' he began.
 
-1004
-01:03:27,510 --> 01:03:30,420
+649
+01:03:27,280 --> 01:03:29,600
 'Is it?' said Shepherd.
 
-1005
-01:03:30,420 --> 01:03:33,450
-'No, it isn't,' said McNab.
+650
+01:03:31,200 --> 01:03:36,480
+'No, it isn't,' said McNab. 'But 
+there are these two new bands.'
 
-1006
-01:03:33,450 --> 01:03:37,440
-'But there are these two new bands.'
+651
+01:03:37,120 --> 01:03:42,400
+'Ah, yes!' said Shepherd. 'The 
+two bands. Are they real?'
 
-1007
-01:03:37,440 --> 01:03:39,720
-'Ah, yes!' said Shepherd.
+652
+01:03:43,520 --> 01:03:46,960
+'Yes,' said McNab and Chowdury at the same time.
 
-1008
-01:03:39,720 --> 01:03:41,230
-'The two bands.
+653
+01:03:48,000 --> 01:03:55,920
+'Good,' said Shepherd. 'Now have I 
+got this right? If these two bands  
 
-1009
-01:03:41,230 --> 01:03:44,200
-Are they real?'
+654
+01:03:55,920 --> 01:04:02,320
+come to MMI, your company is OK. But if 
+these two bands go to a different company,  
 
-1010
-01:03:44,200 --> 01:03:47,840
-'Yes,' said McNab and Chowdury at the same
-time.
+655
+01:04:02,960 --> 01:04:08,320
+then that's the beginning of 
+the end for MMI. Is that right?'
 
-1011
-01:03:47,840 --> 01:03:50,250
-'Good,' said Shepherd.
-
-1012
-01:03:50,250 --> 01:03:53,460
-'Now have I got this right?
-
-1013
-01:03:53,460 --> 01:03:59,210
-If these two bands come to MMI, your company
-is OK.
-
-1014
-01:03:59,210 --> 01:04:06,800
-But if these two bands go to a different company,
-then that's the beginning of the end for MMI.
-
-1015
-01:04:06,800 --> 01:04:09,580
-Is that right?'
-
-1016
-01:04:09,580 --> 01:04:12,040
+656
+01:04:09,840 --> 01:04:12,320
 'Well...' began McNab.
 
-1017
-01:04:12,040 --> 01:04:13,730
-'Yes,' said Chowdury.
+657
+01:04:12,320 --> 01:04:16,320
+'Yes,' said Chowdury. 'He'll try 
+and tell you something different,  
 
-1018
-01:04:13,730 --> 01:04:19,420
-'He'll try and tell you something different,
-but MMI is just a small company.
-
-1019
-01:04:19,420 --> 01:04:20,820
+658
+01:04:16,320 --> 01:04:20,800
+but MMI is just a small company. 
 It can't get much smaller.'
 
-1020
-01:04:20,820 --> 01:04:27,940
-'So, if the bands don't come to you, that's
-the end of MMI.
+659
+01:04:22,240 --> 01:04:29,680
+'So, if the bands don't come to you, that's 
+the end of MMI. And you all lose your jobs,'  
 
-1021
-01:04:27,940 --> 01:04:30,490
-And you all lose your jobs,' said Shepherd.
+660
+01:04:29,680 --> 01:04:36,400
+said Shepherd. And the person who was 
+bringing the bands to MMI was Claudia Engel.'
 
-1022
-01:04:30,490 --> 01:04:36,890
-And the person who was bringing the bands
-to MMI was Claudia Engel.'
-
-1023
-01:04:36,890 --> 01:04:39,920
+661
+01:04:37,360 --> 01:04:39,600
 'What are you saying?' asked McNab.
 
-1024
-01:04:39,920 --> 01:04:43,440
-'I'm not saying anything,' said Shepherd.
+662
+01:04:40,160 --> 01:04:46,640
+'I'm not saying anything,' said Shepherd. 'I'm 
+just making sure we all understand where we are.'
 
-1025
-01:04:43,440 --> 01:04:48,430
-'I'm just making sure we all understand where
-we are.'
-
-1026
-01:04:48,430 --> 01:04:50,870
+663
+01:04:48,160 --> 01:04:49,920
 She looked round the room at everyone again.
 
-1027
-01:04:50,870 --> 01:04:56,620
-'The next thing I want to talk about is Ms
-Engel's laptop,' she said.
+664
+01:04:51,200 --> 01:04:58,160
+'The next thing I want to talk about is Ms 
+Engel's laptop,' she said. 'We've just found it.  
 
-1028
-01:04:56,620 --> 01:04:59,650
-'We've just found it.
+665
+01:04:59,440 --> 01:05:04,800
+In pieces. Hidden in an old 
+garage at the back of the hotel.'
 
-1029
-01:04:59,650 --> 01:05:00,910
-In pieces.
+666
+01:05:06,960 --> 01:05:11,920
+At that moment the door opened. A 
+police officer said something to DC Fox.  
 
-1030
-01:05:00,910 --> 01:05:07,250
-Hidden in an old garage at the back of the
-hotel.'
+667
+01:05:12,960 --> 01:05:18,400
+Fox came over to Shepherd and spoke 
+to her quietly. She looked at Johnson.
 
-1031
-01:05:07,250 --> 01:05:08,950
-At that moment the door opened.
-
-1032
-01:05:08,950 --> 01:05:13,350
-A police officer said something to DC Fox.
-
-1033
-01:05:13,350 --> 01:05:16,240
-Fox came over to Shepherd and spoke to her
-quietly.
-
-1034
-01:05:16,240 --> 01:05:18,600
-She looked at Johnson.
-
-1035
-01:05:18,600 --> 01:05:22,160
-'Just what I need,' thought Shepherd.
-
-1036
-01:05:22,160 --> 01:05:27,260
+668
+01:05:19,520 --> 01:05:24,800
+'Just what I need,' thought Shepherd. 
 A way to make Harriet Johnson talk.
 
-1037
-01:05:27,260 --> 01:05:32,910
-'Ms Johnson, one of the cleaners saw you leaving
-the hotel this morning at six thirty.
+669
+01:05:26,240 --> 01:05:30,960
+'Ms Johnson, one of the cleaners saw 
+you leaving the hotel this morning  
 
-1038
-01:05:32,910 --> 01:05:35,970
-You were carrying a laptop bag.
-
-1039
-01:05:35,970 --> 01:05:44,020
+670
+01:05:30,960 --> 01:05:39,120
+at six thirty. You were carrying a laptop bag. 
 Perhaps you could tell us what you were doing.'
+ 
+ 
+ 
 
-1040
-01:05:44,020 --> 01:05:52,090
+671
+01:05:45,200 --> 01:05:46,000
 CHAPTER SEVEN
+
+672
+01:05:47,520 --> 01:05:49,440
 Who killed Claudia Engel?
 
-1041
-01:05:52,090 --> 01:05:54,690
+673
+01:05:51,520 --> 01:05:54,000
 Everyone in the room looked at Harriet Johnson.
 
-1042
-01:05:54,690 --> 01:05:58,170
-'I...' began Johnson.
+674
+01:05:54,960 --> 01:06:02,720
+'I...' began Johnson. Her face turned dark 
+red. She stopped and then started again.
 
-1043
-01:05:58,170 --> 01:06:00,530
-Her face turned dark red.
+675
+01:06:03,280 --> 01:06:11,840
+'I was taking my laptop out to my car,' she said. 
+'This was our last day here. I knew I didn't need  
 
-1044
-01:06:00,530 --> 01:06:03,380
-She stopped and then started again.
+676
+01:06:11,840 --> 01:06:19,120
+my laptop again, so I went to put it in my car. 
+But it was my laptop. You have to believe me.'
 
-1045
-01:06:03,380 --> 01:06:08,570
-'I was taking my laptop out to my car,' she
-said.
+677
+01:06:20,720 --> 01:06:23,840
+'Excuse me, Shep.' It was Fox who spoke.  
 
-1046
-01:06:08,570 --> 01:06:11,380
-'This was our last day here.
+678
+01:06:24,800 --> 01:06:29,520
+'When we asked to see everyone's 
+laptop, Ms Johnson's was in her room.'
 
-1047
-01:06:11,380 --> 01:06:15,600
-I knew I didn't need my laptop again, so I
-went to put it in my car.
+679
+01:06:30,880 --> 01:06:37,920
+'Yes, yes,' said Johnson. 'I know. I brought 
+it back. When I knew we had to stay longer  
 
-1048
-01:06:15,600 --> 01:06:17,450
-But it was my laptop.
+680
+01:06:37,920 --> 01:06:45,920
+because of... because of Claudia, I went 
+and got it. I thought I could do some work.'
 
-1049
-01:06:17,450 --> 01:06:20,920
-You have to believe me.'
+681
+01:06:45,920 --> 01:06:53,840
+Shepherd looked at Johnson for a few 
+seconds. 'Tell me, Ms Johnson,' she began,  
 
-1050
-01:06:20,920 --> 01:06:21,920
-'Excuse me, Shep.'
+682
+01:06:53,840 --> 01:07:01,840
+her voice hard, 'tell me everything that 
+you did after ten thirty last night.'
 
-1051
-01:06:21,920 --> 01:06:24,369
-It was Fox who spoke.
-
-1052
-01:06:24,369 --> 01:06:29,630
-'When we asked to see everyone's laptop, Ms
-Johnson's was in her room.'
-
-1053
-01:06:29,630 --> 01:06:31,230
-'Yes, yes,' said Johnson.
-
-1054
-01:06:31,230 --> 01:06:32,230
-'I know.
-
-1055
-01:06:32,230 --> 01:06:33,910
-I brought it back.
-
-1056
-01:06:33,910 --> 01:06:42,570
-When I knew we had to stay longer because
-of... because of Claudia, I went and got it.
-
-1057
-01:06:42,570 --> 01:06:46,430
-I thought I could do some work.'
-
-1058
-01:06:46,430 --> 01:06:48,990
-Shepherd looked at Johnson for a few seconds.
-
-1059
-01:06:48,990 --> 01:06:59,840
-'Tell me, Ms Johnson,' she began, her voice
-hard, 'tell me everything that you did after
-
-1060
-01:06:59,840 --> 01:07:03,680
-ten thirty last night.'
-
-1061
-01:07:03,680 --> 01:07:06,390
-For a moment Johnson didn't speak.
-
-1062
-01:07:06,390 --> 01:07:10,220
+683
+01:07:03,440 --> 01:07:08,640
+For a moment Johnson didn't speak. 
 She looked at McNab, then at Shepherd.
 
-1063
-01:07:10,220 --> 01:07:17,520
-'And don't tell me you just went to your room
-and went to bed,' said Shepherd, 'because
+684
+01:07:10,560 --> 01:07:14,640
+'And don't tell me you just went 
+to your room and went to bed,'  
 
-1064
-01:07:17,520 --> 01:07:20,660
-I won't believe you.'
+685
+01:07:15,200 --> 01:07:18,800
+said Shepherd, 'because I won't believe you.'
 
-1065
-01:07:20,660 --> 01:07:25,870
-Johnson looked down at her hands for a moment
-and then up at Shepherd.
+686
+01:07:20,080 --> 01:07:24,320
+Johnson looked down at her hands for 
+a moment and then up at Shepherd.
 
-1066
-01:07:25,870 --> 01:07:30,150
-'I went to James's room,' she said.
+687
+01:07:25,440 --> 01:07:33,440
+'I went to James's room,' she said. 
+'I wanted to ask him something about a  
 
-1067
-01:07:30,150 --> 01:07:36,090
-'I wanted to ask him something about a problem
-we're having with sales in North America.
+688
+01:07:33,440 --> 01:07:38,880
+problem we're having with sales in North 
+America. I needed to send an email to  
 
-1068
-01:07:36,090 --> 01:07:41,110
-I needed to send an email to the States before
-I went to bed.
+689
+01:07:38,880 --> 01:07:45,120
+the States before I went to bed. But James 
+wasn't there. He didn't come to the door.'
 
-1069
-01:07:41,110 --> 01:07:44,280
-But James wasn't there.
+690
+01:07:47,120 --> 01:07:52,720
+Johnson looked at McNab. 
+'I'm sorry, James,' she said.  
 
-1070
-01:07:44,280 --> 01:07:47,710
-He didn't come to the door.'
+691
+01:07:55,120 --> 01:08:04,640
+'Well, Mr McNab?' asked Shepherd. 'Where 
+were you?' Now McNab's face went red.
 
-1071
-01:07:47,710 --> 01:07:49,590
-Johnson looked at McNab.
+692
+01:08:06,560 --> 01:08:13,520
+'I was probably in the shower,' he answered. 'I 
+told you I had a shower before I went to bed.'
 
-1072
-01:07:49,590 --> 01:07:53,619
-'I'm sorry, James,' she said.
+693
+01:08:15,520 --> 01:08:24,080
+'You didn't go out?' said Shepherd. 'You 
+didn't use the door at the back of the hotel?'
 
-1073
-01:07:53,619 --> 01:07:58,410
-'Well, Mr McNab?' asked Shepherd.
-
-1074
-01:07:58,410 --> 01:08:01,290
-'Where were you?'
-
-1075
-01:08:01,290 --> 01:08:06,080
-Now McNab's face went red.
-
-1076
-01:08:06,080 --> 01:08:09,610
-'I was probably in the shower,' he answered.
-
-1077
-01:08:09,610 --> 01:08:15,770
-'I told you I had a shower before I went to
-bed.'
-
-1078
-01:08:15,770 --> 01:08:18,839
-'You didn't go out?' said Shepherd.
-
-1079
-01:08:18,839 --> 01:08:23,730
-'You didn't use the door at the back of the
-hotel?'
-
-1080
-01:08:23,730 --> 01:08:28,420
+694
+01:08:24,080 --> 01:08:25,840
 'No,' he replied.
 
-1081
-01:08:28,420 --> 01:08:31,910
-Shepherd looked round the room at everyone.
+695
+01:08:28,000 --> 01:08:30,000
+Shepherd looked round the room at everyone.  
 
-1082
-01:08:31,910 --> 01:08:36,060
-Her fingers started playing with the envelope
-on the table in front of her.
+696
+01:08:31,680 --> 01:08:35,200
+Her fingers started playing with the 
+envelope on the table in front of her.  
 
-1083
-01:08:36,060 --> 01:08:39,960
-The envelope was open and there was writing
-on the front of it.
+697
+01:08:35,840 --> 01:08:42,080
+The envelope was open and there was writing on 
+the front of it. She looked back at James McNab.
 
-1084
-01:08:39,960 --> 01:08:43,359
-She looked back at James McNab.
+698
+01:08:44,240 --> 01:08:50,160
+'Maybe what you're saying is true; maybe 
+it's not,' said Shepherd. 'I don't know yet,  
 
-1085
-01:08:43,359 --> 01:08:48,660
-'Maybe what you're saying is true; maybe it's
-not,' said Shepherd.
+699
+01:08:51,680 --> 01:08:59,280
+but one way or another I'm going to find out.' She 
+looked round the room again. 'And I do know this.  
 
-1086
-01:08:48,660 --> 01:08:55,290
-'I don't know yet, but one way or another
-I'm going to find out.'
+700
+01:09:00,480 --> 01:09:08,480
+Claudia Engel's laptop is important. Her killer 
+knows it's important too. There's something on her  
 
-1087
-01:08:55,290 --> 01:08:58,210
-She looked round the room again.
+701
+01:09:08,480 --> 01:09:16,240
+computer - an email, a letter, something like that 
+- something that will tell me who the killer is.'
 
-1088
-01:08:58,210 --> 01:09:01,069
-'And I do know this.
+702
+01:09:18,480 --> 01:09:21,920
+Nobody spoke. The room was very quiet.
 
-1089
-01:09:01,069 --> 01:09:03,180
-Claudia Engel's laptop is important.
+703
+01:09:24,240 --> 01:09:28,720
+'I also think Ms Engel knew she 
+was in danger,' said Shepherd,  
 
-1090
-01:09:03,180 --> 01:09:06,900
-Her killer knows it's important too.
+704
+01:09:29,440 --> 01:09:35,440
+looking in turn at each of the people sitting 
+in front of her. She turned the envelope over  
 
-1091
-01:09:06,900 --> 01:09:13,650
-There's something on her computer - an email,
-a letter, something like that - something
+705
+01:09:35,440 --> 01:09:41,520
+so that everyone could see the writing on the 
+front. There were two words: 'Claudia Engel'.
 
-1092
-01:09:13,650 --> 01:09:18,060
-that will tell me who the killer is.'
+706
+01:09:44,720 --> 01:09:50,480
+'She left this at the hotel reception 
+yesterday afternoon,' said Shepherd,  
 
-1093
-01:09:18,060 --> 01:09:20,250
-Nobody spoke.
+707
+01:09:50,480 --> 01:09:56,320
+opening the envelope and turning it over. A memory 
+stick fell out onto the table in front of her.  
 
-1094
-01:09:20,250 --> 01:09:22,900
-The room was very quiet.
+708
+01:09:57,760 --> 01:10:03,280
+'Do you know what's on this?' she asked 
+and then answered the question herself.  
 
-1095
-01:09:22,900 --> 01:09:31,040
-'I also think Ms Engel knew she was in danger,'
-said Shepherd, looking in turn at each of
+709
+01:10:05,040 --> 01:10:11,200
+'Everything that was on her computer. Claudia 
+put everything important from her laptop onto  
 
-1096
-01:09:31,040 --> 01:09:32,890
-the people sitting in front of her.
+710
+01:10:11,200 --> 01:10:18,480
+this memory stick and gave it to reception 
+to keep safe. It could take me some time to  
 
-1097
-01:09:32,890 --> 01:09:38,810
-She turned the envelope over so that everyone
-could see the writing on the front.
+711
+01:10:18,480 --> 01:10:25,760
+find what I'm looking for - the important 
+email or letter - but I will find it.'
 
-1098
-01:09:38,810 --> 01:09:43,850
-There were two words: 'Claudia Engel'.
+712
+01:10:28,000 --> 01:10:33,120
+Again nobody spoke. Shepherd 
+watched everyone carefully.  
 
-1099
-01:09:43,850 --> 01:09:51,650
-'She left this at the hotel reception yesterday
-afternoon,' said Shepherd, opening the envelope
+713
+01:10:34,480 --> 01:10:40,720
+Johnson's hand went to her mouth. Chowdury 
+looked like he had a lot of questions to ask.  
 
-1100
-01:09:51,650 --> 01:09:52,920
-and turning it over.
+714
+01:10:42,160 --> 01:10:47,440
+Fleming was sitting back in his chair looking 
+from Shepherd to the MMI people and back again.  
 
-1101
-01:09:52,920 --> 01:09:57,170
-A memory stick fell out onto the table in
-front of her.
-
-1102
-01:09:57,170 --> 01:10:00,360
-'Do you know what's on this?'
-
-1103
-01:10:00,360 --> 01:10:05,540
-she asked and then answered the question herself.
-
-1104
-01:10:05,540 --> 01:10:07,320
-'Everything that was on her computer.
-
-1105
-01:10:07,320 --> 01:10:12,970
-Claudia put everything important from her
-laptop onto this memory stick and gave it
-
-1106
-01:10:12,970 --> 01:10:15,290
-to reception to keep safe.
-
-1107
-01:10:15,290 --> 01:10:22,880
-It could take me some time to find what I'm
-looking for - the important email or letter
-
-1108
-01:10:22,880 --> 01:10:28,450
-- but I will find it.'
-
-1109
-01:10:28,450 --> 01:10:31,770
-Again nobody spoke.
-
-1110
-01:10:31,770 --> 01:10:35,000
-Shepherd watched everyone carefully.
-
-1111
-01:10:35,000 --> 01:10:37,940
-Johnson's hand went to her mouth.
-
-1112
-01:10:37,940 --> 01:10:41,790
-Chowdury looked like he had a lot of questions
-to ask.
-
-1113
-01:10:41,790 --> 01:10:48,460
-Fleming was sitting back in his chair looking
-from Shepherd to the MMI people and back again.
-
-1114
-01:10:48,460 --> 01:10:54,000
+715
+01:10:49,040 --> 01:10:52,080
 But it was McNab who looked most uncomfortable.
 
-1115
-01:10:54,000 --> 01:10:58,390
+716
+01:10:53,600 --> 01:10:58,160
 Shepherd watched him carefully.
 
-1116
-01:10:58,390 --> 01:10:59,960
-At that moment the door opened.
+717
+01:10:58,160 --> 01:11:04,880
+At that moment the door opened. A police 
+officer gave DC Fox a piece of paper. Fox  
 
-1117
-01:10:59,960 --> 01:11:04,850
-A police officer gave DC Fox a piece of paper.
+718
+01:11:04,880 --> 01:11:08,880
+passed the paper to Shepherd, who 
+looked at it, then smiled at Webb.  
 
-1118
-01:11:04,850 --> 01:11:10,520
-Fox passed the paper to Shepherd, who looked
-at it, then smiled at Webb.
-
-1119
-01:11:10,520 --> 01:11:13,460
-Webb looked at her questioningly.
-
-1120
-01:11:13,460 --> 01:11:17,060
+719
+01:11:10,240 --> 01:11:14,480
+Webb looked at her questioningly. 
 Shepherd looked round the room again.
 
-1121
-01:11:17,060 --> 01:11:21,520
-'You'll be interested to know that one of
-my officers has had a look at the door at
+720
+01:11:16,720 --> 01:11:21,440
+'You'll be interested to know that one of 
+my officers has had a look at the door at  
 
-1122
-01:11:21,520 --> 01:11:24,290
-the back of the hotel,' she said.
+721
+01:11:21,440 --> 01:11:26,960
+the back of the hotel,' she said. 'He's found 
+quite a few fingerprints on it from a number  
 
-1123
-01:11:24,290 --> 01:11:29,860
-'He's found quite a few fingerprints on it
-from a number of different hands.
+722
+01:11:26,960 --> 01:11:34,160
+of different hands. We've also found the 
+piece of wood used to hit Ms Engel, and  
 
-1124
-01:11:29,860 --> 01:11:35,560
-We've also found the piece of wood used to
-hit Ms Engel, and we're looking for fingerprints
+723
+01:11:34,160 --> 01:11:40,320
+we're looking for fingerprints on that. But then, 
+of course, I'm sure the murderer wore gloves...'
 
-1125
-01:11:35,560 --> 01:11:37,360
-on that.
+724
+01:11:42,240 --> 01:11:48,280
+She stopped speaking for a moment and 
+watched McNab. All the colour left his face.
 
-1126
-01:11:37,360 --> 01:11:42,500
-But then, of course, I'm sure the murderer
-wore gloves...'
-
-1127
-01:11:42,500 --> 01:11:46,730
-She stopped speaking for a moment and watched
-McNab.
-
-1128
-01:11:46,730 --> 01:11:49,869
-All the colour left his face.
-
-1129
-01:11:49,869 --> 01:11:53,620
+725
+01:11:48,280 --> 01:11:54,080
 '... or maybe not,' finished Shepherd.
 
-1130
-01:11:53,620 --> 01:11:57,040
-McNab's mouth opened and closed.
+726
+01:11:54,080 --> 01:12:00,080
+McNab's mouth opened and closed. He started 
+to speak, then stopped, then started again.
 
-1131
-01:11:57,040 --> 01:12:02,020
-He started to speak, then stopped, then started
-again.
-
-1132
-01:12:02,020 --> 01:12:06,710
+727
+01:12:02,160 --> 01:12:06,800
 'Yes, Mr McNab?' said Shepherd quietly.
 
-1133
-01:12:06,710 --> 01:12:09,710
-'I had to,' he said.
+728
+01:12:07,760 --> 01:12:12,080
+'I had to,' he said. 'I just 
+had to. She wanted too much.  
 
-1134
-01:12:09,710 --> 01:12:11,030
-'I just had to.
+729
+01:12:13,120 --> 01:12:17,920
+She always wanted too much. She earned 
+good money, but she wanted double.'
 
-1135
-01:12:11,030 --> 01:12:13,190
-She wanted too much.
-
-1136
-01:12:13,190 --> 01:12:14,950
-She always wanted too much.
-
-1137
-01:12:14,950 --> 01:12:19,210
-She earned good money, but she wanted double.'
-
-1138
-01:12:19,210 --> 01:12:21,920
+730
+01:12:18,880 --> 01:12:21,920
 And you didn't want to pay that,' said Shepherd.
 
-1139
-01:12:21,920 --> 01:12:23,950
-'I couldn't,' said McNab.
+731
+01:12:21,920 --> 01:12:28,320
+'I couldn't,' said McNab. 'I couldn't, but she 
+didn't believe me. "Double, or else..." she said.'
 
-1140
-01:12:23,950 --> 01:12:26,650
-'I couldn't, but she didn't believe me.
-
-1141
-01:12:26,650 --> 01:12:28,090
-"Double, or else..."
-
-1142
-01:12:28,090 --> 01:12:29,150
-she said.'
-
-1143
-01:12:29,150 --> 01:12:32,820
+732
+01:12:28,960 --> 01:12:31,040
 'Or else what?' asked Shepherd.
 
-1144
-01:12:32,820 --> 01:12:36,411
-'She said, "I'll start a new company.
+733
+01:12:31,600 --> 01:12:38,640
+'She said, "I'll start a new company. The 
+two new bands will come to me; in time  
 
-1145
-01:12:36,411 --> 01:12:41,440
-The two new bands will come to me; in time
-most of your old bands will come to me too.
+734
+01:12:38,640 --> 01:12:45,040
+most of your old bands will come to me too. 
+You're finished, James." That's what she said.'  
 
-1146
-01:12:41,440 --> 01:12:43,390
-You're finished, James."
+735
+01:12:46,880 --> 01:12:53,760
+McNab's voice became stronger. 'I started 
+MMI fifteen years ago. I built the company.  
 
-1147
-01:12:43,390 --> 01:12:46,060
-That's what she said.'
+736
+01:12:54,480 --> 01:12:58,800
+I couldn't let her end it 
+all. Not someone like her.'
 
-1148
-01:12:46,060 --> 01:12:49,370
-McNab's voice became stronger.
+737
+01:13:00,160 --> 01:13:03,840
+'So you invited her for a walk 
+on the beach,' said Shepherd.
 
-1149
-01:12:49,370 --> 01:12:52,210
-'I started MMI fifteen years ago.
+738
+01:13:04,720 --> 01:13:12,800
+'Yes,' said McNab. 'I told her I was sure we 
+could agree something. I went out through the  
 
-1150
-01:12:52,210 --> 01:12:54,020
-I built the company.
+739
+01:13:12,800 --> 01:13:18,800
+back door so no-one saw us together. Then 
+I met her outside the front of the hotel.'
 
-1151
-01:12:54,020 --> 01:12:57,660
-I couldn't let her end it all.
+740
+01:13:20,000 --> 01:13:27,200
+He pushed his fingers through his hair and spoke 
+again. 'I told her I wanted to talk about it.  
 
-1152
-01:12:57,660 --> 01:12:59,630
-Not someone like her.'
+741
+01:13:28,000 --> 01:13:35,840
+I tried one last time. I said I'd give her fifty 
+percent more money. "Double or nothing," she  
 
-1153
-01:12:59,630 --> 01:13:04,790
-'So you invited her for a walk on the beach,'
-said Shepherd.
+742
+01:13:35,840 --> 01:13:45,280
+said. She laughed at me. That made me so angry. 
+She turned her back on me to look out to sea.  
 
-1154
-01:13:04,790 --> 01:13:07,120
-'Yes,' said McNab.
+743
+01:13:46,240 --> 01:13:54,720
+There was a piece of wood on the beach. I hit her 
+with it. Just once. She fell. It was all over.'
 
-1155
-01:13:07,120 --> 01:13:12,000
-'I told her I was sure we could agree something.
+744
+01:13:56,080 --> 01:14:02,000
+'Then you took her room key, went to her 
+room and took the laptop,' said Shepherd.
 
-1156
-01:13:12,000 --> 01:13:16,380
-I went out through the back door so no-one
-saw us together.
+745
+01:14:03,040 --> 01:14:06,640
+'Yes,' said McNab. 'I went  
 
-1157
-01:13:16,380 --> 01:13:20,239
-Then I met her outside the front of the hotel.'
+746
+01:14:06,640 --> 01:14:12,640
+in and out through the back door again. I took the 
+laptop out to that old garage behind the hotel.  
 
-1158
-01:13:20,239 --> 01:13:24,210
-He pushed his fingers through his hair and
-spoke again.
+747
+01:14:13,520 --> 01:14:19,200
+I broke it up into pieces with a large 
+stone and hid it.' His head went down.
 
-1159
-01:13:24,210 --> 01:13:27,800
-'I told her I wanted to talk about it.
+748
+01:14:21,120 --> 01:14:27,840
+'Fox,' said Shepherd. 'Get another officer 
+and take Mr McNab to the police station.'  
 
-1160
-01:13:27,800 --> 01:13:30,010
-I tried one last time.
+749
+01:14:29,280 --> 01:14:34,640
+She looked at the other people in 
+the room. 'OK. You all need to put  
 
-1161
-01:13:30,010 --> 01:13:33,180
-I said I'd give her fifty percent more money.
+750
+01:14:34,640 --> 01:14:41,840
+in writing what you've done over the last 
+twenty-four hours. Then you're free to go.'
 
-1162
-01:13:33,180 --> 01:13:37,489
-"Double or nothing," she said.
+751
+01:14:42,560 --> 01:14:46,240
+Fifteen minutes later Shepherd 
+and Webb were sitting in the bar.  
 
-1163
-01:13:37,489 --> 01:13:39,800
-She laughed at me.
+752
+01:14:47,600 --> 01:14:52,960
+There was a half-empty glass of red wine in front 
+of Shepherd, and an orange juice in front of Webb.  
 
-1164
-01:13:39,800 --> 01:13:42,210
-That made me so angry.
+753
+01:14:54,160 --> 01:14:56,480
+Shepherd's fingers were 
+playing with the memory stick.
 
-1165
-01:13:42,210 --> 01:13:45,489
-She turned her back on me to look out to sea.
+754
+01:14:58,320 --> 01:15:02,640
+'When did I say I wanted someone to 
+look at the back door?' she asked.
 
-1166
-01:13:45,489 --> 01:13:48,160
-There was a piece of wood on the beach.
-
-1167
-01:13:48,160 --> 01:13:49,500
-I hit her with it.
-
-1168
-01:13:49,500 --> 01:13:51,340
-Just once.
-
-1169
-01:13:51,340 --> 01:13:54,090
-She fell.
-
-1170
-01:13:54,090 --> 01:13:55,520
-It was all over.'
-
-1171
-01:13:55,520 --> 01:14:03,340
-'Then you took her room key, went to her room
-and took the laptop,' said Shepherd.
-
-1172
-01:14:03,340 --> 01:14:05,220
-'Yes,' said McNab.
-
-1173
-01:14:05,220 --> 01:14:08,920
-'I went in and out through the back door again.
-
-1174
-01:14:08,920 --> 01:14:12,720
-I took the laptop out to that old garage behind
-the hotel.
-
-1175
-01:14:12,720 --> 01:14:18,400
-I broke it up into pieces with a large stone
-and hid it.'
-
-1176
-01:14:18,400 --> 01:14:20,200
-His head went down.
-
-1177
-01:14:20,200 --> 01:14:23,420
-'Fox,' said Shepherd.
-
-1178
-01:14:23,420 --> 01:14:29,520
-'Get another officer and take Mr McNab to
-the police station.'
-
-1179
-01:14:29,520 --> 01:14:31,840
-She looked at the other people in the room.
-
-1180
-01:14:31,840 --> 01:14:32,840
-'OK.
-
-1181
-01:14:32,840 --> 01:14:38,030
-You all need to put in writing what you've
-done over the last twenty-four hours.
-
-1182
-01:14:38,030 --> 01:14:43,070
-Then you're free to go.'
-
-1183
-01:14:43,070 --> 01:14:47,080
-Fifteen minutes later Shepherd and Webb were
-sitting in the bar.
-
-1184
-01:14:47,080 --> 01:14:52,470
-There was a half-empty glass of red wine in
-front of Shepherd, and an orange juice in
-
-1185
-01:14:52,470 --> 01:14:54,570
-front of Webb.
-
-1186
-01:14:54,570 --> 01:14:56,750
-Shepherd's fingers were playing with the memory
-stick.
-
-1187
-01:14:56,750 --> 01:15:01,980
-'When did I say I wanted someone to look at
-the back door?'
-
-1188
-01:15:01,980 --> 01:15:03,660
-she asked.
-
-1189
-01:15:03,660 --> 01:15:05,750
+755
+01:15:03,440 --> 01:15:05,200
 'You didn't,' replied Webb.
 
-1190
-01:15:05,750 --> 01:15:08,330
-'Good for you,' said Shepherd.
+756
+01:15:06,080 --> 01:15:11,600
+'Good for you,' said Shepherd. 'I like 
+having a sergeant who uses his brain.'
 
-1191
-01:15:08,330 --> 01:15:12,570
-'I like having a sergeant who uses his brain.'
+757
+01:15:13,520 --> 01:15:18,240
+'Well, I knew the killer didn't have 
+much time to decide how to kill Engel,'  
 
-1192
-01:15:12,570 --> 01:15:19,260
-'Well, I knew the killer didn't have much
-time to decide how to kill Engel,' said Webb.
+758
+01:15:18,240 --> 01:15:23,680
+said Webb. 'I just thought it would be a good 
+idea to look for fingerprints on the back door.  
 
-1193
-01:15:19,260 --> 01:15:23,820
-'I just thought it would be a good idea to
-look for fingerprints on the back door.
+759
+01:15:23,680 --> 01:15:28,640
+I mean, nobody has gloves with 
+them in September anyway.'
 
-1194
-01:15:23,820 --> 01:15:30,170
-I mean, nobody has gloves with them in September
-anyway.'
-
-1195
-01:15:30,170 --> 01:15:31,170
+760
+01:15:29,760 --> 01:15:30,800
 Shepherd smiled.
 
-1196
-01:15:31,170 --> 01:15:36,140
-'It's lucky for us too that Claudia Engel
-put everything onto the memory stick and left
+761
+01:15:31,600 --> 01:15:35,840
+'It's lucky for us too that Claudia Engel 
+put everything onto the memory stick and  
 
-1197
-01:15:36,140 --> 01:15:38,800
-it at reception,' said Webb.
+762
+01:15:35,840 --> 01:15:41,280
+left it at reception,' said Webb. 'And 
+that you thought to ask them about it.'
 
-1198
-01:15:38,800 --> 01:15:43,710
-'And that you thought to ask them about it.'
-
-1199
-01:15:43,710 --> 01:15:46,210
+763
+01:15:43,440 --> 01:15:45,920
 'It's not lucky at all,' said Shepherd.
 
-1200
-01:15:46,210 --> 01:15:50,230
+764
+01:15:47,120 --> 01:15:48,960
 'What do you mean?' asked Webb.
 
-1201
-01:15:50,230 --> 01:15:53,160
-'It's not her memory stick,' said Shepherd.
+765
+01:15:50,400 --> 01:15:53,440
+'It's not her memory stick,' said Shepherd.  
 
-1202
-01:15:53,160 --> 01:15:59,230
-'I borrowed it from reception just before
-I talked to that lot.'
+766
+01:15:53,440 --> 01:15:57,520
+'I borrowed it from reception 
+just before I talked to that lot.'
 
-1203
-01:15:59,230 --> 01:16:03,670
-'But the writing on the envelope...' said
-Webb.
+767
+01:15:58,960 --> 01:16:01,840
+'But the writing on the envelope...' said Webb.
 
-1204
-01:16:03,670 --> 01:16:08,290
-'Engel wrote her name at reception when she
-arrived two days ago.
+768
+01:16:03,200 --> 01:16:07,280
+'Engel wrote her name at reception 
+when she arrived two days ago.  
 
-1205
-01:16:08,290 --> 01:16:11,730
-I thought I did quite a good job of making
-it look the same.'
+769
+01:16:08,160 --> 01:16:11,520
+I thought I did quite a good 
+job of making it look the same.'
 
-1206
-01:16:11,730 --> 01:16:15,140
-'But...' began Webb.
+770
+01:16:12,960 --> 01:16:15,280
+'But...' began Webb. 'You mean...'
 
-1207
-01:16:15,140 --> 01:16:16,560
-'You mean...'
+771
+01:16:16,240 --> 01:16:22,880
+'That's right,' she said. 'McNab believed 
+we knew everything, but actually we didn't.'
 
-1208
-01:16:16,560 --> 01:16:19,390
-'That's right,' she said.
-
-1209
-01:16:19,390 --> 01:16:24,920
-'McNab believed we knew everything, but actually
-we didn't.'
-
-1210
-01:16:24,920 --> 01:16:27,030
+772
+01:16:24,480 --> 01:16:26,000
 Shepherd took a drink of her wine.
 
-1211
-01:16:27,030 --> 01:16:30,850
-'So what was on her computer?' asked Webb.
+773
+01:16:27,440 --> 01:16:32,080
+'So what was on her computer?' 
+asked Webb. 'What was so important?'
 
-1212
-01:16:30,850 --> 01:16:32,300
-'What was so important?'
+774
+01:16:33,040 --> 01:16:36,480
+'I have no idea,' said Shepherd and laughed.  
 
-1213
-01:16:32,300 --> 01:16:36,760
-'I have no idea,' said Shepherd and laughed.
+775
+01:16:37,680 --> 01:16:41,120
+'If we're lucky, McNab will 
+tell us. But if he doesn't,  
 
-1214
-01:16:36,760 --> 01:16:40,430
-'If we're lucky, McNab will tell us.
+776
+01:16:41,680 --> 01:16:49,120
+that's OK too. He's told us that he killed Engel. 
+That's the important thing. And from the look on  
 
-1215
-01:16:40,430 --> 01:16:43,810
-But if he doesn't, that's OK too.
-
-1216
-01:16:43,810 --> 01:16:46,180
-He's told us that he killed Engel.
-
-1217
-01:16:46,180 --> 01:16:48,630
-That's the important thing.
-
-1218
-01:16:48,630 --> 01:16:52,650
-And from the look on his face he didn't bring
-any gloves with him.
-
-1219
-01:16:52,650 --> 01:16:57,210
+777
+01:16:49,120 --> 01:16:55,040
+his face he didn't bring any gloves with him. 
 So we'll probably have his fingerprints too.'
 
-1220
-01:16:57,210 --> 01:17:01,650
-Webb drank some of his orange juice and looked
-at Shepherd.
+778
+01:16:56,880 --> 01:17:00,160
+Webb drank some of his orange 
+juice and looked at Shepherd.  
 
-1221
-01:17:01,650 --> 01:17:04,960
-She really wasn't the usual kind of police
-inspector.
+779
+01:17:01,440 --> 01:17:04,480
+She really wasn't the usual 
+kind of police inspector.
 
-1222
-01:17:04,960 --> 01:17:09,250
-'We found the murderer...'
+780
+01:17:06,800 --> 01:17:09,680
+'We found the murderer...' Shepherd looked at her  
 
-1223
-01:17:09,250 --> 01:17:12,440
-Shepherd looked at her watch '... in under
-twelve hours.
+781
+01:17:09,680 --> 01:17:15,840
+watch '... in under twelve hours. I call 
+that a good day's work. Well done us!'
 
-1224
-01:17:12,440 --> 01:17:14,770
-I call that a good day's work.
-
-1225
-01:17:14,770 --> 01:17:17,770
-Well done us!'
-
-1226
-01:17:17,770 --> 01:17:19,500
+782
+01:17:17,440 --> 01:17:18,320
 Webb smiled.
 
-1227
-01:17:19,500 --> 01:17:24,470
-'Right,' said Shepherd, standing up and finishing
-her drink.
+783
+01:17:19,920 --> 01:17:23,520
+'Right,' said Shepherd, standing 
+up and finishing her drink.  
 
-1228
-01:17:24,470 --> 01:17:27,320
-'I'm going to give this memory stick back
-to reception.
+784
+01:17:24,160 --> 01:17:29,840
+'I'm going to give this memory stick back to 
+reception. Mine's another glass of red wine.'
+ 
+ 
+ 
+ 
 
-1229
-01:17:27,320 --> 01:17:29,610
-Mine's another glass of red wine.'
-
-1230
-01:17:29,610 --> 01:17:29,940
+785
+01:17:29,840 --> 01:17:30,374
 - THE END -
 

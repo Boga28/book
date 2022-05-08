@@ -1,3828 +1,2310 @@
 1
-00:00:00,229 --> 00:00:03,810
+00:00:00,240 --> 00:00:01,040
 CHAPTER ONE
+ 
+ 
 
 2
-00:00:03,810 --> 00:00:11,349
-The Clarkson family lived in the country near
-Cambridge, about half a mile from the nearest
+00:00:03,120 --> 00:00:06,640
+The Clarkson family lived in the country  
 
 3
-00:00:11,349 --> 00:00:19,510
-village and about a mile from the river.
+00:00:06,640 --> 00:00:15,920
+near Cambridge, about half a mile from the 
+nearest village and about a mile from the river.  
 
 4
-00:00:19,510 --> 00:00:29,199
-They had a big, old house with a beautiful
+00:00:17,760 --> 00:00:26,800
+They had a big, old house with a beautiful 
 garden, a lot of flowers and many old trees.
 
 5
-00:00:29,199 --> 00:00:36,739
-One Thursday morning in July, Jackie came
-in from the garden.
+00:00:29,360 --> 00:00:34,720
+One Thursday morning in July, 
+Jackie came in from the garden.  
 
 6
-00:00:36,739 --> 00:00:41,490
-She was a tall, fat woman, thirty years old.
+00:00:36,480 --> 00:00:44,560
+She was a tall, fat woman, thirty years 
+old. It was the hottest day of the year,  
 
 7
-00:00:41,490 --> 00:00:52,780
-It was the hottest day of the year, but she
-wore a warm brown skirt and yellow shirt.
+00:00:45,920 --> 00:00:50,320
+but she wore a warm brown skirt and yellow shirt.  
 
 8
-00:00:52,780 --> 00:00:57,600
-She went into the kitchen to get a drink of
-water.
+00:00:52,560 --> 00:00:59,600
+She went into the kitchen to get a drink 
+of water. Just then the phone rang.  
 
 9
-00:00:57,600 --> 00:01:03,079
-Just then the phone rang.
-
-10
-00:01:03,079 --> 00:01:06,980
+00:01:02,160 --> 00:01:06,000
 'Cambridge 1379,' Jackie said.
 
+10
+00:01:07,840 --> 00:01:13,200
+'Hello. This is Diane. I want to talk to Mother.'  
+
 11
-00:01:06,980 --> 00:01:08,210
-'Hello.
+00:01:14,880 --> 00:01:23,200
+'Mother isn't here,' Jackie said. 'She's 
+at the doctor's.' 'Why? What's wrong?'
 
 12
-00:01:08,210 --> 00:01:11,900
-This is Diane.
+00:01:24,640 --> 00:01:33,280
+'Nothing's wrong,' Jackie said. 'Why are you 
+telephoning? You are going to come this weekend?  
 
 13
-00:01:11,900 --> 00:01:14,100
-I want to talk to Mother.'
-
-14
-00:01:14,100 --> 00:01:18,840
-'Mother isn't here,' Jackie said.
-
-15
-00:01:18,840 --> 00:01:19,970
-'She's at the doctor's.'
-
-16
-00:01:19,970 --> 00:01:22,710
-'Why?
-
-17
-00:01:22,710 --> 00:01:25,080
-What's wrong?'
-
-18
-00:01:25,080 --> 00:01:27,560
-'Nothing's wrong,' Jackie said.
-
-19
-00:01:27,560 --> 00:01:31,140
-'Why are you telephoning?
-
-20
-00:01:31,140 --> 00:01:34,970
-You are going to come this weekend?
-
-21
-00:01:34,970 --> 00:01:38,090
+00:01:34,640 --> 00:01:36,880
 Mother wants everyone to be here.'
 
+14
+00:01:38,240 --> 00:01:47,440
+'Yes, I want to come,' Diane said. 'I'm phoning 
+because I have no money for the train ticket.'
+
+15
+00:01:49,200 --> 00:01:53,840
+'No money! Mother is always giving you money!'
+
+16
+00:01:56,080 --> 00:02:08,000
+'This phone call is very expensive,' Diane said 
+coldly. 'Tell Mother please. I need the money.'
+
+17
+00:02:08,000 --> 00:02:14,640
+Jackie put the phone down. She took a 
+cigarette from her bag and began to smoke.  
+
+18
+00:02:16,400 --> 00:02:24,560
+She felt angry because her sister always 
+asked for money. Diane was twenty years old,  
+
+19
+00:02:25,680 --> 00:02:32,240
+the youngest in the family. She 
+lived in London, in one room  
+
+20
+00:02:32,240 --> 00:02:42,160
+of a big house. She wanted to be a singer. She 
+sang very well but she could never get work.
+
+21
+00:02:44,880 --> 00:02:49,840
+Jackie went back into the kitchen 
+and began to make some sandwiches.  
+
 22
-00:01:38,090 --> 00:01:42,030
-'Yes, I want to come,' Diane said.
+00:02:51,440 --> 00:02:56,160
+Just then the back door 
+opened, and her mother came in.
 
 23
-00:01:42,030 --> 00:01:47,650
-'I'm phoning because I have no money for the
-train ticket.'
+00:02:58,320 --> 00:03:06,880
+'It's very hot!' Molly said. She took 
+off her hat and put it down on the table.  
 
 24
-00:01:47,650 --> 00:01:50,800
-'No money!
+00:03:08,720 --> 00:03:12,960
+She was a tall, dark woman with beautiful eyes.
 
 25
-00:01:50,800 --> 00:01:54,730
-Mother is always giving you money!'
+00:03:15,760 --> 00:03:22,320
+Two big, black dogs came into the 
+kitchen after her and ran across to her.  
 
 26
-00:01:54,730 --> 00:02:02,450
-'This phone call is very expensive,' Diane
-said coldly.
-
-27
-00:02:02,450 --> 00:02:04,000
-'Tell Mother please.
-
-28
-00:02:04,000 --> 00:02:08,399
-I need the money.'
-
-29
-00:02:08,399 --> 00:02:11,370
-Jackie put the phone down.
-
-30
-00:02:11,370 --> 00:02:16,659
-She took a cigarette from her bag and began
-to smoke.
-
-31
-00:02:16,659 --> 00:02:21,340
-She felt angry because her sister always asked
-for money.
-
-32
-00:02:21,340 --> 00:02:29,370
-Diane was twenty years old, the youngest in
-the family.
-
-33
-00:02:29,370 --> 00:02:35,269
-She lived in London, in one room of a big
-house.
-
-34
-00:02:35,269 --> 00:02:37,730
-She wanted to be a singer.
-
-35
-00:02:37,730 --> 00:02:45,290
-She sang very well but she could never get
-work.
-
-36
-00:02:45,290 --> 00:02:51,549
-Jackie went back into the kitchen and began
-to make some sandwiches.
-
-37
-00:02:51,549 --> 00:02:58,230
-Just then the back door opened, and her mother
-came in.
-
-38
-00:02:58,230 --> 00:03:00,780
-'It's very hot!'
-
-39
-00:03:00,780 --> 00:03:03,340
-Molly said.
-
-40
-00:03:03,340 --> 00:03:08,959
-She took off her hat and put it down on the
-table.
-
-41
-00:03:08,959 --> 00:03:13,969
-She was a tall, dark woman with beautiful
-eyes.
-
-42
-00:03:13,969 --> 00:03:24,409
-Two big, black dogs came into the kitchen
-after her and ran across to her.
-
-43
-00:03:24,409 --> 00:03:29,849
+00:03:24,160 --> 00:03:27,600
 She sat down and put her hands on their heads.
 
-44
-00:03:29,849 --> 00:03:33,749
-Jackie put the sandwiches on the table.
+27
+00:03:30,000 --> 00:03:32,640
+Jackie put the sandwiches on the table.  
 
-45
-00:03:33,749 --> 00:03:39,470
-'Mother,' she said, 'Diane phoned.
-
-46
-00:03:39,470 --> 00:03:42,529
+28
+00:03:34,160 --> 00:03:41,920
+'Mother,' she said, 'Diane phoned. 
 She wants money for her train ticket.'
 
-47
-00:03:42,529 --> 00:03:46,579
-Molly closed her eyes for a minute.
+29
+00:03:43,840 --> 00:03:48,720
+Molly closed her eyes for a 
+minute. Then she stood up.  
 
-48
-00:03:46,579 --> 00:03:49,790
-Then she stood up.
+30
+00:03:51,040 --> 00:03:57,280
+'This afternoon I want you to get the 
+house ready for the weekend,' she said.  
 
-49
-00:03:49,790 --> 00:03:57,469
-'This afternoon I want you to get the house
-ready for the weekend,' she said.
+31
+00:03:58,480 --> 00:04:03,840
+'Oh, and please go to the village 
+later and get my tablets.'
 
-50
-00:03:57,469 --> 00:04:05,060
-'Oh, and please go to the village later and
-get my tablets.'
-
-51
-00:04:05,060 --> 00:04:09,640
+32
+00:04:05,520 --> 00:04:07,760
 'Yes, Mother,' Jackie said.
 
-52
-00:04:09,640 --> 00:04:10,870
+33
+00:04:09,280 --> 00:04:10,480
 Molly went to the door.
 
-53
-00:04:10,870 --> 00:04:17,250
-'Mother, please wait a minute,' Jackie said.
+34
+00:04:12,400 --> 00:04:14,640
+'Mother, please wait a minute,'  
 
-54
-00:04:17,250 --> 00:04:22,280
-'Peter Hobbs came here this morning.
+35
+00:04:15,520 --> 00:04:25,120
+Jackie said. 'Peter Hobbs came here this morning. 
+He's very angry with you about that letter.  
 
-55
-00:04:22,280 --> 00:04:25,750
-He's very angry with you about that letter.
+36
+00:04:26,960 --> 00:04:36,560
+He lost his job, you know. Why did you write to 
+his office? He wants to talk to you about it.'
 
-56
-00:04:25,750 --> 00:04:30,640
-He lost his job, you know.
+37
+00:04:38,320 --> 00:04:44,480
+'Well, I don't want to talk to him,' 
+Molly said. She opened the door.
 
-57
-00:04:30,640 --> 00:04:34,590
-Why did you write to his office?
+38
+00:04:46,480 --> 00:04:57,680
+'But Mother, you don't understand. He's seventeen, 
+and it was his first job. He's very, very angry.  
 
-58
-00:04:34,590 --> 00:04:37,520
-He wants to talk to you about it.'
-
-59
-00:04:37,520 --> 00:04:43,810
-'Well, I don't want to talk to him,' Molly
-said.
-
-60
-00:04:43,810 --> 00:04:44,810
-She opened the door.
-
-61
-00:04:44,810 --> 00:04:46,690
-'But Mother, you don't understand.
-
-62
-00:04:46,690 --> 00:04:55,160
-He's seventeen, and it was his first job.
-
-63
-00:04:55,160 --> 00:04:59,140
-He's very, very angry.
-
-64
-00:04:59,140 --> 00:05:06,710
+39
+00:04:58,960 --> 00:05:04,000
 He says ... he says he's going to kill you!'
 
-65
-00:05:06,710 --> 00:05:09,880
-Molly did not answer.
+40
+00:05:06,400 --> 00:05:23,840
+Molly did not answer. She went out 
+of the room and closed the door.
+ 
+ 
+ 
 
-66
-00:05:09,880 --> 00:05:18,190
-She went out of the room and closed the door.
-
-67
-00:05:18,190 --> 00:05:28,860
+41
+00:05:25,520 --> 00:05:26,320
 CHAPTER TWO
+ 
 
-68
-00:05:28,860 --> 00:05:32,010
-It was seven o'clock on Saturday evening.
+42
+00:05:28,640 --> 00:05:34,800
+It was seven o'clock on Saturday 
+evening. Jackie stood at the window.  
 
-69
-00:05:32,010 --> 00:05:35,420
-Jackie stood at the window.
+43
+00:05:36,640 --> 00:05:46,240
+A car drove slowly up to the front door and 
+stopped. A tall man with white hair got out.  
 
-70
-00:05:35,420 --> 00:05:41,900
-A car drove slowly up to the front door and
-stopped.
+44
+00:05:47,840 --> 00:05:59,040
+It was Albert, the husband of Molly's sister. 
+'Here's Uncle Albert,' Jackie said. 'Always late.'  
 
-71
-00:05:41,900 --> 00:05:48,080
-A tall man with white hair got out.
+45
+00:06:01,520 --> 00:06:10,320
+She went out of the room and opened the front 
+door. Albert came in and went at once to Molly.
 
-72
-00:05:48,080 --> 00:05:54,690
-It was Albert, the husband of Molly's sister.
+46
+00:06:12,320 --> 00:06:22,960
+'Oh, dear. I'm very late. I am sorry,' 
+Albert said. 'Fifty years old today!  
 
-73
-00:05:54,690 --> 00:05:59,730
-'Here's Uncle Albert,' Jackie said.
-
-74
-00:05:59,730 --> 00:06:01,740
-'Always late.'
-
-75
-00:06:01,740 --> 00:06:05,930
-She went out of the room and opened the front
-door.
-
-76
-00:06:05,930 --> 00:06:11,260
-Albert came in and went at once to Molly.
-
-77
-00:06:11,260 --> 00:06:13,280
-'Oh, dear.
-
-78
-00:06:13,280 --> 00:06:16,310
-I'm very late.
-
-79
-00:06:16,310 --> 00:06:20,120
-I am sorry,' Albert said.
-
-80
-00:06:20,120 --> 00:06:23,830
-'Fifty years old today!
-
-81
-00:06:23,830 --> 00:06:29,030
+47
+00:06:24,560 --> 00:06:26,640
 What a wonderful dress!'
 
-82
-00:06:29,030 --> 00:06:30,640
-Molly did not smile.
+48
+00:06:28,640 --> 00:06:35,680
+Molly did not smile. 'Thank you, 
+Albert. We're all getting older.'  
 
-83
-00:06:30,640 --> 00:06:33,520
-'Thank you, Albert.
+49
+00:06:37,600 --> 00:06:45,040
+Tonight she wore a long black dress, 
+and the two black dogs sat at her feet.  
 
-84
-00:06:33,520 --> 00:06:35,680
-We're all getting older.'
+50
+00:06:47,280 --> 00:06:53,120
+'Everyone is here now. Let's 
+go in to dinner,' she said.
 
-85
-00:06:35,680 --> 00:06:46,780
-Tonight she wore a long black dress, and the
-two black dogs sat at her feet.
+51
+00:06:55,040 --> 00:06:58,160
+Everyone stood up and went to the table.  
 
-86
-00:06:46,780 --> 00:06:50,850
-'Everyone is here now.
+52
+00:07:00,880 --> 00:07:07,680
+'The table looks nice, Jackie. What 
+wonderful flowers!' Diane said.  
 
-87
-00:06:50,850 --> 00:06:54,410
-Let's go in to dinner,' she said.
+53
+00:07:09,600 --> 00:07:19,600
+She was a beautiful girl, with long black hair 
+and dark blue eyes. She wore a long red dress.
 
-88
-00:06:54,410 --> 00:06:58,640
-Everyone stood up and went to the table.
+54
+00:07:22,320 --> 00:07:29,840
+Albert sat down next to Roger. Roger 
+was Molly's son, her second child.  
 
-89
-00:06:58,640 --> 00:07:03,330
-'The table looks nice, Jackie.
-
-90
-00:07:03,330 --> 00:07:06,140
-What wonderful flowers!'
-
-91
-00:07:06,140 --> 00:07:08,010
-Diane said.
-
-92
-00:07:08,010 --> 00:07:17,830
-She was a beautiful girl, with long black
-hair and dark blue eyes.
-
-93
-00:07:17,830 --> 00:07:22,830
-She wore a long red dress.
-
-94
-00:07:22,830 --> 00:07:24,781
-Albert sat down next to Roger.
-
-95
-00:07:24,781 --> 00:07:30,820
-Roger was Molly's son, her second child.
-
-96
-00:07:30,820 --> 00:07:37,400
+55
+00:07:31,760 --> 00:07:35,840
 He lived in Cambridge, in an expensive house.
 
-97
-00:07:37,400 --> 00:07:44,550
-'Someone called Peter stopped me down the
-road,' Albert said.
+56
+00:07:38,480 --> 00:07:43,840
+'Someone called Peter stopped 
+me down the road,' Albert said.  
 
-98
-00:07:44,550 --> 00:07:46,690
-'Who is he?
+57
+00:07:45,040 --> 00:07:49,200
+'Who is he? He's very angry with you, Molly.'
 
-99
-00:07:46,690 --> 00:07:50,890
-He's very angry with you, Molly.'
+58
+00:07:51,440 --> 00:08:00,000
+'That's Peter Hobbs, from the house across 
+the road,' Jackie said quickly. She looked  
 
-100
-00:07:50,890 --> 00:07:59,720
-'That's Peter Hobbs, from the house across
-the road,' Jackie said quickly.
+59
+00:08:00,000 --> 00:08:07,760
+across the table at Molly. 'He lost his job 
+last week and he's angry with everyone.'
 
-101
-00:07:59,720 --> 00:08:02,820
-She looked across the table at Molly.
-
-102
-00:08:02,820 --> 00:08:09,670
-'He lost his job last week and he's angry
-with everyone.'
-
-103
-00:08:09,670 --> 00:08:12,861
+60
+00:08:09,360 --> 00:08:12,960
 'It's Molly he doesn't like,' Albert said.
 
-104
-00:08:12,861 --> 00:08:14,380
-Molly said nothing.
+61
+00:08:14,560 --> 00:08:18,880
+Molly said nothing. Everyone began to eat.
 
-105
-00:08:14,380 --> 00:08:20,200
-Everyone began to eat.
+62
+00:08:21,040 --> 00:08:24,320
+'How is Aunt Annie?' Jackie asked.
 
-106
-00:08:20,200 --> 00:08:23,860
-'How is Aunt Annie?'
+63
+00:08:25,760 --> 00:08:32,480
+'She's much worse now,' Albert said. 
+'She stays in bed all the time.  
 
-107
-00:08:23,860 --> 00:08:26,170
-Jackie asked.
-
-108
-00:08:26,170 --> 00:08:29,530
-'She's much worse now,' Albert said.
-
-109
-00:08:29,530 --> 00:08:34,070
-'She stays in bed all the time.
-
-110
-00:08:34,070 --> 00:08:39,580
+64
+00:08:34,000 --> 00:08:39,920
 She needs a nurse twenty-four hours a day.'
 
-111
-00:08:39,580 --> 00:08:44,660
+65
+00:08:39,920 --> 00:08:42,240
 'I am sorry,' Molly said.
 
-112
-00:08:44,660 --> 00:08:49,180
-Albert stopped eating and looked at Molly.
+66
+00:08:44,160 --> 00:08:53,840
+Albert stopped eating and looked at Molly. 'It's 
+very difficult and very expensive, you know.  
 
-113
-00:08:49,180 --> 00:08:54,490
-'It's very difficult and very expensive, you
-know.
+67
+00:08:54,880 --> 00:09:02,640
+Annie feels very unhappy because you don't 
+visit her, Molly. She loves you very much.  
 
-114
-00:08:54,490 --> 00:09:01,149
-Annie feels very unhappy because you don't
-visit her, Molly.
-
-115
-00:09:01,149 --> 00:09:03,990
-She loves you very much.
-
-116
-00:09:03,990 --> 00:09:08,190
+68
+00:09:03,760 --> 00:09:07,840
 You are her little sister, you know.'
 
-117
-00:09:08,190 --> 00:09:10,999
-Molly closed her eyes for a minute.
-
-118
-00:09:10,999 --> 00:09:15,120
-'I know that, Albert.
-
-119
-00:09:15,120 --> 00:09:22,680
-I am fifty years old, but I am always her
-"little" sister.
-
-120
-00:09:22,680 --> 00:09:27,990
-Well, we can talk about it later.'
-
-121
-00:09:27,990 --> 00:09:29,450
-Albert laughed.
-
-122
-00:09:29,450 --> 00:09:33,730
-'Oh yes, we can talk later.
-
-123
-00:09:33,730 --> 00:09:38,050
-It's always later with you, Molly.
-
-124
-00:09:38,050 --> 00:09:40,610
-Always tomorrow.
-
-125
-00:09:40,610 --> 00:09:44,120
-Never today.'
-
-126
-00:09:44,120 --> 00:09:46,749
-Jackie watched her mother.
-
-127
-00:09:46,749 --> 00:09:50,699
-Her mother was angry with Albert.
-
-128
-00:09:50,699 --> 00:09:57,850
-Molly never liked talking about her sister
-Annie and she did not like visiting her because
-
-129
-00:09:57,850 --> 00:10:00,920
-she was very ill.
-
-130
-00:10:00,920 --> 00:10:04,620
-'That's a beautiful dress, Diane.
-
-131
-00:10:04,620 --> 00:10:06,420
-Is it new?'
-
-132
-00:10:06,420 --> 00:10:07,420
-Jackie asked.
-
-133
-00:10:07,420 --> 00:10:09,389
-'Thank you, Jackie.
-
-134
-00:10:09,389 --> 00:10:13,850
-Yes, it's new, and very expensive.
-
-135
-00:10:13,850 --> 00:10:19,050
-I got it on Wednesday,' Diane said.
-
-136
-00:10:19,050 --> 00:10:21,769
-She smiled at Jackie.
-
-137
-00:10:21,769 --> 00:10:26,730
-'All your things are expensive,' Jackie said.
-
-138
-00:10:26,730 --> 00:10:31,550
-She remembered the phone call on Thursday
-about the train ticket.
-
-139
-00:10:31,550 --> 00:10:37,079
-'I don't like cheap things,' Diane said.
-
-140
-00:10:37,079 --> 00:10:42,230
-'And I'm going to need more money soon.
-
-141
-00:10:42,230 --> 00:10:45,550
-I want to go to America.
-
-142
-00:10:45,550 --> 00:10:48,300
-Can you help me, Roger?'
-
-143
-00:10:48,300 --> 00:10:51,620
-'Oh no,' Roger said.
-
-144
-00:10:51,620 --> 00:10:55,759
-'Nobody wants to help you, Diane.
-
-145
-00:10:55,759 --> 00:11:04,519
-You don't like working, we all know that,
-but we all want you to get a job.'
-
-146
-00:11:04,519 --> 00:11:06,490
-Diane laughed.
-
-147
-00:11:06,490 --> 00:11:10,439
-'It doesn't matter, Roger.
-
-148
-00:11:10,439 --> 00:11:12,829
-I don't need your help.
-
-149
-00:11:12,829 --> 00:11:15,309
-Mother always helps me.
-
-150
-00:11:15,309 --> 00:11:18,790
-Mother loves me best.'
-
-151
-00:11:18,790 --> 00:11:23,700
-She suddenly smiled, a quick, beautiful smile.
-
-152
-00:11:23,700 --> 00:11:28,960
-But her eyes were cold.
-
-153
-00:11:28,960 --> 00:11:31,940
-Jackie looked at her mother.
-
-154
-00:11:31,940 --> 00:11:35,300
-Molly's face was white.
-
-155
-00:11:35,300 --> 00:11:38,529
-Jackie did not understand.
-
-156
-00:11:38,529 --> 00:11:41,589
-Was her mother afraid of Diane?
-
-157
-00:11:41,589 --> 00:11:47,420
-Jackie wanted her mother to be happy today.
-
-158
-00:11:47,420 --> 00:11:51,079
-'Would you like some more meat, Uncle Albert?'
-
-159
-00:11:51,079 --> 00:11:52,079
-Jackie asked.
-
-160
-00:11:52,079 --> 00:11:57,509
-'Roger, can you give everyone some more to
-drink?'
-
-161
-00:11:57,509 --> 00:12:03,939
-Roger got up and began to give more wine to
-everyone.
-
-162
-00:12:03,939 --> 00:12:09,610
-'This is good wine,' he said.
-
-163
-00:12:09,610 --> 00:12:12,990
-Molly smiled for the first time.
-
-164
-00:12:12,990 --> 00:12:17,820
-'Yes, your father loved this wine.
-
-165
-00:12:17,820 --> 00:12:20,110
-He often drank it.'
-
-166
-00:12:20,110 --> 00:12:25,930
-'Yes,' Albert said, and looked at Molly.
-
-167
-00:12:25,930 --> 00:12:29,100
-'Expensive, too.'
-
-168
-00:12:29,100 --> 00:12:33,139
-'Would you like to meet Mr Briggs this weekend,
-Roger?'
-
-169
-00:12:33,139 --> 00:12:35,079
-Jackie asked quickly.
-
-170
-00:12:35,079 --> 00:12:39,180
-'He's the new man at the farm.
-
-171
-00:12:39,180 --> 00:12:42,089
-He wants to meet you.'
-
-172
-00:12:42,089 --> 00:12:43,839
-'Briggs?
-
-173
-00:12:43,839 --> 00:12:45,589
-Briggs?'
-
-174
-00:12:45,589 --> 00:12:48,800
-Molly said, suddenly angry.
-
-175
-00:12:48,800 --> 00:12:52,149
-'Don't talk to me about that man.
-
-176
-00:12:52,149 --> 00:12:54,639
-I don't like him.
-
-177
-00:12:54,639 --> 00:12:59,079
-He wants half my garden for his farm.
-
-178
-00:12:59,079 --> 00:13:02,670
-He needs more land, he says.
-
-179
-00:13:02,670 --> 00:13:06,369
-I don't want him in my house.
-
-180
-00:13:06,369 --> 00:13:13,680
-He's always dirty and he has bad teeth.'
-
-181
-00:13:13,680 --> 00:13:16,430
-Jackie stood up and got her bag.
-
-182
-00:13:16,430 --> 00:13:22,010
+69
+00:09:07,840 --> 00:09:13,520
+Molly closed her eyes for a 
+minute. 'I know that, Albert.  
+
+70
+00:09:15,040 --> 00:09:25,760
+I am fifty years old, but I am always her "little" 
+sister. Well, we can talk about it later.'
+
+71
+00:09:27,520 --> 00:09:30,720
+Albert laughed. 'Oh yes,  
+
+72
+00:09:31,520 --> 00:09:41,280
+we can talk later. It's always later with 
+you, Molly. Always tomorrow. Never today.'
+
+73
+00:09:43,680 --> 00:09:51,680
+Jackie watched her mother. Her mother 
+was angry with Albert. Molly never liked  
+
+74
+00:09:51,680 --> 00:09:58,800
+talking about her sister Annie and she did not 
+like visiting her because she was very ill.
+
+75
+00:10:01,360 --> 00:10:06,960
+'That's a beautiful dress, 
+Diane. Is it new?' Jackie asked.
+
+76
+00:10:08,240 --> 00:10:11,200
+'Thank you, Jackie. Yes, it's new,  
+
+77
+00:10:12,080 --> 00:10:20,160
+and very expensive. I got it on Wednesday,' 
+Diane said. She smiled at Jackie.
+
+78
+00:10:21,440 --> 00:10:24,800
+'All your things are expensive,' Jackie said.  
+
+79
+00:10:26,480 --> 00:10:31,840
+She remembered the phone call on 
+Thursday about the train ticket.
+
+80
+00:10:32,960 --> 00:10:36,400
+'I don't like cheap things,' Diane said.  
+
+81
+00:10:38,240 --> 00:10:46,800
+'And I'm going to need more money soon. I want 
+to go to America. Can you help me, Roger?'
+
+82
+00:10:48,240 --> 00:10:54,080
+'Oh no,' Roger said. 'Nobody 
+wants to help you, Diane.  
+
+83
+00:10:55,520 --> 00:11:03,040
+You don't like working, we all know 
+that, but we all want you to get a job.'
+
+84
+00:11:05,120 --> 00:11:14,480
+Diane laughed. 'It doesn't matter, Roger. I 
+don't need your help. Mother always helps me.  
+
+85
+00:11:15,440 --> 00:11:27,840
+Mother loves me best.' She suddenly smiled, a 
+quick, beautiful smile. But her eyes were cold.
+
+86
+00:11:28,560 --> 00:11:36,560
+Jackie looked at her mother. Molly's face 
+was white. Jackie did not understand.  
+
+87
+00:11:38,240 --> 00:11:44,960
+Was her mother afraid of Diane? Jackie 
+wanted her mother to be happy today.
+
+88
+00:11:47,200 --> 00:11:49,920
+'Would you like some more meat, Uncle Albert?'  
+
+89
+00:11:50,720 --> 00:11:56,160
+Jackie asked. 'Roger, can you 
+give everyone some more to drink?'
+
+90
+00:11:58,320 --> 00:12:07,520
+Roger got up and began to give more wine 
+to everyone. 'This is good wine,' he said.
+
+91
+00:12:09,280 --> 00:12:18,800
+Molly smiled for the first time. 'Yes, your 
+father loved this wine. He often drank it.'
+
+92
+00:12:20,720 --> 00:12:26,320
+'Yes,' Albert said, and looked 
+at Molly. 'Expensive, too.'
+
+93
+00:12:28,960 --> 00:12:32,480
+'Would you like to meet Mr 
+Briggs this weekend, Roger?'  
+
+94
+00:12:33,520 --> 00:12:40,480
+Jackie asked quickly. 'He's the new 
+man at the farm. He wants to meet you.'
+
+95
+00:12:42,400 --> 00:12:52,080
+'Briggs? Briggs?' Molly said, suddenly 
+angry. 'Don't talk to me about that man.  
+
+96
+00:12:52,080 --> 00:13:01,280
+I don't like him. He wants half my garden 
+for his farm. He needs more land, he says.  
+
+97
+00:13:02,640 --> 00:13:10,400
+I don't want him in my house. He's 
+always dirty and he has bad teeth.'
+
+98
+00:13:13,280 --> 00:13:19,840
+Jackie stood up and got her bag. 
 'Excuse me, I want a cigarette.'
 
-183
-00:13:22,010 --> 00:13:23,540
-'Cigarettes!
+99
+00:13:21,200 --> 00:13:28,880
+'Cigarettes! Always a cigarette in your 
+mouth,' Molly said. 'I don't like it.  
 
-184
-00:13:23,540 --> 00:13:27,309
-Always a cigarette in your mouth,' Molly said.
-
-185
-00:13:27,309 --> 00:13:30,769
-'I don't like it.
-
-186
-00:13:30,769 --> 00:13:34,970
+100
+00:13:30,160 --> 00:13:33,840
 Cigarettes aren't good for you.'
 
-187
-00:13:34,970 --> 00:13:37,839
-Jackie began to smoke.
+101
+00:13:34,560 --> 00:13:40,880
+Jackie began to smoke. She felt 
+angry but she said nothing.  
 
-188
-00:13:37,839 --> 00:13:43,060
-She felt angry but she said nothing.
+102
+00:13:42,800 --> 00:13:48,960
+She wanted her mother to be happy this 
+evening, but it was very difficult.
 
-189
-00:13:43,060 --> 00:13:50,190
-She wanted her mother to be happy this evening,
-but it was very difficult.
+103
+00:13:51,440 --> 00:14:01,520
+Roger drank some more wine. 'Well, Mother, 
+perhaps Mr Briggs is right. The garden is  
 
-190
-00:13:50,190 --> 00:13:53,839
-Roger drank some more wine.
+104
+00:14:01,520 --> 00:14:07,760
+very big, you know,' he said. 
+'It's a lot of work for you.  
 
-191
-00:13:53,839 --> 00:13:59,269
-'Well, Mother, perhaps Mr Briggs is right.
+105
+00:14:09,120 --> 00:14:16,320
+The house is big, too. You're fifty 
+now. You need to be more careful.'
 
-192
-00:13:59,269 --> 00:14:05,040
-The garden is very big, you know,' he said.
+106
+00:14:18,320 --> 00:14:29,840
+'Roger! I don't need a nurse, you know! I work 
+in the garden every day; I feel happy there.'  
 
-193
-00:14:05,040 --> 00:14:08,550
-'It's a lot of work for you.
+107
+00:14:31,840 --> 00:14:41,360
+Molly stood up. 'I know you all want my 
+money. You come here for a free dinner,  
 
-194
-00:14:08,550 --> 00:14:12,540
-The house is big, too.
+108
+00:14:42,240 --> 00:14:53,040
+you don't want to see me. You don't love 
+me. You want my house, and my money.  
 
-195
-00:14:12,540 --> 00:14:14,939
-You're fifty now.
+109
+00:14:54,560 --> 00:15:04,640
+Well, you can all wait. Nobody is getting 
+more money from me, not before I die!'
 
-196
-00:14:14,939 --> 00:14:16,559
-You need to be more careful.'
+110
+00:15:06,720 --> 00:15:11,840
+'Don't say that, Mother!' Jackie cried.
 
-197
-00:14:16,559 --> 00:14:20,110
-'Roger!
+111
+00:15:12,560 --> 00:15:22,320
+Molly walked across the room to the door. 
+'I feel ill now. I'm going upstairs to bed.'
 
-198
-00:14:20,110 --> 00:14:23,980
-I don't need a nurse, you know!
+112
+00:15:24,480 --> 00:15:36,560
+Molly left the room. Nobody moved. 'One day I'm 
+going to kill that woman,' Diane said quietly.
 
-199
-00:14:23,980 --> 00:14:32,139
-I work in the garden every day; I feel happy
-there.'
+113
+00:15:38,880 --> 00:15:46,880
+Roger looked at Diane but said nothing. 
+Albert moved his head slowly up and down.  
 
-200
-00:14:32,139 --> 00:14:33,939
-Molly stood up.
+114
+00:15:48,400 --> 00:15:56,560
+Ill! She's angry, that's all,' he 
+said. 'Molly always gets angry about  
 
-201
-00:14:33,939 --> 00:14:39,230
-'I know you all want my money.
+115
+00:15:56,560 --> 00:16:07,840
+money. Why can't she be good to her sister? 
+Annie's going to die soon. Molly knows that.'
 
-202
-00:14:39,230 --> 00:14:46,389
-You come here for a free dinner, you don't
-want to see me.
+116
+00:16:10,480 --> 00:16:13,360
+Jackie finished her cigarette and stood up.  
 
-203
-00:14:46,389 --> 00:14:49,790
-You don't love me.
+117
+00:16:15,360 --> 00:16:21,840
+'Would everyone like some coffee? Come into 
+the kitchen and let's drink it there.'
+ 
+ 
+ 
 
-204
-00:14:49,790 --> 00:14:54,899
-You want my house, and my money.
-
-205
-00:14:54,899 --> 00:14:58,269
-Well, you can all wait.
-
-206
-00:14:58,269 --> 00:15:05,570
-Nobody is getting more money from me, not
-before I die!'
-
-207
-00:15:05,570 --> 00:15:10,199
-'Don't say that, Mother!'
-
-208
-00:15:10,199 --> 00:15:12,940
-Jackie cried.
-
-209
-00:15:12,940 --> 00:15:16,059
-Molly walked across the room to the door.
-
-210
-00:15:16,059 --> 00:15:19,120
-'I feel ill now.
-
-211
-00:15:19,120 --> 00:15:23,250
-I'm going upstairs to bed.'
-
-212
-00:15:23,250 --> 00:15:27,879
-Molly left the room.
-
-213
-00:15:27,879 --> 00:15:29,339
-Nobody moved.
-
-214
-00:15:29,339 --> 00:15:38,800
-'One day I'm going to kill that woman,' Diane
-said quietly.
-
-215
-00:15:38,800 --> 00:15:42,449
-Roger looked at Diane but said nothing.
-
-216
-00:15:42,449 --> 00:15:47,610
-Albert moved his head slowly up and down.
-
-217
-00:15:47,610 --> 00:15:48,610
-Ill!
-
-218
-00:15:48,610 --> 00:15:54,290
-She's angry, that's all,' he said.
-
-219
-00:15:54,290 --> 00:15:57,720
-'Molly always gets angry about money.
-
-220
-00:15:57,720 --> 00:16:02,889
-Why can't she be good to her sister?
-
-221
-00:16:02,889 --> 00:16:06,889
-Annie's going to die soon.
-
-222
-00:16:06,889 --> 00:16:09,149
-Molly knows that.'
-
-223
-00:16:09,149 --> 00:16:15,579
-Jackie finished her cigarette and stood up.
-
-224
-00:16:15,579 --> 00:16:19,139
-'Would everyone like some coffee?
-
-225
-00:16:19,139 --> 00:16:35,819
-Come into the kitchen and let's drink it there.'
-
-226
-00:16:35,819 --> 00:16:37,149
+118
+00:16:35,760 --> 00:16:36,560
 CHAPTER THREE
+ 
 
-227
-00:16:37,149 --> 00:16:45,379
-Early next morning the house was quiet.
+119
+00:16:39,040 --> 00:16:42,640
+Early next morning the house was quiet.  
 
-228
-00:16:45,379 --> 00:16:54,199
-Suddenly there was a cry from the room next
-to Roger's, his mother's room.
+120
+00:16:44,880 --> 00:16:51,760
+Suddenly there was a cry from the room 
+next to Roger's, his mother's room.  
 
-229
-00:16:54,199 --> 00:16:58,249
-Roger opened his eyes and looked at the clock.
+121
+00:16:53,760 --> 00:17:01,120
+Roger opened his eyes and looked at 
+the clock. It was nearly seven o'clock.  
 
-230
-00:16:58,249 --> 00:17:03,559
-It was nearly seven o'clock.
+122
+00:17:03,360 --> 00:17:14,080
+He got out of bed and opened the door quietly. At 
+the same time the door of his mother's room opened  
 
-231
-00:17:03,559 --> 00:17:07,839
-He got out of bed and opened the door quietly.
+123
+00:17:15,600 --> 00:17:20,880
+and Diane came out. Her face was very white.
 
-232
-00:17:07,839 --> 00:17:18,100
-At the same time the door of his mother's
-room opened and Diane came out.
+124
+00:17:23,280 --> 00:17:33,360
+'Roger! It's Mother! I brought a cup 
+of coffee for her and I found her dead.  
 
-233
-00:17:18,100 --> 00:17:23,079
-Her face was very white.
-
-234
-00:17:23,079 --> 00:17:25,459
-'Roger!
-
-235
-00:17:25,459 --> 00:17:27,850
-It's Mother!
-
-236
-00:17:27,850 --> 00:17:35,750
-I brought a cup of coffee for her and I found
-her dead.
-
-237
-00:17:35,750 --> 00:17:43,169
+125
+00:17:35,200 --> 00:17:41,760
 She's dead... dead in her bed,' she cried.
 
-238
-00:17:43,169 --> 00:17:51,100
-Roger went quickly to the door of his mother's
-room and looked in.
+126
+00:17:44,240 --> 00:17:52,240
+Roger went quickly to the door of his mother's 
+room and looked in. The window was open  
 
-239
-00:17:51,100 --> 00:17:56,980
-The window was open but the room was warm.
+127
+00:17:53,280 --> 00:18:03,360
+but the room was warm. Molly was on 
+the bed, one hand under her head.  
 
-240
-00:17:56,980 --> 00:18:03,820
-Molly was on the bed, one hand under her head.
+128
+00:18:03,360 --> 00:18:08,720
+Roger went across to the bed 
+and put his hand on her arm.  
 
-241
-00:18:03,820 --> 00:18:10,830
-Roger went across to the bed and put his hand
-on her arm.
+129
+00:18:10,640 --> 00:18:21,280
+It was cold. On the little table next to the 
+bed was a hot cup of coffee and an empty cup.
 
-242
-00:18:10,830 --> 00:18:14,049
-It was cold.
-
-243
-00:18:14,049 --> 00:18:22,289
-On the little table next to the bed was a
-hot cup of coffee and an empty cup.
-
-244
-00:18:22,289 --> 00:18:30,960
+130
+00:18:24,000 --> 00:18:27,840
 'I'm going to call the doctor,' Diane said.
 
-245
-00:18:30,960 --> 00:18:34,659
-'She's dead,' Roger said slowly.
+131
+00:18:30,560 --> 00:18:41,840
+'She's dead,' Roger said slowly. His 
+face, too, was white. 'Mother is dead!'
 
-246
-00:18:34,659 --> 00:18:39,030
-His face, too, was white.
+132
+00:18:44,480 --> 00:18:52,800
+Diane walked across the room to the door. 'I'm 
+going to phone the doctor,' she said again.
 
-247
-00:18:39,030 --> 00:18:43,680
-'Mother is dead!'
-
-248
-00:18:43,680 --> 00:18:48,540
-Diane walked across the room to the door.
-
-249
-00:18:48,540 --> 00:18:54,500
-'I'm going to phone the doctor,' she said
-again.
-
-250
-00:18:54,500 --> 00:18:57,390
-'Wait a minute!'
-
-251
-00:18:57,390 --> 00:18:58,890
-Roger called.
-
-252
-00:18:58,890 --> 00:19:05,260
+133
+00:18:55,040 --> 00:19:01,280
+'Wait a minute!' Roger called. 
 'Let's tell the family first.'
 
-253
-00:19:05,260 --> 00:19:06,540
-'Family!
-
-254
-00:19:06,540 --> 00:19:10,519
-Nobody loved Mother!'
-
-255
-00:19:10,519 --> 00:19:15,929
+134
+00:19:03,520 --> 00:19:12,880
+'Family! Nobody loved Mother!' 
 Diane went out and ran downstairs.
 
-256
-00:19:15,929 --> 00:19:22,890
-Roger slowly went downstairs after her and
-stood by the telephone.
+135
+00:19:15,520 --> 00:19:23,920
+Roger slowly went downstairs after 
+her and stood by the telephone.
 
-257
-00:19:22,890 --> 00:19:29,690
-'Dr Pratt, this is Diane Clarkson.
+136
+00:19:23,920 --> 00:19:37,840
+'Dr Pratt, this is Diane Clarkson. It's my 
+mother -she's dead. Can you come quickly?'
 
-258
-00:19:29,690 --> 00:19:35,769
-It's my mother -she's dead.
+137
+00:19:40,160 --> 00:19:49,600
+Diane put the phone down. 'It 
+isn't true, Roger! Mother dead!  
 
-259
-00:19:35,769 --> 00:19:40,629
-Can you come quickly?'
+138
+00:19:51,680 --> 00:20:00,240
+Daddy died last winter, and now 
+Mother.' Diane began to cry.
 
-260
-00:19:40,629 --> 00:19:44,399
-Diane put the phone down.
+139
+00:20:02,320 --> 00:20:11,920
+'Don't cry, Diane,' Roger said. 'Let's go 
+upstairs and tell Uncle Albert and Jackie.'
 
-261
-00:19:44,399 --> 00:19:48,070
-'It isn't true, Roger!
+140
+00:20:13,600 --> 00:20:22,640
+'No! You tell them! Nobody 
+loved Mother. You aren't sorry.  
 
-262
-00:19:48,070 --> 00:19:50,980
-Mother dead!
+141
+00:20:24,400 --> 00:20:29,760
+Look at you! You want her money. That's all.'
 
-263
-00:19:50,980 --> 00:19:58,320
-Daddy died last winter, and now Mother.'
+142
+00:20:31,920 --> 00:20:38,560
+Roger suddenly wanted to hit 
+Diane. 'Be quiet!' he said.  
 
-264
-00:19:58,320 --> 00:20:01,200
-Diane began to cry.
+143
+00:20:40,320 --> 00:20:50,800
+'What about you? You didn't love Mother. You 
+wanted her money, too. Don't forget that!'
 
-265
-00:20:01,200 --> 00:20:06,040
-'Don't cry, Diane,' Roger said.
+144
+00:20:52,800 --> 00:21:03,600
+'It's true,' Diane said. 'Oh, I can't 
+stay in this house. I'm going out.  
 
-266
-00:20:06,040 --> 00:20:14,430
-'Let's go upstairs and tell Uncle Albert and
-Jackie.'
-
-267
-00:20:14,430 --> 00:20:15,430
-'No!
-
-268
-00:20:15,430 --> 00:20:18,340
-You tell them!
-
-269
-00:20:18,340 --> 00:20:19,880
-Nobody loved Mother.
-
-270
-00:20:19,880 --> 00:20:22,490
-You aren't sorry.
-
-271
-00:20:22,490 --> 00:20:25,100
-Look at you!
-
-272
-00:20:25,100 --> 00:20:29,470
-You want her money.
-
-273
-00:20:29,470 --> 00:20:32,389
-That's all.'
-
-274
-00:20:32,389 --> 00:20:35,649
-Roger suddenly wanted to hit Diane.
-
-275
-00:20:35,649 --> 00:20:39,580
-'Be quiet!' he said.
-
-276
-00:20:39,580 --> 00:20:41,231
-'What about you?
-
-277
-00:20:41,231 --> 00:20:46,780
-You didn't love Mother.
-
-278
-00:20:46,780 --> 00:20:49,779
-You wanted her money, too.
-
-279
-00:20:49,779 --> 00:20:53,070
-Don't forget that!'
-
-280
-00:20:53,070 --> 00:20:56,519
-'It's true,' Diane said.
-
-281
-00:20:56,519 --> 00:21:01,290
-'Oh, I can't stay in this house.
-
-282
-00:21:01,290 --> 00:21:03,690
-I'm going out.
-
-283
-00:21:03,690 --> 00:21:09,880
+145
+00:21:05,680 --> 00:21:08,240
 I'm going to the river with the dogs.'
 
-284
-00:21:09,880 --> 00:21:12,870
-'No,' Roger said.
+146
+00:21:09,680 --> 00:21:17,120
+'No,' Roger said. 'The doctor's 
+coming and I want you here.'
 
-285
-00:21:12,870 --> 00:21:18,980
-'The doctor's coming and I want you here.'
+147
+00:21:20,000 --> 00:21:30,480
+Diane said nothing. She went into the kitchen 
+and at once the dogs got up and came to her.  
 
-286
-00:21:18,980 --> 00:21:23,789
-Diane said nothing.
+148
+00:21:32,720 --> 00:21:39,440
+'Beautiful dogs! Daddy loved 
+you and Mother loved you.  
 
-287
-00:21:23,789 --> 00:21:31,399
-She went into the kitchen and at once the
-dogs got up and came to her.
+149
+00:21:41,360 --> 00:21:50,160
+Now I'm going to love you.' She opened 
+the back door and went out with the dogs.
 
-288
-00:21:31,399 --> 00:21:33,639
-'Beautiful dogs!
+150
+00:21:53,040 --> 00:21:57,840
+Roger did not move. He stood by the telephone.  
 
-289
-00:21:33,639 --> 00:21:41,510
-Daddy loved you and Mother loved you.
+151
+00:21:59,840 --> 00:22:06,000
+'It's true,' he thought. 'I 
+am happy about the money.  
 
-290
-00:21:41,510 --> 00:21:46,039
-Now I'm going to love you.'
+152
+00:22:07,920 --> 00:22:17,120
+I needed money, and now I'm rich. Things 
+are going to be easier for me now.  
 
-291
-00:21:46,039 --> 00:21:51,179
-She opened the back door and went out with
-the dogs.
+153
+00:22:19,280 --> 00:22:28,160
+But Mother... why didn't I love 
+her more? And now she's dead.'  
 
-292
-00:21:51,179 --> 00:21:55,159
-Roger did not move.
+154
+00:22:31,040 --> 00:22:39,840
+Slowly, Roger went back upstairs. He 
+wanted to dress before Dr Pratt arrived.
 
-293
-00:21:55,159 --> 00:22:00,130
-He stood by the telephone.
+155
+00:22:42,160 --> 00:22:50,000
+Dr Pratt was a little fat man without 
+much hair. He was the family doctor  
 
-294
-00:22:00,130 --> 00:22:03,000
-'It's true,' he thought.
+156
+00:22:51,200 --> 00:23:00,320
+and he knew all the Clarkson family very well. 
+He went upstairs at once and looked at Molly's  
 
-295
-00:22:03,000 --> 00:22:08,019
-'I am happy about the money.
+157
+00:23:00,320 --> 00:23:09,120
+body. He looked carefully at the cup of coffee 
+and the empty cup on the table next to her bed.
 
-296
-00:22:08,019 --> 00:22:12,820
-I needed money, and now I'm rich.
+158
+00:23:11,600 --> 00:23:19,840
+'I'm sorry, Roger,' he said. 
+'Where is Diane? She phoned me.'
 
-297
-00:22:12,820 --> 00:22:17,260
-Things are going to be easier for me now.
-
-298
-00:22:17,260 --> 00:22:18,260
-But Mother...
-
-299
-00:22:18,260 --> 00:22:19,520
-why didn't I love her more?
-
-300
-00:22:19,520 --> 00:22:29,380
-And now she's dead.'
-
-301
-00:22:29,380 --> 00:22:35,929
-Slowly, Roger went back upstairs.
-
-302
-00:22:35,929 --> 00:22:42,639
-He wanted to dress before Dr Pratt arrived.
-
-303
-00:22:42,639 --> 00:22:47,690
-Dr Pratt was a little fat man without much
-hair.
-
-304
-00:22:47,690 --> 00:22:56,630
-He was the family doctor and he knew all the
-Clarkson family very well.
-
-305
-00:22:56,630 --> 00:23:02,880
-He went upstairs at once and looked at Molly's
-body.
-
-306
-00:23:02,880 --> 00:23:10,440
-He looked carefully at the cup of coffee and
-the empty cup on the table next to her bed.
-
-307
-00:23:10,440 --> 00:23:16,000
-'I'm sorry, Roger,' he said.
-
-308
-00:23:16,000 --> 00:23:19,039
-'Where is Diane?
-
-309
-00:23:19,039 --> 00:23:20,899
-She phoned me.'
-
-310
-00:23:20,899 --> 00:23:25,790
-'She went out with the dogs,' Roger said.
-
-311
-00:23:25,790 --> 00:23:33,940
+159
+00:23:21,760 --> 00:23:31,200
+'She went out with the dogs,' Roger said. 
 'She was angry with me - angry with everyone.'
 
-312
-00:23:33,940 --> 00:23:36,180
-Dr Pratt said nothing for a minute.
+160
+00:23:33,520 --> 00:23:35,840
+Dr Pratt said nothing for a minute.  
 
-313
-00:23:36,180 --> 00:23:41,600
-'This is going to be very difficult.
-
-314
-00:23:41,600 --> 00:23:48,649
+161
+00:23:37,840 --> 00:23:45,360
+'This is going to be very difficult. 
 I'm going to phone the police, Roger.'
 
-315
-00:23:48,649 --> 00:23:49,659
-'Police!
+162
+00:23:47,120 --> 00:23:50,960
+'Police! Why? What's wrong?'
 
-316
-00:23:49,659 --> 00:23:50,669
-Why?
+163
+00:23:53,040 --> 00:24:03,840
+'I don't know. Your mother wasn't ill. I 
+saw her on Thursday and she was very well.  
 
-317
-00:23:50,669 --> 00:23:52,679
-What's wrong?'
+164
+00:24:04,400 --> 00:24:11,200
+Why did she die? I don't 
+understand. I want to find out.'
 
-318
-00:23:52,679 --> 00:23:55,710
-'I don't know.
+165
+00:24:15,040 --> 00:24:23,600
+Roger went across to the window and looked out 
+at the garden. It was a beautiful summer morning.  
 
-319
-00:23:55,710 --> 00:23:57,350
-Your mother wasn't ill.
+166
+00:24:24,800 --> 00:24:35,440
+The sky was blue and the garden was green. It 
+was all very quiet. His mother loved this garden.  
 
-320
-00:23:57,350 --> 00:24:03,860
-I saw her on Thursday and she was very well.
+167
+00:24:37,200 --> 00:24:48,720
+But Tom Briggs wanted the garden. And Roger wanted 
+the garden, too. Roger felt worse and worse.
 
-321
-00:24:03,860 --> 00:24:06,679
-Why did she die?
+168
+00:24:50,800 --> 00:24:58,000
+'Your mother took sleeping tablets,' 
+Dr Pratt said. 'Did you know?  
 
-322
-00:24:06,679 --> 00:24:10,049
-I don't understand.
-
-323
-00:24:10,049 --> 00:24:15,480
-I want to find out.'
-
-324
-00:24:15,480 --> 00:24:21,690
-Roger went across to the window and looked
-out at the garden.
-
-325
-00:24:21,690 --> 00:24:24,960
-It was a beautiful summer morning.
-
-326
-00:24:24,960 --> 00:24:30,200
-The sky was blue and the garden was green.
-
-327
-00:24:30,200 --> 00:24:32,049
-It was all very quiet.
-
-328
-00:24:32,049 --> 00:24:36,400
-His mother loved this garden.
-
-329
-00:24:36,400 --> 00:24:40,580
-But Tom Briggs wanted the garden.
-
-330
-00:24:40,580 --> 00:24:45,700
-And Roger wanted the garden, too.
-
-331
-00:24:45,700 --> 00:24:50,110
-Roger felt worse and worse.
-
-332
-00:24:50,110 --> 00:24:56,600
-'Your mother took sleeping tablets,' Dr Pratt
-said.
-
-333
-00:24:56,600 --> 00:25:00,010
-'Did you know?
-
-334
-00:25:00,010 --> 00:25:09,809
-On Thursday she had a new bottle of tablets,
+169
+00:24:59,680 --> 00:25:08,000
+On Thursday she had a new bottle of tablets, 
 but I can't find it here in her room.'
 
-335
-00:25:09,809 --> 00:25:13,419
-'I didn't know,' Roger said.
+170
+00:25:09,840 --> 00:25:20,160
+'I didn't know,' Roger said. 'Very well. Let's 
+go downstairs and you can phone the police.'
 
-336
-00:25:13,419 --> 00:25:15,679
-'Very well.
+171
+00:25:22,880 --> 00:25:31,200
+Roger went into the kitchen and made some 
+coffee. Just then Diane came in with the dogs.
 
-337
-00:25:15,679 --> 00:25:22,250
-Let's go downstairs and you can phone the
-police.'
+172
+00:25:33,280 --> 00:25:42,960
+'Roger,' she said. 'Look, I'm sorry. I 
+was angry and said some angry things.'
 
-338
-00:25:22,250 --> 00:25:28,059
-Roger went into the kitchen and made some
-coffee.
+173
+00:25:44,880 --> 00:25:55,840
+'It doesn't matter,' Roger said. 'Here you are, 
+have some coffee. Dr Pratt is phoning the police.  
 
-339
-00:25:28,059 --> 00:25:33,000
-Just then Diane came in with the dogs.
-
-340
-00:25:33,000 --> 00:25:36,400
-'Roger,' she said.
-
-341
-00:25:36,400 --> 00:25:38,799
-'Look, I'm sorry.
-
-342
-00:25:38,799 --> 00:25:45,100
-I was angry and said some angry things.'
-
-343
-00:25:45,100 --> 00:25:48,140
-'It doesn't matter,' Roger said.
-
-344
-00:25:48,140 --> 00:25:53,549
-'Here you are, have some coffee.
-
-345
-00:25:53,549 --> 00:25:56,269
-Dr Pratt is phoning the police.
-
-346
-00:25:56,269 --> 00:26:02,019
-Did you know Mother took sleeping tablets?
-
-347
-00:26:02,019 --> 00:26:08,490
+174
+00:25:57,680 --> 00:26:05,520
+Did you know Mother took sleeping tablets? 
 Well, the bottle is not in her room.'
 
-348
-00:26:08,490 --> 00:26:09,720
-'What?
+175
+00:26:07,760 --> 00:26:19,440
+'What? I don't understand.' Diane took the coffee 
+and began to drink. Her eyes looked big and dark.
 
-349
-00:26:09,720 --> 00:26:11,309
-I don't understand.'
+176
+00:26:21,920 --> 00:26:24,960
+Just then Dr Pratt came into the kitchen.  
 
-350
-00:26:11,309 --> 00:26:16,649
-Diane took the coffee and began to drink.
-
-351
-00:26:16,649 --> 00:26:21,779
-Her eyes looked big and dark.
-
-352
-00:26:21,779 --> 00:26:25,919
-Just then Dr Pratt came into the kitchen.
-
-353
-00:26:25,919 --> 00:26:31,519
-'They're coming at once,' he said.
-
-354
-00:26:31,519 --> 00:26:36,529
+177
+00:26:26,640 --> 00:26:35,200
+'They're coming at once,' he said. 
 'Diane - I'm sorry about your mother.'
 
-355
-00:26:36,529 --> 00:26:42,830
-'Dr Pratt, I want to tell you about last night.
+178
+00:26:37,760 --> 00:26:42,320
+'Dr Pratt, I want to tell you about last night.  
 
-356
-00:26:42,830 --> 00:26:48,809
-Everyone was very angry . . .' 'Be quiet!'
+179
+00:26:43,840 --> 00:26:49,600
+Everyone was very angry . . .' 
+'Be quiet!' Roger said quickly.
 
-357
-00:26:48,809 --> 00:26:50,120
-Roger said quickly.
+180
+00:26:51,200 --> 00:26:56,320
+'Diane never thinks before she opens 
+her mouth,' he thought angrily.
 
-358
-00:26:50,120 --> 00:26:59,140
-'Diane never thinks before she opens her mouth,'
-he thought angrily.
+181
+00:26:58,560 --> 00:27:09,040
+Diane did not look at Roger. 'Last night Mother 
+went to bed early because everyone . . .'
 
-359
-00:26:59,140 --> 00:27:02,750
-Diane did not look at Roger.
-
-360
-00:27:02,750 --> 00:27:09,350
-'Last night Mother went to bed early because
-everyone . . .'
-
-361
-00:27:09,350 --> 00:27:12,289
-'Don't tell me,' Dr Pratt said.
-
-362
-00:27:12,289 --> 00:27:15,700
+182
+00:27:09,040 --> 00:27:14,160
+'Don't tell me,' Dr Pratt said. 
 'You can tell the police.'
 
-363
-00:27:15,700 --> 00:27:20,370
-Roger's face went red.
+183
+00:27:16,800 --> 00:27:25,520
+Roger's face went red. Suddenly he felt afraid. 
+'The police are going to talk to everyone,  
 
-364
-00:27:20,370 --> 00:27:22,390
-Suddenly he felt afraid.
+184
+00:27:26,400 --> 00:27:36,720
+and ask questions,' he thought. 'And they're going 
+to want answers. It's going to be very difficult.'  
 
-365
-00:27:22,390 --> 00:27:29,140
-'The police are going to talk to everyone,
-and ask questions,' he thought.
-
-366
-00:27:29,140 --> 00:27:34,909
-'And they're going to want answers.
-
-367
-00:27:34,909 --> 00:27:37,600
-It's going to be very difficult.'
-
-368
-00:27:37,600 --> 00:27:43,090
+185
+00:27:39,200 --> 00:27:41,760
 He finished his coffee and stood up.
 
-369
-00:27:43,090 --> 00:27:46,659
-'I'm going upstairs,' he said.
+186
+00:27:43,440 --> 00:27:52,400
+'I'm going upstairs,' he said. 'I'm going to 
+tell Uncle Albert and Jackie about Mother...  
 
-370
-00:27:46,659 --> 00:28:12,850
-'I'm going to tell Uncle Albert and Jackie
-about Mother... and about the police.'
+187
+00:27:54,080 --> 00:28:01,840
+and about the police.'
+ 
+ 
+ 
 
-371
-00:28:12,850 --> 00:28:13,850
+188
+00:28:08,240 --> 00:28:08,960
 CHAPTER FOUR
+ 
 
-372
-00:28:13,850 --> 00:28:14,850
-The police arrived very quickly.
+189
+00:28:11,760 --> 00:28:16,800
+The police arrived very quickly. 
+There were a lot of them.  
 
-373
-00:28:14,850 --> 00:28:19,360
-There were a lot of them.
+190
+00:28:19,040 --> 00:28:29,040
+Some of them with cameras went upstairs to Molly's 
+room. Two detectives talked to Dr Pratt in the  
 
-374
-00:28:19,360 --> 00:28:25,870
-Some of them with cameras went upstairs to
-Molly's room.
+191
+00:28:29,040 --> 00:28:39,280
+kitchen. The family waited in the sitting room. 
+It was a hot day again and the windows were open.  
 
-375
-00:28:25,870 --> 00:28:29,779
-Two detectives talked to Dr Pratt in the kitchen.
+192
+00:28:41,360 --> 00:28:50,320
+The dogs sat quietly at Diane's 
+feet. Nobody talked. Jackie smoked.  
 
-376
-00:28:29,779 --> 00:28:34,659
-The family waited in the sitting room.
+193
+00:28:52,400 --> 00:29:02,160
+They waited for a long time. Suddenly the 
+door opened and the two detectives came in.
 
-377
-00:28:34,659 --> 00:28:40,309
-It was a hot day again and the windows were
-open.
+194
+00:29:04,640 --> 00:29:12,720
+'Good morning. I am Detective Inspector 
+Walsh and this is Sergeant Foster.'  
 
-378
-00:28:40,309 --> 00:28:46,950
-The dogs sat quietly at Diane's feet.
+195
+00:29:14,640 --> 00:29:25,840
+The Inspector did not smile. He was a big man 
+in an old black suit and a black hat and coat.  
 
-379
-00:28:46,950 --> 00:28:48,960
-Nobody talked.
-
-380
-00:28:48,960 --> 00:28:52,620
-Jackie smoked.
-
-381
-00:28:52,620 --> 00:28:57,100
-They waited for a long time.
-
-382
-00:28:57,100 --> 00:29:03,080
-Suddenly the door opened and the two detectives
-came in.
-
-383
-00:29:03,080 --> 00:29:05,090
-'Good morning.
-
-384
-00:29:05,090 --> 00:29:14,860
-I am Detective Inspector Walsh and this is
-Sergeant Foster.'
-
-385
-00:29:14,860 --> 00:29:18,919
-The Inspector did not smile.
-
-386
-00:29:18,919 --> 00:29:27,600
-He was a big man in an old black suit and
-a black hat and coat.
-
-387
-00:29:27,600 --> 00:29:33,610
+196
+00:29:27,360 --> 00:29:30,880
 He wore a coat because he always felt cold.
 
-388
-00:29:33,610 --> 00:29:42,460
-'Last night someone put sleeping tablets in
-Mrs Clarkson's hot milk.
+197
+00:29:33,120 --> 00:29:40,400
+'Last night someone put sleeping 
+tablets in Mrs Clarkson's hot milk.  
 
-389
-00:29:42,460 --> 00:29:50,520
-We are going to question everybody, and we
-need a room, please.'
+198
+00:29:42,240 --> 00:29:47,840
+We are going to question everybody, 
+and we need a room, please.'
 
-390
-00:29:50,520 --> 00:29:53,419
-Roger stood up.
+199
+00:29:50,080 --> 00:29:58,640
+Roger stood up. 'I'm Roger Clarkson. 
+You can have my father's old office.  
 
-391
-00:29:53,419 --> 00:29:56,490
-'I'm Roger Clarkson.
-
-392
-00:29:56,490 --> 00:29:59,440
-You can have my father's old office.
-
-393
-00:29:59,440 --> 00:30:05,909
+200
+00:30:00,160 --> 00:30:03,280
 Come with me, it's along here.'
 
-394
-00:30:05,909 --> 00:30:16,419
-The office was not a very big room, but there
-was a table and three or four chairs.
+201
+00:30:05,680 --> 00:30:08,640
+The office was not a very big room,  
 
-395
-00:30:16,419 --> 00:30:18,549
-Roger opened the window.
+202
+00:30:10,160 --> 00:30:17,520
+but there was a table and three or 
+four chairs. Roger opened the window.
 
-396
-00:30:18,549 --> 00:30:27,799
-'I would like to talk first to your uncle,
-Albert King,' Inspector Walsh said.
+203
+00:30:19,360 --> 00:30:26,800
+'I would like to talk first to your 
+uncle, Albert King,' Inspector Walsh said.  
 
-397
-00:30:27,799 --> 00:30:34,450
-He took off his hat and coat and sat down
-behind the table.
+204
+00:30:28,720 --> 00:30:33,440
+He took off his hat and coat 
+and sat down behind the table.
 
-398
-00:30:34,450 --> 00:30:41,970
+205
+00:30:35,280 --> 00:30:39,360
 'Of course,' said Roger and left the room.
 
-399
-00:30:41,970 --> 00:30:44,580
-Sergeant Foster waited by the door.
+206
+00:30:41,680 --> 00:30:51,520
+Sergeant Foster waited by the door. He was a very 
+tall young man with black hair and a nice smile.  
 
-400
-00:30:44,580 --> 00:30:53,669
-He was a very tall young man with black hair
-and a nice smile.
+207
+00:30:53,440 --> 00:30:59,920
+He was not very happy this morning because 
+he usually played tennis on Sunday mornings.  
 
-401
-00:30:53,669 --> 00:31:01,630
-He was not very happy this morning because
-he usually played tennis on Sunday mornings.
+208
+00:31:01,440 --> 00:31:05,360
+He was one of the best players 
+at the Cambridge Tennis Club.
 
-402
-00:31:01,630 --> 00:31:07,130
-He was one of the best players at the Cambridge
-Tennis Club.
-
-403
-00:31:07,130 --> 00:31:11,730
+209
+00:31:08,080 --> 00:31:10,560
 Albert came in and sat down.
 
-404
-00:31:11,730 --> 00:31:20,840
-'I'm going to ask some questions, Mr King,'
-the Inspector said, 'and Sergeant Foster is
+210
+00:31:12,640 --> 00:31:15,680
+'I'm going to ask some questions, Mr King,'  
 
-405
-00:31:20,840 --> 00:31:25,409
-going to write it all down.'
+211
+00:31:16,480 --> 00:31:23,040
+the Inspector said, 'and Sergeant 
+Foster is going to write it all down.'
 
-406
-00:31:25,409 --> 00:31:27,860
-Albert looked at his feet.
+212
+00:31:24,960 --> 00:31:33,120
+Albert looked at his feet. 'Yes, 
+yes. It's your job. I know that.'
 
-407
-00:31:27,860 --> 00:31:30,880
-'Yes, yes.
+213
+00:31:35,760 --> 00:31:45,840
+'Tell me about last night,' Inspector Walsh asked 
+quietly. 'You were angry with Mrs Clarkson.'
 
-408
-00:31:30,880 --> 00:31:32,299
-It's your job.
+214
+00:31:47,040 --> 00:31:57,040
+Albert looked at Inspector Walsh for the 
+first time. 'Yes, I was. Everyone was angry.  
 
-409
-00:31:32,299 --> 00:31:34,629
-I know that.'
+215
+00:31:58,800 --> 00:32:10,800
+Roger was angry. Diane wanted money to 
+go to America. Then there's a man called  
 
-410
-00:31:34,629 --> 00:31:42,009
-'Tell me about last night,' Inspector Walsh
-asked quietly.
+216
+00:32:10,800 --> 00:32:20,880
+Tom Briggs... He wants half the garden 
+for his farm. Molly was a rich woman.  
 
-411
-00:31:42,009 --> 00:31:47,539
-'You were angry with Mrs Clarkson.'
+217
+00:32:22,960 --> 00:32:34,320
+I need money because my wife Annie - Molly's 
+sister - is very ill. I told Molly this.'
 
-412
-00:31:47,539 --> 00:31:52,100
-Albert looked at Inspector Walsh for the first
-time.
-
-413
-00:31:52,100 --> 00:31:55,300
-'Yes, I was.
-
-414
-00:31:55,300 --> 00:31:59,249
-Everyone was angry.
-
-415
-00:31:59,249 --> 00:32:01,720
-Roger was angry.
-
-416
-00:32:01,720 --> 00:32:08,130
-Diane wanted money to go to America.
-
-417
-00:32:08,130 --> 00:32:13,659
-Then there's a man called Tom Briggs...
-
-418
-00:32:13,659 --> 00:32:18,940
-He wants half the garden for his farm.
-
-419
-00:32:18,940 --> 00:32:23,019
-Molly was a rich woman.
-
-420
-00:32:23,019 --> 00:32:32,889
-I need money because my wife Annie - Molly's
-sister - is very ill.
-
-421
-00:32:32,889 --> 00:32:35,549
-I told Molly this.'
-
-422
-00:32:35,549 --> 00:32:39,509
+218
+00:32:36,400 --> 00:32:37,680
 'What happened next?'
 
-423
-00:32:39,509 --> 00:32:47,159
-'Well, Molly was angry with everyone and went
-upstairs.
+219
+00:32:39,360 --> 00:32:44,800
+'Well, Molly was angry with 
+everyone and went upstairs.  
 
-424
-00:32:47,159 --> 00:32:51,529
-We went into the kitchen for coffee.
+220
+00:32:46,960 --> 00:32:57,040
+We went into the kitchen for coffee. Jackie wanted 
+everyone to go up and say good night to Molly.  
 
-425
-00:32:51,529 --> 00:32:59,129
-Jackie wanted everyone to go up and say good
-night to Molly.
+221
+00:32:58,880 --> 00:33:04,880
+She lives here with Molly so 
+she wanted Molly to be happy.  
 
-426
-00:32:59,129 --> 00:33:06,919
-She lives here with Molly so she wanted Molly
-to be happy.
+222
+00:33:06,640 --> 00:33:14,960
+At first Roger said no. He was angry 
+and didn't want to see his mother.'
 
-427
-00:33:06,919 --> 00:33:10,080
-At first Roger said no.
-
-428
-00:33:10,080 --> 00:33:15,879
-He was angry and didn't want to see his mother.'
-
-429
-00:33:15,879 --> 00:33:20,000
+223
+00:33:16,080 --> 00:33:19,120
 'And did you see Molly in her room?'
 
-430
-00:33:20,000 --> 00:33:21,000
-'Yes.
+224
+00:33:20,560 --> 00:33:26,560
+'Yes. I was tired and I went upstairs first.  
 
-431
-00:33:21,000 --> 00:33:28,669
-I was tired and I went upstairs first.
+225
+00:33:28,560 --> 00:33:34,000
+I went to Molly's room and 
+asked her for money again.  
 
-432
-00:33:28,669 --> 00:33:34,929
-I went to Molly's room and asked her for money
-again.
-
-433
-00:33:34,929 --> 00:33:43,510
-But no - there was no money for her sister.'
-
-434
-00:33:43,510 --> 00:33:48,760
+226
+00:33:35,920 --> 00:33:47,200
+But no - there was no money for her sister.' 
 Albert stopped and put his hand over his eyes.
 
-435
-00:33:48,760 --> 00:33:53,490
-Inspector Walsh watched Albert for a minute.
-
-436
-00:33:53,490 --> 00:34:00,110
+227
+00:33:49,920 --> 00:33:58,480
+Inspector Walsh watched Albert for a minute. 
 'Did you hear noises after you went to bed?'
 
-437
-00:34:00,110 --> 00:34:07,490
-'Everyone went into Molly's room to say good
-night, I think.
+228
+00:34:00,720 --> 00:34:07,200
+'Everyone went into Molly's room 
+to say good night, I think. Later,  
 
-438
-00:34:07,490 --> 00:34:11,190
-Later, I heard someone...
+229
+00:34:08,160 --> 00:34:19,840
+I heard someone... He - or she - went 
+downstairs. That was about midnight.'
 
-439
-00:34:11,190 --> 00:34:15,190
-He - or she - went downstairs.
+230
+00:34:20,800 --> 00:34:28,400
+'Very well, Mr King. Thank you, you 
+can go now.' Albert left the room.
 
-440
-00:34:15,190 --> 00:34:18,849
-That was about midnight.'
-
-441
-00:34:18,849 --> 00:34:22,510
-'Very well, Mr King.
-
-442
-00:34:22,510 --> 00:34:27,720
-Thank you, you can go now.'
-
-443
-00:34:27,720 --> 00:34:29,619
-Albert left the room.
-
-444
-00:34:29,619 --> 00:34:34,540
+231
+00:34:30,240 --> 00:34:33,840
 Inspector Walsh put his hands behind his head.
 
-445
-00:34:34,540 --> 00:34:37,880
-'What time is it?
+232
+00:34:35,680 --> 00:34:44,560
+'What time is it? I'm hungry. We're 
+learning a lot, but I need some coffee.'
 
-446
-00:34:37,880 --> 00:34:39,550
-I'm hungry.
-
-447
-00:34:39,550 --> 00:34:45,330
-We're learning a lot, but I need some coffee.'
-
-448
-00:34:45,330 --> 00:34:49,919
-'Shall I go to the kitchen?'
-
-449
-00:34:49,919 --> 00:34:51,970
+233
+00:34:46,800 --> 00:34:51,040
+'Shall I go to the kitchen?' 
 Sergeant Foster asked.
 
-450
-00:34:51,970 --> 00:34:54,690
-'Oh, no.
+234
+00:34:52,320 --> 00:34:58,720
+'Oh, no. Later. Let's see Jackie Clarkson next.'
 
-451
-00:34:54,690 --> 00:34:56,060
-Later.
+235
+00:35:01,200 --> 00:35:08,720
+Jackie came in and sat down. She looked 
+down at her hands and said nothing.
 
-452
-00:34:56,060 --> 00:35:01,579
-Let's see Jackie Clarkson next.'
+236
+00:35:11,680 --> 00:35:18,320
+'We found the empty bottle of your 
+mother's sleeping tablets in Diane's room,'  
 
-453
-00:35:01,579 --> 00:35:05,349
-Jackie came in and sat down.
+237
+00:35:19,360 --> 00:35:27,840
+the Inspector said suddenly. Then he 
+waited. Jackie's face did not change  
 
-454
-00:35:05,349 --> 00:35:09,310
-She looked down at her hands and said nothing.
+238
+00:35:29,200 --> 00:35:38,240
+and she said nothing. 'Tell me, did your mother 
+get her tablets from the shop in the village?'
 
-455
-00:35:09,310 --> 00:35:20,180
-'We found the empty bottle of your mother's
-sleeping tablets in Diane's room,' the Inspector
+239
+00:35:40,640 --> 00:35:49,840
+'Yes. My mother usually took a sleeping tablet 
+every night so she needed a lot of tablets.  
 
-456
-00:35:20,180 --> 00:35:22,040
-said suddenly.
+240
+00:35:51,600 --> 00:35:57,840
+Sometimes she got them from 
+the shop, sometimes I did.  
 
-457
-00:35:22,040 --> 00:35:26,309
-Then he waited.
+241
+00:35:59,600 --> 00:36:08,800
+On Thursday, I asked Peter Hobbs to get 
+them. He lives in the house across the road,  
 
-458
-00:35:26,309 --> 00:35:31,270
-Jackie's face did not change and she said
-nothing.
+242
+00:36:10,400 --> 00:36:13,840
+and he often goes to the village on his bicycle.'
 
-459
-00:35:31,270 --> 00:35:40,470
-'Tell me, did your mother get her tablets
-from the shop in the village?'
+243
+00:36:15,360 --> 00:36:28,080
+'I see. Your mother wanted to stay in this 
+house. How about you? Did you want to move?'
 
-460
-00:35:40,470 --> 00:35:43,020
-'Yes.
+244
+00:36:30,560 --> 00:36:35,520
+Jackie looked up for a minute 
+and then down at her hands again.  
 
-461
-00:35:43,020 --> 00:35:52,420
-My mother usually took a sleeping tablet every
-night so she needed a lot of tablets.
+245
+00:36:37,520 --> 00:36:45,040
+'This is Mother's house. I loved 
+my mother. She was good to me.'
 
-462
-00:35:52,420 --> 00:35:59,860
-Sometimes she got them from the shop, sometimes
-I did.
+246
+00:36:47,440 --> 00:36:51,120
+'Did you see your mother in her room last night?'
 
-463
-00:35:59,860 --> 00:36:06,470
-On Thursday, I asked Peter Hobbs to get them.
+247
+00:36:52,640 --> 00:37:00,800
+'Yes, everyone did. Diane made 
+hot milk and took it to Mother.  
 
-464
-00:36:06,470 --> 00:36:13,890
-He lives in the house across the road, and
-he often goes to the village on his bicycle.'
+248
+00:37:02,640 --> 00:37:07,840
+She usually drank a cup of 
+hot milk before she slept.'
 
-465
-00:36:13,890 --> 00:36:19,130
-'I see.
+249
+00:37:09,120 --> 00:37:19,040
+Inspector Walsh put his hands behind his head. 
+Jackie was very quiet. 'What did your mother say?'
 
-466
-00:36:19,130 --> 00:36:23,829
-Your mother wanted to stay in this house.
+250
+00:37:21,520 --> 00:37:27,600
+Jackie opened her bag and looked 
+for a cigarette. 'Can I smoke?'
 
-467
-00:36:23,829 --> 00:36:26,859
-How about you?
+251
+00:37:29,280 --> 00:37:37,520
+'Of course. This is your house,' 
+Inspector Walsh said. He watched Jackie.  
 
-468
-00:36:26,859 --> 00:36:29,410
-Did you want to move?'
-
-469
-00:36:29,410 --> 00:36:36,859
-Jackie looked up for a minute and then down
-at her hands again.
-
-470
-00:36:36,859 --> 00:36:41,220
-'This is Mother's house.
-
-471
-00:36:41,220 --> 00:36:44,030
-I loved my mother.
-
-472
-00:36:44,030 --> 00:36:46,359
-She was good to me.'
-
-473
-00:36:46,359 --> 00:36:54,050
-'Did you see your mother in her room last
-night?'
-
-474
-00:36:54,050 --> 00:36:57,540
-'Yes, everyone did.
-
-475
-00:36:57,540 --> 00:37:02,920
-Diane made hot milk and took it to Mother.
-
-476
-00:37:02,920 --> 00:37:09,790
-She usually drank a cup of hot milk before
-she slept.'
-
-477
-00:37:09,790 --> 00:37:13,470
-Inspector Walsh put his hands behind his head.
-
-478
-00:37:13,470 --> 00:37:16,470
-Jackie was very quiet.
-
-479
-00:37:16,470 --> 00:37:21,970
-'What did your mother say?'
-
-480
-00:37:21,970 --> 00:37:25,790
-Jackie opened her bag and looked for a cigarette.
-
-481
-00:37:25,790 --> 00:37:28,880
-'Can I smoke?'
-
-482
-00:37:28,880 --> 00:37:30,940
-'Of course.
-
-483
-00:37:30,940 --> 00:37:36,500
-This is your house,' Inspector Walsh said.
-
-484
-00:37:36,500 --> 00:37:38,750
-He watched Jackie.
-
-485
-00:37:38,750 --> 00:37:45,819
+252
+00:37:39,920 --> 00:37:43,920
 'What did your mother say?' he asked again.
 
-486
-00:37:45,819 --> 00:37:51,369
-'She wanted to go downstairs again.
+253
+00:37:46,720 --> 00:37:56,720
+'She wanted to go downstairs again. She remembered 
+the dogs - she wanted to get some dinner for them.  
 
-487
-00:37:51,369 --> 00:37:57,550
-She remembered the dogs - she wanted to get
-some dinner for them.
-
-488
-00:37:57,550 --> 00:38:03,810
+254
+00:37:58,480 --> 00:38:03,840
 I went to my room and she went downstairs.'
 
-489
-00:38:03,810 --> 00:38:07,910
+255
+00:38:05,040 --> 00:38:06,640
 'What time was this?'
 
-490
-00:38:07,910 --> 00:38:12,120
-'I don't remember.
+256
+00:38:08,480 --> 00:38:13,840
+'I don't remember. About midnight, I think.'
 
-491
-00:38:12,120 --> 00:38:16,250
-About midnight, I think.'
-
-492
-00:38:16,250 --> 00:38:18,540
+257
+00:38:15,920 --> 00:38:17,840
 'And the cup of hot milk?'
 
-493
-00:38:18,540 --> 00:38:24,800
+258
+00:38:19,360 --> 00:38:22,080
 'It was on the table by her bed.'
 
-494
-00:38:24,800 --> 00:38:27,330
+259
+00:38:24,880 --> 00:38:27,360
 'Did you need your mother's money?'
 
-495
-00:38:27,330 --> 00:38:28,330
-'No, Inspector.
+260
+00:38:29,360 --> 00:38:33,600
+'No, Inspector. Money is not important to me.  
 
-496
-00:38:28,330 --> 00:38:34,400
-Money is not important to me.
+261
+00:38:35,360 --> 00:38:39,920
+There are more important 
+things,' Jackie said quietly.
 
-497
-00:38:34,400 --> 00:38:41,590
-There are more important things,' Jackie said
-quietly.
+262
+00:38:41,760 --> 00:38:54,160
+'Well, your uncle Albert wanted money. Tom 
+Briggs wanted the garden. You wanted nothing?'
 
-498
-00:38:41,590 --> 00:38:48,000
-'Well, your uncle Albert wanted money.
+263
+00:38:57,200 --> 00:39:04,160
+Jackie finished her cigarette and looked up at 
+the Inspector. Her eyes were suddenly angry.  
 
-499
-00:38:48,000 --> 00:38:52,270
-Tom Briggs wanted the garden.
+264
+00:39:06,080 --> 00:39:15,120
+'Don't forget Peter Hobbs. He lost his job because 
+of my mother. He wanted to kill her, you know.  
 
-500
-00:38:52,270 --> 00:38:57,640
-You wanted nothing?'
+265
+00:39:17,040 --> 00:39:22,960
+And what about Diane? You found 
+the empty bottle in her bag.'
 
-501
-00:38:57,640 --> 00:39:02,400
-Jackie finished her cigarette and looked up
-at the Inspector.
+266
+00:39:25,440 --> 00:39:32,960
+Inspector Walsh listened carefully. 'We're 
+going to question everyone, Miss Clarkson.'
 
-502
-00:39:02,400 --> 00:39:04,820
-Her eyes were suddenly angry.
+267
+00:39:35,280 --> 00:39:42,400
+Jackie said nothing for a minute. 'Would you 
+like some sandwiches and coffee, Inspector?'
 
-503
-00:39:04,820 --> 00:39:09,290
-'Don't forget Peter Hobbs.
-
-504
-00:39:09,290 --> 00:39:13,310
-He lost his job because of my mother.
-
-505
-00:39:13,310 --> 00:39:16,069
-He wanted to kill her, you know.
-
-506
-00:39:16,069 --> 00:39:20,440
-And what about Diane?
-
-507
-00:39:20,440 --> 00:39:26,109
-You found the empty bottle in her bag.'
-
-508
-00:39:26,109 --> 00:39:28,890
-Inspector Walsh listened carefully.
-
-509
-00:39:28,890 --> 00:39:35,680
-'We're going to question everyone, Miss Clarkson.'
-
-510
-00:39:35,680 --> 00:39:37,500
-Jackie said nothing for a minute.
-
-511
-00:39:37,500 --> 00:39:43,490
-'Would you like some sandwiches and coffee,
-Inspector?'
-
-512
-00:39:43,490 --> 00:39:44,660
-'Ah!
-
-513
-00:39:44,660 --> 00:39:47,000
-Yes, please!'
-
-514
-00:39:47,000 --> 00:39:48,109
-Inspector Walsh said warmly.
-
-515
-00:39:48,109 --> 00:39:54,470
+268
+00:39:43,440 --> 00:39:55,840
+'Ah! Yes, please!' Inspector Walsh said warmly. 
 'I would like sandwiches and coffee very much.'
 
-516
-00:39:54,470 --> 00:39:59,660
-Jackie left the room.
+269
+00:39:55,840 --> 00:40:05,920
+Jackie left the room. Inspector Walsh thought 
+about her. Why was she suddenly angry?  
 
-517
-00:39:59,660 --> 00:40:02,630
-Inspector Walsh thought about her.
-
-518
-00:40:02,630 --> 00:40:08,490
-Why was she suddenly angry?
-
-519
-00:40:08,490 --> 00:40:22,540
+270
+00:40:08,240 --> 00:40:10,160
 The room was quiet.
+ 
+ 
+ 
 
-520
-00:40:22,540 --> 00:40:26,660
+271
+00:40:22,400 --> 00:40:23,840
 CHAPTER FIVE
+ 
 
-521
-00:40:26,660 --> 00:40:36,559
-After the coffee and sandwiches, Inspector
-Walsh called Roger Clarkson to the office.
+272
+00:40:26,160 --> 00:40:37,120
+After the coffee and sandwiches, Inspector Walsh 
+called Roger Clarkson to the office. Roger came in  
 
-522
-00:40:36,559 --> 00:40:39,300
-Roger came in and sat down.
+273
+00:40:37,680 --> 00:40:42,400
+and sat down. The Inspector began at once.
 
-523
-00:40:39,300 --> 00:40:44,619
-The Inspector began at once.
+274
+00:40:44,480 --> 00:40:51,840
+'Now, Mr Clarkson. Why was your 
+mother angry with you last night?'
 
-524
-00:40:44,619 --> 00:40:48,490
-'Now, Mr Clarkson.
+275
+00:40:53,680 --> 00:41:04,080
+'This house is very big,' Roger said. 'It was 
+a lot of work for Mother. I wanted her to move.  
 
-525
-00:40:48,490 --> 00:40:52,960
-Why was your mother angry with you last night?'
+276
+00:41:05,360 --> 00:41:12,080
+But no, she loved this house and 
+garden. She didn't want to move.'
 
-526
-00:40:52,960 --> 00:40:58,119
-'This house is very big,' Roger said.
+277
+00:41:14,960 --> 00:41:26,240
+'Tell me about your job, Mr Clarkson. Your mother 
+is dead and now you're rich. Do you need money?'
 
-527
-00:40:58,119 --> 00:41:02,530
-'It was a lot of work for Mother.
+278
+00:41:28,400 --> 00:41:37,440
+Roger's face was suddenly afraid. 'What 
+are you saying? I didn't kill my mother.  
 
-528
-00:41:02,530 --> 00:41:05,230
-I wanted her to move.
+279
+00:41:39,360 --> 00:41:49,360
+I need money, that's true. A friend and I 
+want to build ten houses here, in this garden.  
 
-529
-00:41:05,230 --> 00:41:10,130
-But no, she loved this house and garden.
+280
+00:41:51,280 --> 00:41:59,120
+We can get a lot of money for them. 
+So I wanted Mother to sell this house.  
 
-530
-00:41:10,130 --> 00:41:13,700
-She didn't want to move.'
+281
+00:42:00,160 --> 00:42:08,640
+It's true. But Mr Briggs wanted half the 
+garden, too, you know, for his farm.'
 
-531
-00:41:13,700 --> 00:41:20,119
-'Tell me about your job, Mr Clarkson.
+282
+00:42:10,160 --> 00:42:13,680
+Inspector Walsh moved a pencil on the table.  
 
-532
-00:41:20,119 --> 00:41:24,580
-Your mother is dead and now you're rich.
-
-533
-00:41:24,580 --> 00:41:28,809
-Do you need money?'
-
-534
-00:41:28,809 --> 00:41:33,990
-Roger's face was suddenly afraid.
-
-535
-00:41:33,990 --> 00:41:35,839
-'What are you saying?
-
-536
-00:41:35,839 --> 00:41:39,490
-I didn't kill my mother.
-
-537
-00:41:39,490 --> 00:41:42,559
-I need money, that's true.
-
-538
-00:41:42,559 --> 00:41:51,460
-A friend and I want to build ten houses here,
-in this garden.
-
-539
-00:41:51,460 --> 00:41:55,059
-We can get a lot of money for them.
-
-540
-00:41:55,059 --> 00:42:01,180
-So I wanted Mother to sell this house.
-
-541
-00:42:01,180 --> 00:42:03,030
-It's true.
-
-542
-00:42:03,030 --> 00:42:10,849
-But Mr Briggs wanted half the garden, too,
-you know, for his farm.'
-
-543
-00:42:10,849 --> 00:42:14,589
-Inspector Walsh moved a pencil on the table.
-
-544
-00:42:14,589 --> 00:42:21,040
-'Tell me, what happened upstairs?
-
-545
-00:42:21,040 --> 00:42:23,790
+283
+00:42:15,360 --> 00:42:22,720
+'Tell me, what happened upstairs? 
 You went to your mother's room?'
 
-546
-00:42:23,790 --> 00:42:28,089
-'Yes, I did.
+284
+00:42:24,960 --> 00:42:30,960
+'Yes, I did. I wanted to 
+say goodnight to my mother.'
 
-547
-00:42:28,089 --> 00:42:33,560
-I wanted to say goodnight to my mother.'
-
-548
-00:42:33,560 --> 00:42:36,170
+285
+00:42:33,280 --> 00:42:35,520
 'Did you talk about the house again?'
 
-549
-00:42:36,170 --> 00:42:39,410
-'Yes, I did.
+286
+00:42:37,360 --> 00:42:45,840
+'Yes, I did. Again, she said no. She loved 
+the house and didn't want to sell it.'
 
-550
-00:42:39,410 --> 00:42:42,790
-Again, she said no.
+287
+00:42:48,560 --> 00:42:51,120
+Inspector Walsh watched Roger for a minute.  
 
-551
-00:42:42,790 --> 00:42:49,150
-She loved the house and didn't want to sell
-it.'
+288
+00:42:53,280 --> 00:43:02,880
+'I see. We found the empty bottle of sleeping 
+tablets, Mr Clarkson, in Diane's room.'
 
-552
-00:42:49,150 --> 00:42:52,089
-Inspector Walsh watched Roger for a minute.
+289
+00:43:04,880 --> 00:43:06,560
+Roger's face did not change.  
 
-553
-00:42:52,089 --> 00:42:54,549
-'I see.
+290
+00:43:08,480 --> 00:43:21,040
+'Oh? Someone put them there. Diane did not kill 
+my mother, I know that. She found the body.'
 
-554
-00:42:54,549 --> 00:43:05,250
-We found the empty bottle of sleeping tablets,
-Mr Clarkson, in Diane's room.'
+291
+00:43:23,200 --> 00:43:27,920
+'Very well. I would like to see Diane next.'
 
-555
-00:43:05,250 --> 00:43:08,660
-Roger's face did not change.
-
-556
-00:43:08,660 --> 00:43:11,170
-'Oh?
-
-557
-00:43:11,170 --> 00:43:13,380
-Someone put them there.
-
-558
-00:43:13,380 --> 00:43:18,990
-Diane did not kill my mother, I know that.
-
-559
-00:43:18,990 --> 00:43:23,350
-She found the body.'
-
-560
-00:43:23,350 --> 00:43:25,540
-'Very well.
-
-561
-00:43:25,540 --> 00:43:29,290
-I would like to see Diane next.'
-
-562
-00:43:29,290 --> 00:43:35,690
+292
+00:43:30,480 --> 00:43:32,640
 Roger got up and left the room.
 
-563
-00:43:35,690 --> 00:43:41,490
-Inspector Walsh stood up and put his hands
-in his pockets.
+293
+00:43:35,040 --> 00:43:39,840
+Inspector Walsh stood up and 
+put his hands in his pockets.  
 
-564
-00:43:41,490 --> 00:43:47,099
-He went to the window and looked out at the
-trees.
+294
+00:43:41,280 --> 00:43:44,720
+He went to the window and looked out at the trees.  
 
-565
-00:43:47,099 --> 00:43:51,339
-Why was Roger Clarkson afraid?
+295
+00:43:46,880 --> 00:43:56,000
+Why was Roger Clarkson afraid? Was it 
+important? He looked at Sergeant Foster.
 
-566
-00:43:51,339 --> 00:43:54,530
-Was it important?
+296
+00:43:57,840 --> 00:44:05,120
+'Tomorrow morning, go to Mr Clarkson's 
+office - you have the name,' he said.
 
-567
-00:43:54,530 --> 00:43:57,000
-He looked at Sergeant Foster.
+297
+00:44:06,240 --> 00:44:13,040
+'Ask some questions about him, 
+about his job, friends, money.'
 
-568
-00:43:57,000 --> 00:44:06,660
-'Tomorrow morning, go to Mr Clarkson's office
-- you have the name,' he said.
+298
+00:44:15,520 --> 00:44:20,080
+Sergeant Foster wrote it down. 'Yes, Inspector.'
 
-569
-00:44:06,660 --> 00:44:15,799
-'Ask some questions about him, about his job,
-friends, money.'
-
-570
-00:44:15,799 --> 00:44:18,270
-Sergeant Foster wrote it down.
-
-571
-00:44:18,270 --> 00:44:20,930
-'Yes, Inspector.'
-
-572
-00:44:20,930 --> 00:44:25,770
+299
+00:44:21,840 --> 00:44:23,920
 'A good day for tennis, Sergeant?'
 
-573
-00:44:25,770 --> 00:44:27,570
-Sergeant Foster laughed.
+300
+00:44:25,440 --> 00:44:32,000
+Sergeant Foster laughed. 'Don't 
+say that. It's not easy, you know.  
 
-574
-00:44:27,570 --> 00:44:30,869
-'Don't say that.
-
-575
-00:44:30,869 --> 00:44:33,589
-It's not easy, you know.
-
-576
-00:44:33,589 --> 00:44:40,270
+301
+00:44:33,520 --> 00:44:36,320
 I don't like sitting here looking at the sun.'
 
-577
-00:44:40,270 --> 00:44:44,770
-Diane came into the room and sat down.
+302
+00:44:39,840 --> 00:44:47,280
+Diane came into the room and sat down. 
+She looked at Sergeant Foster and smiled.  
 
-578
-00:44:44,770 --> 00:44:47,819
-She looked at Sergeant Foster and smiled.
+303
+00:44:49,360 --> 00:44:55,440
+'I saw you at the Tennis Club last 
+month, I think. You play very well.'
 
-579
-00:44:47,819 --> 00:44:54,520
-'I saw you at the Tennis Club last month,
-I think.
+304
+00:44:57,840 --> 00:44:59,920
+Sergeant Foster's face went red.  
 
-580
-00:44:54,520 --> 00:44:58,150
-You play very well.'
+305
+00:45:01,520 --> 00:45:10,560
+Inspector Walsh looked at him. 'Oh yes. A 
+fast and exciting player is Sergeant Foster.'
 
-581
-00:44:58,150 --> 00:45:00,990
-Sergeant Foster's face went red.
+306
+00:45:12,640 --> 00:45:17,840
+Diane smiled again at Sergeant 
+Foster and his face went redder.
 
-582
-00:45:00,990 --> 00:45:04,170
-Inspector Walsh looked at him.
+307
+00:45:19,120 --> 00:45:27,280
+'Well, Miss Clarkson,' Inspector Walsh 
+said, 'I want you to talk about last night.'
 
-583
-00:45:04,170 --> 00:45:05,960
-'Oh yes.
+308
+00:45:29,200 --> 00:45:39,600
+Diane stopped smiling. 'Oh, I can talk about 
+last night. I can't stop talking about it.  
 
-584
-00:45:05,960 --> 00:45:11,310
-A fast and exciting player is Sergeant Foster.'
+309
+00:45:41,040 --> 00:45:49,520
+We were all angry. Mother went to bed 
+early and I made hot milk for her.  
 
-585
-00:45:11,310 --> 00:45:18,510
-Diane smiled again at Sergeant Foster and
-his face went redder.
+310
+00:45:51,680 --> 00:45:56,080
+We were all in the kitchen, 
+and Peter Hobbs came in.  
 
-586
-00:45:18,510 --> 00:45:28,559
-'Well, Miss Clarkson,' Inspector Walsh said,
-'I want you to talk about last night.'
+311
+00:45:57,840 --> 00:46:03,040
+He nearly broke the back 
+door down.' Diane stopped.
 
-587
-00:45:28,559 --> 00:45:31,490
-Diane stopped smiling.
-
-588
-00:45:31,490 --> 00:45:37,160
-'Oh, I can talk about last night.
-
-589
-00:45:37,160 --> 00:45:41,270
-I can't stop talking about it.
-
-590
-00:45:41,270 --> 00:45:43,630
-We were all angry.
-
-591
-00:45:43,630 --> 00:45:51,880
-Mother went to bed early and I made hot milk
-for her.
-
-592
-00:45:51,880 --> 00:45:58,060
-We were all in the kitchen, and Peter Hobbs
-came in.
-
-593
-00:45:58,060 --> 00:46:01,380
-He nearly broke the back door down.'
-
-594
-00:46:01,380 --> 00:46:04,339
-Diane stopped.
-
-595
-00:46:04,339 --> 00:46:05,819
+312
+00:46:04,480 --> 00:46:04,880
 'Yes?'
 
-596
-00:46:05,819 --> 00:46:11,240
-'He was very angry about a letter.
+313
+00:46:06,880 --> 00:46:16,320
+'He was very angry about a letter. He wanted 
+to kill Mother. Are you going to talk to him?'
 
-597
-00:46:11,240 --> 00:46:14,730
-He wanted to kill Mother.
-
-598
-00:46:14,730 --> 00:46:17,119
-Are you going to talk to him?'
-
-599
-00:46:17,119 --> 00:46:20,920
+314
+00:46:17,600 --> 00:46:19,760
 'We're going to talk to everyone.'
 
-600
-00:46:20,920 --> 00:46:22,599
-'Good.
+315
+00:46:21,200 --> 00:46:29,360
+'Good. Tom Briggs came into the kitchen, 
+too. Are you going to talk to him?'
 
-601
-00:46:22,599 --> 00:46:28,190
-Tom Briggs came into the kitchen, too.
-
-602
-00:46:28,190 --> 00:46:31,220
-Are you going to talk to him?'
-
-603
-00:46:31,220 --> 00:46:35,560
-'I'm asking the questions, Miss Clarkson.
-
-604
-00:46:35,560 --> 00:46:38,890
+316
+00:46:31,200 --> 00:46:38,480
+'I'm asking the questions, Miss Clarkson. 
 When did you take the milk upstairs?'
 
-605
-00:46:38,890 --> 00:46:43,859
-'I went up after Roger.'
+317
+00:46:40,320 --> 00:46:47,760
+'I went up after Roger.' She stopped 
+for a minute. Then she began again.  
 
-606
-00:46:43,859 --> 00:46:46,740
-She stopped for a minute.
+318
+00:46:50,080 --> 00:46:56,880
+'I didn't like my mother, Inspector. 
+She killed my father, you know.  
 
-607
-00:46:46,740 --> 00:46:49,350
-Then she began again.
+319
+00:46:58,720 --> 00:47:09,840
+Last winter, after Christmas, she drove 
+the car into a tree and killed my father.'
 
-608
-00:46:49,350 --> 00:46:55,049
-'I didn't like my mother, Inspector.
+320
+00:47:10,720 --> 00:47:21,280
+Inspector Walsh watched Diane's face carefully. 
+'I see. So you wanted to kill your mother?'
 
-609
-00:46:55,049 --> 00:46:59,130
-She killed my father, you know.
+321
+00:47:23,040 --> 00:47:29,360
+Diane laughed. 'I wanted 
+to kill her, but I didn't.  
 
-610
-00:46:59,130 --> 00:47:11,390
-Last winter, after Christmas, she drove the
-car into a tree and killed my father.'
+322
+00:47:31,280 --> 00:47:39,840
+I can tell you a lot of things about this 
+family, Inspector. Everyone wanted Mother to die.  
 
-611
-00:47:11,390 --> 00:47:15,490
-Inspector Walsh watched Diane's face carefully.
+323
+00:47:41,600 --> 00:47:48,800
+Uncle Albert wanted her money for 
+his wife, Annie. And then my brother.
 
-612
-00:47:15,490 --> 00:47:17,950
-'I see.
+324
+00:47:49,920 --> 00:48:00,640
+He needs a lot of money. He has an expensive 
+house and an expensive car. And think of Jackie.  
 
-613
-00:47:17,950 --> 00:47:23,430
-So you wanted to kill your mother?'
+325
+00:48:02,800 --> 00:48:05,840
+Do you know that Jackie didn't like Mother?  
 
-614
-00:47:23,430 --> 00:47:25,130
-Diane laughed.
+326
+00:48:07,360 --> 00:48:17,120
+A long time ago, a nice boy worked here. He 
+was the gardener. Jackie loved him very much,  
 
-615
-00:47:25,130 --> 00:47:30,390
-'I wanted to kill her, but I didn't.
+327
+00:48:18,560 --> 00:48:26,320
+but Mother said no. A gardener was not 
+a good husband for a Clarkson girl!'
 
-616
-00:47:30,390 --> 00:47:38,059
-I can tell you a lot of things about this
-family, Inspector.
+328
+00:48:28,800 --> 00:48:40,720
+Inspector Walsh listened quietly. All this was 
+very interesting but was it important? Perhaps.  
 
-617
-00:47:38,059 --> 00:47:42,039
-Everyone wanted Mother to die.
-
-618
-00:47:42,039 --> 00:47:46,610
-Uncle Albert wanted her money for his wife,
-Annie.
-
-619
-00:47:46,610 --> 00:47:50,119
-And then my brother.
-
-620
-00:47:50,119 --> 00:47:51,789
-He needs a lot of money.
-
-621
-00:47:51,789 --> 00:47:58,920
-He has an expensive house and an expensive
-car.
-
-622
-00:47:58,920 --> 00:48:01,640
-And think of Jackie.
-
-623
-00:48:01,640 --> 00:48:07,500
-Do you know that Jackie didn't like Mother?
-
-624
-00:48:07,500 --> 00:48:12,829
-A long time ago, a nice boy worked here.
-
-625
-00:48:12,829 --> 00:48:15,789
-He was the gardener.
-
-626
-00:48:15,789 --> 00:48:20,950
-Jackie loved him very much, but Mother said
-no.
-
-627
-00:48:20,950 --> 00:48:29,420
-A gardener was not a good husband for a Clarkson
-girl!'
-
-628
-00:48:29,420 --> 00:48:33,450
-Inspector Walsh listened quietly.
-
-629
-00:48:33,450 --> 00:48:38,349
-All this was very interesting but was it important?
-
-630
-00:48:38,349 --> 00:48:39,420
-Perhaps.
-
-631
-00:48:39,420 --> 00:48:46,900
+329
+00:48:43,120 --> 00:48:47,840
 What a happy family the Clarksons were!
 
-632
-00:48:46,900 --> 00:49:00,650
-'We found the empty bottle of sleeping tablets
-in your room,' Inspector Walsh said quietly.
+330
+00:48:49,920 --> 00:48:58,480
+'We found the empty bottle of sleeping tablets 
+in your room,' Inspector Walsh said quietly.  
 
-633
-00:49:00,650 --> 00:49:03,289
+331
+00:49:00,400 --> 00:49:02,240
 He watched her face carefully.
 
-634
-00:49:03,289 --> 00:49:10,829
-Diane stood up suddenly, her face angry.
+332
+00:49:04,320 --> 00:49:10,160
+Diane stood up suddenly, her face angry. 'What?  
 
-635
-00:49:10,829 --> 00:49:11,990
-'What?
+333
+00:49:11,840 --> 00:49:21,120
+I didn't put it there! I'm not going to 
+listen to this!' She ran out of the room.
 
-636
-00:49:11,990 --> 00:49:14,559
-I didn't put it there!
+334
+00:49:23,440 --> 00:49:33,680
+'Well, well, well,' Inspector Walsh said. 'She 
+likes you, Sergeant. You need to be careful.'
 
-637
-00:49:14,559 --> 00:49:19,930
-I'm not going to listen to this!'
+335
+00:49:36,400 --> 00:49:44,000
+Sergeant Foster laughed but 
+his face went red again.
 
-638
-00:49:19,930 --> 00:49:22,410
-She ran out of the room.
+336
+00:49:44,000 --> 00:49:53,600
+'Someone put sleeping tablets in Molly's hot 
+milk,' the Inspector said. 'All the family were  
 
-639
-00:49:22,410 --> 00:49:28,920
-'Well, well, well,' Inspector Walsh said.
+337
+00:49:53,600 --> 00:50:06,480
+in the kitchen last night. Peter Hobbs and Tom 
+Briggs were there, too. One of them killed Molly.'
 
-640
-00:49:28,920 --> 00:49:32,700
-'She likes you, Sergeant.
+338
+00:50:10,000 --> 00:50:20,240
+Inspector Walsh got his hat and coat. 'Come on. 
+We need to talk to Peter Hobbs and Tom Briggs.  
 
-641
-00:49:32,700 --> 00:49:36,710
-You need to be careful.'
+339
+00:50:22,320 --> 00:50:39,840
+Let's get some more coffee first. I'd like 
+a sandwich, too. I'm hungry again!'
+ 
+ 
+ 
 
-642
-00:49:36,710 --> 00:49:42,820
-Sergeant Foster laughed but his face went
-red again.
-
-643
-00:49:42,820 --> 00:49:51,510
-'Someone put sleeping tablets in Molly's hot
-milk,' the Inspector said.
-
-644
-00:49:51,510 --> 00:49:56,990
-'All the family were in the kitchen last night.
-
-645
-00:49:56,990 --> 00:50:02,840
-Peter Hobbs and Tom Briggs were there, too.
-
-646
-00:50:02,840 --> 00:50:10,619
-One of them killed Molly.'
-
-647
-00:50:10,619 --> 00:50:13,380
-Inspector Walsh got his hat and coat.
-
-648
-00:50:13,380 --> 00:50:15,390
-'Come on.
-
-649
-00:50:15,390 --> 00:50:21,630
-We need to talk to Peter Hobbs and Tom Briggs.
-
-650
-00:50:21,630 --> 00:50:24,829
-Let's get some more coffee first.
-
-651
-00:50:24,829 --> 00:50:29,539
-I'd like a sandwich, too.
-
-652
-00:50:29,539 --> 00:50:41,670
-I'm hungry again!'
-
-653
-00:50:41,670 --> 00:50:42,670
+340
+00:50:41,520 --> 00:50:42,320
 CHAPTER SIX
+ 
 
-654
-00:50:42,670 --> 00:50:53,770
-They found Peter Hobbs under his car - an
-old green car.
+341
+00:50:45,440 --> 00:50:51,600
+They found Peter Hobbs under 
+his car - an old green car.  
 
-655
-00:50:53,770 --> 00:50:56,750
-He got up slowly.
+342
+00:50:53,520 --> 00:51:01,200
+He got up slowly. He wore old blue 
+trousers and a dirty orange shirt.
 
-656
-00:50:56,750 --> 00:51:02,569
-He wore old blue trousers and a dirty orange
-shirt.
+343
+00:51:03,440 --> 00:51:08,640
+'We want to talk about Mrs 
+Clarkson,' Inspector Walsh said.
 
-657
-00:51:02,569 --> 00:51:09,579
-'We want to talk about Mrs Clarkson,' Inspector
-Walsh said.
+344
+00:51:10,480 --> 00:51:17,840
+'Oh, it's about her,' Peter 
+said. He looked at the Inspector.  
 
-658
-00:51:09,579 --> 00:51:16,539
-'Oh, it's about her,' Peter said.
+345
+00:51:19,920 --> 00:51:24,240
+'I know she's dead. Someone 
+in the village told me.'
 
-659
-00:51:16,539 --> 00:51:19,240
-He looked at the Inspector.
+346
+00:51:27,280 --> 00:51:30,480
+'Why did you go to the 
+Clarksons' house last night?'
 
-660
-00:51:19,240 --> 00:51:22,020
-'I know she's dead.
+347
+00:51:32,800 --> 00:51:39,200
+'Jackie wanted me to come and see her 
+brother, Roger. "You're angry," she said.  
 
-661
-00:51:22,020 --> 00:51:26,880
-Someone in the village told me.'
+348
+00:51:40,320 --> 00:51:47,200
+"Come and tell Roger." I went to the 
+house but nobody opened the door.  
 
-662
-00:51:26,880 --> 00:51:32,089
-'Why did you go to the Clarksons' house last
-night?'
+349
+00:51:48,960 --> 00:51:53,920
+So I made a lot of noise and 
+then they opened the door.  
 
-663
-00:51:32,089 --> 00:51:37,069
-'Jackie wanted me to come and see her brother,
-Roger.
+350
+00:51:55,920 --> 00:52:07,280
+Old Mrs Clarkson wasn't there. But I told Roger. 
+I told them all!' Peter hit the car with his hand.  
 
-664
-00:51:37,069 --> 00:51:39,640
-"You're angry," she said.
+351
+00:52:08,880 --> 00:52:18,720
+'I wanted to kill that woman. I lost 
+my job, my first job, because of her.  
 
-665
-00:51:39,640 --> 00:51:42,690
-"Come and tell Roger."
+352
+00:52:20,640 --> 00:52:29,600
+Last month I was in trouble with the police 
+and that old woman wrote to my office  
 
-666
-00:51:42,690 --> 00:51:47,790
-I went to the house but nobody opened the
-door.
+353
+00:52:30,880 --> 00:52:36,800
+and she told them about the 
+police. I wanted to kill her!'
 
-667
-00:51:47,790 --> 00:51:56,339
-So I made a lot of noise and then they opened
-the door.
+354
+00:52:38,400 --> 00:52:45,840
+'Take it easy!' Inspector Walsh 
+said. 'What happened next?'
 
-668
-00:51:56,339 --> 00:51:59,760
-Old Mrs Clarkson wasn't there.
+355
+00:52:46,800 --> 00:52:48,720
+'Jackie gave me some coffee,  
 
-669
-00:51:59,760 --> 00:52:01,560
-But I told Roger.
+356
+00:52:50,000 --> 00:53:00,080
+but her brother didn't listen to me,' Peter 
+said angrily. 'Then Tom Briggs came in.
 
-670
-00:52:01,560 --> 00:52:04,970
-I told them all!'
+357
+00:53:00,080 --> 00:53:06,400
+He wanted to talk to Roger, too. 
+But Roger didn't listen to him.  
 
-671
-00:52:04,970 --> 00:52:08,420
-Peter hit the car with his hand.
+358
+00:53:08,400 --> 00:53:18,880
+Jackie was very unhappy - she nearly 
+cried. Then I went home. That's all.'
 
-672
-00:52:08,420 --> 00:52:12,890
-'I wanted to kill that woman.
-
-673
-00:52:12,890 --> 00:52:21,089
-I lost my job, my first job, because of her.
-
-674
-00:52:21,089 --> 00:52:31,150
-Last month I was in trouble with the police
-and that old woman wrote to my office and
-
-675
-00:52:31,150 --> 00:52:34,780
-she told them about the police.
-
-676
-00:52:34,780 --> 00:52:38,869
-I wanted to kill her!'
-
-677
-00:52:38,869 --> 00:52:41,380
-'Take it easy!'
-
-678
-00:52:41,380 --> 00:52:42,820
-Inspector Walsh said.
-
-679
-00:52:42,820 --> 00:52:46,190
-'What happened next?'
-
-680
-00:52:46,190 --> 00:52:55,670
-'Jackie gave me some coffee, but her brother
-didn't listen to me,' Peter said angrily.
-
-681
-00:52:55,670 --> 00:52:59,610
-'Then Tom Briggs came in.
-
-682
-00:52:59,610 --> 00:53:03,970
-He wanted to talk to Roger, too.
-
-683
-00:53:03,970 --> 00:53:08,210
-But Roger didn't listen to him.
-
-684
-00:53:08,210 --> 00:53:15,270
-Jackie was very unhappy - she nearly cried.
-
-685
-00:53:15,270 --> 00:53:17,619
-Then I went home.
-
-686
-00:53:17,619 --> 00:53:20,400
-That's all.'
-
-687
-00:53:20,400 --> 00:53:23,180
-'I see.
-
-688
-00:53:23,180 --> 00:53:28,039
-Now tell me about the tablets.
-
-689
-00:53:28,039 --> 00:53:31,200
+359
+00:53:20,880 --> 00:53:30,320
+'I see. Now tell me about the tablets. 
 You went to the village on Thursday?'
 
-690
-00:53:31,200 --> 00:53:32,680
-'Tablets?
+360
+00:53:32,000 --> 00:53:42,240
+'Tablets? Oh, yes. I remember. Jackie wanted me 
+to get her mother's tablets from the village.  
 
-691
-00:53:32,680 --> 00:53:35,650
-Oh, yes.
+361
+00:53:43,840 --> 00:53:49,200
+I go to the village on my 
+bicycle - this car doesn't work.'
 
-692
-00:53:35,650 --> 00:53:38,619
-I remember.
+362
+00:53:50,800 --> 00:53:53,200
+'Thank you, Peter. That's all.'
 
-693
-00:53:38,619 --> 00:53:42,770
-Jackie wanted me to get her mother's tablets
-from the village.
+363
+00:53:54,800 --> 00:54:10,320
+'That's all?' Peter laughed angrily. 'You're going 
+to come back, I know that! I know the police!'
 
-694
-00:53:42,770 --> 00:53:49,960
-I go to the village on my bicycle - this car
-doesn't work.'
+364
+00:54:10,320 --> 00:54:18,480
+Tom Briggs' farm was about half a mile 
+away, near the river. It was not a big farm,  
 
-695
-00:53:49,960 --> 00:53:53,010
-'Thank you, Peter.
+365
+00:54:19,680 --> 00:54:22,080
+and the house was old and dirty.
 
-696
-00:53:53,010 --> 00:53:54,010
-That's all.'
-
-697
-00:53:54,010 --> 00:53:56,990
-'That's all?'
-
-698
-00:53:56,990 --> 00:53:59,569
-Peter laughed angrily.
-
-699
-00:53:59,569 --> 00:54:05,319
-'You're going to come back, I know that!
-
-700
-00:54:05,319 --> 00:54:08,870
-I know the police!'
-
-701
-00:54:08,870 --> 00:54:17,190
-Tom Briggs' farm was about half a mile away,
-near the river.
-
-702
-00:54:17,190 --> 00:54:23,849
-It was not a big farm, and the house was old
-and dirty.
-
-703
-00:54:23,849 --> 00:54:29,220
+366
+00:54:23,520 --> 00:54:27,200
 'Not much money here,' Inspector Walsh said.
 
-704
-00:54:29,220 --> 00:54:38,119
-Tom Briggs was a young man, about thirty years
-old, with dirty hands and bad teeth.
+367
+00:54:28,880 --> 00:54:35,920
+Tom Briggs was a young man, about 
+thirty years old, with dirty hands  
 
-705
-00:54:38,119 --> 00:54:40,020
-'What's wrong?
+368
+00:54:36,640 --> 00:54:45,600
+and bad teeth. 'What's wrong? Excuse 
+me, I'm eating my dinner,' he said.
 
-706
-00:54:40,020 --> 00:54:46,320
-Excuse me, I'm eating my dinner,' he said.
+369
+00:54:46,960 --> 00:54:51,840
+'We can wait. Finish your 
+dinner,' Inspector Walsh said.  
 
-707
-00:54:46,320 --> 00:54:48,970
-'We can wait.
+370
+00:54:53,680 --> 00:54:58,560
+'We want to ask one or two 
+questions about last night.'
 
-708
-00:54:48,970 --> 00:54:52,830
-Finish your dinner,' Inspector Walsh said.
+371
+00:55:01,200 --> 00:55:05,840
+'Come and wait in the front room,' 
+Tom said and opened the door.
 
-709
-00:54:52,830 --> 00:54:59,210
-'We want to ask one or two questions about
-last night.'
+372
+00:55:08,160 --> 00:55:16,400
+Inspector Walsh looked at the things in the front 
+room. There was an old black and white television,  
 
-710
-00:54:59,210 --> 00:55:07,210
-'Come and wait in the front room,' Tom said
-and opened the door.
+373
+00:55:17,680 --> 00:55:26,560
+and some books on the table. There was a picture 
+of a happy young girl with long brown hair  
 
-711
-00:55:07,210 --> 00:55:13,920
-Inspector Walsh looked at the things in the
-front room.
+374
+00:55:26,560 --> 00:55:37,280
+on the table, too. Inspector Walsh looked at 
+the picture for a long time. Who was the girl?
 
-712
-00:55:13,920 --> 00:55:19,960
-There was an old black and white television,
-and some books on the table.
-
-713
-00:55:19,960 --> 00:55:29,720
-There was a picture of a happy young girl
-with long brown hair on the table, too.
-
-714
-00:55:29,720 --> 00:55:34,539
-Inspector Walsh looked at the picture for
-a long time.
-
-715
-00:55:34,539 --> 00:55:38,329
-Who was the girl?
-
-716
-00:55:38,329 --> 00:55:44,140
+375
+00:55:39,840 --> 00:55:42,320
 Tom Briggs came back into the front room.
 
-717
-00:55:44,140 --> 00:55:46,250
-'Finished?'
-
-718
-00:55:46,250 --> 00:55:49,450
-Inspector Walsh asked.
-
-719
-00:55:49,450 --> 00:55:53,400
+376
+00:55:44,080 --> 00:55:52,000
+'Finished?' Inspector Walsh asked. 
 'You know Mrs Clarkson is dead?'
 
-720
-00:55:53,400 --> 00:55:58,589
-Tom Briggs sat down suddenly on the nearest
-chair.
+377
+00:55:54,240 --> 00:56:02,320
+Tom Briggs sat down suddenly on the 
+nearest chair. 'What? How did she die?  
 
-721
-00:55:58,589 --> 00:55:59,589
-'What?
+378
+00:56:04,000 --> 00:56:08,480
+When did it happen? I was there last night.'
 
-722
-00:55:59,589 --> 00:56:03,190
-How did she die?
+379
+00:56:10,880 --> 00:56:18,000
+'She died last night or early this 
+morning. What did you do last night?'
 
-723
-00:56:03,190 --> 00:56:06,880
-When did it happen?
+380
+00:56:19,440 --> 00:56:32,000
+'Me? Why are you asking me? I went there to meet 
+Mr Clarkson - Roger. I'm losing money on this farm  
 
-724
-00:56:06,880 --> 00:56:08,380
-I was there last night.'
+381
+00:56:32,960 --> 00:56:38,640
+and I need more land. I want 
+half Mrs Clarkson's garden.'
 
-725
-00:56:08,380 --> 00:56:16,500
-'She died last night or early this morning.
+382
+00:56:40,880 --> 00:56:47,520
+'You went into the kitchen. What 
+did you do next? Can you remember?'
 
-726
-00:56:16,500 --> 00:56:18,900
-What did you do last night?'
+383
+00:56:49,760 --> 00:56:55,360
+Tom Briggs looked at Sergeant Foster 
+and then back at Inspector Walsh.  
 
-727
-00:56:18,900 --> 00:56:19,900
-'Me?
+384
+00:56:57,520 --> 00:57:07,360
+'I remember it very well. All the family were 
+in the kitchen. Peter Hobbs was there, too.  
 
-728
-00:56:19,900 --> 00:56:23,540
-Why are you asking me?
+385
+00:57:09,680 --> 00:57:18,720
+I talked to Roger. He wants his mother 
+to sell the house. But he wants the land.  
 
-729
-00:56:23,540 --> 00:56:28,720
-I went there to meet Mr Clarkson - Roger.
+386
+00:57:20,480 --> 00:57:30,160
+He doesn't want me to have it. But now Mrs 
+Clarkson is dead. What's going to happen now?'
 
-730
-00:56:28,720 --> 00:56:36,200
-I'm losing money on this farm and I need more
-land.
+387
+00:57:32,880 --> 00:57:41,520
+Inspector Walsh got up and took the picture 
+of the girl from the table. 'Who's this?'
 
-731
-00:56:36,200 --> 00:56:40,010
-I want half Mrs Clarkson's garden.'
+388
+00:57:43,680 --> 00:57:55,920
+Tom's face went red. 'Who? Oh! That's a 
+friend. It's not ... It was a long time ago.'
 
-732
-00:56:40,010 --> 00:56:44,329
-'You went into the kitchen.
+389
+00:57:59,520 --> 00:58:03,840
+The two detectives walked back to the 
+Clarksons' house through the garden.  
 
-733
-00:56:44,329 --> 00:56:46,319
-What did you do next?
+390
+00:58:05,520 --> 00:58:13,600
+It was beautiful, green and quiet. 
+Inspector Walsh felt tired and hungry.  
 
-734
-00:56:46,319 --> 00:56:50,039
-Can you remember?'
+391
+00:58:15,600 --> 00:58:24,560
+Who killed Molly? He knew the answer now, but 
+he needed to ask one or two more questions.
 
-735
-00:56:50,039 --> 00:56:57,560
-Tom Briggs looked at Sergeant Foster and then
-back at Inspector Walsh.
+392
+00:58:27,040 --> 00:58:35,840
+'Let's go, Sergeant,' he said, and put on 
+his hat again. 'Tomorrow is a new day.'
+ 
+ 
+ 
+ 
+ 
 
-736
-00:56:57,560 --> 00:57:00,400
-'I remember it very well.
-
-737
-00:57:00,400 --> 00:57:04,660
-All the family were in the kitchen.
-
-738
-00:57:04,660 --> 00:57:09,710
-Peter Hobbs was there, too.
-
-739
-00:57:09,710 --> 00:57:13,270
-I talked to Roger.
-
-740
-00:57:13,270 --> 00:57:16,050
-He wants his mother to sell the house.
-
-741
-00:57:16,050 --> 00:57:20,680
-But he wants the land.
-
-742
-00:57:20,680 --> 00:57:23,539
-He doesn't want me to have it.
-
-743
-00:57:23,539 --> 00:57:28,900
-But now Mrs Clarkson is dead.
-
-744
-00:57:28,900 --> 00:57:33,520
-What's going to happen now?'
-
-745
-00:57:33,520 --> 00:57:40,250
-Inspector Walsh got up and took the picture
-of the girl from the table.
-
-746
-00:57:40,250 --> 00:57:43,950
-'Who's this?'
-
-747
-00:57:43,950 --> 00:57:45,970
-Tom's face went red.
-
-748
-00:57:45,970 --> 00:57:47,190
-'Who?
-
-749
-00:57:47,190 --> 00:57:48,410
-Oh!
-
-750
-00:57:48,410 --> 00:57:52,069
-That's a friend.
-
-751
-00:57:52,069 --> 00:57:56,890
-It's not ... It was a long time ago.'
-
-752
-00:57:56,890 --> 00:58:05,740
-The two detectives walked back to the Clarksons'
-house through the garden.
-
-753
-00:58:05,740 --> 00:58:10,850
-It was beautiful, green and quiet.
-
-754
-00:58:10,850 --> 00:58:14,829
-Inspector Walsh felt tired and hungry.
-
-755
-00:58:14,829 --> 00:58:18,720
-Who killed Molly?
-
-756
-00:58:18,720 --> 00:58:25,599
-He knew the answer now, but he needed to ask
-one or two more questions.
-
-757
-00:58:25,599 --> 00:58:34,150
-'Let's go, Sergeant,' he said, and put on
-his hat again.
-
-758
-00:58:34,150 --> 00:58:46,720
-'Tomorrow is a new day.'
-
-759
-00:58:46,720 --> 00:58:51,760
+393
+00:58:47,680 --> 00:58:49,840
 CHAPTER SEVEN
+ 
 
-760
-00:58:51,760 --> 00:58:58,410
-On Monday morning Sergeant Foster went to
-Roger's office and asked some questions.
+394
+00:58:51,440 --> 00:58:57,680
+On Monday morning Sergeant Foster went to 
+Roger's office and asked some questions.  
 
-761
-00:58:58,410 --> 00:59:08,450
-And then he went to Albert's house and asked
-some more questions.
+395
+00:58:59,600 --> 00:59:05,120
+And then he went to Albert's house 
+and asked some more questions.  
 
-762
-00:59:08,450 --> 00:59:14,130
-Inspector Walsh sat in his office and telephoned.
+396
+00:59:07,840 --> 00:59:18,720
+Inspector Walsh sat in his office and telephoned. 
+He made phone calls about Peter Hobbs and he  
 
-763
-00:59:14,130 --> 00:59:23,859
-He made phone calls about Peter Hobbs and
-he made phone calls about Tom Briggs.
+397
+00:59:18,720 --> 00:59:27,280
+made phone calls about Tom Briggs. And 
+then he had some coffee and sandwiches.
 
-764
-00:59:23,859 --> 00:59:28,980
-And then he had some coffee and sandwiches.
+398
+00:59:30,320 --> 00:59:35,440
+At three o'clock the two detectives 
+drove to the Clarksons' house.
 
-765
-00:59:28,980 --> 00:59:36,529
-At three o'clock the two detectives drove
-to the Clarksons' house.
-
-766
-00:59:36,529 --> 00:59:42,960
+399
+00:59:37,600 --> 00:59:41,280
 'I would like to see everyone,' he told Roger.
 
-767
-00:59:42,960 --> 00:59:48,220
-Everyone came into the sitting room and sat
-down.
+400
+00:59:43,760 --> 00:59:46,800
+Everyone came into the sitting room and sat down.
 
-768
-00:59:48,220 --> 00:59:57,110
-Inspector Walsh stood in front of the windows
-and looked at them, one by one.
+401
+00:59:49,120 --> 00:59:55,760
+Inspector Walsh stood in front of the 
+windows and looked at them, one by one.  
 
-769
-00:59:57,110 --> 01:00:02,369
-'I want to talk to you.
+402
+00:59:57,840 --> 01:00:09,280
+'I want to talk to you. Someone killed 
+Molly Clarkson. Someone put sleeping tablets  
 
-770
-01:00:02,369 --> 01:00:06,670
-Someone killed Molly Clarkson.
+403
+01:00:09,280 --> 01:00:17,440
+in her hot milk and killed her. Nobody 
+wanted to tell me the true story,  
 
-771
-01:00:06,670 --> 01:00:13,710
-Someone put sleeping tablets in her hot milk
-and killed her.
+404
+01:00:19,440 --> 01:00:27,840
+but now I know the true story 
+and I'm going to tell you.'
 
-772
-01:00:13,710 --> 01:00:25,440
-Nobody wanted to tell me the true story, but
-now I know the true story and I'm going to
+405
+01:00:28,720 --> 01:00:34,240
+The two dogs came slowly into the 
+room and sat down at Diane's feet.  
 
-773
-01:00:25,440 --> 01:00:28,900
-tell you.'
-
-774
-01:00:28,900 --> 01:00:36,029
-The two dogs came slowly into the room and
-sat down at Diane's feet.
-
-775
-01:00:36,029 --> 01:00:38,500
+406
+01:00:35,760 --> 01:00:37,520
 It was very quiet in the room.
 
-776
-01:00:38,500 --> 01:00:43,260
-The Inspector looked at Albert.
+407
+01:00:39,600 --> 01:00:50,480
+The Inspector looked at Albert. 'Mr King, 
+your wife is very ill and needs a nurse.  
 
-777
-01:00:43,260 --> 01:00:52,700
-'Mr King, your wife is very ill and needs
-a nurse.
+408
+01:00:52,480 --> 01:00:58,960
+You told me this. You didn't 
+tell me about your house.  
 
-778
-01:00:52,700 --> 01:00:55,809
-You told me this.
+409
+01:01:01,120 --> 01:01:06,640
+You're selling your house next 
+month because you need the money.'
 
-779
-01:00:55,809 --> 01:01:00,270
-You didn't tell me about your house.
+410
+01:01:09,040 --> 01:01:19,840
+Albert was angry. 'Last year I asked Molly's 
+husband for some money, and he said yes.  
 
-780
-01:01:00,270 --> 01:01:09,510
-You're selling your house next month because
-you need the money.'
-
-781
-01:01:09,510 --> 01:01:11,200
-Albert was angry.
-
-782
-01:01:11,200 --> 01:01:21,560
-'Last year I asked Molly's husband for some
-money, and he said yes.
-
-783
-01:01:21,560 --> 01:01:26,069
+411
+01:01:21,760 --> 01:01:25,920
 But then he died in an accident.'
 
-784
-01:01:26,069 --> 01:01:27,819
-'Accident!'
+412
+01:01:28,320 --> 01:01:40,800
+'Accident!' Diane cried. 'That was no accident. 
+Mother killed Daddy because she wanted his money!'
 
-785
-01:01:27,819 --> 01:01:31,329
-Diane cried.
+413
+01:01:44,000 --> 01:01:48,960
+'Let's talk about you now, 
+Diane,' said Inspector Walsh.  
 
-786
-01:01:31,329 --> 01:01:36,750
-'That was no accident.
+414
+01:01:50,880 --> 01:01:56,800
+'You visited your mother every 
+month and you took money from her.  
 
-787
-01:01:36,750 --> 01:01:42,770
-Mother killed Daddy because she wanted his
-money!'
+415
+01:01:58,720 --> 01:02:09,680
+Last month she gave you money for your television. 
+This month she gave you money for your telephone.  
 
-788
-01:01:42,770 --> 01:01:50,069
-'Let's talk about you now, Diane,' said Inspector
-Walsh.
+416
+01:02:12,160 --> 01:02:14,480
+Every month you told your mother:  
 
-789
-01:01:50,069 --> 01:01:59,250
-'You visited your mother every month and you
-took money from her.
+417
+01:02:15,520 --> 01:02:23,200
+"It was no accident; you killed 
+Daddy. I'm going to tell the police."  
 
-790
-01:01:59,250 --> 01:02:04,059
-Last month she gave you money for your television.
+418
+01:02:25,920 --> 01:02:33,840
+Your mother was afraid of the police 
+and so she gave you the money.  
 
-791
-01:02:04,059 --> 01:02:12,550
-This month she gave you money for your telephone.
-
-792
-01:02:12,550 --> 01:02:21,710
-Every month you told your mother: "It was
-no accident; you killed Daddy.
-
-793
-01:02:21,710 --> 01:02:26,240
-I'm going to tell the police."
-
-794
-01:02:26,240 --> 01:02:36,710
-Your mother was afraid of the police and so
-she gave you the money.
-
-795
-01:02:36,710 --> 01:02:42,740
+419
+01:02:36,400 --> 01:02:40,160
 But in the end she wanted to stop you.
 
-796
-01:02:42,740 --> 01:02:44,930
-She told Dr Pratt.
+420
+01:02:42,480 --> 01:02:56,400
+She told Dr Pratt. No more money, she told Dr 
+Pratt on Thursday; and on Saturday she died.  
 
-797
-01:02:44,930 --> 01:02:57,280
-No more money, she told Dr Pratt on Thursday;
-and on Saturday she died.
+421
+01:02:59,200 --> 01:03:04,960
+You took the hot milk to your 
+mother - what did she tell you?'
 
-798
-01:02:57,280 --> 01:03:08,200
-You took the hot milk to your mother - what
-did she tell you?'
+422
+01:03:07,760 --> 01:03:19,920
+Diane began to cry. 'I loved Daddy! He 
+always gave money to me; he loved me.  
 
-799
-01:03:08,200 --> 01:03:10,520
-Diane began to cry.
+423
+01:03:22,640 --> 01:03:29,840
+It was Mother - she didn't love 
+Daddy and she didn't love me.'  
 
-800
-01:03:10,520 --> 01:03:15,140
-'I loved Daddy!
+424
+01:03:32,480 --> 01:03:40,320
+Diane stopped. The dogs got up 
+and went to the door. 'It's true,  
 
-801
-01:03:15,140 --> 01:03:22,869
-He always gave money to me; he loved me.
+425
+01:03:42,320 --> 01:03:44,560
+I took a lot of money from Mother.  
 
-802
-01:03:22,869 --> 01:03:32,920
-It was Mother - she didn't love Daddy and
-she didn't love me.'
-
-803
-01:03:32,920 --> 01:03:35,520
-Diane stopped.
-
-804
-01:03:35,520 --> 01:03:40,010
-The dogs got up and went to the door.
-
-805
-01:03:40,010 --> 01:03:46,920
-'It's true, I took a lot of money from Mother.
-
-806
-01:03:46,920 --> 01:03:52,539
-On Saturday she told me - no more money.
-
-807
-01:03:52,539 --> 01:04:00,349
+426
+01:03:46,640 --> 01:03:57,840
+On Saturday she told me - no more money. 
 I wanted to kill her, but I didn't.'
 
-808
-01:04:00,349 --> 01:04:07,789
-The dogs came back and sat down again at Diane's
-feet.
+427
+01:04:00,160 --> 01:04:04,560
+The dogs came back and sat 
+down again at Diane's feet.
 
-809
-01:04:07,789 --> 01:04:10,710
-Inspector Walsh looked at Roger.
-
-810
-01:04:10,710 --> 01:04:16,710
+428
+01:04:07,200 --> 01:04:14,400
+Inspector Walsh looked at Roger. 
 'Mr Clarkson also needed money.'
 
-811
-01:04:16,710 --> 01:04:18,859
-Roger's face went red.
+429
+01:04:16,320 --> 01:04:22,000
+Roger's face went red. 'Don't tell them! Please!'
 
-812
-01:04:18,859 --> 01:04:22,569
-'Don't tell them!
+430
+01:04:23,920 --> 01:04:34,080
+'Mr Clarkson lost his job last 
+month. He has no money. But he has  
 
-813
-01:04:22,569 --> 01:04:23,799
-Please!'
+431
+01:04:34,080 --> 01:04:44,000
+an expensive house and an expensive 
+car. He likes expensive things.'
 
-814
-01:04:23,799 --> 01:04:29,980
-'Mr Clarkson lost his job last month.
+432
+01:04:46,160 --> 01:04:54,800
+His sisters looked at him, but Roger put 
+his hand over his eyes. 'Don't talk to me!'
 
-815
-01:04:29,980 --> 01:04:32,829
-He has no money.
+433
+01:04:57,120 --> 01:05:03,520
+'It doesn't matter now!' 
+Diane said. 'Mother is dead  
 
-816
-01:04:32,829 --> 01:04:40,180
-But he has an expensive house and an expensive
-car.
+434
+01:05:04,640 --> 01:05:09,680
+and we have a lot of money. You don't need a job.'
 
-817
-01:04:40,180 --> 01:04:46,450
-He likes expensive things.'
+435
+01:05:11,600 --> 01:05:16,800
+Roger's face went red again. 'Be quiet, Diane!'
 
-818
-01:04:46,450 --> 01:04:52,849
-His sisters looked at him, but Roger put his
-hand over his eyes.
+436
+01:05:18,480 --> 01:05:27,840
+'Now,' Inspector Walsh began again. 
+'Peter Hobbs is a very angry young man.  
 
-819
-01:04:52,849 --> 01:04:57,299
-'Don't talk to me!'
+437
+01:05:29,280 --> 01:05:38,000
+Mrs Clarkson was not very nice to him. He 
+got the sleeping tablets from the shop.  
 
-820
-01:04:57,299 --> 01:05:00,460
-'It doesn't matter now!'
+438
+01:05:39,680 --> 01:05:46,720
+But did he put the tablets 
+in the hot milk? I think not.
 
-821
-01:05:00,460 --> 01:05:01,849
-Diane said.
+439
+01:05:48,960 --> 01:05:59,040
+Tom Briggs wanted half the garden for his 
+farm. He was in the kitchen that night.  
 
-822
-01:05:01,849 --> 01:05:07,970
-'Mother is dead and we have a lot of money.
+440
+01:06:01,280 --> 01:06:08,720
+Did he put sleeping tablets 
+in the hot milk? I think not.'
 
-823
-01:05:07,970 --> 01:05:12,079
-You don't need a job.'
+441
+01:06:11,600 --> 01:06:17,840
+Suddenly it began to rain. For a minute 
+everyone watched it through the window.  
 
-824
-01:05:12,079 --> 01:05:14,640
-Roger's face went red again.
+442
+01:06:20,160 --> 01:06:24,240
+Jackie took a cigarette from 
+her bag and began to smoke.
 
-825
-01:05:14,640 --> 01:05:18,460
-'Be quiet, Diane!'
+443
+01:06:26,960 --> 01:06:33,440
+'But someone wanted Peter Hobbs to 
+come into the kitchen that night.  
 
-826
-01:05:18,460 --> 01:05:23,040
-'Now,' Inspector Walsh began again.
+444
+01:06:34,880 --> 01:06:42,720
+She wanted everyone to see him, and 
+listen to him,' Inspector Walsh said.
 
-827
-01:05:23,040 --> 01:05:29,539
-'Peter Hobbs is a very angry young man.
+445
+01:06:45,040 --> 01:06:52,160
+'She...? I don't understand,' 
+Roger began, and stopped.
 
-828
-01:05:29,539 --> 01:05:35,490
-Mrs Clarkson was not very nice to him.
+446
+01:06:54,400 --> 01:07:04,880
+Inspector Walsh moved away from the window and sat 
+down. 'I'm going to tell you the true story now.  
 
-829
-01:05:35,490 --> 01:05:39,940
-He got the sleeping tablets from the shop.
+447
+01:07:07,600 --> 01:07:14,880
+Miss Clarkson, you wanted Peter Hobbs 
+to come to the house that night.  
 
-830
-01:05:39,940 --> 01:05:45,769
-But did he put the tablets in the hot milk?
+448
+01:07:16,720 --> 01:07:20,960
+He was very angry with your 
+mother because of that letter.  
 
-831
-01:05:45,769 --> 01:05:49,329
-I think not.
+449
+01:07:22,640 --> 01:07:33,360
+He said: "I want to kill her." And you 
+wanted everyone to hear that. Why?'
 
-832
-01:05:49,329 --> 01:05:56,730
-Tom Briggs wanted half the garden for his
-farm.
+450
+01:07:35,680 --> 01:07:43,440
+Jackie's face went white. 'It's 
+not true! What about Diane?  
 
-833
-01:05:56,730 --> 01:06:00,400
-He was in the kitchen that night.
-
-834
-01:06:00,400 --> 01:06:07,619
-Did he put sleeping tablets in the hot milk?
-
-835
-01:06:07,619 --> 01:06:12,069
-I think not.'
-
-836
-01:06:12,069 --> 01:06:15,069
-Suddenly it began to rain.
-
-837
-01:06:15,069 --> 01:06:20,589
-For a minute everyone watched it through the
-window.
-
-838
-01:06:20,589 --> 01:06:27,200
-Jackie took a cigarette from her bag and began
-to smoke.
-
-839
-01:06:27,200 --> 01:06:34,500
-'But someone wanted Peter Hobbs to come into
-the kitchen that night.
-
-840
-01:06:34,500 --> 01:06:44,619
-She wanted everyone to see him, and listen
-to him,' Inspector Walsh said.
-
-841
-01:06:44,619 --> 01:06:46,750
-'She...?
-
-842
-01:06:46,750 --> 01:06:55,059
-I don't understand,' Roger began, and stopped.
-
-843
-01:06:55,059 --> 01:07:00,710
-Inspector Walsh moved away from the window
-and sat down.
-
-844
-01:07:00,710 --> 01:07:06,480
-'I'm going to tell you the true story now.
-
-845
-01:07:06,480 --> 01:07:16,869
-Miss Clarkson, you wanted Peter Hobbs to come
-to the house that night.
-
-846
-01:07:16,869 --> 01:07:21,780
-He was very angry with your mother because
-of that letter.
-
-847
-01:07:21,780 --> 01:07:27,400
-He said: "I want to kill her."
-
-848
-01:07:27,400 --> 01:07:33,799
-And you wanted everyone to hear that.
-
-849
-01:07:33,799 --> 01:07:36,039
-Why?'
-
-850
-01:07:36,039 --> 01:07:38,240
-Jackie's face went white.
-
-851
-01:07:38,240 --> 01:07:41,140
-'It's not true!
-
-852
-01:07:41,140 --> 01:07:45,510
-What about Diane?
-
-853
-01:07:45,510 --> 01:07:50,720
+451
+01:07:45,280 --> 01:07:48,320
 You found the empty bottle in her bag!'
 
-854
-01:07:50,720 --> 01:07:52,070
-Diane stood up.
-
-855
-01:07:52,070 --> 01:07:54,630
-'In my bag?
-
-856
-01:07:54,630 --> 01:07:55,630
-Jackie!
-
-857
-01:07:55,630 --> 01:07:59,630
+452
+01:07:50,240 --> 01:07:58,720
+Diane stood up. 'In my bag? Jackie! 
 What are you talking about?'
 
-858
-01:07:59,630 --> 01:08:10,119
-'Be quiet, please, and sit down,' Inspector
-Walsh said.
+453
+01:08:00,800 --> 01:08:10,960
+'Be quiet, please, and sit down,' 
+Inspector Walsh said. He looked at Jackie.  
 
-859
-01:08:10,119 --> 01:08:13,210
-He looked at Jackie.
+454
+01:08:12,880 --> 01:08:23,840
+'It's true: we found the bottle in Diane's bag. 
+But how do you know that? We didn't tell you.'
 
-860
-01:08:13,210 --> 01:08:18,630
-'It's true: we found the bottle in Diane's
-bag.
+455
+01:08:25,440 --> 01:08:30,960
+'You did... before... you told me before!'
 
-861
-01:08:18,630 --> 01:08:22,859
-But how do you know that?
+456
+01:08:33,200 --> 01:08:40,400
+'No. We found the empty bottle in Diane's room.
 
-862
-01:08:22,859 --> 01:08:25,180
-We didn't tell you.'
+457
+01:08:42,720 --> 01:08:43,760
+We told you that.  
 
-863
-01:08:25,180 --> 01:08:29,549
-'You did... before...
+458
+01:08:46,320 --> 01:08:56,800
+You talked about Diane's bag; we didn't tell 
+you. Sergeant Foster wrote it all down.'  
 
-864
-01:08:29,549 --> 01:08:33,759
-you told me before!'
+459
+01:08:59,840 --> 01:09:10,240
+Inspector Walsh looked carefully at Jackie. 
+'A long time ago, you knew Tom Briggs.  
 
-865
-01:08:33,759 --> 01:08:35,420
-'No.
+460
+01:09:12,400 --> 01:09:21,600
+He was the gardener here and you loved 
+him. But your mother didn't like him.'
 
-866
-01:08:35,420 --> 01:08:42,900
-We found the empty bottle in Diane's room.
+461
+01:09:23,920 --> 01:09:29,360
+Jackie put her hands to her head. 'No! No!'
 
-867
-01:08:42,900 --> 01:08:45,750
-We told you that.
+462
+01:09:31,760 --> 01:09:37,920
+'We found your picture - an 
+old one - in Mr Briggs' house.  
 
-868
-01:08:45,750 --> 01:08:54,210
-You talked about Diane's bag; we didn't tell
-you.
+463
+01:09:40,000 --> 01:09:49,760
+You were younger then, and your hair was 
+long. Last year Tom Briggs came back,  
 
-869
-01:08:54,210 --> 01:09:00,460
-Sergeant Foster wrote it all down.'
+464
+01:09:51,600 --> 01:09:56,160
+and you wanted him. He loved you, too,  
 
-870
-01:09:00,460 --> 01:09:03,569
-Inspector Walsh looked carefully at Jackie.
+465
+01:09:58,400 --> 01:10:10,080
+but he had no money. He wanted the garden 
+for his farm, he wanted money, he wanted you.  
 
-871
-01:09:03,569 --> 01:09:11,299
-'A long time ago, you knew Tom Briggs.
+466
+01:10:12,480 --> 01:10:26,080
+But your mother said no. In the end, you wanted 
+to kill your mother... and you did kill her.  
 
-872
-01:09:11,299 --> 01:09:18,759
-He was the gardener here and you loved him.
+467
+01:10:28,240 --> 01:10:32,720
+Your mother went downstairs to see the dogs  
 
-873
-01:09:18,759 --> 01:09:24,319
-But your mother didn't like him.'
+468
+01:10:34,560 --> 01:10:47,760
+and you put the sleeping tablets in her hot milk. 
+Later, you put the empty bottle in Diane's bag.'
 
-874
-01:09:24,319 --> 01:09:27,750
-Jackie put her hands to her head.
+469
+01:10:50,800 --> 01:11:00,480
+Jackie stood up. Her eyes were dark and 
+afraid. 'You don't understand!' she cried.  
 
-875
-01:09:27,750 --> 01:09:29,220
-'No!
+470
+01:11:01,840 --> 01:11:13,040
+'Mother gave me nothing ... all those years. 
+I wanted to be happy ... to be with Tom.  
 
-876
-01:09:29,220 --> 01:09:30,690
-No!'
+471
+01:11:14,560 --> 01:11:27,680
+That's all. I love Tom, and he loves 
+me. But Mother said no. Always no.'  
 
-877
-01:09:30,690 --> 01:09:40,250
-'We found your picture - an old one - in Mr
-Briggs' house.
+472
+01:11:30,800 --> 01:11:36,080
+Then she began to cry. Nobody looked at her.
 
-878
-01:09:40,250 --> 01:09:47,009
-You were younger then, and your hair was long.
+473
+01:11:39,680 --> 01:11:50,240
+Jackie left the house in a police car. Inspector 
+Walsh watched and then walked slowly to his car.  
 
-879
-01:09:47,009 --> 01:09:54,150
-Last year Tom Briggs came back, and you wanted
-him.
+474
+01:11:52,320 --> 01:12:00,160
+He felt tired and hungry. He stopped 
+and looked back at the house.
 
-880
-01:09:54,150 --> 01:10:02,360
-He loved you, too, but he had no money.
+475
+01:12:02,400 --> 01:12:16,640
+'Well,' he said to Sergeant Foster, 'in the 
+end, they got the money: Albert, Roger, Diane.  
 
-881
-01:10:02,360 --> 01:10:12,800
-He wanted the garden for his farm, he wanted
-money, he wanted you.
+476
+01:12:19,200 --> 01:12:26,160
+They're all rich now. But 
+are they going to be happy?'
 
-882
-01:10:12,800 --> 01:10:16,570
-But your mother said no.
-
-883
-01:10:16,570 --> 01:10:28,520
-In the end, you wanted to kill your mother...
-and you did kill her.
-
-884
-01:10:28,520 --> 01:10:39,489
-Your mother went downstairs to see the dogs
-and you put the sleeping tablets in her hot
-
-885
-01:10:39,489 --> 01:10:41,560
-milk.
-
-886
-01:10:41,560 --> 01:10:51,179
-Later, you put the empty bottle in Diane's
-bag.'
-
-887
-01:10:51,179 --> 01:10:53,900
-Jackie stood up.
-
-888
-01:10:53,900 --> 01:10:56,670
-Her eyes were dark and afraid.
-
-889
-01:10:56,670 --> 01:11:00,070
-'You don't understand!'
-
-890
-01:11:00,070 --> 01:11:01,280
-she cried.
-
-891
-01:11:01,280 --> 01:11:08,219
-'Mother gave me nothing ... all those years.
-
-892
-01:11:08,219 --> 01:11:14,949
-I wanted to be happy ... to be with Tom.
-
-893
-01:11:14,949 --> 01:11:16,840
-That's all.
-
-894
-01:11:16,840 --> 01:11:22,440
-I love Tom, and he loves me.
-
-895
-01:11:22,440 --> 01:11:26,880
-But Mother said no.
-
-896
-01:11:26,880 --> 01:11:29,290
-Always no.'
-
-897
-01:11:29,290 --> 01:11:35,330
-Then she began to cry.
-
-898
-01:11:35,330 --> 01:11:36,930
-Nobody looked at her.
-
-899
-01:11:36,930 --> 01:11:44,780
-Jackie left the house in a police car.
-
-900
-01:11:44,780 --> 01:11:51,410
-Inspector Walsh watched and then walked slowly
-to his car.
-
-901
-01:11:51,410 --> 01:11:57,220
-He felt tired and hungry.
-
-902
-01:11:57,220 --> 01:12:02,060
-He stopped and looked back at the house.
-
-903
-01:12:02,060 --> 01:12:17,510
-'Well,' he said to Sergeant Foster, 'in the
-end, they got the money: Albert, Roger, Diane.
-
-904
-01:12:17,510 --> 01:12:24,159
-They're all rich now.
-
-905
-01:12:24,159 --> 01:12:29,440
-But are they going to be happy?'
-
-906
-01:12:29,440 --> 01:12:31,699
-He got into the car.
-
-907
-01:12:31,699 --> 01:12:36,150
-'Let's go,' he said.
-
-908
-01:12:36,150 --> 01:12:40,650
+477
+01:12:29,200 --> 01:12:47,920
+He got into the car. 'Let's go,' he said. 
 'I'm hungry; I need a sandwich.'
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-909
-01:12:40,650 --> 01:12:40,669
+478
+01:12:47,920 --> 01:12:48,595
 - THE END -
 

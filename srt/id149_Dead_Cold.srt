@@ -1,5576 +1,3540 @@
 1
-00:00:00,269 --> 00:00:04,960
+00:00:00,320 --> 00:00:01,040
 CHAPTER ONE
-A body
 
 2
-00:00:04,960 --> 00:00:08,840
-In January, they found the girl's body.
+00:00:02,480 --> 00:00:03,040
+A body
 
 3
-00:00:08,840 --> 00:00:11,260
-They found it in Pine Crest.
+00:00:04,880 --> 00:00:07,760
+In January, they found the girl's body.
 
 4
-00:00:11,260 --> 00:00:17,860
-Pine Crest is a small town about 90 miles
-from Denver, in the Rocky Mountains.
+00:00:08,720 --> 00:00:15,760
+They found it in Pine Crest. Pine Crest is 
+a small town about 90 miles from Denver,  
 
 5
-00:00:17,860 --> 00:00:21,390
-In the past, it was famous for silver and
-gold.
+00:00:15,760 --> 00:00:20,480
+in the Rocky Mountains. In the past, 
+it was famous for silver and gold.  
 
 6
-00:00:21,390 --> 00:00:27,580
-But now it's a place where people go on vacation;
-they ski there in the winter and walk in the
+00:00:21,200 --> 00:00:26,800
+But now it's a place where people go on 
+vacation; they ski there in the winter  
 
 7
-00:00:27,580 --> 00:00:29,760
-mountains in the summer.
+00:00:26,800 --> 00:00:33,040
+and walk in the mountains in the summer. 
+Movie stars have homes there. It's beautiful  
 
 8
-00:00:29,760 --> 00:00:32,029
-Movie stars have homes there.
+00:00:33,040 --> 00:00:40,480
+and it's quiet when the snow falls. And the 
+snow falls a lot in the winter. Pine Crest  
 
 9
-00:00:32,029 --> 00:00:36,320
-It's beautiful and it's quiet when the snow
-falls.
+00:00:40,480 --> 00:00:47,360
+isn't usually the kind of place you find a dead 
+body. Denver's the place for that, not Pine Crest.
 
 10
-00:00:36,320 --> 00:00:39,790
-And the snow falls a lot in the winter.
+00:00:48,160 --> 00:00:53,600
+Oh, of course sometimes there are skiing 
+accidents, like in all ski resorts. I  
 
 11
-00:00:39,790 --> 00:00:44,770
-Pine Crest isn't usually the kind of place
-you find a dead body.
+00:00:53,600 --> 00:01:00,960
+remember that a young man died about three years 
+ago. He was skiing too fast and he went into a  
 
 12
-00:00:44,770 --> 00:00:47,899
-Denver's the place for that, not Pine Crest.
+00:01:00,960 --> 00:01:10,560
+tree. It's sad, but it happens. But murder 
+- killing someone - well, that's different.
 
 13
-00:00:47,899 --> 00:00:53,190
-Oh, of course sometimes there are skiing accidents,
-like in all ski resorts.
+00:01:11,680 --> 00:01:19,120
+So that January morning my boss, Leo Cohn, Chief 
+of the Denver Police, called me into his office.
 
 14
-00:00:53,190 --> 00:00:58,410
-I remember that a young man died about three
-years ago.
+00:01:20,480 --> 00:01:27,600
+'Girl's body in Pine Crest, Flick,' said 
+Leo. Leo was thin and worked too much.  
 
 15
-00:00:58,410 --> 00:01:02,340
-He was skiing too fast and he went into a
-tree.
+00:01:27,600 --> 00:01:34,400
+He never sat down. Now, he was standing 
+near his desk. 'They found her yesterday.'
 
 16
-00:01:02,340 --> 00:01:05,850
-It's sad, but it happens.
+00:01:35,680 --> 00:01:37,120
+'Oh?' I said.
 
 17
-00:01:05,850 --> 00:01:11,889
-But murder - killing someone - well, that's
-different.
+00:01:38,000 --> 00:01:46,640
+'It looks like someone killed her,' he said. I 
+didn't say anything. 'Murder,' he said, as if I  
 
 18
-00:01:11,889 --> 00:01:18,539
-So that January morning my boss, Leo Cohn,
-Chief of the Denver Police, called me into
-
-19
-00:01:18,539 --> 00:01:20,869
-his office.
-
-20
-00:01:20,869 --> 00:01:25,369
-'Girl's body in Pine Crest, Flick,' said Leo.
-
-21
-00:01:25,369 --> 00:01:27,819
-Leo was thin and worked too much.
-
-22
-00:01:27,819 --> 00:01:29,380
-He never sat down.
-
-23
-00:01:29,380 --> 00:01:32,390
-Now, he was standing near his desk.
-
-24
-00:01:32,390 --> 00:01:34,619
-'They found her yesterday.'
-
-25
-00:01:34,619 --> 00:01:36,700
-'Oh?'
-
-26
-00:01:36,700 --> 00:01:38,209
-I said.
-
-27
-00:01:38,209 --> 00:01:41,849
-'It looks like someone killed her,' he said.
-
-28
-00:01:41,849 --> 00:01:44,490
-I didn't say anything.
-
-29
-00:01:44,490 --> 00:01:48,509
-'Murder,' he said, as if I didn't understand.
-
-30
-00:01:48,509 --> 00:01:49,990
-I waited.
-
-31
-00:01:49,990 --> 00:01:51,810
-He didn't look at me.
-
-32
-00:01:51,810 --> 00:01:56,439
+00:01:46,640 --> 00:01:55,120
+didn't understand. I waited. He didn't look at me. 
 Then he said, 'I want you to go to Pine Crest.'
 
+19
+00:01:56,760 --> 00:02:00,320
+'Ha!' I said. 'So that's what you want.  
+
+20
+00:02:01,200 --> 00:02:08,640
+But Leo, why me? It's too soon. It 
+was just two months ago... I can't!'
+
+21
+00:02:09,600 --> 00:02:16,400
+'Flick, you're the best,' he said, 'and you need 
+to get out of Denver... it's the best thing.'
+
+22
+00:02:17,680 --> 00:02:24,240
+'Listen, Leo...' I started, but I 
+stopped. Leo looked me in the eyes.
+
+23
+00:02:25,120 --> 00:02:32,000
+'Come on, Flick. Bill Gershon, the Chief of Police 
+there, is an old friend of mine. He's not happy.  
+
+24
+00:02:32,640 --> 00:02:38,320
+If it's murder, it's bad for business. No-one 
+wants to ski when there's a killer about.'
+
+25
+00:02:39,360 --> 00:02:46,640
+Well, yeah, I thought, as I looked out of 
+Leo's window at the city, a dead body was  
+
+26
+00:02:46,640 --> 00:02:55,120
+bad for business. I knew Pine Crest. I used to 
+go skiing there on the weekends. The town made  
+
+27
+00:02:55,120 --> 00:03:02,800
+its money from the thousands of visitors who went 
+there every year. The restaurants, cafes, hotels,  
+
+28
+00:03:02,800 --> 00:03:09,040
+ski school, all made money from the people who 
+went to beautiful Pine Crest for their vacation.
+
+29
+00:03:10,720 --> 00:03:14,640
+'And the girl?' I asked. 'Was she a visitor?'
+
+30
+00:03:15,840 --> 00:03:19,440
+Leo smiled. He could see that I was interested.  
+
+31
+00:03:20,400 --> 00:03:27,120
+'Yes,' he said. 'She was there on a skiing 
+vacation with some friends from college.  
+
+32
+00:03:28,080 --> 00:03:32,320
+Someone found her in the swimming pool 
+at the hotel where she was staying.'
+
 33
-00:01:56,439 --> 00:01:57,700
-'Ha!'
+00:03:34,000 --> 00:03:38,000
+'She died in the swimming 
+pool?' I asked. 'I mean...'
 
 34
-00:01:57,700 --> 00:01:58,739
-I said.
-
-35
-00:01:58,739 --> 00:02:00,819
-'So that's what you want.
-
-36
-00:02:00,819 --> 00:02:03,979
-But Leo, why me?
-
-37
-00:02:03,979 --> 00:02:05,259
-It's too soon.
-
-38
-00:02:05,259 --> 00:02:08,090
-It was just two months ago...
-
-39
-00:02:08,090 --> 00:02:09,090
-I can't!'
-
-40
-00:02:09,090 --> 00:02:15,670
-'Flick, you're the best,' he said, 'and you
-need to get out of Denver...
-
-41
-00:02:15,670 --> 00:02:17,530
-it's the best thing.'
-
-42
-00:02:17,530 --> 00:02:19,430
-'Listen, Leo...'
-
-43
-00:02:19,430 --> 00:02:23,030
-I started, but I stopped.
-
-44
-00:02:23,030 --> 00:02:25,390
-Leo looked me in the eyes.
-
-45
-00:02:25,390 --> 00:02:26,920
-'Come on, Flick.
-
-46
-00:02:26,920 --> 00:02:31,390
-Bill Gershon, the Chief of Police there, is
-an old friend of mine.
-
-47
-00:02:31,390 --> 00:02:32,860
-He's not happy.
-
-48
-00:02:32,860 --> 00:02:36,170
-If it's murder, it's bad for business.
-
-49
-00:02:36,170 --> 00:02:39,250
-No-one wants to ski when there's a killer
-about.'
-
-50
-00:02:39,250 --> 00:02:46,590
-Well, yeah, I thought, as I looked out of
-Leo's window at the city, a dead body was
-
-51
-00:02:46,590 --> 00:02:49,010
-bad for business.
-
-52
-00:02:49,010 --> 00:02:50,760
-I knew Pine Crest.
-
-53
-00:02:50,760 --> 00:02:54,390
-I used to go skiing there on the weekends.
-
-54
-00:02:54,390 --> 00:02:59,930
-The town made its money from the thousands
-of visitors who went there every year.
-
-55
-00:02:59,930 --> 00:03:06,400
-The restaurants, cafes, hotels, ski school,
-all made money from the people who went to
-
-56
-00:03:06,400 --> 00:03:10,070
-beautiful Pine Crest for their vacation.
-
-57
-00:03:10,070 --> 00:03:12,260
-'And the girl?'
-
-58
-00:03:12,260 --> 00:03:13,260
-I asked.
-
-59
-00:03:13,260 --> 00:03:16,160
-'Was she a visitor?'
-
-60
-00:03:16,160 --> 00:03:17,670
-Leo smiled.
-
-61
-00:03:17,670 --> 00:03:20,360
-He could see that I was interested.
-
-62
-00:03:20,360 --> 00:03:22,360
-'Yes,' he said.
-
-63
-00:03:22,360 --> 00:03:28,500
-'She was there on a skiing vacation with some
-friends from college.
-
-64
-00:03:28,500 --> 00:03:33,460
-Someone found her in the swimming pool at
-the hotel where she was staying.'
-
-65
-00:03:33,460 --> 00:03:36,570
-'She died in the swimming pool?'
-
-66
-00:03:36,570 --> 00:03:37,790
-I asked.
-
-67
-00:03:37,790 --> 00:03:39,950
-'I mean...'
-
-68
-00:03:39,950 --> 00:03:44,210
+00:03:39,680 --> 00:03:42,880
 'Looks like somebody drowned her,' Leo said.
 
-69
-00:03:44,210 --> 00:03:45,710
+35
+00:03:44,080 --> 00:03:45,840
 I looked at him.
 
-70
-00:03:45,710 --> 00:03:52,270
-'She was twenty-three years old,' Leo said
-softly.
+36
+00:03:46,400 --> 00:03:50,800
+'She was twenty-three years old,' Leo said softly.
 
-71
-00:03:52,270 --> 00:03:53,300
-'And?'
+37
+00:03:52,080 --> 00:03:53,840
+'And?' I asked.
 
-72
-00:03:53,300 --> 00:03:55,209
-I asked.
+38
+00:03:55,040 --> 00:03:58,240
+'You'll get what you need from Gershon,' said Leo.
 
-73
-00:03:55,209 --> 00:03:59,180
-'You'll get what you need from Gershon,' said
-Leo.
-
-74
-00:03:59,180 --> 00:04:01,069
+39
+00:03:59,120 --> 00:04:00,160
 I got up to leave.
 
-75
-00:04:01,069 --> 00:04:04,830
-'Oh, and Flick...' said Leo.
+40
+00:04:00,880 --> 00:04:05,840
+'Oh, and Flick...' said Leo. I turned at the door.
 
-76
-00:04:04,830 --> 00:04:06,470
-I turned at the door.
+41
+00:04:06,800 --> 00:04:12,080
+'I want you to get this one and I 
+want you to get it fast,' he said.  
 
-77
-00:04:06,470 --> 00:04:13,680
-'I want you to get this one and I want you
-to get it fast,' he said.
+42
+00:04:13,200 --> 00:04:19,280
+'First because it'll make the Denver Police 
+Department look good. And we need that.'
 
-78
-00:04:13,680 --> 00:04:18,709
-'First because it'll make the Denver Police
-Department look good.
+43
+00:04:20,320 --> 00:04:27,840
+'And second because you think it's good for me to 
+get out of the office and back to work?' I said.
 
-79
-00:04:18,709 --> 00:04:20,329
-And we need that.'
+44
+00:04:28,400 --> 00:04:34,560
+Leo didn't say anything, but it was 
+true. He was helping me in his way.
 
-80
-00:04:20,329 --> 00:04:26,889
-'And second because you think it's good for
-me to get out of the office and back to work?'
-
-81
-00:04:26,889 --> 00:04:28,009
-I said.
-
-82
-00:04:28,009 --> 00:04:32,710
-Leo didn't say anything, but it was true.
-
-83
-00:04:32,710 --> 00:04:35,599
-He was helping me in his way.
-
-84
-00:04:35,599 --> 00:04:46,969
-'OK, Leo,' I said, 'but remember, it was just
+45
+00:04:36,320 --> 00:04:46,320
+'OK, Leo,' I said, 'but remember, it was just 
 November, just two months ago... that Scott...'
 
-85
-00:04:46,969 --> 00:04:50,669
-'Yeah, yeah, I know.
+46
+00:04:47,360 --> 00:04:59,840
+'Yeah, yeah, I know. But Flick, Scott's dead,' 
+said Leo. His voice was kind, but strong. 'And  
 
-86
-00:04:50,669 --> 00:04:55,919
-But Flick, Scott's dead,' said Leo.
+47
+00:04:59,840 --> 00:05:07,760
+you've got to live.' He turned away from me 
+and looked out of the window. Leo was finished.
 
-87
-00:04:55,919 --> 00:04:59,770
-His voice was kind, but strong.
+48
+00:05:09,520 --> 00:05:14,240
+I walked to my office to get the things 
+I needed for a few days out of town:  
 
-88
-00:04:59,770 --> 00:05:02,759
-'And you've got to live.'
+49
+00:05:14,960 --> 00:05:22,560
+my notebook, cell phone and car keys. I 
+thought about November, thought about Scott.  
 
-89
-00:05:02,759 --> 00:05:06,990
-He turned away from me and looked out of the
-window.
-
-90
-00:05:06,990 --> 00:05:09,629
-Leo was finished.
-
-91
-00:05:09,629 --> 00:05:16,550
-I walked to my office to get the things I
-needed for a few days out of town: my notebook,
-
-92
-00:05:16,550 --> 00:05:19,380
-cell phone and car keys.
-
-93
-00:05:19,380 --> 00:05:24,470
-I thought about November, thought about Scott.
-
-94
-00:05:24,470 --> 00:05:28,550
-Detective Scott King of the Denver Police.
-
-95
-00:05:28,550 --> 00:05:33,020
+50
+00:05:23,840 --> 00:05:31,600
+Detective Scott King of the Denver Police. 
 Then I took my gun and put it under my jacket.
 
-96
-00:05:33,020 --> 00:05:36,960
-I went downstairs to the parking lot.
+51
+00:05:32,880 --> 00:05:41,200
+I went downstairs to the parking lot. Scott and I 
+worked together for four years. We were the best,  
 
-97
-00:05:36,960 --> 00:05:40,610
-Scott and I worked together for four years.
+52
+00:05:41,920 --> 00:05:49,600
+the best the Denver Police Department had. 
+We loved catching killers, robbers, all of  
 
-98
-00:05:40,610 --> 00:05:46,069
-We were the best, the best the Denver Police
-Department had.
+53
+00:05:49,600 --> 00:05:58,560
+Denver's criminals. But we were more than that, 
+we were friends too. Scott was my best friend.  
 
-99
-00:05:46,069 --> 00:05:52,050
-We loved catching killers, robbers, all of
-Denver's criminals.
+54
+00:06:00,000 --> 00:06:10,320
+Then one stupid, cold day in November, Eddie 
+Lang killed Scott. And I saw my best friend die.
 
-100
-00:05:52,050 --> 00:05:57,069
-But we were more than that, we were friends
-too.
+55
+00:06:12,000 --> 00:06:20,400
+'Yeah,' I thought, 'Scott's dead and I've 
+got to live.' Most days it was difficult.
 
-101
-00:05:57,069 --> 00:05:59,280
-Scott was my best friend.
+56
+00:06:21,680 --> 00:06:29,440
+I shook my head and Scott's face went away. 
+I took my keys out of the pocket of my jacket  
 
-102
-00:05:59,280 --> 00:06:08,460
-Then one stupid, cold day in November, Eddie
-Lang killed Scott.
+57
+00:06:29,440 --> 00:06:42,320
+and looked at the most beautiful car in the world, 
+my red 1957 Chevrolet. My Chevy. I smiled. That  
 
-103
-00:06:08,460 --> 00:06:10,140
-And I saw my best friend die.
+58
+00:06:42,320 --> 00:06:48,400
+car always made me smile. Some days it felt 
+like it was the only good thing in my life.
 
-104
-00:06:10,140 --> 00:06:19,180
-'Yeah,' I thought, 'Scott's dead and I've
-got to live.'
+59
+00:06:49,920 --> 00:06:58,800
+I drove home fast to my apartment on Alameda, went 
+in and packed a bag. I changed into my blue suit  
 
-105
-00:06:19,180 --> 00:06:21,810
-Most days it was difficult.
+60
+00:06:59,360 --> 00:07:01,840
+and looked at myself in 
+the mirror in the bathroom.  
 
-106
-00:06:21,810 --> 00:06:26,400
-I shook my head and Scott's face went away.
+61
+00:07:03,200 --> 00:07:10,720
+I looked OK. I looked like I came from the 
+big city. I felt my gun inside my jacket.  
 
-107
-00:06:26,400 --> 00:06:32,330
-I took my keys out of the pocket of my jacket
-and looked at the most beautiful car in the
+62
+00:07:11,760 --> 00:07:16,800
+I was ready. Ready to find 
+a killer... without Scott.
 
-108
-00:06:32,330 --> 00:06:38,249
-world, my red 1957 Chevrolet.
+63
+00:07:18,240 --> 00:07:23,600
+Fifteen minutes later, I was 
+driving on I70 to Pine Crest,  
 
-109
-00:06:38,249 --> 00:06:40,539
-My Chevy.
-
-110
-00:06:40,539 --> 00:06:42,240
-I smiled.
-
-111
-00:06:42,240 --> 00:06:45,250
-That car always made me smile.
-
-112
-00:06:45,250 --> 00:06:49,990
-Some days it felt like it was the only good
-thing in my life.
-
-113
-00:06:49,990 --> 00:06:57,029
-I drove home fast to my apartment on Alameda,
-went in and packed a bag.
-
-114
-00:06:57,029 --> 00:07:03,249
-I changed into my blue suit and looked at
-myself in the mirror in the bathroom.
-
-115
-00:07:03,249 --> 00:07:05,240
-I looked OK.
-
-116
-00:07:05,240 --> 00:07:08,580
-I looked like I came from the big city.
-
-117
-00:07:08,580 --> 00:07:11,889
-I felt my gun inside my jacket.
-
-118
-00:07:11,889 --> 00:07:13,770
-I was ready.
-
-119
-00:07:13,770 --> 00:07:18,650
-Ready to find a killer... without Scott.
-
-120
-00:07:18,650 --> 00:07:25,369
-Fifteen minutes later, I was driving on I70
-to Pine Crest, Colorado.
-
-121
-00:07:25,369 --> 00:07:28,119
-I was trying to forget about Scott.
-
-122
-00:07:28,119 --> 00:07:37,560
+64
+00:07:23,600 --> 00:07:31,360
+Colorado. I was trying to forget about Scott. 
 And I was trying to forget about Eddie Lang.
+ 
+ 
+ 
 
-123
-00:07:37,560 --> 00:07:42,400
+65
+00:07:37,520 --> 00:07:38,240
 CHAPTER TWO
+
+66
+00:07:39,360 --> 00:07:40,240
 Pine Crest
 
-124
-00:07:42,400 --> 00:07:43,780
-Scott King.
+67
+00:07:42,000 --> 00:07:51,040
+Scott King. Yeah, it was hard to forget. As 
+I drove up into the Rocky Mountains pictures  
 
-125
-00:07:43,780 --> 00:07:47,699
-Yeah, it was hard to forget.
+68
+00:07:51,040 --> 00:07:57,840
+came into my head. The first time we worked 
+together, his smile, the things he said.
 
-126
-00:07:47,699 --> 00:07:53,360
-As I drove up into the Rocky Mountains pictures
-came into my head.
+69
+00:07:59,520 --> 00:08:07,520
+'Stop it, Flick!' I said to myself. I turned 
+on the car radio. It was an old country song.
 
-127
-00:07:53,360 --> 00:07:58,669
-The first time we worked together, his smile,
-the things he said.
+70
+00:08:08,560 --> 00:08:15,200
+Then the news came on. 'Good morning, 
+listeners,' said the voice. 'It's ten o'clock  
 
-128
-00:07:58,669 --> 00:08:01,259
-'Stop it, Flick!'
+71
+00:08:15,840 --> 00:08:22,000
+and here's the news. Police found a young 
+woman's body in a swimming pool at the  
 
-129
-00:08:01,259 --> 00:08:03,289
-I said to myself.
+72
+00:08:22,000 --> 00:08:29,040
+Mountain Hotel in Pine Crest yesterday. The 
+twenty-three-year-old was a visitor from Texas,  
 
-130
-00:08:03,289 --> 00:08:05,990
-I turned on the car radio.
-
-131
-00:08:05,990 --> 00:08:08,770
-It was an old country song.
-
-132
-00:08:08,770 --> 00:08:10,659
-Then the news came on.
-
-133
-00:08:10,659 --> 00:08:14,360
-'Good morning, listeners,' said the voice.
-
-134
-00:08:14,360 --> 00:08:18,319
-'It's ten o'clock and here's the news.
-
-135
-00:08:18,319 --> 00:08:25,659
-Police found a young woman's body in a swimming
-pool at the Mountain Hotel in Pine Crest yesterday.
-
-136
-00:08:25,659 --> 00:08:32,460
-The twenty-three-year-old was a visitor from
-Texas, in the town on a skiing vacation.
-
-137
-00:08:32,460 --> 00:08:35,350
+73
+00:08:29,040 --> 00:08:33,840
+in the town on a skiing vacation. 
 Police believe it was murder.'
 
-138
-00:08:35,350 --> 00:08:37,750
-I turned the radio off.
+74
+00:08:35,280 --> 00:08:42,960
+I turned the radio off. Scott came back to me. I 
+thought about the first time we worked together.
 
-139
-00:08:37,750 --> 00:08:40,340
-Scott came back to me.
-
-140
-00:08:40,340 --> 00:08:44,000
-I thought about the first time we worked together.
-
-141
-00:08:44,000 --> 00:08:46,440
-'Flick?' said Scott.
-
-142
-00:08:46,440 --> 00:08:49,140
-'That's a funny name.'
-
-143
-00:08:49,140 --> 00:08:52,630
+75
+00:08:44,080 --> 00:08:51,760
+'Flick?' said Scott. 'That's a funny name.' 
 We were in a police car in downtown Denver.
 
-144
-00:08:52,630 --> 00:08:56,420
-'Well, my real name's Felicity,' I said.
+76
+00:08:52,560 --> 00:08:59,680
+'Well, my real name's Felicity,' I said. 
+'My dad liked it. There was an English  
 
-145
-00:08:56,420 --> 00:08:58,930
-'My dad liked it.
+77
+00:08:59,680 --> 00:09:08,960
+movie star called Felicity. At school everyone 
+thought it was very funny, so I became Flick.'
 
-146
-00:08:58,930 --> 00:09:02,790
-There was an English movie star called Felicity.
-
-147
-00:09:02,790 --> 00:09:09,030
-At school everyone thought it was very funny,
-so I became Flick.'
-
-148
-00:09:09,030 --> 00:09:13,810
+78
+00:09:10,560 --> 00:09:13,200
 'Flick Laine,' he said.
 
-149
-00:09:13,810 --> 00:09:16,740
-'Yeah, good, don't you think?'
+79
+00:09:14,000 --> 00:09:17,200
+'Yeah, good, don't you think?' I said.
 
-150
-00:09:16,740 --> 00:09:18,530
-I said.
+80
+00:09:18,480 --> 00:09:25,440
+'Yeah, Scott and Flick,' he 
+laughed. 'Denver's crime fighters!'
 
-151
-00:09:18,530 --> 00:09:24,210
-'Yeah, Scott and Flick,' he laughed.
+81
+00:09:26,320 --> 00:09:31,440
+'Hey, don't you mean Flick and Scott?' I laughed.
 
-152
-00:09:24,210 --> 00:09:26,130
-'Denver's crime fighters!'
-
-153
-00:09:26,130 --> 00:09:30,830
-'Hey, don't you mean Flick and Scott?'
-
-154
-00:09:30,830 --> 00:09:33,060
-I laughed.
-
-155
-00:09:33,060 --> 00:09:38,350
+82
+00:09:32,560 --> 00:09:36,560
 Scott and Flick, Flick and Scott.
 
-156
-00:09:38,350 --> 00:09:40,740
-Now I looked at the road.
+83
+00:09:38,240 --> 00:09:46,320
+Now I looked at the road. I tried to think about 
+the drive. The road was at 7,000 feet already.  
 
-157
-00:09:40,740 --> 00:09:43,330
-I tried to think about the drive.
+84
+00:09:47,680 --> 00:09:50,160
+But it was a beautiful day in the Rockies.  
 
-158
-00:09:43,330 --> 00:09:47,170
-The road was at 7,000 feet already.
+85
+00:09:50,960 --> 00:09:56,640
+Really beautiful. The sky was clear 
+blue and you could see for miles.
 
-159
-00:09:47,170 --> 00:09:50,970
-But it was a beautiful day in the Rockies.
+86
+00:09:58,720 --> 00:10:05,680
+But I couldn't stop thinking about Scott. I 
+thought about the day he died, in November,  
 
-160
-00:09:50,970 --> 00:09:52,820
-Really beautiful.
+87
+00:10:06,720 --> 00:10:14,480
+just two months ago. The day we went looking 
+for Eddie Lang, one of Denver's worst criminals.  
 
-161
-00:09:52,820 --> 00:09:58,970
-The sky was clear blue and you could see for
-miles.
+88
+00:10:15,600 --> 00:10:21,840
+He killed people for money. But we 
+were on to him. We knew where he was.
 
-162
-00:09:58,970 --> 00:10:02,550
-But I couldn't stop thinking about Scott.
+89
+00:10:23,840 --> 00:10:29,840
+We were in an old, dark house. We knew 
+that Eddie Lang and his men were there.
 
-163
-00:10:02,550 --> 00:10:09,560
-I thought about the day he died, in November,
-just two months ago.
+90
+00:10:31,680 --> 00:10:36,640
+'Don't worry, Scott, I'm 
+behind you,' I said quietly.
 
-164
-00:10:09,560 --> 00:10:15,750
-The day we went looking for Eddie Lang, one
-of Denver's worst criminals.
+91
+00:10:37,680 --> 00:10:47,600
+I could see Scott in front of me. It was dark, 
+but I could just see him. Suddenly I heard a  
 
-165
-00:10:15,750 --> 00:10:18,840
-He killed people for money.
+92
+00:10:47,600 --> 00:10:56,400
+loud noise. A gun. Then Scott was down on 
+the dirty floor. His blood was everywhere.
 
-166
-00:10:18,840 --> 00:10:20,880
-But we were on to him.
+93
+00:10:57,920 --> 00:11:01,280
+I ran outside quickly and 
+called the police station.  
 
-167
-00:10:20,880 --> 00:10:24,010
-We knew where he was.
+94
+00:11:02,560 --> 00:11:10,560
+A few minutes later, more police officers 
+arrived. But Scott was dead. Scott was dead  
 
-168
-00:10:24,010 --> 00:10:27,350
-We were in an old, dark house.
+95
+00:11:11,360 --> 00:11:19,760
+and Eddie Lang and his men were gone. They 
+were gone, but I thought about Scott every day.
 
-169
-00:10:27,350 --> 00:10:30,700
-We knew that Eddie Lang and his men were there.
+96
+00:11:21,600 --> 00:11:29,280
+I went on driving. An hour later, I drove into 
+the parking lot of Pine Crest police station.
 
-170
-00:10:30,700 --> 00:10:37,770
-'Don't worry, Scott, I'm behind you,' I said
-quietly.
+97
+00:11:30,800 --> 00:11:37,920
+Something told me that Bill Gershon, Chief 
+of Pine Crest Police, wasn't happy to see me.  
 
-171
-00:10:37,770 --> 00:10:41,830
-I could see Scott in front of me.
+98
+00:11:39,280 --> 00:11:45,760
+'So,' he said, as I walked into his 
+office, 'Leo sent me a woman...'
 
-172
-00:10:41,830 --> 00:10:46,320
-It was dark, but I could just see him.
+99
+00:11:46,640 --> 00:11:50,800
+'Yeah, aren't you lucky?' I said, smiling.  
 
-173
-00:10:46,320 --> 00:10:49,010
-Suddenly I heard a loud noise.
+100
+00:11:51,680 --> 00:11:59,760
+Gershon didn't smile. I sat down. There were 
+still men in the police who thought that women  
 
-174
-00:10:49,010 --> 00:10:50,940
-A gun.
-
-175
-00:10:50,940 --> 00:10:54,790
-Then Scott was down on the dirty floor.
-
-176
-00:10:54,790 --> 00:10:56,980
-His blood was everywhere.
-
-177
-00:10:56,980 --> 00:11:02,640
-I ran outside quickly and called the police
-station.
-
-178
-00:11:02,640 --> 00:11:07,480
-A few minutes later, more police officers
-arrived.
-
-179
-00:11:07,480 --> 00:11:10,010
-But Scott was dead.
-
-180
-00:11:10,010 --> 00:11:15,860
-Scott was dead and Eddie Lang and his men
-were gone.
-
-181
-00:11:15,860 --> 00:11:21,740
-They were gone, but I thought about Scott
-every day.
-
-182
-00:11:21,740 --> 00:11:24,360
-I went on driving.
-
-183
-00:11:24,360 --> 00:11:31,250
-An hour later, I drove into the parking lot
-of Pine Crest police station.
-
-184
-00:11:31,250 --> 00:11:37,820
-Something told me that Bill Gershon, Chief
-of Pine Crest Police, wasn't happy to see
-
-185
-00:11:37,820 --> 00:11:39,200
-me.
-
-186
-00:11:39,200 --> 00:11:46,600
-'So,' he said, as I walked into his office,
-'Leo sent me a woman...'
-
-187
-00:11:46,600 --> 00:11:49,490
-'Yeah, aren't you lucky?'
-
-188
-00:11:49,490 --> 00:11:51,980
-I said, smiling.
-
-189
-00:11:51,980 --> 00:11:54,340
-Gershon didn't smile.
-
-190
-00:11:54,340 --> 00:11:56,700
-I sat down.
-
-191
-00:11:56,700 --> 00:12:02,510
-There were still men in the police who thought
-that women police officers and murder didn't
-
-192
-00:12:02,510 --> 00:12:04,250
-go together.
-
-193
-00:12:04,250 --> 00:12:07,720
+101
+00:11:59,760 --> 00:12:06,800
+police officers and murder didn't go together. 
 It looked like Gershon was one of those men.
 
-194
-00:12:07,720 --> 00:12:14,260
-'We don't often have murders in Pine Crest,'
-he said.
+102
+00:12:08,560 --> 00:12:13,120
+'We don't often have murders 
+in Pine Crest,' he said.
 
-195
-00:12:14,260 --> 00:12:16,280
-I looked at Gershon.
+103
+00:12:14,160 --> 00:12:17,520
+I looked at Gershon. He was a round person:  
 
-196
-00:12:16,280 --> 00:12:23,360
-He was a round person: round body, round face,
-round glasses.
+104
+00:12:18,080 --> 00:12:27,760
+round body, round face, round glasses. About 
+fifty, fifty-five maybe, with almost no hair.  
 
-197
-00:12:23,360 --> 00:12:29,290
-About fifty, fifty-five maybe, with almost
-no hair.
+105
+00:12:29,040 --> 00:12:38,160
+Then I looked around at his office. Yeah, 
+I thought, parking tickets, not murder.
 
-198
-00:12:29,290 --> 00:12:32,170
-Then I looked around at his office.
+106
+00:12:38,160 --> 00:12:45,280
+'Listen,' I said. 'Why don't we make this 
+easy? Just tell me what I need to know.'
 
-199
-00:12:32,170 --> 00:12:37,980
-Yeah, I thought, parking tickets, not murder.
+107
+00:12:46,560 --> 00:12:55,520
+The Chief of Police said nothing for a moment or 
+two, and then went on. 'Janine Anderson was her  
 
-200
-00:12:37,980 --> 00:12:40,220
-'Listen,' I said.
+108
+00:12:55,520 --> 00:13:03,520
+name. A student from Austin, Texas. She wanted 
+to write for a newspaper - to be a journalist.  
 
-201
-00:12:40,220 --> 00:12:43,780
-'Why don't we make this easy?
+109
+00:13:04,560 --> 00:13:08,720
+This is about her.' He pushed 
+some papers towards me.
 
-202
-00:12:43,780 --> 00:12:46,720
-Just tell me what I need to know.'
+110
+00:13:09,920 --> 00:13:16,320
+I looked at the papers. There wasn't 
+much. Her name, her parents' names.  
 
-203
-00:12:46,720 --> 00:12:53,030
-The Chief of Police said nothing for a moment
-or two, and then went on.
+111
+00:13:17,280 --> 00:13:25,520
+A student of journalism at the University 
+of Texas, Austin. Cause of death: drowning.
 
-204
-00:12:53,030 --> 00:12:56,540
-'Janine Anderson was her name.
+112
+00:13:26,880 --> 00:13:34,080
+'Her parents were in Europe on vacation.' 
+Gershon shook his head sadly and said:  
 
-205
-00:12:56,540 --> 00:12:59,950
-A student from Austin, Texas.
+113
+00:13:34,080 --> 00:13:36,960
+'They're coming back today. Coffee?'
 
-206
-00:12:59,950 --> 00:13:04,840
-She wanted to write for a newspaper - to be
-a journalist.
-
-207
-00:13:04,840 --> 00:13:06,810
-This is about her.'
-
-208
-00:13:06,810 --> 00:13:10,050
-He pushed some papers towards me.
-
-209
-00:13:10,050 --> 00:13:12,550
-I looked at the papers.
-
-210
-00:13:12,550 --> 00:13:14,140
-There wasn't much.
-
-211
-00:13:14,140 --> 00:13:17,320
-Her name, her parents' names.
-
-212
-00:13:17,320 --> 00:13:23,250
-A student of journalism at the University
-of Texas, Austin.
-
-213
-00:13:23,250 --> 00:13:27,090
-Cause of death: drowning.
-
-214
-00:13:27,090 --> 00:13:30,750
-'Her parents were in Europe on vacation.'
-
-215
-00:13:30,750 --> 00:13:36,780
-Gershon shook his head sadly and said: 'They're
-coming back today.
-
-216
-00:13:36,780 --> 00:13:38,520
-Coffee?'
-
-217
-00:13:38,520 --> 00:13:41,980
+114
+00:13:38,400 --> 00:13:41,120
 It wasn't much, but it was a start.
 
-218
-00:13:41,980 --> 00:13:44,020
-'Who found her?'
+115
+00:13:42,560 --> 00:13:47,840
+'Who found her?' I asked, 
+drinking the hot black coffee.
 
-219
-00:13:44,020 --> 00:13:47,910
-I asked, drinking the hot black coffee.
-
-220
-00:13:47,910 --> 00:13:52,750
-'Her friend, Teresa Douglas,' said Gershon.
-
-221
-00:13:52,750 --> 00:13:56,970
+116
+00:13:48,400 --> 00:13:55,520
+'Her friend, Teresa Douglas,' said Gershon. 
 'They were staying at the Mountain Hotel.'
 
-222
-00:13:56,970 --> 00:14:00,370
-The Mountain Hotel was in Pine Crest.
+117
+00:13:56,800 --> 00:14:01,840
+The Mountain Hotel was in Pine 
+Crest. A lot of skiers stayed there.
 
-223
-00:14:00,370 --> 00:14:02,720
-A lot of skiers stayed there.
+118
+00:14:03,440 --> 00:14:11,280
+'They skied all day,' Gershon went on. 'Janine 
+went to the swimming pool at about nine o'clock.  
 
-224
-00:14:02,720 --> 00:14:07,610
-'They skied all day,' Gershon went on.
+119
+00:14:12,080 --> 00:14:20,800
+The pool is on the top floor of the hotel. She had 
+to go upstairs and go outside. At eleven o'clock,  
 
-225
-00:14:07,610 --> 00:14:12,270
-'Janine went to the swimming pool at about
-nine o'clock.
+120
+00:14:21,520 --> 00:14:29,080
+the Douglas girl went up to look for 
+Janine. She found her in the swimming pool.'
 
-226
-00:14:12,270 --> 00:14:16,240
-The pool is on the top floor of the hotel.
+121
+00:14:29,840 --> 00:14:31,680
+'Dead?' I asked.
 
-227
-00:14:16,240 --> 00:14:20,040
-She had to go upstairs and go outside.
+122
+00:14:32,880 --> 00:14:40,640
+'Yes,' said Gershon. 'Teresa Douglas 
+tried mouth-to-mouth. Then we had a  
 
-228
-00:14:20,040 --> 00:14:25,930
-At eleven o'clock, the Douglas girl went up
-to look for Janine.
+123
+00:14:40,640 --> 00:14:50,160
+9-1-1 call at about eleven-fifteen. We were 
+there five minutes later. Janine was dead.'
 
-229
-00:14:25,930 --> 00:14:29,520
-She found her in the swimming pool.'
+124
+00:14:51,200 --> 00:14:54,880
+'Did Janine have other friends here?' I asked.
 
-230
-00:14:29,520 --> 00:14:30,720
-'Dead?'
+125
+00:14:55,840 --> 00:15:02,160
+'Yes. Apart from the Douglas 
+girl, there's a guy - Jeff Mason,'  
 
-231
-00:14:30,720 --> 00:14:33,120
-I asked.
-
-232
-00:14:33,120 --> 00:14:35,490
-'Yes,' said Gershon.
-
-233
-00:14:35,490 --> 00:14:39,950
-'Teresa Douglas tried mouth-to-mouth.
-
-234
-00:14:39,950 --> 00:14:46,410
-Then we had a 9-1-1 call at about eleven-fifteen.
-
-235
-00:14:46,410 --> 00:14:49,590
-We were there five minutes later.
-
-236
-00:14:49,590 --> 00:14:51,190
-Janine was dead.'
-
-237
-00:14:51,190 --> 00:14:54,310
-'Did Janine have other friends here?'
-
-238
-00:14:54,310 --> 00:14:56,010
-I asked.
-
-239
-00:14:56,010 --> 00:14:57,530
-'Yes.
-
-240
-00:14:57,530 --> 00:15:04,690
-Apart from the Douglas girl, there's a guy
-- Jeff Mason,' said the Chief of Police.
-
-241
-00:15:04,690 --> 00:15:06,790
+126
+00:15:02,880 --> 00:15:06,720
+said the Chief of Police. 
 'They're students in Austin.'
 
-242
-00:15:06,790 --> 00:15:10,100
-'Anything on the body?'
+127
+00:15:08,080 --> 00:15:15,440
+'Anything on the body?' I asked. I wanted to 
+know if there was a fight before Janine died.
 
-243
-00:15:10,100 --> 00:15:11,550
-I asked.
+128
+00:15:16,880 --> 00:15:18,240
+'On the back of her neck,'  
 
-244
-00:15:11,550 --> 00:15:16,090
-I wanted to know if there was a fight before
-Janine died.
+129
+00:15:19,040 --> 00:15:26,400
+said Gershon. 'It looks like maybe somebody just 
+put her head under the water and drowned her.'
 
-245
-00:15:16,090 --> 00:15:20,800
-'On the back of her neck,' said Gershon.
-
-246
-00:15:20,800 --> 00:15:27,540
-'It looks like maybe somebody just put her
-head under the water and drowned her.'
-
-247
-00:15:27,540 --> 00:15:31,470
+130
+00:15:27,600 --> 00:15:30,960
 'Well, we don't know that yet,' I said.
 
-248
-00:15:31,470 --> 00:15:35,470
-'This is terrible!' said Gershon.
+131
+00:15:32,080 --> 00:15:38,640
+'This is terrible!' said Gershon. 'Governor 
+Johnson is visiting Pine Crest soon.  
 
-249
-00:15:35,470 --> 00:15:39,150
-'Governor Johnson is visiting Pine Crest soon.
-
-250
-00:15:39,150 --> 00:15:43,670
+132
+00:15:39,200 --> 00:15:41,760
 A murder is the last thing we need!'
 
-251
-00:15:43,670 --> 00:15:50,630
-Clark Johnson was the Governor of Colorado
-and everyone said he was the next President
+133
+00:15:43,520 --> 00:15:46,720
+Clark Johnson was the Governor of Colorado  
 
-252
-00:15:50,630 --> 00:15:52,750
-of the United States.
+134
+00:15:47,280 --> 00:15:54,720
+and everyone said he was the next President of 
+the United States. He lived near Pine Crest.
 
-253
-00:15:52,750 --> 00:15:56,180
-He lived near Pine Crest.
+135
+00:15:56,080 --> 00:16:00,720
+I looked at Gershon. He wasn't 
+thinking about the dead girl.  
 
-254
-00:15:56,180 --> 00:15:58,730
-I looked at Gershon.
-
-255
-00:15:58,730 --> 00:16:01,960
-He wasn't thinking about the dead girl.
-
-256
-00:16:01,960 --> 00:16:06,970
+136
+00:16:01,760 --> 00:16:05,520
 He was thinking about the bad news, I thought.
 
-257
-00:16:06,970 --> 00:16:10,170
-I finished my coffee and stood up.
+137
+00:16:06,880 --> 00:16:16,000
+I finished my coffee and stood up. 'OK, I'm 
+going,' I said. 'Here's my cell phone number.'  
 
-258
-00:16:10,170 --> 00:16:14,840
-'OK, I'm going,' I said.
-
-259
-00:16:14,840 --> 00:16:17,220
-'Here's my cell phone number.'
-
-260
-00:16:17,220 --> 00:16:21,310
-I wrote down my number and gave it to Gershon.
-
-261
-00:16:21,310 --> 00:16:25,760
+138
+00:16:17,120 --> 00:16:23,600
+I wrote down my number and gave it to Gershon. 
 'I'm staying at the Pine Lodge Hotel.'
 
-262
-00:16:25,760 --> 00:16:28,770
-Gershon came to the door with me.
+139
+00:16:25,520 --> 00:16:29,840
+Gershon came to the door with 
+me. He still didn't smile.
 
-263
-00:16:28,770 --> 00:16:31,340
-He still didn't smile.
+140
+00:16:31,680 --> 00:16:40,560
+'Listen,' I said. 'Maybe you don't like it, but 
+we have to work together. If this is murder,  
 
-264
-00:16:31,340 --> 00:16:34,750
-'Listen,' I said.
+141
+00:16:41,520 --> 00:16:52,000
+we have to find this killer before he, or she, 
+kills again.' I looked at Gershon and walked away.
 
-265
-00:16:34,750 --> 00:16:39,750
-'Maybe you don't like it, but we have to work
-together.
+142
+00:16:53,680 --> 00:17:01,440
+Great, I thought, just what I need - a Chief 
+of Police who doesn't want to work with me.  
 
-266
-00:16:39,750 --> 00:16:49,500
-If this is murder, we have to find this killer
-before he, or she, kills again.'
+143
+00:17:03,120 --> 00:17:10,080
+I went back to my car, took out my winter 
+coat and put it on. It was cold here,  
 
-267
-00:16:49,500 --> 00:16:53,360
-I looked at Gershon and walked away.
+144
+00:17:10,720 --> 00:17:18,640
+much colder than Denver. We were at 9,000 
+feet. But it was a beautiful, clear day  
 
-268
-00:16:53,360 --> 00:17:03,190
-Great, I thought, just what I need - a Chief
-of Police who doesn't want to work with me.
-
-269
-00:17:03,190 --> 00:17:09,250
-I went back to my car, took out my winter
-coat and put it on.
-
-270
-00:17:09,250 --> 00:17:13,770
-It was cold here, much colder than Denver.
-
-271
-00:17:13,770 --> 00:17:15,850
-We were at 9,000 feet.
-
-272
-00:17:15,850 --> 00:17:23,939
-But it was a beautiful, clear day and there
-was a smell of wood smoke in the air.
-
-273
-00:17:23,939 --> 00:17:28,180
+145
+00:17:19,520 --> 00:17:26,880
+and there was a smell of wood smoke in the air. 
 I walked down the road to the Mountain Hotel.
 
-274
-00:17:28,180 --> 00:17:30,820
-I looked at the town.
+146
+00:17:28,160 --> 00:17:36,240
+I looked at the town. It was a pretty place. 
+Behind the small houses were the big houses  
 
-275
-00:17:30,820 --> 00:17:33,350
-It was a pretty place.
+147
+00:17:36,240 --> 00:17:43,120
+of the famous people who lived in Pine 
+Crest. Lots of movie stars and famous  
 
-276
-00:17:33,350 --> 00:17:40,650
-Behind the small houses were the big houses
-of the famous people who lived in Pine Crest.
+148
+00:17:43,120 --> 00:17:49,920
+sports people had homes there. Sometimes 
+you saw them on the ski runs, in the stores  
 
-277
-00:17:40,650 --> 00:17:46,980
-Lots of movie stars and famous sports people
-had homes there.
+149
+00:17:50,560 --> 00:17:57,840
+or in the more expensive restaurants in the 
+town. I looked up to the snow-covered mountains.  
 
-278
-00:17:46,980 --> 00:17:52,970
-Sometimes you saw them on the ski runs, in
-the stores or in the more expensive restaurants
+150
+00:17:58,640 --> 00:18:04,400
+I could see ski runs everywhere, but there were 
+only a few people moving down the mountain.  
 
-279
-00:17:52,970 --> 00:17:55,120
-in the town.
+151
+00:18:05,440 --> 00:18:12,000
+It was a beautiful day for skiing, cold 
+and clear. But no one wanted to ski.  
 
-280
-00:17:55,120 --> 00:17:58,750
-I looked up to the snow-covered mountains.
+152
+00:18:13,040 --> 00:18:17,040
+They thought that there was 
+a killer free in the town.
+ 
+ 
+ 
 
-281
-00:17:58,750 --> 00:18:05,620
-I could see ski runs everywhere, but there
-were only a few people moving down the mountain.
-
-282
-00:18:05,620 --> 00:18:10,560
-It was a beautiful day for skiing, cold and
-clear.
-
-283
-00:18:10,560 --> 00:18:13,230
-But no one wanted to ski.
-
-284
-00:18:13,230 --> 00:18:23,000
-They thought that there was a killer free
-in the town.
-
-285
-00:18:23,000 --> 00:18:28,180
+153
+00:18:22,960 --> 00:18:23,840
 CHAPTER THREE
+
+154
+00:18:24,640 --> 00:18:26,000
 The Mountain Hotel
 
-286
-00:18:28,180 --> 00:18:31,050
-Then I saw the Mountain Hotel.
+155
+00:18:27,920 --> 00:18:34,320
+Then I saw the Mountain Hotel. I walked 
+into the hotel and looked over to the bar.  
 
-287
-00:18:31,050 --> 00:18:35,630
-I walked into the hotel and looked over to
-the bar.
+156
+00:18:35,360 --> 00:18:42,160
+There was a fire; it was warm and 
+comfortable. It looked nice, I thought.
 
-288
-00:18:35,630 --> 00:18:39,470
-There was a fire; it was warm and comfortable.
+157
+00:18:42,160 --> 00:18:46,640
+Janine Anderson's friends, 
+Teresa Douglas and Jeff Mason,  
 
-289
-00:18:39,470 --> 00:18:42,690
-It looked nice, I thought.
+158
+00:18:47,200 --> 00:18:56,960
+were in Room 203. They were about twenty-two, 
+twenty-three years old. They looked young, lost.
 
-290
-00:18:42,690 --> 00:18:50,160
-Janine Anderson's friends, Teresa Douglas
-and Jeff Mason, were in Room 203.
+159
+00:18:58,640 --> 00:19:06,160
+'It's terrible,' said Teresa. Her 
+face was wet. She cried softly.  
 
-291
-00:18:50,160 --> 00:18:54,780
-They were about twenty-two, twenty-three years
-old.
+160
+00:19:07,440 --> 00:19:11,840
+Jeff sat down next to her on the bed 
+and put his hand on her shoulder.
 
-292
-00:18:54,780 --> 00:18:58,130
-They looked young, lost.
+161
+00:19:13,040 --> 00:19:20,320
+I looked around at the room. It was Jeff's 
+room. From the window, you could see a very high  
 
-293
-00:18:58,130 --> 00:19:02,860
-'It's terrible,' said Teresa.
+162
+00:19:20,320 --> 00:19:28,080
+mountain, the one they called Snowpeak. There were 
+clothes everywhere, ski boots under the window.
 
-294
-00:19:02,860 --> 00:19:05,000
-Her face was wet.
+163
+00:19:29,760 --> 00:19:37,040
+'We can't believe she's dead, ma'am. 
+It's terrible,' said Jeff. When he spoke,  
 
-295
-00:19:05,000 --> 00:19:07,680
-She cried softly.
+164
+00:19:37,600 --> 00:19:44,640
+I could hear that he came from Texas. He 
+was a tall, blond young man, good-looking.
 
-296
-00:19:07,680 --> 00:19:13,170
-Jeff sat down next to her on the bed and put
-his hand on her shoulder.
+165
+00:19:46,000 --> 00:19:52,800
+'I understand,' I said. 'I'll try to be 
+quick, but I have to ask some questions.'
 
-297
-00:19:13,170 --> 00:19:15,610
-I looked around at the room.
-
-298
-00:19:15,610 --> 00:19:17,730
-It was Jeff's room.
-
-299
-00:19:17,730 --> 00:19:24,620
-From the window, you could see a very high
-mountain, the one they called Snowpeak.
-
-300
-00:19:24,620 --> 00:19:29,100
-There were clothes everywhere, ski boots under
-the window.
-
-301
-00:19:29,100 --> 00:19:33,160
-'We can't believe she's dead, ma'am.
-
-302
-00:19:33,160 --> 00:19:36,480
-It's terrible,' said Jeff.
-
-303
-00:19:36,480 --> 00:19:41,120
-When he spoke, I could hear that he came from
-Texas.
-
-304
-00:19:41,120 --> 00:19:45,410
-He was a tall, blond young man, good-looking.
-
-305
-00:19:45,410 --> 00:19:48,520
-'I understand,' I said.
-
-306
-00:19:48,520 --> 00:19:54,190
-'I'll try to be quick, but I have to ask some
-questions.'
-
-307
-00:19:54,190 --> 00:19:57,470
+166
+00:19:54,160 --> 00:19:55,840
 'Sure,' said Jeff.
 
-308
-00:19:57,470 --> 00:20:04,420
-'It was eleven o'clock,' Teresa said, 'when
-I went to look for Janine.'
+167
+00:19:57,280 --> 00:20:02,720
+'It was eleven o'clock,' Teresa said, 
+'when I went to look for Janine.'
 
-309
-00:20:04,420 --> 00:20:06,809
-Teresa looked up at me.
+168
+00:20:04,320 --> 00:20:09,600
+Teresa looked up at me. She had 
+dark hair and very white skin.
 
-310
-00:20:06,809 --> 00:20:11,010
-She had dark hair and very white skin.
+169
+00:20:10,800 --> 00:20:14,960
+'You slept in the same room, 
+you and Janine?' I asked.
 
-311
-00:20:11,010 --> 00:20:14,429
-'You slept in the same room, you and Janine?'
-
-312
-00:20:14,429 --> 00:20:15,770
-I asked.
-
-313
-00:20:15,770 --> 00:20:26,900
-'Yes,' she answered, 'me and Janine in one
+170
+00:20:15,920 --> 00:20:25,280
+'Yes,' she answered, 'me and Janine in one 
 room, Room 309, and Jeff in this room.'
 
-314
-00:20:26,900 --> 00:20:28,790
-I looked at the girl.
+171
+00:20:26,800 --> 00:20:31,120
+I looked at the girl. I gave 
+her time to tell her story.
 
-315
-00:20:28,790 --> 00:20:32,570
-I gave her time to tell her story.
+172
+00:20:32,960 --> 00:20:37,760
+'Janine went to the swimming 
+pool at about nine o'clock.  
 
-316
-00:20:32,570 --> 00:20:38,990
-'Janine went to the swimming pool at about
-nine o'clock.
+173
+00:20:38,880 --> 00:20:45,680
+I fell asleep at about ten-thirty. I 
+was very tired; we skied the whole day.  
 
-317
-00:20:38,990 --> 00:20:42,610
-I fell asleep at about ten-thirty.
+174
+00:20:47,040 --> 00:20:52,800
+But I woke up just before eleven o'clock 
+and saw that Janine wasn't there.  
 
-318
-00:20:42,610 --> 00:20:46,120
-I was very tired; we skied the whole day.
+175
+00:20:53,760 --> 00:21:02,720
+In her bed, I mean. So I got dressed and went 
+up to the top floor. It was really cold outside.  
 
-319
-00:20:46,120 --> 00:20:53,860
-But I woke up just before eleven o'clock and
-saw that Janine wasn't there.
+176
+00:21:04,080 --> 00:21:13,200
+I saw her in the swimming pool. Just on top of 
+the water.' The girl put her head in her hands.  
 
-320
-00:20:53,860 --> 00:20:56,610
-In her bed, I mean.
+177
+00:21:14,480 --> 00:21:20,800
+'I can't stop thinking about it,' 
+she said. She was quiet for a moment.
 
-321
-00:20:56,610 --> 00:21:01,110
-So I got dressed and went up to the top floor.
+178
+00:21:22,000 --> 00:21:29,200
+'I jumped into the pool,' she went on. 'I 
+tried to pull her out of the water, but  
 
-322
-00:21:01,110 --> 00:21:04,170
-It was really cold outside.
+179
+00:21:29,760 --> 00:21:37,600
+she was too heavy. I turned her over and 
+put my mouth to hers, but it was no good.  
 
-323
-00:21:04,170 --> 00:21:07,860
-I saw her in the swimming pool.
+180
+00:21:38,560 --> 00:21:45,680
+I knew it was no good.' Teresa put 
+her head in her hands again and cried.
 
-324
-00:21:07,860 --> 00:21:10,770
-Just on top of the water.'
-
-325
-00:21:10,770 --> 00:21:13,720
-The girl put her head in her hands.
-
-326
-00:21:13,720 --> 00:21:19,480
-'I can't stop thinking about it,' she said.
-
-327
-00:21:19,480 --> 00:21:21,410
-She was quiet for a moment.
-
-328
-00:21:21,410 --> 00:21:25,510
-'I jumped into the pool,' she went on.
-
-329
-00:21:25,510 --> 00:21:32,120
-'I tried to pull her out of the water, but
-she was too heavy.
-
-330
-00:21:32,120 --> 00:21:38,630
-I turned her over and put my mouth to hers,
-but it was no good.
-
-331
-00:21:38,630 --> 00:21:42,040
-I knew it was no good.'
-
-332
-00:21:42,040 --> 00:21:46,510
-Teresa put her head in her hands again and
-cried.
-
-333
-00:21:46,510 --> 00:21:49,770
-'And there was no-one else around?'
-
-334
-00:21:49,770 --> 00:21:52,830
+181
+00:21:46,960 --> 00:21:52,000
+'And there was no-one else around?' 
 I asked after a few minutes.
 
-335
-00:21:52,830 --> 00:21:56,900
-'I couldn't see anyone,' she said.
+182
+00:21:53,520 --> 00:21:56,320
+'I couldn't see anyone,' she said.  
 
-336
-00:21:56,900 --> 00:22:01,900
-'I shouted out and a hotel worker heard me.
+183
+00:21:57,200 --> 00:22:02,800
+'I shouted out and a hotel worker 
+heard me. He called the police.'
 
-337
-00:22:01,900 --> 00:22:04,590
-He called the police.'
+184
+00:22:04,160 --> 00:22:07,680
+'And was Janine a good swimmer?' I asked.
 
-338
-00:22:04,590 --> 00:22:07,120
-'And was Janine a good swimmer?'
+185
+00:22:08,800 --> 00:22:13,360
+'Oh yes, ma'am,' said Jeff. 
+'She was a great swimmer.  
 
-339
-00:22:07,120 --> 00:22:08,120
-I asked.
-
-340
-00:22:08,120 --> 00:22:11,710
-'Oh yes, ma'am,' said Jeff.
-
-341
-00:22:11,710 --> 00:22:14,480
-'She was a great swimmer.
-
-342
-00:22:14,480 --> 00:22:19,140
+186
+00:22:14,240 --> 00:22:17,440
 I'm sure that Janine didn't drown by herself.'
 
-343
-00:22:19,140 --> 00:22:21,440
-'And how long have you been here?'
+187
+00:22:18,880 --> 00:22:22,000
+'And how long have you been here?' I asked.
 
-344
-00:22:21,440 --> 00:22:23,860
-I asked.
+188
+00:22:23,120 --> 00:22:31,120
+'Almost ten days,' said Jeff. 'We have to 
+leave tomorrow. Classes start next week.'
 
-345
-00:22:23,860 --> 00:22:26,580
-'Almost ten days,' said Jeff.
+189
+00:22:32,720 --> 00:22:37,680
+'And do you want to write for a 
+newspaper, like Janine?' I asked.
 
-346
-00:22:26,580 --> 00:22:29,490
-'We have to leave tomorrow.
+190
+00:22:38,640 --> 00:22:49,360
+'Yes, I do. I study journalism,' said Jeff. His 
+face went white. 'Janine wanted so much to be a  
 
-347
-00:22:29,490 --> 00:22:33,059
-Classes start next week.'
+191
+00:22:49,360 --> 00:22:57,040
+writer,' he said. 'It was the thing she wanted 
+most in the world. And she was really good.'
 
-348
-00:22:33,059 --> 00:22:37,100
-'And do you want to write for a newspaper,
-like Janine?'
+192
+00:22:58,320 --> 00:23:04,480
+'We know each other from the ski club,' 
+said Teresa. 'We all loved skiing.'
 
-349
-00:22:37,100 --> 00:22:38,100
-I asked.
+193
+00:23:06,400 --> 00:23:10,560
+'Is this your first time 
+here in Pine Crest?' I asked.
 
-350
-00:22:38,100 --> 00:22:40,200
-'Yes, I do.
+194
+00:23:11,640 --> 00:23:22,400
+'Mm, yes it is for us,' said Jeff, 'but Janine 
+knew it; she came here every year. To ski, I mean.  
 
-351
-00:22:40,200 --> 00:22:44,460
-I study journalism,' said Jeff.
+195
+00:23:23,520 --> 00:23:32,640
+She was the one... She said it was a lovely place. 
+And it's true. We were having a good time here.'
 
-352
-00:22:44,460 --> 00:22:47,370
-His face went white.
+196
+00:23:33,920 --> 00:23:37,440
+'Did Janine know anyone here in Pine Crest?'  
 
-353
-00:22:47,370 --> 00:22:51,300
-'Janine wanted so much to be a writer,' he
-said.
+197
+00:23:37,440 --> 00:23:45,360
+I asked. 'I mean, did she see anyone 
+while she was here - a friend - anyone?'
 
-354
-00:22:51,300 --> 00:22:55,770
-'It was the thing she wanted most in the world.
+198
+00:23:46,720 --> 00:23:55,920
+Teresa shook her head. 'I don't know,' she 
+said. 'I don't think so. Just us, I think.'
 
-355
-00:22:55,770 --> 00:22:57,780
-And she was really good.'
+199
+00:23:57,520 --> 00:24:05,280
+'But she sometimes went off on her own - 
+alone?' I asked. 'Like the night she died?'
 
-356
-00:22:57,780 --> 00:23:02,429
-'We know each other from the ski club,' said
-Teresa.
+200
+00:24:06,640 --> 00:24:13,360
+'Yes. Janine always went to the pool 
+alone in the evenings,' said Teresa.  
 
-357
-00:23:02,429 --> 00:23:06,570
-'We all loved skiing.'
+201
+00:24:14,320 --> 00:24:19,840
+'But she didn't talk about anyone. 
+I don't think she knew anyone here.  
 
-358
-00:23:06,570 --> 00:23:09,960
-'Is this your first time here in Pine Crest?'
+202
+00:24:20,720 --> 00:24:26,000
+I think she just thought, or wrote 
+in her notebook, and went swimming.'
 
-359
-00:23:09,960 --> 00:23:11,020
-I asked.
+203
+00:24:27,440 --> 00:24:29,520
+'Notebook?' I asked.
 
-360
-00:23:11,020 --> 00:23:21,010
-'Mm, yes it is for us,' said Jeff, 'but Janine
-knew it; she came here every year.
+204
+00:24:30,080 --> 00:24:38,240
+'Yes, Janine wrote in her notebook every 
+day,' said Teresa. 'She wrote about her day,  
 
-361
-00:23:21,010 --> 00:23:23,720
-To ski, I mean.
+205
+00:24:39,040 --> 00:24:46,640
+about her thoughts, her feelings, I think. About 
+things that happened to her, things she saw.  
 
-362
-00:23:23,720 --> 00:23:25,640
-She was the one...
+206
+00:24:47,840 --> 00:24:53,920
+Like Jeff said, she wanted to be 
+a writer. She liked to write.'
 
-363
-00:23:25,640 --> 00:23:29,230
-She said it was a lovely place.
+207
+00:24:55,440 --> 00:25:00,080
+'And where's her notebook now?' I asked.
 
-364
-00:23:29,230 --> 00:23:30,850
-And it's true.
+208
+00:25:00,080 --> 00:25:08,240
+'Well...' said Teresa, 'in our room, I 
+think. She always kept it next to her bed.  
 
-365
-00:23:30,850 --> 00:23:34,120
-We were having a good time here.'
+209
+00:25:09,280 --> 00:25:15,680
+She liked to write when she woke up in the 
+morning. You know her dreams and things.  
 
-366
-00:23:34,120 --> 00:23:37,480
-'Did Janine know anyone here in Pine Crest?'
+210
+00:25:17,360 --> 00:25:20,640
+Do you think it could be... Shall I get it?'
 
-367
-00:23:37,480 --> 00:23:38,480
-I asked.
-
-368
-00:23:38,480 --> 00:23:46,830
-'I mean, did she see anyone while she was
-here - a friend - anyone?'
-
-369
-00:23:46,830 --> 00:23:48,610
-Teresa shook her head.
-
-370
-00:23:48,610 --> 00:23:51,610
-'I don't know,' she said.
-
-371
-00:23:51,610 --> 00:23:54,500
-'I don't think so.
-
-372
-00:23:54,500 --> 00:23:57,809
-Just us, I think.'
-
-373
-00:23:57,809 --> 00:24:01,990
-'But she sometimes went off on her own - alone?'
-
-374
-00:24:01,990 --> 00:24:04,150
-I asked.
-
-375
-00:24:04,150 --> 00:24:06,390
-'Like the night she died?'
-
-376
-00:24:06,390 --> 00:24:07,550
-'Yes.
-
-377
-00:24:07,550 --> 00:24:14,540
-Janine always went to the pool alone in the
-evenings,' said Teresa.
-
-378
-00:24:14,540 --> 00:24:17,740
-'But she didn't talk about anyone.
-
-379
-00:24:17,740 --> 00:24:20,340
-I don't think she knew anyone here.
-
-380
-00:24:20,340 --> 00:24:27,880
-I think she just thought, or wrote in her
-notebook, and went swimming.'
-
-381
-00:24:27,880 --> 00:24:28,890
-'Notebook?'
-
-382
-00:24:28,890 --> 00:24:30,080
-I asked.
-
-383
-00:24:30,080 --> 00:24:36,210
-'Yes, Janine wrote in her notebook every day,'
-said Teresa.
-
-384
-00:24:36,210 --> 00:24:43,520
-'She wrote about her day, about her thoughts,
-her feelings, I think.
-
-385
-00:24:43,520 --> 00:24:48,020
-About things that happened to her, things
-she saw.
-
-386
-00:24:48,020 --> 00:24:52,929
-Like Jeff said, she wanted to be a writer.
-
-387
-00:24:52,929 --> 00:24:55,870
-She liked to write.'
-
-388
-00:24:55,870 --> 00:24:58,110
-'And where's her notebook now?'
-
-389
-00:24:58,110 --> 00:24:59,929
-I asked.
-
-390
-00:24:59,929 --> 00:25:06,360
-'Well...' said Teresa, 'in our room, I think.
-
-391
-00:25:06,360 --> 00:25:09,510
-She always kept it next to her bed.
-
-392
-00:25:09,510 --> 00:25:13,400
-She liked to write when she woke up in the
-morning.
-
-393
-00:25:13,400 --> 00:25:17,570
-You know her dreams and things.
-
-394
-00:25:17,570 --> 00:25:19,450
-Do you think it could be...
-
-395
-00:25:19,450 --> 00:25:21,510
-Shall I get it?'
-
-396
-00:25:21,510 --> 00:25:25,460
+211
+00:25:21,760 --> 00:25:23,760
 'We can all go,' I said.
 
-397
-00:25:25,460 --> 00:25:29,730
-We all went upstairs to Room 309.
+212
+00:25:25,280 --> 00:25:33,120
+We all went upstairs to Room 309. It was 
+the same as Jeff's room, but with two beds.  
 
-398
-00:25:29,730 --> 00:25:34,470
-It was the same as Jeff's room, but with two
-beds.
-
-399
-00:25:34,470 --> 00:25:37,020
+213
+00:25:34,320 --> 00:25:36,080
 Teresa looked for the notebook.
 
-400
-00:25:37,020 --> 00:25:40,310
-'I can't find it,' she said.
+214
+00:25:37,440 --> 00:25:41,840
+'I can't find it,' she said. 'It isn't here!'
 
-401
-00:25:40,310 --> 00:25:43,010
-'It isn't here!'
+215
+00:25:42,800 --> 00:25:47,280
+'It must be somewhere,' said 
+Jeff. 'Shall we help you look?'
 
-402
-00:25:43,010 --> 00:25:45,980
-'It must be somewhere,' said Jeff.
+216
+00:25:48,400 --> 00:25:51,520
+'Well, OK,' said Teresa,  
 
-403
-00:25:45,980 --> 00:25:48,470
-'Shall we help you look?'
-
-404
-00:25:48,470 --> 00:25:54,140
-'Well, OK,' said Teresa, 'but it isn't here.
-
-405
-00:25:54,140 --> 00:25:56,380
-Really, it isn't.
-
-406
-00:25:56,380 --> 00:25:59,950
+217
+00:25:52,160 --> 00:25:58,240
+'but it isn't here. Really, it isn't. 
 She always kept it next to her bed!'
 
-407
-00:25:59,950 --> 00:26:02,809
-We looked everywhere in the room.
+218
+00:25:59,760 --> 00:26:06,800
+We looked everywhere in the room. But Teresa 
+was right. Janine's notebook was gone.  
 
-408
-00:26:02,809 --> 00:26:05,340
-But Teresa was right.
+219
+00:26:08,160 --> 00:26:11,200
+Perhaps she took it with her to 
+the swimming pool last night?  
 
-409
-00:26:05,340 --> 00:26:08,700
-Janine's notebook was gone.
+220
+00:26:12,320 --> 00:26:15,760
+I left the dead girl's friends 
+with some questions in my head.  
 
-410
-00:26:08,700 --> 00:26:12,410
-Perhaps she took it with her to the swimming
-pool last night?
+221
+00:26:16,800 --> 00:26:24,880
+Where was Janine Anderson's notebook? Did Janine 
+Anderson's killer take it? And if so, why?
+ 
+ 
+ 
 
-411
-00:26:12,410 --> 00:26:17,150
-I left the dead girl's friends with some questions
-in my head.
-
-412
-00:26:17,150 --> 00:26:19,790
-Where was Janine Anderson's notebook?
-
-413
-00:26:19,790 --> 00:26:23,320
-Did Janine Anderson's killer take it?
-
-414
-00:26:23,320 --> 00:26:30,850
-And if so, why?
-
-415
-00:26:30,850 --> 00:26:35,750
+222
+00:26:30,800 --> 00:26:31,520
 CHAPTER FOUR
+
+223
+00:26:32,400 --> 00:26:33,680
 A talk with Jeff
 
-416
-00:26:35,750 --> 00:26:40,450
-I went upstairs to the swimming pool where
-Janine died.
+224
+00:26:35,600 --> 00:26:39,280
+I went upstairs to the swimming 
+pool where Janine died.  
 
-417
-00:26:40,450 --> 00:26:45,710
-From there you could see everything: the town
-and the mountains.
+225
+00:26:40,160 --> 00:26:47,360
+From there you could see everything: the town and 
+the mountains. Two of Gershon's men were there.
 
-418
-00:26:45,710 --> 00:26:48,049
-Two of Gershon's men were there.
+226
+00:26:48,640 --> 00:26:52,240
+'Were you here last night?' I asked the men.
 
-419
-00:26:48,049 --> 00:26:50,630
-'Were you here last night?'
+227
+00:26:52,240 --> 00:26:55,920
+'I was, Detective Laine,' said one of them,  
 
-420
-00:26:50,630 --> 00:26:52,140
-I asked the men.
+228
+00:26:55,920 --> 00:27:01,120
+a tall, big guy. 'The name's 
+Williams. Sergeant Bob Williams.'
 
-421
-00:26:52,140 --> 00:26:57,690
-'I was, Detective Laine,' said one of them,
-a tall, big guy.
+229
+00:27:02,080 --> 00:27:05,920
+'And did you find anything?' I asked.
 
-422
-00:26:57,690 --> 00:26:59,520
-'The name's Williams.
-
-423
-00:26:59,520 --> 00:27:01,679
-Sergeant Bob Williams.'
-
-424
-00:27:01,679 --> 00:27:04,560
-'And did you find anything?'
-
-425
-00:27:04,560 --> 00:27:05,560
-I asked.
-
-426
-00:27:05,560 --> 00:27:09,070
+230
+00:27:05,920 --> 00:27:08,320
 'Just a pen,' said Williams.
 
-427
-00:27:09,070 --> 00:27:10,590
-'A pen?'
+231
+00:27:09,120 --> 00:27:11,040
+'A pen?' I said.
 
-428
-00:27:10,590 --> 00:27:11,910
-I said.
+232
+00:27:11,840 --> 00:27:17,200
+'Yes,' he said. 'I found a pen 
+just here by the side of the pool.  
 
-429
-00:27:11,910 --> 00:27:13,510
-'Yes,' he said.
+233
+00:27:17,840 --> 00:27:20,720
+They're looking at it - to 
+see if it was the girl's.'
 
-430
-00:27:13,510 --> 00:27:18,060
-'I found a pen just here by the side of the
-pool.
+234
+00:27:22,160 --> 00:27:28,160
+It looked like Janine Anderson really was 
+writing in her notebook last night, I thought.  
 
-431
-00:27:18,060 --> 00:27:22,360
-They're looking at it - to see if it was the
-girl's.'
-
-432
-00:27:22,360 --> 00:27:28,520
-It looked like Janine Anderson really was
-writing in her notebook last night, I thought.
-
-433
-00:27:28,520 --> 00:27:33,940
+235
+00:27:29,040 --> 00:27:32,400
 The pen was there, but where was the notebook?
 
-434
-00:27:33,940 --> 00:27:35,580
-'OK.
+236
+00:27:33,840 --> 00:27:36,400
+'OK. And one more thing,'  
 
-435
-00:27:35,580 --> 00:27:39,100
-And one more thing,' I said.
+237
+00:27:37,200 --> 00:27:43,760
+I said. 'Can you get to the swimming pool 
+without going through the hotel reception?'
 
-436
-00:27:39,100 --> 00:27:44,679
-'Can you get to the swimming pool without
-going through the hotel reception?'
+238
+00:27:44,800 --> 00:27:51,600
+'Yes,' said Williams. 'You can go through the 
+parking lot, and the place they keep the skis,  
 
-437
-00:27:44,679 --> 00:27:47,600
-'Yes,' said Williams.
+239
+00:27:52,320 --> 00:27:54,160
+then into the elevator.'
 
-438
-00:27:47,600 --> 00:27:55,930
-'You can go through the parking lot, and the
-place they keep the skis, then into the elevator.'
+240
+00:27:55,520 --> 00:27:59,200
+'And the elevator brings you here?' I asked.
 
-439
-00:27:55,930 --> 00:27:58,669
-'And the elevator brings you here?'
-
-440
-00:27:58,669 --> 00:27:59,750
-I asked.
-
-441
-00:27:59,750 --> 00:28:03,350
+241
+00:28:00,080 --> 00:28:01,840
 'That's right,' he said.
 
-442
-00:28:03,350 --> 00:28:05,330
-'No security cameras?'
+242
+00:28:03,200 --> 00:28:05,920
+'No security cameras?' I asked.
 
-443
-00:28:05,330 --> 00:28:06,710
-I asked.
+243
+00:28:06,640 --> 00:28:11,120
+'No,' Williams said. 'I 
+talked to the hotel manager  
 
-444
-00:28:06,710 --> 00:28:08,830
-'No,' Williams said.
+244
+00:28:11,680 --> 00:28:15,840
+and he told me they never had any problems.'
 
-445
-00:28:08,830 --> 00:28:14,880
-'I talked to the hotel manager and he told
-me they never had any problems.'
+245
+00:28:16,400 --> 00:28:21,120
+Until now, I thought, as 
+I left the Mountain Hotel.
 
-446
-00:28:14,880 --> 00:28:22,880
-Until now, I thought, as I left the Mountain
-Hotel.
+246
+00:28:22,800 --> 00:28:26,400
+I went outside into the street. On a wall,  
 
-447
-00:28:22,880 --> 00:28:25,970
-I went outside into the street.
+247
+00:28:26,960 --> 00:28:32,560
+there was an advertisement. 'Governor 
+to run for White House,' it said.
 
-448
-00:28:25,970 --> 00:28:29,830
-On a wall, there was an advertisement.
+248
+00:28:33,760 --> 00:28:38,080
+There was a picture of Clark 
+Johnson, the Governor of Colorado.  
 
-449
-00:28:29,830 --> 00:28:34,010
-'Governor to run for White House,' it said.
+249
+00:28:38,720 --> 00:28:41,920
+The elections for President 
+were later in the year.
 
-450
-00:28:34,010 --> 00:28:38,820
-There was a picture of Clark Johnson, the
-Governor of Colorado.
+250
+00:28:43,440 --> 00:28:47,360
+I looked back up to the top 
+floor of the Mountain Hotel.  
 
-451
-00:28:38,820 --> 00:28:43,559
-The elections for President were later in
-the year.
+251
+00:28:48,400 --> 00:28:54,800
+I couldn't see the pool or Williams 
+from here. But maybe from higher up?  
 
-452
-00:28:43,559 --> 00:28:48,530
-I looked back up to the top floor of the Mountain
-Hotel.
+252
+00:28:56,240 --> 00:29:03,600
+I looked across the street and saw a restaurant 
+called the Columbine. You could sit outside at  
 
-453
-00:28:48,530 --> 00:28:53,020
-I couldn't see the pool or Williams from here.
+253
+00:29:03,600 --> 00:29:12,240
+the top and I could see people at the little 
+tables. I went in and walked up the stairs.
 
-454
-00:28:53,020 --> 00:28:56,330
-But maybe from higher up?
+254
+00:29:12,240 --> 00:29:18,080
+I showed the young waiter my police badge. 
+I looked over to the Mountain Hotel.  
 
-455
-00:28:56,330 --> 00:29:02,380
-I looked across the street and saw a restaurant
-called the Columbine.
+255
+00:29:19,360 --> 00:29:28,560
+I could see Sergeant Williams next to the pool. 
+What if...? The killer could see Janine Anderson  
 
-456
-00:29:02,380 --> 00:29:08,510
-You could sit outside at the top and I could
-see people at the little tables.
+256
+00:29:28,560 --> 00:29:35,760
+from here! He could sit here in the restaurant 
+and wait, then just walk into the hotel.
 
-457
-00:29:08,510 --> 00:29:12,320
-I went in and walked up the stairs.
+257
+00:29:37,440 --> 00:29:44,080
+'Last night,' I said to the waiter, 'did 
+you see anything... anyone strange?'
 
-458
-00:29:12,320 --> 00:29:15,290
-I showed the young waiter my police badge.
+258
+00:29:45,600 --> 00:29:50,280
+'Strange?' The young man 
+thought for a moment. 'Mmm,'  
 
-459
-00:29:15,290 --> 00:29:19,400
-I looked over to the Mountain Hotel.
+259
+00:29:51,760 --> 00:29:59,200
+he said, 'well, there was one man... he's 
+come here every night for the past ten days.  
 
-460
-00:29:19,400 --> 00:29:22,980
-I could see Sergeant Williams next to the
-pool.
+260
+00:30:00,160 --> 00:30:07,840
+A slim guy, about thirty-five, always 
+alone. Sits here for hours sometimes.'
 
-461
-00:29:22,980 --> 00:29:25,160
-What if...?
+261
+00:30:08,640 --> 00:30:10,800
+'And last night?' I asked.
 
-462
-00:29:25,160 --> 00:29:30,190
-The killer could see Janine Anderson from
-here!
+262
+00:30:12,080 --> 00:30:14,800
+'Last night,' the waiter answered,  
 
-463
-00:29:30,190 --> 00:29:36,510
-He could sit here in the restaurant and wait,
-then just walk into the hotel.
+263
+00:30:15,520 --> 00:30:22,960
+'I thought it was strange because the man asked 
+for coffee but he left before the coffee came.'
 
-464
-00:29:36,510 --> 00:29:42,800
-'Last night,' I said to the waiter, 'did you
-see anything...
+264
+00:30:24,560 --> 00:30:27,200
+'He left without paying?' I asked.
 
-465
-00:29:42,800 --> 00:29:45,320
-anyone strange?'
+265
+00:30:27,920 --> 00:30:35,840
+'No, no,' said the waiter, 'he paid. He left 
+some money on the table and just ran out.'
 
-466
-00:29:45,320 --> 00:29:47,350
-'Strange?'
+266
+00:30:37,200 --> 00:30:40,240
+'What time did he leave?' I asked.
 
-467
-00:29:47,350 --> 00:29:50,299
-The young man thought for a moment.
+267
+00:30:41,120 --> 00:30:44,160
+'Oh, I can't remember, I'm sorry,'  
 
-468
-00:29:50,299 --> 00:29:59,270
-'Mmm,' he said, 'well, there was one man...
-he's come here every night for the past ten
+268
+00:30:44,880 --> 00:30:49,840
+said the waiter. 'We were busy 
+last night, but we close at ten.'
 
-469
-00:29:59,270 --> 00:30:00,270
-days.
+269
+00:30:50,960 --> 00:30:54,080
+'What time do the waiters leave?' I asked.
 
-470
-00:30:00,270 --> 00:30:05,500
-A slim guy, about thirty-five, always alone.
-
-471
-00:30:05,500 --> 00:30:08,980
-Sits here for hours sometimes.'
-
-472
-00:30:08,980 --> 00:30:10,230
-'And last night?'
-
-473
-00:30:10,230 --> 00:30:11,540
-I asked.
-
-474
-00:30:11,540 --> 00:30:20,679
-'Last night,' the waiter answered, 'I thought
-it was strange because the man asked for coffee
-
-475
-00:30:20,679 --> 00:30:23,190
-but he left before the coffee came.'
-
-476
-00:30:23,190 --> 00:30:26,670
-'He left without paying?'
-
-477
-00:30:26,670 --> 00:30:27,760
-I asked.
-
-478
-00:30:27,760 --> 00:30:32,820
-'No, no,' said the waiter, 'he paid.
-
-479
-00:30:32,820 --> 00:30:37,470
-He left some money on the table and just ran
-out.'
-
-480
-00:30:37,470 --> 00:30:39,669
-'What time did he leave?'
-
-481
-00:30:39,669 --> 00:30:40,770
-I asked.
-
-482
-00:30:40,770 --> 00:30:46,059
-'Oh, I can't remember, I'm sorry,' said the
-waiter.
-
-483
-00:30:46,059 --> 00:30:51,200
-'We were busy last night, but we close at
-ten.'
-
-484
-00:30:51,200 --> 00:30:53,559
-'What time do the waiters leave?'
-
-485
-00:30:53,559 --> 00:30:55,360
-I asked.
-
-486
-00:30:55,360 --> 00:31:00,550
+270
+00:30:54,880 --> 00:30:58,960
 'Oh, usually about ten-thirty,' he said.
 
-487
-00:31:00,550 --> 00:31:08,130
-So maybe the man just walked across the street,
-through the parking lot and into the hotel
+271
+00:31:00,400 --> 00:31:08,080
+So maybe the man just walked across the street, 
+through the parking lot and into the hotel  
 
-488
-00:31:08,130 --> 00:31:11,090
-to kill Janine Anderson?
+272
+00:31:08,080 --> 00:31:15,840
+to kill Janine Anderson? And no one could see 
+him from the Columbine because it was closed.  
 
-489
-00:31:11,090 --> 00:31:17,559
-And no one could see him from the Columbine
-because it was closed.
+273
+00:31:17,280 --> 00:31:21,360
+Was the man at the Columbine 
+Janine Anderson's killer?
 
-490
-00:31:17,559 --> 00:31:23,030
-Was the man at the Columbine Janine Anderson's
-killer?
+274
+00:31:22,960 --> 00:31:30,160
+I left the Columbine and walked back to the 
+police station. I told Gershon about the man  
 
-491
-00:31:23,030 --> 00:31:28,290
-I left the Columbine and walked back to the
-police station.
+275
+00:31:30,160 --> 00:31:37,200
+at the Columbine. 'Get Sergeant Williams on 
+to it,' I said. 'We need to find that man.'
 
-492
-00:31:28,290 --> 00:31:31,380
-I told Gershon about the man at the Columbine.
+276
+00:31:38,640 --> 00:31:44,800
+I got in my car and drove to 
+my hotel. The Pine Lodge Hotel  
 
-493
-00:31:31,380 --> 00:31:35,370
-'Get Sergeant Williams on to it,' I said.
+277
+00:31:44,800 --> 00:31:52,000
+was just half a mile away from the Mountain Hotel. 
+I usually stayed at the Pine Lodge when I came  
 
-494
-00:31:35,370 --> 00:31:38,740
-'We need to find that man.'
+278
+00:31:52,000 --> 00:31:59,840
+to Pine Crest for a skiing weekend. It was a 
+friendly place with nice, comfortable rooms.
 
-495
-00:31:38,740 --> 00:31:42,980
-I got in my car and drove to my hotel.
+279
+00:32:00,880 --> 00:32:07,920
+From the window of my room, I looked out 
+over the mountains. Then I opened my small  
 
-496
-00:31:42,980 --> 00:31:49,220
-The Pine Lodge Hotel was just half a mile
-away from the Mountain Hotel.
+280
+00:32:07,920 --> 00:32:13,840
+suitcase, lay on my bed and 
+thought about what I knew.
 
-497
-00:31:49,220 --> 00:31:55,490
-I usually stayed at the Pine Lodge when I
-came to Pine Crest for a skiing weekend.
+281
+00:32:14,880 --> 00:32:22,160
+It was easy for the killer, I thought. Easy to 
+watch Janine from the terrace of the Columbine.  
 
-498
-00:31:55,490 --> 00:32:01,100
-It was a friendly place with nice, comfortable
-rooms.
+282
+00:32:23,200 --> 00:32:27,840
+Easy to get to the swimming pool. But why?
 
-499
-00:32:01,100 --> 00:32:06,600
-From the window of my room, I looked out over
-the mountains.
+283
+00:32:28,800 --> 00:32:32,480
+I turned to the phone on the little 
+table by the side of the bed.  
 
-500
-00:32:06,600 --> 00:32:15,100
-Then I opened my small suitcase, lay on my
-bed and thought about what I knew.
-
-501
-00:32:15,100 --> 00:32:18,090
-It was easy for the killer, I thought.
-
-502
-00:32:18,090 --> 00:32:23,600
-Easy to watch Janine from the terrace of the
-Columbine.
-
-503
-00:32:23,600 --> 00:32:25,760
-Easy to get to the swimming pool.
-
-504
-00:32:25,760 --> 00:32:27,080
-But why?
-
-505
-00:32:27,080 --> 00:32:33,549
-I turned to the phone on the little table
-by the side of the bed.
-
-506
-00:32:33,549 --> 00:32:39,110
+284
+00:32:33,440 --> 00:32:37,040
 I called Leo and told him what I knew so far.
 
-507
-00:32:39,110 --> 00:32:40,809
-Leo listened.
+285
+00:32:38,800 --> 00:32:43,760
+Leo listened. Then he asked, 'How's Bill Gershon?'
 
-508
-00:32:40,809 --> 00:32:45,460
-Then he asked, 'How's Bill Gershon?'
+286
+00:32:45,200 --> 00:32:49,840
+'He's surprised I'm a woman,' I 
+said. 'You didn't tell him...'
 
-509
-00:32:45,460 --> 00:32:48,290
-'He's surprised I'm a woman,' I said.
+287
+00:32:51,200 --> 00:32:57,440
+Leo laughed. I laughed too. We 
+talked a little and then Leo said:  
 
-510
-00:32:48,290 --> 00:32:51,549
-'You didn't tell him...'
+288
+00:32:58,480 --> 00:33:01,440
+'Flick, I have something to tell you.'
 
-511
-00:32:51,549 --> 00:32:53,090
-Leo laughed.
+289
+00:33:02,720 --> 00:33:04,400
+'Yes?' I said.
 
-512
-00:32:53,090 --> 00:32:55,160
-I laughed too.
+290
+00:33:05,600 --> 00:33:11,120
+'We found out something today about 
+Eddie Lang and Scott's murder,' said Leo.
 
-513
-00:32:55,160 --> 00:33:02,700
-We talked a little and then Leo said: 'Flick,
-I have something to tell you.'
+291
+00:33:11,840 --> 00:33:17,440
+I sat up quickly and shouted: 'Eddie 
+Lang! You mean you know we can get him?'
 
-514
-00:33:02,700 --> 00:33:03,940
-'Yes?'
+292
+00:33:18,240 --> 00:33:23,840
+'Wait,' said Leo. 'Not exactly, 
+but I think we're very near.'
 
-515
-00:33:03,940 --> 00:33:04,990
-I said.
+293
+00:33:24,800 --> 00:33:28,400
+'I'm coming back,' I said. 'I need to be there.'
 
-516
-00:33:04,990 --> 00:33:11,850
-'We found out something today about Eddie
-Lang and Scott's murder,' said Leo.
+294
+00:33:29,200 --> 00:33:33,120
+'No,' said Leo. 'You stay right where you are.  
 
-517
-00:33:11,850 --> 00:33:15,880
-I sat up quickly and shouted: 'Eddie Lang!
+295
+00:33:34,160 --> 00:33:38,960
+We'll get Eddie Lang. You get 
+Janine Anderson's killer.'
 
-518
-00:33:15,880 --> 00:33:18,480
-You mean you know we can get him?'
+296
+00:33:40,720 --> 00:33:49,440
+I felt weak. I said goodbye to Leo, put the 
+phone down and lay down again. It was only three  
 
-519
-00:33:18,480 --> 00:33:20,740
-'Wait,' said Leo.
+297
+00:33:49,440 --> 00:33:57,920
+o'clock in the afternoon, but I felt tired and 
+closed my eyes. Before I knew it, I was asleep.  
 
-520
-00:33:20,740 --> 00:33:24,910
-'Not exactly, but I think we're very near.'
-
-521
-00:33:24,910 --> 00:33:27,280
-'I'm coming back,' I said.
-
-522
-00:33:27,280 --> 00:33:29,440
-'I need to be there.'
-
-523
-00:33:29,440 --> 00:33:31,500
-'No,' said Leo.
-
-524
-00:33:31,500 --> 00:33:34,309
-'You stay right where you are.
-
-525
-00:33:34,309 --> 00:33:36,730
-We'll get Eddie Lang.
-
-526
-00:33:36,730 --> 00:33:40,799
-You get Janine Anderson's killer.'
-
-527
-00:33:40,799 --> 00:33:42,950
-I felt weak.
-
-528
-00:33:42,950 --> 00:33:48,580
-I said goodbye to Leo, put the phone down
-and lay down again.
-
-529
-00:33:48,580 --> 00:33:55,840
-It was only three o'clock in the afternoon,
-but I felt tired and closed my eyes.
-
-530
-00:33:55,840 --> 00:33:59,610
-Before I knew it, I was asleep.
-
-531
-00:33:59,610 --> 00:34:03,550
-I dreamed about Scott, like I often did.
-
-532
-00:34:03,550 --> 00:34:07,240
+298
+00:33:59,440 --> 00:34:05,840
+I dreamed about Scott, like I often did. 
 I dreamed about his blood on the floor.
 
-533
-00:34:07,240 --> 00:34:09,440
-Then a noise woke me.
+299
+00:34:06,960 --> 00:34:10,080
+Then a noise woke me. It was the phone.
 
-534
-00:34:09,440 --> 00:34:11,389
-It was the phone.
+300
+00:34:11,520 --> 00:34:16,480
+'Hello,' I said. My voice was heavy with sleep.
 
-535
-00:34:11,389 --> 00:34:14,760
-'Hello,' I said.
-
-536
-00:34:14,760 --> 00:34:18,169
-My voice was heavy with sleep.
-
-537
-00:34:18,169 --> 00:34:19,780
+301
+00:34:17,600 --> 00:34:18,560
 'Detective Laine?'
 
-538
-00:34:19,780 --> 00:34:22,619
-'Yes, who is it?'
+302
+00:34:19,680 --> 00:34:23,120
+'Yes, who is it?' I asked.
 
-539
-00:34:22,619 --> 00:34:24,599
-I asked.
+303
+00:34:24,320 --> 00:34:30,880
+'It's Jeff Mason - Janine's friend,' said 
+the young man. 'I have to talk to you.'
 
-540
-00:34:24,599 --> 00:34:29,140
-'It's Jeff Mason - Janine's friend,' said
-the young man.
+304
+00:34:32,160 --> 00:34:36,560
+'OK Jeff, sure,' I said. 'Come over.'
 
-541
-00:34:29,140 --> 00:34:31,869
-'I have to talk to you.'
+305
+00:34:37,760 --> 00:34:46,160
+I got up and took a shower. I tried to wake up, 
+tried to forget Scott's blood on the floor. The  
 
-542
-00:34:31,869 --> 00:34:35,940
-'OK Jeff, sure,' I said.
+306
+00:34:46,160 --> 00:34:56,400
+redness of it. I let the waterfall over my body. 
+It was warm and it felt good. Scott was dead,  
 
-543
-00:34:35,940 --> 00:34:37,849
-'Come over.'
+307
+00:34:57,600 --> 00:35:06,160
+but the water felt good. Ten minutes later Jeff 
+arrived. I went down to Reception to see him.  
 
-544
-00:34:37,849 --> 00:34:40,550
-I got up and took a shower.
-
-545
-00:34:40,550 --> 00:34:46,099
-I tried to wake up, tried to forget Scott's
-blood on the floor.
-
-546
-00:34:46,099 --> 00:34:48,510
-The redness of it.
-
-547
-00:34:48,510 --> 00:34:52,179
-I let the waterfall over my body.
-
-548
-00:34:52,179 --> 00:34:55,770
-It was warm and it felt good.
-
-549
-00:34:55,770 --> 00:35:00,830
-Scott was dead, but the water felt good.
-
-550
-00:35:00,830 --> 00:35:04,010
-Ten minutes later Jeff arrived.
-
-551
-00:35:04,010 --> 00:35:07,440
-I went down to Reception to see him.
-
-552
-00:35:07,440 --> 00:35:09,500
+308
+00:35:07,280 --> 00:35:08,560
 We sat by the fire.
 
-553
-00:35:09,500 --> 00:35:11,589
-'What is it?'
+309
+00:35:10,320 --> 00:35:12,160
+'What is it?' I asked.
 
-554
-00:35:11,589 --> 00:35:13,540
-I asked.
+310
+00:35:13,360 --> 00:35:16,320
+The young man looked at me. 'Well,  
 
-555
-00:35:13,540 --> 00:35:16,180
-The young man looked at me.
+311
+00:35:17,360 --> 00:35:24,560
+maybe it's nothing, but...' he started. I 
+could see that he really wanted to talk.
 
-556
-00:35:16,180 --> 00:35:22,190
-'Well, maybe it's nothing, but...' he started.
+312
+00:35:26,240 --> 00:35:31,200
+'Well,' I said, 'it's best to tell 
+me if you think it's important.'
 
-557
-00:35:22,190 --> 00:35:25,760
-I could see that he really wanted to talk.
-
-558
-00:35:25,760 --> 00:35:31,310
-'Well,' I said, 'it's best to tell me if you
-think it's important.'
-
-559
-00:35:31,310 --> 00:35:35,560
+313
+00:35:32,400 --> 00:35:34,960
 'It's about the notebook,' he said.
 
-560
-00:35:35,560 --> 00:35:37,460
-'The notebook?'
+314
+00:35:36,080 --> 00:35:39,600
+'The notebook?' I asked. 'Do you have it?'
 
-561
-00:35:37,460 --> 00:35:38,460
-I asked.
+315
+00:35:40,480 --> 00:35:49,920
+'No,' he said. 'No, it's just that... Well, you 
+know that Janine was studying to be a journalist?'
 
-562
-00:35:38,460 --> 00:35:40,500
-'Do you have it?'
-
-563
-00:35:40,500 --> 00:35:43,120
-'No,' he said.
-
-564
-00:35:43,120 --> 00:35:45,730
-'No, it's just that...
-
-565
-00:35:45,730 --> 00:35:50,520
-Well, you know that Janine was studying to
-be a journalist?'
-
-566
-00:35:50,520 --> 00:35:54,170
+316
+00:35:50,960 --> 00:35:53,360
 'Yes, like you,' I said.
 
-567
-00:35:54,170 --> 00:35:57,460
-'Well, I was thinking...'
+317
+00:35:54,160 --> 00:35:57,840
+'Well, I was thinking...' Jeff said.
 
-568
-00:35:57,460 --> 00:35:58,460
-Jeff said.
+318
+00:35:59,360 --> 00:36:01,120
+'What is it?' I asked.
 
-569
-00:35:58,460 --> 00:36:00,610
-'What is it?'
+319
+00:36:02,000 --> 00:36:08,560
+'The thing is,' he said, 'every year at 
+our university we have a competition.'
 
-570
-00:36:00,610 --> 00:36:01,610
-I asked.
-
-571
-00:36:01,610 --> 00:36:09,400
-'The thing is,' he said, 'every year at our
-university we have a competition.'
-
-572
-00:36:09,400 --> 00:36:13,210
+320
+00:36:09,920 --> 00:36:12,080
 'I don't understand,' I said.
 
-573
-00:36:13,210 --> 00:36:19,520
-'It's a competition for students of journalism,'
-he told me, 'in February.
+321
+00:36:12,880 --> 00:36:20,800
+'It's a competition for students of journalism,' 
+he told me, 'in February. It's for the best story.  
 
-574
-00:36:19,520 --> 00:36:21,570
-It's for the best story.
+322
+00:36:21,360 --> 00:36:25,840
+You know something new... 
+something that no one knows about.'
 
-575
-00:36:21,570 --> 00:36:26,840
-You know something new... something that no
-one knows about.'
+323
+00:36:26,800 --> 00:36:28,560
+'And?' I asked.
 
-576
-00:36:26,840 --> 00:36:27,940
-'And?'
+324
+00:36:29,520 --> 00:36:35,040
+'So the winner - the one who writes 
+the best story - gets a big prize,'  
 
-577
-00:36:27,940 --> 00:36:29,820
-I asked.
+325
+00:36:35,680 --> 00:36:39,840
+he said, 'and Janine really wanted to win.'
 
-578
-00:36:29,820 --> 00:36:38,400
-'So the winner - the one who writes the best
-story - gets a big prize,' he said, 'and Janine
+326
+00:36:40,720 --> 00:36:43,360
+'And she was good.' I said.
 
-579
-00:36:38,400 --> 00:36:40,220
-really wanted to win.'
+327
+00:36:44,560 --> 00:36:51,680
+'The best.' Jeff smiled. 'And she was 
+working on something really big, I'm sure.'
 
-580
-00:36:40,220 --> 00:36:42,870
-'And she was good.'
+328
+00:36:53,200 --> 00:36:55,200
+'How do you know?' I asked.
 
-581
-00:36:42,870 --> 00:36:44,180
-I said.
+329
+00:36:56,080 --> 00:37:03,280
+'Well, I just know she was,' he said. 
+'She was always writing in her notebook.  
 
-582
-00:36:44,180 --> 00:36:46,420
-'The best.'
+330
+00:37:03,920 --> 00:37:11,280
+I could see she was. It was something big. And 
+I'm sure it was something about Pine Crest!'
 
-583
-00:36:46,420 --> 00:36:47,650
-Jeff smiled.
+331
+00:37:12,480 --> 00:37:17,520
+'Why do you think that? About 
+Pine Crest, I mean?' I asked.
 
-584
-00:36:47,650 --> 00:36:52,610
-'And she was working on something really big,
-I'm sure.'
-
-585
-00:36:52,610 --> 00:36:54,620
-'How do you know?'
-
-586
-00:36:54,620 --> 00:36:56,160
-I asked.
-
-587
-00:36:56,160 --> 00:37:00,530
-'Well, I just know she was,' he said.
-
-588
-00:37:00,530 --> 00:37:03,980
-'She was always writing in her notebook.
-
-589
-00:37:03,980 --> 00:37:06,190
-I could see she was.
-
-590
-00:37:06,190 --> 00:37:08,190
-It was something big.
-
-591
-00:37:08,190 --> 00:37:12,110
-And I'm sure it was something about Pine Crest!'
-
-592
-00:37:12,110 --> 00:37:14,490
-'Why do you think that?
-
-593
-00:37:14,490 --> 00:37:16,940
-About Pine Crest, I mean?'
-
-594
-00:37:16,940 --> 00:37:18,500
-I asked.
-
-595
-00:37:18,500 --> 00:37:22,850
+332
+00:37:18,720 --> 00:37:21,840
 'Well, you know she came here every year?'
 
-596
-00:37:22,850 --> 00:37:24,840
+333
+00:37:22,720 --> 00:37:24,320
 'Yes,' I said.
 
-597
-00:37:24,840 --> 00:37:28,090
-'I watched her,' said Jeff.
+334
+00:37:25,120 --> 00:37:30,480
+'I watched her,' said Jeff. 
+'Well, you know, we were friends.  
 
-598
-00:37:28,090 --> 00:37:31,609
-'Well, you know, we were friends.
+335
+00:37:31,360 --> 00:37:38,080
+And she went to the library at least two 
+afternoons in the last ten days, after skiing.  
 
-599
-00:37:31,609 --> 00:37:39,119
-And she went to the library at least two afternoons
-in the last ten days, after skiing.
+336
+00:37:38,960 --> 00:37:44,400
+For books. She was trying to put 
+the story together. I'm sure of it!'
 
-600
-00:37:39,119 --> 00:37:40,580
-For books.
+337
+00:37:45,920 --> 00:37:53,520
+I thought about what he said. 'But she didn't show 
+it to you?' I asked. 'Or talk to you about it?'
 
-601
-00:37:40,580 --> 00:37:43,599
-She was trying to put the story together.
+338
+00:37:54,560 --> 00:37:59,920
+Jeff smiled. 'No!' he said. 
+'I'm in the competition too.  
 
-602
-00:37:43,599 --> 00:37:45,990
-I'm sure of it!'
+339
+00:38:00,800 --> 00:38:05,440
+I don't know if it means anything... 
+that the notebook is gone.'
 
-603
-00:37:45,990 --> 00:37:48,850
-I thought about what he said.
-
-604
-00:37:48,850 --> 00:37:50,990
-'But she didn't show it to you?'
-
-605
-00:37:50,990 --> 00:37:51,990
-I asked.
-
-606
-00:37:51,990 --> 00:37:54,820
-'Or talk to you about it?'
-
-607
-00:37:54,820 --> 00:37:56,310
-Jeff smiled.
-
-608
-00:37:56,310 --> 00:37:58,590
-'No!' he said.
-
-609
-00:37:58,590 --> 00:38:00,870
-'I'm in the competition too.
-
-610
-00:38:00,870 --> 00:38:05,590
-I don't know if it means anything... that
-the notebook is gone.'
-
-611
-00:38:05,590 --> 00:38:12,609
+340
+00:38:07,040 --> 00:38:11,040
 'Well,' I smiled at him, 'it's something.'
 
-612
-00:38:12,609 --> 00:38:15,060
-I looked out of the window.
+341
+00:38:12,480 --> 00:38:17,840
+I looked out of the window. The 
+mountains were soft and quiet.
 
-613
-00:38:15,060 --> 00:38:18,020
-The mountains were soft and quiet.
+342
+00:38:18,960 --> 00:38:22,400
+'Why didn't you say something 
+before?' I asked him.
 
-614
-00:38:18,020 --> 00:38:21,740
-'Why didn't you say something before?'
+343
+00:38:23,760 --> 00:38:29,760
+'I didn't think. I mean I didn't think 
+it could have anything to do with it,'  
 
-615
-00:38:21,740 --> 00:38:23,330
-I asked him.
+344
+00:38:30,400 --> 00:38:36,640
+said the young man. 'But maybe it 
+does. And now the notebook's gone.'
 
-616
-00:38:23,330 --> 00:38:25,700
-'I didn't think.
+345
+00:38:38,080 --> 00:38:48,720
+It was quiet for a moment. Then Jeff spoke. 'You 
+know, Detective Laine,' he said, looking at me,  
 
-617
-00:38:25,700 --> 00:38:32,420
-I mean I didn't think it could have anything
-to do with it,' said the young man.
+346
+00:38:50,400 --> 00:38:53,600
+'it's really terrible to 
+lose someone close to you.  
 
-618
-00:38:32,420 --> 00:38:34,830
-'But maybe it does.
+347
+00:38:55,280 --> 00:38:59,840
+I can't tell you how I feel. I feel terrible.'
 
-619
-00:38:34,830 --> 00:38:38,280
-And now the notebook's gone.'
+348
+00:39:01,360 --> 00:39:04,400
+'Yes,' I said. 'I know.'
 
-620
-00:38:38,280 --> 00:38:40,859
-It was quiet for a moment.
+349
+00:39:06,240 --> 00:39:12,640
+I looked at Jeff. He looked so 
+young and so sad. I don't know why,  
 
-621
-00:38:40,859 --> 00:38:42,630
-Then Jeff spoke.
+350
+00:39:13,600 --> 00:39:20,960
+but I wanted to tell him about Scott. Perhaps 
+it was because my dream was so close to me.  
 
-622
-00:38:42,630 --> 00:38:52,830
-'You know, Detective Laine,' he said, looking
-at me, 'it's really terrible to lose someone
+351
+00:39:21,920 --> 00:39:25,440
+Perhaps it was because Jeff had kind, blue eyes.  
 
-623
-00:38:52,830 --> 00:38:55,320
-close to you.
+352
+00:39:27,040 --> 00:39:35,360
+Perhaps it was because Jeff's friend was dead 
+too. I told him the story. The story about Scott.
 
-624
-00:38:55,320 --> 00:38:58,950
-I can't tell you how I feel.
+353
+00:39:37,360 --> 00:39:44,480
+'We never caught him,' I said. 'Eddie 
+Lang, I mean. I never caught him.  
 
-625
-00:38:58,950 --> 00:39:00,170
-I feel terrible.'
+354
+00:39:45,440 --> 00:39:49,840
+I knew it was him. I knew he killed Scott. But...'
 
-626
-00:39:00,170 --> 00:39:03,970
-'Yes,' I said.
+355
+00:39:51,760 --> 00:40:00,240
+'But you didn't have anything... you couldn't 
+show that it was him,' said Jeff. 'I understand.  
 
-627
-00:39:03,970 --> 00:39:06,310
-'I know.'
-
-628
-00:39:06,310 --> 00:39:08,530
-I looked at Jeff.
-
-629
-00:39:08,530 --> 00:39:11,760
-He looked so young and so sad.
-
-630
-00:39:11,760 --> 00:39:18,120
-I don't know why, but I wanted to tell him
-about Scott.
-
-631
-00:39:18,120 --> 00:39:22,540
-Perhaps it was because my dream was so close
-to me.
-
-632
-00:39:22,540 --> 00:39:27,630
-Perhaps it was because Jeff had kind, blue
-eyes.
-
-633
-00:39:27,630 --> 00:39:30,990
-Perhaps it was because Jeff's friend was dead
-too.
-
-634
-00:39:30,990 --> 00:39:34,160
-I told him the story.
-
-635
-00:39:34,160 --> 00:39:36,390
-The story about Scott.
-
-636
-00:39:36,390 --> 00:39:40,130
-'We never caught him,' I said.
-
-637
-00:39:40,130 --> 00:39:43,320
-'Eddie Lang, I mean.
-
-638
-00:39:43,320 --> 00:39:45,510
-I never caught him.
-
-639
-00:39:45,510 --> 00:39:47,390
-I knew it was him.
-
-640
-00:39:47,390 --> 00:39:50,370
-I knew he killed Scott.
-
-641
-00:39:50,370 --> 00:39:51,980
-But...'
-
-642
-00:39:51,980 --> 00:39:54,650
-'But you didn't have anything...
-
-643
-00:39:54,650 --> 00:39:58,990
-you couldn't show that it was him,' said Jeff.
-
-644
-00:39:58,990 --> 00:40:01,530
-'I understand.
-
-645
-00:40:01,530 --> 00:40:04,560
+356
+00:40:01,600 --> 00:40:03,360
 Yes, it's difficult.'
 
-646
-00:40:04,560 --> 00:40:09,240
-'Yeah,' I said, standing up.
+357
+00:40:04,560 --> 00:40:07,600
+'Yeah,' I said, standing up.  
 
-647
-00:40:09,240 --> 00:40:14,300
-'Most days it's difficult, and some days are
-more difficult than others.'
+358
+00:40:08,800 --> 00:40:14,160
+'Most days it's difficult, and some 
+days are more difficult than others.'
 
-648
-00:40:14,300 --> 00:40:17,840
-'So...?'
+359
+00:40:15,920 --> 00:40:18,400
+'So...?' Jeff asked.
 
-649
-00:40:17,840 --> 00:40:19,500
-Jeff asked.
+360
+00:40:19,840 --> 00:40:26,080
+'So how do I live?' I asked 
+the question for him. 'Well,  
 
-650
-00:40:19,500 --> 00:40:22,810
-'So how do I live?'
+361
+00:40:27,120 --> 00:40:33,120
+some days I think why wasn't I 
+there in front? Why didn't I die?  
 
-651
-00:40:22,810 --> 00:40:25,980
-I asked the question for him.
+362
+00:40:34,640 --> 00:40:41,600
+Then some days I think why didn't I stop 
+Lang, stop him from shooting Scott?'
 
-652
-00:40:25,980 --> 00:40:31,900
-'Well, some days I think why wasn't I there
-in front?
-
-653
-00:40:31,900 --> 00:40:34,960
-Why didn't I die?
-
-654
-00:40:34,960 --> 00:40:43,850
-Then some days I think why didn't I stop Lang,
-stop him from shooting Scott?'
-
-655
-00:40:43,850 --> 00:40:45,830
+363
+00:40:43,600 --> 00:40:44,640
 Jeff looked at me.
 
-656
-00:40:45,830 --> 00:40:53,570
-'But most days,' I said, 'I think we're going
-to get Eddie Lang!
+364
+00:40:46,480 --> 00:40:52,480
+'But most days,' I said, 'I think 
+we're going to get Eddie Lang!  
 
-657
-00:40:53,570 --> 00:41:04,430
-One day, Eddie Lang will be in prison for
-a very long time!'
+365
+00:40:53,360 --> 00:40:58,480
+One day, Eddie Lang will be in 
+prison for a very long time!'
+ 
+ 
+ 
 
-658
-00:41:04,430 --> 00:41:09,849
+366
+00:41:04,320 --> 00:41:05,840
 CHAPTER FIVE
+
+367
+00:41:06,560 --> 00:41:07,840
 Looking for reasons
 
-659
-00:41:09,849 --> 00:41:17,930
-That night at about nine-thirty Janine Anderson's
-parents flew into Denver International Airport.
+368
+00:41:09,600 --> 00:41:16,720
+That night at about nine-thirty Janine Anderson's 
+parents flew into Denver International Airport.  
 
-660
-00:41:17,930 --> 00:41:21,480
-They were returning early from their holiday
-in Italy.
+369
+00:41:17,760 --> 00:41:24,480
+They were returning early from their holiday 
+in Italy. A police car drove them to Pine Crest  
 
-661
-00:41:21,480 --> 00:41:26,150
-A police car drove them to Pine Crest Hospital.
+370
+00:41:24,480 --> 00:41:31,120
+Hospital. They had to see their daughter's 
+body, to see that it really was Janine.
 
-662
-00:41:26,150 --> 00:41:32,770
-They had to see their daughter's body, to
-see that it really was Janine.
+371
+00:41:32,560 --> 00:41:35,440
+The Andersons were staying at the Pine Lodge too,  
 
-663
-00:41:32,770 --> 00:41:39,001
-The Andersons were staying at the Pine Lodge
-too, and late in the evening, at about eleven
+372
+00:41:36,240 --> 00:41:42,640
+and late in the evening, at about eleven 
+o'clock, Bill Gershon brought them to the hotel.  
 
-664
-00:41:39,001 --> 00:41:44,620
-o'clock, Bill Gershon brought them to the
-hotel.
-
-665
-00:41:44,620 --> 00:41:47,970
-'I'm so sorry,' I said to them.
-
-666
-00:41:47,970 --> 00:41:49,370
+373
+00:41:44,400 --> 00:41:49,120
+'I'm so sorry,' I said to them. 
 'I'll try to make this quick.'
 
-667
-00:41:49,370 --> 00:41:59,310
-Gene and Loretta Anderson were both forty
-to forty-five, well-dressed, rich Texans.
+374
+00:41:50,640 --> 00:41:57,840
+Gene and Loretta Anderson were both forty 
+to forty-five, well-dressed, rich Texans.  
 
-668
-00:41:59,310 --> 00:42:03,900
-Janine's mother soon went to her room and
-I talked to the father.
+375
+00:41:58,880 --> 00:42:06,240
+Janine's mother soon went to her room and I talked 
+to the father. Gene Anderson was a Texas oilman,  
 
-669
-00:42:03,900 --> 00:42:11,220
-Gene Anderson was a Texas oilman, a man who
-was now very rich, but who started life on
+376
+00:42:07,040 --> 00:42:14,080
+a man who was now very rich, but who started 
+life on a farm, a ranch, near Houston.
 
-670
-00:42:11,220 --> 00:42:14,940
-a farm, a ranch, near Houston.
+377
+00:42:15,600 --> 00:42:21,920
+'I just can't believe it,' he said 
+again and again. 'She was so young,  
 
-671
-00:42:14,940 --> 00:42:20,610
-'I just can't believe it,' he said again and
-again.
+378
+00:42:22,720 --> 00:42:30,320
+so intelligent. Who did this, 
+Detective Laine? Who killed my baby?'
 
-672
-00:42:20,610 --> 00:42:23,810
-'She was so young, so intelligent.
+379
+00:42:30,320 --> 00:42:35,520
+'I don't know, Mr. Anderson,' I 
+said, 'but I am going to find out.'
 
-673
-00:42:23,810 --> 00:42:27,700
-Who did this, Detective Laine?
+380
+00:42:36,720 --> 00:42:41,360
+'I hope so, Detective Laine. I really hope so.'
 
-674
-00:42:27,700 --> 00:42:29,700
-Who killed my baby?'
-
-675
-00:42:29,700 --> 00:42:36,050
-'I don't know, Mr. Anderson,' I said, 'but
-I am going to find out.'
-
-676
-00:42:36,050 --> 00:42:39,960
-'I hope so, Detective Laine.
-
-677
-00:42:39,960 --> 00:42:42,120
-I really hope so.'
-
-678
-00:42:42,120 --> 00:42:47,180
+381
+00:42:42,720 --> 00:42:46,320
 'But I need your help, Mr. Anderson,' I said.
 
-679
-00:42:47,180 --> 00:42:52,010
+382
+00:42:47,520 --> 00:42:50,240
 'Anything I can do,' he said.
 
-680
-00:42:52,010 --> 00:42:55,470
-'Well, there is one thing,' I said.
+383
+00:42:51,520 --> 00:42:58,720
+'Well, there is one thing,' I said. 'She 
+was studying to become a journalist, right?'
 
-681
-00:42:55,470 --> 00:42:59,300
-'She was studying to become a journalist,
-right?'
+384
+00:42:59,520 --> 00:43:06,800
+'That's right,' he said, 'and she was an 
+"A" student.' He smiled for the first time.  
 
-682
-00:42:59,300 --> 00:43:05,150
-'That's right,' he said, 'and she was an "A"
-student.'
+385
+00:43:08,000 --> 00:43:12,160
+'She was a really good writer,' he said.  
 
-683
-00:43:05,150 --> 00:43:07,440
-He smiled for the first time.
+386
+00:43:12,160 --> 00:43:16,880
+'All her teachers said she could be 
+a really good journalist one day.'
 
-684
-00:43:07,440 --> 00:43:11,839
-'She was a really good writer,' he said.
+387
+00:43:18,720 --> 00:43:25,840
+Gene Anderson tried to stop himself 
+from crying. I waited for a few minutes.
 
-685
-00:43:11,839 --> 00:43:18,750
-'All her teachers said she could be a really
-good journalist one day.'
+388
+00:43:27,040 --> 00:43:33,600
+'Mr. Anderson, Janine's friend 
+Jeff told me that she was writing  
 
-686
-00:43:18,750 --> 00:43:23,580
-Gene Anderson tried to stop himself from crying.
+389
+00:43:33,600 --> 00:43:37,440
+something for a university competition,' I said.
 
-687
-00:43:23,580 --> 00:43:26,570
-I waited for a few minutes.
+390
+00:43:38,720 --> 00:43:45,840
+'Yes,' said the dead girl's father, 'and 
+she really wanted to win. She wanted to  
 
-688
-00:43:26,570 --> 00:43:36,260
-'Mr. Anderson, Janine's friend Jeff told me
-that she was writing something for a university
+391
+00:43:45,840 --> 00:43:52,160
+be a journalist more than anything in the 
+world. And she knew that it was a good start.  
 
-689
-00:43:36,260 --> 00:43:38,710
-competition,' I said.
-
-690
-00:43:38,710 --> 00:43:45,290
-'Yes,' said the dead girl's father, 'and she
-really wanted to win.
-
-691
-00:43:45,290 --> 00:43:50,170
-She wanted to be a journalist more than anything
-in the world.
-
-692
-00:43:50,170 --> 00:43:53,470
-And she knew that it was a good start.
-
-693
-00:43:53,470 --> 00:43:58,060
+392
+00:43:53,280 --> 00:43:55,760
 She told me something about it at Christmas.'
 
-694
-00:43:58,060 --> 00:44:01,290
-'Did she tell you what she was writing about?'
+393
+00:43:57,840 --> 00:44:01,680
+'Did she tell you what she 
+was writing about?' I asked.
 
-695
-00:44:01,290 --> 00:44:03,310
-I asked.
-
-696
-00:44:03,310 --> 00:44:11,869
-'No, not really, ma'am,' said Gene Anderson,
+394
+00:44:02,960 --> 00:44:10,080
+'No, not really, ma'am,' said Gene Anderson, 
 'but I think it was something big.'
 
-697
-00:44:11,869 --> 00:44:14,650
+395
+00:44:11,760 --> 00:44:13,520
 I looked at Gene Anderson.
 
-698
-00:44:14,650 --> 00:44:22,940
-He went on: '"Daddy," she told me, "this story's
-so big it's going to get me the journalism
+396
+00:44:14,480 --> 00:44:22,240
+He went on: '"Daddy," she told me, "this 
+story's so big it's going to get me the  
 
-699
-00:44:22,940 --> 00:44:29,890
-prize and maybe somebody will go to prison
-for a very long time."'
+397
+00:44:22,240 --> 00:44:28,000
+journalism prize and maybe somebody will 
+go to prison for a very long time."'
 
-700
-00:44:29,890 --> 00:44:33,480
-'But she didn't tell you who the "somebody"
-was?'
+398
+00:44:29,600 --> 00:44:34,160
+'But she didn't tell you who the 
+"somebody" was?' I asked him.
 
-701
-00:44:33,480 --> 00:44:35,170
-I asked him.
+399
+00:44:34,960 --> 00:44:43,920
+'No,' he said, 'she didn't. She was working 
+on it, you know, getting it right. Hey,  
 
-702
-00:44:35,170 --> 00:44:38,930
-'No,' he said, 'she didn't.
+400
+00:44:45,360 --> 00:44:46,400
+you're not saying...?'
 
-703
-00:44:38,930 --> 00:44:43,780
-She was working on it, you know, getting it
-right.
+401
+00:44:47,920 --> 00:44:54,000
+'I'm not saying anything, Mr. 
+Anderson,' I replied. 'Nothing at all.'
 
-704
-00:44:43,780 --> 00:44:48,160
-Hey, you're not saying...?'
+402
+00:44:57,840 --> 00:45:04,400
+The next morning I got up early and went 
+out. It was very cold in the early morning.  
 
-705
-00:44:48,160 --> 00:44:52,339
-'I'm not saying anything, Mr. Anderson,' I
-replied.
+403
+00:45:05,120 --> 00:45:08,960
+The snow was hard and it was 
+difficult to stay on your feet.
 
-706
-00:44:52,339 --> 00:44:53,640
-'Nothing at all.'
+404
+00:45:10,640 --> 00:45:19,120
+I thought again, about what Gene Anderson told me. 
+'Somebody will go to prison for a very long time,'  
 
-707
-00:44:53,640 --> 00:45:02,160
-The next morning I got up early and went out.
+405
+00:45:19,840 --> 00:45:26,080
+his daughter said to him. Who was 
+it? What was Janine writing about?
 
-708
-00:45:02,160 --> 00:45:05,320
-It was very cold in the early morning.
+406
+00:45:27,920 --> 00:45:35,520
+I looked for Pine Crest Town Library, the library 
+where Janine Anderson went to study for her story.  
 
-709
-00:45:05,320 --> 00:45:10,770
-The snow was hard and it was difficult to
-stay on your feet.
-
-710
-00:45:10,770 --> 00:45:15,110
-I thought again, about what Gene Anderson
-told me.
-
-711
-00:45:15,110 --> 00:45:22,560
-'Somebody will go to prison for a very long
-time,' his daughter said to him.
-
-712
-00:45:22,560 --> 00:45:24,570
-Who was it?
-
-713
-00:45:24,570 --> 00:45:28,020
-What was Janine writing about?
-
-714
-00:45:28,020 --> 00:45:34,599
-I looked for Pine Crest Town Library, the
-library where Janine Anderson went to study
-
-715
-00:45:34,599 --> 00:45:36,880
-for her story.
-
-716
-00:45:36,880 --> 00:45:40,310
-Then I saw a building with a big sign outside.
-
-717
-00:45:40,310 --> 00:45:45,109
+407
+00:45:36,640 --> 00:45:43,600
+Then I saw a building with a big sign outside. 
 It said: 'Books can change your life.'
 
-718
-00:45:45,109 --> 00:45:47,630
-I went into the library.
+408
+00:45:45,040 --> 00:45:53,120
+I went into the library. The young woman at the 
+desk had big hair and a big smile. 'Good morning,  
 
-719
-00:45:47,630 --> 00:45:52,560
-The young woman at the desk had big hair and
-a big smile.
+409
+00:45:53,680 --> 00:45:55,760
+can I help you?' she said.
 
-720
-00:45:52,560 --> 00:45:55,410
-'Good morning, can I help you?'
+410
+00:45:56,720 --> 00:46:03,520
+'Yes,' I said, and showed her my 
+police badge. 'Detective Flick Laine,  
 
-721
-00:45:55,410 --> 00:45:56,800
-she said.
+411
+00:46:04,240 --> 00:46:09,200
+Denver Police Department. It's 
+about the death of Janine Anderson.'
 
-722
-00:45:56,800 --> 00:46:02,730
-'Yes,' I said, and showed her my police badge.
+412
+00:46:10,720 --> 00:46:17,360
+She stopped smiling. 'Oh yes, 
+poor girl... it's terrible.'
 
-723
-00:46:02,730 --> 00:46:06,950
-'Detective Flick Laine, Denver Police Department.
+413
+00:46:18,800 --> 00:46:21,360
+'Did she ever come here?' I asked.
 
-724
-00:46:06,950 --> 00:46:10,890
-It's about the death of Janine Anderson.'
+414
+00:46:22,080 --> 00:46:29,520
+'Yes, she did,' said the young woman. 'She mostly 
+wanted to look at pages from old newspapers.'
 
-725
-00:46:10,890 --> 00:46:12,530
-She stopped smiling.
+415
+00:46:30,880 --> 00:46:34,640
+'She could take books and 
+newspapers away?' I asked.
 
-726
-00:46:12,530 --> 00:46:16,710
-'Oh yes, poor girl...
+416
+00:46:35,440 --> 00:46:40,000
+'She had a letter from her 
+university,' said the young woman,  
 
-727
-00:46:16,710 --> 00:46:19,020
-it's terrible.'
+417
+00:46:40,000 --> 00:46:45,040
+'so she could take newspapers and books 
+out. She was a student, you know.'
 
-728
-00:46:19,020 --> 00:46:20,730
-'Did she ever come here?'
+418
+00:46:45,920 --> 00:46:52,080
+'Yes,' I said. 'Do you have a list of 
+the newspapers and books she took?'
 
-729
-00:46:20,730 --> 00:46:21,970
-I asked.
-
-730
-00:46:21,970 --> 00:46:25,590
-'Yes, she did,' said the young woman.
-
-731
-00:46:25,590 --> 00:46:29,670
-'She mostly wanted to look at pages from old
-newspapers.'
-
-732
-00:46:29,670 --> 00:46:34,070
-'She could take books and newspapers away?'
-
-733
-00:46:34,070 --> 00:46:35,090
-I asked.
-
-734
-00:46:35,090 --> 00:46:41,690
-'She had a letter from her university,' said
-the young woman, 'so she could take newspapers
-
-735
-00:46:41,690 --> 00:46:43,599
-and books out.
-
-736
-00:46:43,599 --> 00:46:45,960
-She was a student, you know.'
-
-737
-00:46:45,960 --> 00:46:47,940
-'Yes,' I said.
-
-738
-00:46:47,940 --> 00:46:52,800
-'Do you have a list of the newspapers and
-books she took?'
-
-739
-00:46:52,800 --> 00:46:55,640
-'Oh yes,' said the librarian.
-
-740
-00:46:55,640 --> 00:46:57,990
+419
+00:46:53,120 --> 00:46:57,200
+'Oh yes,' said the librarian. 
 'Would you like to see it?'
 
-741
-00:46:57,990 --> 00:47:01,220
+420
+00:46:58,160 --> 00:47:00,240
 'Yes, please,' I said.
 
-742
-00:47:01,220 --> 00:47:05,160
-The young woman turned to the computer in
-front of her.
+421
+00:47:01,120 --> 00:47:07,520
+The young woman turned to the computer in 
+front of her. 'Here,' she said. 'Have a look.'
 
-743
-00:47:05,160 --> 00:47:07,230
-'Here,' she said.
+422
+00:47:09,120 --> 00:47:13,680
+First, there was the dead girl's 
+name and home address in Texas.  
 
-744
-00:47:07,230 --> 00:47:09,450
-'Have a look.'
+423
+00:47:14,560 --> 00:47:20,640
+Then there was a list of books; all of them 
+were about Colorado and land development.  
 
-745
-00:47:09,450 --> 00:47:14,880
-First, there was the dead girl's name and
-home address in Texas.
+424
+00:47:21,600 --> 00:47:26,480
+Then there was a list of about ten 
+newspapers that Janine took from the  
 
-746
-00:47:14,880 --> 00:47:21,890
-Then there was a list of books; all of them
-were about Colorado and land development.
+425
+00:47:26,480 --> 00:47:33,760
+library in the last two years. I asked 
+to see them all. In every newspaper,  
 
-747
-00:47:21,890 --> 00:47:28,060
-Then there was a list of about ten newspapers
-that Janine took from the library in the last
-
-748
-00:47:28,060 --> 00:47:29,810
-two years.
-
-749
-00:47:29,810 --> 00:47:32,280
-I asked to see them all.
-
-750
-00:47:32,280 --> 00:47:38,510
-In every newspaper, there was a story about
-ski resorts and hotels.
-
-751
-00:47:38,510 --> 00:47:43,080
+426
+00:47:33,760 --> 00:47:41,520
+there was a story about ski resorts and hotels. 
 One of them talked about a famous movie star.
 
-752
-00:47:43,080 --> 00:47:49,640
-The movie star, Susan Hunter, who lives in
-Pine Crest, said: 'People have always come
+427
+00:47:42,880 --> 00:47:50,720
+The movie star, Susan Hunter, who lives in Pine 
+Crest, said: 'People have always come to Colorado,  
 
-753
-00:47:49,640 --> 00:47:52,950
-to Colorado, to get rich fast.
+428
+00:47:50,720 --> 00:47:59,440
+to get rich fast. In the past, it was gold and 
+silver. Today, most of the gold and silver has  
 
-754
-00:47:52,950 --> 00:47:56,410
-In the past, it was gold and silver.
+429
+00:47:59,440 --> 00:48:05,840
+gone. The new gold is land that can 
+be used for ski resorts and hotels.  
 
-755
-00:47:56,410 --> 00:48:00,700
-Today, most of the gold and silver has gone.
+430
+00:48:06,800 --> 00:48:14,960
+Land developers make millions of dollars from 
+this land. Today in Colorado, there's a fight  
 
-756
-00:48:00,700 --> 00:48:07,180
-The new gold is land that can be used for
-ski resorts and hotels.
+431
+00:48:14,960 --> 00:48:22,560
+between big business and nature lovers who 
+want to stop this. I am fighting for Colorado!'
 
-757
-00:48:07,180 --> 00:48:12,339
-Land developers make millions of dollars from
-this land.
+432
+00:48:24,000 --> 00:48:34,640
+I closed the newspaper. Big business, I thought. 
+Big money. Every year in Colorado, there were more  
 
-758
-00:48:12,339 --> 00:48:18,710
-Today in Colorado, there's a fight between
-big business and nature lovers who want to
+433
+00:48:34,640 --> 00:48:42,960
+houses, more stores, and more ski resorts. 
+More and more people trying to make money.  
 
-759
-00:48:18,710 --> 00:48:20,190
-stop this.
+434
+00:48:44,400 --> 00:48:51,600
+I knew that people who lived here in the Rocky 
+Mountains often got angry. 'This is nature,'  
 
-760
-00:48:20,190 --> 00:48:24,130
-I am fighting for Colorado!'
+435
+00:48:52,160 --> 00:48:57,760
+they said. 'We don't need more buildings. 
+We don't need more ski resorts.'  
 
-761
-00:48:24,130 --> 00:48:26,990
-I closed the newspaper.
+436
+00:48:59,120 --> 00:49:15,840
+But it was like standing on the beach 
+and trying to make the sea go back.
+ 
+ 
+ 
 
-762
-00:48:26,990 --> 00:48:29,570
-Big business, I thought.
-
-763
-00:48:29,570 --> 00:48:32,070
-Big money.
-
-764
-00:48:32,070 --> 00:48:40,329
-Every year in Colorado, there were more houses,
-more stores, and more ski resorts.
-
-765
-00:48:40,329 --> 00:48:44,420
-More and more people trying to make money.
-
-766
-00:48:44,420 --> 00:48:49,770
-I knew that people who lived here in the Rocky
-Mountains often got angry.
-
-767
-00:48:49,770 --> 00:48:52,850
-'This is nature,' they said.
-
-768
-00:48:52,850 --> 00:48:55,730
-'We don't need more buildings.
-
-769
-00:48:55,730 --> 00:48:58,400
-We don't need more ski resorts.'
-
-770
-00:48:58,400 --> 00:49:32,650
-But it was like standing on the beach and
-trying to make the sea go back.
-
-771
-00:49:32,650 --> 00:49:37,430
+437
+00:49:32,640 --> 00:49:33,440
 CHAPTER SIX
+
+438
+00:49:34,640 --> 00:49:35,600
 A Movie Star
 
-772
-00:49:37,430 --> 00:49:40,090
+439
+00:49:37,360 --> 00:49:39,440
 I called Gershon on my cell phone.
 
-773
-00:49:40,090 --> 00:49:43,109
-'Susan Hunter,' I said.
+440
+00:49:40,640 --> 00:49:47,120
+'Susan Hunter,' I said. 'She seems to be very 
+active in the fight against land development.'
 
-774
-00:49:43,109 --> 00:49:48,579
-'She seems to be very active in the fight
-against land development.'
+441
+00:49:48,560 --> 00:49:54,640
+'Yeah, she was, he said. 'But she 
+hasn't done anything for a while.'
 
-775
-00:49:48,579 --> 00:49:52,700
-'Yeah, she was, he said.
+442
+00:49:55,920 --> 00:49:58,080
+'Where does she live?' I asked.
 
-776
-00:49:52,700 --> 00:49:54,820
-'But she hasn't done anything for a while.'
+443
+00:49:58,960 --> 00:50:02,080
+'Big house up on Hillside,' he said.  
 
-777
-00:49:54,820 --> 00:49:57,510
-'Where does she live?'
+444
+00:50:02,800 --> 00:50:07,200
+Hillside was the part of Pine Crest 
+where all the famous people lived.
 
-778
-00:49:57,510 --> 00:49:59,200
-I asked.
-
-779
-00:49:59,200 --> 00:50:02,930
-'Big house up on Hillside,' he said.
-
-780
-00:50:02,930 --> 00:50:08,420
-Hillside was the part of Pine Crest where
-all the famous people lived.
-
-781
-00:50:08,420 --> 00:50:10,480
-'Good,' I said.
-
-782
-00:50:10,480 --> 00:50:12,589
-'I'll go to see her.
-
-783
-00:50:12,589 --> 00:50:15,950
+445
+00:50:08,480 --> 00:50:15,600
+'Good,' I said. 'I'll go to see her. 
 Oh, and did you hear from the hospital?'
 
-784
-00:50:15,950 --> 00:50:19,330
+446
+00:50:16,800 --> 00:50:18,560
 'Yes,' he said.
 
-785
-00:50:19,330 --> 00:50:21,430
-'And?'
+447
+00:50:20,000 --> 00:50:25,840
+'And?' I asked. Working with Gershon was slow.
 
-786
-00:50:21,430 --> 00:50:23,619
-I asked.
+448
+00:50:26,560 --> 00:50:33,120
+'Well, they are sure now that it was 
+murder,' he said, 'and it was a man.'
 
-787
-00:50:23,619 --> 00:50:26,280
-Working with Gershon was slow.
+449
+00:50:34,640 --> 00:50:37,280
+'What time did she die?' I asked.
 
-788
-00:50:26,280 --> 00:50:34,850
-'Well, they are sure now that it was murder,'
-he said, 'and it was a man.'
-
-789
-00:50:34,850 --> 00:50:36,740
-'What time did she die?'
-
-790
-00:50:36,740 --> 00:50:38,869
-I asked.
-
-791
-00:50:38,869 --> 00:50:43,579
+450
+00:50:38,240 --> 00:50:41,680
 'Between ten-thirty and eleven,' he said.
 
-792
-00:50:43,579 --> 00:50:50,870
-Janine Anderson died minutes before Teresa
-Douglas went to the pool and found her body.
+451
+00:50:43,120 --> 00:50:49,600
+Janine Anderson died minutes before Teresa 
+Douglas went to the pool and found her body.  
 
-793
-00:50:50,870 --> 00:50:55,930
-And probably minutes after the waiters at
-the Columbine left.
+452
+00:50:50,640 --> 00:50:55,280
+And probably minutes after the 
+waiters at the Columbine left.
 
-794
-00:50:55,930 --> 00:51:02,450
-I put my phone away and felt my gun in my
-inside pocket.
+453
+00:50:56,480 --> 00:51:01,040
+I put my phone away and felt 
+my gun in my inside pocket.
 
-795
-00:51:02,450 --> 00:51:09,510
-At three o'clock that afternoon, I parked
-my Chevy next to Susan Hunter's Jaguar, outside
+454
+00:51:02,240 --> 00:51:06,080
+At three o'clock that afternoon, I parked my Chevy  
 
-796
-00:51:09,510 --> 00:51:13,270
-her beautiful big house.
+455
+00:51:06,080 --> 00:51:13,920
+next to Susan Hunter's Jaguar, outside 
+her beautiful big house. Movie stars,  
 
-797
-00:51:13,270 --> 00:51:16,010
-Movie stars, I thought.
+456
+00:51:14,560 --> 00:51:20,240
+I thought. They don't like development, 
+but they live in big houses!
 
-798
-00:51:16,010 --> 00:51:21,630
-They don't like development, but they live
-in big houses!
+457
+00:51:21,520 --> 00:51:28,560
+I got out of my car and looked at the mountains. 
+I saw that there were cameras everywhere around  
 
-799
-00:51:21,630 --> 00:51:25,740
-I got out of my car and looked at the mountains.
+458
+00:51:28,560 --> 00:51:36,480
+the house. A very tall man came to the door. I 
+could see that he had a gun under his jacket.
 
-800
-00:51:25,740 --> 00:51:30,440
-I saw that there were cameras everywhere around
-the house.
-
-801
-00:51:30,440 --> 00:51:33,760
-A very tall man came to the door.
-
-802
-00:51:33,760 --> 00:51:37,760
-I could see that he had a gun under his jacket.
-
-803
-00:51:37,760 --> 00:51:41,220
+459
+00:51:37,680 --> 00:51:40,720
 I showed him my City of Denver police badge.
 
-804
-00:51:41,220 --> 00:51:47,300
-'Good afternoon, Detective Laine,' he said,
-smiling.
+460
+00:51:42,080 --> 00:51:46,000
+'Good afternoon, Detective 
+Laine,' he said, smiling.
 
-805
-00:51:47,300 --> 00:51:49,880
-He took me into the star's living room.
-
-806
-00:51:49,880 --> 00:51:54,170
+461
+00:51:47,120 --> 00:51:52,880
+He took me into the star's living room. 
 A few moments later, she walked in.
 
-807
-00:51:54,170 --> 00:52:01,900
-Susan Hunter was a beautiful woman in her
-thirties, with black hair and clear blue eyes.
+462
+00:51:54,160 --> 00:52:00,880
+Susan Hunter was a beautiful woman in her 
+thirties, with black hair and clear blue eyes.  
 
-808
-00:52:01,900 --> 00:52:07,260
-She was dressed in grey trousers and a red
-blouse with a high neck.
+463
+00:52:01,680 --> 00:52:08,240
+She was dressed in grey trousers and a red 
+blouse with a high neck. We sat together in  
 
-809
-00:52:07,260 --> 00:52:12,300
-We sat together in the very big living room,
-drinking tea.
+464
+00:52:08,240 --> 00:52:15,120
+the very big living room, drinking tea. Around 
+the room, there were photos of the star with  
 
-810
-00:52:12,300 --> 00:52:17,849
-Around the room, there were photos of the
-star with other famous movie stars.
+465
+00:52:15,120 --> 00:52:20,800
+other famous movie stars. There were also 
+photos of her husband and three children.
 
-811
-00:52:17,849 --> 00:52:21,960
-There were also photos of her husband and
-three children.
+466
+00:52:22,160 --> 00:52:28,480
+'Yes, in the past it was gold and 
+silver, Detective Laine,' she said,  
 
-812
-00:52:21,960 --> 00:52:29,951
-'Yes, in the past it was gold and silver,
-Detective Laine,' she said, taking a drink
-
-813
-00:52:29,951 --> 00:52:31,880
-of her tea.
-
-814
-00:52:31,880 --> 00:52:34,540
-'Now it's ski resorts.
-
-815
-00:52:34,540 --> 00:52:38,490
+467
+00:52:29,120 --> 00:52:37,120
+taking a drink of her tea. 'Now it's ski resorts. 
 There's always some reason why we need land.'
 
-816
-00:52:38,490 --> 00:52:40,869
+468
+00:52:38,400 --> 00:52:39,520
 I waited for more.
 
-817
-00:52:40,869 --> 00:52:45,940
-'But,' she said, 'it can't go on like this.
+469
+00:52:40,800 --> 00:52:49,200
+'But,' she said, 'it can't go on like this. 
+The land is not ours. It's for our children  
 
-818
-00:52:45,940 --> 00:52:48,300
-The land is not ours.
-
-819
-00:52:48,300 --> 00:52:52,050
-It's for our children and our grandchildren
-to enjoy.
-
-820
-00:52:52,050 --> 00:52:55,460
+470
+00:52:49,760 --> 00:52:54,480
+and our grandchildren to enjoy. 
 This is such a beautiful place.'
 
-821
-00:52:55,460 --> 00:52:59,369
-'Yes, it's lovely,' I agreed.
+471
+00:52:55,680 --> 00:53:03,600
+'Yes, it's lovely,' I agreed. We looked out 
+of the window. The sun was starting to go down  
 
-822
-00:52:59,369 --> 00:53:01,770
-We looked out of the window.
+472
+00:53:03,600 --> 00:53:07,760
+over the Rocky Mountains and 
+the sky was pink and orange.
 
-823
-00:53:01,770 --> 00:53:08,400
-The sun was starting to go down over the Rocky
-Mountains and the sky was pink and orange.
+473
+00:53:08,960 --> 00:53:15,840
+'But ski resorts mean big money,' she went 
+on, 'and it's difficult to stop people buying  
 
-824
-00:53:08,400 --> 00:53:15,670
-'But ski resorts mean big money,' she went
-on, 'and it's difficult to stop people buying
+474
+00:53:15,840 --> 00:53:24,320
+and developing the land.' Her voice became 
+very quiet. 'Look at Redridge,' she said.
 
-825
-00:53:15,670 --> 00:53:18,570
-and developing the land.'
+475
+00:53:25,440 --> 00:53:33,680
+'Oh yes,' I said. Redridge was a small town 
+thirty miles away. It was an old silver town.
 
-826
-00:53:18,570 --> 00:53:21,099
-Her voice became very quiet.
+476
+00:53:34,560 --> 00:53:42,320
+'Well,' she said, 'three years ago 
+Redridge was a small, quiet town.  
 
-827
-00:53:21,099 --> 00:53:25,079
-'Look at Redridge,' she said.
+477
+00:53:42,320 --> 00:53:48,160
+Now it's a very big resort with hotels, 
+expensive stores and restaurants,  
 
-828
-00:53:25,079 --> 00:53:28,290
-'Oh yes,' I said.
+478
+00:53:48,160 --> 00:53:53,120
+and ski runs everywhere. It has 
+thousands of visitors every year.'
 
-829
-00:53:28,290 --> 00:53:32,290
-Redridge was a small town thirty miles away.
+479
+00:53:54,000 --> 00:53:57,760
+'So?' I asked. 'Isn't that good for the town?'
 
-830
-00:53:32,290 --> 00:53:34,640
-It was an old silver town.
+480
+00:53:58,960 --> 00:54:03,840
+Susan Hunter laughed. 'Have 
+you seen it?' she asked.
 
-831
-00:53:34,640 --> 00:53:42,490
-'Well,' she said, 'three years ago Redridge
-was a small, quiet town.
-
-832
-00:53:42,490 --> 00:53:50,980
-Now it's a very big resort with hotels, expensive
-stores and restaurants, and ski runs everywhere.
-
-833
-00:53:50,980 --> 00:53:54,160
-It has thousands of visitors every year.'
-
-834
-00:53:54,160 --> 00:53:55,160
-'So?'
-
-835
-00:53:55,160 --> 00:53:56,480
-I asked.
-
-836
-00:53:56,480 --> 00:53:59,170
-'Isn't that good for the town?'
-
-837
-00:53:59,170 --> 00:54:01,040
-Susan Hunter laughed.
-
-838
-00:54:01,040 --> 00:54:03,350
-'Have you seen it?'
-
-839
-00:54:03,350 --> 00:54:04,369
-she asked.
-
-840
-00:54:04,369 --> 00:54:07,900
+481
+00:54:05,120 --> 00:54:07,040
 'Tell me more,' I said.
 
-841
-00:54:07,900 --> 00:54:14,760
-'The Government Land Office,' she said, 'bought
-the Redridge land fifty years ago.
+482
+00:54:08,480 --> 00:54:14,400
+'The Government Land Office,' she said, 
+'bought the Redridge land fifty years ago.  
 
-842
-00:54:14,760 --> 00:54:21,900
-Then, in 1997, they - the GLO - wanted to
-sell the land.
+483
+00:54:15,120 --> 00:54:20,560
+Then, in 1997, they - the GLO - wanted to sell the  
 
-843
-00:54:21,900 --> 00:54:27,150
-They knew they could sell it as a vacation
-resort and get a lot of money.'
+484
+00:54:20,560 --> 00:54:25,520
+land. They knew they could sell it as a 
+vacation resort and get a lot of money.'
 
-844
-00:54:27,150 --> 00:54:29,839
-I knew that this happened a lot.
+485
+00:54:27,040 --> 00:54:33,280
+I knew that this happened a lot. The government 
+was always trying to find ways to make money.  
 
-845
-00:54:29,839 --> 00:54:34,760
-The government was always trying to find ways
-to make money.
+486
+00:54:34,560 --> 00:54:41,120
+Susan Hunter went on: 'So they asked 
+vacation resort companies to tell them  
 
-846
-00:54:34,760 --> 00:54:41,640
-Susan Hunter went on: 'So they asked vacation
-resort companies to tell them about their
+487
+00:54:41,120 --> 00:54:47,840
+about their plans for the town. There were five 
+big companies that wanted to develop Redridge.  
 
-847
-00:54:41,640 --> 00:54:44,349
-plans for the town.
-
-848
-00:54:44,349 --> 00:54:49,200
-There were five big companies that wanted
-to develop Redridge.
-
-849
-00:54:49,200 --> 00:54:53,100
-The company that won was Alpine Resorts.
-
-850
-00:54:53,100 --> 00:54:56,190
+488
+00:54:49,040 --> 00:54:55,200
+The company that won was Alpine Resorts. 
 Their boss is a guy called Ricky Klein.'
 
-851
-00:54:56,190 --> 00:54:58,190
-'Ricky Klein?'
+489
+00:54:56,720 --> 00:54:58,720
+'Ricky Klein?' I asked.
 
-852
-00:54:58,190 --> 00:54:59,980
-I asked.
+490
+00:54:59,760 --> 00:55:07,120
+'He's always in the newspapers,' she said. 'He's 
+very rich and he has hundreds of businesses.  
 
-853
-00:54:59,980 --> 00:55:03,970
-'He's always in the newspapers,' she said.
+491
+00:55:08,640 --> 00:55:12,800
+Alpine Resorts was already 
+famous for Alpine Resorts  
 
-854
-00:55:03,970 --> 00:55:08,690
-'He's very rich and he has hundreds of businesses.
+492
+00:55:12,800 --> 00:55:20,800
+Oregon, which destroyed beautiful natural 
+forests. Three of the other four companies  
 
-855
-00:55:08,690 --> 00:55:16,140
-Alpine Resorts was already famous for Alpine
-Resorts Oregon, which destroyed beautiful
+493
+00:55:20,800 --> 00:55:27,600
+all had good plans for Redridge. They wanted 
+to save its natural beauty,' she went on.
 
-856
-00:55:16,140 --> 00:55:18,570
-natural forests.
+494
+00:55:28,800 --> 00:55:33,840
+'So why did the GLO choose 
+the worst plan?' I asked.
 
-857
-00:55:18,570 --> 00:55:23,750
-Three of the other four companies all had
-good plans for Redridge.
+495
+00:55:34,480 --> 00:55:38,320
+'Ha! That's the big question, Detective Laine,'  
 
-858
-00:55:23,750 --> 00:55:28,270
-They wanted to save its natural beauty,' she
-went on.
+496
+00:55:39,040 --> 00:55:45,840
+said Susan Hunter. 'I guess that Ricky Klein 
+gave someone in the GLO a lot of money.'
 
-859
-00:55:28,270 --> 00:55:32,869
-'So why did the GLO choose the worst plan?'
+497
+00:55:47,280 --> 00:55:51,120
+'Money? A bribe?' I asked.
 
-860
-00:55:32,869 --> 00:55:33,869
-I asked.
+498
+00:55:52,480 --> 00:55:59,600
+Susan Hunter nodded. 'A bribe,' she 
+said. 'Millions of dollars, I guess.'
 
-861
-00:55:33,869 --> 00:55:34,869
-'Ha!
+499
+00:56:01,440 --> 00:56:08,640
+'And why wasn't it in the newspapers?' I 
+asked. 'I mean, you knew about it... who else?'
 
-862
-00:55:34,869 --> 00:55:40,950
-That's the big question, Detective Laine,'
-said Susan Hunter.
+500
+00:56:09,840 --> 00:56:17,840
+'The GLO kept everything quiet until the last 
+minute,' she said. 'Then it was too late.  
 
-863
-00:55:40,950 --> 00:55:47,260
-'I guess that Ricky Klein gave someone in
-the GLO a lot of money.'
+501
+00:56:19,200 --> 00:56:26,320
+My group was called Save Colorado. We knew about 
+the bribe from someone who worked for the GLO.  
 
-864
-00:55:47,260 --> 00:55:49,010
-'Money?
-
-865
-00:55:49,010 --> 00:55:50,310
-A bribe?'
-
-866
-00:55:50,310 --> 00:55:52,670
-I asked.
-
-867
-00:55:52,670 --> 00:55:54,589
-Susan Hunter nodded.
-
-868
-00:55:54,589 --> 00:55:57,480
-'A bribe,' she said.
-
-869
-00:55:57,480 --> 00:56:01,650
-'Millions of dollars, I guess.'
-
-870
-00:56:01,650 --> 00:56:04,220
-'And why wasn't it in the newspapers?'
-
-871
-00:56:04,220 --> 00:56:05,220
-I asked.
-
-872
-00:56:05,220 --> 00:56:09,369
-'I mean, you knew about it... who else?'
-
-873
-00:56:09,369 --> 00:56:15,890
-'The GLO kept everything quiet until the last
-minute,' she said.
-
-874
-00:56:15,890 --> 00:56:19,310
-'Then it was too late.
-
-875
-00:56:19,310 --> 00:56:22,940
-My group was called Save Colorado.
-
-876
-00:56:22,940 --> 00:56:27,550
-We knew about the bribe from someone who worked
-for the GLO.
-
-877
-00:56:27,550 --> 00:56:30,730
+502
+00:56:27,360 --> 00:56:29,840
 But we don't know who took the bribe.'
 
-878
-00:56:30,730 --> 00:56:32,460
-I looked at her.
+503
+00:56:30,640 --> 00:56:36,400
+I looked at her. 'Did you know 
+Janine Anderson?' I asked.
 
-879
-00:56:32,460 --> 00:56:35,810
-'Did you know Janine Anderson?'
+504
+00:56:37,840 --> 00:56:41,440
+'Yes, I did a little,' she said quietly.  
 
-880
-00:56:35,810 --> 00:56:36,810
-I asked.
+505
+00:56:42,640 --> 00:56:46,800
+'She came here to talk to me last 
+year. I told her what I knew.'
 
-881
-00:56:36,810 --> 00:56:41,950
-'Yes, I did a little,' she said quietly.
+506
+00:56:48,720 --> 00:56:53,120
+That's it, I thought. Janine Anderson  
 
-882
-00:56:41,950 --> 00:56:45,810
-'She came here to talk to me last year.
+507
+00:56:53,120 --> 00:56:57,840
+found out the name of the person in the 
+Government Land Office who took the money.
 
-883
-00:56:45,810 --> 00:56:47,870
-I told her what I knew.'
-
-884
-00:56:47,870 --> 00:56:51,380
-That's it, I thought.
-
-885
-00:56:51,380 --> 00:56:57,180
-Janine Anderson found out the name of the
-person in the Government Land Office who took
-
-886
-00:56:57,180 --> 00:56:59,830
-the money.
-
-887
-00:56:59,830 --> 00:57:03,630
+508
+00:56:59,600 --> 00:57:01,840
 It was quiet for a few moments.
 
-888
-00:57:03,630 --> 00:57:05,550
-'And what about Pine Crest?'
+509
+00:57:03,360 --> 00:57:06,080
+'And what about Pine Crest?' I asked.
 
-889
-00:57:05,550 --> 00:57:07,130
-I asked.
+510
+00:57:07,120 --> 00:57:14,480
+'Well,' Susan Hunter said, 'the next Alpine 
+Resorts development will be in Pine Crest,  
 
-890
-00:57:07,130 --> 00:57:14,720
-'Well,' Susan Hunter said, 'the next Alpine
-Resorts development will be in Pine Crest,
+511
+00:57:14,480 --> 00:57:18,480
+later this year. What happened 
+to Redridge will happen here.  
 
-891
-00:57:14,720 --> 00:57:16,570
-later this year.
+512
+00:57:19,760 --> 00:57:27,440
+They'll kill its natural beauty.' She 
+smiled sadly. And no-one can save it.'
 
-892
-00:57:16,570 --> 00:57:19,950
-What happened to Redridge will happen here.
+513
+00:57:29,120 --> 00:57:39,840
+I stood up to go. At the door, I turned round. 
+'There's one thing I don't understand,' I said.
 
-893
-00:57:19,950 --> 00:57:22,750
-They'll kill its natural beauty.'
+514
+00:57:40,640 --> 00:57:48,160
+'You mean why don't I do something about this? Why 
+didn't I tell the police before now?' she asked.
 
-894
-00:57:22,750 --> 00:57:25,950
-She smiled sadly.
+515
+00:57:49,360 --> 00:57:51,920
+She pulled down the neck of her red blouse.  
 
-895
-00:57:25,950 --> 00:57:29,210
-And no-one can save it.'
+516
+00:57:52,880 --> 00:57:59,280
+On her neck, very near her throat, 
+there was a big scar. From a knife.
 
-896
-00:57:29,210 --> 00:57:31,470
-I stood up to go.
+517
+00:58:00,800 --> 00:58:04,000
+'Detective Laine, I have three children,  
 
-897
-00:57:31,470 --> 00:57:34,260
-At the door, I turned round.
+518
+00:58:04,800 --> 00:58:10,320
+a wonderful husband and my work,' 
+she said. 'I don't want to die.'
 
-898
-00:57:34,260 --> 00:57:40,820
-'There's one thing I don't understand,' I
-said.
+519
+00:58:12,000 --> 00:58:14,000
+'What happened?' I asked.
 
-899
-00:57:40,820 --> 00:57:44,609
-'You mean why don't I do something about this?
+520
+00:58:15,360 --> 00:58:19,760
+'It was a year ago. Oh, I can't say who it was,'  
 
-900
-00:57:44,609 --> 00:57:47,660
-Why didn't I tell the police before now?'
+521
+00:58:20,480 --> 00:58:27,920
+she said. 'It happened at night and I didn't see 
+his face. But I'm sure it was because of all this.  
 
-901
-00:57:47,660 --> 00:57:49,540
-she asked.
-
-902
-00:57:49,540 --> 00:57:53,069
-She pulled down the neck of her red blouse.
-
-903
-00:57:53,069 --> 00:57:58,859
-On her neck, very near her throat, there was
-a big scar.
-
-904
-00:57:58,859 --> 00:58:01,410
-From a knife.
-
-905
-00:58:01,410 --> 00:58:08,760
-'Detective Laine, I have three children, a
-wonderful husband and my work,' she said.
-
-906
-00:58:08,760 --> 00:58:12,119
-'I don't want to die.'
-
-907
-00:58:12,119 --> 00:58:13,470
-'What happened?'
-
-908
-00:58:13,470 --> 00:58:14,700
-I asked.
-
-909
-00:58:14,700 --> 00:58:17,200
-'It was a year ago.
-
-910
-00:58:17,200 --> 00:58:21,550
-Oh, I can't say who it was,' she said.
-
-911
-00:58:21,550 --> 00:58:26,030
-'It happened at night and I didn't see his
-face.
-
-912
-00:58:26,030 --> 00:58:29,540
-But I'm sure it was because of all this.
-
-913
-00:58:29,540 --> 00:58:31,990
-These are dangerous days.
-
-914
-00:58:31,990 --> 00:58:33,270
+522
+00:58:29,360 --> 00:58:33,200
+These are dangerous days. 
 We must be very careful.'
 
-915
-00:58:33,270 --> 00:58:39,590
-Yeah, dangerous days, I thought.
+523
+00:58:34,720 --> 00:58:37,440
+Yeah, dangerous days,  
 
-916
-00:58:39,590 --> 00:58:49,400
-I felt my gun under my jacket and left the
-movie star's house.
+524
+00:58:38,000 --> 00:58:43,840
+I thought. I felt my gun under my jacket 
+and left the movie star's house.
+ 
+ 
+ 
 
-917
-00:58:49,400 --> 00:58:53,859
+525
+00:58:49,360 --> 00:58:49,840
 CHAPTER SEVEN
+
+526
+00:58:50,880 --> 00:58:52,240
 A visit to Redridge
 
-918
-00:58:53,859 --> 00:58:58,970
-I drove away from Susan Hunter's house and
-back to my hotel.
+527
+00:58:53,760 --> 00:58:57,680
+I drove away from Susan Hunter's 
+house and back to my hotel.  
 
-919
-00:58:58,970 --> 00:59:02,859
-I thought about my talk with the movie star.
+528
+00:58:58,880 --> 00:59:05,840
+I thought about my talk with the movie 
+star. Ricky Klein of Alpine Resorts gave  
 
-920
-00:59:02,859 --> 00:59:09,650
-Ricky Klein of Alpine Resorts gave someone
-in the Government Land Office a bribe to take
+529
+00:59:05,840 --> 00:59:11,600
+someone in the Government Land Office a 
+bribe to take the worst plan for Redridge.  
 
-921
-00:59:09,650 --> 00:59:12,670
-the worst plan for Redridge.
+530
+00:59:12,400 --> 00:59:19,040
+And Janine Anderson knew all about it. But 
+who was it, and how did Janine find out?
 
-922
-00:59:12,670 --> 00:59:15,300
-And Janine Anderson knew all about it.
-
-923
-00:59:15,300 --> 00:59:20,890
-But who was it, and how did Janine find out?
-
-924
-00:59:20,890 --> 00:59:24,069
+531
+00:59:20,800 --> 00:59:23,280
 I went back to my room and called Gershon.
 
-925
-00:59:24,069 --> 00:59:31,530
-'Bill, I want a full list of people in the
-Government Land Office since 1996.
+532
+00:59:24,320 --> 00:59:29,200
+'Bill, I want a full list of people 
+in the Government Land Office since  
 
-926
-00:59:31,530 --> 00:59:34,340
-Can you ask one of your men to get it for
-me?'
+533
+00:59:29,200 --> 00:59:33,760
+1996. Can you ask one of 
+your men to get it for me?'
 
-927
-00:59:34,340 --> 00:59:38,930
+534
+00:59:34,960 --> 00:59:37,280
 'I guess so,' said Gershon.
 
-928
-00:59:38,930 --> 00:59:41,640
-Same old Gershon.
+535
+00:59:38,640 --> 00:59:42,000
+Same old Gershon. What was wrong with the guy?
 
-929
-00:59:41,640 --> 00:59:43,821
-What was wrong with the guy?
+536
+00:59:43,280 --> 00:59:46,960
+The next morning I woke up 
+early. I picked up my gun.  
 
-930
-00:59:43,821 --> 00:59:46,010
-The next morning I woke up early.
+537
+00:59:47,920 --> 00:59:52,960
+I remembered Susan Hunter's question 
+about Redridge: 'Have you seen it?'
 
-931
-00:59:46,010 --> 00:59:47,390
-I picked up my gun.
-
-932
-00:59:47,390 --> 00:59:54,700
-I remembered Susan Hunter's question about
-Redridge: 'Have you seen it?'
-
-933
-00:59:54,700 --> 00:59:57,150
-It was time to visit Redridge.
-
-934
-00:59:57,150 --> 00:59:59,950
+538
+00:59:54,480 --> 00:59:59,840
+It was time to visit Redridge. 
 I wanted to see it for myself.
 
-935
-00:59:59,950 --> 01:00:04,490
-I got in the Chevy and drove the thirty miles
-to the town.
+539
+00:59:59,840 --> 01:00:03,360
+I got in the Chevy and drove 
+the thirty miles to the town.
 
-936
-01:00:04,490 --> 01:00:11,780
-'Welcome to Redridge, home of Alpine Resorts
-Colorado' said the sign as I drove in.
+540
+01:00:04,320 --> 01:00:08,880
+'Welcome to Redridge, home 
+of Alpine Resorts Colorado'  
 
-937
-01:00:11,780 --> 01:00:15,369
-The town was busy with people on vacation.
+541
+01:00:08,880 --> 01:00:13,840
+said the sign as I drove in. The town 
+was busy with people on vacation.  
 
-938
-01:00:15,369 --> 01:00:17,420
-Skiers, mostly.
+542
+01:00:15,040 --> 01:00:22,720
+Skiers, mostly. On Main Street, there were some 
+stores and restaurants. Then, at the end of the  
 
-939
-01:00:17,420 --> 01:00:21,240
-On Main Street, there were some stores and
-restaurants.
+543
+01:00:22,720 --> 01:00:30,320
+street, I found the beginning of Alpine Resorts 
+Colorado. At the gate was a man in a blue uniform.
 
-940
-01:00:21,240 --> 01:00:27,820
-Then, at the end of the street, I found the
-beginning of Alpine Resorts Colorado.
+544
+01:00:31,360 --> 01:00:38,320
+'Good morning, how can I help you?' he 
+asked. He smiled and showed very white teeth.
 
-941
-01:00:27,820 --> 01:00:30,780
-At the gate was a man in a blue uniform.
+545
+01:00:39,760 --> 01:00:46,080
+'Well,' I said, 'I'm just visiting, 
+you know, and I'd like to take a look.'
 
-942
-01:00:30,780 --> 01:00:35,490
-'Good morning, how can I help you?' he asked.
+546
+01:00:47,440 --> 01:00:51,840
+'Of course,' he smiled. 'I'll 
+ask someone to show you around.'
 
-943
-01:00:35,490 --> 01:00:39,300
-He smiled and showed very white teeth.
+547
+01:00:53,200 --> 01:00:56,720
+I waited. He talked to someone on the phone.  
 
-944
-01:00:39,300 --> 01:00:46,950
-'Well,' I said, 'I'm just visiting, you know,
-and I'd like to take a look.'
+548
+01:00:57,920 --> 01:01:03,840
+A few minutes later, a young blonde woman 
+walked up to me. She smiled a lot too.
 
-945
-01:00:46,950 --> 01:00:50,030
-'Of course,' he smiled.
+549
+01:01:05,120 --> 01:01:12,800
+'Good morning,' she said, shaking my hand. 
+'My name is Tina Nielson from Alpine Resorts.  
 
-946
-01:00:50,030 --> 01:00:53,290
-'I'll ask someone to show you around.'
-
-947
-01:00:53,290 --> 01:00:55,150
-I waited.
-
-948
-01:00:55,150 --> 01:00:58,010
-He talked to someone on the phone.
-
-949
-01:00:58,010 --> 01:01:02,589
-A few minutes later, a young blonde woman
-walked up to me.
-
-950
-01:01:02,589 --> 01:01:04,670
-She smiled a lot too.
-
-951
-01:01:04,670 --> 01:01:09,961
-'Good morning,' she said, shaking my hand.
-
-952
-01:01:09,961 --> 01:01:13,859
-'My name is Tina Nielson from Alpine Resorts.
-
-953
-01:01:13,859 --> 01:01:18,390
+550
+01:01:13,600 --> 01:01:16,880
 Let me show you around our beautiful resort.'
 
-954
-01:01:18,390 --> 01:01:20,490
-We started walking.
+551
+01:01:18,240 --> 01:01:24,800
+We started walking. Alpine Resorts 
+Colorado was almost like a small city.  
 
-955
-01:01:20,490 --> 01:01:26,329
-Alpine Resorts Colorado was almost like a
-small city.
+552
+01:01:26,080 --> 01:01:31,600
+When you went through the big gate, there were 
+a lot of different buildings. There were three  
 
-956
-01:01:26,329 --> 01:01:31,099
-When you went through the big gate, there
-were a lot of different buildings.
+553
+01:01:31,600 --> 01:01:41,280
+swimming pools, four hotels, vacation homes, 
+restaurants and ski rental. It was very, very big.
 
-957
-01:01:31,099 --> 01:01:39,540
-There were three swimming pools, four hotels,
-vacation homes, restaurants and ski rental.
+554
+01:01:42,880 --> 01:01:49,440
+'We have the complete vacation here,' 
+smiled Tina. 'You can do everything.  
 
-958
-01:01:39,540 --> 01:01:42,119
-It was very, very big.
-
-959
-01:01:42,119 --> 01:01:48,180
-'We have the complete vacation here,' smiled
-Tina.
-
-960
-01:01:48,180 --> 01:01:50,349
-'You can do everything.
-
-961
-01:01:50,349 --> 01:01:53,990
+555
+01:01:50,160 --> 01:01:52,800
 You don't have to leave Alpine Resorts.'
 
-962
-01:01:53,990 --> 01:01:56,250
-I looked around.
+556
+01:01:53,920 --> 01:02:00,240
+I looked around. Many of the buildings were 
+so big that you couldn't see the mountains.
 
-963
-01:01:56,250 --> 01:02:01,250
-Many of the buildings were so big that you
-couldn't see the mountains.
+557
+01:02:01,120 --> 01:02:06,400
+'Yes,' she went on. 'It's a 
+vacation for the whole family.  
 
-964
-01:02:01,250 --> 01:02:03,320
-'Yes,' she went on.
+558
+01:02:07,120 --> 01:02:12,960
+And the skiing is very good. We have all 
+the ski runs in Redridge right here.'
 
-965
-01:02:03,320 --> 01:02:07,390
-'It's a vacation for the whole family.
+559
+01:02:14,480 --> 01:02:19,840
+'You mean,' I said, 'if I want 
+to ski I have to stay here?'
 
-966
-01:02:07,390 --> 01:02:09,930
-And the skiing is very good.
+560
+01:02:20,800 --> 01:02:25,840
+'Well,' she said, 'of course 
+you can ski just for the day.  
 
-967
-01:02:09,930 --> 01:02:13,880
-We have all the ski runs in Redridge right
-here.'
-
-968
-01:02:13,880 --> 01:02:20,910
-'You mean,' I said, 'if I want to ski I have
-to stay here?'
-
-969
-01:02:20,910 --> 01:02:26,849
-'Well,' she said, 'of course you can ski just
-for the day.
-
-970
-01:02:26,849 --> 01:02:28,840
-But the ski runs are ours.
-
-971
-01:02:28,840 --> 01:02:32,210
+561
+01:02:26,640 --> 01:02:30,800
+But the ski runs are ours. 
 I mean Alpine Resorts'.'
 
-972
-01:02:32,210 --> 01:02:34,370
-'And how much is a ski pass?'
+562
+01:02:31,840 --> 01:02:34,880
+'And how much is a ski pass?' I asked.
 
-973
-01:02:34,370 --> 01:02:35,869
-I asked.
-
-974
-01:02:35,869 --> 01:02:39,910
+563
+01:02:35,600 --> 01:02:38,640
 'It's three hundred dollars a day,' she said.
 
-975
-01:02:39,910 --> 01:02:41,920
-Three hundred dollars!
+564
+01:02:39,680 --> 01:02:45,360
+Three hundred dollars! That was double 
+the cost of a ski pass in Pine Crest.  
 
-976
-01:02:41,920 --> 01:02:46,319
-That was double the cost of a ski pass in
-Pine Crest.
+565
+01:02:46,240 --> 01:02:51,680
+Alpine Resorts was very expensive; 
+someone was making a lot of money!
 
-977
-01:02:46,319 --> 01:02:53,069
-Alpine Resorts was very expensive; someone
-was making a lot of money!
+566
+01:02:52,800 --> 01:02:55,520
+'But why don't you try it?' she said.
 
-978
-01:02:53,069 --> 01:02:55,130
-'But why don't you try it?'
+567
+01:02:56,480 --> 01:03:00,880
+'Well, I'm a little busy...' I started.
 
-979
-01:02:55,130 --> 01:02:56,130
-she said.
+568
+01:03:00,880 --> 01:03:06,720
+'Come on,' she said. 'We'll be happy to give 
+you a half price ski pass for the morning.  
 
-980
-01:02:56,130 --> 01:02:59,680
-'Well, I'm a little busy...'
-
-981
-01:02:59,680 --> 01:03:01,099
-I started.
-
-982
-01:03:01,099 --> 01:03:02,790
-'Come on,' she said.
-
-983
-01:03:02,790 --> 01:03:07,880
-'We'll be happy to give you a half price ski
-pass for the morning.
-
-984
-01:03:07,880 --> 01:03:11,210
+569
+01:03:07,600 --> 01:03:10,000
 That will be just seventy-five dollars.'
 
-985
-01:03:11,210 --> 01:03:14,950
-'Well, OK,' I said.
+570
+01:03:11,200 --> 01:03:19,520
+'Well, OK,' I said. I could ski for an hour or 
+two, I thought. I needed some time to think.
 
-986
-01:03:14,950 --> 01:03:18,431
-I could ski for an hour or two, I thought.
+571
+01:03:20,800 --> 01:03:28,960
+I went to the ski rental, and got some skis, boots 
+and poles. I went up the mountain on a ski lift  
 
-987
-01:03:18,431 --> 01:03:20,910
-I needed some time to think.
+572
+01:03:28,960 --> 01:03:35,600
+and spent an hour or two skiing the lower runs. 
+It was a beautiful day to be on the mountains.  
 
-988
-01:03:20,910 --> 01:03:26,590
-I went to the ski rental, and got some skis,
-boots and poles.
+573
+01:03:37,200 --> 01:03:41,920
+But from the top I could see how 
+big Alpine Resorts really was.
 
-989
-01:03:26,590 --> 01:03:33,500
-I went up the mountain on a ski lift and spent
-an hour or two skiing the lower runs.
+574
+01:03:43,360 --> 01:03:50,640
+At about eleven-thirty, I went into a cafe 
+halfway up the mountain. There were a lot of  
 
-990
-01:03:33,500 --> 01:03:37,440
-It was a beautiful day to be on the mountains.
+575
+01:03:50,640 --> 01:03:58,640
+other skiers there. I drank my coffee, took my 
+ski run map out of my pocket and looked at it.  
 
-991
-01:03:37,440 --> 01:03:43,609
-But from the top I could see how big Alpine
-Resorts really was.
+576
+01:03:59,600 --> 01:04:07,440
+Up above the cafe there were some difficult, 
+'black' runs with interesting names like Mad Dog  
 
-992
-01:03:43,609 --> 01:03:49,849
-At about eleven-thirty, I went into a cafe
-halfway up the mountain.
+577
+01:04:07,440 --> 01:04:15,680
+and Killer Run. I wanted to try them. And I wanted 
+to get away from the people. I needed to think.
 
-993
-01:03:49,849 --> 01:03:53,050
-There were a lot of other skiers there.
+578
+01:04:17,200 --> 01:04:21,360
+I took the Mountain Tops ski 
+lift up another 1,000 feet.  
 
-994
-01:03:53,050 --> 01:03:59,800
-I drank my coffee, took my ski run map out
-of my pocket and looked at it.
+579
+01:04:22,880 --> 01:04:31,520
+Here, at 10,500 feet, the world was 
+white and quiet. It was very cold. There  
 
-995
-01:03:59,800 --> 01:04:06,690
-Up above the cafe there were some difficult,
-'black' runs with interesting names like Mad
+580
+01:04:31,520 --> 01:04:39,840
+were almost no people, just a few figures 
+far away. Most skiers stayed down below.  
 
-996
-01:04:06,690 --> 01:04:09,410
-Dog and Killer Run.
+581
+01:04:40,960 --> 01:04:47,680
+I felt alone. I put my hand in the pocket 
+on the inside of my coat and felt my gun.
 
-997
-01:04:09,410 --> 01:04:11,460
-I wanted to try them.
+582
+01:04:49,680 --> 01:04:56,240
+I wanted to go up even higher, to 12,000 
+feet, almost to the top of the mountain.  
 
-998
-01:04:11,460 --> 01:04:14,710
-And I wanted to get away from the people.
+583
+01:04:57,520 --> 01:05:05,120
+I started to walk slowly to the Summit ski 
+lift. Suddenly, I heard somebody behind me.
 
-999
-01:04:14,710 --> 01:04:17,340
-I needed to think.
-
-1000
-01:04:17,340 --> 01:04:22,480
-I took the Mountain Tops ski lift up another
-1,000 feet.
-
-1001
-01:04:22,480 --> 01:04:29,440
-Here, at 10,500 feet, the world was white
-and quiet.
-
-1002
-01:04:29,440 --> 01:04:31,609
-It was very cold.
-
-1003
-01:04:31,609 --> 01:04:37,849
-There were almost no people, just a few figures
-far away.
-
-1004
-01:04:37,849 --> 01:04:41,059
-Most skiers stayed down below.
-
-1005
-01:04:41,059 --> 01:04:43,010
-I felt alone.
-
-1006
-01:04:43,010 --> 01:04:49,800
-I put my hand in the pocket on the inside
-of my coat and felt my gun.
-
-1007
-01:04:49,800 --> 01:04:57,609
-I wanted to go up even higher, to 12,000 feet,
-almost to the top of the mountain.
-
-1008
-01:04:57,609 --> 01:05:01,780
-I started to walk slowly to the Summit ski
-lift.
-
-1009
-01:05:01,780 --> 01:05:07,930
-Suddenly, I heard somebody behind me.
-
-1010
-01:05:07,930 --> 01:05:11,980
+584
+01:05:07,280 --> 01:05:10,640
 'Detective Laine,' said a man's voice.
 
-1011
-01:05:11,980 --> 01:05:13,270
-I turned around.
+585
+01:05:11,840 --> 01:05:16,240
+I turned around. The man was 
+wearing a black ski mask.  
 
-1012
-01:05:13,270 --> 01:05:17,200
-The man was wearing a black ski mask.
+586
+01:05:17,120 --> 01:05:21,840
+I couldn't see his face. Just his brown eyes.
 
-1013
-01:05:17,200 --> 01:05:19,869
-I couldn't see his face.
+587
+01:05:22,480 --> 01:05:28,240
+I moved away from the man quickly. But the 
+man came closer to me and said in my ear:  
 
-1014
-01:05:19,869 --> 01:05:21,780
-Just his brown eyes.
+588
+01:05:29,200 --> 01:05:37,360
+'Turn around, Detective. We're going to get on the 
+ski lift together.' I felt something hard in my  
 
-1015
-01:05:21,780 --> 01:05:25,230
-I moved away from the man quickly.
+589
+01:05:37,360 --> 01:05:46,320
+back. It felt like a gun. There were no people, 
+anywhere. Just the man with the gun and me.
 
-1016
-01:05:25,230 --> 01:05:31,950
-But the man came closer to me and said in
-my ear: 'Turn around, Detective.
+590
+01:05:47,280 --> 01:05:52,320
+'And don't do anything stupid,' 
+he said, 'or I'll kill you.'
+ 
+ 
+ 
 
-1017
-01:05:31,950 --> 01:05:35,610
-We're going to get on the ski lift together.'
-
-1018
-01:05:35,610 --> 01:05:39,030
-I felt something hard in my back.
-
-1019
-01:05:39,030 --> 01:05:41,210
-It felt like a gun.
-
-1020
-01:05:41,210 --> 01:05:44,410
-There were no people, anywhere.
-
-1021
-01:05:44,410 --> 01:05:47,490
-Just the man with the gun and me.
-
-1022
-01:05:47,490 --> 01:05:58,000
-'And don't do anything stupid,' he said, 'or
-I'll kill you.'
-
-1023
-01:05:58,000 --> 01:06:02,980
+591
+01:05:57,920 --> 01:05:58,720
 CHAPTER EIGHT
+
+592
+01:05:59,840 --> 01:06:00,960
 Dangerous Days
 
-1024
-01:06:02,980 --> 01:06:06,270
+593
+01:06:02,800 --> 01:06:05,680
 'You can't do this,' I said to the man.
 
-1025
-01:06:06,270 --> 01:06:12,400
-'Be quiet and get on the ski lift,' the man
-said.
+594
+01:06:06,640 --> 01:06:13,040
+'Be quiet and get on the ski 
+lift,' the man said. He pushed me.
 
-1026
-01:06:12,400 --> 01:06:14,390
-He pushed me.
+595
+01:06:14,240 --> 01:06:16,720
+The ski lift had a seat for two people.  
 
-1027
-01:06:14,390 --> 01:06:17,869
-The ski lift had a seat for two people.
+596
+01:06:17,680 --> 01:06:21,600
+The man pushed me into the seat 
+and then he got in next to me.  
 
-1028
-01:06:17,869 --> 01:06:22,980
-The man pushed me into the seat and then he
-got in next to me.
+597
+01:06:22,880 --> 01:06:31,840
+I looked around, but there was nobody up here. The 
+ski lift went up. Up to the top of the mountain.
 
-1029
-01:06:22,980 --> 01:06:27,559
-I looked around, but there was nobody up here.
+598
+01:06:33,120 --> 01:06:40,880
+I looked at the man, at his brown eyes. He 
+was slim. Was he the man at the Columbine?
 
-1030
-01:06:27,559 --> 01:06:29,960
-The ski lift went up.
-
-1031
-01:06:29,960 --> 01:06:33,220
-Up to the top of the mountain.
-
-1032
-01:06:33,220 --> 01:06:37,080
-I looked at the man, at his brown eyes.
-
-1033
-01:06:37,080 --> 01:06:39,349
-He was slim.
-
-1034
-01:06:39,349 --> 01:06:41,320
-Was he the man at the Columbine?
-
-1035
-01:06:41,320 --> 01:06:45,079
+599
+01:06:42,000 --> 01:06:44,400
 'Give me your gun,' he said.
 
-1036
-01:06:45,079 --> 01:06:47,059
-'My gun?'
+600
+01:06:45,600 --> 01:06:47,520
+'My gun?' I said.
 
-1037
-01:06:47,059 --> 01:06:48,070
-I said.
+601
+01:06:48,160 --> 01:06:52,320
+'Come on,' he said. 'I know 
+you're carrying a gun.'
 
-1038
-01:06:48,070 --> 01:06:50,250
-'Come on,' he said.
+602
+01:06:53,920 --> 01:06:58,160
+I looked down. We were thirty feet over the snow.
 
-1039
-01:06:50,250 --> 01:06:54,010
-'I know you're carrying a gun.'
-
-1040
-01:06:54,010 --> 01:06:56,140
-I looked down.
-
-1041
-01:06:56,140 --> 01:06:59,319
-We were thirty feet over the snow.
-
-1042
-01:06:59,319 --> 01:07:03,210
+603
+01:06:59,040 --> 01:07:02,480
 'And don't do anything stupid,' he said.
 
-1043
-01:07:03,210 --> 01:07:08,800
-I put my hand inside my coat and felt my gun.
+604
+01:07:04,080 --> 01:07:10,480
+I put my hand inside my coat and felt my 
+gun. I took it out and gave it to him.
 
-1044
-01:07:08,800 --> 01:07:11,400
-I took it out and gave it to him.
+605
+01:07:11,520 --> 01:07:18,880
+'And now,' said the man, putting my gun 
+in his pocket, 'you're going to fall...  
 
-1045
-01:07:11,400 --> 01:07:20,170
-'And now,' said the man, putting my gun in
-his pocket, 'you're going to fall... you're
+606
+01:07:19,680 --> 01:07:27,840
+you're going to fall from the ski lift.' 
+'You're crazy!' I said. 'They'll catch you.'
 
-1046
-01:07:20,170 --> 01:07:23,420
-going to fall from the ski lift.'
+607
+01:07:28,640 --> 01:07:38,240
+'I'll just say that you fell,' he said. Anyway, 
+I don't know you, and you don't know me, do you?'
 
-1047
-01:07:23,420 --> 01:07:25,240
-'You're crazy!'
+608
+01:07:39,760 --> 01:07:48,240
+I thought fast. 'I know you work for Ricky 
+Klein,' I said, taking a chance. I needed  
 
-1048
-01:07:25,240 --> 01:07:26,260
-I said.
+609
+01:07:48,240 --> 01:07:56,480
+time and I wanted him to talk. The man 
+looked at me. 'You're smart,' he said.
 
-1049
-01:07:26,260 --> 01:07:28,940
-'They'll catch you.'
+610
+01:07:57,920 --> 01:08:02,960
+'And Janine Anderson?' I 
+asked. 'Did you kill her?'
 
-1050
-01:07:28,940 --> 01:07:33,000
-'I'll just say that you fell,' he said.
+611
+01:08:04,240 --> 01:08:11,360
+'We had to,' he said. 'She knew too 
+much. She asked too many questions.  
 
-1051
-01:07:33,000 --> 01:07:39,890
-Anyway, I don't know you, and you don't know
-me, do you?'
+612
+01:08:12,720 --> 01:08:18,000
+And she was very stupid. She 
+wanted to tell everyone about it.'
 
-1052
-01:07:39,890 --> 01:07:41,190
-I thought fast.
+613
+01:08:19,600 --> 01:08:23,840
+'How did you know that she was alone 
+in the swimming pool?' I asked.
 
-1053
-01:07:41,190 --> 01:07:47,650
-'I know you work for Ricky Klein,' I said,
-taking a chance.
+614
+01:08:24,800 --> 01:08:29,920
+'I watched her,' he said, 'watched her for days.'
 
-1054
-01:07:47,650 --> 01:07:51,960
-I needed time and I wanted him to talk.
-
-1055
-01:07:51,960 --> 01:07:53,740
-The man looked at me.
-
-1056
-01:07:53,740 --> 01:07:57,420
-'You're smart,' he said.
-
-1057
-01:07:57,420 --> 01:08:00,190
-'And Janine Anderson?'
-
-1058
-01:08:00,190 --> 01:08:02,170
-I asked.
-
-1059
-01:08:02,170 --> 01:08:03,730
-'Did you kill her?'
-
-1060
-01:08:03,730 --> 01:08:06,640
-'We had to,' he said.
-
-1061
-01:08:06,640 --> 01:08:09,150
-'She knew too much.
-
-1062
-01:08:09,150 --> 01:08:12,950
-She asked too many questions.
-
-1063
-01:08:12,950 --> 01:08:15,960
-And she was very stupid.
-
-1064
-01:08:15,960 --> 01:08:18,900
-She wanted to tell everyone about it.'
-
-1065
-01:08:18,900 --> 01:08:22,980
-'How did you know that she was alone in the
-swimming pool?'
-
-1066
-01:08:22,980 --> 01:08:24,290
-I asked.
-
-1067
-01:08:24,290 --> 01:08:30,670
-'I watched her,' he said, 'watched her for
-days.'
-
-1068
-01:08:30,670 --> 01:08:35,429
+615
+01:08:31,520 --> 01:08:34,560
 'From the Columbine restaurant,' I said.
 
-1069
-01:08:35,429 --> 01:08:40,990
-'Yes, she often went to the pool alone in
-the evenings.
+616
+01:08:35,360 --> 01:08:41,520
+'Yes, she often went to the pool 
+alone in the evenings. It was easy.  
 
-1070
-01:08:40,990 --> 01:08:42,400
-It was easy.
+617
+01:08:42,320 --> 01:08:52,080
+I just went into the hotel through the parking 
+lot.' Yes, I thought. It couldn't be easier.
 
-1071
-01:08:42,400 --> 01:08:46,760
-I just went into the hotel through the parking
-lot.'
+618
+01:08:52,080 --> 01:08:54,960
+'And then you took her notebook?' I asked.
 
-1072
-01:08:46,760 --> 01:08:49,609
-Yes, I thought.
+619
+01:08:56,160 --> 01:09:01,760
+'Do you think I'm crazy? Of course, 
+I took her notebook. I burned it.'
 
-1073
-01:08:49,609 --> 01:08:51,750
-It couldn't be easier.
-
-1074
-01:08:51,750 --> 01:08:53,920
-'And then you took her notebook?'
-
-1075
-01:08:53,920 --> 01:08:55,540
-I asked.
-
-1076
-01:08:55,540 --> 01:08:57,830
-'Do you think I'm crazy?
-
-1077
-01:08:57,830 --> 01:09:00,980
-Of course, I took her notebook.
-
-1078
-01:09:00,980 --> 01:09:03,230
-I burned it.'
-
-1079
-01:09:03,230 --> 01:09:05,500
+620
+01:09:03,120 --> 01:09:06,320
 I didn't want him to stop.
 
-1080
-01:09:05,500 --> 01:09:10,759
-'And she knew the name of the man in the Government
-Land Office?'
+621
+01:09:06,320 --> 01:09:11,920
+'And she knew the name of the man in the 
+Government Land Office?' I asked quickly.  
 
-1081
-01:09:10,759 --> 01:09:12,859
-I asked quickly.
-
-1082
-01:09:12,859 --> 01:09:20,239
-'The man who took a bribe from Ricky Klein
+622
+01:09:13,360 --> 01:09:19,840
+'The man who took a bribe from Ricky Klein 
 to let him build Alpine Resorts Colorado?'
 
-1083
-01:09:20,239 --> 01:09:29,420
-'Yes, Detective,' he said, 'the Big Boss,
-Big CJ.'
+623
+01:09:20,560 --> 01:09:26,800
+'Yes, Detective,' he said, 'the Big Boss, Big CJ.'
 
-1084
-01:09:29,420 --> 01:09:30,420
-'Big CJ?
+624
+01:09:28,400 --> 01:09:32,160
+'Big CJ? Who's that?' I asked.
 
-1085
-01:09:30,420 --> 01:09:31,630
-Who's that?'
-
-1086
-01:09:31,630 --> 01:09:32,920
-I asked.
-
-1087
-01:09:32,920 --> 01:09:36,000
-'Enough questions,' said the man.
-
-1088
-01:09:36,000 --> 01:09:40,940
+625
+01:09:32,800 --> 01:09:38,960
+'Enough questions,' said the man. 
 'I just do the killing, Detective.'
 
-1089
-01:09:40,940 --> 01:09:43,359
-I looked down.
+626
+01:09:40,880 --> 01:09:50,640
+I looked down. We were very high. The snow and 
+the trees were a long way down. I could see two  
 
-1090
-01:09:43,359 --> 01:09:45,400
-We were very high.
+627
+01:09:50,640 --> 01:09:58,720
+skiers on the mountain but they were very far 
+away. I couldn't shout. I couldn't do anything.
 
-1091
-01:09:45,400 --> 01:09:49,750
-The snow and the trees were a long way down.
+628
+01:10:00,240 --> 01:10:05,680
+'You're next, Detective 
+Laine,' he said. 'Time to die.'
 
-1092
-01:09:49,750 --> 01:09:55,670
-I could see two skiers on the mountain but
-they were very far away.
+629
+01:10:07,200 --> 01:10:12,880
+I looked down again. It was a long 
+way down and he was trying to push me.  
 
-1093
-01:09:55,670 --> 01:09:57,730
-I couldn't shout.
-
-1094
-01:09:57,730 --> 01:09:59,290
-I couldn't do anything.
-
-1095
-01:09:59,290 --> 01:10:04,500
-'You're next, Detective Laine,' he said.
-
-1096
-01:10:04,500 --> 01:10:07,300
-'Time to die.'
-
-1097
-01:10:07,300 --> 01:10:09,650
-I looked down again.
-
-1098
-01:10:09,650 --> 01:10:13,690
-It was a long way down and he was trying to
-push me.
-
-1099
-01:10:13,690 --> 01:10:17,960
+630
+01:10:13,600 --> 01:10:16,400
 I had to do something and I had to do it now.
 
-1100
-01:10:17,960 --> 01:10:22,300
-The gunman moved to lift up the bar on the
-ski lift.
+631
+01:10:17,760 --> 01:10:25,520
+The gunman moved to lift up the bar on the ski 
+lift. Quickly, I moved forward and hit him in  
 
-1101
-01:10:22,300 --> 01:10:28,630
-Quickly, I moved forward and hit him in his
-face with my right hand.
+632
+01:10:25,520 --> 01:10:33,360
+his face with my right hand. At the same time, I 
+hit his hand with the gun in it with my left hand.  
 
-1102
-01:10:28,630 --> 01:10:33,870
-At the same time, I hit his hand with the
-gun in it with my left hand.
+633
+01:10:34,320 --> 01:10:41,360
+The gun flew out of his hand and fell. It made 
+no noise as it fell into the snow far below.
 
-1103
-01:10:33,870 --> 01:10:37,360
-The gun flew out of his hand and fell.
+634
+01:10:42,480 --> 01:10:45,280
+'You...' he started, 'you...'  
 
-1104
-01:10:37,360 --> 01:10:42,460
-It made no noise as it fell into the snow
-far below.
+635
+01:10:46,720 --> 01:10:57,840
+But it was too late. I hit him on the back of his 
+head, pushed him and he fell. Down, down, down.
 
-1105
-01:10:42,460 --> 01:10:46,980
-'You...' he started, 'you...'
+636
+01:10:58,880 --> 01:11:04,160
+I looked down and watched him. His 
+skis were heavy and he fell fast.  
 
-1106
-01:10:46,980 --> 01:10:48,980
-But it was too late.
+637
+01:11:05,040 --> 01:11:16,360
+He fell into the trees far down below. I pulled 
+down the bar. The ski lift went on moving. Up, up.  
 
-1107
-01:10:48,980 --> 01:10:53,870
-I hit him on the back of his head, pushed
-him and he fell.
+638
+01:11:18,400 --> 01:11:25,840
+It was quiet again. The only thing I 
+could hear was the sound of my heart.
+ 
+ 
+ 
 
-1108
-01:10:53,870 --> 01:10:58,940
-Down, down, down.
-
-1109
-01:10:58,940 --> 01:11:01,530
-I looked down and watched him.
-
-1110
-01:11:01,530 --> 01:11:05,210
-His skis were heavy and he fell fast.
-
-1111
-01:11:05,210 --> 01:11:08,590
-He fell into the trees far down below.
-
-1112
-01:11:08,590 --> 01:11:12,280
-I pulled down the bar.
-
-1113
-01:11:12,280 --> 01:11:15,260
-The ski lift went on moving.
-
-1114
-01:11:15,260 --> 01:11:18,620
-Up, up.
-
-1115
-01:11:18,620 --> 01:11:21,500
-It was quiet again.
-
-1116
-01:11:21,500 --> 01:11:30,390
-The only thing I could hear was the sound
-of my heart.
-
-1117
-01:11:30,390 --> 01:11:33,050
+639
+01:11:30,320 --> 01:11:31,120
 CHAPTER NINE
+
+640
+01:11:32,080 --> 01:11:33,040
 A lot to lose
 
-1118
-01:11:33,050 --> 01:11:38,800
+641
+01:11:34,960 --> 01:11:37,840
 'Whisky, please,' I said to Bill Gershon.
 
-1119
-01:11:38,800 --> 01:11:40,690
-I sat down.
+642
+01:11:38,720 --> 01:11:46,320
+I sat down. It was nine o'clock that evening. 
+We were in his office. I needed a drink.  
 
-1120
-01:11:40,690 --> 01:11:43,190
-It was nine o'clock that evening.
+643
+01:11:47,520 --> 01:11:51,520
+Gershon took the whisky from 
+his cupboard. I smiled at him.  
 
-1121
-01:11:43,190 --> 01:11:45,390
-We were in his office.
+644
+01:11:52,320 --> 01:11:58,160
+'Just like Leo,' I said. 'Do all Chiefs 
+of Police have whisky in their cupboards?'
 
-1122
-01:11:45,390 --> 01:11:47,750
-I needed a drink.
+645
+01:11:59,520 --> 01:12:03,760
+Gershon smiled and put the whisky down 
+on the little table in front of me.
 
-1123
-01:11:47,750 --> 01:11:50,610
-Gershon took the whisky from his cupboard.
+646
+01:12:05,040 --> 01:12:12,640
+I took a drink of the whisky. It was 
+good. I looked at Gershon. I was alive.
 
-1124
-01:11:50,610 --> 01:11:52,630
-I smiled at him.
+647
+01:12:14,960 --> 01:12:19,920
+'Tony Rizzo,' I said to Gershon, 
+'what did you find out about him?'
 
-1125
-01:11:52,630 --> 01:11:54,739
-'Just like Leo,' I said.
+648
+01:12:21,680 --> 01:12:28,320
+The only thing I knew about the gunman was his 
+name. The police found his body in the snow.  
 
-1126
-01:11:54,739 --> 01:11:59,750
-'Do all Chiefs of Police have whisky in their
-cupboards?'
+649
+01:12:29,440 --> 01:12:33,120
+Tony Rizzo was the name on the 
+driver's license in his pocket.
 
-1127
-01:11:59,750 --> 01:12:05,170
-Gershon smiled and put the whisky down on
-the little table in front of me.
-
-1128
-01:12:05,170 --> 01:12:07,870
-I took a drink of the whisky.
-
-1129
-01:12:07,870 --> 01:12:09,620
-It was good.
-
-1130
-01:12:09,620 --> 01:12:11,080
-I looked at Gershon.
-
-1131
-01:12:11,080 --> 01:12:13,570
-I was alive.
-
-1132
-01:12:13,570 --> 01:12:21,880
-'Tony Rizzo,' I said to Gershon, 'what did
-you find out about him?'
-
-1133
-01:12:21,880 --> 01:12:26,250
-The only thing I knew about the gunman was
-his name.
-
-1134
-01:12:26,250 --> 01:12:29,570
-The police found his body in the snow.
-
-1135
-01:12:29,570 --> 01:12:33,900
-Tony Rizzo was the name on the driver's license
-in his pocket.
-
-1136
-01:12:33,900 --> 01:12:38,910
-'Tony Rizzo came from New Mexico,' said Gershon.
-
-1137
-01:12:38,910 --> 01:12:42,290
+650
+01:12:34,800 --> 01:12:41,680
+'Tony Rizzo came from New Mexico,' said Gershon. 
 'He was a hit man for anybody who paid him.'
 
-1138
-01:12:42,290 --> 01:12:44,160
-A hit man.
+651
+01:12:42,640 --> 01:12:49,840
+A hit man. A killer. And Ricky Klein 
+had enough money to pay him, I thought.
 
-1139
-01:12:44,160 --> 01:12:46,360
-A killer.
+652
+01:12:51,200 --> 01:12:56,640
+Gershon went on: 'He spent four 
+years in prison near Santa Fe,  
 
-1140
-01:12:46,360 --> 01:12:51,500
-And Ricky Klein had enough money to pay him,
-I thought.
-
-1141
-01:12:51,500 --> 01:13:02,210
-Gershon went on: 'He spent four years in prison
-near Santa Fe, New Mexico, from 1993 to 1997
-
-1142
-01:13:02,210 --> 01:13:04,290
+653
+01:12:56,640 --> 01:13:03,840
+New Mexico, from 1993 to 1997 
 for killing a security guard.'
 
-1143
-01:13:04,290 --> 01:13:07,310
-'Only four years?'
+654
+01:13:05,440 --> 01:13:07,920
+'Only four years?' I asked.
 
-1144
-01:13:07,310 --> 01:13:08,310
-I asked.
+655
+01:13:08,560 --> 01:13:12,880
+'He got out,' Gershon said. 
+'His friends helped him.  
 
-1145
-01:13:08,310 --> 01:13:11,590
-'He got out,' Gershon said.
+656
+01:13:13,440 --> 01:13:18,960
+He jumped out of a window and onto a 
+furniture truck.' I looked at Gershon.  
 
-1146
-01:13:11,590 --> 01:13:13,640
-'His friends helped him.
-
-1147
-01:13:13,640 --> 01:13:17,980
-He jumped out of a window and onto a furniture
-truck.'
-
-1148
-01:13:17,980 --> 01:13:20,010
-I looked at Gershon.
-
-1149
-01:13:20,010 --> 01:13:23,130
-He was almost enjoying himself, I thought.
-
-1150
-01:13:23,130 --> 01:13:27,540
+657
+01:13:19,760 --> 01:13:26,080
+He was almost enjoying himself, I thought. 
 Well, it was different from parking tickets.
 
-1151
-01:13:27,540 --> 01:13:32,550
+658
+01:13:27,920 --> 01:13:31,840
 'Anyway,' I said, 'I got everything from him.'
 
-1152
-01:13:32,550 --> 01:13:36,660
+659
+01:13:32,960 --> 01:13:35,760
 'The whole story?' asked Gershon.
 
-1153
-01:13:36,660 --> 01:13:39,860
-'Well, almost everything,' I said.
+660
+01:13:36,480 --> 01:13:42,480
+'Well, almost everything,' I said. 
+'I got Rizzo to talk on the ski lift.  
 
-1154
-01:13:39,860 --> 01:13:43,560
-'I got Rizzo to talk on the ski lift.
+661
+01:13:43,360 --> 01:13:47,920
+He killed Janine Anderson. And 
+Ricky Klein was behind it.'
 
-1155
-01:13:43,560 --> 01:13:46,070
-He killed Janine Anderson.
+662
+01:13:49,040 --> 01:13:52,080
+'Wow!' said Gershon. 'You're good!'
 
-1156
-01:13:46,070 --> 01:13:49,060
-And Ricky Klein was behind it.'
+663
+01:13:53,280 --> 01:13:57,280
+I smiled. 'That's the nicest 
+thing you've said to me, Bill,'  
 
-1157
-01:13:49,060 --> 01:13:51,560
-'Wow!' said Gershon.
-
-1158
-01:13:51,560 --> 01:13:53,340
-'You're good!'
-
-1159
-01:13:53,340 --> 01:13:54,380
-I smiled.
-
-1160
-01:13:54,380 --> 01:13:59,900
-'That's the nicest thing you've said to me,
-Bill,' I said.
-
-1161
-01:13:59,900 --> 01:14:02,900
-Gershon looked at me and smiled.
-
-1162
-01:14:02,900 --> 01:14:06,690
+664
+01:13:58,000 --> 01:14:05,200
+I said. Gershon looked at me and smiled. 
 Maybe we were becoming friends at last.
 
-1163
-01:14:06,690 --> 01:14:09,840
-'But there's someone else,' I went on.
+665
+01:14:06,480 --> 01:14:12,480
+'But there's someone else,' I went on. 
+'Someone Rizzo called the "Big Boss,  
 
-1164
-01:14:09,840 --> 01:14:16,120
-'Someone Rizzo called the "Big Boss, Big CJ".
+666
+01:14:13,200 --> 01:14:21,440
+Big CJ". Janine Anderson knew a lot. 
+Everything, I think. About Klein,  
 
-1165
-01:14:16,120 --> 01:14:18,170
-Janine Anderson knew a lot.
+667
+01:14:22,000 --> 01:14:28,400
+how he gave a lot of money to this Big CJ. This 
+man who was in the Government Land Office.'
 
-1166
-01:14:18,170 --> 01:14:20,580
-Everything, I think.
+668
+01:14:30,160 --> 01:14:35,600
+'Government Land Office!' said Bill 
+Gershon suddenly. He put his hand in  
 
-1167
-01:14:20,580 --> 01:14:25,989
-About Klein, how he gave a lot of money to
-this Big CJ.
+669
+01:14:35,600 --> 01:14:42,320
+his pocket and took out about five pieces 
+of paper. 'I forgot! Here are the names.'
 
-1168
-01:14:25,989 --> 01:14:29,510
-This man who was in the Government Land Office.'
+670
+01:14:43,600 --> 01:14:47,760
+I took the papers from Gershon and 
+put them on the table in front of me.  
 
-1169
-01:14:29,510 --> 01:14:34,760
-'Government Land Office!' said Bill Gershon
-suddenly.
+671
+01:14:49,520 --> 01:14:53,600
+I read through them. I was 
+looking for a famous name.
 
-1170
-01:14:34,760 --> 01:14:39,970
-He put his hand in his pocket and took out
-about five pieces of paper.
-
-1171
-01:14:39,970 --> 01:14:41,600
-'I forgot!
-
-1172
-01:14:41,600 --> 01:14:43,680
-Here are the names.'
-
-1173
-01:14:43,680 --> 01:14:48,810
-I took the papers from Gershon and put them
-on the table in front of me.
-
-1174
-01:14:48,810 --> 01:14:51,690
-I read through them.
-
-1175
-01:14:51,690 --> 01:14:55,380
-I was looking for a famous name.
-
-1176
-01:14:55,380 --> 01:14:59,110
-A few minutes later, I looked up at Gershon.
-
-1177
-01:14:59,110 --> 01:15:03,090
+672
+01:14:55,280 --> 01:15:02,400
+A few minutes later, I looked up at Gershon. 
 'Bill, there's one name on here that...'
 
-1178
-01:15:03,090 --> 01:15:07,800
-'Yes, I know,' said Gershon.
+673
+01:15:03,520 --> 01:15:06,880
+'Yes, I know,' said Gershon.  
 
-1179
-01:15:07,800 --> 01:15:10,050
-His eyes were big and round.
+674
+01:15:07,600 --> 01:15:15,040
+His eyes were big and round. 'Governor 
+Clark Johnson... a member of the GLO!'
 
-1180
-01:15:10,050 --> 01:15:15,699
-'Governor Clark Johnson... a member of the
-GLO!'
+675
+01:15:16,160 --> 01:15:18,240
+'But it can't be!' I said.
 
-1181
-01:15:15,699 --> 01:15:17,800
-'But it can't be!'
+676
+01:15:19,440 --> 01:15:22,400
+Clark Johnson! CJ!  
 
-1182
-01:15:17,800 --> 01:15:19,640
-I said.
+677
+01:15:23,200 --> 01:15:30,400
+The Governor of Colorado. And the man who everyone 
+said was the next President of the United States.
 
-1183
-01:15:19,640 --> 01:15:21,590
-Clark Johnson!
+678
+01:15:31,680 --> 01:15:40,240
+I drank my whisky. Now I could see everything. 
+'Janine Anderson had enough to send Klein to  
 
-1184
-01:15:21,590 --> 01:15:23,330
-CJ!
+679
+01:15:40,240 --> 01:15:46,080
+prison for twenty years,' I said to 
+Bill, 'and she had enough to finish  
 
-1185
-01:15:23,330 --> 01:15:25,940
-The Governor of Colorado.
+680
+01:15:46,080 --> 01:15:52,720
+Governor Johnson. She wanted to write 
+all about it. Of course she had to die.'
 
-1186
-01:15:25,940 --> 01:15:31,780
-And the man who everyone said was the next
-President of the United States.
-
-1187
-01:15:31,780 --> 01:15:34,650
-I drank my whisky.
-
-1188
-01:15:34,650 --> 01:15:36,860
-Now I could see everything.
-
-1189
-01:15:36,860 --> 01:15:44,400
-'Janine Anderson had enough to send Klein
-to prison for twenty years,' I said to Bill,
-
-1190
-01:15:44,400 --> 01:15:48,440
-'and she had enough to finish Governor Johnson.
-
-1191
-01:15:48,440 --> 01:15:50,880
-She wanted to write all about it.
-
-1192
-01:15:50,880 --> 01:15:54,880
-Of course she had to die.'
-
-1193
-01:15:54,880 --> 01:15:59,560
+681
+01:15:54,640 --> 01:15:57,520
 'But how did Janine know about Clark Johnson?'
 
-1194
-01:15:59,560 --> 01:16:02,630
-'Maybe she guessed at first,' I said.
+682
+01:15:59,200 --> 01:16:02,160
+'Maybe she guessed at first,' I said.  
 
-1195
-01:16:02,630 --> 01:16:07,920
-'She knew that it must be someone important
-in the GLO.
+683
+01:16:03,120 --> 01:16:09,360
+'She knew that it must be someone important in 
+the GLO. Someone who needed a lot of money.'
 
-1196
-01:16:07,920 --> 01:16:10,800
-Someone who needed a lot of money.'
+684
+01:16:10,880 --> 01:16:15,440
+'Wow!' said Gershon. 'If this is true, it's big!'
 
-1197
-01:16:10,800 --> 01:16:13,260
-'Wow!' said Gershon.
+685
+01:16:16,400 --> 01:16:24,400
+'Yes,' I said, 'it's big. Johnson was in 
+the Government Land Office when Klein built  
 
-1198
-01:16:13,260 --> 01:16:16,840
-'If this is true, it's big!'
+686
+01:16:24,400 --> 01:16:34,000
+Alpine Resorts Colorado in Redridge. Johnson 
+needed money. He wanted to become Governor.'
 
-1199
-01:16:16,840 --> 01:16:21,010
-'Yes,' I said, 'it's big.
+687
+01:16:34,000 --> 01:16:40,240
+'So Klein said, "You let me build 
+Alpine Resorts..."' said Gershon.
 
-1200
-01:16:21,010 --> 01:16:26,820
-Johnson was in the Government Land Office
-when Klein built Alpine Resorts Colorado in
+688
+01:16:40,960 --> 01:16:44,160
+'"And I'll give you money!" A lot of money.  
 
-1201
-01:16:26,820 --> 01:16:28,860
-Redridge.
+689
+01:16:44,160 --> 01:16:50,080
+Millions of dollars, probably,' I said. 'We 
+can look at his bank account easily enough.'
 
-1202
-01:16:28,860 --> 01:16:30,670
-Johnson needed money.
+690
+01:16:51,360 --> 01:16:55,600
+'And then Johnson wanted to 
+become President!' said Gershon.
 
-1203
-01:16:30,670 --> 01:16:33,340
-He wanted to become Governor.'
+691
+01:16:56,720 --> 01:17:03,840
+'Yes,' I said. 'I think Janine really 
+did have a big story. The biggest.'
 
-1204
-01:16:33,340 --> 01:16:40,590
-'So Klein said, "You let me build Alpine Resorts..."'
-said Gershon.
+692
+01:17:05,680 --> 01:17:09,920
+The 'next President of the 
+United States' took money  
 
-1205
-01:16:40,590 --> 01:16:42,860
-'"And I'll give you money!"
+693
+01:17:09,920 --> 01:17:16,800
+from Ricky Klein to let Klein build a new 
+Alpine Resorts. What was bigger than that?
 
-1206
-01:16:42,860 --> 01:16:44,780
-A lot of money.
+694
+01:17:18,080 --> 01:17:24,160
+'But now we've got enough to send Klein 
+to prison for a very long time,' I said.  
 
-1207
-01:16:44,780 --> 01:16:47,360
-Millions of dollars, probably,' I said.
-
-1208
-01:16:47,360 --> 01:16:50,230
-'We can look at his bank account easily enough.'
-
-1209
-01:16:50,230 --> 01:16:56,770
-'And then Johnson wanted to become President!'
-said Gershon.
-
-1210
-01:16:56,770 --> 01:16:59,210
-'Yes,' I said.
-
-1211
-01:16:59,210 --> 01:17:03,510
-'I think Janine really did have a big story.
-
-1212
-01:17:03,510 --> 01:17:05,820
-The biggest.'
-
-1213
-01:17:05,820 --> 01:17:12,810
-The 'next President of the United States'
-took money from Ricky Klein to let Klein build
-
-1214
-01:17:12,810 --> 01:17:15,800
-a new Alpine Resorts.
-
-1215
-01:17:15,800 --> 01:17:18,330
-What was bigger than that?
-
-1216
-01:17:18,330 --> 01:17:24,500
-'But now we've got enough to send Klein to
-prison for a very long time,' I said.
-
-1217
-01:17:24,500 --> 01:17:28,530
+695
+01:17:24,880 --> 01:17:27,360
 'And I think we can get Clark Johnson too.'
 
-1218
-01:17:28,530 --> 01:17:31,310
+696
+01:17:28,480 --> 01:17:30,320
 'Wow!' said Bill.
 
-1219
-01:17:31,310 --> 01:17:36,460
-'Yes,' I said.
+697
+01:17:31,200 --> 01:17:34,480
+'Yes,' I said. 'Wow!'
+ 
+ 
+ 
 
-1220
-01:17:36,460 --> 01:17:40,170
-'Wow!'
-
-1221
-01:17:40,170 --> 01:17:42,630
+698
+01:17:40,080 --> 01:17:40,800
 CHAPTER TEN
+
+699
+01:17:41,840 --> 01:17:43,840
 The Big Boss
 
-1222
-01:17:42,630 --> 01:17:49,590
+700
+01:17:44,800 --> 01:17:47,920
 'That's the story,' I said to Jeff Mason.
 
-1223
-01:17:49,590 --> 01:17:55,280
-Jeff now knew everything about Alpine Resorts
-and Ricky Klein.
+701
+01:17:49,280 --> 01:17:57,840
+Jeff now knew everything about Alpine Resorts and 
+Ricky Klein. And about Governor Clark Johnson.
 
-1224
-01:17:55,280 --> 01:17:58,050
-And about Governor Clark Johnson.
+702
+01:17:59,040 --> 01:18:04,880
+'So that's why poor Janine died!' 
+he said. 'Because of Clark Johnson!'
 
-1225
-01:17:58,050 --> 01:18:03,570
-'So that's why poor Janine died!' he said.
-
-1226
-01:18:03,570 --> 01:18:05,880
-'Because of Clark Johnson!'
-
-1227
-01:18:05,880 --> 01:18:10,560
+703
+01:18:05,840 --> 01:18:10,160
 'Yes, and now we need to get Johnson,' I said.
 
-1228
-01:18:10,560 --> 01:18:13,870
+704
+01:18:11,040 --> 01:18:13,120
 'What about Klein?' asked Jeff.
 
-1229
-01:18:13,870 --> 01:18:17,570
-'We can't find him,' I said.
+705
+01:18:14,400 --> 01:18:21,040
+'We can't find him,' I said. 'He knows 
+about Rizzo and he's gone - the police  
 
-1230
-01:18:17,570 --> 01:18:23,890
-'He knows about Rizzo and he's gone - the
-police are still looking for him.
+706
+01:18:21,040 --> 01:18:28,560
+are still looking for him. We're going to get 
+Johnson,' I went on, 'and I need your help.'
 
-1231
-01:18:23,890 --> 01:18:29,570
-We're going to get Johnson,' I went on, 'and
-I need your help.'
+707
+01:18:31,200 --> 01:18:38,240
+An hour later, Jeff called Johnson's office. I 
+listened to the conversation on another phone.  
 
-1232
-01:18:29,570 --> 01:18:35,470
-An hour later, Jeff called Johnson's office.
+708
+01:18:39,680 --> 01:18:43,200
+'I want to speak to Governor Johnson,' said Jeff.
 
-1233
-01:18:35,470 --> 01:18:39,170
-I listened to the conversation on another
-phone.
+709
+01:18:44,400 --> 01:18:49,680
+'I'm sorry, but the Governor is busy 
+now,' said a young woman. 'Can I help?'
 
-1234
-01:18:39,170 --> 01:18:43,690
-'I want to speak to Governor Johnson,' said
-Jeff.
+710
+01:18:50,800 --> 01:18:58,560
+'Yes,' said Jeff. 'You can tell the Governor that 
+I want to talk about my friend Janine Anderson  
 
-1235
-01:18:43,690 --> 01:18:48,760
-'I'm sorry, but the Governor is busy now,'
-said a young woman.
+711
+01:18:58,560 --> 01:19:02,080
+and the money Governor Johnson 
+took from Mr. Ricky Klein.'  
 
-1236
-01:18:48,760 --> 01:18:50,600
-'Can I help?'
+712
+01:19:03,360 --> 01:19:08,160
+Jeff gave the woman his hotel 
+name and his telephone number.
 
-1237
-01:18:50,600 --> 01:18:53,490
-'Yes,' said Jeff.
+713
+01:19:08,160 --> 01:19:16,320
+Now we just had to wait. We had to wait for 
+Johnson's new hit man. Tony Rizzo was dead,  
 
-1238
-01:18:53,490 --> 01:18:58,860
-'You can tell the Governor that I want to
-talk about my friend Janine Anderson and the
+714
+01:19:16,880 --> 01:19:24,800
+but I was sure that Clark Johnson had another hit 
+man. Another killer. We waited in Jeff's room.  
 
-1239
-01:18:58,860 --> 01:19:03,680
-money Governor Johnson took from Mr. Ricky
-Klein.'
+715
+01:19:26,000 --> 01:19:34,080
+It was dark. Jeff was on the bed. Two of Gershon's 
+men waited near the window. They had their guns.
 
-1240
-01:19:03,680 --> 01:19:08,290
-Jeff gave the woman his hotel name and his
-telephone number.
+716
+01:19:35,440 --> 01:19:37,440
+I was behind the door with my gun.  
 
-1241
-01:19:08,290 --> 01:19:11,010
-Now we just had to wait.
+717
+01:19:38,720 --> 01:19:45,120
+We waited one hour, two hours. It was 
+late at night and the hotel was quiet.
 
-1242
-01:19:11,010 --> 01:19:15,260
-We had to wait for Johnson's new hit man.
+718
+01:19:46,560 --> 01:19:53,600
+Then I heard a noise outside the door. 
+Somebody was trying to get in. The door  
 
-1243
-01:19:15,260 --> 01:19:21,150
-Tony Rizzo was dead, but I was sure that Clark
-Johnson had another hit man.
+719
+01:19:53,600 --> 01:20:00,560
+opened and I could see a man. I moved 
+fast from behind the door. Then I hit him  
 
-1244
-01:19:21,150 --> 01:19:23,560
-Another killer.
+720
+01:20:00,560 --> 01:20:07,280
+over the back of his head with my gun. He 
+fell to the floor like a tree. He didn't move.
 
-1245
-01:19:23,560 --> 01:19:26,170
-We waited in Jeff's room.
+721
+01:20:09,120 --> 01:20:14,560
+I turned on the light. Gershon's men came 
+out with their guns and stood around him.  
 
-1246
-01:19:26,170 --> 01:19:28,000
-It was dark.
+722
+01:20:15,600 --> 01:20:21,680
+One of them took the hit man's gun from his 
+hand. Jeff got up from the bed and came over.
 
-1247
-01:19:28,000 --> 01:19:29,960
-Jeff was on the bed.
+723
+01:20:23,440 --> 01:20:29,680
+I looked at the man on the floor. He was 
+wearing black clothes and he had a black  
 
-1248
-01:19:29,960 --> 01:19:33,340
-Two of Gershon's men waited near the window.
+724
+01:20:29,680 --> 01:20:35,200
+ski mask over his head. I took it 
+off and looked at the man's face.
 
-1249
-01:19:33,340 --> 01:19:35,570
-They had their guns.
+725
+01:20:36,800 --> 01:20:45,840
+I turned cold. I couldn't speak. Jeff 
+looked at me. 'Do you know him?' he asked.
 
-1250
-01:19:35,570 --> 01:19:38,960
-I was behind the door with my gun.
+726
+01:20:47,120 --> 01:20:54,560
+'Yes,' I said quietly. 'It's Eddie 
+Lang. The man who killed Scott.'
 
-1251
-01:19:38,960 --> 01:19:42,679
-We waited one hour, two hours.
+727
+01:20:56,880 --> 01:21:03,760
+'Tell me about Governor Clark Johnson,' I 
+said to Eddie Lang. 'He's behind this, right?'
 
-1252
-01:19:42,679 --> 01:19:46,830
-It was late at night and the hotel was quiet.
+728
+01:21:05,200 --> 01:21:13,840
+Eddie Lang looked up and saw all the 
+police around him. 'Yes,' he said.
 
-1253
-01:19:46,830 --> 01:19:50,719
-Then I heard a noise outside the door.
-
-1254
-01:19:50,719 --> 01:19:53,230
-Somebody was trying to get in.
-
-1255
-01:19:53,230 --> 01:19:56,250
-The door opened and I could see a man.
-
-1256
-01:19:56,250 --> 01:19:59,600
-I moved fast from behind the door.
-
-1257
-01:19:59,600 --> 01:20:03,700
-Then I hit him over the back of his head with
-my gun.
-
-1258
-01:20:03,700 --> 01:20:06,700
-He fell to the floor like a tree.
-
-1259
-01:20:06,700 --> 01:20:09,190
-He didn't move.
-
-1260
-01:20:09,190 --> 01:20:11,460
-I turned on the light.
-
-1261
-01:20:11,460 --> 01:20:15,840
-Gershon's men came out with their guns and
-stood around him.
-
-1262
-01:20:15,840 --> 01:20:19,840
-One of them took the hit man's gun from his
-hand.
-
-1263
-01:20:19,840 --> 01:20:23,560
-Jeff got up from the bed and came over.
-
-1264
-01:20:23,560 --> 01:20:26,710
-I looked at the man on the floor.
-
-1265
-01:20:26,710 --> 01:20:32,810
-He was wearing black clothes and he had a
-black ski mask over his head.
-
-1266
-01:20:32,810 --> 01:20:36,110
-I took it off and looked at the man's face.
-
-1267
-01:20:36,110 --> 01:20:38,540
-I turned cold.
-
-1268
-01:20:38,540 --> 01:20:41,730
-I couldn't speak.
-
-1269
-01:20:41,730 --> 01:20:43,159
-Jeff looked at me.
-
-1270
-01:20:43,159 --> 01:20:47,290
-'Do you know him?' he asked.
-
-1271
-01:20:47,290 --> 01:20:51,050
-'Yes,' I said quietly.
-
-1272
-01:20:51,050 --> 01:20:53,130
-'It's Eddie Lang.
-
-1273
-01:20:53,130 --> 01:20:57,150
-The man who killed Scott.'
-
-1274
-01:20:57,150 --> 01:21:02,530
-'Tell me about Governor Clark Johnson,' I
-said to Eddie Lang.
-
-1275
-01:21:02,530 --> 01:21:05,530
-'He's behind this, right?'
-
-1276
-01:21:05,530 --> 01:21:10,449
-Eddie Lang looked up and saw all the police
-around him.
-
-1277
-01:21:10,449 --> 01:21:14,940
-'Yes,' he said.
-
-1278
-01:21:14,940 --> 01:21:18,020
+729
+01:21:14,720 --> 01:21:17,200
 The next day, I was in Gershon's office.
 
-1279
-01:21:18,020 --> 01:21:21,380
-'We've found Klein,' he said.
+730
+01:21:18,640 --> 01:21:22,240
+'We've found Klein,' he said. 
+'He's told us everything.'  
 
-1280
-01:21:21,380 --> 01:21:23,250
-'He's told us everything.'
+731
+01:21:23,200 --> 01:21:31,520
+Bill Gershon smiled at me. 'Thanks, Flick,' 
+he said. 'Thanks for everything. I'm sorry...'
 
-1281
-01:21:23,250 --> 01:21:25,630
-Bill Gershon smiled at me.
-
-1282
-01:21:25,630 --> 01:21:28,270
-'Thanks, Flick,' he said.
-
-1283
-01:21:28,270 --> 01:21:31,030
-'Thanks for everything.
-
-1284
-01:21:31,030 --> 01:21:32,030
-I'm sorry...'
-
-1285
-01:21:32,030 --> 01:21:36,530
+732
+01:21:32,800 --> 01:21:35,280
 'Forget it,' I said, smiling.
 
-1286
-01:21:36,530 --> 01:21:42,710
-I said goodbye to Gershon and the others - to
-Jeff and Teresa, and to Janine Anderson's
+733
+01:21:36,400 --> 01:21:43,200
+I said goodbye to Gershon and the others - to 
+Jeff and Teresa, and to Janine Anderson's parents.
 
-1287
-01:21:42,710 --> 01:21:43,750
-parents.
+734
+01:21:44,320 --> 01:21:46,800
+'Thank you,' said Gene Anderson.  
 
-1288
-01:21:43,750 --> 01:21:47,179
-'Thank you,' said Gene Anderson.
+735
+01:21:47,440 --> 01:21:55,840
+'Thank you so much.' Then I got in my red Chevy 
+and drove out of Pine Crest and onto the highway.  
 
-1289
-01:21:47,179 --> 01:21:50,429
-'Thank you so much.'
+736
+01:21:57,120 --> 01:22:03,280
+I looked back at the beautiful Rocky Mountains. 
+The mountains were white and the sky was blue.  
 
-1290
-01:21:50,429 --> 01:21:57,240
-Then I got in my red Chevy and drove out of
-Pine Crest and onto the highway.
+737
+01:22:04,720 --> 01:22:13,120
+Life was almost good. Janine Anderson's killer was 
+dead. Ricky Klein was going to prison for twenty  
 
-1291
-01:21:57,240 --> 01:22:00,730
-I looked back at the beautiful Rocky Mountains.
+738
+01:22:13,120 --> 01:22:21,040
+years and Alpine Resorts was finished. Better 
+than that, Clark Johnson, Governor of Colorado,  
 
-1292
-01:22:00,730 --> 01:22:04,980
-The mountains were white and the sky was blue.
+739
+01:22:21,040 --> 01:22:25,920
+was finished too. He could never be 
+President of the United States now.
 
-1293
-01:22:04,980 --> 01:22:08,050
-Life was almost good.
+740
+01:22:27,680 --> 01:22:35,920
+I thought about Scott. I could feel him smiling 
+at me. 'Good work, Flick,' I could hear him say.
 
-1294
-01:22:08,050 --> 01:22:10,940
-Janine Anderson's killer was dead.
+741
+01:22:37,200 --> 01:22:44,960
+And, perhaps best of all, I thought, Eddie 
+Lang was going to prison for a very long  
 
-1295
-01:22:10,940 --> 01:22:17,159
-Ricky Klein was going to prison for twenty
-years and Alpine Resorts was finished.
+742
+01:22:44,960 --> 01:23:05,840
+time! Yes, life was good. I was in 
+my red Chevy and life was good.
+ 
+ 
+ 
+ 
 
-1296
-01:22:17,159 --> 01:22:23,150
-Better than that, Clark Johnson, Governor
-of Colorado, was finished too.
-
-1297
-01:22:23,150 --> 01:22:27,810
-He could never be President of the United
-States now.
-
-1298
-01:22:27,810 --> 01:22:30,230
-I thought about Scott.
-
-1299
-01:22:30,230 --> 01:22:32,489
-I could feel him smiling at me.
-
-1300
-01:22:32,489 --> 01:22:37,500
-'Good work, Flick,' I could hear him say.
-
-1301
-01:22:37,500 --> 01:22:46,210
-And, perhaps best of all, I thought, Eddie
-Lang was going to prison for a very long time!
-
-1302
-01:22:46,210 --> 01:22:49,400
-Yes, life was good.
-
-1303
-01:22:49,400 --> 01:22:54,030
-I was in my red Chevy and life was good.
-
-1304
-01:22:54,030 --> 01:23:04,400
+743
+01:23:11,320 --> 01:23:12,669
 - THE END -
 

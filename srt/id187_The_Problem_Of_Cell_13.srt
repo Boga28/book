@@ -1,3220 +1,3154 @@
 1
-00:00:00,610 --> 00:00:06,650
+00:00:00,560 --> 00:00:01,360
 CHAPTER ONE
-The Bet
 
 2
-00:00:06,650 --> 00:00:13,950
-Professor Augustus S. F. X. Van Dusen's appearance
-was as strange as his name. He was thin with
+00:00:02,720 --> 00:00:03,280
+The Bet
 
 3
-00:00:13,950 --> 00:00:20,030
-the thin shoulders of a student and his face
-was extremely pale. His eyes were the eyes
+00:00:06,160 --> 00:00:12,160
+Professor Augustus S. F. X. Van Dusen's 
+appearance was as strange as his name.  
 
 4
-00:00:20,030 --> 00:00:26,580
-of a man who studies little things. They were
-always half-closed in concentration. Although
+00:00:12,960 --> 00:00:17,760
+He was thin with the thin shoulders of a 
+student and his face was extremely pale.  
 
 5
-00:00:26,580 --> 00:00:33,050
-he wore thick glasses you could see that his
-eyes were blue. But his strangest feature
+00:00:18,880 --> 00:00:24,240
+His eyes were the eyes of a man who studies 
+little things. They were always half-closed  
 
 6
-00:00:33,050 --> 00:00:40,310
-was his abnormally large forehead, on top
-of which sat a crown of yellow hair. Together
+00:00:24,240 --> 00:00:29,840
+in concentration. Although he wore thick 
+glasses you could see that his eyes were blue.  
 
 7
-00:00:40,310 --> 00:00:45,230
-all these things gave him a bizarre, almost
-grotesque personality.
+00:00:31,040 --> 00:00:37,520
+But his strangest feature was his abnormally 
+large forehead, on top of which sat a crown  
 
 8
-00:00:45,230 --> 00:00:53,190
-Professor Van Dusen's family came from Germany.
-Many of his ancestors had been famous scientists;
+00:00:37,520 --> 00:00:44,480
+of yellow hair. Together all these things gave 
+him a bizarre, almost grotesque personality.
 
 9
-00:00:53,190 --> 00:01:00,600
-he was the logical result, the mastermind.
-And logic was his passion. He believed that
+00:00:46,080 --> 00:00:52,800
+Professor Van Dusen's family came from Germany. 
+Many of his ancestors had been famous scientists;  
 
 10
-00:01:00,600 --> 00:01:08,220
-two and two always equal four, except in unusual
-cases, when they may equal three or Five.
+00:00:53,440 --> 00:01:01,120
+he was the logical result, the mastermind. And 
+logic was his passion. He believed that two and  
 
 11
-00:01:08,220 --> 00:01:13,390
-He believed that all things that start must
-go somewhere, and he was able to concentrate
+00:01:01,120 --> 00:01:07,520
+two always equal four, except in unusual 
+cases, when they may equal three or Five.  
 
 12
-00:01:13,390 --> 00:01:18,200
-all the mental force of his ancestors to solve
-any problem.
+00:01:08,400 --> 00:01:11,920
+He believed that all things 
+that start must go somewhere,  
 
 13
-00:01:18,200 --> 00:01:24,350
-The public knew Van Dusen as The Thinking
-Machine and perhaps this phrase described
+00:01:11,920 --> 00:01:17,360
+and he was able to concentrate all the mental 
+force of his ancestors to solve any problem.
 
 14
-00:01:24,350 --> 00:01:30,750
-him best of all. He spent all his time in
-his small laboratory where he invented brilliant
+00:01:19,040 --> 00:01:26,320
+The public knew Van Dusen as The Thinking Machine 
+and perhaps this phrase described him best of all.  
 
 15
-00:01:30,750 --> 00:01:36,280
-theories that shocked scientists and had a
-profound effect on the world.
+00:01:26,320 --> 00:01:30,720
+He spent all his time in his small 
+laboratory where he invented brilliant  
 
 16
-00:01:36,280 --> 00:01:41,490
-The Thinking Machine didn't have many visitors.
-When people did come to see him they were
+00:01:30,720 --> 00:01:34,480
+theories that shocked scientists and 
+had a profound effect on the world.
 
 17
-00:01:41,490 --> 00:01:48,880
-usually scientists. Two of these men, Dr Charles
-Ransome and Alfred Fielding visited him one
+00:01:36,080 --> 00:01:40,960
+The Thinking Machine didn't have many 
+visitors. When people did come to see  
 
 18
-00:01:48,880 --> 00:01:53,940
-evening to discuss some theory (what it was
-exactly is of no importance).
+00:01:40,960 --> 00:01:47,360
+him they were usually scientists. Two of these 
+men, Dr Charles Ransome and Alfred Fielding  
 
 19
-00:01:53,940 --> 00:01:57,850
-"That is impossible," said Dr Ransome.
+00:01:47,920 --> 00:01:53,840
+visited him one evening to discuss some theory 
+(what it was exactly is of no importance).
 
 20
-00:01:57,850 --> 00:02:04,270
-"Nothing is impossible," said The Thinking
-Machine. "The mind is master of all things.
+00:01:54,720 --> 00:01:57,520
+"That is impossible," said Dr Ransome.
 
 21
-00:02:04,270 --> 00:02:07,860
-When science understands this, it will be
-a great day."
+00:01:58,240 --> 00:02:01,360
+"Nothing is impossible," 
+said The Thinking Machine.  
 
 22
-00:02:07,860 --> 00:02:11,310
-"What about the airship?" asked Dr Ransome.
+00:02:01,360 --> 00:02:08,160
+"The mind is master of all things. When science 
+understands this, it will be a great day."
 
 23
-00:02:11,310 --> 00:02:17,670
-"That's not impossible at all," said The Thinking
-Machine. "It will be invented soon. I would
+00:02:08,160 --> 00:02:11,520
+"What about the airship?" asked Dr Ransome.
 
 24
-00:02:17,670 --> 00:02:21,000
-do it myself, but unfortunately I'm too busy."
+00:02:11,520 --> 00:02:17,280
+"That's not impossible at all," said The 
+Thinking Machine. "It will be invented soon.  
 
 25
-00:02:21,000 --> 00:02:22,940
-Dr Ransome laughed.
+00:02:17,280 --> 00:02:20,240
+I would do it myself, but 
+unfortunately I'm too busy."
 
 26
-00:02:22,940 --> 00:02:28,940
-"I've heard you say things like that before,"
-he said. "But they mean nothing. The mind
+00:02:20,960 --> 00:02:22,160
+Dr Ransome laughed.
 
 27
-00:02:28,940 --> 00:02:33,950
-may be master of the material world, but there
-are some problems that cannot be solved by
+00:02:23,600 --> 00:02:29,280
+"I've heard you say things like that before," 
+he said. "But they mean nothing. The mind may be  
 
 28
-00:02:33,950 --> 00:02:35,110
-thought alone."
+00:02:29,280 --> 00:02:34,800
+master of the material world, but there are some 
+problems that cannot be solved by thought alone."
 
 29
-00:02:35,110 --> 00:02:39,840
-"Give me an example," demanded The Thinking
-Machine.
+00:02:35,520 --> 00:02:38,240
+"Give me an example," 
+demanded The Thinking Machine.
 
 30
-00:02:39,840 --> 00:02:43,290
+00:02:39,440 --> 00:02:42,240
 Dr Ransome thought for a moment as he smoked.
 
 31
-00:02:43,290 --> 00:02:50,140
-"Well, what about the walls of a prison?"
-he replied. "No man can escape from a cell
+00:02:43,520 --> 00:02:49,520
+"Well, what about the walls of a prison?" 
+he replied. "No man can escape from a  
 
 32
-00:02:50,140 --> 00:02:56,810
-just by thinking about it. If he could, there
-would be no prisoners." He continued. "Let's
+00:02:49,520 --> 00:02:54,560
+cell just by thinking about it. If he 
+could, there would be no prisoners."  
 
 33
-00:02:56,810 --> 00:03:03,380
-imagine a case. A cell for prisoners who are
-condemned to death. These men will do anything
+00:02:55,360 --> 00:03:01,920
+He continued. "Let's imagine a case. A cell 
+for prisoners who are condemned to death.  
 
 34
-00:03:03,380 --> 00:03:09,010
-to try to escape. Imagine you were in that
-cell. Could you escape?"
+00:03:01,920 --> 00:03:08,240
+These men will do anything to try to escape. 
+Imagine you were in that cell. Could you escape?"
 
 35
-00:03:09,010 --> 00:03:11,560
+00:03:09,040 --> 00:03:10,880
 "Certainly," said The Thinking Machine.
 
 36
-00:03:11,560 --> 00:03:16,820
-"Of course," said Mr Fielding, "you could
-destroy the cell with an explosive, but if
+00:03:11,520 --> 00:03:16,240
+"Of course," said Mr Fielding, "you 
+could destroy the cell with an explosive,  
 
 37
-00:03:16,820 --> 00:03:20,500
-you are a prisoner inside the cell you can't
-have that."
+00:03:16,800 --> 00:03:19,760
+but if you are a prisoner inside 
+the cell you can't have that."
 
 38
-00:03:20,500 --> 00:03:26,280
-"I don't need an explosive," said The Thinking
-Machine. "I would be just like any other prisoner
+00:03:20,960 --> 00:03:24,320
+"I don't need an explosive," 
+said The Thinking Machine.  
 
 39
-00:03:26,280 --> 00:03:29,000
-and I would still be able to leave the cell."
+00:03:24,320 --> 00:03:28,560
+"I would be just like any other prisoner and 
+I would still be able to leave the cell."
 
 40
-00:03:29,000 --> 00:03:34,709
-"You could escape only if you entered it with
-tools," said Dr Ransome.
+00:03:29,120 --> 00:03:33,680
+"You could escape only if you entered 
+it with tools," said Dr Ransome.
 
 41
-00:03:34,709 --> 00:03:37,060
+00:03:34,480 --> 00:03:36,960
 The Thinking Machine was visibly irritated.
 
 42
-00:03:37,060 --> 00:03:44,340
-"Lock me in any cell in any prison anywhere
-at any time, wearing only normal clothes,
+00:03:37,760 --> 00:03:44,480
+"Lock me in any cell in any prison anywhere 
+at any time, wearing only normal clothes, and  
 
 43
-00:03:44,340 --> 00:03:51,599
-and I'll escape in a week," he declared. Dr
-Ransome was interested. Mr. Fielding lit a
+00:03:44,480 --> 00:03:51,680
+I'll escape in a week," he declared. Dr Ransome 
+was interested. Mr. Fielding lit a new cigar.
 
 44
-00:03:51,599 --> 00:03:52,990
-new cigar.
+00:03:53,200 --> 00:03:59,760
+"You're saying that you could escape from the 
+cell just by thinking about it?" Ransome asked.
 
 45
-00:03:52,990 --> 00:03:59,240
-"You're saying that you could escape from
-the cell just by thinking about it?" Ransome
-
-46
-00:03:59,240 --> 00:04:00,240
-asked.
-
-47
-00:04:00,240 --> 00:04:01,250
+00:03:59,760 --> 00:04:00,800
 "I could get out."
 
-48
-00:04:01,250 --> 00:04:02,900
+46
+00:04:01,600 --> 00:04:02,800
 "Are you serious?"
 
-49
-00:04:02,900 --> 00:04:05,790
+47
+00:04:02,800 --> 00:04:04,000
 "Certainly, I'm serious."
 
+48
+00:04:05,360 --> 00:04:09,360
+Dr Ransome and Mr Fielding 
+were silent for a long time.
+
+49
+00:04:09,360 --> 00:04:12,640
+"Would you like to try it?" 
+asked Mr Fielding finally.
+
 50
-00:04:05,790 --> 00:04:09,290
-Dr Ransome and Mr Fielding were silent for
-a long time.
+00:04:13,600 --> 00:04:18,240
+"Certainly," said Professor 
+Van Dusen and added ironically,  
 
 51
-00:04:09,290 --> 00:04:13,710
-"Would you like to try it?" asked Mr Fielding
-finally.
+00:04:18,240 --> 00:04:23,120
+"I have done more ridiculous things than that 
+to convince men of less important facts."
 
 52
-00:04:13,710 --> 00:04:19,769
-"Certainly," said Professor Van Dusen and
-added ironically, "I have done more ridiculous
+00:04:24,320 --> 00:04:28,160
+Of course it was an absurd thing 
+but they decided it at that moment.
 
 53
-00:04:19,769 --> 00:04:24,559
-things than that to convince men of less important
-facts."
-
-54
-00:04:24,559 --> 00:04:28,639
-Of course it was an absurd thing but they
-decided it at that moment.
-
-55
-00:04:28,639 --> 00:04:32,210
+00:04:29,360 --> 00:04:31,920
 "To begin now." said Dr Ransome.
 
+54
+00:04:32,560 --> 00:04:35,760
+"I'd prefer tomorrow," said The 
+Thinking Machine, "because..."
+
+55
+00:04:36,560 --> 00:04:40,800
+"No, now!" said Mr Fielding. "You 
+will be locked in a cell with no  
+
 56
-00:04:32,210 --> 00:04:36,509
-"I'd prefer tomorrow," said The Thinking Machine,
-"because..."
+00:04:40,800 --> 00:04:44,960
+chance to communicate with 
+friends. You will receive exactly  
 
 57
-00:04:36,509 --> 00:04:41,930
-"No, now!" said Mr Fielding. "You will be
-locked in a cell with no chance to communicate
+00:04:44,960 --> 00:04:50,960
+the same attention as a real prisoner, a man 
+condemned to death. Do you still agree to do it?"
 
 58
-00:04:41,930 --> 00:04:48,589
-with friends. You will receive exactly the
-same attention as a real prisoner, a man condemned
+00:04:51,760 --> 00:04:55,760
+"All right. Now, if you want," 
+said The Thinking Machine,  
 
 59
-00:04:48,589 --> 00:04:51,590
-to death. Do you still agree to do it?"
+00:04:55,760 --> 00:04:59,280
+and he stood up. "The 
+death-cell in Chisholm Prison?"
 
 60
-00:04:51,590 --> 00:04:58,240
-"All right. Now, if you want," said The Thinking
-Machine, and he stood up. "The death-cell
-
-61
-00:04:58,240 --> 00:04:59,800
-in Chisholm Prison?"
-
-62
-00:04:59,800 --> 00:05:00,840
+00:05:00,240 --> 00:05:00,640
 "Fine."
 
-63
-00:05:00,840 --> 00:05:03,110
+61
+00:05:01,440 --> 00:05:02,400
 "And what will you wear?"
 
-64
-00:05:03,110 --> 00:05:08,479
-"Very little," said The Thinking Machine.
+62
+00:05:03,120 --> 00:05:08,400
+"Very little," said The Thinking Machine. 
 "Shoes, long socks, trousers and a shirt."
 
-65
-00:05:08,479 --> 00:05:10,849
+63
+00:05:08,400 --> 00:05:10,560
 "The guards will search you, of course."
 
+64
+00:05:11,200 --> 00:05:14,640
+"They must treat me like any other 
+prisoner," said The Thinking Machine.
+
+65
+00:05:15,760 --> 00:05:21,520
+And so they made the arrangements. They had to 
+obtain permission for the experiment but all three  
+
 66
-00:05:10,849 --> 00:05:16,099
-"They must treat me like any other prisoner,"
-said The Thinking Machine.
+00:05:21,520 --> 00:05:26,000
+of them wore important men and everything 
+was finalized with a few telephone calls.  
 
 67
-00:05:16,099 --> 00:05:21,120
-And so they made the arrangements. They had
-to obtain permission for the experiment but
+00:05:27,040 --> 00:05:31,200
+The prison governors could not understand 
+why Professor Van Dusen wanted to do it.  
 
 68
-00:05:21,120 --> 00:05:27,240
-all three of them wore important men and everything
-was finalized with a few telephone calls.
+00:05:31,760 --> 00:05:36,400
+But one thing was certain. They had 
+never had such an important prisoner.
 
 69
-00:05:27,240 --> 00:05:32,229
-The prison governors could not understand
-why Professor Van Dusen wanted to do it. But
+00:05:37,440 --> 00:05:41,520
+The Thinking Machine dressed himself in the 
+clothes that he was going to wear in prison,  
 
 70
-00:05:32,229 --> 00:05:36,949
-one thing was certain. They had never had
-such an important prisoner.
-
-71
-00:05:36,949 --> 00:05:41,599
-The Thinking Machine dressed himself in the
-clothes that he was going to wear in prison,
-
-72
-00:05:41,599 --> 00:05:42,949
+00:05:41,520 --> 00:05:42,800
 and called his housekeeper.
 
+71
+00:05:43,440 --> 00:05:48,640
+"Martha," he said, "it is now twenty-seven 
+minutes past nine. I am going away.  
+
+72
+00:05:49,440 --> 00:05:54,080
+One week from tonight at half-past 
+nine, these gentlemen and one or two  
+
 73
-00:05:42,949 --> 00:05:49,949
-"Martha," he said, "it is now twenty-seven
-minutes past nine. I am going away. One week
+00:05:54,080 --> 00:05:58,800
+others will have dinner with me here. 
+Remember Dr Ransome likes carrots."
 
 74
-00:05:49,949 --> 00:05:55,580
-from tonight at half-past nine, these gentlemen
-and one or two others will have dinner with
+00:06:00,480 --> 00:06:02,880
+A driver took the three men to Chisholm Prison.  
 
 75
-00:05:55,580 --> 00:05:58,969
-me here. Remember Dr Ransome likes carrots."
+00:06:04,080 --> 00:06:09,920
+The warden was waiting for them. He understood 
+only that Professor Van Dusen was going to be his  
 
 76
-00:05:58,969 --> 00:06:07,050
-A driver took the three men to Chisholm Prison.
-The warden was waiting for them. He understood
+00:06:09,920 --> 00:06:16,160
+prisoner for one week. He was not a criminal, but 
+he must be treated just like any other prisoner.
 
 77
-00:06:07,050 --> 00:06:12,649
-only that Professor Van Dusen was going to
-be his prisoner for one week. He was not a
-
-78
-00:06:12,649 --> 00:06:16,599
-criminal, but he must be treated just like
-any other prisoner.
-
-79
-00:06:16,599 --> 00:06:20,699
+00:06:17,760 --> 00:06:19,840
 "Search him," said Dr Ransome.
 
+78
+00:06:21,440 --> 00:06:24,880
+The guards searched The Thinking 
+Machine but they didn't find anything.  
+
+79
+00:06:26,000 --> 00:06:29,680
+The pockets of his trousers were empty 
+and his shirt didn't have any pockets.  
+
 80
-00:06:20,699 --> 00:06:26,719
-The guards searched The Thinking Machine but
-they didn't find anything. The pockets of
+00:06:30,480 --> 00:06:34,880
+They took off his shoes and socks 
+and looked inside them. Nothing.
 
 81
-00:06:26,719 --> 00:06:31,550
-his trousers were empty and his shirt didn't
-have any pockets. They took off his shoes
+00:06:36,080 --> 00:06:40,160
+Dr Ransome regarded Van Dusen's 
+weak body and his colorless face.  
 
 82
-00:06:31,550 --> 00:06:36,490
-and socks and looked inside them. Nothing.
+00:06:40,960 --> 00:06:43,120
+He was suddenly sorry about his idea.
 
 83
-00:06:36,490 --> 00:06:42,369
-Dr Ransome regarded Van Dusen's weak body
-and his colorless face. He was suddenly sorry
-
-84
-00:06:42,369 --> 00:06:43,999
-about his idea.
-
-85
-00:06:43,999 --> 00:06:48,129
+00:06:44,640 --> 00:06:47,840
 "Are you sure you want to do this?" he asked.
 
-86
-00:06:48,129 --> 00:06:52,900
-"Would you believe me if I didn't do it?"
-The Thinking Machine replied.
+84
+00:06:48,560 --> 00:06:52,480
+"Would you believe me if I didn't do 
+it?" The Thinking Machine replied.
 
-87
-00:06:52,900 --> 00:06:53,900
+85
+00:06:53,600 --> 00:06:53,760
 "No."
 
-88
-00:06:53,900 --> 00:06:57,960
+86
+00:06:54,480 --> 00:06:55,680
 "All right, I'll do it."
 
+87
+00:06:57,440 --> 00:07:03,920
+Ransome didn't like the arrogance in Van Dusen's 
+voice. His sympathy for the man disappeared. He  
+
+88
+00:07:03,920 --> 00:07:09,760
+decided that the experiment was a good thing. 
+It would teach The Thinking Machine a lesson.
+
 89
-00:06:57,960 --> 00:07:03,939
-Ransome didn't like the arrogance in Van Dusen's
-voice. His sympathy for the man disappeared.
-
-90
-00:07:03,939 --> 00:07:09,270
-He decided that the experiment was a good
-thing. It would teach The Thinking Machine
-
-91
-00:07:09,270 --> 00:07:10,270
-a lesson.
-
-92
-00:07:10,270 --> 00:07:17,039
-"Will it be possible for him to communicate
+00:07:11,600 --> 00:07:17,040
+"Will it be possible for him to communicate 
 with anyone outside the prison?" he asked.
 
+90
+00:07:17,040 --> 00:07:22,640
+"No. It will be absolutely impossible," said the 
+warden. "He will not have anything to write with."
+
+91
+00:07:23,440 --> 00:07:26,480
+"And the guards, will they send messages for him?"
+
+92
+00:07:26,480 --> 00:07:28,240
+"Not one word," said the warden.  
+
 93
-00:07:17,039 --> 00:07:22,249
-"No. It will be absolutely impossible," said
-the warden. "He will not have anything to
+00:07:29,600 --> 00:07:33,440
+"They will tell me anything he says and 
+they will give me anything he gives them."
 
 94
-00:07:22,249 --> 00:07:23,249
-write with."
-
-95
-00:07:23,249 --> 00:07:26,550
-"And the guards, will they send messages for
-him?"
-
-96
-00:07:26,550 --> 00:07:32,189
-"Not one word," said the warden. "They will
-tell me anything he says and they will give
-
-97
-00:07:32,189 --> 00:07:33,610
-me anything he gives them."
-
-98
-00:07:33,610 --> 00:07:37,569
+00:07:34,880 --> 00:07:36,880
 "Good," said Mr Fielding.
 
-99
-00:07:37,569 --> 00:07:45,459
-"Of course if he does not escape in a week,"
-said Dr Ransome, "and asks to leave, you will
+95
+00:07:38,400 --> 00:07:42,400
+"Of course if he does not escape 
+in a week," said Dr Ransome,  
 
-100
-00:07:45,459 --> 00:07:46,459
-let him go?"
+96
+00:07:42,960 --> 00:07:46,000
+"and asks to leave, you will let him go?"
 
-101
-00:07:46,459 --> 00:07:50,099
+97
+00:07:46,560 --> 00:07:48,480
 "I understand," said the warden.
 
-102
-00:07:50,099 --> 00:07:51,879
+98
+00:07:49,760 --> 00:07:51,520
 Then The Thinking Machine spoke.
 
-103
-00:07:51,879 --> 00:07:58,150
-"I have three requests," he said, "I would
-like some toothpaste and also one five-dollar
+99
+00:07:52,160 --> 00:07:57,120
+"I have three requests," he said, "I 
+would like some toothpaste and also  
 
-104
-00:07:58,150 --> 00:08:01,020
-and two ten- dollar bills"
+100
+00:07:57,120 --> 00:07:59,600
+one five-dollar and two ten- dollar bills"
 
-105
-00:08:01,020 --> 00:08:05,459
-"Could he bribe your guards for twenty-five
-dollars?"
+101
+00:08:01,280 --> 00:08:04,560
+"Could he bribe your guards 
+for twenty-five dollars?"
 
-106
-00:08:05,459 --> 00:08:08,550
+102
+00:08:05,200 --> 00:08:07,360
 Not even for twenty-five hundred dollars."
 
-107
-00:08:08,550 --> 00:08:13,189
-"In that case, give him the money," said Mr
-Fielding.
+103
+00:08:09,280 --> 00:08:12,240
+"In that case, give him the 
+money," said Mr Fielding.
 
-108
-00:08:13,189 --> 00:08:18,339
-"And what is the third request?" asked Dr
-Ransome.
+104
+00:08:13,920 --> 00:08:17,840
+"And what is the third request?" asked Dr Ransome.
 
-109
-00:08:18,339 --> 00:08:22,449
+105
+00:08:18,720 --> 00:08:20,560
 "Could somebody clean my shoes?"
 
+106
+00:08:22,240 --> 00:08:28,000
+The three men looked very surprised. This 
+last request seemed completely absurd,  
+
+107
+00:08:28,000 --> 00:08:32,960
+but they agreed to it anyway. After this, 
+they took The Thinking Machine to his cell.  
+
+108
+00:08:34,000 --> 00:08:40,080
+They walked down a long corridor 
+and stopped at the third steel door.
+
+109
+00:08:40,080 --> 00:08:45,680
+"Here is Cell 13," said the warden. "This 
+is where condemned killers are kept.  
+
 110
-00:08:22,449 --> 00:08:28,499
-The three men looked very surprised. This
-last request seemed completely absurd, but
+00:08:46,320 --> 00:08:51,360
+No one can leave it without my permission. 
+No one in it can communicate with anyone  
 
 111
-00:08:28,499 --> 00:08:34,490
-they agreed to it anyway. After this, they
-took The Thinking Machine to his cell. They
+00:08:51,360 --> 00:08:56,160
+outside. It is very near my office and I 
+can hear any noise that comes from it."
 
 112
-00:08:34,490 --> 00:08:39,289
-walked down a long corridor and stopped at
-the third steel door.
+00:08:57,040 --> 00:09:00,480
+"Is this cell all right, gentlemen?" 
+asked The Thinking Machine.
 
 113
-00:08:39,289 --> 00:08:46,720
-"Here is Cell 13," said the warden. "This
-is where condemned killers are kept. No one
+00:09:01,280 --> 00:09:05,200
+"Yes, it's perfect," replied 
+Fielding and Ransome together.
 
 114
-00:08:46,720 --> 00:08:52,100
-can leave it without my permission. No one
-in it can communicate with anyone outside.
+00:09:06,960 --> 00:09:10,720
+The guard opened the door and The Thinking 
+Machine walked into the dark room.  
 
 115
-00:08:52,100 --> 00:08:56,730
-It is very near my office and I can hear any
-noise that comes from it."
+00:09:11,360 --> 00:09:14,800
+No sooner was he inside than 
+the warden closed the door  
 
 116
-00:08:56,730 --> 00:09:01,290
-"Is this cell all right, gentlemen?" asked
-The Thinking Machine.
-
-117
-00:09:01,290 --> 00:09:06,370
-"Yes, it's perfect," replied Fielding and
-Ransome together.
-
-118
-00:09:06,370 --> 00:09:11,899
-The guard opened the door and The Thinking
-Machine walked into the dark room. No sooner
-
-119
-00:09:11,899 --> 00:09:18,250
-was he inside than the warden closed the door
-and locked it with a double lock. Ransome
-
-120
-00:09:18,250 --> 00:09:20,459
+00:09:14,800 --> 00:09:19,920
+and locked it with a double lock. Ransome 
 heard a noise from inside the cell.
 
-121
-00:09:20,459 --> 00:09:24,069
-"What is that noise?" he asked through the
-bars.
+117
+00:09:21,040 --> 00:09:23,440
+"What is that noise?" he asked through the bars.
 
-122
-00:09:24,069 --> 00:09:28,720
-"Rats - the cell is full of rats," replied
-The Thinking Machine.
+118
+00:09:24,080 --> 00:09:27,680
+"Rats - the cell is full of rats," 
+replied The Thinking Machine.
 
-123
-00:09:28,720 --> 00:09:34,250
-The three men said goodnight and were turning
+119
+00:09:29,200 --> 00:09:33,680
+The three men said goodnight and were turning 
 to go when The Thinking Machine called:
 
-124
-00:09:34,250 --> 00:09:37,020
+120
+00:09:34,320 --> 00:09:36,320
 "What time is it exactly, warden?"
 
-125
-00:09:37,020 --> 00:09:39,120
+121
+00:09:36,960 --> 00:09:38,880
 "Seventeen minutes past eleven."
 
-126
-00:09:39,120 --> 00:09:45,019
-"Thanks. I will see you all in your office
-at half-past eight one week from this evening,"
+122
+00:09:39,760 --> 00:09:42,640
+"Thanks. I will see you all 
+in your office at half-past  
 
-127
-00:09:45,019 --> 00:09:46,290
+123
+00:09:42,640 --> 00:09:46,240
+eight one week from this evening," 
 said The Thinking Machine.
 
-128
-00:09:46,290 --> 00:09:47,550
+124
+00:09:46,240 --> 00:09:47,200
 "And if you do not?"
 
-129
-00:09:47,550 --> 00:09:54,350
+125
+00:09:47,760 --> 00:09:49,840
 "There is no possibility of that."
+ 
+ 
 
-130
-00:09:54,350 --> 00:09:59,709
+126
+00:09:54,240 --> 00:09:54,960
 CHAPTER TWO
+
+127
+00:09:56,320 --> 00:09:57,200
 Chisholm Prison
 
+128
+00:09:59,520 --> 00:10:04,880
+Chisholm prison was a large building. It was 
+four floors high and stood in the centre of a  
+
+129
+00:10:04,880 --> 00:10:11,040
+large open space. The wall around it was 
+six metres high and impossible to climb.  
+
+130
+00:10:12,480 --> 00:10:18,240
+Even if a man managed to escape from his 
+cell, he could not pass over the wall.
+
 131
-00:09:59,709 --> 00:10:04,910
-Chisholm prison was a large building. It was
-four floors high and stood in the centre of
+00:10:18,240 --> 00:10:24,400
+The yard around the building was eight metres 
+wide on all sides. This was the distance from  
 
 132
-00:10:04,910 --> 00:10:12,810
-a large open space. The wall around it was
-six metres high and impossible to climb. Even
+00:10:24,400 --> 00:10:30,160
+the prison building to the wall. During the 
+day, prisoners used the yard to do exercises.  
 
 133
-00:10:12,810 --> 00:10:18,459
-if a man managed to escape from his cell,
-he could not pass over the wall.
+00:10:31,520 --> 00:10:35,440
+But it was not for those prisoners in Cell 13.
 
 134
-00:10:18,459 --> 00:10:24,579
-The yard around the building was eight metres
-wide on all sides. This was the distance from
-
-135
-00:10:24,579 --> 00:10:31,819
-the prison building to the wall. During the
-day, prisoners used the yard to do exercises.
-
-136
-00:10:31,819 --> 00:10:37,439
-But it was not for those prisoners in Cell
-13.
-
-137
-00:10:37,439 --> 00:10:42,970
-There were always four armed guards in the
+00:10:37,200 --> 00:10:42,160
+There were always four armed guards in the 
 yard, one for each side of the building.
 
+135
+00:10:43,600 --> 00:10:46,480
+At night strong lights 
+illuminated the yard and the wall.  
+
+136
+00:10:47,360 --> 00:10:52,000
+The wires that carried electricity to these 
+lights ran up the walls of the building.
+
+137
+00:10:53,440 --> 00:10:56,960
+The Thinking Machine saw and 
+understood all these things.  
+
 138
-00:10:42,970 --> 00:10:49,160
-At night strong lights illuminated the yard
-and the wall. The wires that carried electricity
+00:10:58,080 --> 00:11:04,160
+He had to stand on his bed to see out of the 
+small barred window. It was the morning after  
 
 139
-00:10:49,160 --> 00:10:52,860
-to these lights ran up the walls of the building.
+00:11:04,160 --> 00:11:09,280
+his incarceration. He soon realised that 
+somewhere on the other side of the wall  
 
 140
-00:10:52,860 --> 00:10:59,779
-The Thinking Machine saw and understood all
-these things. He had to stand on his bed to
+00:11:10,000 --> 00:11:15,600
+there was a river because he could hear the 
+sound of a boat and saw a river bird in the sky.  
 
 141
-00:10:59,779 --> 00:11:06,759
-see out of the small barred window. It was
-the morning after his incarceration. He soon
+00:11:17,440 --> 00:11:21,760
+From the same direction he heard the sound 
+of children playing baseball, so he knew  
 
 142
-00:11:06,759 --> 00:11:12,120
-realised that somewhere on the other side
-of the wall there was a river because he could
-
-143
-00:11:12,120 --> 00:11:18,949
-hear the sound of a boat and saw a river bird
-in the sky. From the same direction he heard
-
-144
-00:11:18,949 --> 00:11:23,590
-the sound of children playing baseball, so
-he knew that there was a children's playground
-
-145
-00:11:23,590 --> 00:11:29,390
+00:11:21,760 --> 00:11:27,840
+that there was a children's playground 
 between the prison wall and the river.
 
+143
+00:11:29,200 --> 00:11:33,600
+No man had ever escaped from Chisholm 
+Prison and it was easy to see why.  
+
+144
+00:11:34,480 --> 00:11:40,880
+The walls of the cell were perfectly solid 
+and the bars on the window were new. And in  
+
+145
+00:11:40,880 --> 00:11:44,080
+any case the window itself was 
+too small to escape through.
+
 146
-00:11:29,390 --> 00:11:35,569
-No man had ever escaped from Chisholm Prison
-and it was easy to see why. The walls of the
+00:11:45,440 --> 00:11:47,920
+But this didn't discourage The Thinking Machine.  
 
 147
-00:11:35,569 --> 00:11:42,029
-cell were perfectly solid and the bars on
-the window were new. And in any case the window
+00:11:48,720 --> 00:11:53,600
+He looked up at the light and saw how the wire 
+went from it to the wall of the prison building.  
 
 148
-00:11:42,029 --> 00:11:45,730
-itself was too small to escape through.
+00:11:54,640 --> 00:12:00,160
+He realised that the wire passed near the 
+window of his cell. That could be useful.
 
 149
-00:11:45,730 --> 00:11:50,970
-But this didn't discourage The Thinking Machine.
-He looked up at the light and saw how the
+00:12:02,080 --> 00:12:05,360
+Cell 13 was on the same 
+floor as the prison offices.  
 
 150
-00:11:50,970 --> 00:11:56,680
-wire went from it to the wall of the prison
-building. He realised that the wire passed
+00:12:06,800 --> 00:12:11,440
+The Thinking Machine couldn't see the ground 
+through the window of his cell. However,  
 
 151
-00:11:56,680 --> 00:12:01,070
-near the window of his cell. That could be
-useful.
+00:12:11,440 --> 00:12:19,520
+there were only four steps up to the office floor. 
+Therefore the cell must be near the ground. Good.
 
 152
-00:12:01,070 --> 00:12:08,490
-Cell 13 was on the same floor as the prison
-offices. The Thinking Machine couldn't see
+00:12:21,680 --> 00:12:27,440
+The Thinking Machine remembered how he had come to 
+the cell. First there was the outside guard's room  
 
 153
-00:12:08,490 --> 00:12:13,949
-the ground through the window of his cell.
-However, there were only four steps up to
+00:12:27,440 --> 00:12:32,960
+which formed part of the wall, next to the prison 
+gates. There was always one guard at these gates  
 
 154
-00:12:13,949 --> 00:12:19,470
-the office floor. Therefore the cell must
-be near the ground. Good.
+00:12:32,960 --> 00:12:37,840
+who let people come into the prison and then 
+let them out again when the warden told him to.  
 
 155
-00:12:19,470 --> 00:12:27,079
-The Thinking Machine remembered how he had
-come to the cell. First there was the outside
+00:12:39,040 --> 00:12:44,320
+The warden's office was in the prison building. 
+From the yard you had to pass through a solid  
 
 156
-00:12:27,079 --> 00:12:31,689
-guard's room which formed part of the wall,
-next to the prison gates. There was always
+00:12:44,320 --> 00:12:50,080
+steel door to get to it. The door had only 
+one small hole in it to see who was there.  
 
 157
-00:12:31,689 --> 00:12:36,589
-one guard at these gates who let people come
-into the prison and then let them out again
+00:12:51,040 --> 00:12:56,400
+Then between the office and Cell 13 there 
+was a heavy wooden door and two steel doors  
 
 158
-00:12:36,589 --> 00:12:42,499
-when the warden told him to. The warden's
-office was in the prison building. From the
+00:12:56,400 --> 00:13:01,840
+in the corridors of the prison. Then, of 
+course, there was the door of Cell 13.
 
 159
-00:12:42,499 --> 00:12:48,579
-yard you had to pass through a solid steel
-door to get to it. The door had only one small
+00:13:03,280 --> 00:13:09,280
+"There are seven doors between Cell 13 and 
+freedom," thought The Thinking Machine. "It  
 
 160
-00:12:48,579 --> 00:12:54,410
-hole in it to see who was there. Then between
-the office and Cell 13 there was a heavy wooden
+00:13:09,280 --> 00:13:15,760
+will not be easy. But there are advantages. I 
+am alone here. Nobody looks at what I am doing.
 
 161
-00:12:54,410 --> 00:13:00,129
-door and two steel doors in the corridors
-of the prison. Then, of course, there was
+00:13:16,560 --> 00:13:21,680
+There is one guard who brings my food three 
+times a day, at six o'clock in the morning,  
 
 162
-00:13:00,129 --> 00:13:02,160
-the door of Cell 13.
-
-163
-00:13:02,160 --> 00:13:09,430
-"There are seven doors between Cell 13 and
-freedom," thought The Thinking Machine. "It
-
-164
-00:13:09,430 --> 00:13:15,379
-will not be easy. But there are advantages.
-I am alone here. Nobody looks at what I am
-
-165
-00:13:15,379 --> 00:13:16,379
-doing.
-
-166
-00:13:16,379 --> 00:13:21,639
-There is one guard who brings my food three
-times a day, at six o'clock in the morning,
-
-167
-00:13:21,639 --> 00:13:26,209
+00:13:21,680 --> 00:13:24,800
 at noon, then again at six in the afternoon.
 
+163
+00:13:25,920 --> 00:13:29,120
+And then there is the inspection 
+at nine o'clock. But that is all."
+
+164
+00:13:31,200 --> 00:13:37,280
+There was nothing, absolutely nothing in his 
+cell except a bed that was strongly made and  
+
+165
+00:13:37,280 --> 00:13:44,000
+impossible to dismantle. There was no chair, 
+no table, no cup or fork or spoon. Nothing.  
+
+166
+00:13:45,360 --> 00:13:50,480
+The guard watched him while he ate and took away 
+his plate and spoon as soon as he had finished.
+
+167
+00:13:52,720 --> 00:13:58,240
+The Thinking Machine considered all these facts 
+very carefully. Then he began an examination  
+
 168
-00:13:26,209 --> 00:13:31,449
-And then there is the inspection at nine o'clock.
-But that is all."
+00:13:58,240 --> 00:14:03,680
+of his cell. He examined the stones in the 
+walls and roof and the cement between them.  
 
 169
-00:13:31,449 --> 00:13:37,319
-There was nothing, absolutely nothing in his
-cell except a bed that was strongly made and
+00:14:04,560 --> 00:14:07,760
+He walked over the floor many times but it was  
 
 170
-00:13:37,319 --> 00:13:45,550
-impossible to dismantle. There was no chair,
-no table, no cup or fork or spoon. Nothing.
+00:14:07,760 --> 00:14:14,560
+solid cement. After the examination he sat 
+on his bed and thought for a long time.  
 
 171
-00:13:45,550 --> 00:13:51,130
-The guard watched him while he ate and took
-away his plate and spoon as soon as he had
+00:14:15,600 --> 00:14:22,000
+Because Professor Augustus S.F.X. Van 
+Dusen had something to think about.
 
 172
-00:13:51,130 --> 00:13:52,220
-finished.
+00:14:24,400 --> 00:14:28,960
+Suddenly, he was disturbed by a rat which 
+ran across his foot and disappeared into a  
 
 173
-00:13:52,220 --> 00:13:58,310
-The Thinking Machine considered all these
-facts very carefully. Then he began an examination
+00:14:28,960 --> 00:14:34,720
+dark corner of the cell. The Thinking 
+Machine looked hard into the corner.  
 
 174
-00:13:58,310 --> 00:14:04,830
-of his cell. He examined the stones in the
-walls and roof and the cement between them.
+00:14:36,400 --> 00:14:41,200
+After some time he saw several pairs 
+of yellow eyes looking back at him.
 
 175
-00:14:04,830 --> 00:14:11,519
-He walked over the floor many times but it
-was solid cement. After the examination he
+00:14:43,120 --> 00:14:48,720
+Then for the first time The Thinking Machine 
+noticed the bottom of his cell door. There was  
 
 176
-00:14:11,519 --> 00:14:20,649
-sat on his bed and thought for a long time.
-Because Professor Augustus S.F.X. Van Dusen
+00:14:48,720 --> 00:14:55,920
+a space of about five centimeters between the 
+steel bar and the floor. The Thinking Machine  
 
 177
-00:14:20,649 --> 00:14:23,480
-had something to think about.
+00:14:55,920 --> 00:15:02,320
+walked into the corner where the rats were, but 
+he continued to look at the door. The rats were  
 
 178
-00:14:23,480 --> 00:14:28,930
-Suddenly, he was disturbed by a rat which
-ran across his foot and disappeared into a
+00:15:02,320 --> 00:15:08,720
+afraid and tried to escape. There was the sound of 
+running feet and several squeaks and then silence.
 
 179
-00:14:28,930 --> 00:14:37,350
-dark corner of the cell. The Thinking Machine
-looked hard into the corner. After some time
+00:15:10,320 --> 00:15:15,040
+None of the rats had gone out the 
+door, yet the cell was now empty.  
 
 180
-00:14:37,350 --> 00:14:43,449
-he saw several pairs of yellow eyes looking
-back at him.
+00:15:16,400 --> 00:15:22,560
+Therefore there must be another way out 
+of the cell, even if it was very small.  
 
 181
-00:14:43,449 --> 00:14:48,740
-Then for the first time The Thinking Machine
-noticed the bottom of his cell door. There
+00:15:23,680 --> 00:15:29,360
+He got down on his hands and knees and began 
+to look for the opening. Finally he found it.  
 
 182
-00:14:48,740 --> 00:14:55,860
-was a space of about five centimeters between
-the steel bar and the floor. The Thinking
+00:15:29,360 --> 00:15:36,400
+It was a small circular hole in the floor about 
+four centimeters in diameter. "So this is how  
 
 183
-00:14:55,860 --> 00:15:01,060
-Machine walked into the corner where the rats
-were, but he continued to look at the door.
+00:15:36,400 --> 00:15:43,920
+the rats escaped. Interesting." He put his hand 
+in the hole. It seemed to be an old drainpipe.
 
 184
-00:15:01,060 --> 00:15:06,569
-The rats were afraid and tried to escape.
-There was the sound of running feet and several
+00:15:45,120 --> 00:15:48,240
+The Thinking Machine sat on 
+the bed and thought for an  
 
 185
-00:15:06,569 --> 00:15:10,589
-squeaks and then silence.
+00:15:48,240 --> 00:15:52,080
+hour. Then he looked once 
+more outside his cell window.  
 
 186
-00:15:10,589 --> 00:15:18,199
-None of the rats had gone out the door, yet
-the cell was now empty. Therefore there must
+00:15:53,040 --> 00:15:59,040
+One of the outside guards stood directly opposite, 
+beside the wall. He was looking at the window of  
 
 187
-00:15:18,199 --> 00:15:25,129
-be another way out of the cell, even if it
-was very small. He got down on his hands and
+00:15:59,040 --> 00:16:05,680
+Cell 13 when The Thinking Machine's large head 
+appeared. But the Professor didn't see the guard.
 
 188
-00:15:25,129 --> 00:15:31,230
-knees and began to look for the opening. Finally
-he found it. It was a small circular hole
+00:16:07,440 --> 00:16:11,600
+At twelve o'clock the Cell 13 guard 
+brought The Thinking Machine his food.  
 
 189
-00:15:31,230 --> 00:15:39,329
-in the floor about four centimeters in diameter.
-"So this is how the rats escaped. Interesting."
+00:16:12,640 --> 00:16:15,680
+It was horrible but The 
+Thinking Machine didn't mind.  
 
 190
-00:15:39,329 --> 00:15:44,499
-He put his hand in the hole. It seemed to
-be an old drainpipe.
+00:16:15,680 --> 00:16:20,480
+He wasn't interested in food. He spoke 
+to the guard, who watched him as he ate.
 
 191
-00:15:44,499 --> 00:15:51,270
-The Thinking Machine sat on the bed and thought
-for an hour. Then he looked once more outside
+00:16:21,600 --> 00:16:26,560
+"Have they made any modifications here in the 
+last few years?" asked The Thinking Machine.
 
 192
-00:15:51,270 --> 00:15:57,279
-his cell window. One of the outside guards
-stood directly opposite, beside the wall.
+00:16:27,360 --> 00:16:31,360
+"Not really," said the guard. "They 
+built the new wall four years ago."
 
 193
-00:15:57,279 --> 00:16:02,779
-He was looking at the window of Cell 13 when
-The Thinking Machine's large head appeared.
-
-194
-00:16:02,779 --> 00:16:06,779
-But the Professor didn't see the guard.
-
-195
-00:16:06,779 --> 00:16:13,769
-At twelve o'clock the Cell 13 guard brought
-The Thinking Machine his food. It was horrible
-
-196
-00:16:13,769 --> 00:16:19,069
-but The Thinking Machine didn't mind. He wasn't
-interested in food. He spoke to the guard,
-
-197
-00:16:19,069 --> 00:16:21,149
-who watched him as he ate.
-
-198
-00:16:21,149 --> 00:16:27,089
-"Have they made any modifications here in
-the last few years?" asked The Thinking Machine.
-
-199
-00:16:27,089 --> 00:16:31,910
-"Not really," said the guard. "They built
-the new wall four years ago."
-
-200
-00:16:31,910 --> 00:16:34,769
+00:16:32,080 --> 00:16:34,400
 "Have they done anything to the prison building?"
 
+194
+00:16:34,960 --> 00:16:37,120
+"Well, they painted the outside. And  
+
+195
+00:16:37,120 --> 00:16:40,560
+then seven years ago they had a 
+new plumbing system installed."
+
+196
+00:16:40,560 --> 00:16:44,880
+"Ah, I see," said the prisoner. 
+"How far is the river over there?"
+
+197
+00:16:44,880 --> 00:16:49,840
+"About a hundred metres. The boys have a 
+baseball ground between the wall and the river."
+
+198
+00:16:50,400 --> 00:16:54,560
+The Thinking Machine had nothing more to 
+say, but when the guard was ready to go  
+
+199
+00:16:55,120 --> 00:16:56,560
+he asked for some water.
+
+200
+00:16:57,120 --> 00:17:01,920
+"I get very thirsty here," he explained. 
+"Could I have some water in a cup please?"
+
 201
-00:16:34,769 --> 00:16:39,769
-"Well, they painted the outside. And then
-seven years ago they had a new plumbing system
+00:17:02,560 --> 00:17:06,240
+"I'll ask the warden," replied 
+the guard, and he went away.
 
 202
-00:16:39,769 --> 00:16:40,769
-installed."
+00:17:07,280 --> 00:17:09,680
+Half an hour later he returned with a small cup.
 
 203
-00:16:40,769 --> 00:16:44,589
-"Ah, I see," said the prisoner. "How far is
-the river over there?"
+00:17:10,800 --> 00:17:14,400
+"The warden says you may keep 
+this cup," he told the prisoner.  
 
 204
-00:16:44,589 --> 00:16:50,600
-"About a hundred metres. The boys have a baseball
-ground between the wall and the river."
+00:17:15,040 --> 00:17:20,080
+"But you must show it to me when I ask for it. 
+If you break it, I won't give you another one."
 
 205
-00:16:50,600 --> 00:16:55,820
-The Thinking Machine had nothing more to say,
-but when the guard was ready to go he asked
+00:17:20,640 --> 00:17:23,680
+"Thank you," said The Thinking 
+Machine. "I won't break it."
 
 206
-00:16:55,820 --> 00:16:56,860
-for some water.
+00:17:24,560 --> 00:17:28,480
+Two hours later the same guard 
+was passing the door of Cell 13.  
 
 207
-00:16:56,860 --> 00:17:02,189
-"I get very thirsty here," he explained. "Could
-I have some water in a cup please?"
+00:17:29,360 --> 00:17:34,880
+He heard a noise and stopped. The Thinking 
+Machine was on his hands and knees  
 
 208
-00:17:02,189 --> 00:17:07,610
-"I'll ask the warden," replied the guard,
-and he went away.
+00:17:34,880 --> 00:17:40,720
+in a corner of the cell. There was the sound 
+of several squeaks. The guard watched him.
 
 209
-00:17:07,610 --> 00:17:10,500
-Half an hour later he returned with a small
-cup.
+00:17:40,720 --> 00:17:44,160
+"Ah, I've got you," he heard the prisoner say.
 
 210
-00:17:10,500 --> 00:17:16,280
-"The warden says you may keep this cup," he
-told the prisoner. "But you must show it to
-
-211
-00:17:16,280 --> 00:17:20,660
-me when I ask for it. If you break it, I won't
-give you another one."
-
-212
-00:17:20,660 --> 00:17:24,360
-"Thank you," said The Thinking Machine. "I
-won't break it."
-
-213
-00:17:24,360 --> 00:17:30,850
-Two hours later the same guard was passing
-the door of Cell 13. He heard a noise and
-
-214
-00:17:30,850 --> 00:17:37,600
-stopped. The Thinking Machine was on his hands
-and knees in a corner of the cell. There was
-
-215
-00:17:37,600 --> 00:17:41,159
-the sound of several squeaks. The guard watched
-him.
-
-216
-00:17:41,159 --> 00:17:44,390
-"Ah, I've got you," he heard the prisoner
-say.
-
-217
-00:17:44,390 --> 00:17:47,410
+00:17:44,960 --> 00:17:46,960
 "What have you got?" said the guard.
 
-218
-00:17:47,410 --> 00:17:53,409
-"One of these rats," he replied. "See?" The
-guard saw a rat in The Thinking Machine's
+211
+00:17:47,520 --> 00:17:53,440
+"One of these rats," he replied. "See?" The 
+guard saw a rat in The Thinking Machine's hands.  
 
-219
-00:17:53,409 --> 00:17:59,309
-hands. The prisoner carried it towards the
+212
+00:17:54,240 --> 00:17:58,800
+The prisoner carried it towards the 
 light. "It's a water rat," he said.
 
+213
+00:17:59,600 --> 00:18:03,760
+"Haven't you got anything better to 
+do than catch rats?" asked the guard.
+
+214
+00:18:04,480 --> 00:18:07,120
+"It's terrible that there 
+are rats in this prison,"  
+
+215
+00:18:07,120 --> 00:18:12,080
+said The Thinking Machine. "Take this one away and 
+kill it. There are many more where it came from."
+
+216
+00:18:13,120 --> 00:18:18,240
+The guard took the rat and killed it. Later 
+he told the warden about the incident,  
+
+217
+00:18:18,240 --> 00:18:20,000
+but the warden only smiled.
+
+218
+00:18:21,360 --> 00:18:27,440
+Later that afternoon the armed guard in the yard 
+outside Cell 13 saw the prisoner look out and  
+
+219
+00:18:27,440 --> 00:18:32,960
+put a hand through the bars of the window. 
+Something white fell slowly to the ground.  
+
 220
-00:17:59,309 --> 00:18:04,370
-"Haven't you got anything better to do than
-catch rats?" asked the guard.
+00:18:34,640 --> 00:18:40,160
+It was a roll of linen from a shirt, 
+and wrapped around it was a five-dollar  
 
 221
-00:18:04,370 --> 00:18:08,860
-"It's terrible that there are rats in this
-prison," said The Thinking Machine. "Take
+00:18:40,160 --> 00:18:45,440
+bill. The guard looked up at the window 
+again but the face was no longer there.
 
 222
-00:18:08,860 --> 00:18:13,350
-this one away and kill it. There are many
-more where it came from."
+00:18:46,640 --> 00:18:50,880
+With a smile he took the cloth and the 
+five-dollar bill to the warden's office.  
 
 223
-00:18:13,350 --> 00:18:18,610
-The guard took the rat and killed it. Later
-he told the warden about the incident, but
+00:18:51,920 --> 00:18:57,600
+There was something written on the outside 
+of the cloth in strange ink. It said:
 
 224
-00:18:18,610 --> 00:18:21,750
-the warden only smiled.
-
-225
-00:18:21,750 --> 00:18:26,890
-Later that afternoon the armed guard in the
-yard outside Cell 13 saw the prisoner look
-
-226
-00:18:26,890 --> 00:18:32,760
-out and put a hand through the bars of the
-window. Something white fell slowly to the
-
-227
-00:18:32,760 --> 00:18:42,039
-ground. It was a roll of linen from a shirt,
-and wrapped around it was a five-dollar bill.
-
-228
-00:18:42,039 --> 00:18:46,929
-The guard looked up at the window again but
-the face was no longer there.
-
-229
-00:18:46,929 --> 00:18:52,630
-With a smile he took the cloth and the five-dollar
-bill to the warden's office. There was something
-
-230
-00:18:52,630 --> 00:18:58,080
-written on the outside of the cloth in strange
-ink. It said:
-
-231
-00:18:58,080 --> 00:19:01,630
+00:18:58,320 --> 00:19:00,800
 "Please deliver to Dr Charles Ransome."
 
+225
+00:19:01,440 --> 00:19:05,200
+"Ha!" said the warden, "His 
+first plan of escape has  
+
+226
+00:19:05,200 --> 00:19:08,320
+failed. But why did he address it to Dr Ransome?"
+
+227
+00:19:09,280 --> 00:19:13,040
+"And where did he get the pen and 
+ink to write with?" added the guard.
+
+228
+00:19:14,480 --> 00:19:17,920
+The warden looked at the guard and 
+the guard looked at the warden.  
+
+229
+00:19:18,960 --> 00:19:23,840
+There was no easy solution to the mystery. 
+The warden studied the writing carefully.
+
+230
+00:19:24,560 --> 00:19:28,560
+"Well, let's see what he 
+wanted to say to Dr Ransome,"  
+
+231
+00:19:28,560 --> 00:19:31,840
+he said. He unrolled the second piece of linen.
+
 232
-00:19:01,630 --> 00:19:07,240
-"Ha!" said the warden, "His first plan of
-escape has failed. But why did he address
-
-233
-00:19:07,240 --> 00:19:08,730
-it to Dr Ransome?"
-
-234
-00:19:08,730 --> 00:19:14,690
-"And where did he get the pen and ink to write
-with?" added the guard.
-
-235
-00:19:14,690 --> 00:19:20,500
-The warden looked at the guard and the guard
-looked at the warden. There was no easy solution
-
-236
-00:19:20,500 --> 00:19:24,380
-to the mystery. The warden studied the writing
-carefully.
-
-237
-00:19:24,380 --> 00:19:31,080
-"Well, let's see what he wanted to say to
-Dr Ransome," he said. He unrolled the second
-
-238
-00:19:31,080 --> 00:19:32,870
-piece of linen.
-
-239
-00:19:32,870 --> 00:19:41,080
-"Well, if that - what - what do you think
+00:19:32,800 --> 00:19:40,080
+"Well, if that - what - what do you think 
 of that?" he asked, extremely confused.
 
-240
-00:19:41,080 --> 00:20:15,899
-The guard took the piece of linen 
+233
+00:19:40,880 --> 00:19:43,280
+The guard took the piece of linen and read:
 
-241
-00:20:15,899 --> 00:20:19,450
-and read:
-
-242
-00:20:19,450 --> 00:20:51,220
+234
+00:19:44,560 --> 00:19:52,000
 "Epa cseot d'net niiy awe htto n'si sih. T."
+ 
+ 
 
-243
-00:20:51,220 --> 00:20:58,149
+235
+00:20:51,120 --> 00:20:51,920
 CHAPTER THREE
+
+236
+00:20:53,120 --> 00:20:55,600
 A Message from Cell 13
 
+237
+00:20:57,920 --> 00:21:01,840
+The warden spent an hour trying 
+to discover what the message was.  
+
+238
+00:21:02,880 --> 00:21:08,720
+Why did his prisoner want to talk to Dr Ransome? 
+And where had he got the materials to write?  
+
+239
+00:21:09,920 --> 00:21:16,480
+He examined the linen again. It was a part of 
+a white shirt. But what had he written with?  
+
+240
+00:21:17,520 --> 00:21:22,720
+The warden knew that the prisoner didn't 
+have a pen or a pencil. So what had he  
+
+241
+00:21:22,720 --> 00:21:29,920
+used? The warden decided to investigate. The 
+Thinking Machine was his prisoner. "If this  
+
+242
+00:21:29,920 --> 00:21:35,040
+man is trying to escape by sending coded 
+messages," he thought, "I will stop him."
+
+243
+00:21:36,560 --> 00:21:41,920
+The warden returned to Cell 13. He found 
+The Thinking Machine on his hands and knees.  
+
 244
-00:20:58,149 --> 00:21:03,990
-The warden spent an hour trying to discover
-what the message was. Why did his prisoner
+00:21:42,800 --> 00:21:48,320
+He was catching rats. The prisoner heard 
+the warden and turned to him quickly.
 
 245
-00:21:03,990 --> 00:21:10,780
-want to talk to Dr Ransome? And where had
-he got the materials to write? He examined
+00:21:48,960 --> 00:21:52,560
+"It's terrible," he said. "These 
+rats. There are hundreds of them."
 
 246
-00:21:10,780 --> 00:21:18,091
-the linen again. It was a part of a white
-shirt. But what had he written with? The warden
-
-247
-00:21:18,091 --> 00:21:24,750
-knew that the prisoner didn't have a pen or
-a pencil. So what had he used? The warden
-
-248
-00:21:24,750 --> 00:21:30,850
-decided to investigate. The Thinking Machine
-was his prisoner. "If this man is trying to
-
-249
-00:21:30,850 --> 00:21:36,779
-escape by sending coded messages," he thought,
-"I will stop him."
-
-250
-00:21:36,779 --> 00:21:43,169
-The warden returned to Cell 13. He found The
-Thinking Machine on his hands and knees. He
-
-251
-00:21:43,169 --> 00:21:48,730
-was catching rats. The prisoner heard the
-warden and turned to him quickly.
-
-252
-00:21:48,730 --> 00:21:53,290
-"It's terrible," he said. "These rats. There
-are hundreds of them."
-
-253
-00:21:53,290 --> 00:21:59,130
-"Other men can live with them," said the warden.
+00:21:53,360 --> 00:21:58,400
+"Other men can live with them," said the warden. 
 "Give me your shirt. Here is another one."
 
-254
-00:21:59,130 --> 00:22:01,760
+247
+00:21:59,120 --> 00:22:01,760
 "Why?" demanded The Thinking Machine.
 
-255
-00:22:01,760 --> 00:22:07,159
-"You have attempted to communicate with Dr
-Ransome," said the warden, angrily. "As the
+248
+00:22:01,760 --> 00:22:06,400
+"You have attempted to communicate with 
+Dr Ransome," said the warden, angrily.  
 
-256
-00:22:07,159 --> 00:22:13,110
-warden of this prison, I must stop you." The
-Thinking Machine was silent for a moment.
+249
+00:22:06,400 --> 00:22:12,640
+"As the warden of this prison, I must stop you." 
+The Thinking Machine was silent for a moment.
 
-257
-00:22:13,110 --> 00:22:18,850
-"All right," he said, finally. "Here. Take
-it."
+250
+00:22:13,600 --> 00:22:16,720
+"All right," he said, finally. "Here. Take it."
 
-258
-00:22:18,850 --> 00:22:24,919
-The warden smiled. The prisoner stood up and
-took off his shirt. He gave it to the warden.
+251
+00:22:18,640 --> 00:22:22,960
+The warden smiled. The prisoner 
+stood up and took off his shirt.  
 
-259
-00:22:24,919 --> 00:22:31,480
-In exchange, the warden gave him a blue prison
-shirt. The warden looked at The Thinking Machine's
+252
+00:22:22,960 --> 00:22:28,640
+He gave it to the warden. In exchange, 
+the warden gave him a blue prison shirt.  
 
-260
-00:22:31,480 --> 00:22:38,059
-white shirt. He compared the pieces of linen
-he had with the shirt. It was torn in two
+253
+00:22:29,520 --> 00:22:34,560
+The warden looked at The Thinking Machine's 
+white shirt. He compared the pieces of linen  
 
-261
-00:22:38,059 --> 00:22:41,429
+254
+00:22:34,560 --> 00:22:40,880
+he had with the shirt. It was torn in two 
 places. The Thinking Machine watched him.
 
-262
-00:22:41,429 --> 00:22:44,549
+255
+00:22:41,680 --> 00:22:43,920
 "Did the guard give you those?" he asked.
 
+256
+00:22:44,960 --> 00:22:50,160
+"Yes, he did," said the warden. "And that 
+is the end of your first attempt to escape."  
+
+257
+00:22:51,760 --> 00:22:55,040
+The Thinking Machine watched the 
+warden as he looked at the shirt.  
+
+258
+00:22:55,760 --> 00:22:59,920
+He saw that there were only two 
+pieces missing from it. He smiled.
+
+259
+00:23:00,720 --> 00:23:03,840
+"What did you write this 
+message with?" asked the warden.
+
+260
+00:23:04,480 --> 00:23:08,400
+"I'm afraid you must discover 
+that!" The Thinking Machine said.
+
+261
+00:23:09,920 --> 00:23:14,640
+The warden became angry but he didn't 
+say anything more. He made a very  
+
+262
+00:23:14,640 --> 00:23:21,440
+careful inspection of the cell and the prisoner, 
+but he found nothing. Nothing that The Thinking  
+
 263
-00:22:44,549 --> 00:22:51,280
-"Yes, he did," said the warden. "And that
-is the end of your first attempt to escape."
+00:23:21,440 --> 00:23:27,680
+Machine could use as a pen. And the liquid that he 
+had used to write the message was also a mystery.  
 
 264
-00:22:51,280 --> 00:22:56,640
-The Thinking Machine watched the warden as
-he looked at the shirt. He saw that there
-
-265
-00:22:56,640 --> 00:23:00,409
-were only two pieces missing from it. He smiled.
-
-266
-00:23:00,409 --> 00:23:04,320
-"What did you write this message with?" asked
-the warden.
-
-267
-00:23:04,320 --> 00:23:09,409
-"I'm afraid you must discover that!" The Thinking
-Machine said.
-
-268
-00:23:09,409 --> 00:23:15,850
-The warden became angry but he didn't say
-anything more. He made a very careful inspection
-
-269
-00:23:15,850 --> 00:23:22,049
-of the cell and the prisoner, but he found
-nothing. Nothing that The Thinking Machine
-
-270
-00:23:22,049 --> 00:23:29,210
-could use as a pen. And the liquid that he
-had used to write the message was also a mystery.
-
-271
-00:23:29,210 --> 00:23:34,080
-Finally the warden went out of the cell. He
+00:23:28,720 --> 00:23:33,200
+Finally the warden went out of the cell. He 
 took The Thinking Machine's shirt with him.
 
-272
-00:23:34,080 --> 00:23:40,830
-"Well, he won't escape by writing messages
-on a shirt," the warden thought.
+265
+00:23:34,080 --> 00:23:38,800
+"Well, he won't escape by writing 
+messages on a shirt," the warden thought.
 
-273
-00:23:40,830 --> 00:23:45,980
-On the third day of his incarceration The
-Thinking Machine tried to bribe the guard
+266
+00:23:40,560 --> 00:23:45,840
+On the third day of his incarceration The 
+Thinking Machine tried to bribe the guard  
 
-274
-00:23:45,980 --> 00:23:51,990
-so that he could escape. The guard brought
+267
+00:23:45,840 --> 00:23:51,040
+so that he could escape. The guard brought 
 his food and waited outside the cell door.
 
-275
-00:23:51,990 --> 00:23:57,700
-"The drainpipes of the prison go to the river,
+268
+00:23:52,160 --> 00:23:56,960
+"The drainpipes of the prison go to the river, 
 don't they?" The Thinking Machine asked.
 
-276
-00:23:57,700 --> 00:24:00,419
+269
+00:23:57,920 --> 00:23:59,760
 "Yes," said the guard.
 
-277
-00:24:00,419 --> 00:24:02,850
+270
+00:24:00,320 --> 00:24:02,400
 "I imagine they are very small?"
 
-278
-00:24:02,850 --> 00:24:06,630
+271
+00:24:03,200 --> 00:24:06,000
 "Yes. They are too small to escape through."
 
-279
-00:24:06,630 --> 00:24:12,730
-There was silence. The Thinking Machine finished
-his food. Then he said:
+272
+00:24:07,200 --> 00:24:11,920
+There was silence. The Thinking Machine 
+finished his food. Then he said:
 
-280
-00:24:12,730 --> 00:24:16,299
+273
+00:24:12,880 --> 00:24:15,040
 "You know I'm not a criminal, don't you?"
 
-281
-00:24:16,299 --> 00:24:17,299
+274
+00:24:15,680 --> 00:24:16,160
 "Yes."
 
-282
-00:24:17,299 --> 00:24:20,330
+275
+00:24:17,440 --> 00:24:20,080
 "And I can leave the prison if I want to?"
 
-283
-00:24:20,330 --> 00:24:21,330
+276
+00:24:20,080 --> 00:24:20,480
 "Yes."
 
-284
-00:24:21,330 --> 00:24:26,899
-"Well, when I came here I believed I could
-escape," said the prisoner. "Will you help
+277
+00:24:21,440 --> 00:24:24,640
+"Well, when I came here I 
+believed I could escape,"  
 
-285
-00:24:26,899 --> 00:24:29,450
+278
+00:24:24,640 --> 00:24:28,160
+said the prisoner. "Will you help 
 me if I give you some money?"
 
-286
-00:24:29,450 --> 00:24:31,660
+279
+00:24:29,200 --> 00:24:30,640
 The guard was an honest man.
 
-287
-00:24:31,660 --> 00:24:33,659
+280
+00:24:31,600 --> 00:24:32,960
 "No," he said.
 
-288
-00:24:33,659 --> 00:24:38,639
-"Five hundred dollars," said The Thinking
-Machine. "I am not a criminal."
+281
+00:24:34,000 --> 00:24:38,320
+"Five hundred dollars," said The 
+Thinking Machine. "I am not a criminal."
 
-289
-00:24:38,639 --> 00:24:41,630
+282
+00:24:39,200 --> 00:24:40,720
 "No," said the guard.
 
-290
-00:24:41,630 --> 00:24:43,429
+283
+00:24:41,520 --> 00:24:42,160
 "A thousand?"
 
-291
-00:24:43,429 --> 00:24:49,360
-"No. If you gave me ten thousand dollars,
-I couldn't get you out. To get out you have
+284
+00:24:43,200 --> 00:24:47,360
+"No. If you gave me ten thousand 
+dollars, I couldn't get you out.  
 
-292
-00:24:49,360 --> 00:24:53,399
-to pass through seven doors and I only have
-the keys to two."
+285
+00:24:48,160 --> 00:24:53,360
+To get out you have to pass through seven 
+doors and I only have the keys to two."
 
-293
-00:24:53,399 --> 00:25:00,340
-The guard ran to the warden's office and told
-him about the prisoner's offer.
+286
+00:24:55,600 --> 00:24:59,840
+The guard ran to the warden's office 
+and told him about the prisoner's offer.
 
-294
-00:25:00,340 --> 00:25:07,090
-"Plan number two fails," said the warden and
+287
+00:25:00,400 --> 00:25:06,880
+"Plan number two fails," said the warden and 
 smiled. "First a message and then a bribe."
 
+288
+00:25:08,240 --> 00:25:13,840
+At six o'clock, the guard went to Cell 13 
+again to bring food to The Thinking Machine.  
+
+289
+00:25:14,400 --> 00:25:18,880
+He stopped in the corridor. There was 
+a noise coming from inside the cell.  
+
+290
+00:25:20,080 --> 00:25:26,000
+The guard walked very quietly to the cell door. 
+Through the bars he saw The Thinking Machine at  
+
+291
+00:25:26,000 --> 00:25:31,840
+the window. He was trying to cut through 
+the iron bars of the window with a file.
+
+292
+00:25:33,920 --> 00:25:36,800
+The guard went back to the 
+office and told the warden.  
+
+293
+00:25:36,800 --> 00:25:42,400
+The two men went back to Cell 13, walking 
+very quietly. The warden looked into the  
+
+294
+00:25:42,400 --> 00:25:46,960
+cell and saw The Thinking Machine still 
+at the window. He entered the cell.
+
 295
-00:25:07,090 --> 00:25:14,570
-At six o'clock, the guard went to Cell 13
-again to bring food to The Thinking Machine.
+00:25:50,080 --> 00:25:55,920
+The Thinking Machine turned round and jumped onto 
+the floor. He tried to hide the file in his hand.
 
 296
-00:25:14,570 --> 00:25:20,880
-He stopped in the corridor. There was a noise
-coming from inside the cell. The guard walked
-
-297
-00:25:20,880 --> 00:25:28,019
-very quietly to the cell door. Through the
-bars he saw The Thinking Machine at the window.
-
-298
-00:25:28,019 --> 00:25:32,860
-He was trying to cut through the iron bars
-of the window with a file.
-
-299
-00:25:32,860 --> 00:25:38,519
-The guard went back to the office and told
-the warden. The two men went back to Cell
-
-300
-00:25:38,519 --> 00:25:44,630
-13, walking very quietly. The warden looked
-into the cell and saw The Thinking Machine
-
-301
-00:25:44,630 --> 00:25:46,650
-still at the window. He entered the cell.
-
-302
-00:25:46,650 --> 00:25:54,690
-The Thinking Machine turned round and jumped
-onto the floor. He tried to hide the file
-
-303
-00:25:54,690 --> 00:25:55,760
-in his hand.
-
-304
-00:25:55,760 --> 00:25:57,960
+00:25:55,920 --> 00:25:58,000
 "Give it to me," said the warden.
 
-305
-00:25:57,960 --> 00:26:01,130
-"No," said the prisoner. There was anger in
-his voice.
+297
+00:25:58,000 --> 00:26:01,280
+"No," said the prisoner. 
+There was anger in his voice.
 
-306
-00:26:01,130 --> 00:26:03,149
+298
+00:26:01,280 --> 00:26:02,880
 "Come on. Give it to me."
 
-307
-00:26:03,149 --> 00:26:05,600
+299
+00:26:02,880 --> 00:26:04,800
 "No," repeated The Thinking Machine.
 
-308
-00:26:05,600 --> 00:26:08,910
-"Very well. Search him," said the warden to
-the guard.
+300
+00:26:05,680 --> 00:26:09,840
+"Very well. Search him," 
+said the warden to the guard.
 
-309
-00:26:08,910 --> 00:26:16,400
-The guard searched The Thinking Machine. After
-some minutes he found a piece of steel about
+301
+00:26:10,480 --> 00:26:16,720
+The guard searched The Thinking Machine. After 
+some minutes he found a piece of steel about five  
 
-310
-00:26:16,400 --> 00:26:23,050
-five centimeters long in the prisoner's trousers.
-A few minutes later he found another piece.
+302
+00:26:16,720 --> 00:26:22,160
+centimeters long in the prisoner's trousers. 
+A few minutes later he found another piece.  
 
-311
-00:26:23,050 --> 00:26:28,460
-The guard gave the pieces of steel to the
-warden. The warden looked at them.
+303
+00:26:22,800 --> 00:26:27,760
+The guard gave the pieces of steel to 
+the warden. The warden looked at them.
 
-312
-00:26:28,460 --> 00:26:32,750
-"You couldn't cut through the bars on the
-window with these," he said.
+304
+00:26:28,800 --> 00:26:32,320
+"You couldn't cut through the bars 
+on the window with these," he said.
 
-313
-00:26:32,750 --> 00:26:35,850
+305
+00:26:32,880 --> 00:26:35,760
 "Yes I could," said The Thinking Machine.
 
+306
+00:26:35,760 --> 00:26:39,280
+"In six months perhaps," said the warden, smiling.
+
+307
+00:26:39,280 --> 00:26:42,320
+"Just wait, you'll see," 
+said The Thinking Machine.
+
+308
+00:26:43,840 --> 00:26:49,840
+Once more the guard searched the cell. But 
+once more they found nothing. The warden  
+
+309
+00:26:49,840 --> 00:26:54,800
+stood on the bed and looked at the bars of 
+the window. He took the bars in his hand  
+
+310
+00:26:54,800 --> 00:27:00,960
+and tried to move them. They were immovable. 
+He smiled and then got down from the bed.
+
+311
+00:27:01,840 --> 00:27:05,840
+"Forget it, Professor, you will 
+never escape from here," he said.
+
+312
+00:27:07,280 --> 00:27:12,400
+The Thinking Machine said nothing. He just 
+sat on the bed with his head in his hands.  
+
+313
+00:27:13,840 --> 00:27:17,120
+The warden and the guard went out 
+of the cell and closed the door.
+
 314
-00:26:35,850 --> 00:26:39,080
-"In six months perhaps," said the warden,
-smiling.
+00:27:18,080 --> 00:27:21,360
+"He is mad to try and escape," said the warden,  
 
 315
-00:26:39,080 --> 00:26:44,220
-"Just wait, you'll see," said The Thinking
-Machine.
-
-316
-00:26:44,220 --> 00:26:50,149
-Once more the guard searched the cell. But
-once more they found nothing. The warden stood
-
-317
-00:26:50,149 --> 00:26:55,370
-on the bed and looked at the bars of the window.
-He took the bars in his hand and tried to
-
-318
-00:26:55,370 --> 00:27:01,560
-move them. They were immovable. He smiled
-and then got down from the bed.
-
-319
-00:27:01,560 --> 00:27:07,500
-"Forget it, Professor, you will never escape
-from here," he said.
-
-320
-00:27:07,500 --> 00:27:13,450
-The Thinking Machine said nothing. He just
-sat on the bed with his head in his hands.
-
-321
-00:27:13,450 --> 00:27:17,600
-The warden and the guard went out of the cell
-and closed the door.
-
-322
-00:27:17,600 --> 00:27:24,210
-"He is mad to try and escape," said the warden,
-"but he is very clever. I would like to know
-
-323
-00:27:24,210 --> 00:27:27,429
+00:27:21,360 --> 00:27:26,240
+"but he is very clever. I would like to know 
 what he used to write that coded message."
 
-324
-00:27:27,429 --> 00:27:33,200
-It was four o'clock the next morning when
-a terrible scream resounded through the prison.
+316
+00:27:27,360 --> 00:27:32,000
+It was four o'clock the next morning when 
+a terrible scream resounded through the  
 
-325
-00:27:33,200 --> 00:27:38,769
-It came from a cell near the centre of the
-building, a sound full of horror and great
+317
+00:27:32,000 --> 00:27:38,960
+prison. It came from a cell near the centre of the 
+building, a sound full of horror and great fear.  
 
-326
-00:27:38,769 --> 00:27:44,250
-fear. The warden heard it and ran with three
-of his men into the long corridor that went
+318
+00:27:40,080 --> 00:27:44,880
+The warden heard it and ran with three of his men 
+into the long corridor that went to Cell 13.
+ 
+ 
 
-327
-00:27:44,250 --> 00:27:47,870
-to Cell 13.
-
-328
-00:27:47,870 --> 00:27:50,730
+319
+00:27:44,880 --> 00:27:48,560
 CHAPTER FOUR
+
+320
+00:27:49,440 --> 00:27:50,800
 A Strange Voice
 
-329
-00:27:50,730 --> 00:27:58,210
-As they ran they heard the scream again. The
-white faces of prisoners appeared at cell
+321
+00:27:52,720 --> 00:27:56,080
+As they ran they heard the scream again. The white  
 
-330
-00:27:58,210 --> 00:28:00,019
-doors. They were afraid.
+322
+00:27:56,080 --> 00:27:59,440
+faces of prisoners appeared at 
+cell doors. They were afraid.
 
-331
-00:28:00,019 --> 00:28:03,630
-"It's that crazy man in Cell 13." the warden
-said.
+323
+00:28:00,080 --> 00:28:03,680
+"It's that crazy man in Cell 13." the warden said.
 
-332
-00:28:03,630 --> 00:28:09,610
-He stopped and looked into the cell. "That
-crazy man in Cell 13" was sleeping comfortably
+324
+00:28:03,680 --> 00:28:07,040
+He stopped and looked into the 
+cell. "That crazy man in Cell  
 
-333
-00:28:09,610 --> 00:28:15,149
-in his bed. They heard the scream again. It
-was coming from somewhere above. The warden
+325
+00:28:07,040 --> 00:28:11,680
+13" was sleeping comfortably in his 
+bed. They heard the scream again.  
 
-334
-00:28:15,149 --> 00:28:21,970
-and the guards went upstairs. There they found
-a man in Cell 43, directly above Cell 13.
+326
+00:28:12,560 --> 00:28:17,600
+It was coming from somewhere above. The warden 
+and the guards went upstairs. There they found  
 
-335
-00:28:21,970 --> 00:28:25,090
-He was sitting in the corner of his cell like
-a child.
+327
+00:28:17,600 --> 00:28:24,960
+a man in Cell 43, directly above Cell 13. He was 
+sitting in the corner of his cell like a child.
 
-336
-00:28:25,090 --> 00:28:27,580
+328
+00:28:24,960 --> 00:28:27,040
 "What's wrong?" demanded the warden.
 
-337
-00:28:27,580 --> 00:28:30,400
+329
+00:28:27,760 --> 00:28:30,640
 "Thank God you've come!' said the prisoner.
 
-338
-00:28:30,400 --> 00:28:33,520
+330
+00:28:30,640 --> 00:28:32,960
 "What is it?" demanded the warden again.
 
-339
-00:28:33,520 --> 00:28:39,410
-He opened the door and went into Cell 43.
+331
+00:28:33,920 --> 00:28:39,840
+He opened the door and went into Cell 43. 
 The prisoner's face was white with terror.
 
-340
-00:28:39,410 --> 00:28:43,539
-"Take me out of this cell, please take me
-out," he said.
+332
+00:28:39,840 --> 00:28:43,440
+"Take me out of this cell, 
+please take me out," he said.
 
-341
-00:28:43,539 --> 00:28:45,850
+333
+00:28:43,440 --> 00:28:45,360
 "What is it?" asked the warden.
 
-342
-00:28:45,850 --> 00:28:48,020
+334
+00:28:46,000 --> 00:28:47,840
 "I heard something - something."
 
-343
-00:28:48,020 --> 00:28:50,009
+335
+00:28:48,640 --> 00:28:49,520
 "What did you hear?"
 
-344
-00:28:50,009 --> 00:28:54,769
-"I can't tell you," said the prisoner. "Please
-take me out of this cell - put me anywhere
+336
+00:28:50,160 --> 00:28:52,560
+"I can't tell you," said the prisoner. "Please  
 
-345
-00:28:54,769 --> 00:28:56,450
-- but take me out of here."
+337
+00:28:52,560 --> 00:28:56,080
+take me out of this cell - put me 
+anywhere - but take me out of here."
 
-346
-00:28:56,450 --> 00:28:59,980
+338
+00:28:56,640 --> 00:28:59,280
 "Who is this man?" the warden asked the guard.
 
-347
-00:28:59,980 --> 00:29:03,850
+339
+00:29:00,240 --> 00:29:03,920
 "His name is Joseph Ballard," the guard replied.
 
-348
-00:29:03,850 --> 00:29:06,009
+340
+00:29:03,920 --> 00:29:05,360
 "And what is his crime?"
 
-349
-00:29:06,009 --> 00:29:08,880
+341
+00:29:06,480 --> 00:29:09,200
 "They say he killed a woman with acid."
 
-350
-00:29:08,880 --> 00:29:14,380
-"But they can't prove it," said the prisoner.
-"They can't prove it!" The warden was silent
+342
+00:29:09,200 --> 00:29:13,040
+"But they can't prove it," said the 
+prisoner. "They can't prove it!"  
 
-351
-00:29:14,380 --> 00:29:15,380
-for a minute.
+343
+00:29:13,040 --> 00:29:14,960
+The warden was silent for a minute.
 
-352
-00:29:15,380 --> 00:29:21,020
-"Listen to me, Ballard," he said, finally.
-"If you heard something, I want to know what
+344
+00:29:15,840 --> 00:29:18,400
+"Listen to me, Ballard," he said, finally.  
 
-353
-00:29:21,020 --> 00:29:23,289
-it was. Now tell me."
+345
+00:29:18,400 --> 00:29:22,880
+"If you heard something, I want 
+to know what it was. Now tell me."
 
-354
-00:29:23,289 --> 00:29:28,149
-"I can't tell you." Ballard was crying now.
-"Where did it come from?"
+346
+00:29:23,600 --> 00:29:28,080
+"I can't tell you." Ballard was 
+crying now. "Where did it come from?"
 
-355
-00:29:28,149 --> 00:29:33,000
-"I don't know. Everywhere - nowhere. I don't
-know."
+347
+00:29:28,800 --> 00:29:32,160
+"I don't know. Everywhere 
+- nowhere. I don't know."
 
-356
-00:29:33,000 --> 00:29:34,720
+348
+00:29:32,960 --> 00:29:33,840
 "Was it a voice?"
 
-357
-00:29:34,720 --> 00:29:38,990
-"I can't tell you," said the prisoner. "You
+349
+00:29:34,640 --> 00:29:39,840
+"I can't tell you," said the prisoner. "You 
 must tell me," said the warden, angrily.
 
-358
-00:29:38,990 --> 00:29:44,309
-"It was a voice - but - but - it wasn't human,"
-said the prisoner.
+350
+00:29:39,840 --> 00:29:44,080
+"It was a voice - but - but - it 
+wasn't human," said the prisoner.
 
-359
-00:29:44,309 --> 00:29:50,190
-"A voice, but not human?" repeated the warden.
-He was confused.
+351
+00:29:44,720 --> 00:29:49,280
+"A voice, but not human?" repeated 
+the warden. He was confused.
 
-360
-00:29:50,190 --> 00:29:54,970
-"It was strange and very far away, like a
-ghost."
+352
+00:29:50,720 --> 00:29:54,560
+"It was strange and very far away, like a ghost."
 
-361
-00:29:54,970 --> 00:29:58,529
+353
+00:29:55,280 --> 00:29:58,720
 "Did it come from inside or outside the prison?"
 
-362
-00:29:58,529 --> 00:30:05,029
-"It didn't come from anywhere. It was here,
+354
+00:29:58,720 --> 00:30:04,000
+"It didn't come from anywhere. It was here, 
 there, everywhere. I heard it. I heard it!"
 
-363
-00:30:05,029 --> 00:30:10,530
-For an hour the warden tried to get the story,
-but Ballard became silent and didn't say anything
+355
+00:30:04,720 --> 00:30:09,280
+For an hour the warden tried to get 
+the story, but Ballard became silent  
 
-364
-00:30:10,530 --> 00:30:17,039
-more. Finally the warden went away. He was
-very confused. Ballard sat at his cell door
+356
+00:30:09,280 --> 00:30:14,720
+and didn't say anything more. Finally the 
+warden went away. He was very confused.  
 
-365
-00:30:17,039 --> 00:30:22,390
-until morning, his white face staring through
-the bars.
+357
+00:30:15,280 --> 00:30:22,160
+Ballard sat at his cell door until morning, 
+his white face staring through the bars.
 
-366
-00:30:22,390 --> 00:30:28,179
-It was the fourth day of The Thinking Machine's
-incarceration. He stood at his cell window
+358
+00:30:22,160 --> 00:30:25,360
+It was the fourth day of The 
+Thinking Machine's incarceration.  
 
-367
-00:30:28,179 --> 00:30:33,909
-and threw another piece of linen to the guard
-outside. And once more the guard took it to
+359
+00:30:26,480 --> 00:30:30,800
+He stood at his cell window and threw 
+another piece of linen to the guard outside.  
 
-368
-00:30:33,909 --> 00:30:38,539
-the warden. The warden read the message on
-it. It said:
+360
+00:30:31,920 --> 00:30:38,160
+And once more the guard took it to the warden. 
+The warden read the message on it. It said:
 
-369
-00:30:38,539 --> 00:30:41,820
+361
+00:30:38,960 --> 00:30:40,400
 "Only three days more."
 
-370
-00:30:41,820 --> 00:30:46,970
-The warden was not surprised by the message.
-He knew The Thinking Machine meant that there
+362
+00:30:41,600 --> 00:30:43,760
+The warden was not surprised by the message.  
 
-371
-00:30:46,970 --> 00:30:50,170
+363
+00:30:44,480 --> 00:30:49,840
+He knew The Thinking Machine meant that there 
 were only three days more before he escaped.
 
-372
-00:30:50,170 --> 00:30:55,649
-"But how did he write it?" the warden thought.
-"Where did he find another piece of linen?
+364
+00:30:50,400 --> 00:30:55,600
+"But how did he write it?" the warden thought. 
+"Where did he find another piece of linen?  
 
-373
-00:30:55,649 --> 00:31:03,799
-Where? How?" He looked at the linen. It was
-white, like the material from a shirt. He
+365
+00:30:55,600 --> 00:31:02,640
+Where? How?" He looked at the linen. It 
+was white, like the material from a shirt.  
 
-374
-00:31:03,799 --> 00:31:08,610
-took The Thinking Machine's shirt and put
-the two original pieces of linen on the torn
+366
+00:31:03,520 --> 00:31:08,880
+He took The Thinking Machine's shirt and put the 
+two original pieces of linen on the torn places.  
 
-375
-00:31:08,610 --> 00:31:16,279
-places. The third piece was completely superfluous.
-But it was the same material. "Where did he
+367
+00:31:09,760 --> 00:31:16,720
+The third piece was completely superfluous. But 
+it was the same material. "Where did he get it?  
 
-376
-00:31:16,279 --> 00:31:22,140
-get it? And where - where does he get anything
-to write with?"
+368
+00:31:17,360 --> 00:31:20,400
+And where - where does he 
+get anything to write with?"
 
-377
-00:31:22,140 --> 00:31:26,440
-Later on the fourth day The Thinking Machine
+369
+00:31:21,760 --> 00:31:26,080
+Later on the fourth day The Thinking Machine 
 spoke to the guard outside his window.
 
-378
-00:31:26,440 --> 00:31:30,049
+370
+00:31:26,640 --> 00:31:28,960
 "What day of the month is it?" he asked.
 
-379
-00:31:30,049 --> 00:31:32,970
+371
+00:31:29,920 --> 00:31:31,840
 "The fifteenth."
 
-380
-00:31:32,970 --> 00:31:39,070
-The Thinking Machine made a mental astronomical
-calculation. "Good," he thought. "Tonight
+372
+00:31:32,720 --> 00:31:38,480
+The Thinking Machine made a mental 
+astronomical calculation. "Good," he thought.  
 
-381
-00:31:39,070 --> 00:31:44,429
-the moon will not rise before nine o'clock."
-Then he asked another question.
+373
+00:31:38,480 --> 00:31:44,000
+"Tonight the moon will not rise before nine 
+o'clock." Then he asked another question.
 
-382
-00:31:44,429 --> 00:31:47,450
+374
+00:31:44,640 --> 00:31:46,960
 "Who looks after the big lights on the roof?"
 
-383
-00:31:47,450 --> 00:31:49,690
+375
+00:31:47,840 --> 00:31:49,440
 "An electrician from the company."
 
-384
-00:31:49,690 --> 00:31:52,880
+376
+00:31:50,160 --> 00:31:52,560
 "You have no electricians in the building?"
 
-385
-00:31:52,880 --> 00:31:53,940
+377
+00:31:52,560 --> 00:31:52,800
 "No."
 
-386
-00:31:53,940 --> 00:32:00,620
-At the end of the afternoon, just before he
-finished work, the outside guard saw The Thinking
+378
+00:31:54,640 --> 00:31:55,840
+At the end of the afternoon,  
 
-387
-00:32:00,620 --> 00:32:05,100
-Machine's head again at the window. He had
-something in his hand which he threw to the
+379
+00:31:56,480 --> 00:32:01,440
+just before he finished work, the outside 
+guard saw The Thinking Machine's head again  
 
-388
-00:32:05,100 --> 00:32:08,540
-ground. It was a five-dollar bill.
+380
+00:32:01,440 --> 00:32:07,760
+at the window. He had something in his hand which 
+he threw to the ground. It was a five-dollar bill.
 
-389
-00:32:08,540 --> 00:32:12,250
+381
+00:32:08,960 --> 00:32:11,280
 "That's for you," said the prisoner.
 
-390
-00:32:12,250 --> 00:32:14,820
+382
+00:32:11,920 --> 00:32:14,160
 Once again, the guard took it to the warden.
 
-391
-00:32:14,820 --> 00:32:17,149
+383
+00:32:15,040 --> 00:32:16,320
 "He said it was for me."
 
-392
-00:32:17,149 --> 00:32:23,669
-"I imagine it's a present from him. I think
-you can accept it," said the warden. Then
+384
+00:32:17,120 --> 00:32:24,080
+"I imagine it's a present from him. I think you 
+can accept it," said the warden. Then suddenly he  
 
-393
-00:32:23,669 --> 00:32:29,539
-suddenly he stopped. "Wait a minute. When
-the professor went into the cell he had one
+385
+00:32:24,080 --> 00:32:31,200
+stopped. "Wait a minute. When the professor went 
+into the cell he had one five-dollar bill and two  
 
-394
-00:32:29,539 --> 00:32:35,500
-five-dollar bill and two ten-dollar bills.
-There was a five-dollar bill with the first
+386
+00:32:31,200 --> 00:32:37,840
+ten-dollar bills. There was a five-dollar bill 
+with the first message. I have it here. But now  
 
-395
-00:32:35,500 --> 00:32:41,740
-message. I have it here. But now he has given
-you another five- dollar bill. It's impossible.
+387
+00:32:37,840 --> 00:32:44,480
+he has given you another five- dollar bill. It's 
+impossible. He has only two ten-dollar bills."
 
-396
-00:32:41,740 --> 00:32:45,470
-He has only two ten-dollar bills."
+388
+00:32:45,600 --> 00:32:49,760
+"Perhaps somebody changed a ten-dollar 
+bill for him," said the guard.
 
-397
-00:32:45,470 --> 00:32:51,049
-"Perhaps somebody changed a ten-dollar bill
-for him," said the guard.
+389
+00:32:50,720 --> 00:32:54,240
+"Perhaps. But tonight we are going to search Cell  
 
-398
-00:32:51,049 --> 00:32:57,290
-"Perhaps. But tonight we are going to search
-Cell 13 again. We are going to search it as
-
-399
-00:32:57,290 --> 00:33:00,879
+390
+00:32:54,240 --> 00:32:59,600
+13 again. We are going to search it as 
 no cell has ever been searched before."
 
-400
-00:33:00,879 --> 00:33:06,539
-So that night at three o'clock in the morning
-the warden and his guards searched The Thinking
+391
+00:33:00,800 --> 00:33:06,080
+So that night at three o'clock in the morning 
+the warden and his guards searched The Thinking  
 
-401
-00:33:06,539 --> 00:33:13,100
-Machine's cell again. The warden found the
-hole in the floor. He put his hand into it.
+392
+00:33:06,080 --> 00:33:12,320
+Machine's cell again. The warden found the 
+hole in the floor. He put his hand into it.  
 
-402
-00:33:13,100 --> 00:33:21,039
-There was something there. He pulled it out.
-A dead rat. He threw it to the floor in disgust.
+393
+00:33:13,680 --> 00:33:20,160
+There was something there. He pulled it out. A 
+dead rat. He threw it to the floor in disgust.  
 
-403
-00:33:21,039 --> 00:33:26,019
-But he continued the search. Once more he
-examined the bars on the window but found
+394
+00:33:20,720 --> 00:33:26,800
+But he continued the search. Once more he examined 
+the bars on the window but found them to be solid.  
 
-404
-00:33:26,019 --> 00:33:32,460
-them to be solid. He then examined The Thinking
-Machine's clothes. In his trousers he found
+395
+00:33:27,680 --> 00:33:32,960
+He then examined The Thinking Machine's 
+clothes. In his trousers he found some money.
 
-405
-00:33:32,460 --> 00:33:33,759
-some money.
+396
+00:33:33,840 --> 00:33:38,240
+"Five one-dollar bills!" said the 
+warden. He was very surprised.
 
-406
-00:33:33,759 --> 00:33:37,880
-"Five one-dollar bills!" said the warden.
-He was very surprised.
-
-407
-00:33:37,880 --> 00:33:40,480
+397
+00:33:38,240 --> 00:33:40,240
 "That's right," said the prisoner.
 
-408
-00:33:40,480 --> 00:33:45,890
-"But the... you had two tens and a five...
-how do you do it?"
+398
+00:33:40,240 --> 00:33:45,280
+"But the... you had two tens 
+and a five... how do you do it?"
 
-409
-00:33:45,890 --> 00:33:49,080
+399
+00:33:46,000 --> 00:33:48,480
 "That's my business," said The Thinking Machine.
 
-410
-00:33:49,080 --> 00:33:52,580
+400
+00:33:49,120 --> 00:33:52,320
 "Did any of my men change this money for you?"
 
-411
-00:33:52,580 --> 00:33:53,580
+401
+00:33:52,320 --> 00:33:52,560
 "No."
 
-412
-00:33:53,580 --> 00:33:56,779
+402
+00:33:54,000 --> 00:33:56,240
 "Well, do you make it?" asked the warden.
 
-413
-00:33:56,779 --> 00:34:00,919
+403
+00:33:56,880 --> 00:33:59,600
 "That's my business," said the prisoner again.
 
-414
-00:34:00,919 --> 00:34:06,149
-The warden was very angry. He left the cell
-and went back to bed.
+404
+00:34:00,720 --> 00:34:05,760
+The warden was very angry. He left 
+the cell and went back to bed.
 
-415
-00:34:06,149 --> 00:34:12,270
-About an hour later he heard the scream again.
-He got up and ran immediately to Cell 43,
+405
+00:34:05,760 --> 00:34:10,560
+About an hour later he heard the scream 
+again. He got up and ran immediately to  
 
-416
-00:34:12,270 --> 00:34:16,660
-where he saw Ballard, his face pressed against
-the bars of the door.
+406
+00:34:10,560 --> 00:34:16,400
+Cell 43, where he saw Ballard, his face 
+pressed against the bars of the door.
 
-417
-00:34:16,660 --> 00:34:23,850
-"Take me out, take me out," he screamed. "I
-did it. I did it. I killed her. Take me out
+407
+00:34:17,120 --> 00:34:24,240
+"Take me out, take me out," he screamed. "I did 
+it. I did it. I killed her. Take me out of here."
 
-418
-00:34:23,850 --> 00:34:24,850
-of here."
-
-419
-00:34:24,850 --> 00:34:28,190
+408
+00:34:25,200 --> 00:34:27,840
 "Was it the voice again?" asked the warden.
 
-420
-00:34:28,190 --> 00:34:29,560
+409
+00:34:27,840 --> 00:34:29,840
 "Yes," said Ballard.
 
-421
-00:34:29,560 --> 00:34:31,300
+410
+00:34:29,840 --> 00:34:31,120
 "What did it say?"
 
-422
-00:34:31,300 --> 00:34:38,670
-"Acid - acid - acid!" said the prisoner. "It
-knew. I threw the acid in the woman's face
+411
+00:34:31,120 --> 00:34:35,840
+"Acid - acid - acid!" said the prisoner. "It knew.  
 
-423
-00:34:38,670 --> 00:34:41,190
-and killed her. Oh!"
+412
+00:34:36,480 --> 00:34:40,720
+I threw the acid in the woman's 
+face and killed her. Oh!"
 
-424
-00:34:41,190 --> 00:34:48,610
-"Acid?" repeated the warden, more confused
-than ever.
+413
+00:34:40,720 --> 00:34:47,840
+"Acid?" repeated the warden, 
+more confused than ever.
 
-425
-00:34:48,610 --> 00:34:54,180
+414
+00:34:48,480 --> 00:34:49,280
 CHAPTER FIVE
+
+415
+00:34:50,400 --> 00:34:51,760
 Countdown to Freedom
 
-426
-00:34:54,180 --> 00:35:00,610
-On the fifth day of The Thinking Machine's
-incarceration, the warden looked tired. He
+416
+00:34:53,920 --> 00:34:56,880
+On the fifth day of The Thinking 
+Machine's incarceration,  
 
-427
-00:35:00,610 --> 00:35:06,660
-wanted this thing to finish. He wanted his
-confusion to end. But that day The Thinking
+417
+00:34:57,600 --> 00:35:03,600
+the warden looked tired. He wanted this 
+thing to finish. He wanted his confusion  
 
-428
-00:35:06,660 --> 00:35:14,191
-Machine threw another piece of linen to the
-guard. It said "Only two days more". This
+418
+00:35:03,600 --> 00:35:08,960
+to end. But that day The Thinking Machine 
+threw another piece of linen to the guard.  
 
-429
-00:35:14,191 --> 00:35:19,020
-time there was a silver half-dollar with it.
+419
+00:35:09,840 --> 00:35:17,280
+It said "Only two days more". This time 
+there was a silver half-dollar with it.
 
-430
-00:35:19,020 --> 00:35:25,770
-Now the warden knew - he knew that the man
-in Cell 13 didn't have any half-dollars - he
+420
+00:35:18,800 --> 00:35:25,520
+Now the warden knew - he knew that the man 
+in Cell 13 didn't have any half-dollars - he  
 
-431
-00:35:25,770 --> 00:35:31,350
-couldn't have any half-dollars. Just as he
-couldn't have pen and ink and linen. But he
+421
+00:35:25,520 --> 00:35:30,320
+couldn't have any half-dollars. Just as 
+he couldn't have pen and ink and linen.  
 
-432
-00:35:31,350 --> 00:35:39,530
-did have them. It was a fact, not a theory.
+422
+00:35:30,880 --> 00:35:37,520
+But he did have them. It was a fact, not a theory. 
 And that is why the warden looked so tired.
 
-433
-00:35:39,530 --> 00:35:45,820
-Then there was the voice that Ballard had
-heard. The word acid. It didn't mean anything,
+423
+00:35:39,280 --> 00:35:46,240
+Then there was the voice that Ballard had heard. 
+The word acid. It didn't mean anything, of course.  
 
-434
-00:35:45,820 --> 00:35:52,190
-of course. Ballard was obviously mad. But
-there were so many things that "didn't mean
+424
+00:35:46,240 --> 00:35:51,120
+Ballard was obviously mad. But 
+there were so many things that  
 
-435
-00:35:52,190 --> 00:35:56,410
-anything" now that The Thinking Machine was
-in the prison.
+425
+00:35:51,120 --> 00:35:54,640
+"didn't mean anything" now that The 
+Thinking Machine was in the prison.
 
-436
-00:35:56,410 --> 00:36:03,740
-On the sixth day, the warden received a letter
-from Dr Ransome. It said:
+426
+00:35:56,160 --> 00:36:01,840
+On the sixth day, the warden received 
+a letter from Dr Ransome. It said:
+ 
+ 
 
-437
-00:36:03,740 --> 00:36:05,650
+427
+00:36:03,520 --> 00:36:04,240
 Dear Sir.
 
+428
+00:36:05,280 --> 00:36:09,040
+Mr Fielding and I will meet you 
+in your office tomorrow evening.  
+
+429
+00:36:09,680 --> 00:36:13,280
+If Professor Van Dasen has not escaped - and we  
+
+430
+00:36:13,280 --> 00:36:18,880
+believe he has not because we have not received 
+a letter from him - we will meet him there too.
+
+431
+00:36:19,840 --> 00:36:21,360
+Yours, Dr Ransome.
+ 
+ 
+
+432
+00:36:24,080 --> 00:36:28,240
+That day The Thinking Machine had 
+three more messages for the warden.  
+
+433
+00:36:29,120 --> 00:36:34,560
+They were written on the same linen and referred 
+to the meeting with Dr Ransome and Mr Fielding.
+
+434
+00:36:35,600 --> 00:36:40,560
+On the afternoon of the seventh day the 
+warden passed Cell 13 and looked in.  
+
+435
+00:36:41,360 --> 00:36:48,000
+The Thinking Machine was sleeping on his bed. 
+Everything in the cell was completely normal.  
+
+436
+00:36:48,000 --> 00:36:52,720
+"He cannot escape between now and half-past 
+eight this evening," the warden thought.
+
+437
+00:36:53,680 --> 00:37:00,080
+That evening after six o'clock he saw the guard. 
+"Is everything all right in Cell 13?" he asked.  
+
 438
-00:36:05,650 --> 00:36:11,620
-Mr Fielding and I will meet you in your office
-tomorrow evening. If Professor Van Dasen has
+00:37:00,880 --> 00:37:08,320
+"Yes sir," replied the guard. "But he didn't 
+eat much today." The warden was feeling happy  
 
 439
-00:36:11,620 --> 00:36:17,810
-not escaped - and we believe he has not because
-we have not received a letter from him - we
+00:37:08,320 --> 00:37:13,840
+when he met Dr Ransome and Mr Fielding that 
+evening, at seven o'clock. He wanted to show  
 
 440
-00:36:17,810 --> 00:36:19,830
-will meet him there too.
+00:37:13,840 --> 00:37:19,680
+them The Thinking Machine's messages. He wanted 
+to tell them about the events of the week. But  
 
 441
-00:36:19,830 --> 00:36:24,390
-Yours, Dr Ransome.
+00:37:19,680 --> 00:37:24,960
+before he could speak, the guard from the river 
+side of the prison yard came into the office.
 
 442
-00:36:24,390 --> 00:36:29,810
-That day The Thinking Machine had three more
-messages for the warden. They were written
+00:37:26,560 --> 00:37:33,200
+"The light on my side of the yard is broken," 
+the guard said. Oh no. Another problem,"  
 
 443
-00:36:29,810 --> 00:36:35,880
-on the same linen and referred to the meeting
-with Dr Ransome and Mr Fielding.
+00:37:33,200 --> 00:37:37,920
+said the warden. The guard 
+returned to his post in the dark.  
 
 444
-00:36:35,880 --> 00:36:42,400
-On the afternoon of the seventh day the warden
-passed Cell 13 and looked in. The Thinking
+00:37:39,120 --> 00:37:41,120
+The warden called the electric light company.
 
 445
-00:36:42,400 --> 00:36:48,640
-Machine was sleeping on his bed. Everything
-in the cell was completely normal. "He cannot
-
-446
-00:36:48,640 --> 00:36:53,310
-escape between now and half-past eight this
-evening," the warden thought.
-
-447
-00:36:53,310 --> 00:36:59,640
-That evening after six o'clock he saw the
-guard. "Is everything all right in Cell 13?"
-
-448
-00:36:59,640 --> 00:37:07,770
-he asked. "Yes sir," replied the guard. "But
-he didn't eat much today." The warden was
-
-449
-00:37:07,770 --> 00:37:13,320
-feeling happy when he met Dr Ransome and Mr
-Fielding that evening, at seven o'clock. He
-
-450
-00:37:13,320 --> 00:37:17,891
-wanted to show them The Thinking Machine's
-messages. He wanted to tell them about the
-
-451
-00:37:17,891 --> 00:37:23,570
-events of the week. But before he could speak,
-the guard from the river side of the prison
-
-452
-00:37:23,570 --> 00:37:25,820
-yard came into the office.
-
-453
-00:37:25,820 --> 00:37:33,640
-"The light on my side of the yard is broken,"
-the guard said. Oh no. Another problem," said
-
-454
-00:37:33,640 --> 00:37:40,510
-the warden. The guard returned to his post
-in the dark. The warden called the electric
-
-455
-00:37:40,510 --> 00:37:41,510
-light company.
-
-456
-00:37:41,510 --> 00:37:47,890
-"Hello. This is Chisholm Prison," he said
+00:37:41,840 --> 00:37:47,600
+"Hello. This is Chisholm Prison," he said 
 into the phone. "One of our lights is broken.
 
-457
-00:37:47,890 --> 00:37:54,480
-Could you send four men here to repair it?
-Thank you. Goodbye." The warden went out into
+446
+00:37:47,600 --> 00:37:54,880
+Could you send four men here to repair it? Thank 
+you. Goodbye." The warden went out into the yard.  
 
-458
-00:37:54,480 --> 00:37:59,830
-the yard. While Dr Ransome and Mr Fielding
-were waiting, the guard from the prison gate
+447
+00:37:55,600 --> 00:38:01,200
+While Dr Ransome and Mr Fielding were waiting, the 
+guard from the prison gate came into the office.  
 
-459
-00:37:59,830 --> 00:38:06,600
-came into the office. In his hand was a letter.
-Dr Ransome looked at the letter.
+448
+00:38:01,200 --> 00:38:05,200
+In his hand was a letter. Dr 
+Ransome looked at the letter.
 
-460
-00:38:06,600 --> 00:38:13,710
-"Incredible!" he said. "What is it?" asked
-Mr Fielding. The doctor gave him the letter.
+449
+00:38:06,320 --> 00:38:13,520
+"Incredible!" he said. "What is it?" asked 
+Mr Fielding. The doctor gave him the letter.  
 
-461
-00:38:13,710 --> 00:38:19,960
-Fielding looked at it. "It's a coincidence.
-It must be," he said. It was almost eight
+450
+00:38:13,520 --> 00:38:20,560
+Fielding looked at it. "It's a coincidence. It 
+must be," he said. It was almost eight o'clock  
 
-462
-00:38:19,960 --> 00:38:23,020
-o'clock when the warden returned to his office.
+451
+00:38:20,560 --> 00:38:22,240
+when the warden returned to his office.
 
-463
-00:38:23,020 --> 00:38:29,200
-"The electricians have arrived," he said.
+452
+00:38:23,600 --> 00:38:27,600
+"The electricians have arrived," he said. 
 "They are working on the light now."
 
-464
-00:38:29,200 --> 00:38:34,160
-The warden telephoned the guard at the prison
-gate. "How many electricians came in?" he
+453
+00:38:28,960 --> 00:38:34,560
+The warden telephoned the guard at the prison 
+gate. "How many electricians came in?" he asked.  
 
-465
-00:38:34,160 --> 00:38:38,010
-asked. "Four," was the reply.
+454
+00:38:35,680 --> 00:38:37,520
+"Four," was the reply.
 
-466
-00:38:38,010 --> 00:38:44,330
-"All right. You must be certain that only
-four men go out of the prison," said the warden.
+455
+00:38:38,080 --> 00:38:42,640
+"All right. You must be certain that 
+only four men go out of the prison,"  
 
-467
-00:38:44,330 --> 00:38:47,280
-He put down the phone and took the letter.
+456
+00:38:42,640 --> 00:38:46,320
+said the warden. He put down 
+the phone and took the letter.
 
-468
-00:38:47,280 --> 00:38:52,190
+457
+00:38:48,400 --> 00:38:51,520
 "My God! It's not possible," he said, shocked.
 
-469
-00:38:52,190 --> 00:38:55,160
+458
+00:38:52,720 --> 00:38:54,960
 "What is it?" asked Mr Fielding.
 
-470
-00:38:55,160 --> 00:39:01,430
-"It's a letter from Cell 13," said the warden.
-"An invitation to dinner!"
+459
+00:38:55,920 --> 00:39:00,960
+"It's a letter from Cell 13," said 
+the warden. "An invitation to dinner!"
 
-471
-00:39:01,430 --> 00:39:04,080
+460
+00:39:01,760 --> 00:39:03,680
 "What?" said Ransome.
 
-472
-00:39:04,080 --> 00:39:09,680
-The three men were silent for a long time.
-Finally the warden called a guard.
+461
+00:39:04,560 --> 00:39:09,120
+The three men were silent for a long 
+time. Finally the warden called a guard.
 
-473
-00:39:09,680 --> 00:39:15,670
-"Go down to Cell 13 immediately," he said,
+462
+00:39:09,840 --> 00:39:14,880
+"Go down to Cell 13 immediately," he said, 
 "and see if the Professor is still there."
 
-474
-00:39:15,670 --> 00:39:21,080
-The guard ran down the corridor. Dr Ransome
+463
+00:39:15,440 --> 00:39:20,240
+The guard ran down the corridor. Dr Ransome 
 and Mr Fielding examined the letter.
 
-475
-00:39:21,080 --> 00:39:27,890
-"It's Van Dusen's handwriting; there's no
-doubt about that," said Dr Ransome. "I've
+464
+00:39:21,680 --> 00:39:25,600
+"It's Van Dusen's handwriting; 
+there's no doubt about that,"  
 
-476
-00:39:27,890 --> 00:39:29,810
-seen too much of it."
+465
+00:39:25,600 --> 00:39:28,720
+said Dr Ransome. "I've seen too much of it."
 
-477
-00:39:29,810 --> 00:39:37,850
-At that moment the telephone rang again. It
-was the guard at the prison gate. There were
+466
+00:39:30,080 --> 00:39:32,160
+At that moment the telephone rang again.  
 
-478
-00:39:37,850 --> 00:39:43,190
-two newspaper reporters and they wanted to
-see the warden. The warden told the guard
+467
+00:39:34,640 --> 00:39:39,600
+It was the guard at the prison gate. 
+There were two newspaper reporters  
 
-479
-00:39:43,190 --> 00:39:44,190
-to let them come in.
+468
+00:39:39,600 --> 00:39:43,920
+and they wanted to see the warden. The 
+warden told the guard to let them come in.
 
-480
-00:39:44,190 --> 00:39:49,980
-"It's impossible," he said. "Professor Van
-Dusen must be in Cell 13."
+469
+00:39:44,800 --> 00:39:49,520
+"It's impossible," he said. "Professor 
+Van Dusen must be in Cell 13."
 
-481
-00:39:49,980 --> 00:39:52,120
+470
+00:39:50,320 --> 00:39:51,360
 Then the guard returned.
 
-482
-00:39:52,120 --> 00:39:58,330
-"He's still in his cell, sir," he said. "I
-saw him. He's sleeping."
+471
+00:39:52,720 --> 00:39:58,240
+"He's still in his cell, sir," he 
+said. "I saw him. He's sleeping."
 
-483
-00:39:58,330 --> 00:40:03,700
-"There. I told you." said the warden. "But
-if he is still in his cell how did he send
+472
+00:39:58,240 --> 00:40:04,000
+"There. I told you." said the warden. "But if he 
+is still in his cell how did he send the letter?"
 
-484
-00:40:03,700 --> 00:40:05,260
-the letter?"
-
-485
-00:40:05,260 --> 00:40:07,580
+473
+00:40:04,960 --> 00:40:06,240
 There was a knock at the door.
 
-486
-00:40:07,580 --> 00:40:12,740
-"It's the reporters," said the warden. "Come
-in."
+474
+00:40:08,640 --> 00:40:11,360
+"It's the reporters," said the warden. "Come in."
 
-487
-00:40:12,740 --> 00:40:17,140
+475
+00:40:12,560 --> 00:40:16,400
 The door opened and the two men entered.
 
-488
-00:40:17,140 --> 00:40:25,550
-"Good evening, gentlemen," said one. It was
+476
+00:40:18,080 --> 00:40:24,720
+"Good evening, gentlemen," said one. It was 
 Hutchinson Hatch. The warden knew him well.
 
-489
-00:40:25,550 --> 00:40:26,960
+477
+00:40:25,280 --> 00:40:26,640
 Then the second man came in.
 
-490
-00:40:26,960 --> 00:40:33,220
-"Well, I'm here," he said. It was The Thinking
-Machine.
+478
+00:40:27,520 --> 00:40:32,160
+"Well, I'm here," he said. 
+It was The Thinking Machine.
 
-491
-00:40:33,220 --> 00:40:37,400
-The warden sat with his mouth open. He was
-paralyzed.
+479
+00:40:33,600 --> 00:40:38,080
+The warden sat with his 
+mouth open. He was paralyzed.
 
-492
-00:40:37,400 --> 00:40:44,280
-"How - how - how did you do it?" asked the
-warden, finally.
+480
+00:40:38,080 --> 00:40:43,600
+"How - how - how did you do 
+it?" asked the warden, finally.
 
-493
-00:40:44,280 --> 00:40:48,410
-"Let's go back to the cell," said The Thinking
-Machine.
+481
+00:40:44,400 --> 00:40:47,520
+"Let's go back to the cell," 
+said The Thinking Machine.
 
-494
-00:40:48,410 --> 00:40:51,770
-The men walked down the corridor to the door
-of Cell 13.
+482
+00:40:48,160 --> 00:40:52,000
+The men walked down the 
+corridor to the door of Cell 13.
 
-495
-00:40:51,770 --> 00:40:55,570
+483
+00:40:52,000 --> 00:40:54,240
 "Look inside," said The Thinking Machine.
 
-496
-00:40:55,570 --> 00:41:00,880
-The warden looked inside. Everything looked
-normal and there - there on the bed was the
+484
+00:40:55,360 --> 00:40:59,680
+The warden looked inside. Everything 
+looked normal and there - there on  
 
-497
-00:41:00,880 --> 00:41:05,700
-figure of The Thinking Machine. Certainly!
-There was his yellow hair! The warden looked
+485
+00:40:59,680 --> 00:41:04,080
+the bed was the figure of The Thinking 
+Machine. Certainly! There was his yellow  
 
-498
-00:41:05,700 --> 00:41:11,170
-again at the man beside him. "I must be mad,"
-he thought.
+486
+00:41:04,080 --> 00:41:10,080
+hair! The warden looked again at the man 
+beside him. "I must be mad," he thought.
 
-499
-00:41:11,170 --> 00:41:16,500
-Then he unlocked the cell door and The Thinking
-Machine went inside.
+487
+00:41:10,880 --> 00:41:16,320
+Then he unlocked the cell door and 
+The Thinking Machine went inside.
 
-500
-00:41:16,500 --> 00:41:19,580
+488
+00:41:16,880 --> 00:41:18,240
 "Look here," he said.
 
-501
-00:41:19,580 --> 00:41:26,740
-He put his foot on the steel bars at the bottom
+489
+00:41:19,360 --> 00:41:25,040
+He put his foot on the steel bars at the bottom 
 of the cell door and three of them fell out.
 
-502
-00:41:26,740 --> 00:41:35,810
-"And here, too," The Thinking Machine stood
-on his bed and put his hand to the bars on
+490
+00:41:30,480 --> 00:41:34,240
+"And here, too," The Thinking 
+Machine stood on his bed  
 
-503
-00:41:35,810 --> 00:41:39,190
+491
+00:41:34,240 --> 00:41:38,560
+and put his hand to the bars on 
 the window. All of them came out.
 
-504
-00:41:39,190 --> 00:41:42,830
+492
+00:41:39,440 --> 00:41:42,640
 "So what's this in the bed?" asked the warden.
 
-505
-00:41:42,830 --> 00:41:47,840
-"It's a wig," The Thinking Machine replied.
-"Take the cover off."
+493
+00:41:42,640 --> 00:41:46,720
+"It's a wig," The Thinking Machine 
+replied. "Take the cover off."
 
-506
-00:41:47,840 --> 00:41:55,160
-The warden did this. Under it was a coil of
-strong rope about ten metres long, a knife,
+494
+00:41:47,600 --> 00:41:54,880
+The warden did this. Under it was a coil of 
+strong rope about ten metres long, a knife,  
 
-507
-00:41:55,160 --> 00:42:01,770
-three files, three metres of electric wire,
+495
+00:41:54,880 --> 00:42:02,320
+three files, three metres of electric wire, 
 a pair of steel pliers, a hammer and a pistol
 
-508
-00:42:01,770 --> 00:42:07,820
-"How did you do it?" asked the warden. "You
-gentlemen have an invitation to dinner with
+496
+00:42:02,320 --> 00:42:07,760
+"How did you do it?" asked the warden. "You 
+gentlemen have an invitation to dinner with  
 
-509
-00:42:07,820 --> 00:42:12,690
-me at half-past nine," said The Thinking Machine.
-"Come on, or we shall be late."
+497
+00:42:07,760 --> 00:42:12,560
+me at half-past nine," said The Thinking 
+Machine. "Come on, or we shall be late."
 
-510
-00:42:12,690 --> 00:42:16,210
+498
+00:42:13,120 --> 00:42:16,320
 "But how did you do it?" the warden insisted.
 
-511
-00:42:16,210 --> 00:42:21,620
-"You cannot hold a man in prison who can use
-his brain," replied The Thinking Machine.
+499
+00:42:16,320 --> 00:42:20,000
+"You cannot hold a man in 
+prison who can use his brain,"  
 
-512
-00:42:21,620 --> 00:42:28,200
+500
+00:42:20,000 --> 00:42:23,120
+replied The Thinking Machine. 
 "Come on, or we shall be late."
+ 
+ 
 
-513
-00:42:28,200 --> 00:42:34,060
+501
+00:42:28,080 --> 00:42:29,840
 CHAPTER SIX
+
+502
+00:42:30,400 --> 00:42:31,680
 How Did He Do It?
 
-514
-00:42:34,060 --> 00:42:37,550
-When dinner was finished The Thinking Machine
-turned to Dr Ransome.
+503
+00:42:33,760 --> 00:42:37,360
+When dinner was finished The Thinking 
+Machine turned to Dr Ransome.
 
-515
-00:42:37,550 --> 00:42:41,270
+504
+00:42:38,080 --> 00:42:40,800
 "Well, do you believe me now?" he asked.
 
-516
-00:42:41,270 --> 00:42:46,010
+505
+00:42:41,680 --> 00:42:44,640
 "Yes I do," replied Dr Ransome.
 
-517
-00:42:46,010 --> 00:42:52,410
-There was a long silence. Like all the other
+506
+00:42:45,760 --> 00:42:51,520
+There was a long silence. Like all the other 
 guests, Ransome was waiting for the explanation.
 
-518
-00:42:52,410 --> 00:42:57,290
-"So, tell us how you did it," said Fielding,
-finally.
+507
+00:42:52,080 --> 00:42:56,320
+"So, tell us how you did 
+it," said Fielding, finally.
 
-519
-00:42:57,290 --> 00:42:59,890
+508
+00:42:57,040 --> 00:42:59,200
 The Thinking Machine began the story.
 
+509
+00:43:00,160 --> 00:43:03,760
+"The agreement was to go into 
+a cell in Chisholm Prison  
+
+510
+00:43:03,760 --> 00:43:08,240
+with nothing but the necessary clothes 
+and to leave that cell within seven days.  
+
+511
+00:43:08,880 --> 00:43:15,520
+I didn't know Chisholm Prison. When I went into 
+the cell I asked for three things: toothpaste, two  
+
+512
+00:43:15,520 --> 00:43:22,320
+ten-dollar bills and one five-dollar bill and to 
+have my shoes blacked. You agreed to these things.
+
+513
+00:43:23,040 --> 00:43:27,680
+"I knew that there was nothing useful 
+in the cell, so I had to use these three  
+
+514
+00:43:27,680 --> 00:43:33,280
+innocent things to help me escape. But anything 
+is dangerous in the hands of a man like me.
+
+515
+00:43:34,400 --> 00:43:40,800
+"The first night I did two things. I slept 
+and I ran after rats. You gentlemen thought  
+
+516
+00:43:40,800 --> 00:43:45,360
+I wanted time to organize an escape 
+with assistance from outside the prison.  
+
+517
+00:43:45,360 --> 00:43:50,960
+But this was not true. I knew I could 
+communicate with anyone I wanted to at any time."
+
+518
+00:43:52,000 --> 00:43:56,080
+The warden looked at him for a moment. 
+The Thinking Machine continued.
+
+519
+00:43:56,720 --> 00:44:02,160
+"The guard woke me up at six o'clock the next 
+morning. He brought me my breakfast. He told  
+
 520
-00:42:59,890 --> 00:43:06,130
-"The agreement was to go into a cell in Chisholm
-Prison with nothing but the necessary clothes
+00:44:02,160 --> 00:44:08,000
+me lunch was at twelve o'clock and dinner 
+was at six. I knew that between these times  
 
 521
-00:43:06,130 --> 00:43:11,440
-and to leave that cell within seven days.
-I didn't know Chisholm Prison. When I went
+00:44:08,000 --> 00:44:13,920
+I was alone. So after breakfast I examined 
+the outside area from my cell window.  
 
 522
-00:43:11,440 --> 00:43:18,830
-into the cell I asked for three things: toothpaste,
-two ten-dollar bills and one five-dollar bill
+00:44:14,640 --> 00:44:20,000
+I saw that it was impossible to get over the 
+wall. But I knew that on the other side of the  
 
 523
-00:43:18,830 --> 00:43:22,700
-and to have my shoes blacked. You agreed to
-these things.
+00:44:20,000 --> 00:44:27,040
+wall there was a river and also a playground. The 
+guard confirmed it. So I knew one important thing.  
 
 524
-00:43:22,700 --> 00:43:28,300
-"I knew that there was nothing useful in the
-cell, so I had to use these three innocent
+00:44:28,000 --> 00:44:33,440
+A person could come near the prison on that side 
+without attracting the attention of the guards.
 
 525
-00:43:28,300 --> 00:43:33,950
-things to help me escape. But anything is
-dangerous in the hands of a man like me.
+00:44:34,480 --> 00:44:37,680
+"But there was something 
+even more important. I saw  
 
 526
-00:43:33,950 --> 00:43:40,810
-"The first night I did two things. I slept
-and I ran after rats. You gentlemen thought
+00:44:37,680 --> 00:44:40,400
+a wire which went to the light on the prison roof.  
 
 527
-00:43:40,810 --> 00:43:46,420
-I wanted time to organize an escape with assistance
-from outside the prison. But this was not
+00:44:41,040 --> 00:44:47,600
+It was very near my cell window. I knew then that 
+if it was necessary I could cut off that light.
 
 528
-00:43:46,420 --> 00:43:52,240
-true. I knew I could communicate with anyone
-I wanted to at any time."
+00:44:48,720 --> 00:44:51,360
+"Then I thought about escaping 
+through the prison building.  
 
 529
-00:43:52,240 --> 00:43:56,530
-The warden looked at him for a moment. The
-Thinking Machine continued.
+00:44:51,920 --> 00:44:55,840
+I remembered the way to my cell. 
+I knew that was the only way out.  
 
 530
-00:43:56,530 --> 00:44:02,260
-"The guard woke me up at six o'clock the next
-morning. He brought me my breakfast. He told
+00:44:56,640 --> 00:45:00,960
+There were seven doors between my cell 
+and the outside. It was too difficult."
 
 531
-00:44:02,260 --> 00:44:07,990
-me lunch was at twelve o'clock and dinner
-was at six. I knew that between these times
+00:45:02,160 --> 00:45:06,800
+The Thinking Machine stopped for a 
+moment. Dr Ransome lit a new cigar.  
 
 532
-00:44:07,990 --> 00:44:15,230
-I was alone. So after breakfast I examined
-the outside area from my cell window. I saw
+00:45:07,520 --> 00:45:12,160
+For several minutes there was silence. 
+Then The Thinking Machine continued.
 
 533
-00:44:15,230 --> 00:44:20,780
-that it was impossible to get over the wall.
-But I knew that on the other side of the wall
+00:45:13,120 --> 00:45:19,520
+"When I was thinking about these things a rat 
+ran across my foot. It gave me a new idea. I  
 
 534
-00:44:20,780 --> 00:44:27,080
-there was a river and also a playground. The
-guard confirmed it. So I knew one important
+00:45:19,520 --> 00:45:25,520
+saw there were at least six rats in the cell. But 
+they didn't come from under the door. I ran after  
 
 535
-00:44:27,080 --> 00:44:32,810
-thing. A person could come near the prison
-on that side without attracting the attention
+00:45:25,520 --> 00:45:31,840
+them and they disappeared. But they didn't go out 
+of the door. So I knew there was another way out.
 
 536
-00:44:32,810 --> 00:44:34,140
-of the guards.
+00:45:31,840 --> 00:45:38,400
+"I looked for this other way and found it. It was 
+a hole in the floor. It went to an old drainpipe.  
 
 537
-00:44:34,140 --> 00:44:40,090
-"But there was something even more important.
-I saw a wire which went to the light on the
+00:45:39,040 --> 00:45:45,440
+Obviously the rats came this way. But where did 
+they come from? Drainpipes normally go outside  
 
 538
-00:44:40,090 --> 00:44:46,780
-prison roof. It was very near my cell window.
-I knew then that if it was necessary I could
+00:45:45,440 --> 00:45:52,160
+the prison. This one probably went to the river 
+or near it. So the rats came from that direction.
 
 539
-00:44:46,780 --> 00:44:48,330
-cut off that light.
+00:45:53,200 --> 00:45:58,960
+"When the guard came with my lunch he told me 
+two important things. One was that there was a  
 
 540
-00:44:48,330 --> 00:44:53,190
-"Then I thought about escaping through the
-prison building. I remembered the way to my
+00:45:58,960 --> 00:46:04,960
+new plumbing system in the prison. The other was 
+that the river was only a hundred metres away.  
 
 541
-00:44:53,190 --> 00:44:59,640
-cell. I knew that was the only way out. There
-were seven doors between my cell and the outside.
+00:46:05,920 --> 00:46:12,000
+So I knew that the pipe in my cell was part of 
+an old system. And I knew it went to the river.  
 
 542
-00:44:59,640 --> 00:45:02,390
-It was too difficult."
+00:46:12,880 --> 00:46:16,160
+The other end of the pipe 
+was outside the prison walls.
 
 543
-00:45:02,390 --> 00:45:08,420
-The Thinking Machine stopped for a moment.
-Dr Ransome lit a new cigar. For several minutes
+00:46:17,280 --> 00:46:21,440
+"But before I could start work, I 
+knew I had to distract the warden.  
 
 544
-00:45:08,420 --> 00:45:12,590
-there was silence. Then The Thinking Machine
-continued.
+00:46:21,440 --> 00:46:26,480
+I wanted him to think that I was trying to 
+communicate with you, Dr Ransome. So I took  
 
 545
-00:45:12,590 --> 00:45:19,470
-"When I was thinking about these things a
-rat ran across my foot. It gave me a new idea.
+00:46:26,480 --> 00:46:32,320
+two pieces of linen from my shirt and wrote a 
+message on them. Do you have the message, warden?"
 
 546
-00:45:19,470 --> 00:45:23,820
-I saw there were at least six rats in the
-cell. But they didn't come from under the
+00:46:32,320 --> 00:46:37,360
+"Yes." The warden looked at the codec 
+message. "But what does it mean?" he asked.  
 
 547
-00:45:23,820 --> 00:45:29,480
-door. I ran after them and they disappeared.
-But they didn't go out of the door. So I knew
+00:46:38,080 --> 00:46:42,960
+"Read it from right to left, beginning 
+with the T" said The Thinking Machine.  
 
 548
-00:45:29,480 --> 00:45:31,340
-there was another way out.
+00:46:42,960 --> 00:46:45,040
+"Don't consider the division into words."
 
 549
-00:45:31,340 --> 00:45:37,350
-"I looked for this other way and found it.
-It was a hole in the floor. It went to an
-
-550
-00:45:37,350 --> 00:45:44,231
-old drainpipe. Obviously the rats came this
-way. But where did they come from? Drainpipes
-
-551
-00:45:44,231 --> 00:45:50,770
-normally go outside the prison. This one probably
-went to the river or near it. So the rats
-
-552
-00:45:50,770 --> 00:45:52,610
-came from that direction.
-
-553
-00:45:52,610 --> 00:45:58,740
-"When the guard came with my lunch he told
-me two important things. One was that there
-
-554
-00:45:58,740 --> 00:46:04,410
-was a new plumbing system in the prison. The
-other was that the river was only a hundred
-
-555
-00:46:04,410 --> 00:46:10,990
-metres away. So I knew that the pipe in my
-cell was part of an old system. And I knew
-
-556
-00:46:10,990 --> 00:46:16,720
-it went to the river. The other end of the
-pipe was outside the prison walls.
-
-557
-00:46:16,720 --> 00:46:22,590
-"But before I could start work, I knew I had
-to distract the warden. I wanted him to think
-
-558
-00:46:22,590 --> 00:46:27,560
-that I was trying to communicate with you,
-Dr Ransome. So I took two pieces of linen
-
-559
-00:46:27,560 --> 00:46:32,480
-from my shirt and wrote a message on them.
-Do you have the message, warden?"
-
-560
-00:46:32,480 --> 00:46:38,511
-"Yes." The warden looked at the codec message.
-"But what does it mean?" he asked. "Read it
-
-561
-00:46:38,511 --> 00:46:43,740
-from right to left, beginning with the T"
-said The Thinking Machine. "Don't consider
-
-562
-00:46:43,740 --> 00:46:46,430
-the division into words."
-
-563
-00:46:46,430 --> 00:46:50,310
+00:46:46,240 --> 00:46:47,920
 The warden read the message.
 
-564
-00:46:50,310 --> 00:47:03,980
-"T-h-i-s," he began, "is not the way I intend
-to escape." The warden smiled. "But what did
+550
+00:46:49,440 --> 00:47:00,800
+"T-h-i-s," he began, "is not the way I 
+intend to escape." The warden smiled.  
 
-565
-00:47:03,980 --> 00:47:05,670
-you write it with?"
+551
+00:47:03,360 --> 00:47:04,720
+"But what did you write it with?"
 
-566
-00:47:05,670 --> 00:47:11,460
-"This," said The Thinking Machine. He put
-his foot on the table. On it was the shoe
+552
+00:47:05,520 --> 00:47:09,840
+"This," said The Thinking Machine. 
+He put his foot on the table.  
 
-567
-00:47:11,460 --> 00:47:15,280
-that he wore in prison. But the polish was
-gone.
+553
+00:47:10,480 --> 00:47:14,800
+On it was the shoe that he wore in 
+prison. But the polish was gone.
 
-568
-00:47:15,280 --> 00:47:21,250
-"The shoe polish, mixed with some water, was
-my ink," said The Thinking Machine, "and the
+554
+00:47:15,520 --> 00:47:18,000
+"The shoe polish, mixed with some water,  
 
-569
-00:47:21,250 --> 00:47:23,730
-metal end of the shoe lace was a good pen."
+555
+00:47:18,000 --> 00:47:23,840
+was my ink," said The Thinking Machine, "and 
+the metal end of the shoe lace was a good pen."
 
-570
-00:47:23,730 --> 00:47:27,990
+556
+00:47:24,400 --> 00:47:27,520
 The warden laughed. "Continue," he said.
 
-571
-00:47:27,990 --> 00:47:33,750
-"After the message the warden wanted to search
-my cell. This was good. I wanted him to search
+557
+00:47:28,160 --> 00:47:33,760
+"After the message the warden wanted to search 
+my cell. This was good. I wanted him to search  
 
-572
-00:47:33,750 --> 00:47:39,510
-my cell very often. I thought, 'He won't find
+558
+00:47:33,760 --> 00:47:39,280
+my cell very often. I thought, 'He won't find 
 anything so he will stop and leave me alone.'
 
-573
-00:47:39,510 --> 00:47:43,930
-"The warden took my shirt away and gave me
-a prison shirt.
+559
+00:47:40,080 --> 00:47:43,440
+"The warden took my shirt away 
+and gave me a prison shirt.
 
-574
-00:47:43,930 --> 00:47:48,380
-Without my white shirt I couldn't write any
-more messages. But I had another piece of
+560
+00:47:43,440 --> 00:47:46,960
+Without my white shirt I 
+couldn't write any more messages.  
 
-575
-00:47:48,380 --> 00:47:50,400
+561
+00:47:46,960 --> 00:47:49,760
+But I had another piece of 
 the same shirt in my mouth."
 
+562
+00:47:50,640 --> 00:47:54,000
+"Where did it come from?" asked 
+the warden. "I saw that there  
+
+563
+00:47:54,000 --> 00:47:57,600
+were only two pieces cut from the 
+shirt. And I had both of them."
+
+564
+00:47:58,160 --> 00:48:03,280
+"You forget that shirts like mine have three 
+layers of linen," The Thinking Machine replied.  
+
+565
+00:48:03,280 --> 00:48:05,840
+"I took out the inside one. You didn't notice it.
+
+566
+00:48:07,200 --> 00:48:13,440
+"Now that the warden was busy, I started to work 
+on my real escape plan. I knew that the pipe  
+
+567
+00:48:13,440 --> 00:48:20,160
+from my cell went to the playground outside the 
+prison. It is a place where boys play baseball.  
+
+568
+00:48:20,160 --> 00:48:25,440
+I knew many of the boys there. I knew that 
+the rats came into my cell from out there.  
+
+569
+00:48:26,160 --> 00:48:31,600
+Perhaps it was possible for me to communicate 
+with someone outside. I could use the rats.
+
+570
+00:48:32,400 --> 00:48:37,600
+"The first thing I needed was a long 
+thread. So I used the thread from my socks."  
+
+571
+00:48:38,320 --> 00:48:44,400
+He pulled up his trouser-legs. The strong thread 
+at the top of his long socks was not there.
+
+572
+00:48:45,360 --> 00:48:51,760
+"Then on one half of my last piece of linen I 
+wrote a message for Hutchinson Hatch. He is a  
+
+573
+00:48:51,760 --> 00:48:57,840
+friend and often helps me. I knew he would help me 
+this time. It was a great story for his newspaper.  
+
+574
+00:48:58,400 --> 00:49:03,200
+I tied a ten-dollar bill to the letter 
+to attract attention. People always find  
+
+575
+00:49:03,200 --> 00:49:08,720
+money. I wrote on the linen: 'If you find 
+this message give it to Hutchinson Hatch.  
+
 576
-00:47:50,400 --> 00:47:55,530
-"Where did it come from?" asked the warden.
-"I saw that there were only two pieces cut
+00:49:08,720 --> 00:49:13,520
+He will give you another ten dollars for the 
+information.' Then I wrote instructions for Hatch.
 
 577
-00:47:55,530 --> 00:47:58,060
-from the shirt. And I had both of them."
+00:49:14,240 --> 00:49:19,440
+"I had to get this note outside the prison. 
+There were two ways but the best way  
 
 578
-00:47:58,060 --> 00:48:03,100
-"You forget that shirts like mine have three
-layers of linen," The Thinking Machine replied.
+00:49:19,440 --> 00:49:25,360
+was the rats. I took one of them. I tied 
+the linen and the money to one of its legs  
 
 579
-00:48:03,100 --> 00:48:06,670
-"I took out the inside one. You didn't notice
-it.
+00:49:25,360 --> 00:49:28,560
+and tied my thread to another. 
+Then I put it in the pipe.
 
 580
-00:48:06,670 --> 00:48:13,120
-"Now that the warden was busy, I started to
-work on my real escape plan. I knew that the
+00:49:29,280 --> 00:49:34,800
+"From the moment the rat disappeared into that 
+dirty pipe I was nervous. The thread could break.  
 
 581
-00:48:13,120 --> 00:48:19,030
-pipe from my cell went to the playground outside
-the prison. It is a place where boys play
+00:49:34,800 --> 00:49:41,840
+Anything could happen. I waited. I was holding the 
+thread and I saw that it became gradually shorter.  
 
 582
-00:48:19,030 --> 00:48:24,900
-baseball. I knew many of the boys there. I
-knew that the rats came into my cell from
+00:49:42,640 --> 00:49:46,160
+Finally there was only about 
+one metre of thread in my hand.  
 
 583
-00:48:24,900 --> 00:48:30,731
-out there. Perhaps it was possible for me
-to communicate with someone outside. I could
-
-584
-00:48:30,731 --> 00:48:32,090
-use the rats.
-
-585
-00:48:32,090 --> 00:48:38,860
-"The first thing I needed was a long thread.
-So I used the thread from my socks." He pulled
-
-586
-00:48:38,860 --> 00:48:45,070
-up his trouser-legs. The strong thread at
-the top of his long socks was not there.
-
-587
-00:48:45,070 --> 00:48:51,520
-"Then on one half of my last piece of linen
-I wrote a message for Hutchinson Hatch. He
-
-588
-00:48:51,520 --> 00:48:56,920
-is a friend and often helps me. I knew he
-would help me this time. It was a great story
-
-589
-00:48:56,920 --> 00:49:02,521
-for his newspaper. I tied a ten-dollar bill
-to the letter to attract attention. People
-
-590
-00:49:02,521 --> 00:49:08,210
-always find money. I wrote on the linen: 'If
-you find this message give it to Hutchinson
-
-591
-00:49:08,210 --> 00:49:13,030
-Hatch. He will give you another ten dollars
-for the information.' Then I wrote instructions
-
-592
-00:49:13,030 --> 00:49:14,090
-for Hatch.
-
-593
-00:49:14,090 --> 00:49:20,130
-"I had to get this note outside the prison.
-There were two ways but the best way was the
-
-594
-00:49:20,130 --> 00:49:25,880
-rats. I took one of them. I tied the linen
-and the money to one of its legs and tied
-
-595
-00:49:25,880 --> 00:49:28,910
-my thread to another. Then I put it in the
-pipe.
-
-596
-00:49:28,910 --> 00:49:34,150
-"From the moment the rat disappeared into
-that dirty pipe I was nervous. The thread
-
-597
-00:49:34,150 --> 00:49:40,340
-could break. Anything could happen. I waited.
-I was holding the thread and I saw that it
-
-598
-00:49:40,340 --> 00:49:46,140
-became gradually shorter. Finally there was
-only about one metre of thread in my hand.
-
-599
-00:49:46,140 --> 00:49:51,380
-I knew that the rat was outside the prison.
+00:49:46,160 --> 00:49:50,960
+I knew that the rat was outside the prison. 
 But would Hatch receive the message?
 
-600
-00:49:51,380 --> 00:49:57,530
-"I had to wait. I decided to try some other
-man oeuvres. This was to confuse the warden
+584
+00:49:51,680 --> 00:49:57,200
+"I had to wait. I decided to try some other 
+man oeuvres. This was to confuse the warden  
 
-601
-00:49:57,530 --> 00:50:02,800
-more. I tried to bribe the guard. I tried
-to cut through the bars on my cell window.
+585
+00:49:57,200 --> 00:50:02,800
+more. I tried to bribe the guard. I tried to 
+cut through the bars on my cell window. The  
 
-602
-00:50:02,800 --> 00:50:08,120
-The warden became very angry. He took the
-bars in his hands to see if they were solid.
+586
+00:50:02,800 --> 00:50:09,040
+warden became very angry. He took the bars in his 
+hands to see if they were solid. They were - then.
 
-603
-00:50:08,120 --> 00:50:09,280
-They were - then.
+587
+00:50:10,000 --> 00:50:15,440
+"That night I didn't sleep. The thread was 
+tied to my hand. I waited for the signal from  
 
-604
-00:50:09,280 --> 00:50:15,630
-"That night I didn't sleep. The thread was
-tied to my hand. I waited for the signal from
+588
+00:50:15,440 --> 00:50:21,680
+outside. I thought. 'If Hatch has received 
+the message, and if he finds the drainpipe,  
 
-605
-00:50:15,630 --> 00:50:21,930
-outside. I thought. 'If Hatch has received
-the message, and if he finds the drainpipe,
+589
+00:50:21,680 --> 00:50:27,520
+he will pull the thread.' At half-past three in 
+the morning I felt something pull the thread."
 
-606
-00:50:21,930 --> 00:50:28,700
-he will pull the thread.' At half-past three
-in the morning I felt something pull the thread."
+590
+00:50:28,480 --> 00:50:31,440
+The Thinking Machine turned to Hutchinson Hatch.
 
-607
-00:50:28,700 --> 00:50:32,040
-The Thinking Machine turned to Hutchinson
-Hatch.
-
-608
-00:50:32,040 --> 00:50:35,060
+591
+00:50:32,080 --> 00:50:34,720
 "Now you can explain what you did," he said.
 
-609
-00:50:35,060 --> 00:50:41,110
-"A small boy brought the linen message to
-me. I gave the boy another ten dollars. I
+592
+00:50:35,280 --> 00:50:41,440
+"A small boy brought the linen message to me. 
+I gave the boy another ten dollars. I got some  
 
-610
-00:50:41,110 --> 00:50:46,760
-got some string and then some wire. I went
-with the boy to the playground. I looked for
+593
+00:50:41,440 --> 00:50:47,280
+string and then some wire. I went with the boy 
+to the playground. I looked for the end of the  
 
-611
-00:50:46,760 --> 00:50:53,140
-the end of the drainpipe for an hour. Then
-finally I found it. It was about thirty centimeters
+594
+00:50:47,280 --> 00:50:54,640
+drainpipe for an hour. Then finally I found it. It 
+was about thirty centimeters in diameter. I took  
 
-612
-00:50:53,140 --> 00:50:59,220
-in diameter. I took the end of the thread
-and pulled it three times. The Professor pulled
+595
+00:50:54,640 --> 00:51:02,080
+the end of the thread and pulled it three times. 
+The Professor pulled twice to reply. Quickly I  
 
-613
-00:50:59,220 --> 00:51:05,940
-twice to reply. Quickly I tied my string to
-the Professor's thread. Then I tied the wire
+596
+00:51:02,080 --> 00:51:08,640
+tied my string to the Professor's thread. Then I 
+tied the wire to the string. Professor Van Dusen  
 
-614
-00:51:05,940 --> 00:51:12,460
-to the string. Professor Van Dusen began to
-pull it all into his cell. The wire was the
+597
+00:51:08,640 --> 00:51:15,360
+began to pull it all into his cell. The wire was 
+the most important because it could not break. The  
 
-615
-00:51:12,460 --> 00:51:19,030
-most important because it could not break.
-The thread was too weak. It could break easily.
+598
+00:51:15,360 --> 00:51:22,240
+thread was too weak. It could break easily. With 
+the wire I could transport things to the cell."
 
-616
-00:51:19,030 --> 00:51:22,350
-With the wire I could transport things to
-the cell."
+599
+00:51:22,240 --> 00:51:28,000
+"Yes," continued The Thinking Machine. "I was 
+very happy when the wire arrived in the cell.  
 
-617
-00:51:22,350 --> 00:51:27,540
-"Yes," continued The Thinking Machine. "I
-was very happy when the wire arrived in the
+600
+00:51:28,000 --> 00:51:32,400
+Then we tried another experiment. I 
+spoke to Mr Hatch through the pipe.  
 
-618
-00:51:27,540 --> 00:51:33,740
-cell. Then we tried another experiment. I
-spoke to Mr Hatch through the pipe. He heard
+601
+00:51:33,120 --> 00:51:38,960
+He heard me but it was not easy for him to 
+understand me. I wanted some nitric- acid and  
 
-619
-00:51:33,740 --> 00:51:39,460
-me but it was not easy for him to understand
-me. I wanted some nitric- acid and I had to
+602
+00:51:38,960 --> 00:51:44,880
+I had to repeat the word 'acid' several times. 
+Then I heard a scream from the cell above me.
 
-620
-00:51:39,460 --> 00:51:45,330
-repeat the word 'acid' several times. Then
-I heard a scream from the cell above me.
+603
+00:51:45,680 --> 00:51:49,440
+"With the wire it was easy to 
+transport things to my cell.  
 
-621
-00:51:45,330 --> 00:51:52,100
-"With the wire it was easy to transport things
-to my cell. And it was also easy to hide them.
+604
+00:51:49,440 --> 00:51:55,120
+And it was also easy to hide them. I could 
+put them into the pipe. You, Mr Warden,  
 
-622
-00:51:52,100 --> 00:51:57,340
-I could put them into the pipe. You, Mr Warden,
-found the pipe but you could not find the
+605
+00:51:55,120 --> 00:52:01,360
+found the pipe but you could not find the wire. 
+Your hands are too big. My fingers are longer  
 
-623
-00:51:57,340 --> 00:52:03,760
-wire. Your hands are too big. My fingers are
-longer and thinner so it was easy for me.
+606
+00:52:01,360 --> 00:52:08,000
+and thinner so it was easy for me. In addition I 
+put a dead rat in the pipe. You pulled it out."
 
-624
-00:52:03,760 --> 00:52:08,240
-In addition I put a dead rat in the pipe.
-You pulled it out."
-
-625
-00:52:08,240 --> 00:52:10,410
+607
+00:52:08,000 --> 00:52:10,000
 "I remember," said the warden.
 
-626
-00:52:10,410 --> 00:52:15,540
-"The rat was there to stop you investigating
+608
+00:52:10,640 --> 00:52:14,960
+"The rat was there to stop you investigating 
 the pipe," said The Thinking Machine.
 
+609
+00:52:15,760 --> 00:52:20,480
+"That night Mr Hatch could not send 
+me anything useful. But he did send  
+
+610
+00:52:20,480 --> 00:52:25,760
+me change for ten dollars as a test. The 
+next clay I continued to work on my plan.
+
+611
+00:52:26,640 --> 00:52:33,280
+"For this it was necessary that the guard outside 
+saw me often at my cell window. To attract his  
+
+612
+00:52:33,280 --> 00:52:39,520
+attention I threw messages to him. I stood at my 
+cell window for hours. Sometimes I spoke to him.  
+
+613
+00:52:40,080 --> 00:52:43,280
+He told me that there were no 
+electricians inside the prison.  
+
+614
+00:52:44,000 --> 00:52:47,600
+If there was a problem with the lights 
+they had to call the light company.
+
+615
+00:52:48,240 --> 00:52:53,520
+"This was perfect for my escape plan. There 
+was only one more thing to do before I escaped.  
+
+616
+00:52:54,160 --> 00:52:59,840
+Once again I spoke to Mr Hatch through the pipe. 
+It was the fourth night of my incarceration.  
+
+617
+00:53:00,400 --> 00:53:05,680
+Again Mr Hatch could not understand me. 
+Again I repeated the word 'acid' three times.  
+
+618
+00:53:06,320 --> 00:53:11,040
+It was this that made the prisoner above 
+me confess to murder. The guard told me the  
+
+619
+00:53:11,040 --> 00:53:16,320
+next day. The prisoner heard strange voices 
+through the pipe. He thought it was a ghost.
+
+620
+00:53:17,200 --> 00:53:22,560
+"With nitric acid it was very easy to cut 
+the bars of the window. But it was a long  
+
+621
+00:53:22,560 --> 00:53:28,560
+process. The outside guard saw me standing at 
+my window. He didn't know what I was doing.  
+
+622
+00:53:29,200 --> 00:53:33,440
+As he watched me I cut the bars with 
+a piece of wire covered with acid.  
+
+623
+00:53:34,160 --> 00:53:39,280
+On the night of my escape I used the same acid 
+to cut the electric wire that went to the lights.  
+
+624
+00:53:40,080 --> 00:53:44,400
+The yard outside my window was 
+completely dark. It was easy to escape.
+
+625
+00:53:45,200 --> 00:53:51,760
+"I also had a wig from Mr Hatch. It was the same 
+color as my hair. Yellow. I put it in the bed with  
+
+626
+00:53:51,760 --> 00:53:56,400
+some other things that Hatch sent me. When the 
+guard passed the door he thought I was sleeping."
+
 627
-00:52:15,540 --> 00:52:21,570
-"That night Mr Hatch could not send me anything
-useful. But he did send me change for ten
+00:53:57,120 --> 00:54:01,280
+"But how did you get outside the 
+prison gate," asked the warden.
 
 628
-00:52:21,570 --> 00:52:26,250
-dollars as a test. The next clay I continued
-to work on my plan.
+00:54:01,280 --> 00:54:06,880
+"It was simple," The Thinking Machine replied. 
+"As I said. I cut the wire to the lights before  
 
 629
-00:52:26,250 --> 00:52:32,740
-"For this it was necessary that the guard
-outside saw me often at my cell window. To
+00:54:06,880 --> 00:54:12,240
+the guards turned on the current. When they turned 
+on the current, the light on my side of the yard  
 
 630
-00:52:32,740 --> 00:52:38,440
-attract his attention I threw messages to
-him. I stood at my cell window for hours.
+00:54:12,240 --> 00:54:18,880
+didn't work. The outside guard went to your office 
+to tell you and I escaped through my cell window.  
 
 631
-00:52:38,440 --> 00:52:44,210
-Sometimes I spoke to him. He told me that
-there were no electricians inside the prison.
+00:54:18,880 --> 00:54:23,840
+I stayed in the shadows until the four 
+electricians arrived. Mr Hatch was one of them.
 
 632
-00:52:44,210 --> 00:52:47,900
-If there was a problem with the lights they
-had to call the light company.
+00:54:24,480 --> 00:54:27,840
+"When I saw him he gave me some 
+workman's clothes to put on.  
 
 633
-00:52:47,900 --> 00:52:54,490
-"This was perfect for my escape plan. There
-was only one more thing to do before I escaped.
+00:54:28,480 --> 00:54:35,200
+You, Mr Warden, were standing only three metres 
+away. Then Mr Hatch called me - as a workman - and  
 
 634
-00:52:54,490 --> 00:53:00,900
-Once again I spoke to Mr Hatch through the
-pipe. It was the fourth night of my incarceration.
+00:54:35,200 --> 00:54:40,240
+together we went out of the gate to get something 
+from the van. The guard at the gate knew that  
 
 635
-00:53:00,900 --> 00:53:06,610
-Again Mr Hatch could not understand me. Again
-I repeated the word 'acid' three times. It
+00:54:40,240 --> 00:54:45,600
+there were four workers in the yard. He saw that 
+we were workers so he let us go out of the prison.  
 
 636
-00:53:06,610 --> 00:53:12,500
-was this that made the prisoner above me confess
-to murder. The guard told me the next day.
+00:54:46,320 --> 00:54:51,840
+Then we changed clothes and came back in. We went 
+to your office and asked to see you. That's all."
 
 637
-00:53:12,500 --> 00:53:16,680
-The prisoner heard strange voices through
-the pipe. He thought it was a ghost.
-
-638
-00:53:16,680 --> 00:53:22,700
-"With nitric acid it was very easy to cut
-the bars of the window. But it was a long
-
-639
-00:53:22,700 --> 00:53:29,420
-process. The outside guard saw me standing
-at my window. He didn't know what I was doing.
-
-640
-00:53:29,420 --> 00:53:34,860
-As he watched me I cut the bars with a piece
-of wire covered with acid. On the night of
-
-641
-00:53:34,860 --> 00:53:40,301
-my escape I used the same acid to cut the
-electric wire that went to the lights. The
-
-642
-00:53:40,301 --> 00:53:44,960
-yard outside my window was completely dark.
-It was easy to escape.
-
-643
-00:53:44,960 --> 00:53:51,450
-"I also had a wig from Mr Hatch. It was the
-same color as my hair. Yellow. I put it in
-
-644
-00:53:51,450 --> 00:53:55,470
-the bed with some other things that Hatch
-sent me. When the guard passed the door he
-
-645
-00:53:55,470 --> 00:53:57,010
-thought I was sleeping."
-
-646
-00:53:57,010 --> 00:54:01,320
-"But how did you get outside the prison gate,"
-asked the warden.
-
-647
-00:54:01,320 --> 00:54:06,960
-"It was simple," The Thinking Machine replied.
-"As I said. I cut the wire to the lights before
-
-648
-00:54:06,960 --> 00:54:11,810
-the guards turned on the current. When they
-turned on the current, the light on my side
-
-649
-00:54:11,810 --> 00:54:17,490
-of the yard didn't work. The outside guard
-went to your office to tell you and I escaped
-
-650
-00:54:17,490 --> 00:54:23,041
-through my cell window. I stayed in the shadows
-until the four electricians arrived. Mr Hatch
-
-651
-00:54:23,041 --> 00:54:24,250
-was one of them.
-
-652
-00:54:24,250 --> 00:54:30,180
-"When I saw him he gave me some workman's
-clothes to put on. You, Mr Warden, were standing
-
-653
-00:54:30,180 --> 00:54:36,240
-only three metres away. Then Mr Hatch called
-me - as a workman - and together we went out
-
-654
-00:54:36,240 --> 00:54:40,590
-of the gate to get something from the van.
-The guard at the gate knew that there were
-
-655
-00:54:40,590 --> 00:54:46,560
-four workers in the yard. He saw that we were
-workers so he let us go out of the prison.
-
-656
-00:54:46,560 --> 00:54:51,630
-Then we changed clothes and came back in.
-We went to your office and asked to see you.
-
-657
-00:54:51,630 --> 00:54:53,230
-That's all."
-
-658
-00:54:53,230 --> 00:54:56,850
+00:54:53,520 --> 00:54:56,400
 "And the letter of invitation?" asked Ransome.
 
-659
-00:54:56,850 --> 00:55:02,570
-"I wrote it in my cell with Mr Hatch's pen,"
-said The Thinking Machine. "Then I sent it
+638
+00:54:57,040 --> 00:54:59,600
+"I wrote it in my cell with Mr Hatch's pen,"  
 
-660
-00:55:02,570 --> 00:55:06,640
+639
+00:55:00,240 --> 00:55:05,840
+said The Thinking Machine. "Then I sent it 
 through the pipe and Mr Hatch posted it."
 
-661
-00:55:06,640 --> 00:55:12,500
-There was silence for several minutes. Dr
-Ransome was the first to speak.
+640
+00:55:06,400 --> 00:55:11,280
+There was silence for several minutes. 
+Dr Ransome was the first to speak.
 
-662
-00:55:12,500 --> 00:55:17,410
+641
+00:55:12,480 --> 00:55:16,960
 "Incredible!" he said. "Absolutely brilliant!"
 
-663
-00:55:17,410 --> 00:55:20,400
+642
+00:55:17,920 --> 00:55:19,840
 But Mr Fielding had two more questions.
 
-664
-00:55:20,400 --> 00:55:23,930
+643
+00:55:20,880 --> 00:55:23,600
 "And what was the toothpaste for?" he asked.
 
-665
-00:55:23,930 --> 00:55:25,720
+644
+00:55:24,240 --> 00:55:25,360
 "For brushing my teeth."
 
-666
-00:55:25,720 --> 00:55:29,120
+645
+00:55:26,400 --> 00:55:28,640
 "Why did Mr Hatch come with the electricians?"
 
-667
-00:55:29,120 --> 00:55:33,360
-"His father is the manager of the company,"
-said The Thinking Machine.
+646
+00:55:29,200 --> 00:55:33,520
+"His father is the manager of the 
+company," said The Thinking Machine.
 
-668
-00:55:33,360 --> 00:55:36,790
-"But what if there was no Mr Hatch outside
-to help you?"
+647
+00:55:33,520 --> 00:55:36,240
+"But what if there was no Mr 
+Hatch outside to help you?"
 
-669
-00:55:36,790 --> 00:55:41,020
-"Every prisoner has at least one friend who
-will help him if he can."
+648
+00:55:36,800 --> 00:55:40,320
+"Every prisoner has at least one 
+friend who will help him if he can."
 
-670
-00:55:41,020 --> 00:55:45,510
-"What if there was no old drainpipe in your
-cell," asked the warden.
+649
+00:55:41,200 --> 00:55:45,600
+"What if there was no old drainpipe 
+in your cell," asked the warden.
 
-671
-00:55:45,510 --> 00:55:50,010
-"There were another two ways to escape," said
-The Thinking Machine.
+650
+00:55:45,600 --> 00:55:49,280
+"There were another two ways to 
+escape," said The Thinking Machine.
 
-672
-00:55:50,010 --> 00:55:57,810
-Ten minutes later the telephone rang. It was
-for the warden.
+651
+00:55:50,320 --> 00:55:56,960
+Ten minutes later the telephone 
+rang. It was for the warden.
 
-673
-00:55:57,810 --> 00:56:04,650
-"Is the light working now?" asked the warden
-through the phone. "Good. The wire was cut
+652
+00:55:58,320 --> 00:56:04,640
+"Is the light working now?" asked the warden 
+through the phone. "Good. The wire was cut  
 
-674
-00:56:04,650 --> 00:56:13,140
-beside Cell 13? Yes I know. What's that? There
-are too many electricians. Two went out of
+653
+00:56:04,640 --> 00:56:13,200
+beside Cell 13? Yes I know. What's that? There 
+are too many electricians. Two went out of the  
 
-675
-00:56:13,140 --> 00:56:20,860
-the prison and there are three still inside.
-But only four men came from the light company."
+654
+00:56:13,200 --> 00:56:19,600
+prison and there are three still inside. But 
+only four men came from the light company."
 
-676
-00:56:20,860 --> 00:56:23,940
+655
+00:56:20,640 --> 00:56:23,120
 The warden turned to the others, confused.
 
-677
-00:56:23,940 --> 00:56:30,270
-"The guard says that he saw four electricians
-come into the prison. Two went out again.
+656
+00:56:24,240 --> 00:56:27,760
+"The guard says that he saw four 
+electricians come into the prison.  
 
-678
-00:56:30,270 --> 00:56:33,390
-But there are still three men inside," he
-said.
+657
+00:56:28,480 --> 00:56:32,800
+Two went out again. But there are 
+still three men inside," he said.
 
-679
-00:56:33,390 --> 00:56:38,650
-"Don't you remember? I was the extra man,"
-said The Thinking Machine.
+658
+00:56:33,520 --> 00:56:37,680
+"Don't you remember? I was the extra 
+man," said The Thinking Machine.
 
-680
-00:56:38,650 --> 00:56:45,360
-"Oh," said the warden. "I see." He turned
-back to the phone. "You can let the fifth
+659
+00:56:38,480 --> 00:56:40,000
+"Oh," said the warden.  
 
-681
-00:56:45,360 --> 00:57:01,580
-man go. He's all right."
+660
+00:56:40,720 --> 00:56:57,840
+"I see." He turned back to the phone. "You can 
+let the fifth man go. He's all right."
+ 
+ 
+ 
+ 
 
-682
-00:57:01,580 --> 00:57:10,510
+661
+00:56:57,840 --> 00:56:58,357
 - THE END -
 

@@ -1,1620 +1,1207 @@
 1
-00:00:00,870 --> 00:00:01,870
+00:00:00,000 --> 00:00:00,533
 CHAPTER ONE
-Blood Feuds
 
 2
-00:00:01,870 --> 00:00:06,220
-No one who has not felt it can understand
-the pain of an exile.
+00:00:00,533 --> 00:00:00,880
+Blood Feuds
 
 3
-00:00:06,220 --> 00:00:12,950
-Living in a country that is not your own,
-among people who are not your people.
+00:00:00,880 --> 00:00:03,840
+No one who has not felt it can understand the pain  
 
 4
-00:00:12,950 --> 00:00:20,330
-Always a foreigner, an outsider, someone who
-does not belong.
+00:00:03,840 --> 00:00:10,960
+of an exile. Living in a country that is not 
+your own, among people who are not your people.  
 
 5
-00:00:20,330 --> 00:00:28,320
-Two families, living in Zimbabwe, but the
-country they call home is Malawi, a country
+00:00:12,480 --> 00:00:17,840
+Always a foreigner, an outsider, 
+someone who does not belong.
 
 6
-00:00:28,320 --> 00:00:46,079
-they have not seen for nearly thirty years,
-a sad, troubled country...
+00:00:20,160 --> 00:00:26,320
+Two families, living in Zimbabwe, but 
+the country they call home is Malawi,  
 
 7
-00:00:46,079 --> 00:00:52,179
-Of course my father and Uncle Phala had their
-little disagreements.
+00:00:27,600 --> 00:00:43,840
+a country they have not seen for nearly 
+thirty years, a sad, troubled country...
 
 8
-00:00:52,179 --> 00:00:56,210
-But they were the usual ones among friends.
+00:00:45,840 --> 00:00:50,640
+Of course my father and Uncle Phala 
+had their little disagreements.  
 
 9
-00:00:56,210 --> 00:01:02,949
-Then there were all those moments of loneliness,
-of no hope at all, that everyone in exile
+00:00:51,920 --> 00:00:58,320
+But they were the usual ones among friends. 
+Then there were all those moments of loneliness,  
 
 10
-00:01:02,949 --> 00:01:04,629
-feels.
+00:00:59,120 --> 00:01:05,760
+of no hope at all, that everyone in 
+exile feels. But they always survived,  
 
 11
-00:01:04,629 --> 00:01:09,780
-But they always survived, because they missed
-home so much.
+00:01:06,480 --> 00:01:11,840
+because they missed home so much. They 
+never doubted they would return one day.
 
 12
-00:01:09,780 --> 00:01:13,980
-They never doubted they would return one day.
+00:01:13,680 --> 00:01:20,240
+That was all my father and Uncle Phala dreamed 
+about: the return to their own country.  
 
 13
-00:01:13,980 --> 00:01:21,720
-That was all my father and Uncle Phala dreamed
-about: the return to their own country.
+00:01:21,520 --> 00:01:26,160
+They talked about home all 
+the time. How they grew up.  
 
 14
-00:01:21,720 --> 00:01:24,640
-They talked about home all the time.
+00:01:26,160 --> 00:01:32,000
+The games they used to play. The schools 
+they went to, the fight for freedom.
 
 15
-00:01:24,640 --> 00:01:26,360
-How they grew up.
+00:01:33,760 --> 00:01:39,440
+'You young ones have no idea what we had 
+to do to get rid of the British,' Uncle  
 
 16
-00:01:26,360 --> 00:01:28,530
-The games they used to play.
+00:01:39,440 --> 00:01:44,960
+Phala used to tell us whenever he could. 
+He was proud of the injury to his leg,  
 
 17
-00:01:28,530 --> 00:01:32,740
-The schools they went to, the fight for freedom.
+00:01:45,840 --> 00:01:53,040
+which he said he got in a street battle against 
+the government in the 1950s. And then my father,  
 
 18
-00:01:32,740 --> 00:01:39,810
-'You young ones have no idea what we had to
-do to get rid of the British,' Uncle Phala
+00:01:53,040 --> 00:01:59,200
+of course, felt he had to show us the marks on 
+his back, which he got from beatings in prison.
 
 19
-00:01:39,810 --> 00:01:41,930
-used to tell us whenever he could.
+00:02:00,800 --> 00:02:07,040
+'I was in prison for a week,' he would 
+say proudly, 'not like others who only  
 
 20
-00:01:41,930 --> 00:01:48,700
-He was proud of the injury to his leg, which
-he said he got in a street battle against
+00:02:07,040 --> 00:02:16,080
+got injured in a fight.' Over the years his time 
+in prison became a month, six weeks, then a year.
 
 21
-00:01:48,700 --> 00:01:52,090
-the government in the 1950s.
+00:02:17,680 --> 00:02:23,680
+'Don't listen to him,' Uncle Phala 
+would answer. 'He fell out of a tree.  
 
 22
-00:01:52,090 --> 00:01:57,850
-And then my father, of course, felt he had
-to show us the marks on his back, which he
+00:02:24,320 --> 00:02:29,760
+That's how he got those marks!' And he 
+would break into a great, deep laugh.
 
 23
-00:01:57,850 --> 00:02:00,040
-got from beatings in prison.
+00:02:31,520 --> 00:02:34,880
+'Now I'll tell you how he really got his injury!'  
 
 24
-00:02:00,040 --> 00:02:07,720
-'I was in prison for a week,' he would say
-proudly, 'not like others who only got injured
-
-25
-00:02:07,720 --> 00:02:10,400
-in a fight.'
-
-26
-00:02:10,400 --> 00:02:17,370
-Over the years his time in prison became a
-month, six weeks, then a year.
-
-27
-00:02:17,370 --> 00:02:22,099
-'Don't listen to him,' Uncle Phala would answer.
-
-28
-00:02:22,099 --> 00:02:24,670
-'He fell out of a tree.
-
-29
-00:02:24,670 --> 00:02:27,069
-That's how he got those marks!'
-
-30
-00:02:27,069 --> 00:02:30,459
-And he would break into a great, deep laugh.
-
-31
-00:02:30,459 --> 00:02:35,099
-'Now I'll tell you how he really got his injury!'
-
-32
-00:02:35,099 --> 00:02:37,739
-my father would say, also laughing.
-
-33
-00:02:37,739 --> 00:02:41,250
+00:02:34,880 --> 00:02:39,120
+my father would say, also laughing. 
 And they would go on like this.
 
+25
+00:02:41,040 --> 00:02:48,160
+It wasn't just that they liked each other - it 
+was much more than that. They called each other  
+
+26
+00:02:48,160 --> 00:02:56,160
+brother. It was twelve years or more before I 
+learned that Uncle Phala was, in fact, not my  
+
+27
+00:02:56,160 --> 00:03:03,840
+real uncle. He and my father had met in the mining 
+village in Zimbabwe where I was born and grew up.
+
+28
+00:03:05,760 --> 00:03:10,720
+Their two families lived together 
+in a flat as big as a matchbox, and  
+
+29
+00:03:10,720 --> 00:03:15,840
+my brothers and sisters and I grew up and 
+went to school with Uncle Phala's children.  
+
+30
+00:03:17,200 --> 00:03:22,800
+When we finished school, I and most of my brothers 
+became miners and lived in the mining village.
+
+31
+00:03:25,120 --> 00:03:31,840
+All through their years in Zimbabwe my father 
+and Uncle Phala were involved in exile politics.  
+
+32
+00:03:33,760 --> 00:03:36,960
+It began with the mining 
+village's Home Burial Society.  
+
+33
+00:03:38,160 --> 00:03:45,840
+This helped workers from our home country in times 
+of trouble, particularly burials. Years later  
+
 34
-00:02:41,250 --> 00:02:47,230
-It wasn't just that they liked each other
-- it was much more than that.
+00:03:46,640 --> 00:03:50,480
+my father and Uncle Phala joined 
+the National Redemption Movement.  
 
 35
-00:02:47,230 --> 00:02:48,950
-They called each other brother.
+00:03:51,600 --> 00:03:56,640
+This was an organization of exiles who 
+were against the government back home.
 
 36
-00:02:48,950 --> 00:02:56,549
-It was twelve years or more before I learned
-that Uncle Phala was, in fact, not my real
+00:03:59,280 --> 00:04:06,640
+When I was a young boy, I sometimes went with my 
+father and Uncle Phala to the beer hall where the  
 
 37
-00:02:56,549 --> 00:02:57,569
-uncle.
+00:04:06,640 --> 00:04:15,040
+Movement held its meetings. They were both 
+good organizers and fine speakers. Whenever  
 
 38
-00:02:57,569 --> 00:03:04,819
-He and my father had met in the mining village
-in Zimbabwe where I was born and grew up.
+00:04:15,040 --> 00:04:22,160
+one of them rose to speak, the hall became 
+silent and people listened to every word.  
 
 39
-00:03:04,819 --> 00:03:11,709
-Their two families lived together in a flat
-as big as a matchbox, and my brothers and
+00:04:23,600 --> 00:04:32,000
+After they finished speaking, everybody would 
+clap, and I felt so proud of them. When they  
 
 40
-00:03:11,709 --> 00:03:17,540
-sisters and I grew up and went to school with
-Uncle Phala's children.
+00:04:32,000 --> 00:04:37,840
+stopped working as miners at the age of fifty, 
+they began working full-time for the Movement,  
 
 41
-00:03:17,540 --> 00:03:22,739
-When we finished school, I and most of my
-brothers became miners and lived in the mining
-
-42
-00:03:22,739 --> 00:03:25,299
-village.
-
-43
-00:03:25,299 --> 00:03:34,040
-All through their years in Zimbabwe my father
-and Uncle Phala were involved in exile politics.
-
-44
-00:03:34,040 --> 00:03:38,439
-It began with the mining village's Home Burial
-Society.
-
-45
-00:03:38,439 --> 00:03:45,510
-This helped workers from our home country
-in times of trouble, particularly burials.
-
-46
-00:03:45,510 --> 00:03:51,840
-Years later my father and Uncle Phala joined
-the National Redemption Movement.
-
-47
-00:03:51,840 --> 00:03:59,569
-This was an organization of exiles who were
-against the government back home.
-
-48
-00:03:59,569 --> 00:04:06,379
-When I was a young boy, I sometimes went with
-my father and Uncle Phala to the beer hall
-
-49
-00:04:06,379 --> 00:04:09,749
-where the Movement held its meetings.
-
-50
-00:04:09,749 --> 00:04:15,069
-They were both good organizers and fine speakers.
-
-51
-00:04:15,069 --> 00:04:22,879
-Whenever one of them rose to speak, the hall
-became silent and people listened to every
-
-52
-00:04:22,879 --> 00:04:24,030
-word.
-
-53
-00:04:24,030 --> 00:04:31,880
-After they finished speaking, everybody would
-clap, and I felt so proud of them.
-
-54
-00:04:31,880 --> 00:04:37,060
-When they stopped working as miners at the
-age of fifty, they began working full-time
-
-55
-00:04:37,060 --> 00:04:44,350
-for the Movement, which grew quickly, thanks
+00:04:38,400 --> 00:04:42,480
+which grew quickly, thanks 
 to a large exile community.
 
-56
-00:04:44,350 --> 00:04:48,879
-Over the years the news from home got worse.
+42
+00:04:44,000 --> 00:04:51,440
+Over the years the news from home got worse. 
+We heard of arrests, violence, and worse.  
 
-57
-00:04:48,879 --> 00:04:53,180
-We heard of arrests, violence, and worse.
+43
+00:04:52,960 --> 00:04:56,080
+It was not the government that 
+my father and Uncle Phala had  
 
-58
-00:04:53,180 --> 00:04:57,780
-It was not the government that my father and
-Uncle Phala had fought for when the British
+44
+00:04:56,080 --> 00:05:02,480
+fought for when the British left in the 1960s 
+and our country finally became independent.
 
-59
-00:04:57,780 --> 00:05:03,270
-left in the 1960s and our country finally
-became independent.
+45
+00:05:04,400 --> 00:05:07,440
+'In the beginning,' my father remembered,  
 
-60
-00:05:03,270 --> 00:05:10,060
-'In the beginning,' my father remembered,
-'we loved them.
+46
+00:05:08,000 --> 00:05:13,680
+'we loved them. We loved the 
+government. We thought it was ours.'
 
-61
-00:05:10,060 --> 00:05:12,229
-We loved the government.
-
-62
-00:05:12,229 --> 00:05:15,780
-We thought it was ours.'
-
-63
-00:05:15,780 --> 00:05:22,639
-I remember Uncle Phala telling us when we
+47
+00:05:15,600 --> 00:05:20,400
+I remember Uncle Phala telling us when we 
 were small about the day of independence.
 
+48
+00:05:22,320 --> 00:05:29,440
+'Everything seemed so beautiful that 
+day. The sunshine felt a little gentler,  
+
+49
+00:05:30,320 --> 00:05:39,520
+the skies were bluer, the plants were greener, 
+and the air smelled fresher. Just before midnight  
+
+50
+00:05:40,080 --> 00:05:48,320
+the British flag was taken down, and our 
+flag was raised as thousands clapped. We  
+
+51
+00:05:48,320 --> 00:05:57,120
+loved every word our leader spoke. We called 
+him "the savior" - we thought he would save us.'  
+
+52
+00:05:59,360 --> 00:06:06,080
+Like so many other people, my father and 
+Uncle Phala spent all the money they had  
+
+53
+00:06:06,080 --> 00:06:12,480
+to go to the capital for the independence 
+ceremony - a great day for our country.
+
+54
+00:06:14,320 --> 00:06:17,360
+At that time my father worked on a farm.  
+
+55
+00:06:18,880 --> 00:06:24,880
+Soon afterwards he lost his job when the farm 
+was sold to one of the new government officers  
+
+56
+00:06:25,680 --> 00:06:30,000
+who preferred to employ workers 
+from his own part of the country.  
+
+57
+00:06:31,520 --> 00:06:37,440
+Uncle Phala lost his job because he was the 
+leader of a workers' organization at his factory.  
+
+58
+00:06:38,480 --> 00:06:42,480
+The new government did not allow 
+workers' organizations any more,  
+
+59
+00:06:43,600 --> 00:06:47,840
+saying that the workers had no enemies 
+now that independence had been won.
+
+60
+00:06:49,280 --> 00:06:53,760
+So Uncle Phala and my father left 
+the country a couple of years later,  
+
+61
+00:06:54,720 --> 00:07:01,840
+as so many others had done before them, 
+to look for jobs in the mines of Zimbabwe.
+
+62
+00:07:03,840 --> 00:07:09,360
+The exiles in Zimbabwe learned to live 
+with the bad news that came from home.  
+
+63
+00:07:10,640 --> 00:07:16,640
+They would discuss it and pass it on, but it 
+was something they did not actually experience.  
+
 64
-00:05:22,639 --> 00:05:27,370
-'Everything seemed so beautiful that day.
+00:07:17,840 --> 00:07:22,560
+Although exile was painful, they 
+could hide behind it and dream,  
 
 65
-00:05:27,370 --> 00:05:35,259
-The sunshine felt a little gentler, the skies
-were bluer, the plants were greener, and the
+00:07:23,440 --> 00:07:26,160
+and avoid being responsible for their own lives.
 
 66
-00:05:35,259 --> 00:05:38,570
-air smelled fresher.
+00:07:27,520 --> 00:07:29,840
+I did not think of myself as one of them.  
 
 67
-00:05:38,570 --> 00:05:46,389
-Just before midnight the British flag was
-taken down, and our flag was raised as thousands
+00:07:31,360 --> 00:07:36,240
+Of course, I considered where my 
+parents came from as my homeland too,  
 
 68
-00:05:46,389 --> 00:05:48,090
-clapped.
+00:07:37,040 --> 00:07:44,640
+although I had never been there. But I also 
+felt strong ties to Zimbabwe, the place of my  
 
 69
-00:05:48,090 --> 00:05:52,229
-We loved every word our leader spoke.
+00:07:44,640 --> 00:07:52,400
+birth. At home we spoke my parents' language; 
+elsewhere we used one of the local languages.
 
 70
-00:05:52,229 --> 00:05:59,680
-We called him "the savior" - we thought he
-would save us.'
+00:07:54,960 --> 00:08:02,720
+I never really had to think much about my real 
+home until I was an adult. It didn't matter when  
 
 71
-00:05:59,680 --> 00:06:06,750
-Like so many other people, my father and Uncle
-Phala spent all the money they had to go to
+00:08:02,720 --> 00:08:10,800
+I was a child. Of course, the other children would 
+sometimes call us by rude names - whatever word  
 
 72
-00:06:06,750 --> 00:06:13,550
-the capital for the independence ceremony
-- a great day for our country.
+00:08:10,800 --> 00:08:18,160
+was fashionable for 'foreigners' at the time - but 
+it never mattered to me. Not so in later years.  
 
 73
-00:06:13,550 --> 00:06:19,240
-At that time my father worked on a farm.
+00:08:19,360 --> 00:08:26,800
+It was partly age, I suppose. As you grow 
+older, things seem to hurt a little deeper.
 
 74
-00:06:19,240 --> 00:06:25,789
-Soon afterwards he lost his job when the farm
-was sold to one of the new government officers
+00:08:29,920 --> 00:08:32,800
+The situation in Zimbabwe was also changing.  
 
 75
-00:06:25,789 --> 00:06:31,930
-who preferred to employ workers from his own
-part of the country.
+00:08:34,320 --> 00:08:40,640
+People began to think of themselves less 
+as Africans and more as Zimbabweans.  
 
 76
-00:06:31,930 --> 00:06:38,730
-Uncle Phala lost his job because he was the
-leader of a workers' organization at his factory.
+00:08:41,920 --> 00:08:47,360
+We became 'foreigners', even those 
+of us who were born in Zimbabwe,  
 
 77
-00:06:38,730 --> 00:06:44,800
-The new government did not allow workers'
-organizations any more, saying that the workers
+00:08:48,240 --> 00:08:53,840
+when it came to giving out jobs and to finding 
+someone to blame for the nation's problems.
 
 78
-00:06:44,800 --> 00:06:49,500
-had no enemies now that independence had been
-won.
+00:08:55,360 --> 00:08:59,840
+That is when I became more involved 
+in the National Redemption Movement.  
 
 79
-00:06:49,500 --> 00:06:56,080
-So Uncle Phala and my father left the country
-a couple of years later, as so many others
+00:09:01,280 --> 00:09:07,840
+Slowly, our community turned inward, 
+and as far as possible we kept together,  
 
 80
-00:06:56,080 --> 00:07:04,039
-had done before them, to look for jobs in
-the mines of Zimbabwe.
+00:09:08,880 --> 00:09:12,320
+helped one another, and married among ourselves.
 
 81
-00:07:04,039 --> 00:07:10,860
-The exiles in Zimbabwe learned to live with
-the bad news that came from home.
+00:09:14,320 --> 00:09:22,160
+I married Uncle Phala's eldest daughter, 
+Mwali, which pleased both our parents greatly.  
 
 82
-00:07:10,860 --> 00:07:18,250
-They would discuss it and pass it on, but
-it was something they did not actually experience.
+00:09:22,160 --> 00:09:28,800
+'We are now real brothers!' the two men 
+told everyone at the wedding ceremony.
 
 83
-00:07:18,250 --> 00:07:25,070
-Although exile was painful, they could hide
-behind it and dream, and avoid being responsible
+00:09:31,040 --> 00:09:38,320
+I began to miss my homeland as much as my father 
+and Uncle Phala did. I wanted to know more  
 
 84
-00:07:25,070 --> 00:07:26,070
-for their own lives.
+00:09:38,320 --> 00:09:47,520
+about it. So I asked questions; I searched for 
+information in books, newspapers, and magazines.  
 
 85
-00:07:26,070 --> 00:07:31,550
-I did not think of myself as one of them.
+00:09:49,280 --> 00:09:57,600
+I dreamed of the shining lake with its golden 
+sand beaches, the rivers, hills, and mountains,  
 
 86
-00:07:31,550 --> 00:07:38,110
-Of course, I considered where my parents came
-from as my homeland too, although I had never
+00:09:58,320 --> 00:10:05,680
+and the cool green highlands. A land, as 
+my father and Uncle Phala remembered it,  
 
 87
-00:07:38,110 --> 00:07:40,300
-been there.
+00:10:06,320 --> 00:10:13,120
+of tidy villages, handsome cities, 
+safe streets, and smiling faces.  
 
 88
-00:07:40,300 --> 00:07:45,699
-But I also felt strong ties to Zimbabwe, the
-place of my birth.
+00:10:14,800 --> 00:10:19,520
+Not this dry, empty land that 
+was only good for exiles.
 
 89
-00:07:45,699 --> 00:07:55,080
-At home we spoke my parents' language; elsewhere
-we used one of the local languages.
+00:10:21,280 --> 00:10:27,040
+We hoped and dreamed. In 
+the meantime I grew older.  
 
 90
-00:07:55,080 --> 00:08:02,000
-I never really had to think much about my
-real home until I was an adult.
+00:10:28,080 --> 00:10:35,200
+I had three children. My father and Uncle Phala 
+began to look like the grandfathers they were.  
 
 91
-00:08:02,000 --> 00:08:04,949
-It didn't matter when I was a child.
+00:10:36,640 --> 00:10:43,120
+They continued to be involved in the Movement, 
+but the situation in our homeland stayed the same.  
 
 92
-00:08:04,949 --> 00:08:11,009
-Of course, the other children would sometimes
-call us by rude names - whatever word was
+00:10:44,880 --> 00:10:46,800
+None of us thought it would change soon,  
 
 93
-00:08:11,009 --> 00:08:17,240
-fashionable for 'foreigners' at the time - but
-it never mattered to me.
+00:10:47,840 --> 00:10:50,880
+although we did not doubt that 
+change would come in the end.  
 
 94
-00:08:17,240 --> 00:08:19,610
-Not so in later years.
-
-95
-00:08:19,610 --> 00:08:22,719
-It was partly age, I suppose.
-
-96
-00:08:22,719 --> 00:08:30,120
-As you grow older, things seem to hurt a little
-deeper.
-
-97
-00:08:30,120 --> 00:08:34,710
-The situation in Zimbabwe was also changing.
-
-98
-00:08:34,710 --> 00:08:42,139
-People began to think of themselves less as
-Africans and more as Zimbabweans.
-
-99
-00:08:42,139 --> 00:08:49,370
-We became 'foreigners', even those of us who
-were born in Zimbabwe, when it came to giving
-
-100
-00:08:49,370 --> 00:08:55,630
-out jobs and to finding someone to blame for
-the nation's problems.
-
-101
-00:08:55,630 --> 00:09:01,279
-That is when I became more involved in the
-National Redemption Movement.
-
-102
-00:09:01,279 --> 00:09:09,889
-Slowly, our community turned inward, and as
-far as possible we kept together, helped one
-
-103
-00:09:09,889 --> 00:09:13,480
-another, and married among ourselves.
-
-104
-00:09:13,480 --> 00:09:21,450
-I married Uncle Phala's eldest daughter, Mwali,
-which pleased both our parents greatly.
-
-105
-00:09:21,450 --> 00:09:25,750
-'We are now real brothers!'
-
-106
-00:09:25,750 --> 00:09:31,190
-the two men told everyone at the wedding ceremony.
-
-107
-00:09:31,190 --> 00:09:37,180
-I began to miss my homeland as much as my
-father and Uncle Phala did.
-
-108
-00:09:37,180 --> 00:09:40,470
-I wanted to know more about it.
-
-109
-00:09:40,470 --> 00:09:49,399
-So I asked questions; I searched for information
-in books, newspapers, and magazines.
-
-110
-00:09:49,399 --> 00:09:58,610
-I dreamed of the shining lake with its golden
-sand beaches, the rivers, hills, and mountains,
-
-111
-00:09:58,610 --> 00:10:01,080
-and the cool green highlands.
-
-112
-00:10:01,080 --> 00:10:10,680
-A land, as my father and Uncle Phala remembered
-it, of tidy villages, handsome cities, safe
-
-113
-00:10:10,680 --> 00:10:15,100
-streets, and smiling faces.
-
-114
-00:10:15,100 --> 00:10:21,450
-Not this dry, empty land that was only good
-for exiles.
-
-115
-00:10:21,450 --> 00:10:24,839
-We hoped and dreamed.
-
-116
-00:10:24,839 --> 00:10:28,199
-In the meantime I grew older.
-
-117
-00:10:28,199 --> 00:10:30,600
-I had three children.
-
-118
-00:10:30,600 --> 00:10:36,870
-My father and Uncle Phala began to look like
-the grandfathers they were.
-
-119
-00:10:36,870 --> 00:10:43,940
-They continued to be involved in the Movement,
-but the situation in our homeland stayed the
-
-120
-00:10:43,940 --> 00:10:45,140
-same.
-
-121
-00:10:45,140 --> 00:10:50,370
-None of us thought it would change soon, although
-we did not doubt that change would come in
-
-122
-00:10:50,370 --> 00:10:52,350
-the end.
-
-123
-00:10:52,350 --> 00:11:02,150
-Nobody imagined how quickly the thirty-year-old
+00:10:52,160 --> 00:10:59,840
+Nobody imagined how quickly the thirty-year-old 
 regime would fall a few years later.
 
-124
-00:11:02,150 --> 00:11:08,149
-People had been unhappy for years, of course,
-but it was the church leaders who brought
+95
+00:11:01,760 --> 00:11:08,800
+People had been unhappy for years, of course, but 
+it was the church leaders who brought it into the  
 
-125
-00:11:08,149 --> 00:11:11,060
-it into the open.
+96
+00:11:08,800 --> 00:11:17,120
+open. One Easter Sunday the priests read out 
+a letter in churches throughout the country.  
 
-126
-00:11:11,060 --> 00:11:19,600
-One Easter Sunday the priests read out a letter
-in churches throughout the country.
+97
+00:11:19,360 --> 00:11:26,240
+The letter did not ask for anything unusual, 
+just simple things like respect for the law,  
 
-127
-00:11:19,600 --> 00:11:27,420
-The letter did not ask for anything unusual,
-just simple things like respect for the law,
+98
+00:11:27,120 --> 00:11:30,800
+freedom for political prisoners, 
+food for the hungry...  
 
-128
-00:11:27,420 --> 00:11:31,740
-freedom for political prisoners, food for
-the hungry...
+99
+00:11:32,640 --> 00:11:42,000
+But the letter hit the country like a bomb. No 
+one had ever demanded these things openly before.  
 
-129
-00:11:31,740 --> 00:11:37,380
-But the letter hit the country like a bomb.
+100
+00:11:42,000 --> 00:11:46,960
+Some church leaders were arrested 
+and terrible warnings were given.
 
-130
-00:11:37,380 --> 00:11:42,329
-No one had ever demanded these things openly
-before.
+101
+00:11:49,520 --> 00:11:56,560
+But it was too late. The students, 
+young and impatient, joined the fight.  
 
-131
-00:11:42,329 --> 00:11:49,820
-Some church leaders were arrested and terrible
-warnings were given.
+102
+00:11:58,080 --> 00:12:04,800
+'Give us free elections!' they demanded. 
+'Let political prisoners go free!'  
 
-132
-00:11:49,820 --> 00:11:52,310
-But it was too late.
+103
+00:12:06,560 --> 00:12:11,520
+The universities and colleges were 
+closed and the students were sent home.  
 
-133
-00:11:52,310 --> 00:11:58,370
-The students, young and impatient, joined
-the fight.
-
-134
-00:11:58,370 --> 00:12:01,110
-'Give us free elections!'
-
-135
-00:12:01,110 --> 00:12:02,880
-they demanded.
-
-136
-00:12:02,880 --> 00:12:05,779
-'Let political prisoners go free!'
-
-137
-00:12:05,779 --> 00:12:13,610
-The universities and colleges were closed
-and the students were sent home.
-
-138
-00:12:13,610 --> 00:12:21,420
-That only made things worse, because the students
+104
+00:12:13,280 --> 00:12:18,960
+That only made things worse, because the students 
 took the message back to their home towns.
 
-139
-00:12:21,420 --> 00:12:23,940
-Then the workers joined the battle.
+105
+00:12:21,120 --> 00:12:29,280
+Then the workers joined the battle. They 
+stopped work, demanding better pay. The police  
 
-140
-00:12:23,940 --> 00:12:28,690
-They stopped work, demanding better pay.
+106
+00:12:29,280 --> 00:12:35,440
+tried to break up one protest march, but they 
+only succeeded in shooting hundreds of workers  
 
-141
-00:12:28,690 --> 00:12:34,870
-The police tried to break up one protest march,
-but they only succeeded in shooting hundreds
+107
+00:12:36,320 --> 00:12:43,520
+and starting angry protests all over the 
+country. Even foreign governments and banks  
 
-142
-00:12:34,870 --> 00:12:41,440
-of workers and starting angry protests all
-over the country.
+108
+00:12:44,080 --> 00:12:49,440
+began to talk about sending no more 
+money to a regime that had lost control.
 
-143
-00:12:41,440 --> 00:12:48,259
-Even foreign governments and banks began to
-talk about sending no more money to a regime
+109
+00:12:51,440 --> 00:13:00,320
+I had never seen my father and Uncle Phala so 
+excited. They had the radio and television on all  
 
-144
-00:12:48,259 --> 00:12:51,720
-that had lost control.
+110
+00:13:00,320 --> 00:13:08,720
+the time, following the news from home. For some 
+reason I was not as excited as I had expected.  
 
-145
-00:12:51,720 --> 00:12:58,000
-I had never seen my father and Uncle Phala
-so excited.
+111
+00:13:10,080 --> 00:13:16,000
+I had become so used to hoping and dreaming 
+that the possibility of return frightened me.  
 
-146
-00:12:58,000 --> 00:13:04,730
-They had the radio and television on all the
-time, following the news from home.
+112
+00:13:17,360 --> 00:13:21,840
+Exile had always been my life. It was all I knew.
 
-147
-00:13:04,730 --> 00:13:10,240
-For some reason I was not as excited as I
-had expected.
+113
+00:13:24,960 --> 00:13:26,960
+Other things made me uneasy too.  
 
-148
-00:13:10,240 --> 00:13:15,850
-I had become so used to hoping and dreaming
-that the possibility of return frightened
+114
+00:13:28,560 --> 00:13:35,440
+Our community of exiles began to break into 
+two groups: those who wanted to return,  
 
-149
-00:13:15,850 --> 00:13:17,910
-me.
+115
+00:13:36,400 --> 00:13:43,200
+and those who were not so enthusiastic. The 
+same disagreements were seen in families,  
 
-150
-00:13:17,910 --> 00:13:20,680
-Exile had always been my life.
+116
+00:13:44,160 --> 00:13:52,800
+and before long in the Movement itself. 
+At our yearly meeting there were so many  
 
-151
-00:13:20,680 --> 00:13:24,279
-It was all I knew.
+117
+00:13:52,800 --> 00:14:01,840
+arguments that by the end the Movement had broken 
+into three separate groups. It was sad to watch.
 
-152
-00:13:24,279 --> 00:13:27,949
-Other things made me uneasy too.
+118
+00:14:04,240 --> 00:14:11,680
+Nothing prepared me for what was waiting for us 
+in our dear homeland. It was certainly beautiful,  
 
-153
-00:13:27,949 --> 00:13:36,730
-Our community of exiles began to break into
-two groups: those who wanted to return, and
+119
+00:14:12,640 --> 00:14:24,320
+but that was all. We went first to my father's 
+village. I was disappointed. It was nothing more  
 
-154
-00:13:36,730 --> 00:13:39,170
-those who were not so enthusiastic.
+120
+00:14:24,320 --> 00:14:31,040
+than a group of rough mud houses. I met some 
+of my uncles and aunts for the first time.  
 
-155
-00:13:39,170 --> 00:13:50,000
-The same disagreements were seen in families,
-and before long in the Movement itself.
+121
+00:14:32,800 --> 00:14:38,080
+They all looked much older than my father, 
+although they were younger than he was.  
 
-156
-00:13:50,000 --> 00:13:56,649
-At our yearly meeting there were so many arguments
-that by the end the Movement had broken into
+122
+00:14:39,680 --> 00:14:44,640
+They were nice and friendly, but 
+that was all they could offer us.  
 
-157
-00:13:56,649 --> 00:13:59,660
-three separate groups.
+123
+00:14:46,000 --> 00:14:50,320
+It was the same at my mother's 
+village, which was a few miles away.
 
-158
-00:13:59,660 --> 00:14:04,670
-It was sad to watch.
+124
+00:14:52,400 --> 00:14:58,720
+I felt like a stranger. Our 
+relations called us machona,  
 
-159
-00:14:04,670 --> 00:14:10,320
-Nothing prepared me for what was waiting for
-us in our dear homeland.
+125
+00:14:59,520 --> 00:15:06,720
+meaning the long lost people. As machona, 
+we were expected to bring endless presents,  
 
-160
-00:14:10,320 --> 00:14:16,389
-It was certainly beautiful, but that was all.
+126
+00:15:08,160 --> 00:15:14,480
+far more than the workers who returned every 
+two years or so, carrying huge suitcases full  
 
-161
-00:14:16,389 --> 00:14:20,290
-We went first to my father's village.
+127
+00:15:14,480 --> 00:15:23,120
+of gifts for their relations - clothes, 
+blankets, radios, watches, sunglasses...  
 
-162
-00:14:20,290 --> 00:14:23,460
-I was disappointed.
+128
+00:15:25,120 --> 00:15:32,720
+For a couple of months they would live like 
+chiefs. Then, when all their money had gone,  
 
-163
-00:14:23,460 --> 00:14:27,860
-It was nothing more than a group of rough
-mud houses.
+129
+00:15:33,600 --> 00:15:41,120
+they would leave for Zimbabwe once 
+again. But we disappointed our relations.  
 
-164
-00:14:27,860 --> 00:14:31,730
-I met some of my uncles and aunts for the
-first time.
-
-165
-00:14:31,730 --> 00:14:39,889
-They all looked much older than my father,
-although they were younger than he was.
-
-166
-00:14:39,889 --> 00:14:46,209
-They were nice and friendly, but that was
-all they could offer us.
-
-167
-00:14:46,209 --> 00:14:52,490
-It was the same at my mother's village, which
-was a few miles away.
-
-168
-00:14:52,490 --> 00:14:56,620
-I felt like a stranger.
-
-169
-00:14:56,620 --> 00:15:02,579
-Our relations called us machona, meaning the
-long lost people.
-
-170
-00:15:02,579 --> 00:15:10,360
-As machona, we were expected to bring endless
-presents, far more than the workers who returned
-
-171
-00:15:10,360 --> 00:15:18,950
-every two years or so, carrying huge suitcases
-full of gifts for their relations - clothes,
-
-172
-00:15:18,950 --> 00:15:25,380
-blankets, radios, watches, sunglasses...
-
-173
-00:15:25,380 --> 00:15:29,570
-For a couple of months they would live like
-chiefs.
-
-174
-00:15:29,570 --> 00:15:38,110
-Then, when all their money had gone, they
-would leave for Zimbabwe once again.
-
-175
-00:15:38,110 --> 00:15:42,540
-But we disappointed our relations.
-
-176
-00:15:42,540 --> 00:15:50,970
-I suspected that this was one of the reasons
+130
+00:15:42,400 --> 00:15:47,440
+I suspected that this was one of the reasons 
 that my father had not returned for so long.
 
-177
-00:15:50,970 --> 00:15:59,199
-I also began to understand that my own people
-were no different from the people of Zimbabwe,
+131
+00:15:50,800 --> 00:15:57,920
+I also began to understand that my own people 
+were no different from the people of Zimbabwe,  
 
-178
-00:15:59,199 --> 00:16:05,190
-who had many arguments and fights between
-their different ethnic groups.
+132
+00:15:59,040 --> 00:16:06,160
+who had many arguments and fights between 
+their different ethnic groups. We were proud  
 
-179
-00:16:05,190 --> 00:16:11,449
-We were proud that our community of exiles
-in the mining village had no silly ethnic
+133
+00:16:06,160 --> 00:16:12,800
+that our community of exiles in the mining village 
+had no silly ethnic arguments of that kind,  
 
-180
-00:16:11,449 --> 00:16:17,970
-arguments of that kind, although we had people
-who came from different places and ethnic
+134
+00:16:13,840 --> 00:16:19,120
+although we had people who came from different 
+places and ethnic groups in the homeland.  
 
-181
-00:16:17,970 --> 00:16:21,250
-groups in the homeland.
+135
+00:16:21,040 --> 00:16:27,200
+My father, for example, was from the 
+south, and Uncle Phala from the north.  
 
-182
-00:16:21,250 --> 00:16:28,790
-My father, for example, was from the south,
-and Uncle Phala from the north.
+136
+00:16:28,480 --> 00:16:35,840
+But back in our own country I heard 
+the same sad, silly arguments.
 
-183
-00:16:28,790 --> 00:16:36,970
-But back in our own country I heard the same
-sad, silly arguments.
+137
+00:16:36,800 --> 00:16:44,720
+In fact, it was more serious than 
+that. All our politicians, old and new,  
 
-184
-00:16:36,970 --> 00:16:41,709
-In fact, it was more serious than that.
+138
+00:16:45,360 --> 00:16:49,840
+seemed to want to make trouble 
+between the different ethnic groups.  
 
-185
-00:16:41,709 --> 00:16:48,350
-All our politicians, old and new, seemed to
-want to make trouble between the different
+139
+00:16:50,560 --> 00:16:58,240
+Perhaps this was because no political party had 
+any real ideas or plans for our country's future.
 
-186
-00:16:48,350 --> 00:16:50,760
-ethnic groups.
+140
+00:17:01,120 --> 00:17:07,360
+My father, of course, soon got 
+involved in politics. At first  
 
-187
-00:16:50,760 --> 00:16:57,959
-Perhaps this was because no political party
-had any real ideas or plans for our country's
+141
+00:17:08,240 --> 00:17:13,200
+he was busy trying to start a business with 
+the money he had brought back from Zimbabwe.  
 
-188
-00:16:57,959 --> 00:17:01,300
-future.
+142
+00:17:14,640 --> 00:17:18,400
+Then someone asked him to be a 
+leader of one of the local parties.  
 
-189
-00:17:01,300 --> 00:17:06,990
-My father, of course, soon got involved in
-politics.
+143
+00:17:20,000 --> 00:17:26,880
+He said no at first, but I think that was only 
+because he did not want to seem too enthusiastic.
 
-190
-00:17:06,990 --> 00:17:14,910
-At first he was busy trying to start a business
-with the money he had brought back from Zimbabwe.
+144
+00:17:29,920 --> 00:17:38,960
+'Well, I have to do what is best for my people,' 
+he said in the end. 'They need a man of my  
 
-191
-00:17:14,910 --> 00:17:20,270
-Then someone asked him to be a leader of one
-of the local parties.
+145
+00:17:38,960 --> 00:17:47,840
+experience for leadership.' It was good for his 
+business. Many of the local businesses here in  
 
-192
-00:17:20,270 --> 00:17:28,690
-He said no at first, but I think that was
-only because he did not want to seem too enthusiastic.
+146
+00:17:47,840 --> 00:17:54,960
+the south were owned by northerners, and people 
+were beginning to dislike this more and more.
 
-193
-00:17:28,690 --> 00:17:36,740
-'Well, I have to do what is best for my people,'
-he said in the end.
+147
+00:17:56,880 --> 00:18:05,200
+A few weeks later I went north with my family 
+to visit Uncle Phala. We were well received.  
 
-194
-00:17:36,740 --> 00:17:43,010
-'They need a man of my experience for leadership.'
+148
+00:18:06,480 --> 00:18:09,760
+Uncle Phala proudly introduced 
+me to his relations.  
 
-195
-00:17:43,010 --> 00:17:46,070
-It was good for his business.
+149
+00:18:11,120 --> 00:18:18,080
+I liked his village better than my father's. 
+The place and the people seemed less miserable.  
 
-196
-00:17:46,070 --> 00:17:52,650
-Many of the local businesses here in the south
-were owned by northerners, and people were
+150
+00:18:19,600 --> 00:18:26,000
+Mwali and I decided to make our home 
+there and start a business. I bought  
 
-197
-00:17:52,650 --> 00:17:56,200
-beginning to dislike this more and more.
+151
+00:18:26,000 --> 00:18:32,560
+two lorries to take fish from the lake to 
+the capital. It would make me a lot of money.
 
-198
-00:17:56,200 --> 00:18:04,110
-A few weeks later I went north with my family
-to visit Uncle Phala.
+152
+00:18:34,880 --> 00:18:39,360
+My father was not pleased with my 
+plan when I returned for a visit.  
 
-199
-00:18:04,110 --> 00:18:06,860
-We were well received.
-
-200
-00:18:06,860 --> 00:18:11,220
-Uncle Phala proudly introduced me to his relations.
-
-201
-00:18:11,220 --> 00:18:14,270
-I liked his village better than my father's.
-
-202
-00:18:14,270 --> 00:18:20,020
-The place and the people seemed less miserable.
-
-203
-00:18:20,020 --> 00:18:25,450
-Mwali and I decided to make our home there
-and start a business.
-
-204
-00:18:25,450 --> 00:18:30,900
-I bought two lorries to take fish from the
-lake to the capital.
-
-205
-00:18:30,900 --> 00:18:35,070
-It would make me a lot of money.
-
-206
-00:18:35,070 --> 00:18:40,940
-My father was not pleased with my plan when
-I returned for a visit.
-
-207
-00:18:40,940 --> 00:18:44,250
+153
+00:18:40,720 --> 00:18:43,680
 He said I was turning my back on my people.
 
-208
-00:18:44,250 --> 00:18:51,610
-'But Father,' I protested, 'we're living with
-Uncle Phala.
+154
+00:18:45,040 --> 00:18:53,600
+'But Father,' I protested, 'we're living with 
+Uncle Phala. He's your "brother", remember?'
 
-209
-00:18:51,610 --> 00:18:54,610
-He's your "brother", remember?'
-
-210
-00:18:54,610 --> 00:18:58,490
-'Uncle Phala is all right.
-
-211
-00:18:58,490 --> 00:18:59,880
+155
+00:18:55,360 --> 00:18:59,760
+'Uncle Phala is all right. 
 It's his people who aren't.'
 
-212
-00:18:59,880 --> 00:19:08,030
-'I can't believe you, of all people, saying
-that.'
+156
+00:19:00,880 --> 00:19:05,440
+'I can't believe you, of all people, saying that.'
 
-213
-00:19:08,030 --> 00:19:13,020
-I did not tell Uncle Phala about my father's
-opinions.
+157
+00:19:07,840 --> 00:19:11,600
+I did not tell Uncle Phala 
+about my father's opinions.  
 
-214
-00:19:13,020 --> 00:19:16,820
+158
+00:19:12,800 --> 00:19:15,680
 He was pleased that we had decided to stay.
 
-215
-00:19:16,820 --> 00:19:19,880
-'You're my favourite son.
+159
+00:19:17,520 --> 00:19:26,320
+'You're my favourite son. You've been good to 
+my daughter.' Uncle Phala did not have a son.  
 
-216
-00:19:19,880 --> 00:19:24,620
-You've been good to my daughter.'
-
-217
-00:19:24,620 --> 00:19:27,820
-Uncle Phala did not have a son.
-
-218
-00:19:27,820 --> 00:19:32,659
+160
+00:19:27,600 --> 00:19:29,920
 All of his eight children were girls.
 
-219
-00:19:32,659 --> 00:19:39,690
-Like my father, he had also started a business,
-which was doing quite well.
+161
+00:19:32,400 --> 00:19:35,760
+Like my father, he had also started a business,  
 
-220
-00:19:39,690 --> 00:19:46,070
-Before long he, too, was asked to join a leading
-local political party.
+162
+00:19:36,480 --> 00:19:44,160
+which was doing quite well. Before long he, too, 
+was asked to join a leading local political party.  
 
-221
-00:19:46,070 --> 00:19:53,100
-And like his 'brother', he waited for a while
-before he agreed.
+163
+00:19:45,680 --> 00:19:51,840
+And like his 'brother', he waited 
+for a while before he agreed.
 
-222
-00:19:53,100 --> 00:20:01,750
-And so the two most important men in my life
-became caught in the new politics.
+164
+00:19:52,800 --> 00:19:59,520
+And so the two most important men in my 
+life became caught in the new politics.  
 
-223
-00:20:01,750 --> 00:20:09,450
-Each party tried to organize bigger meetings,
-bigger marches than the others; no one discussed
+165
+00:20:01,440 --> 00:20:09,440
+Each party tried to organize bigger meetings, 
+bigger marches than the others; no one discussed  
 
-224
-00:20:09,450 --> 00:20:12,620
-plans for government.
+166
+00:20:09,440 --> 00:20:16,320
+plans for government. Political prisoners, 
+locked up in prison, were almost forgotten,  
 
-225
-00:20:12,620 --> 00:20:20,370
-Political prisoners, locked up in prison,
-were almost forgotten, except by their mothers.
+167
+00:20:17,360 --> 00:20:23,120
+except by their mothers. And no 
+party called for national discussions  
 
-226
-00:20:20,370 --> 00:20:27,470
-And no party called for national discussions
-on how to bring good government to our poor,
+168
+00:20:23,120 --> 00:20:27,600
+on how to bring good government to 
+our poor, weak, unhappy country.
 
-227
-00:20:27,470 --> 00:20:30,160
-weak, unhappy country.
+169
+00:20:29,920 --> 00:20:34,400
+It was difficult not to be part 
+of the noisy business of politics,  
 
-228
-00:20:30,160 --> 00:20:36,740
-It was difficult not to be part of the noisy
-business of politics, but I tried to stay
+170
+00:20:35,440 --> 00:20:41,520
+but I tried to stay out of it. I 
+missed the quieter politics of exile.  
 
-229
-00:20:36,740 --> 00:20:39,030
-out of it.
+171
+00:20:42,960 --> 00:20:51,120
+Here there was no hoping, no dreaming - it 
+was all rough and real. Too rough, in fact.
 
-230
-00:20:39,030 --> 00:20:43,240
-I missed the quieter politics of exile.
+172
+00:20:53,680 --> 00:20:57,600
+A couple of months before the elections 
+were held for a new government,  
 
-231
-00:20:43,240 --> 00:20:50,370
-Here there was no hoping, no dreaming - it
-was all rough and real.
+173
+00:20:58,720 --> 00:21:07,360
+violence broke out. It was not clear who 
+started it. Northerners accused southerners,  
 
-232
-00:20:50,370 --> 00:20:53,809
-Too rough, in fact.
+174
+00:21:08,240 --> 00:21:16,960
+and southerners accused northerners. Both sides 
+chased the 'foreigners', the outsiders, living  
 
-233
-00:20:53,809 --> 00:20:59,870
-A couple of months before the elections were
-held for a new government, violence broke
+175
+00:21:16,960 --> 00:21:24,000
+among them. Church leaders and others blamed 
+the government for making the troubles worse.  
 
-234
-00:20:59,870 --> 00:21:01,900
-out.
+176
+00:21:25,440 --> 00:21:29,840
+The government, of course, said 
+that they were not responsible.
 
-235
-00:21:01,900 --> 00:21:05,760
-It was not clear who started it.
+177
+00:21:31,280 --> 00:21:38,880
+Our "savior", now a very sick old man, 
+said the violence proved he was right.  
 
-236
-00:21:05,760 --> 00:21:12,490
-Northerners accused southerners, and southerners
-accused northerners.
-
-237
-00:21:12,490 --> 00:21:19,419
-Both sides chased the 'foreigners', the outsiders,
-living among them.
-
-238
-00:21:19,419 --> 00:21:25,650
-Church leaders and others blamed the government
-for making the troubles worse.
-
-239
-00:21:25,650 --> 00:21:31,640
-The government, of course, said that they
-were not responsible.
-
-240
-00:21:31,640 --> 00:21:39,520
-Our "savior", now a very sick old man, said
-the violence proved he was right.
-
-241
-00:21:39,520 --> 00:21:49,600
-It showed that party politics and elections
+178
+00:21:40,080 --> 00:21:46,960
+It showed that party politics and elections 
 were as foreign to the country as winter.
 
-242
-00:21:49,600 --> 00:21:55,610
-One morning we were woken by a noise like
-a bomb exploding.
+179
+00:21:49,280 --> 00:21:59,200
+One morning we were woken by a noise like a bomb 
+exploding. We looked out of the window. My lorries  
 
-243
-00:21:55,610 --> 00:21:58,440
-We looked out of the window.
+180
+00:21:59,200 --> 00:22:09,280
+were on fire. We all knew why, but we blamed 
+thieves for it. It was less painful that way.  
 
-244
-00:21:58,440 --> 00:22:02,179
-My lorries were on fire.
+181
+00:22:10,560 --> 00:22:17,520
+We were trying to keep the hopes and dreams 
+of exile alive, but we could not hide from  
 
-245
-00:22:02,179 --> 00:22:07,590
-We all knew why, but we blamed thieves for
-it.
+182
+00:22:17,520 --> 00:22:26,160
+the real world any longer. That evening 
+Uncle Phala spoke what was on our minds.
 
-246
-00:22:07,590 --> 00:22:10,770
-It was less painful that way.
+183
+00:22:28,240 --> 00:22:32,560
+'You're not safe here. Maybe you should go home.'
 
-247
-00:22:10,770 --> 00:22:17,600
-We were trying to keep the hopes and dreams
-of exile alive, but we could not hide from
+184
+00:22:34,720 --> 00:22:40,880
+'I thought I was home,' I said, 
+more in sadness than in anger.
 
-248
-00:22:17,600 --> 00:22:21,460
-the real world any longer.
+185
+00:22:42,640 --> 00:22:48,720
+'So did I. This isn't the country your 
+father and I left thirty years ago.  
 
-249
-00:22:21,460 --> 00:22:28,580
-That evening Uncle Phala spoke what was on
-our minds.
+186
+00:22:50,400 --> 00:22:57,600
+They've changed it into something else, 
+something terrible, that will eat us alive  
 
-250
-00:22:28,580 --> 00:22:31,420
-'You're not safe here.
+187
+00:22:57,600 --> 00:23:03,280
+if we aren't careful.' For the 
+first time he looked very old.
 
-251
-00:22:31,420 --> 00:22:33,539
-Maybe you should go home.'
-
-252
-00:22:33,539 --> 00:22:42,870
-'I thought I was home,' I said, more in sadness
-than in anger.
-
-253
-00:22:42,870 --> 00:22:45,650
-'So did I.
-
-254
-00:22:45,650 --> 00:22:50,590
-This isn't the country your father and I left
-thirty years ago.
-
-255
-00:22:50,590 --> 00:22:58,409
-They've changed it into something else, something
-terrible, that will eat us alive if we aren't
-
-256
-00:22:58,409 --> 00:23:00,470
-careful.'
-
-257
-00:23:00,470 --> 00:23:04,760
-For the first time he looked very old.
-
-258
-00:23:04,760 --> 00:23:09,260
+188
+00:23:05,440 --> 00:23:07,840
 'We'll be out of here as soon as we can.'
 
-259
-00:23:09,260 --> 00:23:13,179
-'No, you'll go alone.
+189
+00:23:09,520 --> 00:23:18,160
+'No, you'll go alone. Mwali and the children 
+will be as unsafe in your home as you are here.'
 
-260
-00:23:13,179 --> 00:23:19,000
-Mwali and the children will be as unsafe in
-your home as you are here.'
-
-261
-00:23:19,000 --> 00:23:24,200
+190
+00:23:19,600 --> 00:23:21,840
 'But I can't leave my family behind.'
 
-262
-00:23:24,200 --> 00:23:31,080
-'It's for their own good, and for your own
-good too,' he said sadly.
+191
+00:23:23,920 --> 00:23:31,440
+'It's for their own good, and for your own 
+good too,' he said sadly. 'Believe me.'
 
-263
-00:23:31,080 --> 00:23:34,170
-'Believe me.'
+192
+00:23:33,840 --> 00:23:40,880
+'It's not right,' I said 
+softly. 'It's just not right.'
 
-264
-00:23:34,170 --> 00:23:38,929
-'It's not right,' I said softly.
+193
+00:23:43,200 --> 00:23:49,840
+He did not look at Mwali or me, 
+but I could see that he agreed.
 
-265
-00:23:38,929 --> 00:23:43,450
-'It's just not right.'
+194
+00:23:49,840 --> 00:23:54,240
+Mwali and I spent a sleepless 
+night discussing the matter.  
 
-266
-00:23:43,450 --> 00:23:50,490
-He did not look at Mwali or me, but I could
-see that he agreed.
+195
+00:23:55,680 --> 00:24:03,840
+We decided that we would either stay together 
+or leave together. Nothing would separate us.
 
-267
-00:23:50,490 --> 00:23:55,880
-Mwali and I spent a sleepless night discussing
-the matter.
+196
+00:24:06,160 --> 00:24:13,200
+But we did not have time to tell Uncle Phala what 
+we had decided, because early the next morning  
 
-268
-00:23:55,880 --> 00:24:01,840
-We decided that we would either stay together
-or leave together.
+197
+00:24:13,920 --> 00:24:17,840
+we heard a large crowd shouting excitedly outside.
 
-269
-00:24:01,840 --> 00:24:06,500
-Nothing would separate us.
+198
+00:24:18,880 --> 00:24:25,680
+'We want the southerner!' they screamed. 'We 
+want the southerner! Give us the southerner!'
 
-270
-00:24:06,500 --> 00:24:12,809
-But we did not have time to tell Uncle Phala
-what we had decided, because early the next
-
-271
-00:24:12,809 --> 00:24:17,810
-morning we heard a large crowd shouting excitedly
-outside.
-
-272
-00:24:17,810 --> 00:24:20,500
-'We want the southerner!'
-
-273
-00:24:20,500 --> 00:24:21,840
-they screamed.
-
-274
-00:24:21,840 --> 00:24:24,530
-'We want the southerner!
-
-275
-00:24:24,530 --> 00:24:27,220
-Give us the southerner!'
-
-276
-00:24:27,220 --> 00:24:34,320
+199
+00:24:27,760 --> 00:24:32,320
 'Hide under the bed quick,' Mwali whispered.
 
-277
-00:24:34,320 --> 00:24:41,100
-The shouting came closer, and some people
-started banging on the door.
+200
+00:24:34,080 --> 00:24:39,280
+The shouting came closer, and some 
+people started banging on the door.  
 
-278
-00:24:41,100 --> 00:24:46,070
-Then the noise stopped, and we heard Uncle
-Phala's voice.
+201
+00:24:40,800 --> 00:24:48,880
+Then the noise stopped, and we heard Uncle 
+Phala's voice. 'He ran away last night!'
 
-279
-00:24:46,070 --> 00:24:50,740
-'He ran away last night!'
+202
+00:24:50,160 --> 00:24:55,680
+'No!' the crowd shouted with 
+disappointment. 'We want the southerner!'
 
-280
-00:24:50,740 --> 00:24:51,740
-'No!'
+203
+00:24:57,200 --> 00:25:04,000
+'You know how these southerners are!' 
+Uncle Phala shouted. 'They don't know what  
 
-281
-00:24:51,740 --> 00:24:53,900
-the crowd shouted with disappointment.
+204
+00:25:04,000 --> 00:25:11,920
+"brave" means. They may be good with books and 
+take all the jobs for teachers and clerks, but  
 
-282
-00:24:53,900 --> 00:24:55,929
-'We want the southerner!'
+205
+00:25:11,920 --> 00:25:22,720
+that's all they can do. They can't fight. That boy 
+may have balls, but he's no braver than a woman.'
 
-283
-00:24:55,929 --> 00:25:00,510
-'You know how these southerners are!'
-
-284
-00:25:00,510 --> 00:25:02,250
-Uncle Phala shouted.
-
-285
-00:25:02,250 --> 00:25:05,059
-'They don't know what "brave" means.
-
-286
-00:25:05,059 --> 00:25:12,860
-They may be good with books and take all the
-jobs for teachers and clerks, but that's all
-
-287
-00:25:12,860 --> 00:25:14,600
-they can do.
-
-288
-00:25:14,600 --> 00:25:16,530
-They can't fight.
-
-289
-00:25:16,530 --> 00:25:24,390
-That boy may have balls, but he's no braver
-than a woman.'
-
-290
-00:25:24,390 --> 00:25:26,090
+206
+00:25:24,160 --> 00:25:25,520
 The crowd laughed.
 
-291
-00:25:26,090 --> 00:25:30,380
-'Leave the house alone.'
+207
+00:25:26,800 --> 00:25:32,080
+'Leave the house alone.' Suddenly 
+he called out Mwali's name.  
 
-292
-00:25:30,380 --> 00:25:32,840
-Suddenly he called out Mwali's name.
+208
+00:25:33,760 --> 00:25:39,120
+'Come and tell these brave sons of the 
+north where your useless husband is.'
 
-293
-00:25:32,840 --> 00:25:41,200
-'Come and tell these brave sons of the north
-where your useless husband is.'
+209
+00:25:41,040 --> 00:25:45,200
+I could not believe what he 
+was saying. Had he gone crazy?
 
-294
-00:25:41,200 --> 00:25:43,590
-I could not believe what he was saying.
+210
+00:25:47,040 --> 00:25:50,720
+'What should I do?' she asked me desperately.
 
-295
-00:25:43,590 --> 00:25:46,500
-Had he gone crazy?
+211
+00:25:52,160 --> 00:25:59,920
+'I don't know. What's wrong with your father? 
+I thought he loved me. He told me so himself.'
 
-296
-00:25:46,500 --> 00:25:49,409
-'What should I do?'
+212
+00:26:01,600 --> 00:26:08,080
+'Mwali! Please come out and tell these men 
+where your good-for-nothing husband went.'
 
-297
-00:25:49,409 --> 00:25:51,100
-she asked me desperately.
+213
+00:26:09,440 --> 00:26:18,800
+I felt suddenly angry. 'Go. He's your father.' I 
+pushed her and she started crying. 'Go, I said!'
 
-298
-00:25:51,100 --> 00:25:54,100
-'I don't know.
+214
+00:26:20,480 --> 00:26:29,440
+'Don't scream. They'll hear you.' She tried to get 
+herself under control. 'Please stay where you are.  
 
-299
-00:25:54,100 --> 00:25:55,760
-What's wrong with your father?
+215
+00:26:30,480 --> 00:26:35,040
+Don't move,' she said as she 
+went unwillingly to the door.
 
-300
-00:25:55,760 --> 00:25:58,610
-I thought he loved me.
+216
+00:26:36,080 --> 00:26:44,080
+'See, she's crying,' Uncle Phala said when she 
+came out. 'I told her not to marry a southerner!'  
 
-301
-00:25:58,610 --> 00:25:59,990
-He told me so himself.'
+217
+00:26:45,760 --> 00:26:49,840
+The crowd began to go away, 
+still shouting about southerners.  
 
-302
-00:25:59,990 --> 00:26:03,270
-'Mwali!
+218
+00:26:51,440 --> 00:26:56,400
+Moments later Mwali returned, 
+looking both shaken and thankful.
 
-303
-00:26:03,270 --> 00:26:09,559
-Please come out and tell these men where your
-good-for-nothing husband went.'
+219
+00:26:58,080 --> 00:27:04,080
+I stayed indoors the whole day. 
+Later Uncle Phala came to me.  
 
-304
-00:26:09,559 --> 00:26:12,320
-I felt suddenly angry.
-
-305
-00:26:12,320 --> 00:26:13,570
-'Go.
-
-306
-00:26:13,570 --> 00:26:14,870
-He's your father.'
-
-307
-00:26:14,870 --> 00:26:17,740
-I pushed her and she started crying.
-
-308
-00:26:17,740 --> 00:26:19,740
-'Go, I said!'
-
-309
-00:26:19,740 --> 00:26:21,820
-'Don't scream.
-
-310
-00:26:21,820 --> 00:26:24,940
-They'll hear you.'
-
-311
-00:26:24,940 --> 00:26:28,390
-She tried to get herself under control.
-
-312
-00:26:28,390 --> 00:26:30,650
-'Please stay where you are.
-
-313
-00:26:30,650 --> 00:26:36,130
-Don't move,' she said as she went unwillingly
-to the door.
-
-314
-00:26:36,130 --> 00:26:41,250
-'See, she's crying,' Uncle Phala said when
-she came out.
-
-315
-00:26:41,250 --> 00:26:45,950
-'I told her not to marry a southerner!'
-
-316
-00:26:45,950 --> 00:26:51,910
-The crowd began to go away, still shouting
-about southerners.
-
-317
-00:26:51,910 --> 00:26:58,220
-Moments later Mwali returned, looking both
-shaken and thankful.
-
-318
-00:26:58,220 --> 00:27:01,380
-I stayed indoors the whole day.
-
-319
-00:27:01,380 --> 00:27:05,860
-Later Uncle Phala came to me.
-
-320
-00:27:05,860 --> 00:27:09,740
-I could see the unhappiness on his face.
-
-321
-00:27:09,740 --> 00:27:15,000
+220
+00:27:05,600 --> 00:27:13,680
+I could see the unhappiness on his face. 
 'I'm sorry I had to say all those things.'
 
-322
-00:27:15,000 --> 00:27:20,649
+221
+00:27:15,760 --> 00:27:19,840
 'So you didn't mean it,' I said coldly.
 
-323
-00:27:20,649 --> 00:27:23,649
-'Of course not.'
+222
+00:27:21,120 --> 00:27:29,120
+'Of course not.' He was trying not to cry. 
+'That was the only way I could save you,  
 
-324
-00:27:23,649 --> 00:27:25,799
-He was trying not to cry.
+223
+00:27:30,320 --> 00:27:38,800
+by talking their kind of language. You'll 
+always be my favourite son, no matter what.'
 
-325
-00:27:25,799 --> 00:27:33,590
-'That was the only way I could save you, by
-talking their kind of language.
+224
+00:27:41,600 --> 00:27:44,000
+I do not know how long we sat there,  
 
-326
-00:27:33,590 --> 00:27:41,770
-You'll always be my favourite son, no matter
-what.'
+225
+00:27:44,800 --> 00:27:50,800
+staring at the walls. We all wished 
+to be back in the old days of exile.
 
-327
-00:27:41,770 --> 00:27:47,490
-I do not know how long we sat there, staring
-at the walls.
+226
+00:27:53,520 --> 00:27:58,800
+I escaped that night, and my people 
+were thankful to see me safe.
 
-328
-00:27:47,490 --> 00:27:53,679
-We all wished to be back in the old days of
-exile.
+227
+00:28:01,280 --> 00:28:04,720
+'I always told you that 
+northerners are cruel and wild,'  
 
-329
-00:27:53,679 --> 00:28:00,350
-I escaped that night, and my people were thankful
-to see me safe.
+228
+00:28:05,760 --> 00:28:13,680
+my father said. I could not remember him 
+ever saying that. But I did not feel like  
 
-330
-00:28:00,350 --> 00:28:08,289
-'I always told you that northerners are cruel
-and wild,' my father said.
+229
+00:28:13,680 --> 00:28:21,040
+arguing with him. I just wanted to sleep 
+and dream of the simpler days of exile.
 
-331
-00:28:08,289 --> 00:28:12,400
-I could not remember him ever saying that.
+230
+00:28:24,000 --> 00:28:29,840
+The elections were held on time. The 
+old governing party just managed to win,  
 
-332
-00:28:12,400 --> 00:28:15,330
-But I did not feel like arguing with him.
+231
+00:28:31,440 --> 00:28:38,080
+but the other political parties refused to accept 
+the results and did not recognize the government.  
 
-333
-00:28:15,330 --> 00:28:24,220
-I just wanted to sleep and dream of the simpler
-days of exile.
+232
+00:28:39,760 --> 00:28:44,560
+While this argument went on, the 
+army appeared on the streets,  
 
-334
-00:28:24,220 --> 00:28:27,290
-The elections were held on time.
+233
+00:28:45,360 --> 00:28:47,760
+and the frightened country became calm.
 
-335
-00:28:27,290 --> 00:28:34,240
-The old governing party just managed to win,
-but the other political parties refused to
+234
+00:28:50,320 --> 00:28:57,840
+It seemed safe enough for me to ask Mwali and 
+the children to come. Uncle Phala came with them.
 
-336
-00:28:34,240 --> 00:28:40,019
-accept the results and did not recognize the
-government.
+235
+00:29:00,480 --> 00:29:05,360
+When the two old men met, they 
+put their arms round each other.  
 
-337
-00:28:40,019 --> 00:28:46,919
-While this argument went on, the army appeared
-on the streets, and the frightened country
+236
+00:29:07,120 --> 00:29:14,240
+For a while it seemed like the old days, 
+except that they both looked so much older now.  
 
-338
-00:28:46,919 --> 00:28:50,539
-became calm.
+237
+00:29:15,760 --> 00:29:20,640
+They were both much thinner. Uncle 
+Phala walked even more painfully,  
 
-339
-00:28:50,539 --> 00:28:56,320
-It seemed safe enough for me to ask Mwali
-and the children to come.
+238
+00:29:21,680 --> 00:29:25,840
+and my father could not see or hear very well.
 
-340
-00:28:56,320 --> 00:29:00,770
-Uncle Phala came with them.
+239
+00:29:27,200 --> 00:29:35,440
+But it was not the old days. They had little 
+to talk about. It was painful to watch.  
 
-341
-00:29:00,770 --> 00:29:07,410
-When the two old men met, they put their arms
-round each other.
+240
+00:29:36,880 --> 00:29:40,480
+The friendliness and the laughter had all gone.  
 
-342
-00:29:07,410 --> 00:29:16,010
-For a while it seemed like the old days, except
-that they both looked so much older now.
+241
+00:29:41,920 --> 00:29:53,840
+The days of exile now seemed so far away and 
+unreal. And yet we had been back for about a year.
 
-343
-00:29:16,010 --> 00:29:18,570
-They were both much thinner.
+242
+00:29:54,400 --> 00:29:57,440
+Uncle Phala only stayed a couple of days.  
 
-344
-00:29:18,570 --> 00:29:27,529
-Uncle Phala walked even more painfully, and
-my father could not see or hear very well.
+243
+00:29:58,720 --> 00:30:06,480
+He left early in the morning. We all went with him 
+to the bus station, except for my mother who was  
 
-345
-00:29:27,529 --> 00:29:30,820
-But it was not the old days.
+244
+00:30:06,480 --> 00:30:15,520
+not feeling well. My father and Uncle Phala stood 
+in silence with their arms round each other for  
 
-346
-00:29:30,820 --> 00:29:33,840
-They had little to talk about.
+245
+00:30:15,520 --> 00:30:24,400
+what seemed like a long time. From the steps of 
+the bus Uncle Phala waved to us with his stick.  
 
-347
-00:29:33,840 --> 00:29:37,059
-It was painful to watch.
+246
+00:30:26,080 --> 00:30:35,840
+waved in return. Then he climbed painfully 
+onto the bus and never looked back.
+ 
+ 
+ 
+ 
 
-348
-00:29:37,059 --> 00:29:42,140
-The friendliness and the laughter had all
-gone.
-
-349
-00:29:42,140 --> 00:29:48,570
-The days of exile now seemed so far away and
-unreal.
-
-350
-00:29:48,570 --> 00:29:54,789
-And yet we had been back for about a year.
-
-351
-00:29:54,789 --> 00:29:58,960
-Uncle Phala only stayed a couple of days.
-
-352
-00:29:58,960 --> 00:30:01,740
-He left early in the morning.
-
-353
-00:30:01,740 --> 00:30:08,899
-We all went with him to the bus station, except
-for my mother who was not feeling well.
-
-354
-00:30:08,899 --> 00:30:15,769
-My father and Uncle Phala stood in silence
-with their arms round each other for what
-
-355
-00:30:15,769 --> 00:30:20,049
-seemed like a long time.
-
-356
-00:30:20,049 --> 00:30:26,300
-From the steps of the bus Uncle Phala waved
-to us with his stick.
-
-357
-00:30:26,300 --> 00:30:28,049
-waved in return.
-
-358
-00:30:28,049 --> 00:30:33,980
-Then he climbed painfully onto the bus and
-never looked back.
-
-359
-00:30:33,980 --> 00:30:34,330
+247
+00:30:35,840 --> 00:30:36,443
 - THE END -
 

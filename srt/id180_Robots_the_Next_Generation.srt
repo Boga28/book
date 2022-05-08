@@ -1,1230 +1,1083 @@
 1
-00:00:00,060 --> 00:00:01,759
+00:00:00,080 --> 00:00:00,720
 CHAPTER ONE
 
 2
-00:00:01,759 --> 00:00:06,490
+00:00:01,760 --> 00:00:02,880
 Robots and Japan
-IF IN THE FUTURE YOU BUY A HOUSEHOLD ROBOT,
 
 3
-00:00:06,490 --> 00:00:09,760
-THE CHANCES ARE IT WILL BE JAPANESE
+00:00:04,000 --> 00:00:08,160
+IF IN THE FUTURE YOU BUY A HOUSEHOLD 
+ROBOT, THE CHANCES ARE IT WILL BE JAPANESE
 
 4
-00:00:09,760 --> 00:00:13,880
-Japan is famous for its long tradition of
-automatons, or machines that look and act
+00:00:09,360 --> 00:00:13,680
+Japan is famous for its long tradition 
+of automatons, or machines that look and  
 
 5
-00:00:13,880 --> 00:00:15,950
-like humans.
+00:00:13,680 --> 00:00:21,040
+act like humans. In the 18th and 19th centuries, 
+realistic human models, known as Karakuri ningyo,  
 
 6
-00:00:15,950 --> 00:00:21,349
-In the 18th and 19th centuries, realistic
-human models, known as Karakuri ningyo, or
+00:00:21,040 --> 00:00:26,800
+or "dolls that trick," were seen in homes, 
+theaters, and religious ceremonies. The most  
 
 7
-00:00:21,349 --> 00:00:26,640
-"dolls that trick," were seen in homes, theaters,
-and religious ceremonies.
+00:00:26,800 --> 00:00:31,680
+common example was a small model of a woman 
+in a kimono that served cups of tea to guests.
 
 8
-00:00:26,640 --> 00:00:30,949
-The most common example was a small model
-of a woman in a kimono that served cups of
+00:00:32,800 --> 00:00:37,520
+These sophisticated dolls became 
+highly popular. Interestingly,  
 
 9
-00:00:30,949 --> 00:00:33,110
-tea to guests.
+00:00:37,520 --> 00:00:42,800
+the great engineer Tanaka Hisashige, founder of 
+the company that would eventually become TOSHIBA,  
 
 10
-00:00:33,110 --> 00:00:36,610
-These sophisticated dolls became highly popular.
+00:00:42,800 --> 00:00:47,440
+actually started his career in the early 
+19th century as a maker of Karakuri dolls.
 
 11
-00:00:36,610 --> 00:00:41,620
-Interestingly, the great engineer Tanaka Hisashige,
-founder of the company that would eventually
+00:00:48,480 --> 00:00:54,560
+But Japan did not invent automatons. In fact, 
+they have been with us for thousands of years.  
 
 12
-00:00:41,620 --> 00:00:47,140
-become TOSHIBA, actually started his career
-in the early 19th century as a maker of Karakuri
+00:00:55,600 --> 00:01:01,360
+The word automaton comes from the Greek "it 
+moves itself." The 1st-century Greek inventor  
 
 13
-00:00:47,140 --> 00:00:48,780
-dolls.
+00:01:01,360 --> 00:01:06,080
+Hero was famous for his automated machines, 
+which included moving dancers and fountains.
 
 14
-00:00:48,780 --> 00:00:51,470
-But Japan did not invent automatons.
+00:01:07,120 --> 00:01:11,440
+There are also many stories from ancient 
+China of wooden automatons that sang,  
 
 15
-00:00:51,470 --> 00:00:55,870
-In fact, they have been with us for thousands
-of years.
+00:01:11,440 --> 00:01:17,920
+danced, or served drinks. Later, in the 12th 
+century, the Islamic scholar Al-Jazari wrote  
 
 16
-00:00:55,870 --> 00:00:59,870
-The word automaton comes from the Greek "it
-moves itself."
+00:01:17,920 --> 00:01:22,880
+a whole book on mechanisms and automatons, 
+which included clocks, animals, a waitress,  
 
 17
-00:00:59,870 --> 00:01:04,530
-The 1st-century Greek inventor Hero was famous
-for his automated machines, which included
+00:01:22,880 --> 00:01:26,560
+and even a programmable musical band 
+complete with flute-player and drummer!
 
 18
-00:01:04,530 --> 00:01:07,420
-moving dancers and fountains.
+00:01:27,680 --> 00:01:31,280
+The English word robot comes from the 
+Czech language and means "to serve."  
 
 19
-00:01:07,420 --> 00:01:12,259
-There are also many stories from ancient China
-of wooden automatons that sang, danced, or
+00:01:32,480 --> 00:01:36,960
+It was first used in the 1920s in a 
+play by the Czech writer Karel Capek,  
 
 20
-00:01:12,259 --> 00:01:13,830
-served drinks.
+00:01:36,960 --> 00:01:43,280
+titled R.U.R. (Rossum's Universal Robots). The 
+play showed a futuristic world where human-like  
 
 21
-00:01:13,830 --> 00:01:19,310
-Later, in the 12th century, the Islamic scholar
-Al-Jazari wrote a whole book on mechanisms
+00:01:43,280 --> 00:01:49,360
+machines did all the work. In Capek's 
+play these machines could think and feel,  
 
 22
-00:01:19,310 --> 00:01:24,560
-and automatons, which included clocks, animals,
-a waitress, and even a programmable musical
+00:01:49,360 --> 00:01:51,920
+and eventually they rebelled 
+against their human rulers.
 
 23
-00:01:24,560 --> 00:01:27,920
-band complete with flute-player and drummer!
+00:01:52,960 --> 00:01:57,360
+By the 1920s in Japan robots were 
+starting to appear in department stores.  
 
 24
-00:01:27,920 --> 00:01:32,710
-The English word robot comes from the Czech
-language and means "to serve."
+00:01:58,400 --> 00:02:02,160
+At first, however, they were not 
+much more than complicated Karakuri.
 
 25
-00:01:32,710 --> 00:01:38,380
-It was first used in the 1920s in a play by
-the Czech writer Karel Capek, titled R.U.R.
+00:02:03,200 --> 00:02:09,440
+The first Japanese humanoid robot was created 
+in 1928 and was called Gakutensoku, or "Learning  
 
 26
-00:01:38,380 --> 00:01:40,950
-(Rossum's Universal Robots).
+00:02:09,440 --> 00:02:14,880
+from the Laws of Nature." It was a Buddha-like 
+model that used air to move its head and hands.
 
 27
-00:01:40,950 --> 00:01:46,859
-The play showed a futuristic world where human-like
-machines did all the work.
+00:02:16,000 --> 00:02:22,160
+Its creator, the biologist Makoto Nishimura, 
+believed these machines were part of nature.  
 
 28
-00:01:46,859 --> 00:01:51,069
-In Capek's play these machines could think
-and feel, and eventually they rebelled against
+00:02:22,160 --> 00:02:26,320
+He is quoted as saying, "If one considers 
+humans as the children of nature,  
 
 29
-00:01:51,069 --> 00:01:53,170
-their human rulers.
+00:02:26,320 --> 00:02:30,320
+artificial humans created by the hand 
+of man are thus nature's grandchildren."  
 
 30
-00:01:53,170 --> 00:01:57,710
-By the 1920s in Japan robots were starting
-to appear in department stores.
+00:02:31,280 --> 00:02:34,720
+His robot became a huge success 
+and toured Asia and Europe.
 
 31
-00:01:57,710 --> 00:02:03,390
-At first, however, they were not much more
-than complicated Karakuri.
+00:02:35,760 --> 00:02:40,480
+Nishimura's opinions highlight the Japanese 
+attitude to machines and technology and the  
 
 32
-00:02:03,390 --> 00:02:09,649
-The first Japanese humanoid robot was created
-in 1928 and was called Gakutensoku, or "Learning
+00:02:40,480 --> 00:02:45,840
+fascination they have with robots. This 
+may be linked to Japan's Shinto religion,  
 
 33
-00:02:09,649 --> 00:02:11,819
-from the Laws of Nature."
+00:02:45,840 --> 00:02:48,640
+whose followers regard all 
+things as having spirits.  
 
 34
-00:02:11,819 --> 00:02:16,310
-It was a Buddha-like model that used air to
-move its head and hands.
+00:02:49,760 --> 00:02:53,760
+Tools and all objects made with tools 
+possess their own special qualities,  
 
 35
-00:02:16,310 --> 00:02:22,420
-Its creator, the biologist Makoto Nishimura,
-believed these machines were part of nature.
+00:02:53,760 --> 00:02:59,760
+almost as if they were individuals. Certainly 
+the Japanese view of robots is very different  
 
 36
-00:02:22,420 --> 00:02:27,010
-He is quoted as saying, "If one considers
-humans as the children of nature, artificial
+00:02:59,760 --> 00:03:04,480
+from the views traditionally held in Western 
+cultures, which are often suspicious of robots.
 
 37
-00:02:27,010 --> 00:02:31,390
-humans created by the hand of man are thus
-nature's grandchildren."
+00:03:05,600 --> 00:03:09,120
+The Japanese look upon robots as 
+things of interest and beauty,  
 
 38
-00:02:31,390 --> 00:02:35,860
-His robot became a huge success and toured
-Asia and Europe.
+00:03:09,120 --> 00:03:16,160
+designed to help humans and make our lives better. 
+This view was most famously expressed in the 1951  
 
 39
-00:02:35,860 --> 00:02:40,549
-Nishimura's opinions highlight the Japanese
-attitude to machines and technology and the
+00:03:16,160 --> 00:03:22,640
+Manga comic, Tetsuwan Atomu. Atomu, or Astro 
+Boy, as he was later known in the West,  
 
 40
-00:02:40,549 --> 00:02:43,640
-fascination they have with robots.
+00:03:22,640 --> 00:03:26,800
+was the first major robot character to 
+show robots as friendly and helpful.
 
 41
-00:02:43,640 --> 00:02:48,620
-This may be linked to Japan's Shinto religion,
-whose followers regard all things as having
+00:03:27,840 --> 00:03:30,880
+The Japanese love of comic book robot characters,  
 
 42
-00:02:48,620 --> 00:02:50,150
-spirits.
+00:03:30,880 --> 00:03:34,400
+together with the country's fast 
+increasing electronics industry,  
 
 43
-00:02:50,150 --> 00:02:54,519
-Tools and all objects made with tools possess
-their own special qualities, almost as if
+00:03:34,400 --> 00:03:41,040
+meant that by the 1980s Japan had become a world 
+leader in robot research and production. Today,  
 
 44
-00:02:54,519 --> 00:02:56,980
-they were individuals.
-
-45
-00:02:56,980 --> 00:03:01,430
-Certainly the Japanese view of robots is very
-different from the views traditionally held
-
-46
-00:03:01,430 --> 00:03:05,390
-in Western cultures, which are often suspicious
-of robots.
-
-47
-00:03:05,390 --> 00:03:10,560
-The Japanese look upon robots as things of
-interest and beauty, designed to help humans
-
-48
-00:03:10,560 --> 00:03:13,099
-and make our lives better.
-
-49
-00:03:13,099 --> 00:03:18,829
-This view was most famously expressed in the
-1951 Manga comic, Tetsuwan Atomu.
-
-50
-00:03:18,829 --> 00:03:24,630
-Atomu, or Astro Boy, as he was later known
-in the West, was the first major robot character
-
-51
-00:03:24,630 --> 00:03:28,050
-to show robots as friendly and helpful.
-
-52
-00:03:28,050 --> 00:03:33,010
-The Japanese love of comic book robot characters,
-together with the country's fast increasing
-
-53
-00:03:33,010 --> 00:03:38,780
-electronics industry, meant that by the 1980s
-Japan had become a world leader in robot research
-
-54
-00:03:38,780 --> 00:03:40,099
-and production.
-
-55
-00:03:40,099 --> 00:03:46,469
-Today, more than a third of the world's industrial
+00:03:41,040 --> 00:03:46,240
+more than a third of the world's industrial 
 robots work in factories in Japan.
 
-56
-00:03:46,469 --> 00:03:51,519
-As well as the typical industrial robots,
-many robots are designed simply as toys or
+45
+00:03:46,240 --> 00:03:51,280
+As well as the typical industrial robots, 
+many robots are designed simply as toys  
 
-57
-00:03:51,519 --> 00:03:53,690
-for entertainment.
+46
+00:03:51,280 --> 00:03:57,200
+or for entertainment. Animal robots, 
+dancing robots, car-driving robots,  
 
-58
-00:03:53,690 --> 00:03:59,250
-Animal robots, dancing robots, car-driving
-robots, even piano- playing robots are all
+47
+00:03:57,200 --> 00:04:03,440
+even piano- playing robots are all made and 
+sold in Japan. And as technology improves,  
 
-59
-00:03:59,250 --> 00:04:02,010
-made and sold in Japan.
+48
+00:04:03,440 --> 00:04:07,280
+the differences between humans and machines 
+may become increasingly blurred.
+ 
+ 
+ 
+ 
 
-60
-00:04:02,010 --> 00:04:07,019
-And as technology improves, the differences
-between humans and machines may become increasingly
-
-61
-00:04:07,019 --> 00:04:09,280
-blurred.
-
-62
-00:04:09,280 --> 00:04:13,560
+49
+00:04:08,400 --> 00:04:09,440
 CHAPTER TWO
+
+50
+00:04:10,880 --> 00:04:12,240
 Robot and Recreation
 
+51
+00:04:13,280 --> 00:04:16,480
+FOR THE JAPANESE, ROBOTS ARE A 
+GREAT SOURCE OF ENTERTAINMENT.
+
+52
+00:04:17,600 --> 00:04:22,960
+Technically, a robot is any kind of autonomous 
+self-controlled or remote-controlled machine,  
+
+53
+00:04:22,960 --> 00:04:28,720
+often used in factories for dangerous or 
+precision work. But when we think of a robot,  
+
+54
+00:04:28,720 --> 00:04:32,480
+we often imagine a machine with a 
+recognizably human face and figure.  
+
+55
+00:04:33,600 --> 00:04:38,080
+These robots are called androids (from the 
+Greek for man, andr-) and are specifically  
+
+56
+00:04:38,080 --> 00:04:41,840
+designed to have characteristics that 
+make them more attractive to humans.
+
+57
+00:04:42,720 --> 00:04:45,360
+Japan has a keen interest in humanoid models.  
+
+58
+00:04:46,480 --> 00:04:50,960
+Karakuri dolls, for example, were seen as 
+more than models; they were respected as  
+
+59
+00:04:50,960 --> 00:04:56,800
+an art form. The Japanese fascination with 
+robots meant that in the late 20th century,  
+
+60
+00:04:56,800 --> 00:05:01,040
+when huge improvements were being made 
+in motors and computing, many electronics  
+
+61
+00:05:01,040 --> 00:05:05,760
+companies began to design humanoid robots that 
+could interact with people on a social level.
+
+62
+00:05:06,800 --> 00:05:11,840
+The first entertainment robot with commercial 
+success was not a humanoid, however, but a robot  
+
 63
-00:04:13,560 --> 00:04:17,280
-FOR THE JAPANESE, ROBOTS ARE A GREAT SOURCE
-OF ENTERTAINMENT.
+00:05:11,840 --> 00:05:19,600
+dog. Designed as a toy pet and launched in 1999, 
+Sony's AIBO quickly became popular worldwide.  
 
 64
-00:04:17,280 --> 00:04:23,210
-Technically, a robot is any kind of autonomous
-self-controlled or remote-controlled machine,
+00:05:20,640 --> 00:05:25,360
+The AIBO (Japanese for "companion") 
+could walk, could see using cameras,  
 
 65
-00:04:23,210 --> 00:04:27,419
-often used in factories for dangerous or precision
-work.
+00:05:25,360 --> 00:05:29,120
+and had special software that allowed 
+it to develop from puppy to adult,  
 
 66
-00:04:27,419 --> 00:04:32,390
-But when we think of a robot, we often imagine
-a machine with a recognizably human face and
+00:05:29,120 --> 00:05:34,080
+learning to play and understand up 
+to 100 voice commands. Furthermore,  
 
 67
-00:04:32,390 --> 00:04:33,900
-figure.
+00:05:34,080 --> 00:05:39,520
+special programmable software allowed owners to 
+change their AIBO's personality and behavior.
 
 68
-00:04:33,900 --> 00:04:38,130
-These robots are called androids (from the
-Greek for man, andr-) and are specifically
+00:05:40,720 --> 00:05:44,240
+Teams of AIBOs have even 
+played at the annual RoboCup,  
 
 69
-00:04:38,130 --> 00:04:43,220
-designed to have characteristics that make
-them more attractive to humans.
-
-70
-00:04:43,220 --> 00:04:46,710
-Japan has a keen interest in humanoid models.
-
-71
-00:04:46,710 --> 00:04:51,370
-Karakuri dolls, for example, were seen as
-more than models; they were respected as an
-
-72
-00:04:51,370 --> 00:04:52,990
-art form.
-
-73
-00:04:52,990 --> 00:04:58,020
-The Japanese fascination with robots meant
-that in the late 20th century, when huge improvements
-
-74
-00:04:58,020 --> 00:05:03,400
-were being made in motors and computing, many
-electronics companies began to design humanoid
-
-75
-00:05:03,400 --> 00:05:07,030
-robots that could interact with people on
-a social level.
-
-76
-00:05:07,030 --> 00:05:11,620
-The first entertainment robot with commercial
-success was not a humanoid, however, but a
-
-77
-00:05:11,620 --> 00:05:13,720
-robot dog.
-
-78
-00:05:13,720 --> 00:05:20,880
-Designed as a toy pet and launched in 1999,
-Sony's AIBO quickly became popular worldwide.
-
-79
-00:05:20,880 --> 00:05:26,139
-The AIBO (Japanese for "companion") could
-walk, could see using cameras, and had special
-
-80
-00:05:26,139 --> 00:05:30,620
-software that allowed it to develop from puppy
-to adult, learning to play and understand
-
-81
-00:05:30,620 --> 00:05:33,500
-up to 100 voice commands.
-
-82
-00:05:33,500 --> 00:05:38,949
-Furthermore, special programmable software
-allowed owners to change their AIBO's personality
-
-83
-00:05:38,949 --> 00:05:40,199
-and behavior.
-
-84
-00:05:40,199 --> 00:05:45,830
-Teams of AIBOs have even played at the annual
-RoboCup, a soccer tournament where all the
-
-85
-00:05:45,830 --> 00:05:50,480
+00:05:44,240 --> 00:05:48,720
+a soccer tournament where all the 
 competitors must be autonomous robots.
 
-86
-00:05:50,480 --> 00:05:53,160
-Humanoid robots have proved more difficult
-to make.
+70
+00:05:49,840 --> 00:05:52,640
+Humanoid robots have proved 
+more difficult to make.  
 
-87
-00:05:53,160 --> 00:06:00,160
-However, in 2000 Honda finally introduced
+71
+00:05:53,760 --> 00:05:58,800
+However, in 2000 Honda finally introduced 
 its first real humanoid robot, ASIMO.
 
-88
-00:06:00,160 --> 00:06:04,660
-ASIMO was able to help disabled people move
-around more easily.
+72
+00:05:59,840 --> 00:06:03,440
+ASIMO was able to help disabled 
+people move around more easily.  
 
-89
-00:06:04,660 --> 00:06:09,480
-The robot could recognize and respond to human
-movements and commands, and was aware of its
+73
+00:06:04,480 --> 00:06:08,320
+The robot could recognize and respond 
+to human movements and commands,  
 
-90
-00:06:09,480 --> 00:06:11,280
-environment.
+74
+00:06:08,320 --> 00:06:13,600
+and was aware of its environment. It has 
+made many public appearances, talking,  
 
-91
-00:06:11,280 --> 00:06:17,229
-It has made many public appearances, talking,
-dancing, and even conducting an orchestra.
+75
+00:06:13,600 --> 00:06:19,840
+dancing, and even conducting an orchestra. 
+Its little brother, the QRIO made by Sony,  
 
-92
-00:06:17,229 --> 00:06:21,970
-Its little brother, the QRIO made by Sony,
-could run and interact to such an extent that
-
-93
-00:06:21,970 --> 00:06:25,490
+76
+00:06:19,840 --> 00:06:24,240
+could run and interact to such an extent that 
 it was also capable of playing in the RoboCup.
 
-94
-00:06:25,490 --> 00:06:29,830
-Although the QRIO was too expensive to be
-produced commercially, there are now many
+77
+00:06:25,280 --> 00:06:29,840
+Although the QRIO was too expensive to be 
+produced commercially, there are now many  
 
-95
-00:06:29,830 --> 00:06:33,620
-different humanoid robots available on the
-market.
+78
+00:06:29,840 --> 00:06:35,200
+different humanoid robots available on the 
+market. They are generally simpler, more like  
 
-96
-00:06:33,620 --> 00:06:38,669
-They are generally simpler, more like expensive
-remote-controlled toys, but they are all humanoid
+79
+00:06:35,200 --> 00:06:40,160
+expensive remote-controlled toys, but they are 
+all humanoid and have some degree of autonomy.
 
-97
-00:06:38,669 --> 00:06:40,629
-and have some degree of autonomy.
+80
+00:06:41,200 --> 00:06:46,720
+The lack of easily available or reasonably-priced 
+humanoid robots hasn't stopped Japan's robot  
 
-98
-00:06:40,629 --> 00:06:46,830
-The lack of easily available or reasonably-priced
-humanoid robots hasn't stopped Japan's robot
+81
+00:06:46,720 --> 00:06:52,560
+enthusiasts. DIY robotics has become 
+increasingly popular in recent years,  
 
-99
-00:06:46,830 --> 00:06:48,250
-enthusiasts.
+82
+00:06:52,560 --> 00:06:57,120
+to such an extent that a robot 
+championship, Robo-One, was started in 2002.
 
-100
-00:06:48,250 --> 00:06:53,970
-DIY robotics has become increasingly popular
-in recent years, to such an extent that a
+83
+00:06:58,240 --> 00:07:02,880
+The championship consists of a series of 
+tasks that the homemade robots must perform.  
 
-101
-00:06:53,970 --> 00:06:57,889
-robot championship, Robo-One, was started
-in 2002.
+84
+00:07:04,000 --> 00:07:09,360
+Tasks include falling from a standing position, 
+getting up, walking, jumping, and even competing  
 
-102
-00:06:57,889 --> 00:07:04,470
-The championship consists of a series of tasks
-that the homemade robots must perform.
-
-103
-00:07:04,470 --> 00:07:09,440
-Tasks include falling from a standing position,
-getting up, walking, jumping, and even competing
-
-104
-00:07:09,440 --> 00:07:13,410
-against other robots in a one-on-one boxing
-match.
-
-105
-00:07:13,410 --> 00:07:16,259
+85
+00:07:09,360 --> 00:07:15,840
+against other robots in a one-on-one boxing match. 
 There has also been a Robo-One soccer match.
 
-106
-00:07:16,259 --> 00:07:21,580
-The robots in Robo-One are designed and built
-at home by individual designers, but may use
+86
+00:07:16,560 --> 00:07:21,520
+The robots in Robo-One are designed and built 
+at home by individual designers, but may use  
 
-107
-00:07:21,580 --> 00:07:23,409
-commercial parts.
+87
+00:07:21,520 --> 00:07:27,440
+commercial parts. Many robots are made from 
+aluminum and powered by small electric motors.
 
-108
-00:07:23,409 --> 00:07:28,800
-Many robots are made from aluminum and powered
-by small electric motors.
+88
+00:07:28,480 --> 00:07:32,000
+One problem with two-legged robots 
+is how to make them walk like us.  
 
-109
-00:07:28,800 --> 00:07:33,750
-One problem with two-legged robots is how
-to make them walk like us.
+89
+00:07:33,200 --> 00:07:36,800
+Robots look awkward when they walk 
+because they constantly bend their knees.  
 
-110
-00:07:33,750 --> 00:07:38,240
-Robots look awkward when they walk because
-they constantly bend their knees.
+90
+00:07:37,920 --> 00:07:42,960
+However, in 2011 the Nagoya Institute 
+of Technology produced the first robot  
 
-111
-00:07:38,240 --> 00:07:44,360
-However, in 2011 the Nagoya Institute of Technology
-produced the first robot legs modeled on human
+91
+00:07:42,960 --> 00:07:49,360
+legs modeled on human biomechanics. So naturally 
+moving humanoids may soon be a common sight.
+ 
+ 
+ 
+ 
 
-112
-00:07:44,360 --> 00:07:46,439
-biomechanics.
-
-113
-00:07:46,439 --> 00:07:50,520
-So naturally moving humanoids may soon be
-a common sight.
-
-114
-00:07:50,520 --> 00:07:55,800
+92
+00:07:50,400 --> 00:07:51,440
 CHAPTER THREE
+
+93
+00:07:53,040 --> 00:07:54,080
 Robots and Money
 
-115
-00:07:55,800 --> 00:08:01,129
-JAPAN IS THE THIRD LARGEST ECONOMY IN THE
-WORLD AND HAS THE LARGEST ELECTRONICS INDUSTRY,
+94
+00:07:55,280 --> 00:07:58,480
+JAPAN IS THE THIRD LARGEST ECONOMY IN THE WORLD  
 
-116
-00:08:01,129 --> 00:08:04,389
-IN WHICH IT IS CONSIDERED A LEADING INNOVATOR.
+95
+00:07:58,480 --> 00:08:03,120
+AND HAS THE LARGEST ELECTRONICS INDUSTRY, IN 
+WHICH IT IS CONSIDERED A LEADING INNOVATOR.
 
-117
-00:08:04,389 --> 00:08:09,539
-The Japanese have traditionally been noted
-for the high quality of their craftsmanship.
+96
+00:08:04,160 --> 00:08:08,160
+The Japanese have traditionally been noted 
+for the high quality of their craftsmanship.  
 
-118
-00:08:09,539 --> 00:08:15,289
-European travelers arriving in Japan in the
-16th and 17th century were amazed at its architecture,
+97
+00:08:09,280 --> 00:08:15,200
+European travelers arriving in Japan in the 16th 
+and 17th century were amazed at its architecture,  
 
-119
-00:08:15,289 --> 00:08:17,229
+98
+00:08:15,200 --> 00:08:16,720
 metalwork, and technology.
 
-120
-00:08:17,229 --> 00:08:23,030
-After the Second World War, the Japanese emphasis
-on quality and precision helped to create
+99
+00:08:17,840 --> 00:08:23,440
+After the Second World War, the Japanese emphasis 
+on quality and precision helped to create strong,  
 
-121
-00:08:23,030 --> 00:08:27,800
-strong, dynamic industries, innovating in
-many areas.
+100
+00:08:23,440 --> 00:08:25,840
+dynamic industries, innovating in many areas.  
 
-122
-00:08:27,800 --> 00:08:34,050
-Japanese cars and electronics became synonymous
-with quality, reliability, and affordability.
+101
+00:08:27,280 --> 00:08:32,720
+Japanese cars and electronics became synonymous 
+with quality, reliability, and affordability.  
 
-123
-00:08:34,050 --> 00:08:38,750
-This led to continuous economic growth for
-over 30 years, which leveled off in the late
+102
+00:08:33,760 --> 00:08:39,840
+This led to continuous economic growth for over 30 
+years, which leveled off in the late 20th century.
 
-124
-00:08:38,750 --> 00:08:40,780
-20th century.
+103
+00:08:40,480 --> 00:08:45,840
+As Japan enters the 21st century, the main 
+problem its economy faces is a shortage of  
 
-125
-00:08:40,780 --> 00:08:46,110
-As Japan enters the 21st century, the main
-problem its economy faces is a shortage of
+104
+00:08:45,840 --> 00:08:52,080
+workers, a result of an aging population and 
+a falling birth rate. These changes mean that,  
 
-126
-00:08:46,110 --> 00:08:51,019
-workers, a result of an aging population and
-a falling birth rate.
+105
+00:08:52,080 --> 00:08:56,240
+among other things, there are fewer workers 
+to earn money or care for the elderly.
 
-127
-00:08:51,019 --> 00:08:55,460
-These changes mean that, among other things,
-there are fewer workers to earn money or care
+106
+00:08:57,360 --> 00:09:02,240
+Many people in Japan believe that the Japanese 
+robotics industry may be the answer to Japan's  
 
-128
-00:08:55,460 --> 00:08:57,040
-for the elderly.
+107
+00:09:02,240 --> 00:09:09,280
+challenges, both economically (in 2010, the 
+worldwide industry was worth $5.6 billion), but  
 
-129
-00:08:57,040 --> 00:09:02,410
-Many people in Japan believe that the Japanese
-robotics industry may be the answer to Japan's
+108
+00:09:09,280 --> 00:09:14,160
+also as a technology that can produce workers and 
+caregivers for the country's aging population.
+ 
+ 
 
-130
-00:09:02,410 --> 00:09:09,339
-challenges, both economically (in 2010, the
-worldwide industry was worth $5.6 billion),
-
-131
-00:09:09,339 --> 00:09:13,459
-but also as a technology that can produce
-workers and caregivers for the country's aging
-
-132
-00:09:13,459 --> 00:09:15,360
-population.
-
-133
-00:09:15,360 --> 00:09:19,529
+109
+00:09:15,280 --> 00:09:16,000
 CHAPTER FOUR
+
+110
+00:09:17,120 --> 00:09:18,160
 Robots and Work
 
-134
-00:09:19,529 --> 00:09:23,720
-WILL TOMORROW'S ROBOTS BE ABLE TO FULFILL
-A SOCIAL ROLE?
+111
+00:09:19,280 --> 00:09:22,320
+WILL TOMORROW'S ROBOTS BE 
+ABLE TO FULFILL A SOCIAL ROLE?
 
-135
-00:09:23,720 --> 00:09:28,950
-What can Japan do to solve the problem of
-the reduction in its workforce?
+112
+00:09:23,440 --> 00:09:27,120
+What can Japan do to solve the problem 
+of the reduction in its workforce?  
 
-136
-00:09:28,950 --> 00:09:32,990
-Traditionally suspicious of foreigners, the
-country seems reluctant to relax its strict
+113
+00:09:28,320 --> 00:09:32,960
+Traditionally suspicious of foreigners, the 
+country seems reluctant to relax its strict  
 
-137
-00:09:32,990 --> 00:09:38,970
-immigration policy, looking instead to the
+114
+00:09:32,960 --> 00:09:37,600
+immigration policy, looking instead to the 
 robotics industry to provide its workers.
 
-138
-00:09:38,970 --> 00:09:43,460
-What would seem a strange solution in many
-other countries seems perfectly normal to
+115
+00:09:38,720 --> 00:09:43,440
+What would seem a strange solution in many 
+other countries seems perfectly normal to the  
 
-139
-00:09:43,460 --> 00:09:46,880
-the electronics-obsessed Japanese.
+116
+00:09:43,440 --> 00:09:50,080
+electronics-obsessed Japanese. Robots in Japanese 
+society already carry out many different roles.  
 
-140
-00:09:46,880 --> 00:09:51,570
-Robots in Japanese society already carry out
-many different roles.
+117
+00:09:51,280 --> 00:09:55,440
+Here are a few ways that robots are 
+becoming a part of everyday life in Japan.
 
-141
-00:09:51,570 --> 00:09:57,090
-Here are a few ways that robots are becoming
-a part of everyday life in Japan.
-
-142
-00:09:57,090 --> 00:09:58,510
+118
+00:09:56,560 --> 00:09:57,120
 Healthcare
 
-143
-00:09:58,510 --> 00:10:03,050
-One of the main shortages in workers in Japan
-at the moment is in healthcare, especially
+119
+00:09:58,240 --> 00:10:02,240
+One of the main shortages in workers in 
+Japan at the moment is in healthcare,  
 
-144
-00:10:03,050 --> 00:10:04,899
-for the elderly.
+120
+00:10:02,240 --> 00:10:06,880
+especially for the elderly. Although 
+there are many trained nurses available  
 
-145
-00:10:04,899 --> 00:10:09,610
-Although there are many trained nurses available
-from other parts of Asia, Japan allows very
+121
+00:10:06,880 --> 00:10:11,120
+from other parts of Asia, Japan allows 
+very few immigrants into the country.  
 
-146
-00:10:09,610 --> 00:10:12,339
-few immigrants into the country.
+122
+00:10:12,240 --> 00:10:18,000
+Consequently, many robotics firms are 
+looking at the possibility of robot nurses.
 
-147
-00:10:12,339 --> 00:10:18,230
-Consequently, many robotics firms are looking
-at the possibility of robot nurses.
+123
+00:10:18,000 --> 00:10:24,560
+Toyota launched four robot nursing models 
+in 2013. These machines aren't humanoid,  
 
-148
-00:10:18,230 --> 00:10:23,170
-Toyota launched four robot nursing models
-in 2013.
+124
+00:10:24,560 --> 00:10:29,760
+but resemble motorized chairs, designed to help 
+patients move around and get in and out of bed.
 
-149
-00:10:23,170 --> 00:10:27,790
-These machines aren't humanoid, but resemble
-motorized chairs, designed to help patients
+125
+00:10:30,880 --> 00:10:37,840
+A highly innovative use of a robot in healthcare 
+can be found in Tokyo's Cyberdyne gym. Here, users  
 
-150
-00:10:27,790 --> 00:10:31,050
-move around and get in and out of bed.
+126
+00:10:37,840 --> 00:10:42,880
+can exercise wearing robotic legs that recognize 
+impulses made by the brain when the person wants  
 
-151
-00:10:31,050 --> 00:10:36,760
-A highly innovative use of a robot in healthcare
-can be found in Tokyo's Cyberdyne gym.
+127
+00:10:42,880 --> 00:10:48,960
+to walk. With practice, people who have problems 
+with their legs can walk around and do exercises.
 
-152
-00:10:36,760 --> 00:10:42,050
-Here, users can exercise wearing robotic legs
-that recognize impulses made by the brain
-
-153
-00:10:42,050 --> 00:10:44,750
-when the person wants to walk.
-
-154
-00:10:44,750 --> 00:10:50,709
-With practice, people who have problems with
-their legs can walk around and do exercises.
-
-155
-00:10:50,709 --> 00:10:52,130
+128
+00:10:50,160 --> 00:10:50,800
 Security
 
-156
-00:10:52,130 --> 00:10:56,240
-Several Japanese companies have built security
-robots.
+129
+00:10:51,920 --> 00:10:54,880
+Several Japanese companies 
+have built security robots.  
 
-157
-00:10:56,240 --> 00:11:01,070
-There are robots to guard houses and offices,
-a robot that collects cash from banks, and
+130
+00:10:56,000 --> 00:11:00,800
+There are robots to guard houses and offices, 
+a robot that collects cash from banks,  
 
-158
-00:11:01,070 --> 00:11:03,920
-a robot that can stop criminals.
+131
+00:11:00,800 --> 00:11:07,680
+and a robot that can stop criminals. The Tmsuk 
+Company's T-34 is a small, four-wheeled robot  
 
-159
-00:11:03,920 --> 00:11:10,200
-The Tmsuk Company's T-34 is a small, four-wheeled
-robot that can be controlled by mobile phone.
+132
+00:11:07,680 --> 00:11:12,880
+that can be controlled by mobile phone. It 
+can catch thieves by firing a net over them.
 
-160
-00:11:10,200 --> 00:11:14,200
-It can catch thieves by firing a net over
-them.
+133
+00:11:13,920 --> 00:11:16,880
+Other robots have been used 
+to direct traffic in Tokyo.  
 
-161
-00:11:14,200 --> 00:11:18,170
-Other robots have been used to direct traffic
-in Tokyo.
+134
+00:11:17,840 --> 00:11:21,440
+And Fujitsu has produced a guide 
+robot for offices and malls.  
 
-162
-00:11:18,170 --> 00:11:22,790
-And Fujitsu has produced a guide robot for
-offices and malls.
-
-163
-00:11:22,790 --> 00:11:28,670
-It recognizes faces and has a touch screen
+135
+00:11:22,560 --> 00:11:27,920
+It recognizes faces and has a touch screen 
 that people can press for information.
 
-164
-00:11:28,670 --> 00:11:29,670
+136
+00:11:27,920 --> 00:11:28,640
 Actroids
 
-165
-00:11:29,670 --> 00:11:35,610
-An astounding example of Japanese robot philosophy
-can be seen in their development of actroids.
+137
+00:11:29,680 --> 00:11:34,800
+An astounding example of Japanese robot philosophy 
+can be seen in their development of actroids.  
 
-166
-00:11:35,610 --> 00:11:40,890
-A combination of the words actor and android,
-these robots are specifically designed to
+138
+00:11:35,920 --> 00:11:38,560
+A combination of the words actor and android,  
 
-167
-00:11:40,890 --> 00:11:44,450
-look as believably human as possible.
+139
+00:11:38,560 --> 00:11:42,800
+these robots are specifically designed 
+to look as believably human as possible.
 
-168
-00:11:44,450 --> 00:11:47,820
+140
+00:11:44,000 --> 00:11:45,920
 Robot directing traffic in Japan
 
-169
-00:11:47,820 --> 00:11:54,110
-The first actroid, presented at the 2003 International
-Robot Convention by the University of Osaka,
+141
+00:11:47,120 --> 00:11:52,400
+The first actroid, presented at the 2003 
+International Robot Convention by the  
 
-170
-00:11:54,110 --> 00:11:57,029
-was modeled on the looks of an average Japanese
-woman.
+142
+00:11:52,400 --> 00:11:58,480
+University of Osaka, was modeled on the looks 
+of an average Japanese woman. It had realistic  
 
-171
-00:11:57,029 --> 00:12:02,839
-It had realistic silicone skin and could blink,
-speak, and breathe, using air to move its
+143
+00:11:58,480 --> 00:12:03,120
+silicone skin and could blink, speak, and 
+breathe, using air to move its features.
 
-172
-00:12:02,839 --> 00:12:04,570
-features.
+144
+00:12:04,240 --> 00:12:09,840
+Later models are even more realistic. 
+Professor Ishiguro of Osaka University  
 
-173
-00:12:04,570 --> 00:12:07,580
-Later models are even more realistic.
+145
+00:12:09,840 --> 00:12:14,160
+believes that human acceptance of robots 
+depends on them having a familiar appearance.  
 
-174
-00:12:07,580 --> 00:12:12,589
-Professor Ishiguro of Osaka University believes
-that human acceptance of robots depends on
+146
+00:12:15,360 --> 00:12:19,280
+In the future, he hopes that these human 
+copies could be used to represent people  
 
-175
-00:12:12,589 --> 00:12:15,520
-them having a familiar appearance.
+147
+00:12:19,280 --> 00:12:25,040
+in business meetings and in other events. 
+So far, the closest any of the actroids has  
 
-176
-00:12:15,520 --> 00:12:19,860
-In the future, he hopes that these human copies
-could be used to represent people in business
+148
+00:12:25,040 --> 00:12:30,000
+come was when HRP-4C starred as a model 
+in the 2009 Tokyo Fashion Week.
+ 
+ 
+ 
+ 
 
-177
-00:12:19,860 --> 00:12:22,700
-meetings and in other events.
-
-178
-00:12:22,700 --> 00:12:27,920
-So far, the closest any of the actroids has
-come was when HRP-4C starred as a model in
-
-179
-00:12:27,920 --> 00:12:31,180
-the 2009 Tokyo Fashion Week.
-
-180
-00:12:31,180 --> 00:12:35,870
+149
+00:12:31,120 --> 00:12:31,840
 CHAPTER FIVE
+
+150
+00:12:33,040 --> 00:12:34,080
 Robots and Life
 
-181
-00:12:35,870 --> 00:12:40,120
-JAPAN'S RELIGIOUS TRADITIONS HELP ITS PEOPLE
-APPRECIATE ROBOTS.
+151
+00:12:35,280 --> 00:12:38,800
+JAPAN'S RELIGIOUS TRADITIONS HELP 
+ITS PEOPLE APPRECIATE ROBOTS.
 
-182
-00:12:40,120 --> 00:12:44,899
-Mindless metal boxes, coldly following their
-programming to the end, robots are not to
+152
+00:12:39,920 --> 00:12:43,760
+Mindless metal boxes, coldly following 
+their programming to the end,  
 
-183
-00:12:44,899 --> 00:12:45,899
-be trusted.
+153
+00:12:43,760 --> 00:12:45,440
+robots are not to be trusted.
 
-184
-00:12:45,899 --> 00:12:51,459
-This, at least, is the impression you might
-get from many Hollywood movies.
+154
+00:12:46,560 --> 00:12:52,240
+This, at least, is the impression you might 
+get from many Hollywood movies. Traditionally,  
 
-185
-00:12:51,459 --> 00:12:56,920
-Traditionally, robots in Hollywood have generally
-played the bad guy, an unforgiving, unstoppable
+155
+00:12:52,240 --> 00:12:57,440
+robots in Hollywood have generally played the 
+bad guy, an unforgiving, unstoppable creature of  
 
-186
-00:12:56,920 --> 00:13:01,680
-creature of incredible power, usually only
-defeated because of its lack of flexibility
+156
+00:12:57,440 --> 00:13:02,400
+incredible power, usually only defeated because 
+of its lack of flexibility and imagination.  
 
-187
-00:13:01,680 --> 00:13:03,910
-and imagination.
+157
+00:13:03,600 --> 00:13:08,560
+From movies like Blade Runner and Terminator to 
+The Matrix, we are often shown a world where,  
 
-188
-00:13:03,910 --> 00:13:08,079
-From movies like Blade Runner and Terminator
-to The Matrix, we are often shown a world
-
-189
-00:13:08,079 --> 00:13:14,640
-where, given the opportunity, robots and computers
+158
+00:13:08,560 --> 00:13:13,200
+given the opportunity, robots and computers 
 will enslave humans and try to take over.
 
-190
-00:13:14,640 --> 00:13:19,279
-This view reflects a deep mistrust of machines
-in Western culture, a sense of separation
+159
+00:13:14,400 --> 00:13:19,360
+This view reflects a deep mistrust of machines 
+in Western culture, a sense of separation from  
 
-191
-00:13:19,279 --> 00:13:21,450
-from the things we create.
+160
+00:13:19,360 --> 00:13:25,120
+the things we create. However, it is a view 
+not necessarily shared by other cultures.  
 
-192
-00:13:21,450 --> 00:13:26,390
-However, it is a view not necessarily shared
-by other cultures.
+161
+00:13:26,160 --> 00:13:29,520
+In Japan, many fictional 
+accounts of robots are positive.  
 
-193
-00:13:26,390 --> 00:13:31,250
-In Japan, many fictional accounts of robots
-are positive.
+162
+00:13:30,720 --> 00:13:35,040
+Robots are seen as a force for good, 
+as creators of a more pleasant society.
 
-194
-00:13:31,250 --> 00:13:36,350
-Robots are seen as a force for good, as creators
-of a more pleasant society.
+163
+00:13:36,080 --> 00:13:42,400
+These different points of view carry over into 
+everyday life. An American may see robots as a  
 
-195
-00:13:36,350 --> 00:13:40,029
-These different points of view carry over
-into everyday life.
+164
+00:13:42,400 --> 00:13:47,840
+threat to his or her job, as an unnecessary 
+complication, or simply as a useless toy.  
 
-196
-00:13:40,029 --> 00:13:46,269
-An American may see robots as a threat to
-his or her job, as an unnecessary complication,
+165
+00:13:48,720 --> 00:13:53,280
+In Japan the same robot would be seen as a 
+way to make work easier and more efficient,  
 
-197
-00:13:46,269 --> 00:13:48,940
-or simply as a useless toy.
+166
+00:13:53,280 --> 00:13:59,040
+and as an interesting companion, as something 
+fun. This probably explains why there are hundreds  
 
-198
-00:13:48,940 --> 00:13:53,120
-In Japan the same robot would be seen as a
-way to make work easier and more efficient,
+167
+00:13:59,040 --> 00:14:04,080
+of humanoid robots being developed in Japan, 
+while in the USA there are currently just two.
 
-199
-00:13:53,120 --> 00:13:57,100
-and as an interesting companion, as something
-fun.
+168
+00:14:05,280 --> 00:14:08,320
+So why is there such a difference 
+between these two points of view?  
 
-200
-00:13:57,100 --> 00:14:02,089
-This probably explains why there are hundreds
-of humanoid robots being developed in Japan,
+169
+00:14:09,440 --> 00:14:13,200
+Many people have written about the 
+subject, both in Japan and abroad.  
 
-201
-00:14:02,089 --> 00:14:05,490
-while in the USA there are currently just
-two.
+170
+00:14:14,240 --> 00:14:18,400
+It seems mainly to be a question of whether 
+and how much something is seen to be alive.  
 
-202
-00:14:05,490 --> 00:14:09,120
-So why is there such a difference between
-these two points of view?
+171
+00:14:19,520 --> 00:14:23,840
+In this respect, Japan's Shinto and 
+Buddhist heritage plays an important role.
 
-203
-00:14:09,120 --> 00:14:14,509
-Many people have written about the subject,
-both in Japan and abroad.
-
-204
-00:14:14,509 --> 00:14:19,790
-It seems mainly to be a question of whether
-and how much something is seen to be alive.
-
-205
-00:14:19,790 --> 00:14:25,580
-In this respect, Japan's Shinto and Buddhist
-heritage plays an important role.
-
-206
-00:14:25,580 --> 00:14:27,920
+172
+00:14:25,040 --> 00:14:26,560
 Japan's Religious Tradition
 
-207
-00:14:27,920 --> 00:14:33,459
-While Buddhism and Shinto are officially separate,
-in reality most people practice them together.
+173
+00:14:27,600 --> 00:14:32,640
+While Buddhism and Shinto are officially separate, 
+in reality most people practice them together.  
 
-208
-00:14:33,459 --> 00:14:39,960
-Buddhism, with its belief in the oneness or
-unity of all things, was imported from China.
+174
+00:14:33,760 --> 00:14:40,160
+Buddhism, with its belief in the oneness or unity 
+of all things, was imported from China. Shinto is  
 
-209
-00:14:39,960 --> 00:14:44,779
-Shinto is a set of religious beliefs and practices
-native to Japan and was first recorded in
+175
+00:14:40,160 --> 00:14:45,520
+a set of religious beliefs and practices native to 
+Japan and was first recorded in the 8th century.
 
-210
-00:14:44,779 --> 00:14:47,070
-the 8th century.
+176
+00:14:46,640 --> 00:14:50,720
+Shinto involves the worship of Kami, 
+which roughly translates as "spirits."  
 
-211
-00:14:47,070 --> 00:14:52,170
-Shinto involves the worship of Kami, which
-roughly translates as "spirits."
+177
+00:14:51,840 --> 00:14:55,600
+These spirits can be a natural 
+experience, such as wind or rain,  
 
-212
-00:14:52,170 --> 00:14:57,190
-These spirits can be a natural experience,
-such as wind or rain, or the spirit of a natural
+178
+00:14:55,600 --> 00:15:01,600
+or the spirit of a natural place, such 
+as a forest or river, or even rocks. This  
 
-213
-00:14:57,190 --> 00:15:01,579
-place, such as a forest or river, or even
-rocks.
+179
+00:15:01,600 --> 00:15:07,680
+recognition of spiritual life in all things and 
+actions is known as animism. Although Kami can  
 
-214
-00:15:01,579 --> 00:15:07,010
-This recognition of spiritual life in all
-things and actions is known as animism.
+180
+00:15:07,680 --> 00:15:12,400
+also be the spirits of ancestors or people, they 
+are not gods in the Western sense of the word.
 
-215
-00:15:07,010 --> 00:15:11,639
-Although Kami can also be the spirits of ancestors
-or people, they are not gods in the Western
+181
+00:15:13,520 --> 00:15:17,200
+Shinto's main aim is to keep in harmony 
+with the surrounding world by showing  
 
-216
-00:15:11,639 --> 00:15:13,940
-sense of the word.
+182
+00:15:17,200 --> 00:15:22,240
+respect for the kami that inhabit it. 
+In the same way, the tools you use or  
 
-217
-00:15:13,940 --> 00:15:17,829
-Shinto's main aim is to keep in harmony with
-the surrounding world by showing respect for
+183
+00:15:22,240 --> 00:15:28,160
+works you create possess their own spirit or 
+identity, something worthy of respect. It is  
 
-218
-00:15:17,829 --> 00:15:20,330
-the kami that inhabit it.
+184
+00:15:28,160 --> 00:15:32,560
+not surprising that such a belief would give 
+rise to a culture of exceptional craftsmen.
 
-219
-00:15:20,330 --> 00:15:25,750
-In the same way, the tools you use or works
-you create possess their own spirit or identity,
-
-220
-00:15:25,750 --> 00:15:28,110
-something worthy of respect.
-
-221
-00:15:28,110 --> 00:15:33,370
-It is not surprising that such a belief would
-give rise to a culture of exceptional craftsmen.
-
-222
-00:15:33,370 --> 00:15:36,540
+185
+00:15:33,600 --> 00:15:35,120
 A Sense of Connection
 
-223
-00:15:36,540 --> 00:15:40,500
-This sense of connection with the things an
-artist or designer creates is very different
+186
+00:15:36,240 --> 00:15:40,400
+This sense of connection with the things an 
+artist or designer creates is very different  
 
-224
-00:15:40,500 --> 00:15:47,089
-from Western ideas, which sharply divide living,
-thinking beings from lifeless machines.
+187
+00:15:40,400 --> 00:15:45,280
+from Western ideas, which sharply divide 
+living, thinking beings from lifeless machines.  
 
-225
-00:15:47,089 --> 00:15:51,279
-Japanese craftsmen's natural respect for and
-appreciation of the machines they create becomes
+188
+00:15:46,560 --> 00:15:50,320
+Japanese craftsmen's natural respect 
+for and appreciation of the machines  
 
-226
-00:15:51,279 --> 00:15:55,190
-even stronger when applied to a responsive
-robot.
+189
+00:15:50,320 --> 00:15:53,840
+they create becomes even stronger 
+when applied to a responsive robot.
 
-227
-00:15:55,190 --> 00:16:01,050
-In Japan, robots are not seen only as tools
-that exist to make human life easier.
+190
+00:15:54,960 --> 00:16:01,840
+In Japan, robots are not seen only as tools that 
+exist to make human life easier. As one writer has  
 
-228
-00:16:01,050 --> 00:16:05,910
-As one writer has put it, it is no longer
-a question of robots doing things for people,
+191
+00:16:01,840 --> 00:16:08,000
+put it, it is no longer a question of robots doing 
+things for people, but of doing things with them.  
 
-229
-00:16:05,910 --> 00:16:08,259
-but of doing things with them.
-
-230
-00:16:08,259 --> 00:16:13,240
-This is a philosophy that looks into a future
+192
+00:16:08,000 --> 00:16:12,080
+This is a philosophy that looks into a future 
 where man and machine live in harmony.
+ 
+ 
+ 
+ 
 
-231
-00:16:13,240 --> 00:16:17,120
+193
+00:16:13,120 --> 00:16:13,840
 CHAPTER SIX
+
+194
+00:16:15,040 --> 00:16:15,760
 What Do You Think?
 
-232
-00:16:17,120 --> 00:16:21,310
-HOW WILL OUR LIVES CHANGE IN THE FUTURE BECAUSE
-OF ROBOTS?
+195
+00:16:16,880 --> 00:16:19,760
+HOW WILL OUR LIVES CHANGE IN 
+THE FUTURE BECAUSE OF ROBOTS?
 
-233
-00:16:21,310 --> 00:16:27,070
-Every year, technological advances mean newer,
-faster computers, newer communication devices,
+196
+00:16:20,960 --> 00:16:25,040
+Every year, technological advances 
+mean newer, faster computers,  
 
-234
-00:16:27,070 --> 00:16:30,640
-and more sophisticated, more capable robots.
+197
+00:16:25,040 --> 00:16:29,360
+newer communication devices, and more 
+sophisticated, more capable robots.
 
-235
-00:16:30,640 --> 00:16:33,569
-In Japan, this is viewed with excitement.
+198
+00:16:30,400 --> 00:16:36,400
+In Japan, this is viewed with excitement. 
+Perhaps, due to their philosophical history,  
 
-236
-00:16:33,569 --> 00:16:39,029
-Perhaps, due to their philosophical history,
-the Japanese are more capable of "understanding"
+199
+00:16:36,400 --> 00:16:40,080
+the Japanese are more capable of 
+"understanding" and working with robots.  
 
-237
-00:16:39,029 --> 00:16:40,720
-and working with robots.
+200
+00:16:41,120 --> 00:16:44,560
+Do you think robots will become as 
+popular in other parts of the world?  
 
-238
-00:16:40,720 --> 00:16:45,889
-Do you think robots will become as popular
-in other parts of the world?
+201
+00:16:45,600 --> 00:16:49,840
+Will they be as accepted in other 
+countries or will they be objects of fear?
 
-239
-00:16:45,889 --> 00:16:51,209
-Will they be as accepted in other countries
-or will they be objects of fear?
+202
+00:16:50,640 --> 00:16:54,240
+Robots will probably soon play a 
+more important role in our lives.  
 
-240
-00:16:51,209 --> 00:16:55,600
-Robots will probably soon play a more important
-role in our lives.
+203
+00:16:55,360 --> 00:16:59,440
+They will be able to move around better 
+and perform simple jobs around the house,  
 
-241
-00:16:55,600 --> 00:16:59,800
-They will be able to move around better and
-perform simple jobs around the house, such
+204
+00:16:59,440 --> 00:17:05,120
+such as painting, cleaning, and other household 
+tasks. But will they be able to communicate with  
 
-242
-00:16:59,800 --> 00:17:03,569
-as painting, cleaning, and other household
-tasks.
-
-243
-00:17:03,569 --> 00:17:07,670
-But will they be able to communicate with
-humans, have decision-making abilities, and
-
-244
-00:17:07,670 --> 00:17:10,950
+205
+00:17:05,120 --> 00:17:09,680
+humans, have decision-making abilities, and 
 generally live alongside us on the planet?
 
-245
-00:17:10,950 --> 00:17:15,490
-The robot brain is based on computers and
-their increasing ability to carry out billions
+206
+00:17:10,720 --> 00:17:15,600
+The robot brain is based on computers and their 
+increasing ability to carry out billions of  
 
-246
-00:17:15,490 --> 00:17:18,320
-of instructions very quickly.
+207
+00:17:15,600 --> 00:17:21,760
+instructions very quickly. But will robot brains 
+ever have the same kind of intelligence as humans  
 
-247
-00:17:18,320 --> 00:17:23,310
-But will robot brains ever have the same kind
-of intelligence as humans do?
-
-248
-00:17:23,310 --> 00:17:29,320
-Will the computer-based artificial brain allow
+208
+00:17:21,760 --> 00:17:27,840
+do? Will the computer-based artificial brain allow 
 robots to become like intelligent human beings?
 
-249
-00:17:29,320 --> 00:17:32,080
-Some predictions say "Yes!"
+209
+00:17:29,040 --> 00:17:33,920
+Some predictions say "Yes!" Already 
+computers can "understand" humans to  
 
-250
-00:17:32,080 --> 00:17:37,240
-Already computers can "understand" humans
-to some extent by recognizing our speech.
+210
+00:17:33,920 --> 00:17:39,200
+some extent by recognizing our speech. Can 
+you imagine having a robot as a friend?  
 
-251
-00:17:37,240 --> 00:17:40,630
-Can you imagine having a robot as a friend?
+211
+00:17:40,320 --> 00:17:43,920
+Will children go to school with robot 
+friends who help them with their homework?
 
-252
-00:17:40,630 --> 00:17:45,260
-Will children go to school with robot friends
-who help them with their homework?
+212
+00:17:45,040 --> 00:17:50,720
+How will people behave socially with robots in 
+the future? Will they be treated as machines?  
 
-253
-00:17:45,260 --> 00:17:49,410
-How will people behave socially with robots
-in the future?
+213
+00:17:51,840 --> 00:17:57,280
+Or will they act so like us that we treat them 
+as equals? Will we have to change our laws to  
 
-254
-00:17:49,410 --> 00:17:52,100
-Will they be treated as machines?
+214
+00:17:57,280 --> 00:18:02,800
+include the fair treatment of robots? We might 
+even have groups fighting for "robot rights."  
 
-255
-00:17:52,100 --> 00:17:55,890
-Or will they act so like us that we treat
-them as equals?
+215
+00:18:03,920 --> 00:18:08,960
+For example, should robots be paid 
+for the work they do? And if so, how?
 
-256
-00:17:55,890 --> 00:18:00,390
-Will we have to change our laws to include
-the fair treatment of robots?
+216
+00:18:09,920 --> 00:18:13,840
+What do you think will happen? And will 
+it happen in your lifetime?
+ 
+ 
+ 
+ 
+ 
+ 
 
-257
-00:18:00,390 --> 00:18:04,200
-We might even have groups fighting for "robot
-rights."
-
-258
-00:18:04,200 --> 00:18:08,200
-For example, should robots be paid for the
-work they do?
-
-259
-00:18:08,200 --> 00:18:10,200
-And if so, how?
-
-260
-00:18:10,200 --> 00:18:11,730
-What do you think will happen?
-
-261
-00:18:11,730 --> 00:18:15,010
-And will it happen in your lifetime?
-
-262
-00:18:15,010 --> 00:18:15,410
+217
+00:18:13,840 --> 00:18:15,328
 - THE END -
 

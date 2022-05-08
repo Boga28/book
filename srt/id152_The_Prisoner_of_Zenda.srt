@@ -1,4682 +1,3233 @@
 1
-00:00:01,260 --> 00:00:05,500
+00:00:01,200 --> 00:00:02,000
 CHAPTER ONE
-Rassendylls and Elphbergs
 
 2
-00:00:05,500 --> 00:00:11,120
-'When are you going to do something, Rudolf?'
+00:00:03,520 --> 00:00:05,520
+Rassendylls and Elphbergs
 
 3
-00:00:11,120 --> 00:00:13,570
-my sister-in-law asked me one day.
+00:00:08,000 --> 00:00:12,960
+'When are you going to do something, 
+Rudolf?' my sister-in-law asked me one day.
 
 4
-00:00:13,570 --> 00:00:16,210
+00:00:13,920 --> 00:00:16,320
 'What do you mean, Rose?'
 
 5
-00:00:16,210 --> 00:00:19,580
+00:00:16,320 --> 00:00:18,800
 'When are you going to find some work?'
 
 6
-00:00:19,580 --> 00:00:20,580
-'Work!'
+00:00:19,520 --> 00:00:21,440
+'Work!' I replied.
 
 7
-00:00:20,580 --> 00:00:21,580
-I replied.
+00:00:21,440 --> 00:00:27,600
+'I don't need to work. I'm a Rassendyll. 
+My family is one of the best in England.  
 
 8
-00:00:21,580 --> 00:00:23,070
-'I don't need to work.
-
-9
-00:00:23,070 --> 00:00:25,330
-I'm a Rassendyll.
-
-10
-00:00:25,330 --> 00:00:28,450
-My family is one of the best in England.
-
-11
-00:00:28,450 --> 00:00:31,449
+00:00:28,160 --> 00:00:31,280
 I'm rich - I don't need to do anything.'
 
-12
-00:00:31,449 --> 00:00:35,600
-'Your brother works,' Rose reminded me crossly.
+9
+00:00:31,920 --> 00:00:37,200
+'Your brother works,' Rose reminded 
+me crossly. 'He works very hard.'
 
-13
-00:00:35,600 --> 00:00:38,719
-'He works very hard.'
+10
+00:00:38,400 --> 00:00:44,080
+Just at that moment my brother Robert 
+came into the room. He looked at his wife.  
 
-14
-00:00:38,719 --> 00:00:42,519
-Just at that moment my brother Robert came
-into the room.
-
-15
-00:00:42,519 --> 00:00:44,329
-He looked at his wife.
-
-16
-00:00:44,329 --> 00:00:46,679
+11
+00:00:44,080 --> 00:00:47,040
 He could see that she was angry about something.
 
-17
-00:00:46,679 --> 00:00:50,100
+12
+00:00:47,040 --> 00:00:48,880
 'What's wrong, dear?' he asked.
 
-18
-00:00:50,100 --> 00:00:53,890
-'Rose is angry because I don't do anything,'
-I explained.
+13
+00:00:49,680 --> 00:00:56,400
+'Rose is angry because I don't do anything,' 
+I explained. 'I told her I don't need to work.  
 
-19
-00:00:53,890 --> 00:00:56,659
-'I told her I don't need to work.
-
-20
-00:00:56,659 --> 00:01:01,010
+14
+00:00:56,400 --> 00:00:59,280
 We Rassendylls don't need to do anything.'
 
-21
-00:01:01,010 --> 00:01:03,670
-I looked at my sister-in-law again.
-
-22
-00:01:03,670 --> 00:01:06,550
+15
+00:01:00,880 --> 00:01:05,040
+I looked at my sister-in-law again. 
 She was looking at my red hair.
 
-23
-00:01:06,550 --> 00:01:12,070
-'Perhaps she's also angry because I've got
-red hair,' I joked.
+16
+00:01:06,000 --> 00:01:10,560
+'Perhaps she's also angry because 
+I've got red hair,' I joked.
 
-24
-00:01:12,070 --> 00:01:13,130
+17
+00:01:11,680 --> 00:01:12,640
 Rose blushed.
 
-25
-00:01:13,130 --> 00:01:15,140
-'Don't be silly!'
+18
+00:01:13,600 --> 00:01:19,840
+'Don't be silly!' she told me. 'That's not 
+your fault. But all the same,' she went on,  
 
-26
-00:01:15,140 --> 00:01:16,140
-she told me.
+19
+00:01:20,560 --> 00:01:26,480
+'your red hair does remind people of that 
+story about the Rassendylls. It's a pity.'
 
-27
-00:01:16,140 --> 00:01:17,450
-'That's not your fault.
-
-28
-00:01:17,450 --> 00:01:24,080
-But all the same,' she went on, 'your red
-hair does remind people of that story about
-
-29
-00:01:24,080 --> 00:01:26,010
-the Rassendylls.
-
-30
-00:01:26,010 --> 00:01:27,520
-It's a pity.'
-
-31
-00:01:27,520 --> 00:01:29,520
+20
+00:01:27,440 --> 00:01:28,880
 Robert smiled at me.
 
-32
-00:01:29,520 --> 00:01:32,960
-'Of course it's not his fault,' he said cheerfully.
+21
+00:01:29,760 --> 00:01:32,720
+'Of course it's not his 
+fault,' he said cheerfully.  
 
-33
-00:01:32,960 --> 00:01:37,740
-'He's got the nose as well,' he added thoughtfully.
+22
+00:01:33,360 --> 00:01:36,800
+'He's got the nose as well,' 
+he added thoughtfully.
 
-34
-00:01:37,740 --> 00:01:43,540
-'I like my nose, and J like my hair,' I told
-them.
+23
+00:01:37,840 --> 00:01:41,920
+'I like my nose, and J like my hair,' I told them.
 
-35
-00:01:43,540 --> 00:01:48,090
-I turned to look at the picture of Countess
-Amelia on the wall.
+24
+00:01:43,360 --> 00:01:46,640
+I turned to look at the picture 
+of Countess Amelia on the wall.
 
-36
-00:01:48,090 --> 00:01:50,400
-Rose saw where I was looking.
-
-37
-00:01:50,400 --> 00:01:52,450
+25
+00:01:47,760 --> 00:01:51,440
+Rose saw where I was looking. 
 She became angry again.
 
-38
-00:01:52,450 --> 00:01:54,350
-'That picture!'
+26
+00:01:52,720 --> 00:01:55,360
+'That picture!' she complained to Robert.  
 
-39
-00:01:54,350 --> 00:01:55,950
-she complained to Robert.
+27
+00:01:56,160 --> 00:02:00,400
+'People will never forget the story 
+if you don't take that picture down.'
 
-40
-00:01:55,950 --> 00:02:01,210
-'People will never forget the story if you
-don't take that picture down.'
+28
+00:02:01,040 --> 00:02:04,800
+'People will never forget the story 
+while Rudolf's here,' Robert said.  
 
-41
-00:02:01,210 --> 00:02:04,690
-'People will never forget the story while
-Rudolf's here,' Robert said.
-
-42
-00:02:04,690 --> 00:02:08,690
+29
+00:02:04,800 --> 00:02:07,840
 'Look at his red hair - and that nose!'
 
-43
-00:02:08,690 --> 00:02:12,549
+30
+00:02:08,400 --> 00:02:10,960
 Then I decided to annoy Rose a little.
 
-44
-00:02:12,549 --> 00:02:17,129
+31
+00:02:12,480 --> 00:02:16,000
 'Actually,' I said, 'I like being an Elphberg.'
 
-45
-00:02:17,129 --> 00:02:18,239
-'Rudolf!'
+32
+00:02:16,800 --> 00:02:20,640
+'Rudolf!' Rose cried. 'How can you say that?'
 
-46
-00:02:18,239 --> 00:02:19,239
-Rose cried.
+33
+00:02:21,680 --> 00:02:25,840
+I'm sure you want to know why Rose 
+was so angry about my red hair  
 
-47
-00:02:19,239 --> 00:02:21,980
-'How can you say that?'
+34
+00:02:25,840 --> 00:02:28,960
+and my nose. I'll tell you the whole story.
 
-48
-00:02:21,980 --> 00:02:27,560
-I'm sure you want to know why Rose was so
-angry about my red hair and my nose.
+35
+00:02:30,240 --> 00:02:38,080
+We Rassendylls are a very old family. Old families 
+have scandals, and we have a very interesting one.  
 
-49
-00:02:27,560 --> 00:02:30,540
-I'll tell you the whole story.
-
-50
-00:02:30,540 --> 00:02:34,069
-We Rassendylls are a very old family.
-
-51
-00:02:34,069 --> 00:02:39,480
-Old families have scandals, and we have a
-very interesting one.
-
-52
-00:02:39,480 --> 00:02:45,310
+36
+00:02:39,280 --> 00:02:42,880
 It all happened a long time ago - in 1733.
 
-53
-00:02:45,310 --> 00:02:50,139
-The young prince of Ruritania came to England
-that year.
+37
+00:02:45,040 --> 00:02:53,120
+The young prince of Ruritania came to England 
+that year. Prince Rudolf Elphberg was a tall man,  
 
-54
-00:02:50,139 --> 00:02:56,180
-Prince Rudolf Elphberg was a tall man, and
-he had red hair and a long nose.
+38
+00:02:53,120 --> 00:03:00,560
+and he had red hair and a long nose. He was a 
+dashing figure, and was popular everywhere he  
 
-55
-00:02:56,180 --> 00:03:02,120
-He was a dashing figure, and was popular everywhere
-he went.
-
-56
-00:03:02,120 --> 00:03:08,480
-He was a good linguist, he could ride well,
+39
+00:03:00,560 --> 00:03:07,680
+went. He was a good linguist, he could ride well, 
 and he was an excellent marksman and swordsman.
 
-57
-00:03:08,480 --> 00:03:16,359
-The Prince stayed in England for a long time,
-and then something strange happened.
+40
+00:03:09,120 --> 00:03:14,800
+The Prince stayed in England for a long 
+time, and then something strange happened.  
 
-58
-00:03:16,359 --> 00:03:19,480
-One day he fought a duel with an Englishman.
+41
+00:03:16,080 --> 00:03:25,360
+One day he fought a duel with an Englishman. The 
+Englishman's name was James Rassendyll. Rassendyll  
 
-59
-00:03:19,480 --> 00:03:25,349
-The Englishman's name was James Rassendyll.
+42
+00:03:25,360 --> 00:03:32,160
+wounded the Prince. The Prince was not badly 
+hurt, but he returned to Ruritania after the duel.
 
-60
-00:03:25,349 --> 00:03:27,400
-Rassendyll wounded the Prince.
+43
+00:03:33,920 --> 00:03:41,360
+A few months later James Rassendyll died. 
+His wife, the Countess Amelia, had a son  
 
-61
-00:03:27,400 --> 00:03:33,150
-The Prince was not badly hurt, but he returned
-to Ruritania after the duel.
+44
+00:03:41,360 --> 00:03:49,280
+who was born after Rassendyll's death. The baby 
+looked exactly like Prince Elphberg. He had red  
 
-62
-00:03:33,150 --> 00:03:37,870
-A few months later James Rassendyll died.
+45
+00:03:49,280 --> 00:03:56,960
+hair and a long nose. Now everybody understood 
+why Rassendyll and the Prince had fought a duel!
 
-63
-00:03:37,870 --> 00:03:45,510
-His wife, the Countess Amelia, had a son who
-was born after Rassendyll's death.
+46
+00:03:59,120 --> 00:04:04,960
+Ever since that time, there have always been 
+some Rassendylls who have red hair and long  
 
-64
-00:03:45,510 --> 00:03:48,780
-The baby looked exactly like Prince Elphberg.
-
-65
-00:03:48,780 --> 00:03:52,659
-He had red hair and a long nose.
-
-66
-00:03:52,659 --> 00:03:59,400
-Now everybody understood why Rassendyll and
-the Prince had fought a duel!
-
-67
-00:03:59,400 --> 00:04:05,279
-Ever since that time, there have always been
-some Rassendylls who have red hair and long
-
-68
-00:04:05,279 --> 00:04:06,879
-noses.
-
-69
-00:04:06,879 --> 00:04:09,480
-We call them 'Elphberg' Rassendylls.
-
-70
-00:04:09,480 --> 00:04:14,540
+47
+00:04:04,960 --> 00:04:14,160
+noses. We call them 'Elphberg' Rassendylls. 
 I'm an 'Elphberg' Rassendyll myself, you see.
 
-71
-00:04:14,540 --> 00:04:19,620
-Rose did not like the old story of Countess
-Amelia and the Prince of Ruritania.
+48
+00:04:14,160 --> 00:04:20,480
+Rose did not like the old story of Countess Amelia 
+and the Prince of Ruritania. It embarrassed her.  
 
-72
-00:04:19,620 --> 00:04:21,500
-It embarrassed her.
+49
+00:04:21,280 --> 00:04:27,920
+Almost as much as my Elphberg features embarrassed 
+her. She thought that my features showed the  
 
-73
-00:04:21,500 --> 00:04:26,060
-Almost as much as my Elphberg features embarrassed
-her.
+50
+00:04:27,920 --> 00:04:34,800
+weakness of character and the uselessness of my 
+life. However, I thought that I had learnt quite  
 
-74
-00:04:26,060 --> 00:04:32,320
-She thought that my features showed the weakness
-of character and the uselessness of my life.
+51
+00:04:34,800 --> 00:04:42,960
+a lot. I spoke fluent German, my French was very 
+good, and my Italian was acceptable. I was good  
 
-75
-00:04:32,320 --> 00:04:36,220
-However, I thought that I had learnt quite
-a lot.
-
-76
-00:04:36,220 --> 00:04:42,600
-I spoke fluent German, my French was very
-good, and my Italian was acceptable.
-
-77
-00:04:42,600 --> 00:04:46,700
-I was good enough with a pistol, but not excellent.
-
-78
-00:04:46,700 --> 00:04:50,880
+52
+00:04:42,960 --> 00:04:48,960
+enough with a pistol, but not excellent. 
 I could also ride any horse you gave me.
 
-79
-00:04:50,880 --> 00:04:55,970
-I started to think about Ruritania over the
-next few days.
+53
+00:04:50,720 --> 00:04:54,640
+I started to think about 
+Ruritania over the next few days.  
 
-80
-00:04:55,970 --> 00:04:59,470
-I thought about Countess Amelia and the Prince.
+54
+00:04:55,760 --> 00:05:02,480
+I thought about Countess Amelia and the 
+Prince. It was a romantic story. I knew  
 
-81
-00:04:59,470 --> 00:05:02,030
-It was a romantic story.
+55
+00:05:02,480 --> 00:05:09,840
+that the old King was dead. His son, another 
+Prince Rudolf, was going to be the next King.  
 
-82
-00:05:02,030 --> 00:05:04,470
-I knew that the old King was dead.
+56
+00:05:10,400 --> 00:05:17,360
+I decided to visit Ruritania. I wanted to see 
+the coronation of the young Prince Rudolf.
 
-83
-00:05:04,470 --> 00:05:10,540
-His son, another Prince Rudolf, was going
-to be the next King.
+57
+00:05:18,560 --> 00:05:22,480
+I did not tell my brother Robert 
+of my plan to visit Ruritania.  
 
-84
-00:05:10,540 --> 00:05:13,560
-I decided to visit Ruritania.
+58
+00:05:23,040 --> 00:05:26,160
+I told him I was going to the 
+Tyrol for a short holiday.
 
-85
-00:05:13,560 --> 00:05:17,880
-I wanted to see the coronation of the young
-Prince Rudolf.
+59
+00:05:27,360 --> 00:05:29,760
+I was very excited when I left England.  
 
-86
-00:05:17,880 --> 00:05:23,150
-I did not tell my brother Robert of my plan
-to visit Ruritania.
-
-87
-00:05:23,150 --> 00:05:27,570
-I told him I was going to the Tyrol for a
-short holiday.
-
-88
-00:05:27,570 --> 00:05:30,630
-I was very excited when I left England.
-
-89
-00:05:30,630 --> 00:05:42,210
-I did not know that I was going on a great
+60
+00:05:30,480 --> 00:05:37,840
+I did not know that I was going on a great 
 adventure - the greatest adventure of my life!
+ 
+ 
+ 
 
-90
-00:05:42,210 --> 00:05:45,780
+61
+00:05:42,160 --> 00:05:42,960
 CHAPTER TWO
+
+62
+00:05:44,000 --> 00:05:45,840
 The Journey to Ruritania
 
-91
-00:05:45,780 --> 00:05:53,080
-I decided to stay in Paris for a night on
-my way to Ruritania.
+63
+00:05:47,920 --> 00:05:51,840
+I decided to stay in Paris for 
+a night on my way to Ruritania.  
 
-92
-00:05:53,080 --> 00:05:57,380
-Paris is a lively city, and I enjoyed myself
-a lot.
+64
+00:05:52,880 --> 00:05:56,640
+Paris is a lively city, 
+and I enjoyed myself a lot.  
 
-93
-00:05:57,380 --> 00:06:00,920
-I spent the evening with two friends.
+65
+00:05:57,920 --> 00:06:03,920
+I spent the evening with two friends. One of 
+them, George, worked in the British Embassy.
 
-94
-00:06:00,920 --> 00:06:05,690
-One of them, George, worked in the British
-Embassy.
+66
+00:06:05,440 --> 00:06:10,080
+We were three young men, and we talked 
+about the beautiful women in Paris.  
 
-95
-00:06:05,690 --> 00:06:11,490
-We were three young men, and we talked about
-the beautiful women in Paris.
-
-96
-00:06:11,490 --> 00:06:15,000
+67
+00:06:11,200 --> 00:06:14,720
 Somebody mentioned Antoinette De Mauban.
 
-97
-00:06:15,000 --> 00:06:18,000
-'I've heard of her,' I said excitedly.
+68
+00:06:14,720 --> 00:06:21,120
+'I've heard of her,' I said excitedly. 'She's 
+a famous beauty. What does she look like?'
 
-98
-00:06:18,000 --> 00:06:19,170
-'She's a famous beauty.
+69
+00:06:21,120 --> 00:06:26,640
+'She's the most wonderful woman in Paris,' 
+George told me. 'You won't see her, I'm afraid,'  
 
-99
-00:06:19,170 --> 00:06:21,420
-What does she look like?'
+70
+00:06:26,640 --> 00:06:28,720
+he added. 'She's leaving Paris tonight.'
 
-100
-00:06:21,420 --> 00:06:25,000
-'She's the most wonderful woman in Paris,'
-George told me.
-
-101
-00:06:25,000 --> 00:06:27,680
-'You won't see her, I'm afraid,' he added.
-
-102
-00:06:27,680 --> 00:06:30,250
-'She's leaving Paris tonight.'
-
-103
-00:06:30,250 --> 00:06:32,260
+71
+00:06:30,080 --> 00:06:31,760
 He spoke quietly now.
 
-104
-00:06:32,260 --> 00:06:36,420
-'The Duke of Strelsau visited here in Paris,'
-he said.
+72
+00:06:32,320 --> 00:06:35,440
+'The Duke of Strelsau visited 
+here in Paris,' he said.
 
-105
-00:06:36,420 --> 00:06:38,670
-'Really,' I replied.
+73
+00:06:36,640 --> 00:06:40,480
+'Really,' I replied. 'I 
+wonder I where she's going.'
 
-106
-00:06:38,670 --> 00:06:42,380
-'I wonder I where she's going.'
+74
+00:06:42,240 --> 00:06:47,840
+I knew that the Duke of Strelsau was the 
+half-brother of Prince Rudolf of Ruritania.  
 
-107
-00:06:42,380 --> 00:06:49,250
-I knew that the Duke of Strelsau was the half-brother
-of Prince Rudolf of Ruritania.
+75
+00:06:48,800 --> 00:06:52,720
+Perhaps Antoinette De Mauban 
+was going to Ruritania as well!
 
-108
-00:06:49,250 --> 00:06:53,970
-Perhaps Antoinette De Mauban was going to
-Ruritania as well!
+76
+00:06:54,560 --> 00:07:00,480
+George went to the railway station with me the 
+next day. I did not tell him I was travelling  
 
-109
-00:06:53,970 --> 00:06:58,750
-George went to the railway station with me
-the next day.
+77
+00:07:00,480 --> 00:07:06,720
+to Ruritania because I did not want anyone 
+to know. I told him I was going to Dresden.
 
-110
-00:06:58,750 --> 00:07:04,780
-I did not tell him I was travelling to Ruritania
-because I did not want anyone to know.
+78
+00:07:08,800 --> 00:07:12,640
+There was a smartly dressed lady 
+on the platform when we arrived.
 
-111
-00:07:04,780 --> 00:07:07,620
-I told him I was going to Dresden.
+79
+00:07:13,520 --> 00:07:16,800
+'Excuse me, Rudolf,' he said. 'I know that lady.  
 
-112
-00:07:07,620 --> 00:07:13,770
-There was a smartly dressed lady on the platform
-when we arrived.
+80
+00:07:17,360 --> 00:07:19,680
+I'll just go and say hello 
+to her. I won't be long.'
 
-113
-00:07:13,770 --> 00:07:15,810
-'Excuse me, Rudolf,' he said.
+81
+00:07:20,800 --> 00:07:25,280
+He went to talk to the lady. He 
+was smiling when he came back.
 
-114
-00:07:15,810 --> 00:07:16,970
-'I know that lady.
+82
+00:07:25,280 --> 00:07:29,040
+'You're in luck!' he joked. 
+'That's Antoinette De Mauban,  
 
-115
-00:07:16,970 --> 00:07:19,060
-I'll just go and say hello to her.
-
-116
-00:07:19,060 --> 00:07:20,670
-I won't be long.'
-
-117
-00:07:20,670 --> 00:07:23,520
-He went to talk to the lady.
-
-118
-00:07:23,520 --> 00:07:25,990
-He was smiling when he came back.
-
-119
-00:07:25,990 --> 00:07:27,810
-'You're in luck!' he joked.
-
-120
-00:07:27,810 --> 00:07:31,250
-'That's Antoinette De Mauban, and she's travelling
-on your train.
-
-121
-00:07:31,250 --> 00:07:32,430
+83
+00:07:29,040 --> 00:07:32,320
+and she's travelling on your train. 
 She's going to Dresden as well.'
 
-122
-00:07:32,430 --> 00:07:42,490
-I did not see Antoinette De Mauban again until
-the train arrived at Dresden.
+84
+00:07:36,160 --> 00:07:40,960
+I did not see Antoinette De Mauban again 
+until the train arrived at Dresden.  
 
-123
-00:07:42,490 --> 00:07:47,950
-I got off the train there because I wanted
-to take the train for Ruritania.
+85
+00:07:42,320 --> 00:07:46,400
+I got off the train there because I 
+wanted to take the train for Ruritania.  
 
-124
-00:07:47,950 --> 00:07:51,120
-Then I saw her!
+86
+00:07:47,680 --> 00:07:57,040
+Then I saw her! Antoinette De Mauban got on the 
+same train as me. She was travelling to Ruritania  
 
-125
-00:07:51,120 --> 00:07:55,310
-Antoinette De Mauban got on the same train
-as me.
+87
+00:07:57,040 --> 00:08:01,360
+as well. Perhaps she was going 
+to visit the Duke of Strelsau.
 
-126
-00:07:55,310 --> 00:07:59,300
-She was travelling to Ruritania as well.
+88
+00:08:02,400 --> 00:08:07,520
+As soon as we reached the Ruritanian 
+border, I went to buy some newspapers  
 
-127
-00:07:59,300 --> 00:08:02,620
-Perhaps she was going to visit the Duke of
-Strelsau.
+89
+00:08:07,520 --> 00:08:13,440
+and the officer in charge of the customs house 
+gave me such a stare that I was surer than  
 
-128
-00:08:02,620 --> 00:08:08,400
-As soon as we reached the Ruritanian border,
-I went to buy some newspapers and the officer
+90
+00:08:13,440 --> 00:08:19,840
+ever of my resemblance to the Elphbergs.The 
+train journey to Ruritania was a long one.  
 
-129
-00:08:08,400 --> 00:08:14,810
-in charge of the customs house gave me such
-a stare that I was surer than ever of my resemblance
+91
+00:08:20,720 --> 00:08:24,080
+I read some of the Ruritanian 
+newspapers during the journey.
 
-130
-00:08:14,810 --> 00:08:20,920
-to the Elphbergs.The train journey to Ruritania
-was a long one.
+92
+00:08:25,120 --> 00:08:28,560
+There were lots of articles about 
+Prince Rudolf and the coronation.  
 
-131
-00:08:20,920 --> 00:08:24,630
-I read some of the Ruritanian newspapers during
-the journey.
+93
+00:08:29,840 --> 00:08:35,040
+The capital city, Strelsau, was full of 
+people who wanted to see the ceremony.  
 
-132
-00:08:24,630 --> 00:08:30,060
-There were lots of articles about Prince Rudolf
-and the coronation.
+94
+00:08:36,160 --> 00:08:41,520
+I did not want to stay in a crowded 
+hotel, so I decided not to go to Strelsau.  
 
-133
-00:08:30,060 --> 00:08:36,330
-The capital city, Strelsau, was full of people
-who wanted to see the ceremony.
+95
+00:08:42,800 --> 00:08:47,200
+There is a little town called Zenda 
+about fifty miles from the capital.  
 
-134
-00:08:36,330 --> 00:08:43,120
-I did not want to stay in a crowded hotel,
-so I decided not to go to Strelsau.
+96
+00:08:48,160 --> 00:08:55,360
+I decided to stay there until the day of the 
+coronation.'I can travel into Strelsau every  
 
-135
-00:08:43,120 --> 00:08:48,330
-There is a little town called Zenda about
-fifty miles from the capital.
+97
+00:08:55,360 --> 00:09:02,480
+day on the train,' I said to myself, i can come 
+back to Zenda every night. It's not very far.'
 
-136
-00:08:48,330 --> 00:08:55,410
-I decided to stay there until the day of the
-coronation.'I can travel into Strelsau every
+98
+00:09:04,800 --> 00:09:11,360
+I got off the train at Zenda. There was a good 
+hotel in the town. I was comfortable there.
 
-137
-00:08:55,410 --> 00:09:01,340
-day on the train,' I said to myself, i can
-come back to Zenda every night.
+99
+00:09:12,880 --> 00:09:19,760
+There was a lot of excitement in Zenda because of 
+the coronation. Everybody was talking about Prince  
 
-138
-00:09:01,340 --> 00:09:04,940
-It's not very far.'
+100
+00:09:19,760 --> 00:09:27,200
+Rudolf and his half-brother, the Duke of Strelsau. 
+I learned that the Duke owned the castle in Zenda.
 
-139
-00:09:04,940 --> 00:09:06,970
-I got off the train at Zenda.
+101
+00:09:29,120 --> 00:09:35,840
+Everybody spoke very well about the Duke. They 
+made less friendly remarks about Prince Rudolf.  
 
-140
-00:09:06,970 --> 00:09:10,190
-There was a good hotel in the town.
+102
+00:09:36,400 --> 00:09:42,800
+He had spent a long time away from the country, 
+and very few people even knew what he looked like.  
 
-141
-00:09:10,190 --> 00:09:13,170
-I was comfortable there.
+103
+00:09:44,160 --> 00:09:48,000
+I heard that he had also 
+shaved off his famous beard  
 
-142
-00:09:13,170 --> 00:09:18,150
-There was a lot of excitement in Zenda because
-of the coronation.
+104
+00:09:48,000 --> 00:09:51,360
+which made it even more difficult 
+for people to recognize him.
 
-143
-00:09:18,150 --> 00:09:24,330
-Everybody was talking about Prince Rudolf
-and his half-brother, the Duke of Strelsau.
-
-144
-00:09:24,330 --> 00:09:29,750
-I learned that the Duke owned the castle in
-Zenda.
-
-145
-00:09:29,750 --> 00:09:32,390
-Everybody spoke very well about the Duke.
-
-146
-00:09:32,390 --> 00:09:36,610
-They made less friendly remarks about Prince
-Rudolf.
-
-147
-00:09:36,610 --> 00:09:42,690
-He had spent a long time away from the country,
-and very few people even knew what he looked
-
-148
-00:09:42,690 --> 00:09:44,300
-like.
-
-149
-00:09:44,300 --> 00:09:50,060
-I heard that he had also shaved off his famous
-beard which made it even more difficult for
-
-150
-00:09:50,060 --> 00:09:52,840
-people to recognize him.
-
-151
-00:09:52,840 --> 00:09:58,990
-The old lady who owned the hotel was excited
+105
+00:09:52,560 --> 00:09:58,000
+The old lady who owned the hotel was excited 
 about the coronation like everybody else.
 
-152
-00:09:58,990 --> 00:10:02,330
-'Prince Rudolf is here in Zenda!'
+106
+00:09:58,960 --> 00:10:05,200
+'Prince Rudolf is here in Zenda!' she 
+told me. 'He's staying near the castle.  
 
-153
-00:10:02,330 --> 00:10:03,520
-she told me.
+107
+00:10:05,920 --> 00:10:10,400
+He'll travel from Zenda to Strelsau 
+on the day of the coronation.
 
-154
-00:10:03,520 --> 00:10:06,250
-'He's staying near the castle.
-
-155
-00:10:06,250 --> 00:10:11,900
-He'll travel from Zenda to Strelsau on the
-day of the coronation.
-
-156
-00:10:11,900 --> 00:10:14,150
+108
+00:10:11,360 --> 00:10:13,840
 Suddenly she looked very serious.
 
-157
-00:10:14,150 --> 00:10:17,550
-'It's a pity,' she told me.
+109
+00:10:14,560 --> 00:10:17,120
+'It's a pity,' she told me.  
 
-158
-00:10:17,550 --> 00:10:24,649
-'The Duke's a good man - he'd be a very good
-king for Ruritania.
+110
+00:10:17,760 --> 00:10:25,520
+'The Duke's a good man - he'd be a very 
+good king for Ruritania. Prince Rudolf's'
 
-159
-00:10:24,649 --> 00:10:25,649
-Prince Rudolf's'
+111
+00:10:25,520 --> 00:10:32,480
+-'Mother!' one of the old lady's daughters cried. 
+She was angry. 'The Duke's a bad man, you know  
 
-160
-00:10:25,649 --> 00:10:26,649
--'Mother!'
+112
+00:10:32,480 --> 00:10:40,080
+that. I want Prince Rudolf to be king. He's a 
+real Elphberg, with red hair and a long nose.'
 
-161
-00:10:26,649 --> 00:10:29,060
-one of the old lady's daughters cried.
+113
+00:10:40,800 --> 00:10:44,880
+'Are the Prince and the Duke good 
+friends?' I asked the old lady.
 
-162
-00:10:29,060 --> 00:10:30,060
-She was angry.
+114
+00:10:45,680 --> 00:10:48,960
+'No,' the old lady's daughter said. 'They  
 
-163
-00:10:30,060 --> 00:10:33,500
-'The Duke's a bad man, you know that.
+115
+00:10:48,960 --> 00:10:55,120
+hate each other really. They're both in 
+love with the same girl, Princess Flavia.'
 
-164
-00:10:33,500 --> 00:10:35,480
-I want Prince Rudolf to be king.
+116
+00:10:55,120 --> 00:11:00,640
+'Be quiet!' the old lady commanded 
+her. She turned to me with a smile.
 
-165
-00:10:35,480 --> 00:10:40,200
-He's a real Elphberg, with red hair and a
-long nose.'
+117
+00:11:01,200 --> 00:11:08,080
+'You mustn't take what she says seriously, sir,' 
+she told me. 'The Duke and the Prince are the  
 
-166
-00:10:40,200 --> 00:10:43,890
-'Are the Prince and the Duke good friends?'
+118
+00:11:08,080 --> 00:11:13,840
+best of friends. The Duke is helping the 
+Prince to prepare for the coronation.'
 
-167
-00:10:43,890 --> 00:10:45,820
-I asked the old lady.
+119
+00:11:14,400 --> 00:11:17,920
+'You know that's not true!' 
+the old lady's daughter  
 
-168
-00:10:45,820 --> 00:10:48,270
-'No,' the old lady's daughter said.
+120
+00:11:17,920 --> 00:11:23,840
+interrupted once again. 'The Duke 
+hates Prince Rudolf. Black Michael -'
 
-169
-00:10:48,270 --> 00:10:50,110
-'They hate each other really.
+121
+00:11:23,840 --> 00:11:29,680
+The door of the room opened and a man came 
+in. He looked very angrily at the girl.
 
-170
-00:10:50,110 --> 00:10:54,800
-They're both in love with the same girl, Princess
-Flavia.'
+122
+00:11:29,680 --> 00:11:33,360
+'I've told you before not to 
+call him 'Black Michael','  
 
-171
-00:10:54,800 --> 00:10:56,640
-'Be quiet!'
+123
+00:11:33,360 --> 00:11:36,880
+he shouted angrily. 'He's the Duke of Strelsau!'
 
-172
-00:10:56,640 --> 00:10:59,220
-the old lady commanded her.
+124
+00:11:38,160 --> 00:11:41,840
+The man saw me in the room now 
+and he was suddenly silent.  
 
-173
-00:10:59,220 --> 00:11:01,480
-She turned to me with a smile.
-
-174
-00:11:01,480 --> 00:11:05,770
-'You mustn't take what she says seriously,
-sir,' she told me.
-
-175
-00:11:05,770 --> 00:11:09,520
-'The Duke and the Prince are the best of friends.
-
-176
-00:11:09,520 --> 00:11:13,740
-The Duke is helping the Prince to prepare
-for the coronation.'
-
-177
-00:11:13,740 --> 00:11:16,540
-'You know that's not true!'
-
-178
-00:11:16,540 --> 00:11:19,680
-the old lady's daughter interrupted once again.
-
-179
-00:11:19,680 --> 00:11:22,490
-'The Duke hates Prince Rudolf.
-
-180
-00:11:22,490 --> 00:11:23,910
-Black Michael -'
-
-181
-00:11:23,910 --> 00:11:27,550
-The door of the room opened and a man came
-in.
-
-182
-00:11:27,550 --> 00:11:29,490
-He looked very angrily at the girl.
-
-183
-00:11:29,490 --> 00:11:35,140
-'I've told you before not to call him 'Black
-Michael',' he shouted angrily.
-
-184
-00:11:35,140 --> 00:11:38,400
-'He's the Duke of Strelsau!'
-
-185
-00:11:38,400 --> 00:11:42,900
-The man saw me in the room now and he was
-suddenly silent.
-
-186
-00:11:42,900 --> 00:11:45,300
-He seemed shocked for a moment.
-
-187
-00:11:45,300 --> 00:11:47,990
+125
+00:11:42,640 --> 00:11:47,440
+He seemed shocked for a moment. 
 The old lady explained who I was.
 
-188
-00:11:47,990 --> 00:11:51,630
-'This is Mr. Rassendyll,' she said.
+126
+00:11:48,160 --> 00:11:54,960
+'This is Mr. Rassendyll,' she said. 'He's come 
+from England to see the Prince's coronation.'
 
-189
-00:11:51,630 --> 00:11:55,890
-'He's come from England to see the Prince's
-coronation.'
-
-190
-00:11:55,890 --> 00:11:57,860
+127
+00:11:55,760 --> 00:11:57,280
 She turned politely to me.
 
-191
-00:11:57,860 --> 00:12:00,240
-'This is Johann,' she said.
+128
+00:11:58,000 --> 00:12:02,800
+'This is Johann,' she said. 'Fie 
+works for the Duke of Strelsau.'
 
-192
-00:12:00,240 --> 00:12:03,960
-'Fie works for the Duke of Strelsau.'
+129
+00:12:03,920 --> 00:12:07,840
+The man was still silent. He stared at me in a  
 
-193
-00:12:03,960 --> 00:12:06,590
-The man was still silent.
+130
+00:12:07,840 --> 00:12:12,320
+very strange way. I did not 
+understand what was troubling him.
 
-194
-00:12:06,590 --> 00:12:09,960
-He stared at me in a very strange way.
-
-195
-00:12:09,960 --> 00:12:13,050
-I did not understand what was troubling him.
-
-196
-00:12:13,050 --> 00:12:15,390
+131
+00:12:13,600 --> 00:12:14,960
 The girl began to laugh.
 
-197
-00:12:15,390 --> 00:12:19,649
-'You've got red hair, sir,' she said to me.
+132
+00:12:16,400 --> 00:12:20,400
+'You've got red hair, sir,' she 
+said to me. 'He doesn't like  
 
-198
-00:12:19,649 --> 00:12:21,190
-'He doesn't like red hair.
+133
+00:12:20,400 --> 00:12:23,600
+red hair. It's the Prince's colour, you see.'
 
-199
-00:12:21,190 --> 00:12:23,720
-It's the Prince's colour, you see.'
-
-200
-00:12:23,720 --> 00:12:25,120
+134
+00:12:23,600 --> 00:12:24,640
 The man laughed.
 
-201
-00:12:25,120 --> 00:12:28,380
-'I'm sorry, sir,' he said.
+135
+00:12:25,680 --> 00:12:28,960
+'I'm sorry, sir,' he said. 'You look -'
 
-202
-00:12:28,380 --> 00:12:29,380
-'You look -'
+136
+00:12:28,960 --> 00:12:33,840
+He was silent again and then 
+he said, 'You surprised me.  
 
-203
-00:12:29,380 --> 00:12:34,670
-He was silent again and then he said, 'You
-surprised me.
-
-204
-00:12:34,670 --> 00:12:42,120
+137
+00:12:34,560 --> 00:12:37,840
 I didn't know anyone was staying in the hotel.'
+ 
+ 
+ 
 
-205
-00:12:42,120 --> 00:12:48,240
+138
+00:12:42,000 --> 00:12:42,880
 CHAPTER THREE
+
+139
+00:12:44,080 --> 00:12:45,600
 The Cousins Rudolf
 
-206
-00:12:48,240 --> 00:12:51,400
-I went for a walk in the forest the next morning.
+140
+00:12:48,080 --> 00:12:53,760
+I went for a walk in the forest the next 
+morning. I walked near the castle. The  
 
-207
-00:12:51,400 --> 00:12:53,750
-I walked near the castle.
+141
+00:12:53,760 --> 00:13:01,040
+old part was very imposing and still in good 
+condition. I noticed that it stood on an island,  
 
-208
-00:12:53,750 --> 00:12:58,680
-The old part was very imposing and still in
-good condition.
+142
+00:13:01,040 --> 00:13:08,960
+and there was a moat full of water surrounding 
+it. The water looked deep and cold. On the  
 
-209
-00:12:58,680 --> 00:13:03,649
-I noticed that it stood on an island, and
-there was a moat full of water surrounding
+143
+00:13:08,960 --> 00:13:16,400
+other side of the moat there was an elegant modern 
+chateau, the country home of the Duke of Strelsau.  
 
-210
-00:13:03,649 --> 00:13:05,029
-it.
+144
+00:13:17,840 --> 00:13:25,280
+I walked for a long time. I decided to lie down 
+and rest for a while. I fell asleep in the forest.
 
-211
-00:13:05,029 --> 00:13:08,839
-The water looked deep and cold.
+145
+00:13:27,040 --> 00:13:34,000
+I dreamt I was married to Princess Flavia and we 
+lived in the castle of Zenda. I was about to kiss  
 
-212
-00:13:08,839 --> 00:13:14,980
-On the other side of the moat there was an
-elegant modern chateau, the country home of
+146
+00:13:34,000 --> 00:13:40,400
+the Princess when I heard someone say, 'This man 
+looks just like the Prince except for his beard.'
 
-213
-00:13:14,980 --> 00:13:18,020
-the Duke of Strelsau.
+147
+00:13:41,120 --> 00:13:45,760
+I opened my eyes and saw two men 
+looking at me with great curiosity.
 
-214
-00:13:18,020 --> 00:13:20,310
-I walked for a long time.
+148
+00:13:46,800 --> 00:13:53,840
+Then the other man said, 'He's the same height 
+as the Prince, as well. Really, it's very odd!'
 
-215
-00:13:20,310 --> 00:13:23,060
-I decided to lie down and rest for a while.
+149
+00:13:54,960 --> 00:14:02,160
+I stood up now and looked at the two men. One 
+of them was quite an old man. He had a square  
 
-216
-00:13:23,060 --> 00:13:27,190
-I fell asleep in the forest.
+150
+00:14:02,160 --> 00:14:09,680
+head and a grey moustache, and he looked serious. 
+The other one was young. He had dark skin,  
 
-217
-00:13:27,190 --> 00:13:32,990
-I dreamt I was married to Princess Flavia
-and we lived in the castle of Zenda.
+151
+00:14:09,680 --> 00:14:15,840
+and he seemed friendlier than the 
+older man. The young man smiled at me.
 
-218
-00:13:32,990 --> 00:13:38,899
-I was about to kiss the Princess when I heard
-someone say, 'This man looks just like the
-
-219
-00:13:38,899 --> 00:13:41,270
-Prince except for his beard.'
-
-220
-00:13:41,270 --> 00:13:47,150
-I opened my eyes and saw two men looking at
-me with great curiosity.
-
-221
-00:13:47,150 --> 00:13:52,190
-Then the other man said, 'He's the same height
-as the Prince, as well.
-
-222
-00:13:52,190 --> 00:13:55,080
-Really, it's very odd!'
-
-223
-00:13:55,080 --> 00:13:58,990
-I stood up now and looked at the two men.
-
-224
-00:13:58,990 --> 00:14:01,460
-One of them was quite an old man.
-
-225
-00:14:01,460 --> 00:14:06,670
-He had a square head and a grey moustache,
-and he looked serious.
-
-226
-00:14:06,670 --> 00:14:08,350
-The other one was young.
-
-227
-00:14:08,350 --> 00:14:13,820
-He had dark skin, and he seemed friendlier
-than the older man.
-
-228
-00:14:13,820 --> 00:14:15,970
-The young man smiled at me.
-
-229
-00:14:15,970 --> 00:14:20,770
+152
+00:14:16,480 --> 00:14:19,040
 'What's your name?' he asked politely.
 
-230
-00:14:20,770 --> 00:14:22,560
-'Rassendyll' I told him.
+153
+00:14:20,080 --> 00:14:23,760
+'Rassendyll' I told him. 'Rudolf Rassendyll.'
 
-231
-00:14:22,560 --> 00:14:24,470
-'Rudolf Rassendyll.'
+154
+00:14:24,720 --> 00:14:27,040
+'I'm Fritz von Tarlenheim,' he said.  
 
-232
-00:14:24,470 --> 00:14:28,170
-'I'm Fritz von Tarlenheim,' he said.
+155
+00:14:27,920 --> 00:14:34,080
+He pointed at the older man. 'And this is Colonel 
+Sapt,' he told me. 'We work for the Prince.'
 
-233
-00:14:28,170 --> 00:14:30,120
-He pointed at the older man.
-
-234
-00:14:30,120 --> 00:14:32,940
-'And this is Colonel Sapt,' he told me.
-
-235
-00:14:32,940 --> 00:14:35,600
-'We work for the Prince.'
-
-236
-00:14:35,600 --> 00:14:37,890
+156
+00:14:35,120 --> 00:14:37,200
 Colonel Sapt smiled at me now.
 
-237
-00:14:37,890 --> 00:14:42,550
-'So you're a Rassendyll,' he said happily.
+157
+00:14:38,000 --> 00:14:42,320
+'So you're a Rassendyll,' he said happily.  
 
-238
-00:14:42,550 --> 00:14:49,870
-'You know the old story about the Prince of
+158
+00:14:42,320 --> 00:14:49,760
+'You know the old story about the Prince of 
 Ruritania and the Countess Amelia, I suppose?'
 
-239
-00:14:49,870 --> 00:14:51,720
+159
+00:14:49,760 --> 00:14:51,040
 I smiled as well.
 
-240
-00:14:51,720 --> 00:14:56,750
+160
+00:14:51,840 --> 00:14:55,440
 'I know the story very well,' I told him.
 
-241
-00:14:56,750 --> 00:15:01,660
-There was a noise behind some trees, and a
-man began to shout.
+161
+00:14:56,480 --> 00:15:00,480
+There was a noise behind some 
+trees, and a man began to shout.
 
-242
-00:15:01,660 --> 00:15:03,180
-'Fritz!
+162
+00:15:01,200 --> 00:15:05,040
+'Fritz! Fritz! Where are you?'
 
-243
-00:15:03,180 --> 00:15:04,709
-Fritz!
+163
+00:15:06,480 --> 00:15:11,840
+'It's the Prince,' Fritz von 
+Tarlenheim said. 'He's calling me.'
 
-244
-00:15:04,709 --> 00:15:05,920
-Where are you?'
+164
+00:15:11,840 --> 00:15:19,360
+Now the man came forward. I looked at him in 
+great surprise. He looked at me in great surprise.  
 
-245
-00:15:05,920 --> 00:15:10,010
-'It's the Prince,' Fritz von Tarlenheim said.
-
-246
-00:15:10,010 --> 00:15:12,050
-'He's calling me.'
-
-247
-00:15:12,050 --> 00:15:14,420
-Now the man came forward.
-
-248
-00:15:14,420 --> 00:15:17,589
-I looked at him in great surprise.
-
-249
-00:15:17,589 --> 00:15:20,810
-He looked at me in great surprise.
-
-250
-00:15:20,810 --> 00:15:29,620
-Prince Rudolf of Ruritania and Rudolf Rassendyll
+165
+00:15:20,480 --> 00:15:27,920
+Prince Rudolf of Ruritania and Rudolf Rassendyll 
 looked the same - except for my beard.
 
-251
-00:15:29,620 --> 00:15:31,990
-I studied the Prince carefully.
+166
+00:15:29,440 --> 00:15:33,680
+I studied the Prince carefully. 
+The likeness was remarkable.  
 
-252
-00:15:31,990 --> 00:15:34,860
-The likeness was remarkable.
+167
+00:15:34,640 --> 00:15:41,200
+He was a little shorter than me, and his face 
+was a little fatter than mine. I also noticed  
 
-253
-00:15:34,860 --> 00:15:40,399
-He was a little shorter than me, and his face
-was a little fatter than mine.
+168
+00:15:41,200 --> 00:15:48,240
+that his mouth did not look as determined as 
+mine. But for all that, we were nearly identical!
 
-254
-00:15:40,399 --> 00:15:45,220
-I also noticed that his mouth did not look
-as determined as mine.
+169
+00:15:50,000 --> 00:15:56,160
+For a moment no one spoke. Then the 
+Prince turned to Fritz and Colonel Sapt.
 
-255
-00:15:45,220 --> 00:15:50,200
-But for all that, we were nearly identical!
+170
+00:15:57,280 --> 00:16:00,400
+Colonel Sapt whispered 
+something in the Prince's ear.  
 
-256
-00:15:50,200 --> 00:15:52,680
-For a moment no one spoke.
+171
+00:16:01,280 --> 00:16:08,480
+The Prince listened carefully, and then he 
+began to smile. Suddenly he laughed very loudly.
 
-257
-00:15:52,680 --> 00:15:57,720
-Then the Prince turned to Fritz and Colonel
-Sapt.
+172
+00:16:10,640 --> 00:16:17,920
+'We're cousins!' he said to me. I'm very pleased 
+to know you, cousin,' he added. 'Come and dine  
 
-258
-00:15:57,720 --> 00:16:01,520
-Colonel Sapt whispered something in the Prince's
-ear.
+173
+00:16:17,920 --> 00:16:25,120
+with me tonight. We'll talk of old times together. 
+And you will stay at my house tonight, of course.'
 
-259
-00:16:01,520 --> 00:16:06,550
-The Prince listened carefully, and then he
-began to smile.
+174
+00:16:26,000 --> 00:16:31,760
+Colonel Sapt stepped forward to speak 
+to the Prince again. He spoke seriously.
 
-260
-00:16:06,550 --> 00:16:09,480
-Suddenly he laughed very loudly.
+175
+00:16:32,960 --> 00:16:39,760
+'The coronation is tomorrow morning, sir,' 
+he said. 'There is a lot to do before then.  
 
-261
-00:16:09,480 --> 00:16:13,680
-'We're cousins!' he said to me.
+176
+00:16:40,320 --> 00:16:47,680
+We have a lot of things to talk about. It's not 
+the evening for a dinner with Mr. Rassendyll.'
 
-262
-00:16:13,680 --> 00:16:17,399
-I'm very pleased to know you, cousin,' he
-added.
+177
+00:16:48,640 --> 00:16:54,880
+Prince Rudolf looked angrily at Colonel Sapt. He 
+did not seem pleased with the Colonel's advice.
 
-263
-00:16:17,399 --> 00:16:19,649
-'Come and dine with me tonight.
+178
+00:16:55,760 --> 00:16:59,920
+'I want to dine with Mr. 
+Rassendyll!' he said crossly,  
 
-264
-00:16:19,649 --> 00:16:22,950
-We'll talk of old times together.
+179
+00:16:59,920 --> 00:17:06,960
+i want to drink wine with him. He's my cousin 
+- and I don't meet a new cousin every day.
 
-265
-00:16:22,950 --> 00:16:26,430
-And you will stay at my house tonight, of
-course.'
+180
+00:17:08,400 --> 00:17:11,600
+That is how I came to dine with Prince Rudolf.  
 
-266
-00:16:26,430 --> 00:16:30,340
-Colonel Sapt stepped forward to speak to the
-Prince again.
+181
+00:17:12,720 --> 00:17:19,040
+We ate well, and we drank a lot of wine. 
+Prince Rudolf drank more wine than anyone else.  
 
-267
-00:16:30,340 --> 00:16:32,480
-He spoke seriously.
+182
+00:17:19,920 --> 00:17:24,880
+He was very happy because of 
+the wine. It was a long dinner.
 
-268
-00:16:32,480 --> 00:16:37,220
-'The coronation is tomorrow morning, sir,'
-he said.
+183
+00:17:26,560 --> 00:17:29,840
+I thought the evening was 
+finished, but I was wrong.  
 
-269
-00:16:37,220 --> 00:16:40,390
-'There is a lot to do before then.
+184
+00:17:30,800 --> 00:17:34,320
+The servant, Joseph, brought 
+another bottle of wine to the table.
 
-270
-00:16:40,390 --> 00:16:43,690
-We have a lot of things to talk about.
+185
+00:17:35,120 --> 00:17:39,680
+'This bottle comes from the Duke of Strelsau,' 
+he told Prince Rudolf. 'He told me to give  
 
-271
-00:16:43,690 --> 00:16:49,000
-It's not the evening for a dinner with Mr.
-Rassendyll.'
+186
+00:17:39,680 --> 00:17:45,840
+you this message: "Drink this wine because you 
+love me." That's what he told me to say, sir.'
 
-272
-00:16:49,000 --> 00:16:52,370
-Prince Rudolf looked angrily at Colonel Sapt.
+187
+00:17:46,400 --> 00:17:53,120
+'What a good brother Michael is!' Prince Rudolf 
+cried joyfully. 'I'll certainly drink his wine.'
 
-273
-00:16:52,370 --> 00:16:55,640
-He did not seem pleased with the Colonel's
-advice.
+188
+00:17:54,240 --> 00:17:57,520
+He reached for the bottle and 
+poured a glass of the wine.  
 
-274
-00:16:55,640 --> 00:17:02,490
-'I want to dine with Mr. Rassendyll!' he said
-crossly, i want to drink wine with him.
+189
+00:17:58,080 --> 00:18:03,760
+He drank the glass quickly. Then he put 
+his head on the table and fell asleep.
 
-275
-00:17:02,490 --> 00:17:07,839
-He's my cousin - and I don't meet a new cousin
-every day.
+190
+00:18:04,880 --> 00:18:07,920
+Nobody else touched the wine 
+from the Duke of Strelsau.
 
-276
-00:17:07,839 --> 00:17:12,920
-That is how I came to dine with Prince Rudolf.
+191
+00:18:09,440 --> 00:18:12,800
+I looked at Fritz von Tarlenheim and Colonel Sapt.  
 
-277
-00:17:12,920 --> 00:17:16,700
-We ate well, and we drank a lot of wine.
+192
+00:18:13,520 --> 00:18:18,480
+I did not say anything, but the Prince 
+of Ruritania was a disappointment to me.  
 
-278
-00:17:16,700 --> 00:17:20,170
-Prince Rudolf drank more wine than anyone
-else.
+193
+00:18:19,200 --> 00:18:28,160
+He seemed a selfish young man - a selfish young 
+man who was too fond of wine. I remember nothing  
 
-279
-00:17:20,170 --> 00:17:23,699
-He was very happy because of the wine.
+194
+00:18:28,160 --> 00:18:35,040
+else about that evening. I, too, had drunk 
+too much wine. I fell asleep at the table.
+ 
+ 
+ 
 
-280
-00:17:23,699 --> 00:17:26,720
-It was a long dinner.
-
-281
-00:17:26,720 --> 00:17:30,980
-I thought the evening was finished, but I
-was wrong.
-
-282
-00:17:30,980 --> 00:17:34,770
-The servant, Joseph, brought another bottle
-of wine to the table.
-
-283
-00:17:34,770 --> 00:17:38,970
-'This bottle comes from the Duke of Strelsau,'
-he told Prince Rudolf.
-
-284
-00:17:38,970 --> 00:17:43,660
-'He told me to give you this message: "Drink
-this wine because you love me."
-
-285
-00:17:43,660 --> 00:17:46,290
-That's what he told me to say, sir.'
-
-286
-00:17:46,290 --> 00:17:49,240
-'What a good brother Michael is!'
-
-287
-00:17:49,240 --> 00:17:51,530
-Prince Rudolf cried joyfully.
-
-288
-00:17:51,530 --> 00:17:53,880
-'I'll certainly drink his wine.'
-
-289
-00:17:53,880 --> 00:17:58,370
-He reached for the bottle and poured a glass
-of the wine.
-
-290
-00:17:58,370 --> 00:18:00,950
-He drank the glass quickly.
-
-291
-00:18:00,950 --> 00:18:05,060
-Then he put his head on the table and fell
-asleep.
-
-292
-00:18:05,060 --> 00:18:09,550
-Nobody else touched the wine from the Duke
-of Strelsau.
-
-293
-00:18:09,550 --> 00:18:13,640
-I looked at Fritz von Tarlenheim and Colonel
-Sapt.
-
-294
-00:18:13,640 --> 00:18:19,460
-I did not say anything, but the Prince of
-Ruritania was a disappointment to me.
-
-295
-00:18:19,460 --> 00:18:27,080
-He seemed a selfish young man - a selfish
-young man who was too fond of wine.
-
-296
-00:18:27,080 --> 00:18:29,720
-I remember nothing else about that evening.
-
-297
-00:18:29,720 --> 00:18:33,640
-I, too, had drunk too much wine.
-
-298
-00:18:33,640 --> 00:18:39,740
-I fell asleep at the table.
-
-299
-00:18:39,740 --> 00:18:45,480
+195
+00:18:39,600 --> 00:18:40,400
 CHAPTER FOUR
+
+196
+00:18:41,520 --> 00:18:42,960
 The Game Begins
 
-300
-00:18:45,480 --> 00:18:48,570
-I woke suddenly the next morning.
+197
+00:18:45,360 --> 00:18:49,200
+I woke suddenly the next 
+morning. Someone had thrown  
 
-301
-00:18:48,570 --> 00:18:50,950
-Someone had thrown water over me!
+198
+00:18:49,200 --> 00:18:54,560
+water over me! I opened my eyes angrily 
+and looked up at Fritz and the Colonel.
 
-302
-00:18:50,950 --> 00:18:55,150
-I opened my eyes angrily and looked up at
-Fritz and the Colonel.
+199
+00:18:55,280 --> 00:18:59,200
+'That wasn't a good joke!' I said angrily.
 
-303
-00:18:55,150 --> 00:18:57,820
-'That wasn't a good joke!'
+200
+00:18:59,200 --> 00:19:04,560
+'Be quiet,' Colonel Sapt ordered 
+angrily. 'We had to wake you up.  
 
-304
-00:18:57,820 --> 00:18:59,040
-I said angrily.
+201
+00:19:04,560 --> 00:19:08,080
+There's something wrong.' He pointed to the floor.  
 
-305
-00:18:59,040 --> 00:19:02,620
-'Be quiet,' Colonel Sapt ordered angrily.
+202
+00:19:08,960 --> 00:19:16,000
+The Prince was lying there. 'The Prince is still 
+sleeping. We've tried to wake him, but we can't.'
 
-306
-00:19:02,620 --> 00:19:04,610
-'We had to wake you up.
+203
+00:19:16,800 --> 00:19:20,400
+'We think the Duke put something 
+in that bottle of wine,'  
 
-307
-00:19:04,610 --> 00:19:06,970
-There's something wrong.'
+204
+00:19:20,400 --> 00:19:24,400
+Fritz explained. 'Something that 
+will make the Prince sleep all day.'
 
-308
-00:19:06,970 --> 00:19:09,160
-He pointed to the floor.
+205
+00:19:24,960 --> 00:19:31,920
+'It's a crisis for Ruritania,' Colonel 
+Sapt said. 'The coronation is this morning.  
 
-309
-00:19:09,160 --> 00:19:10,890
-The Prince was lying there.
+206
+00:19:31,920 --> 00:19:37,840
+If Prince Rudolf does not go to 
+Strelsau today, he'll never be king!'
 
-310
-00:19:10,890 --> 00:19:13,630
-'The Prince is still sleeping.
+207
+00:19:38,400 --> 00:19:40,320
+'What do you mean?' I asked.
 
-311
-00:19:13,630 --> 00:19:16,380
-We've tried to wake him, but we can't.'
+208
+00:19:40,960 --> 00:19:46,800
+'The Duke wants to be king,' Colonel 
+Sapt told me. 'Prince Rudolf is not  
 
-312
-00:19:16,380 --> 00:19:21,730
-'We think the Duke put something in that bottle
-of wine,' Fritz explained.
+209
+00:19:46,800 --> 00:19:50,720
+popular. I think the Duke will seize the crown!'
 
-313
-00:19:21,730 --> 00:19:25,270
-'Something that will make the Prince sleep
-all day.'
+210
+00:19:51,440 --> 00:19:54,640
+'What are you going to do about it?' I asked him.
 
-314
-00:19:25,270 --> 00:19:29,560
-'It's a crisis for Ruritania,' Colonel Sapt
-said.
+211
+00:19:54,640 --> 00:19:58,320
+'There's only one chance,' Colonel Sapt explained.  
 
-315
-00:19:29,560 --> 00:19:32,170
-'The coronation is this morning.
+212
+00:19:58,320 --> 00:20:05,120
+'The coronation is today. Prince Rudolf 
+must go to Strelsau this morning!'
 
-316
-00:19:32,170 --> 00:19:38,210
-If Prince Rudolf does not go to Strelsau today,
-he'll never be king!'
-
-317
-00:19:38,210 --> 00:19:39,940
-'What do you mean?'
-
-318
-00:19:39,940 --> 00:19:40,940
-I asked.
-
-319
-00:19:40,940 --> 00:19:45,200
-'The Duke wants to be king,' Colonel Sapt
-told me.
-
-320
-00:19:45,200 --> 00:19:48,059
-'Prince Rudolf is not popular.
-
-321
-00:19:48,059 --> 00:19:50,890
-I think the Duke will seize the crown!'
-
-322
-00:19:50,890 --> 00:19:53,640
-'What are you going to do about it?'
-
-323
-00:19:53,640 --> 00:19:55,140
-I asked him.
-
-324
-00:19:55,140 --> 00:19:58,570
-'There's only one chance,' Colonel Sapt explained.
-
-325
-00:19:58,570 --> 00:20:01,450
-'The coronation is today.
-
-326
-00:20:01,450 --> 00:20:05,419
-Prince Rudolf must go to Strelsau this morning!'
-
-327
-00:20:05,419 --> 00:20:07,710
+213
+00:20:05,120 --> 00:20:07,200
 'But if he's asleep - ' I began.
 
-328
-00:20:07,710 --> 00:20:10,470
-'You can go,' Colonel Sapt said.
+214
+00:20:07,920 --> 00:20:13,600
+'You can go,' Colonel Sapt said. 'You 
+can be Prince Rudolf for the day.'
 
-329
-00:20:10,470 --> 00:20:13,910
-'You can be Prince Rudolf for the day.'
+215
+00:20:13,600 --> 00:20:19,840
+'Me!' I cried. 'But that's ridiculous. I 
+don't know how to behave like a prince.  
 
-330
-00:20:13,910 --> 00:20:14,910
-'Me!'
-
-331
-00:20:14,910 --> 00:20:15,960
-I cried.
-
-332
-00:20:15,960 --> 00:20:17,809
-'But that's ridiculous.
-
-333
-00:20:17,809 --> 00:20:20,380
-I don't know how to behave like a prince.
-
-334
-00:20:20,380 --> 00:20:24,740
+216
+00:20:20,480 --> 00:20:23,520
 I can't pretend to be the Prince of Ruritania!'
 
-335
-00:20:24,740 --> 00:20:30,580
-'You look like the Prince, except for your
-beard,' Colonel Sapt said slowly.
+217
+00:20:24,160 --> 00:20:30,560
+'You look like the Prince, except for 
+your beard,' Colonel Sapt said slowly.  
 
-336
-00:20:30,580 --> 00:20:32,600
-'You can do it.
+218
+00:20:31,200 --> 00:20:34,240
+'You can do it. Rassendyll, I know you can.'
 
-337
-00:20:32,600 --> 00:20:35,070
-Rassendyll, I know you can.'
-
-338
-00:20:35,070 --> 00:20:36,710
+219
+00:20:34,960 --> 00:20:36,560
 I did not say anything.
 
-339
-00:20:36,710 --> 00:20:44,730
-'If you don't do it, the Duke will be the
-next King of Ruritania,' Colonel Sapt went
+220
+00:20:37,360 --> 00:20:43,360
+'If you don't do it, the Duke will 
+be the next King of Ruritania,'  
 
-340
-00:20:44,730 --> 00:20:45,730
-on.
+221
+00:20:43,360 --> 00:20:47,600
+Colonel Sapt went on. 'And 
+he'll kill Prince Rudolf.'
 
-341
-00:20:45,730 --> 00:20:48,080
-'And he'll kill Prince Rudolf.'
+222
+00:20:48,560 --> 00:20:53,920
+Then I decided. I was young and 
+I liked excitement and adventure.
 
-342
-00:20:48,080 --> 00:20:50,750
-Then I decided.
+223
+00:20:55,360 --> 00:21:01,600
+'Very well,' I told the Colonel. 'I'll 
+help you. I'll be the Prince for a day.'
 
-343
-00:20:50,750 --> 00:20:55,040
-I was young and I liked excitement and adventure.
+224
+00:21:01,600 --> 00:21:06,880
+'Well done!' the Colonel cried 
+excitedly. He shook my hand.  
 
-344
-00:20:55,040 --> 00:20:57,960
-'Very well,' I told the Colonel.
+225
+00:21:06,880 --> 00:21:10,080
+'There's a lot to do. Let's make a start.'
 
-345
-00:20:57,960 --> 00:20:59,860
-'I'll help you.
+226
+00:21:11,200 --> 00:21:16,320
+I got up and began to shave off my beard 
+while the Colonel told me his plan.
 
-346
-00:20:59,860 --> 00:21:01,770
-I'll be the Prince for a day.'
+227
+00:21:16,880 --> 00:21:25,280
+'I'll hide the Prince in the wine-cellar,' he said 
+excitedly. 'Then we all go to Strelsau together to  
 
-347
-00:21:01,770 --> 00:21:03,179
-'Well done!'
+228
+00:21:25,280 --> 00:21:34,400
+the coronation, and you become King. Then we come 
+back to Zenda. We wake the real King. He goes back  
 
-348
-00:21:03,179 --> 00:21:05,549
-the Colonel cried excitedly.
+229
+00:21:34,400 --> 00:21:42,480
+to Strelsau with us the next day. And you, Mr. 
+Rassendyll, you leave Ruritania very secretly.'  
 
-349
-00:21:05,549 --> 00:21:06,630
-He shook my hand.
+230
+00:21:43,200 --> 00:21:50,720
+He paused then he clapped his hands 
+together. 'Yes! It's a good plan,' he cried.
 
-350
-00:21:06,630 --> 00:21:08,610
-'There's a lot to do.
+231
+00:21:52,320 --> 00:21:59,040
+The Colonel picked up the Prince and carried 
+him to the door. He was very strong. He opened  
 
-351
-00:21:08,610 --> 00:21:11,350
-Let's make a start.'
+232
+00:21:59,040 --> 00:22:06,240
+the door suddenly - and then stopped. Johann's 
+mother was standing on the other side of the door.
 
-352
-00:21:11,350 --> 00:21:17,260
-I got up and began to shave off my beard while
-the Colonel told me his plan.
+233
+00:22:07,120 --> 00:22:09,440
+'Was she listening?' Fritz asked quickly.
 
-353
-00:21:17,260 --> 00:21:21,600
-'I'll hide the Prince in the wine-cellar,'
-he said excitedly.
+234
+00:22:10,080 --> 00:22:14,640
+'I'll make sure she's quiet!' 
+the Colonel said grimly.'The  
 
-354
-00:21:21,600 --> 00:21:28,700
-'Then we all go to Strelsau together to the
-coronation, and you become King.
+235
+00:22:16,000 --> 00:22:21,120
+Colonel carried the Prince into the wine 
+cellar. Then he came upstairs again and  
 
-355
-00:21:28,700 --> 00:21:31,240
-Then we come back to Zenda.
+236
+00:22:21,120 --> 00:22:26,960
+seized hold of Johann's mother. He put a 
+handkerchief in her mouth and tied her up.  
 
-356
-00:21:31,240 --> 00:21:33,480
-We wake the real King.
+237
+00:22:27,760 --> 00:22:31,200
+Then he carried her down to a 
+coal-cellar and locked her in.
 
-357
-00:21:33,480 --> 00:21:37,530
-He goes back to Strelsau with us the next
-day.
+238
+00:22:32,720 --> 00:22:36,880
+Then Colonel Sapt, Fritz and 
+I continued to make our plans.
 
-358
-00:21:37,530 --> 00:21:42,680
-And you, Mr. Rassendyll, you leave Ruritania
-very secretly.'
+239
+00:22:38,000 --> 00:22:42,560
+'No one will ever know,' Fritz 
+said. 'It'll work - and you'll  
 
-359
-00:21:42,680 --> 00:21:47,300
-He paused then he clapped his hands together.
+240
+00:22:42,560 --> 00:22:45,680
+save Ruritania from disaster, Mr. Rassendyll.'
 
-360
-00:21:47,300 --> 00:21:48,360
-'Yes!
+241
+00:22:46,320 --> 00:22:51,840
+'All we've got to do is hide the real 
+Prince while we're all in Strelsau,'  
 
-361
-00:21:48,360 --> 00:21:51,780
-It's a good plan,' he cried.
+242
+00:22:51,840 --> 00:22:57,120
+the Colonel said. 'Fritz and I will do that 
+while you're getting ready, Mr. Rassendyll.  
 
-362
-00:21:51,780 --> 00:21:56,080
-The Colonel picked up the Prince and carried
-him to the door.
-
-363
-00:21:56,080 --> 00:21:58,300
-He was very strong.
-
-364
-00:21:58,300 --> 00:22:03,500
-He opened the door suddenly - and then stopped.
-
-365
-00:22:03,500 --> 00:22:06,810
-Johann's mother was standing on the other
-side of the door.
-
-366
-00:22:06,810 --> 00:22:08,630
-'Was she listening?'
-
-367
-00:22:08,630 --> 00:22:09,910
-Fritz asked quickly.
-
-368
-00:22:09,910 --> 00:22:13,090
-'I'll make sure she's quiet!'
-
-369
-00:22:13,090 --> 00:22:19,370
-the Colonel said grimly.'The Colonel carried
-the Prince into the wine cellar.
-
-370
-00:22:19,370 --> 00:22:24,290
-Then he came upstairs again and seized hold
-of Johann's mother.
-
-371
-00:22:24,290 --> 00:22:28,100
-He put a handkerchief in her mouth and tied
-her up.
-
-372
-00:22:28,100 --> 00:22:31,260
-Then he carried her down to a coal-cellar
-and locked her in.
-
-373
-00:22:31,260 --> 00:22:37,500
-Then Colonel Sapt, Fritz and I continued to
-make our plans.
-
-374
-00:22:37,500 --> 00:22:40,880
-'No one will ever know,' Fritz said.
-
-375
-00:22:40,880 --> 00:22:46,350
-'It'll work - and you'll save Ruritania from
-disaster, Mr. Rassendyll.'
-
-376
-00:22:46,350 --> 00:22:52,390
-'All we've got to do is hide the real Prince
-while we're all in Strelsau,' the Colonel
-
-377
-00:22:52,390 --> 00:22:53,390
-said.
-
-378
-00:22:53,390 --> 00:22:58,020
-'Fritz and I will do that while you're getting
-ready, Mr. Rassendyll.
-
-379
-00:22:58,020 --> 00:23:01,210
+243
+00:22:57,760 --> 00:23:00,240
 Joseph will guard him while we're away.'
 
-380
-00:23:01,210 --> 00:23:09,940
-Colonel Sapt hurried out of the room to make
+244
+00:23:01,040 --> 00:23:07,840
+Colonel Sapt hurried out of the room to make 
 all the arrangements with the servant.
+ 
+ 
+ 
 
-381
-00:23:09,940 --> 00:23:16,230
+245
+00:23:09,840 --> 00:23:10,880
 CHAPTER FIVE
+
+246
+00:23:12,000 --> 00:23:13,520
 Coronation of a King
 
-382
-00:23:16,230 --> 00:23:18,790
-It was now six o'clock in the morning.
+247
+00:23:16,000 --> 00:23:21,840
+It was now six o'clock in the morning. I 
+dressed in one of Prince Rudolf's uniforms.  
 
-383
-00:23:18,790 --> 00:23:22,950
-I dressed in one of Prince Rudolf's uniforms.
+248
+00:23:22,560 --> 00:23:27,600
+Colonel Sapt, Fritz and I took our 
+horses and rode towards Strelsau.
 
-384
-00:23:22,950 --> 00:23:29,620
-Colonel Sapt, Fritz and I took our horses
-and rode towards Strelsau.
+249
+00:23:29,360 --> 00:23:33,520
+It was a beautiful ride that early 
+morning, and I will never forget it.  
 
-385
-00:23:29,620 --> 00:23:34,809
-It was a beautiful ride that early morning,
-and I will never forget it.
+250
+00:23:34,640 --> 00:23:39,280
+The Colonel gave me advice about how 
+to behave when we reached Strelsau.  
 
-386
-00:23:34,809 --> 00:23:40,660
-The Colonel gave me advice about how to behave
-when we reached Strelsau.
+251
+00:23:40,400 --> 00:23:45,520
+He told me about the things that Prince 
+Rudolf liked, and the things he did not like.
 
-387
-00:23:40,660 --> 00:23:47,000
-He told me about the things that Prince Rudolf
-liked, and the things he did not like.
+252
+00:23:46,640 --> 00:23:53,440
+'Don't worry,' he said. I'll stand next to 
+you all the time. I'll tell you what to say.'
 
-388
-00:23:47,000 --> 00:23:48,870
-'Don't worry,' he said.
-
-389
-00:23:48,870 --> 00:23:52,080
-I'll stand next to you all the time.
-
-390
-00:23:52,080 --> 00:23:54,799
-I'll tell you what to say.'
-
-391
-00:23:54,799 --> 00:23:57,740
-We reached the railway station at eight o'clock.
-
-392
-00:23:57,740 --> 00:24:00,789
+253
+00:23:54,560 --> 00:24:00,400
+We reached the railway station at eight o'clock. 
 At nine - thirty we were in the capital city.
 
-393
-00:24:00,789 --> 00:24:03,390
-'Are you frightened?'
+254
+00:24:01,040 --> 00:24:04,240
+'Are you frightened?' Colonel Sapt asked me.
 
-394
-00:24:03,390 --> 00:24:05,059
-Colonel Sapt asked me.
+255
+00:24:05,360 --> 00:24:09,200
+'Don't worry about me,' I told him. I'll manage.'
 
-395
-00:24:05,059 --> 00:24:08,370
-'Don't worry about me,' I told him.
-
-396
-00:24:08,370 --> 00:24:09,710
-I'll manage.'
-
-397
-00:24:09,710 --> 00:24:13,179
-'I think you will,' the Colonel replied.
-
-398
-00:24:13,179 --> 00:24:17,429
+256
+00:24:10,000 --> 00:24:16,640
+'I think you will,' the Colonel replied. 
 'You're a real Elphberg, Mr. Rassendyll.'
 
-399
-00:24:17,429 --> 00:24:21,020
-When we got off the train, the people surrounded
-us.
+257
+00:24:17,280 --> 00:24:23,360
+When we got off the train, the people surrounded 
+us. They were excited to see their Prince in front  
 
-400
-00:24:21,020 --> 00:24:24,730
-They were excited to see their Prince in front
-of them.
+258
+00:24:23,360 --> 00:24:30,080
+of them. They began to cheer and shout. Soon 
+the station was full of noise and shouting.  
 
-401
-00:24:24,730 --> 00:24:26,850
-They began to cheer and shout.
+259
+00:24:30,880 --> 00:24:33,520
+A party of important people were waiting for us.  
 
-402
-00:24:26,850 --> 00:24:30,780
-Soon the station was full of noise and shouting.
+260
+00:24:34,400 --> 00:24:38,960
+The commander of the Ruritanian 
+army, an important-looking marshal,  
 
-403
-00:24:30,780 --> 00:24:31,780
-A party of important people were waiting for
-us.
+261
+00:24:38,960 --> 00:24:44,080
+was also there with some soldiers. We 
+all rode towards the cathedral together.
 
-404
-00:24:31,780 --> 00:24:41,500
-The commander of the Ruritanian army, an important-looking
-marshal, was also there with some soldiers.
+262
+00:24:45,280 --> 00:24:50,720
+First we rode through the new part of 
+Strelsau. The Colonel told me that the  
 
-405
-00:24:41,500 --> 00:24:45,790
-We all rode towards the cathedral together.
+263
+00:24:50,720 --> 00:24:56,320
+people in this part of the city were loyal 
+to Prince Rudolf. They wanted him to be king.  
 
-406
-00:24:45,790 --> 00:24:49,539
-First we rode through the new part of Strelsau.
+264
+00:24:57,520 --> 00:25:04,640
+The crowds in the street cheered as we rode past. 
+Suddenly I looked up at one of the buildings.  
 
-407
-00:24:49,539 --> 00:24:55,120
-The Colonel told me that the people in this
-part of the city were loyal to Prince Rudolf.
+265
+00:25:05,680 --> 00:25:13,200
+Antoinette De Mauban was standing in the window 
+watching the procession. For a moment I was very  
 
-408
-00:24:55,120 --> 00:24:57,710
-They wanted him to be king.
+266
+00:25:13,200 --> 00:25:19,520
+nervous. I was sure she would recognize me and 
+tell everyone that I was not the real Prince.  
 
-409
-00:24:57,710 --> 00:25:02,410
-The crowds in the street cheered as we rode
-past.
-
-410
-00:25:02,410 --> 00:25:06,380
-Suddenly I looked up at one of the buildings.
-
-411
-00:25:06,380 --> 00:25:11,669
-Antoinette De Mauban was standing in the window
-watching the procession.
-
-412
-00:25:11,669 --> 00:25:13,810
-For a moment I was very nervous.
-
-413
-00:25:13,810 --> 00:25:20,430
-I was sure she would recognize me and tell
-everyone that I was not the real Prince.
-
-414
-00:25:20,430 --> 00:25:24,480
+267
+00:25:20,800 --> 00:25:22,560
 She did not do anything, however.
 
-415
-00:25:24,480 --> 00:25:27,250
-Then we rode through the old part of the city.
+268
+00:25:24,160 --> 00:25:29,680
+Then we rode through the old part of the 
+city. The people in this part of Strelsau  
 
-416
-00:25:27,250 --> 00:25:32,559
-The people in this part of Strelsau did not
-like Prince Rudolf.
+269
+00:25:29,680 --> 00:25:36,000
+did not like Prince Rudolf. They wanted his 
+brother, the Duke of Strelsau, to be king.  
 
-417
-00:25:32,559 --> 00:25:37,610
-They wanted his brother, the Duke of Strelsau,
-to be king.
+270
+00:25:37,360 --> 00:25:40,720
+The marshal made a sign to the 
+soldiers who were riding with us.  
 
-418
-00:25:37,610 --> 00:25:41,730
-The marshal made a sign to the soldiers who
-were riding with us.
+271
+00:25:41,440 --> 00:25:46,560
+He wanted them to stay close to me. He 
+wanted them to protect me from the crowd.
 
-419
-00:25:41,730 --> 00:25:44,400
-He wanted them to stay close to me.
+272
+00:25:47,920 --> 00:25:51,680
+I decided that a real prince would be a brave man.
 
-420
-00:25:44,400 --> 00:25:48,070
-He wanted them to protect me from the crowd.
+273
+00:25:53,840 --> 00:25:57,840
+'Why did you tell the soldiers to ride 
+close to me?' I asked the marshal.
 
-421
-00:25:48,070 --> 00:25:52,850
-I decided that a real prince would be a brave
-man.
-
-422
-00:25:52,850 --> 00:25:57,020
-'Why did you tell the soldiers to ride close
-to me?'
-
-423
-00:25:57,020 --> 00:25:58,100
-I asked the marshal.
-
-424
-00:25:58,100 --> 00:26:02,299
+274
+00:25:58,400 --> 00:26:01,120
 'For your safety, sir,' the marshal replied.
 
-425
-00:26:02,299 --> 00:26:05,419
-I'm not afraid,' I told the marshal.
+275
+00:26:02,000 --> 00:26:07,440
+I'm not afraid,' I told the marshal. 
+'I'll ride in front of the soldiers.  
 
-426
-00:26:05,419 --> 00:26:07,770
-'I'll ride in front of the soldiers.
-
-427
-00:26:07,770 --> 00:26:11,890
+276
+00:26:07,440 --> 00:26:09,840
 I'm not afraid of my own people!'
 
-428
-00:26:11,890 --> 00:26:14,980
-Colonel Sapt put a hand on my arm.
-
-429
-00:26:14,980 --> 00:26:18,380
+277
+00:26:11,440 --> 00:26:16,480
+Colonel Sapt put a hand on my arm. 
 He did not like what I was doing.
 
-430
-00:26:18,380 --> 00:26:20,440
-'I'll ride in front,' I repeated.
+278
+00:26:18,000 --> 00:26:24,160
+'I'll ride in front,' I repeated. 'Tell 
+the soldiers to go away, marshal.'
 
-431
-00:26:20,440 --> 00:26:24,270
-'Tell the soldiers to go away, marshal.'
+279
+00:26:24,160 --> 00:26:26,240
+I rode out in front of the soldiers.  
 
-432
-00:26:24,270 --> 00:26:27,450
-I rode out in front of the soldiers.
+280
+00:26:27,200 --> 00:26:32,560
+For a few moments I felt like a real 
+king. It was a wonderful feeling.
 
-433
-00:26:27,450 --> 00:26:31,059
-For a few moments I felt like a real king.
+281
+00:26:34,320 --> 00:26:40,640
+Soon we arrived at the cathedral. It was a 
+splendid building, and it was full of people.  
 
-434
-00:26:31,059 --> 00:26:34,660
-It was a wonderful feeling.
+282
+00:26:41,680 --> 00:26:45,600
+Everyone was wearing their best clothes 
+for the coronation of their king.  
 
-435
-00:26:34,660 --> 00:26:37,590
-Soon we arrived at the cathedral.
+283
+00:26:47,280 --> 00:26:52,800
+I do not remember much about the ceremony. 
+It was long, and Colonel Sapt stood very  
 
-436
-00:26:37,590 --> 00:26:42,430
-It was a splendid building, and it was full
-of people.
+284
+00:26:52,800 --> 00:26:58,480
+close to me throughout it. He whispered 
+to me all the time, telling me what to do.
 
-437
-00:26:42,430 --> 00:26:47,460
-Everyone was wearing their best clothes for
-the coronation of their king.
+285
+00:26:59,680 --> 00:27:05,600
+I saw Prince Rudolf's brother, the Duke 
+of Strelsau, in the cathedral. He was very  
 
-438
-00:26:47,460 --> 00:26:50,340
-I do not remember much about the ceremony.
+286
+00:27:05,600 --> 00:27:12,160
+surprised to see me - he looked quite ill for 
+a moment! He looked at me as if he had seen  
 
-439
-00:26:50,340 --> 00:26:55,420
-It was long, and Colonel Sapt stood very close
-to me throughout it.
+287
+00:27:12,160 --> 00:27:21,040
+a ghost. I also saw a beautiful young woman. 
+Colonel Sapt told me she was Princess Flavia.  
 
-440
-00:26:55,420 --> 00:26:59,820
-He whispered to me all the time, telling me
-what to do.
+288
+00:27:21,840 --> 00:27:29,680
+She was the most beautiful woman I had ever 
+seen. She had the red hair of the Elphbergs.
 
-441
-00:26:59,820 --> 00:27:05,230
-I saw Prince Rudolf's brother, the Duke of
-Strelsau, in the cathedral.
+289
+00:27:30,960 --> 00:27:38,000
+The coronation was a great success. No one 
+recognized that I was not the real Prince Rudolf.  
 
-442
-00:27:05,230 --> 00:27:10,550
-He was very surprised to see me - he looked
-quite ill for a moment!
+290
+00:27:39,200 --> 00:27:43,600
+When it was over Fritz, Colonel 
+Sapt and I went to the palace.  
 
-443
-00:27:10,550 --> 00:27:14,260
-He looked at me as if he had seen a ghost.
-
-444
-00:27:14,260 --> 00:27:18,480
-I also saw a beautiful young woman.
-
-445
-00:27:18,480 --> 00:27:22,120
-Colonel Sapt told me she was Princess Flavia.
-
-446
-00:27:22,120 --> 00:27:27,060
-She was the most beautiful woman I had ever
-seen.
-
-447
-00:27:27,060 --> 00:27:31,190
-She had the red hair of the Elphbergs.
-
-448
-00:27:31,190 --> 00:27:34,539
-The coronation was a great success.
-
-449
-00:27:34,539 --> 00:27:39,460
-No one recognized that I was not the real
-Prince Rudolf.
-
-450
-00:27:39,460 --> 00:27:44,010
-When it was over Fritz, Colonel Sapt and I
-went to the palace.
-
-451
-00:27:44,010 --> 00:27:46,550
-We laughed and joked together.
-
-452
-00:27:46,550 --> 00:27:50,050
+291
+00:27:44,560 --> 00:27:48,720
+We laughed and joked together. 
 The day had gone well for us.
 
-453
-00:27:50,050 --> 00:27:55,740
-I did think about the real Prince Rudolf - or
-King Rudolf, as he now was.
+292
+00:27:49,920 --> 00:27:54,000
+I did think about the real 
+Prince Rudolf - or King Rudolf,  
 
-454
-00:27:55,740 --> 00:28:02,000
-I wondered what he was doing.
+293
+00:27:54,000 --> 00:28:01,920
+as he now was. I wondered what he was doing.
+ 
+ 
+ 
 
-455
-00:28:02,000 --> 00:28:08,179
+294
+00:28:01,920 --> 00:28:02,880
 CHAPTER SIX
+
+295
+00:28:03,840 --> 00:28:05,040
 Kingship and Love
 
-456
-00:28:08,179 --> 00:28:13,100
-Colonel Sapt and I waited in the palace until
-very late that night.
+296
+00:28:07,760 --> 00:28:11,920
+Colonel Sapt and I waited in the 
+palace until very late that night.  
 
-457
-00:28:13,100 --> 00:28:18,280
-We talked together about the ceremony, and
-about the Duke of Strelsau.
+297
+00:28:12,880 --> 00:28:17,040
+We talked together about the ceremony, 
+and about the Duke of Strelsau.
 
-458
-00:28:18,280 --> 00:28:21,820
-'He's a dangerous man,' the Colonel told me.
+298
+00:28:17,920 --> 00:28:21,520
+'He's a dangerous man,' the Colonel told me.  
 
-459
-00:28:21,820 --> 00:28:28,110
-'But we've defeated him this time - thanks
-to you, Mr. Rassendyll.'
+299
+00:28:21,520 --> 00:28:26,400
+'But we've defeated him this time 
+- thanks to you, Mr. Rassendyll.'
 
-460
-00:28:28,110 --> 00:28:31,350
-At last everyone was asleep.
+300
+00:28:27,840 --> 00:28:32,960
+At last everyone was asleep. 
+We went outside to the stables.  
 
-461
-00:28:31,350 --> 00:28:33,980
-We went outside to the stables.
-
-462
-00:28:33,980 --> 00:28:36,990
+301
+00:28:33,760 --> 00:28:36,480
 We found our horses, and put on their saddles.
 
-463
-00:28:36,990 --> 00:28:41,770
+302
+00:28:37,200 --> 00:28:40,000
 'Let's go,' the Colonel said quietly.
 
-464
-00:28:41,770 --> 00:28:46,870
-We jumped on the horses and rode out of the
-palace grounds.
+303
+00:28:41,520 --> 00:28:45,520
+We jumped on the horses and 
+rode out of the palace grounds.  
 
-465
-00:28:46,870 --> 00:28:50,880
-It was exciting to ride through the sleeping
-city.
+304
+00:28:46,640 --> 00:28:49,440
+It was exciting to ride through the sleeping city.
 
-466
-00:28:50,880 --> 00:28:54,910
-We rode all night on our way back to Zenda.
+305
+00:28:50,640 --> 00:28:53,280
+We rode all night on our way back to Zenda.  
 
-467
-00:28:54,910 --> 00:29:00,900
-Suddenly we heard two horses following us
-in the darkness - the Duke and one of his
+306
+00:28:54,400 --> 00:29:00,960
+Suddenly we heard two horses following us in 
+the darkness - the Duke and one of his men!  
 
-468
-00:29:00,900 --> 00:29:02,740
-men!
+307
+00:29:02,560 --> 00:29:07,600
+We rode on very quickly and managed to 
+lose them at a cross-roads in a forest.
 
-469
-00:29:02,740 --> 00:29:09,820
-We rode on very quickly and managed to lose
-them at a cross-roads in a forest.
+308
+00:29:09,600 --> 00:29:12,400
+We arrived at Zenda very early in the morning.  
 
-470
-00:29:09,820 --> 00:29:13,770
-We arrived at Zenda very early in the morning.
+309
+00:29:13,520 --> 00:29:19,280
+We went straight to the house - and 
+there we found a terrible tragedy.  
 
-471
-00:29:13,770 --> 00:29:20,230
-We went straight to the house - and there
-we found a terrible tragedy.
+310
+00:29:20,720 --> 00:29:27,040
+At first there seemed to be no one in the 
+house. Then we saw some blood coming from  
 
-472
-00:29:20,230 --> 00:29:24,940
-At first there seemed to be no one in the
-house.
+311
+00:29:27,040 --> 00:29:33,920
+under the locked door of the wine - cellar, where 
+we had left the King. Perhaps the King was dead!  
 
-473
-00:29:24,940 --> 00:29:30,090
-Then we saw some blood coming from under the
-locked door of the wine - cellar, where we
+312
+00:29:35,520 --> 00:29:42,160
+We opened the door to the room. The servant 
+Joseph was lying there - he was dead.  
 
-474
-00:29:30,090 --> 00:29:32,900
-had left the King.
+313
+00:29:43,520 --> 00:29:47,120
+We looked everywhere for the 
+King, but we could not find him.
 
-475
-00:29:32,900 --> 00:29:35,799
-Perhaps the King was dead!
+314
+00:29:48,080 --> 00:29:54,720
+'The Duke of Strelsau!' the Colonel said 
+angrily. 'He's been here.' He pointed  
 
-476
-00:29:35,799 --> 00:29:37,870
-We opened the door to the room.
-
-477
-00:29:37,870 --> 00:29:43,780
-The servant Joseph was lying there - he was
-dead.
-
-478
-00:29:43,780 --> 00:29:47,860
-We looked everywhere for the King, but we
-could not find him.
-
-479
-00:29:47,860 --> 00:29:50,360
-'The Duke of Strelsau!'
-
-480
-00:29:50,360 --> 00:29:52,370
-the Colonel said angrily.
-
-481
-00:29:52,370 --> 00:29:54,140
-'He's been here.'
-
-482
-00:29:54,140 --> 00:29:57,120
-He pointed at the body of the servant on the
-floor.
-
-483
-00:29:57,120 --> 00:30:01,490
+315
+00:29:54,720 --> 00:30:00,320
+at the body of the servant on the floor. 
 'This is the Duke's work!' he exclaimed.
 
-484
-00:30:01,490 --> 00:30:02,490
-'But where's the King?'
+316
+00:30:01,200 --> 00:30:05,840
+'But where's the King?' I asked. 'Do 
+you think the Duke has killed him, too?'
 
-485
-00:30:02,490 --> 00:30:03,530
-I asked.
+317
+00:30:06,400 --> 00:30:12,800
+'No,' the Colonel replied. 'I think the 
+King is a prisoner in his brother's castle.'
 
-486
-00:30:03,530 --> 00:30:06,620
-'Do you think the Duke has killed him, too?'
+318
+00:30:13,440 --> 00:30:15,360
+'What do we do?' I asked.
 
-487
-00:30:06,620 --> 00:30:08,600
-'No,' the Colonel replied.
+319
+00:30:16,480 --> 00:30:23,520
+'Everything's changed now,' the Colonel said 
+thoughtfully. 'We must change our original plan.'
 
-488
-00:30:08,600 --> 00:30:12,990
-'I think the King is a prisoner in his brother's
-castle.'
-
-489
-00:30:12,990 --> 00:30:15,120
-'What do we do?'
-
-490
-00:30:15,120 --> 00:30:17,039
-I asked.
-
-491
-00:30:17,039 --> 00:30:20,580
-'Everything's changed now,' the Colonel said
-thoughtfully.
-
-492
-00:30:20,580 --> 00:30:24,909
-'We must change our original plan.'
-
-493
-00:30:24,909 --> 00:30:27,270
+320
+00:30:24,720 --> 00:30:26,000
 He thought for a moment.
 
-494
-00:30:27,270 --> 00:30:31,580
-'Ruritania needs her King,' he told me.
+321
+00:30:27,200 --> 00:30:32,960
+'Ruritania needs her King,' he 
+told me. 'You will have to be  
 
-495
-00:30:31,580 --> 00:30:37,240
-'You will have to be the King for a while
-longer, Mr. Rassendyll.'
+322
+00:30:32,960 --> 00:30:36,480
+the King for a while longer, Mr. Rassendyll.'
 
-496
-00:30:37,240 --> 00:30:40,220
-'You want me to go back to Strelsau?'
+323
+00:30:37,520 --> 00:30:40,640
+'You want me to go back to Strelsau?' I asked.  
 
-497
-00:30:40,220 --> 00:30:41,580
-I asked.
-
-498
-00:30:41,580 --> 00:30:43,620
-'But what about the real King?
-
-499
-00:30:43,620 --> 00:30:45,130
+324
+00:30:41,280 --> 00:30:44,480
+'But what about the real King? 
 What will happen to him?'
 
-500
-00:30:45,130 --> 00:30:49,590
-'You're the only King we've got,' the Colonel
-said grimly.
+325
+00:30:45,200 --> 00:30:52,800
+'You're the only King we've got,' the Colonel 
+said grimly. 'Go back to Strelsau, Mr Rassendyll.  
 
-501
-00:30:49,590 --> 00:30:52,840
-'Go back to Strelsau, Mr Rassendyll.
-
-502
-00:30:52,840 --> 00:30:56,510
+326
+00:30:53,360 --> 00:30:56,320
 You are the King of Ruritania again.'
 
-503
-00:30:56,510 --> 00:31:01,540
-'But the Duke of Strelsau knows that I'm not
-the real King,' I said.
+327
+00:30:57,040 --> 00:31:02,720
+'But the Duke of Strelsau knows that I'm not 
+the real King,' I said. 'He knows I'm a fake!'
 
-504
-00:31:01,540 --> 00:31:03,570
-'He knows I'm a fake!'
+328
+00:31:03,360 --> 00:31:08,560
+'That's true,' the Colonel admitted. 
+'He knows you're not the real King,  
 
-505
-00:31:03,570 --> 00:31:06,390
-'That's true,' the Colonel admitted.
+329
+00:31:09,280 --> 00:31:16,720
+because the real King is his prisoner in the 
+castle here at Zenda. But the Duke can't tell  
 
-506
-00:31:06,390 --> 00:31:13,160
-'He knows you're not the real King, because
-the real King is his prisoner in the castle
+330
+00:31:16,720 --> 00:31:23,600
+anyone that you're a fake. He can't tell anyone 
+that the real King is a prisoner, can he?'
 
-507
-00:31:13,160 --> 00:31:15,160
-here at Zenda.
+331
+00:31:24,640 --> 00:31:27,840
+I nodded my head. The Colonel was right.
 
-508
-00:31:15,160 --> 00:31:18,780
-But the Duke can't tell anyone that you're
-a fake.
+332
+00:31:29,280 --> 00:31:34,160
+'Do you think the King is in danger?' 
+I asked. 'Will the Duke kill him?'
 
-509
-00:31:18,780 --> 00:31:24,770
-He can't tell anyone that the real King is
-a prisoner, can he?'
+333
+00:31:35,680 --> 00:31:39,120
+Colonel Sapt looked at me 
+very seriously for a moment.
 
-510
-00:31:24,770 --> 00:31:26,690
-I nodded my head.
+334
+00:31:39,920 --> 00:31:48,160
+The King's life is in great danger,' he said 
+slowly. 'The Duke has already killed once.  
 
-511
-00:31:26,690 --> 00:31:28,570
-The Colonel was right.
+335
+00:31:48,960 --> 00:31:57,280
+But if he does kill the King,' he went on, 'you'll 
+have to stay here. You're an Elphberg, after all!'
 
-512
-00:31:28,570 --> 00:31:31,750
-'Do you think the King is in danger?'
+336
+00:31:58,560 --> 00:32:01,520
+Colonel Sapt and I went outside to our horses.  
 
-513
-00:31:31,750 --> 00:31:32,750
-I asked.
-
-514
-00:31:32,750 --> 00:31:36,150
-'Will the Duke kill him?'
-
-515
-00:31:36,150 --> 00:31:39,919
-Colonel Sapt looked at me very seriously for
-a moment.
-
-516
-00:31:39,919 --> 00:31:45,600
-The King's life is in great danger,' he said
-slowly.
-
-517
-00:31:45,600 --> 00:31:49,250
-'The Duke has already killed once.
-
-518
-00:31:49,250 --> 00:31:54,730
-But if he does kill the King,' he went on,
-'you'll have to stay here.
-
-519
-00:31:54,730 --> 00:31:59,000
-You're an Elphberg, after all!'
-
-520
-00:31:59,000 --> 00:32:02,830
-Colonel Sapt and I went outside to our horses.
-
-521
-00:32:02,830 --> 00:32:05,360
-We rode back to the capital.
-
-522
-00:32:05,360 --> 00:32:07,470
+337
+00:32:02,560 --> 00:32:07,120
+We rode back to the capital. 
 No one saw us enter the palace.
 
-523
-00:32:07,470 --> 00:32:13,690
-The next day the Colonel and Fritz told me
-more about the King.
+338
+00:32:08,400 --> 00:32:12,480
+The next day the Colonel and 
+Fritz told me more about the King.
 
-524
-00:32:13,690 --> 00:32:16,850
-'Do you remember Princess Flavia?'
+339
+00:32:13,440 --> 00:32:20,080
+'Do you remember Princess Flavia?' the 
+Colonel asked me. 'She was at the coronation.'
 
-525
-00:32:16,850 --> 00:32:18,279
-the Colonel asked me.
+340
+00:32:21,280 --> 00:32:28,320
+I remembered her very well. She was the 
+beautiful girl I had noticed in the cathedral.
 
-526
-00:32:18,279 --> 00:32:21,350
-'She was at the coronation.'
+341
+00:32:28,320 --> 00:32:32,080
+'The King's in love with 
+her,' Colonel Sapt told me.
 
-527
-00:32:21,350 --> 00:32:24,220
-I remembered her very well.
+342
+00:32:33,040 --> 00:32:40,160
+'Princess Flavia is very popular with the 
+people. Everyone hopes the King will marry her.'
 
-528
-00:32:24,220 --> 00:32:27,660
-She was the beautiful girl I had noticed in
-the cathedral.
+343
+00:32:41,200 --> 00:32:47,280
+Fritz looked impatiently at Colonel Sapt. 
+He was young and very loyal to the King.  
 
-529
-00:32:27,660 --> 00:32:33,120
-'The King's in love with her,' Colonel Sapt
-told me.
+344
+00:32:47,920 --> 00:32:55,360
+He always wanted to be busy, to be doing something 
+to help the King. The older man was also very  
 
-530
-00:32:33,120 --> 00:32:38,200
-'Princess Flavia is very popular with the
-people.
+345
+00:32:55,360 --> 00:33:01,840
+loyal to the King, but he knew how to wait, how 
+to be patient until the time for action came.
 
-531
-00:32:38,200 --> 00:32:41,220
-Everyone hopes the King will marry her.'
+346
+00:33:02,720 --> 00:33:04,960
+'When are we going to rescue the King?'  
 
-532
-00:32:41,220 --> 00:32:44,370
-Fritz looked impatiently at Colonel Sapt.
+347
+00:33:04,960 --> 00:33:09,840
+he asked impatiently. 'We can't sit 
+here in the palace forever, Colonel!'
 
-533
-00:32:44,370 --> 00:32:48,120
-He was young and very loyal to the King.
+348
+00:33:10,640 --> 00:33:17,040
+'We must be patient' Colonel Sapt told 
+him. 'The Duke won't kill the King while  
 
-534
-00:32:48,120 --> 00:32:53,779
-He always wanted to be busy, to be doing something
-to help the King.
+349
+00:33:17,040 --> 00:33:25,760
+Mr. Rassendyll is here pretending to be the King. 
+He'll wait and see what we do. We must wait, too'
 
-535
-00:32:53,779 --> 00:33:00,070
-The older man was also very loyal to the King,
-but he knew how to wait, how to be patient
+350
+00:33:26,560 --> 00:33:31,680
+'You know that some of the Six are 
+here in Strelsau?' Fritz asked.
 
-536
-00:33:00,070 --> 00:33:01,980
-until the time for action came.
-
-537
-00:33:01,980 --> 00:33:06,760
-'When are we going to rescue the King?' he
-asked impatiently.
-
-538
-00:33:06,760 --> 00:33:10,210
-'We can't sit here in the palace forever,
-Colonel!'
-
-539
-00:33:10,210 --> 00:33:14,559
-'We must be patient' Colonel Sapt told him.
-
-540
-00:33:14,559 --> 00:33:21,660
-'The Duke won't kill the King while Mr. Rassendyll
-is here pretending to be the King.
-
-541
-00:33:21,660 --> 00:33:24,289
-He'll wait and see what we do.
-
-542
-00:33:24,289 --> 00:33:26,800
-We must wait, too'
-
-543
-00:33:26,800 --> 00:33:31,190
-'You know that some of the Six are here in
-Strelsau?'
-
-544
-00:33:31,190 --> 00:33:32,279
-Fritz asked.
-
-545
-00:33:32,279 --> 00:33:34,150
+351
+00:33:32,640 --> 00:33:33,760
 The Colonel nodded.
 
-546
-00:33:34,150 --> 00:33:36,070
-'Yes,' he replied.
+352
+00:33:34,640 --> 00:33:40,400
+'Yes,' he replied. 'The Duke sent 
+them here to spy on Mr. Rassendyll'
 
-547
-00:33:36,070 --> 00:33:40,330
-'The Duke sent them here to spy on Mr. Rassendyll'
+353
+00:33:41,200 --> 00:33:43,200
+'Who are the Six?' I said.
 
-548
-00:33:40,330 --> 00:33:42,809
-'Who are the Six?'
+354
+00:33:44,080 --> 00:33:49,520
+'They're the Duke's favorite soldiers' Fritz 
+told me. 'They're the most dangerous men in  
 
-549
-00:33:42,809 --> 00:33:43,809
-I said.
+355
+00:33:49,520 --> 00:33:54,400
+the country, and they're very loyal to the 
+Duke. They do everything he tells them to.'
 
-550
-00:33:43,809 --> 00:33:47,860
-'They're the Duke's favorite soldiers' Fritz
-told me.
+356
+00:33:55,360 --> 00:34:02,160
+'Three of them are Ruritanians' the Colonel 
+explained. 'There's also a Frenchman,  
 
-551
-00:33:47,860 --> 00:33:52,920
-'They're the most dangerous men in the country,
-and they're very loyal to the Duke.
+357
+00:34:02,160 --> 00:34:10,160
+a Belgian and an Englishman. But the most 
+dangerous of the Six is Rupert Hentzau.'
 
-552
-00:33:52,920 --> 00:33:55,470
-They do everything he tells them to.'
+358
+00:34:11,600 --> 00:34:14,000
+The three of us talked for a long time.  
 
-553
-00:33:55,470 --> 00:33:59,730
-'Three of them are Ruritanians' the Colonel
-explained.
+359
+00:34:14,960 --> 00:34:20,960
+Fritz and I wanted to do something to help the 
+King, but Colonel Sapt told us to be patient.  
 
-554
-00:33:59,730 --> 00:34:05,620
-'There's also a Frenchman, a Belgian and an
-Englishman.
+360
+00:34:21,760 --> 00:34:25,600
+He said we could do nothing until 
+we knew what the Duke was planning.
 
-555
-00:34:05,620 --> 00:34:11,810
-But the most dangerous of the Six is Rupert
-Hentzau.'
-
-556
-00:34:11,810 --> 00:34:15,400
-The three of us talked for a long time.
-
-557
-00:34:15,400 --> 00:34:21,990
-Fritz and I wanted to do something to help
-the King, but Colonel Sapt told us to be patient.
-
-558
-00:34:21,990 --> 00:34:25,980
-He said we could do nothing until we knew
-what the Duke was planning.
-
-559
-00:34:25,980 --> 00:34:29,679
-'Be patient, my friends,' he said.
-
-560
-00:34:29,679 --> 00:34:33,010
+361
+00:34:26,400 --> 00:34:32,320
+'Be patient, my friends,' he said. 
 The time for action will come soon."
 
-561
-00:34:33,010 --> 00:34:35,440
-'Very well,' I agreed.
+362
+00:34:33,520 --> 00:34:39,920
+'Very well,' I agreed. 'We'll do nothing 
+until you tell us, Colonel. But meanwhile,  
 
-562
-00:34:35,440 --> 00:34:39,060
-'We'll do nothing until you tell us, Colonel.
+363
+00:34:39,920 --> 00:34:44,640
+I'm the King of Ruritania. Let's 
+enjoy ourselves this evening!'
 
-563
-00:34:39,060 --> 00:34:42,619
-But meanwhile, I'm the King of Ruritania.
+364
+00:34:45,840 --> 00:34:49,040
+We all went out that evening 
+to visit Princess Flavia.  
 
-564
-00:34:42,619 --> 00:34:46,030
-Let's enjoy ourselves this evening!'
-
-565
-00:34:46,030 --> 00:34:50,450
-We all went out that evening to visit Princess
-Flavia.
-
-566
-00:34:50,450 --> 00:34:54,790
-Fritz told me that he was in love with one
+365
+00:34:50,000 --> 00:34:54,160
+Fritz told me that he was in love with one 
 of the Princess's ladies - in -waiting.
 
-567
-00:34:54,790 --> 00:34:58,040
-'Countess Helga is very beautiful,' he said.
+366
+00:34:55,040 --> 00:34:59,760
+'Countess Helga is very beautiful,' he 
+said. 'We'll see her when we arrive.'
 
-568
-00:34:58,040 --> 00:35:01,580
-'We'll see her when we arrive.'
+367
+00:35:01,040 --> 00:35:07,840
+Princess Flavia was very happy to see me. She 
+did not realize that I was not the real King.  
 
-569
-00:35:01,580 --> 00:35:05,210
-Princess Flavia was very happy to see me.
-
-570
-00:35:05,210 --> 00:35:08,960
-She did not realize that I was not the real
-King.
-
-571
-00:35:08,960 --> 00:35:14,280
-She seemed worried about something, though,
+368
+00:35:08,720 --> 00:35:13,520
+She seemed worried about something, though, 
 and I asked her what was the matter.
 
-572
-00:35:14,280 --> 00:35:16,810
-'It's your brother,' she said.
+369
+00:35:14,480 --> 00:35:21,040
+'It's your brother,' she said. 'I think Michael 
+is dangerous. Please be careful. Your Majesty!'
 
-573
-00:35:16,810 --> 00:35:18,890
-'I think Michael is dangerous.
-
-574
-00:35:18,890 --> 00:35:20,900
-Please be careful.
-
-575
-00:35:20,900 --> 00:35:22,250
-Your Majesty!'
-
-576
-00:35:22,250 --> 00:35:26,560
+370
+00:35:21,920 --> 00:35:25,120
 'I'm not frightened of Michael,' I told her.
 
-577
-00:35:26,560 --> 00:35:28,500
+371
+00:35:26,320 --> 00:35:28,240
 She looked at me very seriously.
 
-578
-00:35:28,500 --> 00:35:33,530
-'Your life is important to Ruritania,' she
-told me.
+372
+00:35:29,760 --> 00:35:33,120
+'Your life is important to 
+Ruritania,' she told me.  
 
-579
-00:35:33,530 --> 00:35:40,050
-'And to your friends, as well,' she added
-with a tender look.
+373
+00:35:33,760 --> 00:35:37,920
+'And to your friends, as well,' 
+she added with a tender look.
 
-580
-00:35:40,050 --> 00:35:45,359
-I began to fall in love with Princess Flavia
-that evening.
+374
+00:35:39,840 --> 00:35:46,160
+I began to fall in love with Princess 
+Flavia that evening. It was difficult  
 
-581
-00:35:45,359 --> 00:35:49,089
-It was difficult for me not to tell her the
-truth.
+375
+00:35:46,160 --> 00:35:52,000
+for me not to tell her the truth. I 
+wanted to tell her who I really was.  
 
-582
-00:35:49,089 --> 00:35:52,830
-I wanted to tell her who I really was.
+376
+00:35:53,280 --> 00:36:01,280
+But I was playing a dangerous game - and the 
+King's life depended on me. I kept silent.
+ 
+ 
+ 
 
-583
-00:35:52,830 --> 00:36:00,460
-But I was playing a dangerous game - and the
-King's life depended on me.
-
-584
-00:36:00,460 --> 00:36:06,350
-I kept silent.
-
-585
-00:36:06,350 --> 00:36:12,359
+377
+00:36:06,320 --> 00:36:07,200
 CHAPTER SEVEN
+
+378
+00:36:08,400 --> 00:36:12,160
 A Dangerous Meeting
 
-586
-00:36:12,359 --> 00:36:17,010
-The next morning Colonel Sapt came into my
-room at the palace.
+379
+00:36:12,160 --> 00:36:17,600
+The next morning Colonel Sapt came into 
+my room at the palace. He was carrying a  
 
-587
-00:36:17,010 --> 00:36:19,350
-He was carrying a letter for me.
+380
+00:36:17,600 --> 00:36:22,720
+letter for me. He looked at the writing on 
+the envelope before he gave me the letter.
 
-588
-00:36:19,350 --> 00:36:23,150
-He looked at the writing on the envelope before
-he gave me the letter.
+381
+00:36:23,600 --> 00:36:28,640
+'From a woman, I think,' he said 
+with a smile. 'I wonder who it is?'
 
-589
-00:36:23,150 --> 00:36:27,330
-'From a woman, I think,' he said with a smile.
+382
+00:36:29,520 --> 00:36:36,480
+At first I thought the letter was from Princess 
+Flavia. I opened it excitedly and began to read.
+ 
+ 
 
-590
-00:36:27,330 --> 00:36:29,790
-'I wonder who it is?'
-
-591
-00:36:29,790 --> 00:36:33,580
-At first I thought the letter was from Princess
-Flavia.
-
-592
-00:36:33,580 --> 00:36:37,630
-I opened it excitedly and began to read.
-
-593
-00:36:37,630 --> 00:36:40,270
+383
+00:36:38,560 --> 00:36:40,160
 'Your Majesty,
 
-594
-00:36:40,270 --> 00:36:43,290
-I have important news for the King.
+384
+00:36:40,160 --> 00:36:45,680
+I have important news for the King. Come 
+to the old house in New Avenue tonight.  
 
-595
-00:36:43,290 --> 00:36:46,270
-Come to the old house in New Avenue tonight.
+385
+00:36:46,800 --> 00:36:52,720
+Do not come with anyone 
+else. Antoinette De Mauban'
+ 
+ 
 
-596
-00:36:46,270 --> 00:36:50,040
-Do not come with anyone else.
+386
+00:36:52,720 --> 00:36:56,400
+I handed the letter to the 
+Colonel. He read it quickly.
 
-597
-00:36:50,040 --> 00:36:52,890
-Antoinette De Mauban'
+387
+00:36:57,280 --> 00:37:01,600
+'You can't go.' he decided. 
+'Antoinette De Mauban is a  
 
-598
-00:36:52,890 --> 00:36:55,640
-I handed the letter to the Colonel.
+388
+00:37:01,600 --> 00:37:06,080
+friend of the Duke's. They want 
+to catch you alone and kill you.'
 
-599
-00:36:55,640 --> 00:36:56,780
-He read it quickly.
+389
+00:37:06,080 --> 00:37:12,800
+'I must go,' I argued. 'She says she has 
+important news. Perhaps she wants to help us.'
 
-600
-00:36:56,780 --> 00:36:59,640
-'You can't go.' he decided.
+390
+00:37:12,800 --> 00:37:17,360
+'I forbid it,' the Colonel said 
+angrily. 'The Duke's men will  
 
-601
-00:36:59,640 --> 00:37:03,589
-'Antoinette De Mauban is a friend of the Duke's.
+391
+00:37:17,360 --> 00:37:20,400
+kill you if you go to this meeting tonight.'
 
-602
-00:37:03,589 --> 00:37:06,290
-They want to catch you alone and kill you.'
+392
+00:37:20,400 --> 00:37:26,560
+'I'm going,' I announced firmly. 'If you try 
+to stop me, I'll go straight back to England!'
 
-603
-00:37:06,290 --> 00:37:08,430
-'I must go,' I argued.
+393
+00:37:28,240 --> 00:37:30,560
+Colonel Sapt looked at me in surprise.  
 
-604
-00:37:08,430 --> 00:37:11,540
-'She says she has important news.
-
-605
-00:37:11,540 --> 00:37:12,970
-Perhaps she wants to help us.'
-
-606
-00:37:12,970 --> 00:37:15,900
-'I forbid it,' the Colonel said angrily.
-
-607
-00:37:15,900 --> 00:37:20,260
-'The Duke's men will kill you if you go to
-this meeting tonight.'
-
-608
-00:37:20,260 --> 00:37:22,670
-'I'm going,' I announced firmly.
-
-609
-00:37:22,670 --> 00:37:28,670
-'If you try to stop me, I'll go straight back
-to England!'
-
-610
-00:37:28,670 --> 00:37:31,730
-Colonel Sapt looked at me in surprise.
-
-611
-00:37:31,730 --> 00:37:34,330
-He was beginning to understand me.
-
-612
-00:37:34,330 --> 00:37:37,030
+394
+00:37:31,520 --> 00:37:36,320
+He was beginning to understand me. 
 We Rassendylls can be very stubborn!
 
-613
-00:37:37,030 --> 00:37:45,290
-'All right,' he agreed at last, 'you can go
-if you want to - but I'm going with you, Mr.
+395
+00:37:37,200 --> 00:37:45,280
+'All right,' he agreed at last, 'you can go if you 
+want to - but I'm going with you, Mr. Rassendyll!'
 
-614
-00:37:45,290 --> 00:37:46,520
-Rassendyll!'
+396
+00:37:47,040 --> 00:37:53,440
+The Colonel and I left the palace very secretly 
+that night. We were both carrying pistols in  
 
-615
-00:37:46,520 --> 00:37:51,850
-The Colonel and I left the palace very secretly
-that night.
+397
+00:37:53,440 --> 00:37:59,920
+our pockets. We went to the old house in New 
+Avenue and I left Colonel Sapt at the gate.  
 
-616
-00:37:51,850 --> 00:37:55,560
-We were both carrying pistols in our pockets.
+398
+00:38:01,120 --> 00:38:05,040
+I entered the grounds of the house, 
+and saw someone in the summerhouse.
 
-617
-00:37:55,560 --> 00:38:01,320
-We went to the old house in New Avenue and
-I left Colonel Sapt at the gate.
+399
+00:38:06,400 --> 00:38:08,800
+I walked across the garden to the summerhouse.  
 
-618
-00:38:01,320 --> 00:38:06,540
-I entered the grounds of the house, and saw
-someone in the summerhouse.
+400
+00:38:09,680 --> 00:38:16,320
+Antoinette De Mauban turned to greet me when 
+I entered. She was very pale and nervous.
 
-619
-00:38:06,540 --> 00:38:10,250
-I walked across the garden to the summerhouse.
+401
+00:38:17,360 --> 00:38:23,600
+'You're in danger, Mr. Rassendyll,' she told me 
+quickly. 'Michael forced me to write that letter  
 
-620
-00:38:10,250 --> 00:38:14,119
-Antoinette De Mauban turned to greet me when
-I entered.
+402
+00:38:23,600 --> 00:38:30,000
+to you. I didn't want to do it. His men will be 
+here in a few minutes. They want to kill you.  
 
-621
-00:38:14,119 --> 00:38:16,609
-She was very pale and nervous.
+403
+00:38:30,800 --> 00:38:35,600
+Then they're going to say the King is 
+dead. They'll arrest all your friends,  
 
-622
-00:38:16,609 --> 00:38:22,050
-'You're in danger, Mr. Rassendyll,' she told
-me quickly.
+404
+00:38:35,600 --> 00:38:40,720
+and Michael will be the new King. You 
+must escape from here. Go quickly!'
 
-623
-00:38:22,050 --> 00:38:24,560
-'Michael forced me to write that letter to
-you.
-
-624
-00:38:24,560 --> 00:38:26,230
-I didn't want to do it.
-
-625
-00:38:26,230 --> 00:38:28,690
-His men will be here in a few minutes.
-
-626
-00:38:28,690 --> 00:38:31,170
-They want to kill you.
-
-627
-00:38:31,170 --> 00:38:33,500
-Then they're going to say the King is dead.
-
-628
-00:38:33,500 --> 00:38:37,820
-They'll arrest all your friends, and Michael
-will be the new King.
-
-629
-00:38:37,820 --> 00:38:40,080
-You must escape from here.
-
-630
-00:38:40,080 --> 00:38:41,470
-Go quickly!'
-
-631
-00:38:41,470 --> 00:38:42,860
+405
+00:38:41,360 --> 00:38:42,400
 I did not move.
 
-632
-00:38:42,860 --> 00:38:45,970
-'Why are you telling me this?'
+406
+00:38:44,000 --> 00:38:49,040
+'Why are you telling me this?' I asked 
+her. 'Michael's your friend, isn't he?'
 
-633
-00:38:45,970 --> 00:38:48,010
-I asked her.
-
-634
-00:38:48,010 --> 00:38:50,390
-'Michael's your friend, isn't he?'
-
-635
-00:38:50,390 --> 00:38:52,060
+407
+00:38:50,160 --> 00:38:51,520
 She looked at me unhappily.
 
-636
-00:38:52,060 --> 00:38:55,650
-'I love him,' she said sadly.
+408
+00:38:52,640 --> 00:38:58,560
+'I love him,' she said sadly. 'But I know 
+he'll marry Princess Flavia if he becomes  
 
-637
-00:38:55,650 --> 00:39:00,140
-'But I know he'll marry Princess Flavia if
-he becomes King.
+409
+00:38:58,560 --> 00:39:01,920
+King. That's why I'm helping you, Mr. Rassendyll.'
 
-638
-00:39:00,140 --> 00:39:02,690
-That's why I'm helping you, Mr. Rassendyll.'
+410
+00:39:02,640 --> 00:39:09,520
+Suddenly I heard a noise outside in the garden. 
+I turned towards the door of the summerhouse and  
 
-639
-00:39:02,690 --> 00:39:06,700
-Suddenly I heard a noise outside in the garden.
+411
+00:39:09,520 --> 00:39:18,080
+locked it. I could see three men standing outside 
+in the garden - three of theSix! One of them  
 
-640
-00:39:06,700 --> 00:39:11,100
-I turned towards the door of the summerhouse
-and locked it.
-
-641
-00:39:11,100 --> 00:39:16,040
-I could see three men standing outside in
-the garden - three of theSix!
-
-642
-00:39:16,040 --> 00:39:21,410
-One of them began speaking softly in English.
-
-643
-00:39:21,410 --> 00:39:24,000
+412
+00:39:18,080 --> 00:39:23,440
+began speaking softly in English. 
 It was the Duke's man, Detchard.
 
-644
-00:39:24,000 --> 00:39:26,900
-'We just want to talk,' he said.
+413
+00:39:24,400 --> 00:39:28,640
+'We just want to talk,' he said. 
+'We've come from Duke Michael.  
 
-645
-00:39:26,900 --> 00:39:29,770
-'We've come from Duke Michael.
-
-646
-00:39:29,770 --> 00:39:32,220
+414
+00:39:29,520 --> 00:39:31,840
 He wants to make you an offer, Mr. Rassendyll.'
 
-647
-00:39:32,220 --> 00:39:34,420
-'What kind of an offer?'
+415
+00:39:32,640 --> 00:39:34,800
+'What kind of an offer?' I asked.
 
-648
-00:39:34,420 --> 00:39:35,420
-I asked.
+416
+00:39:35,360 --> 00:39:39,520
+'The Duke wants you out of 
+the country,' the man said.  
 
-649
-00:39:35,420 --> 00:39:39,390
-'The Duke wants you out of the country,' the
-man said.
+417
+00:39:39,520 --> 00:39:45,280
+'He'll give you fifty thousand 
+pounds if you leave Ruritania.'
 
-650
-00:39:39,390 --> 00:39:46,760
-'He'll give you fifty thousand pounds if you
-leave Ruritania.'
+418
+00:39:46,080 --> 00:39:51,760
+Antoinette De Mauban moved close 
+to me. She put her hand on my arm.
 
-651
-00:39:46,760 --> 00:39:50,150
-Antoinette De Mauban moved close to me.
-
-652
-00:39:50,150 --> 00:39:52,109
-She put her hand on my arm.
-
-653
-00:39:52,109 --> 00:39:56,690
+419
+00:39:52,560 --> 00:39:55,840
 'Don't trust them,' she whispered urgently.
 
-654
-00:39:56,690 --> 00:40:00,710
-I moved very quietly away from the door of
-the summerhouse.
+420
+00:39:56,560 --> 00:40:03,040
+I moved very quietly away from the door of the 
+summerhouse. I picked up a small tea table.
 
-655
-00:40:00,710 --> 00:40:03,480
-I picked up a small tea table.
+421
+00:40:04,080 --> 00:40:07,360
+'All right,' I called. 'I'm coming out now.'
 
-656
-00:40:03,480 --> 00:40:06,460
-'All right,' I called.
+422
+00:40:08,960 --> 00:40:13,040
+I held the tea table in front of me and 
+ran out of the summerhouse into the garden.  
 
-657
-00:40:06,460 --> 00:40:09,070
-'I'm coming out now.'
+423
+00:40:13,600 --> 00:40:18,240
+I pushed two of the Duke's men onto the 
+ground as I ran past them. Then I heard  
 
-658
-00:40:09,070 --> 00:40:13,589
-I held the tea table in front of me and ran
-out of the summerhouse into the garden.
+424
+00:40:18,240 --> 00:40:25,040
+Detchard shouting. He fired a pistol at me, 
+but it missed. I turned and fired my pistol.  
 
-659
-00:40:13,589 --> 00:40:17,920
-I pushed two of the Duke's men onto the ground
-as I ran past them.
+425
+00:40:27,280 --> 00:40:31,920
+He gave a cry of pain. I continued running.
 
-660
-00:40:17,920 --> 00:40:20,119
-Then I heard Detchard shouting.
+426
+00:40:33,200 --> 00:40:36,320
+Colonel Sapt was waiting for 
+me when I reached the road.
 
-661
-00:40:20,119 --> 00:40:23,430
-He fired a pistol at me, but it missed.
+427
+00:40:36,320 --> 00:40:41,040
+'What happened?' he asked. 'I thought 
+you were dead when I heard the shooting.'
 
-662
-00:40:23,430 --> 00:40:27,470
-I turned and fired my pistol.
+428
+00:40:41,760 --> 00:40:45,440
+We went back to the palace. When we arrived,  
 
-663
-00:40:27,470 --> 00:40:31,030
-He gave a cry of pain.
+429
+00:40:45,440 --> 00:40:51,840
+I told him everything that had 
+happened in the summerhouse.
+ 
+ 
+ 
 
-664
-00:40:31,030 --> 00:40:33,630
-I continued running.
-
-665
-00:40:33,630 --> 00:40:36,119
-Colonel Sapt was waiting for me when I reached
-the road.
-
-666
-00:40:36,119 --> 00:40:38,030
-'What happened?' he asked.
-
-667
-00:40:38,030 --> 00:40:41,810
-'I thought you were dead when I heard the
-shooting.'
-
-668
-00:40:41,810 --> 00:40:44,420
-We went back to the palace.
-
-669
-00:40:44,420 --> 00:40:53,190
-When we arrived, I told him everything that
-had happened in the summerhouse.
-
-670
-00:40:53,190 --> 00:40:58,170
+430
+00:40:53,040 --> 00:40:53,920
 CHAPTER EIGHT
+
+431
+00:40:54,880 --> 00:40:56,000
 A King's Love
 
-671
-00:40:58,170 --> 00:41:01,359
-The days that followed were very difficult
-for me.
+432
+00:40:57,920 --> 00:41:00,560
+The days that followed were very difficult for me.  
 
-672
-00:41:01,359 --> 00:41:04,400
-I saw Princess Flavia very often.
+433
+00:41:01,200 --> 00:41:08,880
+I saw Princess Flavia very often. Each 
+time I saw her I loved her more. She, too,  
 
-673
-00:41:04,400 --> 00:41:07,790
-Each time I saw her I loved her more.
+434
+00:41:08,880 --> 00:41:14,800
+seemed to love me more each time we met. I 
+remember that there was a ball one night,  
 
-674
-00:41:07,790 --> 00:41:12,410
-She, too, seemed to love me more each time
-we met.
+435
+00:41:14,800 --> 00:41:21,040
+and I gave Princess Flavia a red rose. I behaved 
+like all young men when they are in love.
 
-675
-00:41:12,410 --> 00:41:18,420
-I remember that there was a ball one night,
-and I gave Princess Flavia a red rose.
+436
+00:41:22,720 --> 00:41:29,840
+'You're different, Rudolf,' she told me once. 'You 
+changed when you became King. You're a new man!'
 
-676
-00:41:18,420 --> 00:41:21,740
-I behaved like all young men when they are
-in love.
+437
+00:41:30,560 --> 00:41:37,360
+I wanted to tell her who I really was. I wanted 
+to tell her that I was not the King of Ruritania.  
 
-677
-00:41:21,740 --> 00:41:26,160
-'You're different, Rudolf,' she told me once.
+438
+00:41:38,080 --> 00:41:43,200
+I wanted her to love Rudolf 
+Rassendyll, not the King of Ruritania!
 
-678
-00:41:26,160 --> 00:41:28,970
-'You changed when you became King.
-
-679
-00:41:28,970 --> 00:41:30,700
-You're a new man!'
-
-680
-00:41:30,700 --> 00:41:34,260
-I wanted to tell her who I really was.
-
-681
-00:41:34,260 --> 00:41:38,180
-I wanted to tell her that I was not the King
-of Ruritania.
-
-682
-00:41:38,180 --> 00:41:44,660
-I wanted her to love Rudolf Rassendyll, not
-the King of Ruritania!
-
-683
-00:41:44,660 --> 00:41:47,320
+439
+00:41:44,400 --> 00:41:47,840
 Sometimes I imagined the future.
 
-684
-00:41:47,320 --> 00:41:52,060
-'Will I always have to pretend to be the King?
+440
+00:41:47,840 --> 00:41:50,640
+'Will I always have to pretend to be the King?  
 
-685
-00:41:52,060 --> 00:41:54,760
-Will I marry Princess Flavia?
-
-686
-00:41:54,760 --> 00:41:57,790
+441
+00:41:51,760 --> 00:41:55,840
+Will I marry Princess Flavia? 
 Will she become my queen?'
 
-687
-00:41:57,790 --> 00:42:00,349
-One day she and I were talking.
+442
+00:41:57,520 --> 00:42:02,000
+One day she and I were talking. She said to me,  
 
-688
-00:42:00,349 --> 00:42:03,010
-She said to me, 'You are the King.
+443
+00:42:02,000 --> 00:42:09,360
+'You are the King. Why can't you be an ordinary 
+man? Then I'd show you how much I love you!'
 
-689
-00:42:03,010 --> 00:42:06,390
-Why can't you be an ordinary man?
+444
+00:42:10,400 --> 00:42:14,560
+'Would you really love me if I 
+were an ordinary man, Princess?'  
 
-690
-00:42:06,390 --> 00:42:09,960
-Then I'd show you how much I love you!'
+445
+00:42:14,560 --> 00:42:17,600
+I asked. 'Do you love me that much?'
 
-691
-00:42:09,960 --> 00:42:14,520
-'Would you really love me if I were an ordinary
-man, Princess?'
-
-692
-00:42:14,520 --> 00:42:15,570
-I asked.
-
-693
-00:42:15,570 --> 00:42:17,900
-'Do you love me that much?'
-
-694
-00:42:17,900 --> 00:42:21,580
+446
+00:42:18,720 --> 00:42:20,560
 'Of course I do,' she said.
 
-695
-00:42:21,580 --> 00:42:25,060
-Her words made me very happy.
+447
+00:42:22,320 --> 00:42:28,320
+Her words made me very happy. I decided that 
+I could not go on lying to her any more.  
 
-696
-00:42:25,060 --> 00:42:29,240
-I decided that I could not go on lying to
-her any more.
+448
+00:42:29,120 --> 00:42:34,080
+I loved her. I wanted to tell 
+her the whole truth about myself  
 
-697
-00:42:29,240 --> 00:42:30,599
-I loved her.
+449
+00:42:34,080 --> 00:42:37,760
+and the King of Ruritania. I decided to speak.
 
-698
-00:42:30,599 --> 00:42:36,700
-I wanted to tell her the whole truth about
-myself and the King of Ruritania.
+450
+00:42:39,280 --> 00:42:45,040
+'Princess,' I began. 'I want 
+to tell you something. I am -'
 
-699
-00:42:36,700 --> 00:42:39,720
-I decided to speak.
+451
+00:42:45,040 --> 00:42:51,680
+Just at that moment the door of the room opened 
+and Colonel Sapt came in. He looked angrily at me.
 
-700
-00:42:39,720 --> 00:42:42,079
-'Princess,' I began.
+452
+00:42:52,240 --> 00:42:57,920
+'Forgive me, sir,' he said. 'I need to 
+talk to you about something important.'
 
-701
-00:42:42,079 --> 00:42:43,990
-'I want to tell you something.
-
-702
-00:42:43,990 --> 00:42:45,180
-I am -'
-
-703
-00:42:45,180 --> 00:42:50,490
-Just at that moment the door of the room opened
-and Colonel Sapt came in.
-
-704
-00:42:50,490 --> 00:42:52,040
-He looked angrily at me.
-
-705
-00:42:52,040 --> 00:42:54,000
-'Forgive me, sir,' he said.
-
-706
-00:42:54,000 --> 00:42:57,870
-'I need to talk to you about something important.'
-
-707
-00:42:57,870 --> 00:43:01,000
+453
+00:42:57,920 --> 00:43:00,000
 'One moment, Princess,' I said.
 
-708
-00:43:01,000 --> 00:43:03,850
-I left the room and followed Colonel Sapt.
+454
+00:43:00,880 --> 00:43:05,840
+I left the room and followed Colonel 
+Sapt. He was furious with me.
 
-709
-00:43:03,850 --> 00:43:05,810
-He was furious with me.
+455
+00:43:05,840 --> 00:43:12,000
+'I heard everything you said,' he told 
+me. 'You were going to tell her the truth.  
 
-710
-00:43:05,810 --> 00:43:09,290
-'I heard everything you said,' he told me.
+456
+00:43:12,000 --> 00:43:17,920
+Be careful,' he warned me. 'The King's 
+life is in your hands, Mr. Rassendyll.'
 
-711
-00:43:09,290 --> 00:43:11,970
-'You were going to tell her the truth.
+457
+00:43:19,200 --> 00:43:22,960
+Princess Flavia was not the only 
+person who liked the new King.  
 
-712
-00:43:11,970 --> 00:43:14,390
-Be careful,' he warned me.
+458
+00:43:23,760 --> 00:43:29,680
+The people seemed happy with me, as well. I 
+was becoming popular as the King of Ruritania.  
 
-713
-00:43:14,390 --> 00:43:19,650
-'The King's life is in your hands, Mr. Rassendyll.'
+459
+00:43:30,480 --> 00:43:34,800
+I spoke about this to Colonel Sapt one 
+evening when we were alone together.
 
-714
-00:43:19,650 --> 00:43:24,000
-Princess Flavia was not the only person who
-liked the new King.
+460
+00:43:35,840 --> 00:43:40,160
+'You know, Colonel,' I said, 'I'm a good king.  
 
-715
-00:43:24,000 --> 00:43:26,900
-The people seemed happy with me, as well.
+461
+00:43:40,160 --> 00:43:46,080
+The people like me. I could stay here and pretend 
+to be the King forever. No one could stop me.'
 
-716
-00:43:26,900 --> 00:43:30,630
-I was becoming popular as the King of Ruritania.
-
-717
-00:43:30,630 --> 00:43:36,100
-I spoke about this to Colonel Sapt one evening
-when we were alone together.
-
-718
-00:43:36,100 --> 00:43:40,359
-'You know, Colonel,' I said, 'I'm a good king.
-
-719
-00:43:40,359 --> 00:43:41,839
-The people like me.
-
-720
-00:43:41,839 --> 00:43:45,240
-I could stay here and pretend to be the King
-forever.
-
-721
-00:43:45,240 --> 00:43:47,390
-No one could stop me.'
-
-722
-00:43:47,390 --> 00:43:49,040
+462
+00:43:47,200 --> 00:43:48,400
 The Colonel smiled.
 
-723
-00:43:49,040 --> 00:43:51,040
-'It's true,' he agreed.
+463
+00:43:49,040 --> 00:43:56,880
+'It's true,' he agreed. 'No one could stop you. 
+But I know you're a man of honor, Mr. Rassendyll.  
 
-724
-00:43:51,040 --> 00:43:53,400
-'No one could stop you.
+464
+00:43:57,680 --> 00:44:00,800
+I know you'll help us to find the real King.  
 
-725
-00:43:53,400 --> 00:43:57,730
-But I know you're a man of honor, Mr. Rassendyll.
-
-726
-00:43:57,730 --> 00:44:01,790
-I know you'll help us to find the real King.
-
-727
-00:44:01,790 --> 00:44:04,430
-And then you'll have to leave the country.
-
-728
-00:44:04,430 --> 00:44:08,420
+465
+00:44:01,520 --> 00:44:08,320
+And then you'll have to leave the country. 
 There can't be two Rudolfs in Ruritania!'
 
-729
-00:44:08,420 --> 00:44:11,000
-I sighed deeply.
+466
+00:44:08,320 --> 00:44:12,160
+I sighed deeply. The Colonel was right.
 
-730
-00:44:11,000 --> 00:44:12,960
-The Colonel was right.
+467
+00:44:13,040 --> 00:44:19,920
+'I promised to help the King,' I said, 'and I 
+will help him. I'll help him even if - even if -'
 
-731
-00:44:12,960 --> 00:44:17,430
-'I promised to help the King,' I said, 'and
-I will help him.
+468
+00:44:19,920 --> 00:44:25,760
+'Even if the real King marries Princess 
+Flavia?' the Colonel asked gently.
 
-732
-00:44:17,430 --> 00:44:19,880
-I'll help him even if - even if -'
+469
+00:44:26,320 --> 00:44:30,720
+'Even that,' I replied. 'The 
+Princess will marry the King.  
 
-733
-00:44:19,880 --> 00:44:24,250
-'Even if the real King marries Princess Flavia?'
+470
+00:44:30,720 --> 00:44:35,840
+It's her duty, Colonel. You know that.'
+ 
+ 
+ 
 
-734
-00:44:24,250 --> 00:44:26,109
-the Colonel asked gently.
-
-735
-00:44:26,109 --> 00:44:28,359
-'Even that,' I replied.
-
-736
-00:44:28,359 --> 00:44:31,010
-'The Princess will marry the King.
-
-737
-00:44:31,010 --> 00:44:32,230
-It's her duty, Colonel.
-
-738
-00:44:32,230 --> 00:44:38,370
-You know that.'
-
-739
-00:44:38,370 --> 00:44:41,140
+471
+00:44:38,320 --> 00:44:39,200
 CHAPTER NINE
+
+472
+00:44:40,000 --> 00:44:41,200
 Return to Zenda
 
-740
-00:44:41,140 --> 00:44:48,020
-At last Colonel Sapt decided that the time
-was right for rescuing the real King.
+473
+00:44:42,880 --> 00:44:47,600
+At last Colonel Sapt decided that the 
+time was right for rescuing the real King.
 
-741
-00:44:48,020 --> 00:44:51,760
-'We'll go to Zenda together,' the Colonel
-explained.
+474
+00:44:48,320 --> 00:44:51,760
+'We'll go to Zenda together,' 
+the Colonel explained.  
 
-742
-00:44:51,760 --> 00:44:55,599
-'We'll tell everyone that we're going hunting
-I there.
+475
+00:44:51,760 --> 00:44:57,440
+'We'll tell everyone that we're going hunting 
+I there. No one will suspect anything.'
 
-743
-00:44:55,599 --> 00:44:58,750
-No one will suspect anything.'
+476
+00:44:58,560 --> 00:45:03,200
+We took ten soldiers with us. The 
+soldiers did not know the real truth.  
 
-744
-00:44:58,750 --> 00:45:01,180
-We took ten soldiers with us.
+477
+00:45:03,760 --> 00:45:08,640
+They thought I was the King. The 
+Colonel told them I was in danger.  
 
-745
-00:45:01,180 --> 00:45:04,000
-The soldiers did not know the real truth.
+478
+00:45:08,640 --> 00:45:12,160
+He said someone had tried to kill 
+me in the summerhouse in New Avenue.
 
-746
-00:45:04,000 --> 00:45:06,010
-They thought I was the King.
+479
+00:45:13,440 --> 00:45:18,800
+We stayed in Zenda for a few days while the 
+Colonel made his plans to get inside the castle.  
 
-747
-00:45:06,010 --> 00:45:08,910
-The Colonel told them I was in danger.
+480
+00:45:20,080 --> 00:45:25,760
+One afternoon I was sitting in the garden of the 
+house, when Rupert Hentzau rode up to the house.  
 
-748
-00:45:08,910 --> 00:45:13,690
-He said someone had tried to kill me in the
-summerhouse in New Avenue.
+481
+00:45:27,040 --> 00:45:33,600
+He waved at me and smiled cheerfully. Then he 
+got down from his horse and came into the garden.
 
-749
-00:45:13,690 --> 00:45:20,349
-We stayed in Zenda for a few days while the
-Colonel made his plans to get inside the castle.
+482
+00:45:33,600 --> 00:45:35,920
+'I've come with another offer 
+from the Duke,' he said.
 
-750
-00:45:20,349 --> 00:45:25,150
-One afternoon I was sitting in the garden
-of the house, when Rupert Hentzau rode up
-
-751
-00:45:25,150 --> 00:45:27,240
-to the house.
-
-752
-00:45:27,240 --> 00:45:30,390
-He waved at me and smiled cheerfully.
-
-753
-00:45:30,390 --> 00:45:33,910
-Then he got down from his horse and came into
-the garden.
-
-754
-00:45:33,910 --> 00:45:36,619
-'I've come with another offer from the Duke,'
-he said.
-
-755
-00:45:36,619 --> 00:45:39,810
+483
+00:45:36,560 --> 00:45:39,600
 'I don't want to hear it,' I told him.
 
-756
-00:45:39,810 --> 00:45:44,060
-The Duke will give you one million crowns
-if you leave Ruritania,' Rupert said.
+484
+00:45:39,600 --> 00:45:46,000
+The Duke will give you one million crowns if you 
+leave Ruritania,' Rupert said. 'What do you say?'
 
-757
-00:45:44,060 --> 00:45:46,380
-'What do you say?'
-
-758
-00:45:46,380 --> 00:45:48,090
+485
+00:45:46,000 --> 00:45:48,400
 'No,' I replied coldly.
 
-759
-00:45:48,090 --> 00:45:51,730
-'I thought you'd say that,' Rupert told me
-with a smile.
+486
+00:45:48,400 --> 00:45:53,600
+'I thought you'd say that,' Rupert told me 
+with a smile. 'I told the Duke it was no good.  
 
-760
-00:45:51,730 --> 00:45:53,930
-'I told the Duke it was no good.
+487
+00:45:53,600 --> 00:45:57,040
+You're a gentleman, Mr. Rassendyll 
+- but you're a fool as well!'
 
-761
-00:45:53,930 --> 00:45:58,160
-You're a gentleman, Mr. Rassendyll - but you're
-a fool as well!'
+488
+00:45:58,080 --> 00:46:04,800
+I said nothing, and we looked at each other for a 
+few minutes in silence. Then Rupert spoke again.
 
-762
-00:45:58,160 --> 00:46:03,390
-I said nothing, and we looked at each other
-for a few minutes in silence.
+489
+00:46:04,800 --> 00:46:09,200
+'Listen to me,' he said. 'You could really 
+be the King of Ruritania, if you want.  
 
-763
-00:46:03,390 --> 00:46:05,180
-Then Rupert spoke again.
+490
+00:46:09,920 --> 00:46:14,640
+My friends and I will help you. Being 
+king is fun, isn't it, Mr Rassendyll?  
 
-764
-00:46:05,180 --> 00:46:06,990
-'Listen to me,' he said.
+491
+00:46:15,520 --> 00:46:17,920
+And the King will marry 
+Princess Flavia, won't lie?'
 
-765
-00:46:06,990 --> 00:46:10,160
-'You could really be the King of Ruritania,
-if you want.
-
-766
-00:46:10,160 --> 00:46:12,210
-My friends and I will help you.
-
-767
-00:46:12,210 --> 00:46:15,650
-Being king is fun, isn't it, Mr Rassendyll?
-
-768
-00:46:15,650 --> 00:46:18,670
-And the King will marry Princess Flavia, won't
-lie?'
-
-769
-00:46:18,670 --> 00:46:20,329
+492
+00:46:18,560 --> 00:46:20,000
 I still said nothing.
 
-770
-00:46:20,329 --> 00:46:24,080
-'We'll help you, and you help us,' he went
-on.
+493
+00:46:20,560 --> 00:46:26,880
+'We'll help you, and you help us,' he went on. 
+'I want to be the Duke of Strelsau. I like the  
 
-771
-00:46:24,080 --> 00:46:26,530
-'I want to be the Duke of Strelsau.
+494
+00:46:26,880 --> 00:46:33,040
+Duke's castle - and I like his lady as well,' 
+he laughed. 'Antoinette De Mauban's a beauty!'
 
-772
-00:46:26,530 --> 00:46:31,329
-I like the Duke's castle - and I like his
-lady as well,' he laughed.
+495
+00:46:34,160 --> 00:46:39,200
+No,' I said again. 'I promised to help 
+the King - and I'll keep my promise.'
 
-773
-00:46:31,329 --> 00:46:33,800
-'Antoinette De Mauban's a beauty!'
+496
+00:46:39,760 --> 00:46:44,320
+'I like you, Rassendyll,' Rupert 
+said. He spoke in a friendly way.  
 
-774
-00:46:33,800 --> 00:46:36,260
-No,' I said again.
+497
+00:46:44,960 --> 00:46:50,560
+'I don't want to be your enemy. Shake my 
+hand before I go. You're a brave man.'
 
-775
-00:46:36,260 --> 00:46:39,710
-'I promised to help the King - and I'll keep
-my promise.'
+498
+00:46:51,520 --> 00:46:57,840
+He put out his hand for me to shake. He was 
+smiling. Suddenly he took out a dagger from  
 
-776
-00:46:39,710 --> 00:46:43,120
-'I like you, Rassendyll,' Rupert said.
+499
+00:46:57,840 --> 00:47:05,200
+his coat. He stabbed me in the arm with the 
+dagger. I cried out in pain and the soldiers  
 
-777
-00:46:43,120 --> 00:46:44,770
-He spoke in a friendly way.
+500
+00:47:05,200 --> 00:47:09,840
+ran into the garden. Rupert Hentzau 
+jumped onto his horse and rode away.
 
-778
-00:46:44,770 --> 00:46:47,020
-'I don't want to be your enemy.
+501
+00:47:15,040 --> 00:47:20,880
+The soldiers carried me into the house and 
+put me to bed. My arm was very painful.
 
-779
-00:46:47,020 --> 00:46:49,890
-Shake my hand before I go.
+502
+00:47:22,080 --> 00:47:29,280
+That evening Fritz came to the house to see me. 
+He brought someone with him. I recognized Johann,  
 
-780
-00:46:49,890 --> 00:46:51,670
-You're a brave man.'
+503
+00:47:29,280 --> 00:47:35,360
+the old man from the hotel in Zenda. I remembered 
+that Johann worked for the Duke of Strelsau.  
 
-781
-00:46:51,670 --> 00:46:54,460
-He put out his hand for me to shake.
+504
+00:47:36,640 --> 00:47:40,320
+The three of us talked together, 
+and Johann agreed to work with us.  
 
-782
-00:46:54,460 --> 00:46:56,300
-He was smiling.
+505
+00:47:41,120 --> 00:47:46,560
+He knew the King was a prisoner in the 
+castle. He was afraid of the Duke, he told us.  
 
-783
-00:46:56,300 --> 00:46:59,109
-Suddenly he took out a dagger from his coat.
+506
+00:47:48,080 --> 00:47:52,320
+Johann told us that the King was 
+still alive but he was very ill.
 
-784
-00:46:59,109 --> 00:47:01,770
-He stabbed me in the arm with the dagger.
-
-785
-00:47:01,770 --> 00:47:07,140
-I cried out in pain and the soldiers ran into
-the garden.
-
-786
-00:47:07,140 --> 00:47:15,260
-Rupert Hentzau jumped onto his horse and rode
-away.
-
-787
-00:47:15,260 --> 00:47:19,260
-The soldiers carried me into the house and
-put me to bed.
-
-788
-00:47:19,260 --> 00:47:21,520
-My arm was very painful.
-
-789
-00:47:21,520 --> 00:47:25,609
-That evening Fritz came to the house to see
-me.
-
-790
-00:47:25,609 --> 00:47:27,590
-He brought someone with him.
-
-791
-00:47:27,590 --> 00:47:32,410
-I recognized Johann, the old man from the
-hotel in Zenda.
-
-792
-00:47:32,410 --> 00:47:36,839
-I remembered that Johann worked for the Duke
-of Strelsau.
-
-793
-00:47:36,839 --> 00:47:41,339
-The three of us talked together, and Johann
-agreed to work with us.
-
-794
-00:47:41,339 --> 00:47:44,510
-He knew the King was a prisoner in the castle.
-
-795
-00:47:44,510 --> 00:47:48,540
-He was afraid of the Duke, he told us.
-
-796
-00:47:48,540 --> 00:47:53,400
-Johann told us that the King was still alive
-but he was very ill.
-
-797
-00:47:53,400 --> 00:47:56,900
+507
+00:47:53,040 --> 00:47:55,760
 'He'll die soon,' Johann told us.
 
-798
-00:47:56,900 --> 00:48:01,050
-There are two secret rooms in the castle,'
-he explained.
+508
+00:47:56,640 --> 00:48:00,800
+There are two secret rooms 
+in the castle,' he explained.  
 
-799
-00:48:01,050 --> 00:48:04,280
-They're holding the King in one of the rooms.
+509
+00:48:00,800 --> 00:48:06,640
+They're holding the King in one of the rooms. 
+Two members of the Six are in the other room.  
 
-800
-00:48:04,280 --> 00:48:07,770
-Two members of the Six are in the other room.
+510
+00:48:07,520 --> 00:48:12,160
+The Duke has told them to kill the 
+King if anyone tries to rescue him.'
 
-801
-00:48:07,770 --> 00:48:12,780
-The Duke has told them to kill the King if
-anyone tries to rescue him.'
+511
+00:48:13,280 --> 00:48:16,240
+'What will they do with the 
+King's body?' I asked him.  
 
-802
-00:48:12,780 --> 00:48:15,640
-'What will they do with the King's body?'
+512
+00:48:16,960 --> 00:48:21,840
+'If they kill him, we'll find his body. 
+Everybody will know the Duke's a murderer then.'
 
-803
-00:48:15,640 --> 00:48:16,750
-I asked him.
+513
+00:48:22,640 --> 00:48:28,560
+They've got a plan,' Johann told me. 'There's 
+a metal pipe that goes from the room where  
 
-804
-00:48:16,750 --> 00:48:20,280
-'If they kill him, we'll find his body.
+514
+00:48:28,560 --> 00:48:34,320
+they're keeping him, down into the moat. When 
+they kill the King, they're going to throw  
 
-805
-00:48:20,280 --> 00:48:22,790
-Everybody will know the Duke's a murderer
-then.'
+515
+00:48:34,320 --> 00:48:40,800
+the body into the castle moat. The Duke's 
+men will slide down the pipe into the moat  
 
-806
-00:48:22,790 --> 00:48:25,440
-They've got a plan,' Johann told me.
+516
+00:48:40,800 --> 00:48:47,840
+and swim away. There'll be no evidence of the 
+murder. No one will ever find the King's body.'
 
-807
-00:48:25,440 --> 00:48:32,030
-'There's a metal pipe that goes from the room
-where they're keeping him, down into the moat.
+517
+00:48:49,200 --> 00:48:54,720
+I knew that we had to do something to 
+save the King. Suddenly I had an idea.
 
-808
-00:48:32,030 --> 00:48:37,130
-When they kill the King, they're going to
-throw the body into the castle moat.
+518
+00:48:55,920 --> 00:49:01,840
+'Listen, Johann,' I said, 'I want you to help 
+us to enter the castle. Will you do that?'
 
-809
-00:48:37,130 --> 00:48:42,050
-The Duke's men will slide down the pipe into
-the moat and swim away.
-
-810
-00:48:42,050 --> 00:48:45,390
-There'll be no evidence of the murder.
-
-811
-00:48:45,390 --> 00:48:49,320
-No one will ever find the King's body.'
-
-812
-00:48:49,320 --> 00:48:53,300
-I knew that we had to do something to save
-the King.
-
-813
-00:48:53,300 --> 00:48:55,650
-Suddenly I had an idea.
-
-814
-00:48:55,650 --> 00:49:00,470
-'Listen, Johann,' I said, 'I want you to help
-us to enter the castle.
-
-815
-00:49:00,470 --> 00:49:02,450
-Will you do that?'
-
-816
-00:49:02,450 --> 00:49:05,060
+519
+00:49:02,640 --> 00:49:04,640
 'Yes, sir,' the old man replied.
 
-817
-00:49:05,060 --> 00:49:06,920
-'Good,' I said.
+520
+00:49:05,200 --> 00:49:09,120
+'Good,' I said. 'Open the castle 
+gate tomorrow night at two o'clock.'
 
-818
-00:49:06,920 --> 00:49:09,829
-'Open the castle gate tomorrow night at two
-o'clock.'
+521
+00:49:10,000 --> 00:49:13,440
+'What do I do then?' the old man asked nervously.
 
-819
-00:49:09,829 --> 00:49:11,660
-'What do I do then?'
+522
+00:49:14,320 --> 00:49:21,120
+'Nothing,' I told him. 'Open the castle 
+gate, and then go away. Leave the castle.'
 
-820
-00:49:11,660 --> 00:49:14,200
-the old man asked nervously.
+523
+00:49:21,760 --> 00:49:24,320
+'Very well,' he agreed. 'I'll do it.'
 
-821
-00:49:14,200 --> 00:49:16,160
-'Nothing,' I told him.
+524
+00:49:25,360 --> 00:49:30,720
+I gave Johann a letter for Antoinette De 
+Mauban. I told her to make a noise at two  
 
-822
-00:49:16,160 --> 00:49:20,080
-'Open the castle gate, and then go away.
+525
+00:49:30,720 --> 00:49:37,440
+o'clock the next night. I wanted her to 
+shout for help. I wanted the Duke to go  
 
-823
-00:49:20,080 --> 00:49:21,359
-Leave the castle.'
+526
+00:49:37,440 --> 00:49:42,240
+to her room when she cried for help. Then 
+we could enter the castle through the gate.
 
-824
-00:49:21,359 --> 00:49:23,850
-'Very well,' he agreed.
+527
+00:49:43,440 --> 00:49:46,560
+The next night I hid near the castle and watched.  
 
-825
-00:49:23,850 --> 00:49:25,560
-'I'll do it.'
+528
+00:49:47,440 --> 00:49:51,840
+It was very dark, and the castle 
+seemed huge against the sky.
+ 
+ 
+ 
 
-826
-00:49:25,560 --> 00:49:28,940
-I gave Johann a letter for Antoinette De Mauban.
-
-827
-00:49:28,940 --> 00:49:33,440
-I told her to make a noise at two o'clock
-the next night.
-
-828
-00:49:33,440 --> 00:49:36,310
-I wanted her to shout for help.
-
-829
-00:49:36,310 --> 00:49:40,170
-I wanted the Duke to go to her room when she
-cried for help.
-
-830
-00:49:40,170 --> 00:49:43,710
-Then we could enter the castle through the
-gate.
-
-831
-00:49:43,710 --> 00:49:47,079
-The next night I hid near the castle and watched.
-
-832
-00:49:47,079 --> 00:49:57,080
-It was very dark, and the castle seemed huge
-against the sky.
-
-833
-00:49:57,080 --> 00:50:01,450
+529
+00:49:56,960 --> 00:49:57,840
 CHAPTER TEN
+
+530
+00:49:58,800 --> 00:49:59,360
 Rescue
 
-834
-00:50:01,450 --> 00:50:04,920
-When it was nearly two o'clock I entered the
-castle moat.
-
-835
-00:50:04,920 --> 00:50:06,710
-The water was cold.
-
-836
-00:50:06,710 --> 00:50:10,180
-I swam to the metal pipe under the King's
-cell.
-
-837
-00:50:10,180 --> 00:50:14,450
-It was very close to Antoinette De Mauban's
-room in the castle.
-
-838
-00:50:14,450 --> 00:50:16,240
-I looked up at the castle.
-
-839
-00:50:16,240 --> 00:50:19,270
-There was a light in Antoinette De Mauban's
-room.
-
-840
-00:50:19,270 --> 00:50:22,320
-There was a man in the room with her.
-
-841
-00:50:22,320 --> 00:50:24,410
-It was Rupert Hentzau.
-
-842
-00:50:24,410 --> 00:50:26,980
-They were arguing about something.
-
-843
-00:50:26,980 --> 00:50:30,630
-I saw Rupert approach her, and she walked
-away from him.
-
-844
-00:50:30,630 --> 00:50:33,160
-I heard her say angrily, 'Never!
-
-845
-00:50:33,160 --> 00:50:34,609
-You're mad.'
-
-846
-00:50:34,609 --> 00:50:37,060
-'Forget Black Michael,' Rupert told her.
-
-847
-00:50:37,060 --> 00:50:38,640
-'I'm a better man than he is.'
-
-848
-00:50:38,640 --> 00:50:42,660
-He moved forward again and tried to kiss Antoinette
-De Mauban.
-
-849
-00:50:42,660 --> 00:50:45,339
-She pushed him away angrily.
-
-850
-00:50:45,339 --> 00:50:47,710
-Then I heard someone come into the room.
-
-851
-00:50:47,710 --> 00:50:48,800
-It was the Duke!
-
-852
-00:50:48,800 --> 00:50:51,869
-'Leave us alone' he ordered Rupert.
-
-853
-00:50:51,869 --> 00:50:55,450
-Rupert smiled cruelly and left the room.
-
-854
-00:50:55,450 --> 00:51:00,630
-A few minutes later the Duke also left Antoinette
-De Mauban's room.
-
-855
-00:51:00,630 --> 00:51:02,660
-The castle was now dark.
-
-856
-00:51:02,660 --> 00:51:07,220
-I was waiting for Johann to open the gate
-when there was a terrible scream from Antoinette
-
-857
-00:51:07,220 --> 00:51:08,880
-De Mauban's room.
-
-858
-00:51:08,880 --> 00:51:11,240
-'Help, Michael!'
-
-859
-00:51:11,240 --> 00:51:14,720
-she cried, it's Hentzau, help me!'
-
-860
-00:51:14,720 --> 00:51:18,290
-I could not see anything, but I heard it all.
-
-861
-00:51:18,290 --> 00:51:22,220
-First there was the sound of a man running
-towards Antoinette De Mauban's room - the
-
-862
-00:51:22,220 --> 00:51:26,390
-Duke.
-
-863
-00:51:26,390 --> 00:51:28,000
-Then I heard the noise of swords.
-
-864
-00:51:28,000 --> 00:51:30,810
-Rupert and the Duke were fighting.
-
-865
-00:51:30,810 --> 00:51:36,530
-One man called out in pain, and there was
-silence.
-
-866
-00:51:36,530 --> 00:51:40,390
-The window opened, and I saw Rupert standing
-there.
-
-867
-00:51:40,390 --> 00:51:44,040
-He had killed the Duke of Strelsau!
-
-868
-00:51:44,040 --> 00:51:46,220
-Then more men rushed into the room.
-
-869
-00:51:46,220 --> 00:51:51,090
-They attacked Rupert, but he jumped out of
-the window into the castle moat.
-
-870
-00:51:51,090 --> 00:51:53,890
-One of the Duke's men tried to follow Rupert.
-
-871
-00:51:53,890 --> 00:51:57,950
-I grabbed him and killed him quickly and quietly.
-
-872
-00:51:57,950 --> 00:52:00,990
-Then I searched his body for the keys to the
-King's cell.
-
-873
-00:52:00,990 --> 00:52:05,240
-I took the keys and opened the door that led
-to the cell.
-
-874
-00:52:05,240 --> 00:52:08,090
-I was now outside the King's cell.
-
-875
-00:52:08,090 --> 00:52:10,630
-There were two men with the King.
-
-876
-00:52:10,630 --> 00:52:13,310
-They thought I was a friend.
-
-877
-00:52:13,310 --> 00:52:15,380
-They opened the cell door.
-
-878
-00:52:15,380 --> 00:52:17,390
-I ran in and attacked them.
-
-879
-00:52:17,390 --> 00:52:19,550
-I killed one of them immediately.
-
-880
-00:52:19,550 --> 00:52:23,599
-The other man, Detchard, ran towards the King
-with his sword.
-
-881
-00:52:23,599 --> 00:52:28,819
-The King was weak and ill, and he stood in
-one corner of the cell.
-
-882
-00:52:28,819 --> 00:52:31,740
-I attacked Detchard before he could kill the
-King.
-
-883
-00:52:31,740 --> 00:52:37,090
-He was a good swordsman, and we fought for
-a long time down there in the dark cell.
-
-884
-00:52:37,090 --> 00:52:41,930
-Detchard was stronger than me, and I was in
-great danger.
-
-885
-00:52:41,930 --> 00:52:44,770
-Suddenly the King recognised who I was.
-
-886
-00:52:44,770 --> 00:52:47,400
-'Cousin Rudolf!' he cried.
-
-887
-00:52:47,400 --> 00:52:48,720
-'I'll help you.'
-
-888
-00:52:48,720 --> 00:52:51,369
-He ran forward and picked up a chair.
-
-889
-00:52:51,369 --> 00:52:53,420
-Then he pushed the chair against Detchard.
-
-890
-00:52:53,420 --> 00:52:56,560
-Detchard turned and wounded the King with
-his sword.
-
-891
-00:52:56,560 --> 00:52:58,460
-The King fell to the floor.
-
-892
-00:52:58,460 --> 00:53:06,880
-Then Detchard turned back to me, but he slipped
-on the blood from the King's wound.
-
-893
-00:53:06,880 --> 00:53:09,480
-I killed him as he fell.
-
-894
-00:53:09,480 --> 00:53:12,520
-The fight was over.
-
-895
-00:53:12,520 --> 00:53:16,280
-I helped the King to climb the steps into
-the castle.
-
-896
-00:53:16,280 --> 00:53:17,760
-Then we saw a strange sight.
-
-897
-00:53:17,760 --> 00:53:22,750
-There was a group of the Duke's men standing
-near Rupert Hentzau.
-
-898
-00:53:22,750 --> 00:53:27,599
-Colonel Sapt and our soldiers were approaching
-Rupert from the other direction.
-
-899
-00:53:27,599 --> 00:53:31,770
-Rupert looked at both groups of enemies and
-smiled.
-
-900
-00:53:31,770 --> 00:53:35,060
-He did not seem afraid of danger.
-
-901
-00:53:35,060 --> 00:53:37,550
-Then I saw Antoinette De Mauban.
-
-902
-00:53:37,550 --> 00:53:43,490
-She was standing in a door of the castle - and
-she was pointing a pistol at Rupert.
-
-903
-00:53:43,490 --> 00:53:46,490
-She fired, but the bullet missed.
-
-904
-00:53:46,490 --> 00:53:49,490
-Rupert turned to her and smiled.
-
-905
-00:53:49,490 --> 00:53:54,480
-Then he looked once at the Duke's men and
-once at Colonel Sapt and the soldiers.
-
-906
-00:53:54,480 --> 00:54:01,710
-He ran to the wall and jumped into the castle
-moat once more.
-
-907
-00:54:01,710 --> 00:54:07,069
-I jumped in after him, but he was a good swimmer.
-
-908
-00:54:07,069 --> 00:54:10,680
-He swam to the other side quickly and climbed
-out.
-
-909
-00:54:10,680 --> 00:54:13,030
-Then he began to run through the countryside.
-
-910
-00:54:13,030 --> 00:54:16,190
-I ran after him, but he was faster than me.
-
-911
-00:54:16,190 --> 00:54:19,820
-He suddenly turned to the right, and I could
-not see.
-
-912
-00:54:19,820 --> 00:54:24,430
-Then I heard a scream - it was a woman's voice.
-
-913
-00:54:24,430 --> 00:54:27,220
-I ran as fast as I could towards the sound.
-
-914
-00:54:27,220 --> 00:54:28,580
-Then I saw Rupert.
-
-915
-00:54:28,580 --> 00:54:31,180
-He was pulling a young girl off her horse.
-
-916
-00:54:31,180 --> 00:54:37,530
-He pulled her to the ground, kissed her gently,
-and jumped onto the horse.
-
-917
-00:54:37,530 --> 00:54:38,650
+531
+00:50:01,120 --> 00:50:04,160
+When it was nearly two o'clock 
+I entered the castle moat.  
+
+532
+00:50:04,720 --> 00:50:08,160
+The water was cold. I swam to the metal pipe  
+
+533
+00:50:08,160 --> 00:50:13,120
+under the King's cell. It was very close to 
+Antoinette De Mauban's room in the castle.
+
+534
+00:50:14,320 --> 00:50:20,240
+I looked up at the castle. There was a light 
+in Antoinette De Mauban's room. There was a  
+
+535
+00:50:20,240 --> 00:50:27,760
+man in the room with her. It was Rupert Hentzau. 
+They were arguing about something. I saw Rupert  
+
+536
+00:50:27,760 --> 00:50:34,160
+approach her, and she walked away from him. 
+I heard her say angrily, 'Never! You're mad.'
+
+537
+00:50:34,160 --> 00:50:38,560
+'Forget Black Michael,' Rupert told 
+her. 'I'm a better man than he is.'
+
+538
+00:50:38,560 --> 00:50:42,480
+He moved forward again and tried 
+to kiss Antoinette De Mauban.  
+
+539
+00:50:42,480 --> 00:50:48,320
+She pushed him away angrily. Then I heard 
+someone come into the room. It was the Duke!
+
+540
+00:50:48,880 --> 00:50:54,560
+'Leave us alone' he ordered Rupert. 
+Rupert smiled cruelly and left the room.  
+
+541
+00:50:55,280 --> 00:50:59,200
+A few minutes later the Duke also 
+left Antoinette De Mauban's room.
+
+542
+00:51:00,400 --> 00:51:04,800
+The castle was now dark. I was 
+waiting for Johann to open the gate  
+
+543
+00:51:04,800 --> 00:51:07,840
+when there was a terrible scream 
+from Antoinette De Mauban's room.
+
+544
+00:51:09,600 --> 00:51:17,120
+'Help, Michael!' she cried, it's Hentzau, help 
+me!' I could not see anything, but I heard it  
+
+545
+00:51:17,120 --> 00:51:22,640
+all. First there was the sound of a man running 
+towards Antoinette De Mauban's room - the Duke.
+
+546
+00:51:26,080 --> 00:51:32,480
+Then I heard the noise of swords. Rupert and the 
+Duke were fighting. One man called out in pain,  
+
+547
+00:51:33,920 --> 00:51:37,520
+and there was silence. The window opened,  
+
+548
+00:51:37,520 --> 00:51:44,640
+and I saw Rupert standing there. He had 
+killed the Duke of Strelsau! Then more men  
+
+549
+00:51:44,640 --> 00:51:49,840
+rushed into the room. They attacked Rupert, but 
+he jumped out of the window into the castle moat.
+
+550
+00:51:50,800 --> 00:51:56,480
+One of the Duke's men tried to follow Rupert. 
+I grabbed him and killed him quickly and  
+
+551
+00:51:56,480 --> 00:52:00,640
+quietly. Then I searched his body 
+for the keys to the King's cell.  
+
+552
+00:52:01,440 --> 00:52:07,520
+I took the keys and opened the door that led 
+to the cell. I was now outside the King's cell.
+
+553
+00:52:08,720 --> 00:52:16,160
+There were two men with the King. They thought I 
+was a friend. They opened the cell door. I ran in  
+
+554
+00:52:16,160 --> 00:52:21,280
+and attacked them. I killed one of them 
+immediately. The other man, Detchard, ran  
+
+555
+00:52:21,280 --> 00:52:27,360
+towards the King with his sword. The King was weak 
+and ill, and he stood in one corner of the cell.
+
+556
+00:52:28,640 --> 00:52:33,360
+I attacked Detchard before he could 
+kill the King. He was a good swordsman,  
+
+557
+00:52:33,360 --> 00:52:36,240
+and we fought for a long time 
+down there in the dark cell.  
+
+558
+00:52:37,200 --> 00:52:44,160
+Detchard was stronger than me, and I was in great 
+danger. Suddenly the King recognised who I was.
+
+559
+00:52:44,960 --> 00:52:47,920
+'Cousin Rudolf!' he cried. 'I'll help you.'
+
+560
+00:52:48,480 --> 00:52:54,560
+He ran forward and picked up a chair. Then he 
+pushed the chair against Detchard. Detchard turned  
+
+561
+00:52:54,560 --> 00:53:02,000
+and wounded the King with his sword. The King fell 
+to the floor. Then Detchard turned back to me,  
+
+562
+00:53:02,000 --> 00:53:10,960
+but he slipped on the blood from the King's wound. 
+I killed him as he fell. The fight was over.
+
+563
+00:53:12,320 --> 00:53:18,080
+I helped the King to climb the steps into 
+the castle. Then we saw a strange sight.  
+
+564
+00:53:18,080 --> 00:53:21,440
+There was a group of the Duke's 
+men standing near Rupert Hentzau.  
+
+565
+00:53:22,320 --> 00:53:26,480
+Colonel Sapt and our soldiers were 
+approaching Rupert from the other direction.  
+
+566
+00:53:27,360 --> 00:53:33,440
+Rupert looked at both groups of enemies and 
+smiled. He did not seem afraid of danger.
+
+567
+00:53:34,720 --> 00:53:40,480
+Then I saw Antoinette De Mauban. She was 
+standing in a door of the castle - and she  
+
+568
+00:53:40,480 --> 00:53:47,600
+was pointing a pistol at Rupert. She fired, 
+but the bullet missed. Rupert turned to her  
+
+569
+00:53:47,600 --> 00:53:54,160
+and smiled. Then he looked once at the Duke's 
+men and once at Colonel Sapt and the soldiers.
+
+570
+00:53:55,440 --> 00:54:02,720
+He ran to the wall and jumped into the 
+castle moat once more. I jumped in after him,  
+
+571
+00:54:04,720 --> 00:54:11,520
+but he was a good swimmer. He swam to the other 
+side quickly and climbed out. Then he began to run  
+
+572
+00:54:11,520 --> 00:54:16,880
+through the countryside. I ran after him, but 
+he was faster than me. He suddenly turned to  
+
+573
+00:54:16,880 --> 00:54:25,120
+the right, and I could not see. Then I heard a 
+scream - it was a woman's voice. I ran as fast  
+
+574
+00:54:25,120 --> 00:54:30,960
+as I could towards the sound. Then I saw Rupert. 
+He was pulling a young girl off her horse.  
+
+575
+00:54:31,760 --> 00:54:36,160
+He pulled her to the ground, kissed 
+her gently, and jumped onto the horse.
+
+576
+00:54:37,280 --> 00:54:38,240
 He rode up to me.
 
-918
-00:54:38,650 --> 00:54:41,110
+577
+00:54:38,800 --> 00:54:40,800
 'What happened in the castle?' he asked.
 
-919
-00:54:41,110 --> 00:54:44,420
-�eI killed three of your friends,' I told
-him.
+578
+00:54:41,440 --> 00:54:44,480
+eI killed three of your friends,' I told him.
 
-920
-00:54:44,420 --> 00:54:46,579
+579
+00:54:44,480 --> 00:54:45,920
 'And the King?' he asked.
 
-921
-00:54:46,579 --> 00:54:52,250
-'The King is hurt,' I replied sternly, 'but
-I think he will live.
+580
+00:54:46,560 --> 00:54:50,240
+'The King is hurt,' I replied sternly,  
 
-922
-00:54:52,250 --> 00:54:54,059
-I killed your friend Detchard.'
+581
+00:54:50,240 --> 00:54:54,560
+'but I think he will live. I 
+killed your friend Detchard.'
 
-923
-00:54:54,059 --> 00:54:56,130
-'You're a fool!'
+582
+00:54:54,560 --> 00:54:57,680
+'You're a fool!' Rupert said in a friendly way.
 
-924
-00:54:56,130 --> 00:54:58,290
-Rupert said in a friendly way.
-
-925
-00:54:58,290 --> 00:55:01,360
-'One more thing,' I told him.
-
-926
-00:55:01,360 --> 00:55:03,330
-'I saved your life.
-
-927
-00:55:03,330 --> 00:55:07,240
+583
+00:54:58,960 --> 00:55:05,840
+'One more thing,' I told him. 'I saved your life. 
 I was behind you on the bridge with a pistol'
 
-928
-00:55:07,240 --> 00:55:09,740
+584
+00:55:06,960 --> 00:55:08,320
 He looked at me in surprise.
 
-929
-00:55:09,740 --> 00:55:13,190
-'Now get off the horse' I said angrily.
-
-930
-00:55:13,190 --> 00:55:15,849
+585
+00:55:09,520 --> 00:55:14,400
+'Now get off the horse' I said angrily. 
 'Come and fight me like a man.'
 
-931
-00:55:15,849 --> 00:55:17,810
-I ran towards him and hit him.
+586
+00:55:15,680 --> 00:55:21,280
+I ran towards him and hit him. I was furious. 
+He defended himself, and I think he would have  
 
-932
-00:55:17,810 --> 00:55:19,420
-I was furious.
+587
+00:55:21,280 --> 00:55:27,360
+killed me there and then, I except for a sudden 
+noise. Someone was coming towards us on a horse.  
 
-933
-00:55:19,420 --> 00:55:23,319
-He defended himself, and I think he would
-have killed me there and then, I except for
+588
+00:55:27,360 --> 00:55:31,280
+I turned and saw that it was 
+Fritz. He was carrying a pistol.
 
-934
-00:55:23,319 --> 00:55:25,410
-a sudden noise.
+589
+00:55:32,320 --> 00:55:35,040
+Rupert looked at Fritz. He stopped fighting me.
 
-935
-00:55:25,410 --> 00:55:27,470
-Someone was coming towards us on a horse.
+590
+00:55:35,040 --> 00:55:40,560
+'Au revoir, Rassendyll,' he 
+said. Then he rode away laughing.
 
-936
-00:55:27,470 --> 00:55:30,210
-I turned and saw that it was Fritz.
+591
+00:55:41,680 --> 00:55:45,600
+Back at the castle the King was now 
+lying in Black Michael's own room.  
 
-937
-00:55:30,210 --> 00:55:32,500
-He was carrying a pistol.
+592
+00:55:46,560 --> 00:55:52,480
+His men sent a message to Princess Flavia that 
+he was safe. She now hurried to Zenda to see him.
 
-938
-00:55:32,500 --> 00:55:34,200
-Rupert looked at Fritz.
+593
+00:55:53,440 --> 00:55:56,800
+The Princess immediately set 
+out for Zenda in her carriage.  
 
-939
-00:55:34,200 --> 00:55:35,819
-He stopped fighting me.
+594
+00:55:57,520 --> 00:56:04,080
+She arrived just as Fritz and I were approaching 
+the castle. Fritz gave me a sudden look. I  
 
-940
-00:55:35,819 --> 00:55:39,150
-'Au revoir, Rassendyll,' he said.
+595
+00:56:04,080 --> 00:56:10,240
+understood that Princess Flavia must not see 
+me. I hid behind some bushes - near the road.
 
-941
-00:55:39,150 --> 00:55:41,000
-Then he rode away laughing.
+596
+00:56:11,280 --> 00:56:15,280
+Just at that moment the young 
+girl whose horse Rupert had taken,  
 
-942
-00:55:41,000 --> 00:55:46,819
-Back at the castle the King was now lying
-in Black Michael's own room.
+597
+00:56:15,280 --> 00:56:18,560
+came forward. She ran up to Princess Flavia.
 
-943
-00:55:46,819 --> 00:55:50,680
-His men sent a message to Princess Flavia
-that he was safe.
+598
+00:56:19,680 --> 00:56:23,360
+'The King is here, Princess!' 
+she cried. 'In the bushes.'
 
-944
-00:55:50,680 --> 00:55:53,670
-She now hurried to Zenda to see him.
+599
+00:56:23,920 --> 00:56:27,680
+'Nonsense' one of the soldiers told 
+her. 'The King is in the castle.'
 
-945
-00:55:53,670 --> 00:55:57,760
-The Princess immediately set out for Zenda
-in her carriage.
+600
+00:56:28,400 --> 00:56:33,120
+'He's here, I tell you!' the girl 
+cried. 'He's here with Count Fritz.'
 
-946
-00:55:57,760 --> 00:56:02,030
-She arrived just as Fritz and I were approaching
-the castle.
+601
+00:56:34,560 --> 00:56:40,400
+'How can the King be in two places?' Princess 
+Flavia asked. 'Or are there two kings?'
 
-947
-00:56:02,030 --> 00:56:04,010
-Fritz gave me a sudden look.
+602
+00:56:41,440 --> 00:56:46,560
+Colonel Sapt now appeared. He told the 
+Princess that the King was in the castle.
 
-948
-00:56:04,010 --> 00:56:08,180
-I understood that Princess Flavia must not
-see me.
+603
+00:56:48,160 --> 00:56:52,240
+'But this girl says he's here, in 
+the bushes,' the Princess told him.
 
-949
-00:56:08,180 --> 00:56:11,619
-I hid behind some bushes - near the road.
-
-950
-00:56:11,619 --> 00:56:17,079
-Just at that moment the young girl whose horse
-Rupert had taken, came forward.
-
-951
-00:56:17,079 --> 00:56:19,340
-She ran up to Princess Flavia.
-
-952
-00:56:19,340 --> 00:56:21,859
-'The King is here, Princess!'
-
-953
-00:56:21,859 --> 00:56:22,859
-she cried.
-
-954
-00:56:22,859 --> 00:56:24,090
-'In the bushes.'
-
-955
-00:56:24,090 --> 00:56:26,470
-'Nonsense' one of the soldiers told her.
-
-956
-00:56:26,470 --> 00:56:28,809
-'The King is in the castle.'
-
-957
-00:56:28,809 --> 00:56:30,430
-'He's here, I tell you!'
-
-958
-00:56:30,430 --> 00:56:31,450
-the girl cried.
-
-959
-00:56:31,450 --> 00:56:33,960
-'He's here with Count Fritz.'
-
-960
-00:56:33,960 --> 00:56:37,260
-'How can the King be in two places?'
-
-961
-00:56:37,260 --> 00:56:38,589
-Princess Flavia asked.
-
-962
-00:56:38,589 --> 00:56:41,869
-'Or are there two kings?'
-
-963
-00:56:41,869 --> 00:56:44,170
-Colonel Sapt now appeared.
-
-964
-00:56:44,170 --> 00:56:48,420
-He told the Princess that the King was in
-the castle.
-
-965
-00:56:48,420 --> 00:56:53,750
-'But this girl says he's here, in the bushes,'
-the Princess told him.
-
-966
-00:56:53,750 --> 00:56:56,490
+604
+00:56:53,280 --> 00:56:55,520
 Colonel Sapt smiled at the girl.
 
-967
-00:56:56,490 --> 00:57:03,349
-'Every fine gentleman looks like a king to
-a simple girl like her,' he said.
+605
+00:56:56,560 --> 00:57:02,640
+'Every fine gentleman looks like a king 
+to a simple girl like her,' he said.
 
-968
-00:57:03,349 --> 00:57:07,130
+606
+00:57:03,760 --> 00:57:06,720
 'I'll see this man,' the Princess decided.
 
-969
-00:57:07,130 --> 00:57:11,770
+607
+00:57:07,360 --> 00:57:10,640
 'Then come alone,' Colonel Sapt advised her.
 
-970
-00:57:11,770 --> 00:57:16,130
-A few minutes later Princess Flavia and the
-Colonel were standing over me.
+608
+00:57:11,600 --> 00:57:15,680
+A few minutes later Princess Flavia 
+and the Colonel were standing over me.
 
-971
-00:57:16,130 --> 00:57:17,940
-'It is the King!'
+609
+00:57:16,320 --> 00:57:18,960
+'It is the King!' she cried excitedly.
 
-972
-00:57:17,940 --> 00:57:19,980
-she cried excitedly.
-
-973
-00:57:19,980 --> 00:57:22,030
+610
+00:57:19,760 --> 00:57:21,440
 She moved forward to kiss me.
 
-974
-00:57:22,030 --> 00:57:26,270
-'It is not the King,' Colonel Sapt told her.
+611
+00:57:22,160 --> 00:57:28,960
+'It is not the King,' Colonel Sapt told 
+her. 'You cannot kiss this man, Princess.'
 
-975
-00:57:26,270 --> 00:57:29,270
-'You cannot kiss this man, Princess.'
+612
+00:57:29,840 --> 00:57:36,880
+'Of course lie's the King!' Princess Flavia 
+cried. 'It is the King's face - it is my love!'
 
-976
-00:57:29,270 --> 00:57:32,220
-'Of course lie's the King!'
+613
+00:57:37,600 --> 00:57:44,080
+'Your love. Princess,' the Colonel 
+said slowly, 'but he is not the King.'
 
-977
-00:57:32,220 --> 00:57:33,950
-Princess Flavia cried.
+614
+00:57:45,280 --> 00:57:50,560
+'Why do you let them torture me?' the 
+Princess asked me. 'Tell me what it means.'
 
-978
-00:57:33,950 --> 00:57:37,910
-'It is the King's face - it is my love!'
+615
+00:57:51,920 --> 00:57:55,360
+I looked at her sadly for a moment, then I spoke.
 
-979
-00:57:37,910 --> 00:57:39,270
-'Your love.
+616
+00:57:57,360 --> 00:58:01,040
+'I am not the King!' I said sadly.
+ 
+ 
+ 
 
-980
-00:57:39,270 --> 00:57:44,880
-Princess,' the Colonel said slowly, 'but he
-is not the King.'
-
-981
-00:57:44,880 --> 00:57:47,420
-'Why do you let them torture me?'
-
-982
-00:57:47,420 --> 00:57:49,599
-the Princess asked me.
-
-983
-00:57:49,599 --> 00:57:52,069
-'Tell me what it means.'
-
-984
-00:57:52,069 --> 00:57:56,390
-I looked at her sadly for a moment, then I
-spoke.
-
-985
-00:57:56,390 --> 00:58:00,240
-'I am not the King!'
-
-986
-00:58:00,240 --> 00:58:06,040
-I said sadly.
-
-987
-00:58:06,040 --> 00:58:11,180
+617
+00:58:08,080 --> 00:58:08,720
 Epilogue
 
-988
-00:58:11,180 --> 00:58:13,530
-That night I went to see the King.
-
-989
-00:58:13,530 --> 00:58:16,200
+618
+00:58:10,880 --> 00:58:15,040
+That night I went to see the King. 
 He thanked me for my loyalty.
 
-990
-00:58:16,200 --> 00:58:20,380
-'You have been a good and dear friend, cousin,'
-he told me.
+619
+00:58:16,000 --> 00:58:22,560
+'You have been a good and dear friend, cousin,' 
+he told me. 'I will try to be a good king.  
 
-991
-00:58:20,380 --> 00:58:23,780
-'I will try to be a good king.
-
-992
-00:58:23,780 --> 00:58:27,809
+620
+00:58:23,520 --> 00:58:26,720
 You have shown me how a good king behaves.'
 
-993
-00:58:27,809 --> 00:58:30,920
-Fritz and I left the King.
+621
+00:58:27,760 --> 00:58:32,240
+Fritz and I left the King. 
+Fritz seemed in a hurry,  
 
-994
-00:58:30,920 --> 00:58:35,020
-Fritz seemed in a hurry, and he led me quickly
-to another part of the building.
+622
+00:58:32,240 --> 00:58:36,000
+and he led me quickly to 
+another part of the building.
 
-995
-00:58:35,020 --> 00:58:37,089
-'Where are we going?'
+623
+00:58:36,000 --> 00:58:37,760
+'Where are we going?' I asked him.
 
-996
-00:58:37,089 --> 00:58:38,369
-I asked him.
+624
+00:58:38,640 --> 00:58:43,920
+'We're going to see Princess Flavia,' he 
+told me. 'She heard that the King was here,  
 
-997
-00:58:38,369 --> 00:58:41,740
-'We're going to see Princess Flavia,' he told
-me.
+625
+00:58:44,560 --> 00:58:45,760
+and she came to see him.'
 
-998
-00:58:41,740 --> 00:58:46,830
-'She heard that the King was here, and she
-came to see him.'
-
-999
-00:58:46,830 --> 00:58:49,079
+626
+00:58:46,640 --> 00:58:48,240
 He coughed awkwardly.
 
-1000
-00:58:49,079 --> 00:58:53,910
-'Colonel Sapt has told her everything.
-
-1001
-00:58:53,910 --> 00:58:56,400
+627
+00:58:48,240 --> 00:58:56,480
+'Colonel Sapt has told her everything. 
 She knows who you are now, Mr. Rassendyll'
 
-1002
-00:58:56,400 --> 00:58:59,120
-'I see.'
+628
+00:58:57,440 --> 00:59:03,840
+'I see.' I said slowly, I 
+wonder why she wants to see me.'
 
-1003
-00:58:59,120 --> 00:59:05,040
-I said slowly, I wonder why she wants to see
-me.'
+629
+00:59:04,560 --> 00:59:12,400
+Fritz opened a door and pushed me into the room. 
+He did not enter. The room was dark, and at first  
 
-1004
-00:59:05,040 --> 00:59:08,710
-Fritz opened a door and pushed me into the
-room.
+630
+00:59:12,400 --> 00:59:19,200
+I thought I was alone. Then I saw the figure of a 
+woman standing near the window. I approached her.
 
-1005
-00:59:08,710 --> 00:59:10,340
-He did not enter.
+631
+00:59:20,160 --> 00:59:21,760
+'Princess!' I said.
 
-1006
-00:59:10,340 --> 00:59:14,630
-The room was dark, and at first I thought
-I was alone.
-
-1007
-00:59:14,630 --> 00:59:18,400
-Then I saw the figure of a woman standing
-near the window.
-
-1008
-00:59:18,400 --> 00:59:20,320
-I approached her.
-
-1009
-00:59:20,320 --> 00:59:21,430
-'Princess!'
-
-1010
-00:59:21,430 --> 00:59:22,920
-I said.
-
-1011
-00:59:22,920 --> 00:59:25,670
+632
+00:59:22,800 --> 00:59:25,040
 I bowed very low to her.
 
-1012
-00:59:25,670 --> 00:59:26,670
-'No!'
+633
+00:59:25,680 --> 00:59:31,840
+'No!' she cried. 'You must not bow to 
+me, Rudolf - you're the man I love.'
 
-1013
-00:59:26,670 --> 00:59:27,670
-she cried.
+634
+00:59:32,640 --> 00:59:37,200
+'I love you,' I told her. I 
+love you with all my heart.'
 
-1014
-00:59:27,670 --> 00:59:32,490
-'You must not bow to me, Rudolf - you're the
-man I love.'
+635
+00:59:38,880 --> 00:59:43,440
+Princess Flavia looked at me 
+tenderly, but she did not say a word.
 
-1015
-00:59:32,490 --> 00:59:35,359
-'I love you,' I told her.
+636
+00:59:44,800 --> 00:59:48,640
+'Perhaps I was wrong to pretend 
+to be the King,' I said.  
 
-1016
-00:59:35,359 --> 00:59:39,380
-I love you with all my heart.'
-
-1017
-00:59:39,380 --> 00:59:44,569
-Princess Flavia looked at me tenderly, but
-she did not say a word.
-
-1018
-00:59:44,569 --> 00:59:49,569
-'Perhaps I was wrong to pretend to be the
-King,' I said.
-
-1019
-00:59:49,569 --> 00:59:55,000
+637
+00:59:49,280 --> 00:59:53,280
 'But I never lied about my love for you - never!'
 
-1020
-00:59:55,000 --> 00:59:58,670
-'You were very brave to do what you did,'
-she told me.
+638
+00:59:54,720 --> 00:59:59,840
+'You were very brave to do what you did,' 
+she told me. 'You saved the real King,  
 
-1021
-00:59:58,670 --> 01:00:02,920
-'You saved the real King, and you had to pretend
-to me.
+639
+01:00:00,800 --> 01:00:04,240
+and you had to pretend to me. I understand that.'
 
-1022
-01:00:02,920 --> 01:00:04,210
-I understand that.'
+640
+01:00:04,240 --> 01:00:10,400
+'I nearly told you the truth,' I explained. 'I 
+wanted to, but the King's life was in danger.'
 
-1023
-01:00:04,210 --> 01:00:07,781
-'I nearly told you the truth,' I explained.
+641
+01:00:11,520 --> 01:00:13,840
+'What will you do now?' she asked me.
 
-1024
-01:00:07,781 --> 01:00:10,480
-'I wanted to, but the King's life was in danger.'
+642
+01:00:14,960 --> 01:00:18,800
+I'm going back to England 
+tonight,' I said quietly.  
 
-1025
-01:00:10,480 --> 01:00:13,230
-'What will you do now?'
+643
+01:00:19,440 --> 01:00:22,960
+'I have to leave Ruritania now 
+that the real King is safe.'
 
-1026
-01:00:13,230 --> 01:00:14,730
-she asked me.
-
-1027
-01:00:14,730 --> 01:00:19,230
-I'm going back to England tonight,' I said
-quietly.
-
-1028
-01:00:19,230 --> 01:00:23,200
-'I have to leave Ruritania now that the real
-King is safe.'
-
-1029
-01:00:23,200 --> 01:00:25,869
-'I want to come with you!'
-
-1030
-01:00:25,869 --> 01:00:27,100
+644
+01:00:24,080 --> 01:00:26,960
+'I want to come with you!' 
 Princess Flavia said desperately.
 
-1031
-01:00:27,100 --> 01:00:29,310
-'Yes,' I said eagerly.
+645
+01:00:27,520 --> 01:00:32,320
+'Yes,' I said eagerly. 'Come with 
+me. We'll be happy together, Flavia!'
 
-1032
-01:00:29,310 --> 01:00:30,790
-'Come with me.
+646
+01:00:33,360 --> 01:00:40,240
+She looked at me sadly, then she said 
+gently, 'Love isn't the only thing, Rudolf.  
 
-1033
-01:00:30,790 --> 01:00:33,599
-We'll be happy together, Flavia!'
-
-1034
-01:00:33,599 --> 01:00:41,580
-She looked at me sadly, then she said gently,
-'Love isn't the only thing, Rudolf.
-
-1035
-01:00:41,580 --> 01:00:44,839
+647
+01:00:41,440 --> 01:00:44,400
 I also have my duty here in Ruritania.'
 
-1036
-01:00:44,839 --> 01:00:47,230
-'I know,' I replied.
+648
+01:00:44,960 --> 01:00:49,680
+'I know,' I replied. 'I was wrong 
+to ask you to come with me.'
 
-1037
-01:00:47,230 --> 01:00:50,390
-'I was wrong to ask you to come with me.'
+649
+01:00:50,720 --> 01:00:57,840
+'I believe in love. Rudolf,' the Princess 
+went on. 'But I believe in honor, too. I know  
 
-1038
-01:00:50,390 --> 01:00:52,290
-'I believe in love.
+650
+01:00:57,840 --> 01:01:04,000
+you believe in honor as well. You played this 
+dangerous game because you believe in honor.'
 
-1039
-01:00:52,290 --> 01:00:54,400
-Rudolf,' the Princess went on.
+651
+01:01:05,040 --> 01:01:13,600
+'You're right,' I said. I felt that my heart 
+was breaking. 'You must stay here in Ruritania,  
 
-1040
-01:00:54,400 --> 01:00:57,540
-'But I believe in honor, too.
-
-1041
-01:00:57,540 --> 01:01:00,470
-I know you believe in honor as well.
-
-1042
-01:01:00,470 --> 01:01:04,550
-You played this dangerous game because you
-believe in honor.'
-
-1043
-01:01:04,550 --> 01:01:08,109
-'You're right,' I said.
-
-1044
-01:01:08,109 --> 01:01:11,829
-I felt that my heart was breaking.
-
-1045
-01:01:11,829 --> 01:01:16,770
-'You must stay here in Ruritania, and I must
-go back to England.
-
-1046
-01:01:16,770 --> 01:01:18,760
+652
+01:01:14,160 --> 01:01:18,640
+and I must go back to England. 
 We'll never see each other again.'
 
-1047
-01:01:18,760 --> 01:01:25,450
-The Princess kissed me, and I held her in
-my arms.
+653
+01:01:20,480 --> 01:01:27,760
+The Princess kissed me, and I held her in my 
+arms. It was the saddest moment of my life.
 
-1048
-01:01:25,450 --> 01:01:30,059
-It was the saddest moment of my life.
+654
+01:01:29,920 --> 01:01:36,640
+A few minutes later I was outside the castle with 
+Fritz and Colonel Sapt. It was now early morning.  
 
-1049
-01:01:30,059 --> 01:01:35,420
-A few minutes later I was outside the castle
-with Fritz and Colonel Sapt.
+655
+01:01:37,360 --> 01:01:39,840
+We went to the railway station 
+and waited for the train.
 
-1050
-01:01:35,420 --> 01:01:37,610
-It was now early morning.
+656
+01:01:41,440 --> 01:01:47,840
+'We're tired,' I said. 'But we played our 
+part like men, didn't we, my friends?'
 
-1051
-01:01:37,610 --> 01:01:40,630
-We went to the railway station and waited
-for the train.
+657
+01:01:47,840 --> 01:01:53,280
+'We defeated the enemy and saved 
+Ruritania,' Sapt said proudly.
 
-1052
-01:01:40,630 --> 01:01:43,990
-'We're tired,' I said.
-
-1053
-01:01:43,990 --> 01:01:47,690
-'But we played our part like men, didn't we,
-my friends?'
-
-1054
-01:01:47,690 --> 01:01:54,910
-'We defeated the enemy and saved Ruritania,'
-Sapt said proudly.
-
-1055
-01:01:54,910 --> 01:01:57,020
+658
+01:01:54,480 --> 01:01:56,560
 Fritz shook my hand warmly.
 
-1056
-01:01:57,020 --> 01:02:05,230
-'The right man is not always the real king!'
-he said.
+659
+01:01:57,360 --> 01:02:01,520
+'The right man is not always 
+the real king!' he said.
 
-1057
-01:02:05,230 --> 01:02:09,700
-Soon the train arrived, and I found myself
-an empty carriage.
+660
+01:02:04,880 --> 01:02:08,720
+Soon the train arrived, and I 
+found myself an empty carriage.  
 
-1058
-01:02:09,700 --> 01:02:14,309
-I looked out of the window to wave goodbye
-to Fritz and Colonel Sapt.
+661
+01:02:09,520 --> 01:02:15,280
+I looked out of the window to wave goodbye to 
+Fritz and Colonel Sapt. They both stood on the  
 
-1059
-01:02:14,309 --> 01:02:16,240
-They both stood on the platform.
+662
+01:02:15,280 --> 01:02:21,360
+platform. They took their hats off their 
+heads and bowed to me with great respect.  
 
-1060
-01:02:16,240 --> 01:02:21,849
-They took their hats off their heads and bowed
-to me with great respect.
+663
+01:02:22,400 --> 01:02:33,840
+They stood like that until the train 
+was a long way from the station.
 
-1061
-01:02:21,849 --> 01:02:44,990
-They stood like that until the train was a
-long way from the station.
+664
+01:02:44,720 --> 01:02:47,840
+That was the end of my Ruritanian adventure.  
 
-1062
-01:02:44,990 --> 01:02:48,540
-That was the end of my Ruritanian adventure.
+665
+01:02:48,400 --> 01:02:53,360
+A few months later Princess Flavia 
+married the King. It was her duty.
 
-1063
-01:02:48,540 --> 01:02:52,390
-A few months later Princess Flavia married
-the King.
+666
+01:02:54,400 --> 01:03:02,320
+I settled into a quiet life in England. I never 
+married. I often wonder what happened to Rupert  
 
-1064
-01:02:52,390 --> 01:02:54,549
-It was her duty.
+667
+01:03:02,320 --> 01:03:09,040
+Hentzau. Sometimes I think he will return 
+to Ruritania one day, and make more trouble  
 
-1065
-01:02:54,549 --> 01:02:57,650
-I settled into a quiet life in England.
+668
+01:03:09,040 --> 01:03:15,840
+for the King. Then, who knows, I will go 
+back there to help the Elphbergs again!
 
-1066
-01:02:57,650 --> 01:02:59,819
-I never married.
+669
+01:03:16,400 --> 01:03:22,720
+I take a holiday in Dresden every year. I meet 
+Fritz and his wife, the Countess Helga there.  
 
-1067
-01:02:59,819 --> 01:03:04,420
-I often wonder what happened to Rupert Hentzau.
+670
+01:03:23,440 --> 01:03:30,800
+We spend a few days together. Every year Fritz 
+carries a little box with him and gives it to me.  
 
-1068
-01:03:04,420 --> 01:03:10,190
-Sometimes I think he will return to Ruritania
-one day, and make more trouble for the King.
+671
+01:03:31,760 --> 01:03:39,760
+There is a rose inside, and 
+a note: "Rudolf - Flavia -  
 
-1069
-01:03:10,190 --> 01:03:15,510
-Then, who knows, I will go back there to help
-the Elphbergs again!
+672
+01:03:39,760 --> 01:03:57,840
+always". Fritz carries a similar little box back 
+to Ruritania with him after each holiday.
+ 
+ 
+ 
+ 
+ 
+ 
 
-1070
-01:03:15,510 --> 01:03:19,240
-I take a holiday in Dresden every year.
-
-1071
-01:03:19,240 --> 01:03:23,640
-I meet Fritz and his wife, the Countess Helga
-there.
-
-1072
-01:03:23,640 --> 01:03:26,470
-We spend a few days together.
-
-1073
-01:03:26,470 --> 01:03:32,040
-Every year Fritz carries a little box with
-him and gives it to me.
-
-1074
-01:03:32,040 --> 01:03:41,940
-There is a rose inside, and a note: "Rudolf
-- Flavia - always".
-
-1075
-01:03:41,940 --> 01:03:50,839
-Fritz carries a similar little box back to
-Ruritania with him after each holiday.
-
-1076
-01:03:50,839 --> 01:04:01,700
+673
+01:04:04,520 --> 01:04:05,858
 - THE END -
 

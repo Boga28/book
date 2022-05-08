@@ -1,797 +1,708 @@
 1
-00:00:01,599 --> 00:00:06,560
+00:00:01,600 --> 00:00:02,400
 CHAPTER ONE
-What is a Desert
 
 2
-00:00:06,560 --> 00:00:15,020
-A desert is a dry place that has less than
-25 centimeters of rain every year.
+00:00:03,120 --> 00:00:04,560
+What is a Desert
 
 3
-00:00:15,020 --> 00:00:19,860
-Some deserts have no rain for months or years.
+00:00:06,480 --> 00:00:12,000
+A desert is a dry place that has 
+less than 25 centimeters of rain  
 
 4
-00:00:19,860 --> 00:00:25,340
-Some deserts have sand, but others have stones
-or rocks.
+00:00:12,000 --> 00:00:21,360
+every year. Some deserts have no rain for 
+months or years. Some deserts have sand,  
 
 5
-00:00:25,340 --> 00:00:28,530
+00:00:21,360 --> 00:00:26,960
+but others have stones or rocks. 
 Some deserts are in the mountains.
 
 6
-00:00:28,530 --> 00:00:35,719
-In the day, temperatures in hot deserts are
-usually from 20 to 35 degrees centigrade,
+00:00:28,320 --> 00:00:34,960
+In the day, temperatures in hot deserts are 
+usually from 20 to 35 degrees centigrade,  
 
 7
-00:00:35,719 --> 00:00:40,780
-but temperatures can be more than 50 degrees.
+00:00:35,680 --> 00:00:39,360
+but temperatures can be more than 50 degrees.  
 
 8
-00:00:40,780 --> 00:00:43,859
-At night, the air gets very cold.
-
-9
-00:00:43,859 --> 00:00:48,500
+00:00:40,480 --> 00:00:46,480
+At night, the air gets very cold. 
 Sometimes, it's less than 0 degrees.
 
+9
+00:00:48,320 --> 00:00:56,880
+Most cold deserts are warm in summer, but they are 
+very cold in winter. In summer, temperatures are  
+
 10
-00:00:48,500 --> 00:00:55,079
-Most cold deserts are warm in summer, but
-they are very cold in winter.
+00:00:56,880 --> 00:01:05,920
+usually from 21 to 26 degrees centigrade. In 
+winter, they are usually from 2 to 4 degrees.  
 
 11
-00:00:55,079 --> 00:01:02,709
-In summer, temperatures are usually from 21
-to 26 degrees centigrade.
+00:01:07,520 --> 00:01:14,000
+Most of the water in cold deserts comes 
+from snow or fog. It doesn't come from rain.
 
 12
-00:01:02,709 --> 00:01:07,670
-In winter, they are usually from 2 to 4 degrees.
+00:01:18,160 --> 00:01:24,240
+It snows in Antarctica, but this only 
+makes about 5 centimeters of water  
 
 13
-00:01:07,670 --> 00:01:12,830
-Most of the water in cold deserts comes from
-snow or fog.
+00:01:24,240 --> 00:01:29,360
+every year. It's the biggest 
+and coldest desert on Earth.
+ 
+ 
+ 
 
 14
-00:01:12,830 --> 00:01:18,390
-It doesn't come from rain.
+00:01:32,640 --> 00:01:33,440
+CHAPTER TWO
 
 15
-00:01:18,390 --> 00:01:26,299
-It snows in Antarctica, but this only makes
-about 5 centimeters of water every year.
-
-16
-00:01:26,299 --> 00:01:32,680
-It's the biggest and coldest desert on Earth.
-
-17
-00:01:32,680 --> 00:01:37,560
-CHAPTER TWO
+00:01:34,400 --> 00:01:35,680
 Different Deserts
 
+16
+00:01:37,280 --> 00:01:44,240
+More than 20 percent of the land on Earth 
+is desert. There are many different deserts.
+
+17
+00:01:45,440 --> 00:01:50,800
+The Sahara Desert, in North Africa, 
+is the biggest hot desert on Earth.  
+
 18
-00:01:37,560 --> 00:01:42,390
-More than 20 percent of the land on Earth
-is desert.
+00:01:51,680 --> 00:02:01,920
+It's 9 million square kilometers - that's about as 
+big as the USA! The Sahara has sand dunes, rocks,  
 
 19
-00:01:42,390 --> 00:01:45,700
-There are many different deserts.
+00:02:01,920 --> 00:02:12,880
+and mountains. Some of the sand dunes are 180 
+meters tall. The Sahara has very strong winds  
 
 20
-00:01:45,700 --> 00:01:51,960
-The Sahara Desert, in North Africa, is the
-biggest hot desert on Earth.
+00:02:12,880 --> 00:02:19,600
+that make big sandstorms. The sandstorms 
+can take plants and animals into the air!
 
 21
-00:01:51,960 --> 00:01:58,880
-It's 9 million square kilometers - that's
-about as big as the USA!
+00:02:21,200 --> 00:02:26,720
+The Atacama Desert is in Peru 
+and Chile. It's not very hot,  
 
 22
-00:01:58,880 --> 00:02:04,030
-The Sahara has sand dunes, rocks, and mountains.
+00:02:27,280 --> 00:02:35,360
+and it's one of the oldest and driest deserts 
+on Earth. It has less than 1 millimeter of rain  
 
 23
-00:02:04,030 --> 00:02:10,300
-Some of the sand dunes are 180 meters tall.
+00:02:35,360 --> 00:02:43,440
+every year! Scientists think that at one 
+time, it didn't rain here for 400 years.
 
 24
-00:02:10,300 --> 00:02:15,880
-The Sahara has very strong winds that make
-big sandstorms.
+00:02:47,680 --> 00:02:51,360
+There aren't many deserts in Europe. There's one  
 
 25
-00:02:15,880 --> 00:02:21,440
-The sandstorms can take plants and animals
-into the air!
+00:02:51,360 --> 00:02:56,080
+small desert in Spain. It's 
+called the Tabernas Desert.
 
 26
-00:02:21,440 --> 00:02:25,790
-The Atacama Desert is in Peru and Chile.
+00:02:58,000 --> 00:03:07,680
+The Gobi Desert is in Mongolia and China. 
+It's 1,300,000 square kilometers and it's  
 
 27
-00:02:25,790 --> 00:02:32,440
-It's not very hot, and it's one of the oldest
-and driest deserts on Earth.
+00:03:07,680 --> 00:03:15,360
+in the mountains. Most of the land is 
+rock. It's one of the coldest deserts  
 
 28
-00:02:32,440 --> 00:02:37,970
-It has less than 1 millimeter of rain every
-year!
+00:03:15,360 --> 00:03:21,920
+on Earth. In winter, the temperature 
+can be minus 40 degrees centigrade!
+ 
+ 
+ 
 
 29
-00:02:37,970 --> 00:02:47,950
-Scientists think that at one time, it didn't
-rain here for 400 years.
+00:03:25,200 --> 00:03:26,160
+CHAPTER THREE
 
 30
-00:02:47,950 --> 00:02:50,900
-There aren't many deserts in Europe.
-
-31
-00:02:50,900 --> 00:02:53,900
-There's one small desert in Spain.
-
-32
-00:02:53,900 --> 00:02:58,260
-It's called the Tabernas Desert.
-
-33
-00:02:58,260 --> 00:03:02,830
-The Gobi Desert is in Mongolia and China.
-
-34
-00:03:02,830 --> 00:03:10,710
-It's 1,300,000 square kilometers and it's
-in the mountains.
-
-35
-00:03:10,710 --> 00:03:13,250
-Most of the land is rock.
-
-36
-00:03:13,250 --> 00:03:17,200
-It's one of the coldest deserts on Earth.
-
-37
-00:03:17,200 --> 00:03:25,280
-In winter, the temperature can be minus 40
-degrees centigrade!
-
-38
-00:03:25,280 --> 00:03:27,550
-CHAPTER THREE
+00:03:26,800 --> 00:03:27,280
 Plants
 
-39
-00:03:27,550 --> 00:03:36,760
-Deserts are very dry places, but plants can
-still grow there.
+31
+00:03:30,000 --> 00:03:35,200
+Deserts are very dry places, 
+but plants can still grow there.  
 
-40
-00:03:36,760 --> 00:03:41,620
-Desert plants collect and use water in special
-ways.
+32
+00:03:36,320 --> 00:03:40,160
+Desert plants collect and 
+use water in special ways.
 
-41
-00:03:41,620 --> 00:03:48,510
-The cactus has big roots, so it can collect
-water fast when it rains.
+33
+00:03:41,440 --> 00:03:47,040
+The cactus has big roots, so it can 
+collect water fast when it rains.  
 
-42
-00:03:48,510 --> 00:03:53,900
-It stores water in its stem for when there
-isn't any rain.
+34
+00:03:48,240 --> 00:03:55,760
+It stores water in its stem for when there 
+isn't any rain. Many cactus plants have spikes.  
 
-43
-00:03:53,900 --> 00:03:56,940
-Many cactus plants have spikes.
+35
+00:03:56,720 --> 00:04:02,160
+The spikes also collect water, and 
+they stop animals eating the plant.
 
-44
-00:03:56,940 --> 00:04:07,260
-The spikes also collect water, and they stop
-animals eating the plant.
+36
+00:04:07,040 --> 00:04:14,160
+There are about 1,200 different 
+types of plant in the Sahara Desert.
 
-45
-00:04:07,260 --> 00:04:14,370
-There are about 1,200 different types of plant
-in the Sahara Desert.
-
-46
-00:04:14,370 --> 00:04:18,340
+37
+00:04:14,160 --> 00:04:17,280
 The welwitschia plant gets water from fog.
 
-47
-00:04:18,340 --> 00:04:23,210
-The leaves collect the water and it goes down
-into the soil.
+38
+00:04:18,160 --> 00:04:21,360
+The leaves collect the water and it goes down  
 
-48
-00:04:23,210 --> 00:04:28,610
-Then the plant takes up the water with its
-roots.
+39
+00:04:21,360 --> 00:04:27,840
+into the soil. Then the plant 
+takes up the water with its roots.
 
-49
-00:04:28,610 --> 00:04:34,720
-The baobab tree grows in the deserts in Africa
-and Australia.
+40
+00:04:28,400 --> 00:04:35,600
+The baobab tree grows in the deserts 
+in Africa and Australia. It can store  
 
-50
-00:04:34,720 --> 00:04:39,600
-It can store thousands of liters of water.
+41
+00:04:35,600 --> 00:04:37,520
+thousands of liters of water.  
 
-51
-00:04:39,600 --> 00:04:45,290
-Some baobab trees are more than 9 meters across!
+42
+00:04:39,280 --> 00:04:47,920
+Some baobab trees are more than 9 meters across! 
+Desert people can drink the water from this tree.
 
-52
-00:04:45,290 --> 00:04:49,900
-Desert people can drink the water from this
-tree.
+43
+00:04:49,680 --> 00:04:57,840
+The seeds of many desert plants can stay in the 
+soil for a long time. When it rains, they grow  
 
-53
-00:04:49,900 --> 00:04:56,280
-The seeds of many desert plants can stay in
-the soil for a long time.
+44
+00:04:57,840 --> 00:05:05,680
+fast and produce flowers. Then they die, but 
+they leave seeds for the next time it rains.
+ 
+ 
+ 
 
-54
-00:04:56,280 --> 00:05:01,210
-When it rains, they grow fast and produce
-flowers.
-
-55
-00:05:01,210 --> 00:05:09,150
-Then they die, but they leave seeds for the
-next time it rains.
-
-56
-00:05:09,150 --> 00:05:14,210
+45
+00:05:09,120 --> 00:05:09,840
 CHAPTER FOUR
+
+46
+00:05:10,880 --> 00:05:11,520
 Animals
 
-57
-00:05:14,210 --> 00:05:20,670
-It's hard to live in the desert, but deserts
+47
+00:05:13,920 --> 00:05:19,760
+It's hard to live in the desert, but deserts 
 are homes for many different animals.
 
-58
-00:05:20,670 --> 00:05:26,780
-Insects, like ants, can live underground when
-it's hot.
+48
+00:05:21,040 --> 00:05:28,720
+Insects, like ants, can live underground when 
+it's hot. They put their eggs underground, too.  
 
-59
-00:05:26,780 --> 00:05:30,520
-They put their eggs underground, too.
+49
+00:05:29,920 --> 00:05:34,160
+Insects are important because 
+bigger animals need them for food.
 
-60
-00:05:30,520 --> 00:05:36,450
-Insects are important because bigger animals
-need them for food.
+50
+00:05:36,160 --> 00:05:43,280
+Spiders and scorpions are arachnids. 
+Many desert arachnids are poisonous.  
 
-61
-00:05:36,450 --> 00:05:40,980
-Spiders and scorpions are arachnids.
+51
+00:05:44,320 --> 00:05:49,360
+They use their poison to catch 
+insects and other small animals.
 
-62
-00:05:40,980 --> 00:05:44,510
-Many desert arachnids are poisonous.
+52
+00:05:51,280 --> 00:05:56,080
+Mammals are animals that drink milk 
+from their mother when they are young.  
 
-63
-00:05:44,510 --> 00:05:51,860
-They use their poison to catch insects and
-other small animals.
+53
+00:05:57,920 --> 00:06:05,840
+Many desert mammals can live for days with no 
+water because they can get water from plants.
 
-64
-00:05:51,860 --> 00:05:58,290
-Mammals are animals that drink milk from their
-mother when they are young.
+54
+00:06:06,880 --> 00:06:13,040
+Desert jerboas make water in their 
+body when they eat dry seeds and roots!
 
-65
-00:05:58,290 --> 00:06:07,419
-Many desert mammals can live for days with
-no water because they can get water from plants.
+55
+00:06:14,400 --> 00:06:20,720
+Reptiles, like snakes, lizards, and 
+desert tortoises, have a thick skin.  
 
-66
-00:06:07,419 --> 00:06:14,310
-Desert jerboas make water in their body when
-they eat dry seeds and roots!
+56
+00:06:22,000 --> 00:06:24,400
+This helps their body to save water.  
 
-67
-00:06:14,310 --> 00:06:22,300
-Reptiles, like snakes, lizards, and desert
-tortoises, have a thick skin.
-
-68
-00:06:22,300 --> 00:06:25,890
-This helps their body to save water.
-
-69
-00:06:25,890 --> 00:06:37,680
-Most reptiles get food and water from other
+57
+00:06:25,680 --> 00:06:33,840
+Most reptiles get food and water from other 
 animals, but desert tortoises eat plants.
 
-70
-00:06:37,680 --> 00:06:40,800
-Some deserts even have fish.
+58
+00:06:37,360 --> 00:06:47,840
+Some deserts even have fish. Pupfish live in 
+small rivers in the deserts in North America.
+ 
+ 
+ 
 
-71
-00:06:40,800 --> 00:06:49,310
-Pupfish live in small rivers in the deserts
-in North America.
-
-72
-00:06:49,310 --> 00:06:56,020
+59
+00:06:49,200 --> 00:06:50,240
 CHAPTER FIVE
+
+60
+00:06:51,440 --> 00:06:52,880
 Day and Night
 
-73
-00:06:56,020 --> 00:07:04,790
-In deserts around the world, different animals
-come out at different times.
+61
+00:06:55,760 --> 00:07:01,840
+In deserts around the world, different 
+animals come out at different times.
 
-74
-00:07:04,790 --> 00:07:09,690
-Reptiles come out in the morning to get warm
-in the sun.
+62
+00:07:03,920 --> 00:07:13,360
+Reptiles come out in the morning to get warm in 
+the sun. Lizards lie on rocks to get warm. They  
 
-75
-00:07:09,690 --> 00:07:13,310
-Lizards lie on rocks to get warm.
+63
+00:07:13,360 --> 00:07:20,800
+lie in the shade when it's too hot. Desert 
+tortoises look for food in the morning.  
 
-76
-00:07:13,310 --> 00:07:18,190
-They lie in the shade when it's too hot.
-
-77
-00:07:18,190 --> 00:07:21,860
-Desert tortoises look for food in the morning.
-
-78
-00:07:21,860 --> 00:07:30,330
-At night, they stay in their burrows so that
+64
+00:07:21,600 --> 00:07:30,000
+At night, they stay in their burrows so that 
 they are warm and safe from other animals.
 
-79
-00:07:30,330 --> 00:07:34,270
-Many desert birds also come out in the day.
+65
+00:07:30,000 --> 00:07:32,960
+Many desert birds also come out in the day.  
 
-80
-00:07:34,270 --> 00:07:40,790
-In the morning, they look for spiders, insects,
-and seeds.
+66
+00:07:34,080 --> 00:07:38,480
+In the morning, they look for 
+spiders, insects, and seeds.
 
-81
-00:07:40,790 --> 00:07:46,430
-Most desert animals sleep in the day and come
-out at night.
+67
+00:07:40,640 --> 00:07:48,720
+Most desert animals sleep in the day and come out 
+at night. Many small animals sleep in burrows.  
 
-82
-00:07:46,430 --> 00:07:50,040
-Many small animals sleep in burrows.
+68
+00:07:49,680 --> 00:07:55,280
+Bigger animals, like foxes, 
+sleep in big holes called dens.
 
-83
-00:07:50,040 --> 00:07:57,050
-Bigger animals, like foxes, sleep in big holes
-called dens.
+69
+00:07:59,600 --> 00:08:06,080
+At night, scorpions look for food. 
+Scorpions have tiny hairs on their legs.  
 
-84
-00:07:57,050 --> 00:08:03,979
-At night, scorpions look for food.
+70
+00:08:06,800 --> 00:08:11,840
+The hairs help the scorpions 
+to feel other animals moving.
 
-85
-00:08:03,979 --> 00:08:07,030
-Scorpions have tiny hairs on their legs.
+71
+00:08:13,360 --> 00:08:20,640
+Some animals, like desert cats and owls, 
+have special eyes to help them to see well  
 
-86
-00:08:07,030 --> 00:08:13,680
-The hairs help the scorpions to feel other
-animals moving.
+72
+00:08:20,640 --> 00:08:28,560
+at night. Owls can also hear very well, 
+so they know when animals are moving.
+ 
+ 
+ 
 
-87
-00:08:13,680 --> 00:08:22,850
-Some animals, like desert cats and owls, have
-special eyes to help them to see well at night.
-
-88
-00:08:22,850 --> 00:08:31,870
-Owls can also hear very well, so they know
-when animals are moving.
-
-89
-00:08:31,870 --> 00:08:37,199
+73
+00:08:31,840 --> 00:08:32,880
 CHAPTER SIX
+
+74
+00:08:33,840 --> 00:08:34,240
 People
 
-90
-00:08:37,199 --> 00:08:44,229
-About 13% of all the people in the world live
-in deserts.
+75
+00:08:36,720 --> 00:08:42,640
+About 13% of all the people 
+in the world live in deserts.  
 
-91
-00:08:44,229 --> 00:08:48,800
+76
+00:08:43,920 --> 00:08:47,200
 Some people lived in deserts a long time ago.
 
-92
-00:08:48,800 --> 00:08:53,580
-Aborigines were the first people of Australia.
+77
+00:08:48,720 --> 00:08:56,720
+Aborigines were the first people of Australia. 
+They lived in the deserts in Australia more than  
 
-93
-00:08:53,580 --> 00:09:00,210
-They lived in the deserts in Australia more
-than 40,000 years ago!
+78
+00:08:56,720 --> 00:09:07,840
+40,000 years ago! Aborigines use art to tell 
+stories. Many Aborigines live in cities today,  
 
-94
-00:09:00,210 --> 00:09:04,959
-Aborigines use art to tell stories.
+79
+00:09:08,720 --> 00:09:13,040
+but some are going back to their 
+traditional life in the desert.
 
-95
-00:09:04,959 --> 00:09:12,339
-Many Aborigines live in cities today, but
-some are going back to their traditional life
+80
+00:09:14,880 --> 00:09:22,960
+Tuareg people lived in the Sahara Desert 
+more than 2,000 years ago. They are called  
 
-96
-00:09:12,339 --> 00:09:14,569
-in the desert.
+81
+00:09:22,960 --> 00:09:26,480
+the blue people because of 
+the color of their clothes.  
 
-97
-00:09:14,569 --> 00:09:22,089
-Tuareg people lived in the Sahara Desert more
-than 2,000 years ago.
+82
+00:09:28,000 --> 00:09:36,720
+Traditional Tuaregs travel across the desert on 
+camels. They live in tents made from animal skins  
 
-98
-00:09:22,089 --> 00:09:28,720
-They are called the blue people because of
-the color of their clothes.
+83
+00:09:36,720 --> 00:09:43,440
+and wood. Many Tuaregs have 
+farms, and others work in cities.
 
-99
-00:09:28,720 --> 00:09:33,140
-Traditional Tuaregs travel across the desert
-on camels.
+84
+00:09:45,280 --> 00:09:53,280
+Bedouin people lived in the deserts hundreds of 
+years ago. They live in the Middle East and North  
 
-100
-00:09:33,140 --> 00:09:39,160
-They live in tents made from animal skins
-and wood.
+85
+00:09:53,280 --> 00:10:01,520
+Africa. Traditional Bedouins are traveling 
+farmers. They live in tents or mud houses.  
 
-101
-00:09:39,160 --> 00:09:45,600
-Many Tuaregs have farms, and others work in
-cities.
-
-102
-00:09:45,600 --> 00:09:50,699
-Bedouin people lived in the deserts hundreds
-of years ago.
-
-103
-00:09:50,699 --> 00:09:55,660
-They live in the Middle East and North Africa.
-
-104
-00:09:55,660 --> 00:09:58,880
-Traditional Bedouins are traveling farmers.
-
-105
-00:09:58,880 --> 00:10:02,560
-They live in tents or mud houses.
-
-106
-00:10:02,560 --> 00:10:07,319
-Today, many Bedouins work in cities.
-
-107
-00:10:07,319 --> 00:10:12,970
+86
+00:10:02,480 --> 00:10:09,600
+Today, many Bedouins work in cities. 
 Some Bedouins make and sell things.
+ 
+ 
+ 
 
-108
-00:10:12,970 --> 00:10:16,800
+87
+00:10:12,960 --> 00:10:13,920
 CHAPTER SEVEN
+
+88
+00:10:15,120 --> 00:10:17,840
 Water in the Desert
 
-109
-00:10:16,800 --> 00:10:25,800
-Deserts are very dry places, but all deserts
-have some water.
+89
+00:10:18,480 --> 00:10:24,480
+Deserts are very dry places, 
+but all deserts have some water.
 
-110
-00:10:25,800 --> 00:10:34,230
-An oasis is a place where water from under
-the ground makes a lake or pond.
+90
+00:10:26,240 --> 00:10:32,400
+An oasis is a place where water from 
+under the ground makes a lake or pond.  
 
-111
-00:10:34,230 --> 00:10:39,790
-Some oases are small, but some are very big.
+91
+00:10:33,920 --> 00:10:44,160
+Some oases are small, but some are very big. 
+The Siwa Oasis in Egypt is 80 kilometers long  
 
-112
-00:10:39,790 --> 00:10:48,510
-The Siwa Oasis in Egypt is 80 kilometers long
-and 20 kilometers across.
-
-113
-00:10:48,510 --> 00:10:53,740
+92
+00:10:44,720 --> 00:10:51,680
+and 20 kilometers across. 
 About 23,000 people live here.
 
-114
-00:10:53,740 --> 00:10:56,350
-Some deserts have rivers.
+93
+00:10:53,440 --> 00:10:59,840
+Some deserts have rivers. The Nile 
+River travels through the Sahara Desert.  
 
-115
-00:10:56,350 --> 00:11:00,920
-The Nile River travels through the Sahara
-Desert.
+94
+00:11:00,560 --> 00:11:07,600
+Many people live near this river. They can 
+catch fish and use the water for farming.
 
-116
-00:11:00,920 --> 00:11:04,260
-Many people live near this river.
+95
+00:11:09,040 --> 00:11:16,480
+In some deserts, there are big rainstorms. 
+Then there's no more rain for a long time.  
 
-117
-00:11:04,260 --> 00:11:09,290
-They can catch fish and use the water for
-farming.
+96
+00:11:17,520 --> 00:11:20,480
+So it's very important to collect rainwater.  
 
-118
-00:11:09,290 --> 00:11:13,370
-In some deserts, there are big rainstorms.
+97
+00:11:21,680 --> 00:11:28,240
+In the Thar Desert, people collect 
+water in ponds, wells, and big tanks.
 
-119
-00:11:13,370 --> 00:11:17,749
-Then there's no more rain for a long time.
+98
+00:11:32,320 --> 00:11:37,280
+People in some cold deserts use 
+nets to collect the water from fog.
 
-120
-00:11:17,749 --> 00:11:21,939
-So it's very important to collect rainwater.
+99
+00:11:38,320 --> 00:11:43,440
+Each net can catch about 14 
+liters of water every day.
+ 
+ 
+ 
 
-121
-00:11:21,939 --> 00:11:32,779
-In the Thar Desert, people collect water in
-ponds, wells, and big tanks.
-
-122
-00:11:32,779 --> 00:11:38,529
-People in some cold deserts use nets to collect
-the water from fog.
-
-123
-00:11:38,529 --> 00:11:46,980
-Each net can catch about 14 liters of water
-every day.
-
-124
-00:11:46,980 --> 00:11:53,029
+100
+00:11:46,960 --> 00:11:48,000
 CHAPTER EIGHT
+
+101
+00:11:48,960 --> 00:11:50,080
 Staying Cool
 
-125
-00:11:53,029 --> 00:11:58,029
-Many people and animals live in hot deserts.
-
-126
-00:11:58,029 --> 00:12:02,879
+102
+00:11:52,720 --> 00:12:00,400
+Many people and animals live in hot deserts. 
 They have different ways to stay cool.
 
-127
-00:12:02,879 --> 00:12:08,439
-Desert people use their clothes and houses
-to stay cool.
+103
+00:12:02,400 --> 00:12:06,720
+Desert people use their clothes 
+and houses to stay cool.  
 
-128
-00:12:08,439 --> 00:12:16,990
-Bedouin and Tuareg people wear long clothes
-to protect them from the hot sun and the wind.
+104
+00:12:08,160 --> 00:12:14,960
+Bedouin and Tuareg people wear long clothes 
+to protect them from the hot sun and the wind.  
 
-129
-00:12:16,990 --> 00:12:22,180
-They wear a head cloth to protect their head
-and face.
+105
+00:12:16,720 --> 00:12:19,920
+They wear a head cloth to 
+protect their head and face.
 
-130
-00:12:22,180 --> 00:12:29,720
-People in deserts build houses with small
-windows so that it stays cool inside.
+106
+00:12:21,760 --> 00:12:28,080
+People in deserts build houses with small 
+windows so that it stays cool inside.  
 
-131
-00:12:29,720 --> 00:12:34,470
-This keeps out the sun and also the wind.
+107
+00:12:29,440 --> 00:12:37,840
+This keeps out the sun and also the 
+wind. Some desert houses have no windows!
 
-132
-00:12:34,470 --> 00:12:39,329
-Some desert houses have no windows!
+108
+00:12:38,960 --> 00:12:45,920
+Many big desert animals stay in 
+a cool place in the day. Oryxes  
 
-133
-00:12:39,329 --> 00:12:45,119
-Many big desert animals stay in a cool place
-in the day.
+109
+00:12:45,920 --> 00:12:51,840
+make a cool hole to sit in, 
+or they sit in the shade.
 
-134
-00:12:45,119 --> 00:12:54,819
-Oryxes make a cool hole to sit in, or they
-sit in the shade.
+110
+00:12:54,480 --> 00:12:57,520
+Some desert lizards are called sand swimmers.  
 
-135
-00:12:54,819 --> 00:12:58,679
-Some desert lizards are called sand swimmers.
+111
+00:12:58,400 --> 00:13:03,520
+When it's hot, these lizards 
+swim under the sand to stay cool.
 
-136
-00:12:58,679 --> 00:13:05,660
-When it's hot, these lizards swim under the
-sand to stay cool.
+112
+00:13:05,280 --> 00:13:12,560
+Some animals, like crocodiles, snakes, 
+and frogs, sleep in the hottest parts  
 
-137
-00:13:05,660 --> 00:13:14,690
-Some animals, like crocodiles, snakes, and
-frogs, sleep in the hottest parts of summer.
+113
+00:13:12,560 --> 00:13:20,480
+of summer. Other animals, like desert 
+tortoises, sleep in winter in cold deserts.
+ 
+ 
+ 
 
-138
-00:13:14,690 --> 00:13:23,769
-Other animals, like desert tortoises, sleep
-in winter in cold deserts.
-
-139
-00:13:23,769 --> 00:13:30,019
+114
+00:13:23,680 --> 00:13:24,720
 CHAPTER NINE
+
+115
+00:13:25,680 --> 00:13:27,120
 Living in the Desert
 
-140
-00:13:30,019 --> 00:13:37,579
-Living in the desert is very different from
-living in a city, but people still cook, travel,
+116
+00:13:29,600 --> 00:13:33,840
+Living in the desert is very 
+different from living in a city,  
 
-141
-00:13:37,579 --> 00:13:40,129
-and go to school.
+117
+00:13:34,560 --> 00:13:38,320
+but people still cook, travel, and go to school.
 
-142
-00:13:40,129 --> 00:13:48,939
-Most desert people eat bread, porridge, milk,
-cheese, and food from desert plants.
+118
+00:13:40,000 --> 00:13:47,840
+Most desert people eat bread, porridge, 
+milk, cheese, and food from desert plants.  
 
-143
-00:13:48,939 --> 00:13:53,230
-They cook their food on a fire outside their
-home.
+119
+00:13:48,720 --> 00:13:51,920
+They cook their food on a fire outside their home.  
 
-144
-00:13:53,230 --> 00:13:55,839
-Dates grow well in deserts.
+120
+00:13:53,040 --> 00:13:58,960
+Dates grow well in deserts. Dates with 
+cheese is traditional Tuareg food.
 
-145
-00:13:55,839 --> 00:14:03,639
-Dates with cheese is traditional Tuareg food.
+121
+00:14:03,200 --> 00:14:09,200
+Every year, there's a festival in the 
+Sahara Desert, near Timbuktu in Mali.  
 
-146
-00:14:03,639 --> 00:14:10,920
-Every year, there's a festival in the Sahara
-Desert, near Timbuktu in Mali.
+122
+00:14:10,640 --> 00:14:15,840
+There are three days of music, 
+dancing, and camel racing.
 
-147
-00:14:10,920 --> 00:14:16,869
-There are three days of music, dancing, and
-camel racing.
+123
+00:14:17,440 --> 00:14:25,120
+Today, many desert people drive SUVs, but 
+camels are better for traveling across sand!  
 
-148
-00:14:16,869 --> 00:14:27,149
-Today, many desert people drive SUVs, but
-camels are better for traveling across sand!
+124
+00:14:26,560 --> 00:14:33,840
+Camels can travel more than 40 kilometers 
+in a day. They are strong animals.  
 
-149
-00:14:27,149 --> 00:14:32,200
-Camels can travel more than 40 kilometers
-in a day.
-
-150
-00:14:32,200 --> 00:14:35,509
-They are strong animals.
-
-151
-00:14:35,509 --> 00:14:43,209
-Desert people can use camels to carry food,
+125
+00:14:35,040 --> 00:14:41,840
+Desert people can use camels to carry food, 
 tents, and other things from their homes.
 
-152
-00:14:43,209 --> 00:14:50,899
-A long time ago, only a few desert children
-went to school, but this is changing.
+126
+00:14:43,120 --> 00:14:47,440
+A long time ago, only a few 
+desert children went to school,  
 
-153
-00:14:50,899 --> 00:14:56,850
-In the deserts in Australia, Aborigines are
-building new schools.
+127
+00:14:48,160 --> 00:14:55,600
+but this is changing. In the deserts in 
+Australia, Aborigines are building new schools.  
 
-154
-00:14:56,850 --> 00:15:04,889
-Students speak their own language, and they
-also learn English.
+128
+00:14:56,640 --> 00:15:01,600
+Students speak their own language, 
+and they also learn English.
+ 
+ 
+ 
 
-155
-00:15:04,889 --> 00:15:11,149
+129
+00:15:04,880 --> 00:15:05,680
 CHAPTER TEN
+
+130
+00:15:06,720 --> 00:15:07,840
 Desertification
 
-156
-00:15:11,149 --> 00:15:13,810
-Deserts are getting bigger.
+131
+00:15:10,560 --> 00:15:17,920
+Deserts are getting bigger. Every year, 
+the land around many deserts gets dry  
 
-157
-00:15:13,810 --> 00:15:21,519
-Every year, the land around many deserts gets
-dry and changes into new desert.
-
-158
-00:15:21,519 --> 00:15:25,579
+132
+00:15:17,920 --> 00:15:23,840
+and changes into new desert. 
 This is called desertification.
 
-159
-00:15:25,579 --> 00:15:31,089
-The land can get too dry when there's no rain
-for a long time.
+133
+00:15:25,360 --> 00:15:33,040
+The land can get too dry when there's no rain 
+for a long time. Sometimes people also make  
 
-160
-00:15:31,089 --> 00:15:35,730
-Sometimes people also make the land dry.
+134
+00:15:33,040 --> 00:15:41,280
+the land dry. When there are too many farms 
+in one place, animals eat all the plants,  
 
-161
-00:15:35,730 --> 00:15:42,550
-When there are too many farms in one place,
-animals eat all the plants, and the soil blows
+135
+00:15:41,280 --> 00:15:48,480
+and the soil blows away. Then new plants 
+can't grow and there isn't food for everyone.
 
-162
-00:15:42,550 --> 00:15:44,170
-away.
+136
+00:15:50,480 --> 00:15:59,520
+Desertification is a big problem in countries in 
+Africa near the Sahara Desert. In 50 years, these  
 
-163
-00:15:44,170 --> 00:15:51,629
-Then new plants can't grow and there isn't
-food for everyone.
+137
+00:15:59,520 --> 00:16:08,880
+countries have lost 650,000 square kilometers 
+of land - that's about the same size as France.  
 
-164
-00:15:51,629 --> 00:15:57,670
-Desertification is a big problem in countries
-in Africa near the Sahara Desert.
+138
+00:16:11,040 --> 00:16:16,320
+Millions of people here are hungry, 
+because they can't grow food in the desert.
 
-165
-00:15:57,670 --> 00:16:07,129
-In 50 years, these countries have lost 650,000
-square kilometers of land - that's about the
+139
+00:16:17,680 --> 00:16:25,280
+How can people help to stop desertification? 
+In many countries, people are growing more  
 
-166
-00:16:07,129 --> 00:16:11,429
-same size as France.
+140
+00:16:25,280 --> 00:16:34,080
+trees. Trees stop the soil blowing away. 
+In China, people are using a wall of trees  
 
-167
-00:16:11,429 --> 00:16:17,899
-Millions of people here are hungry, because
-they can't grow food in the desert.
-
-168
-00:16:17,899 --> 00:16:22,360
-How can people help to stop desertification?
-
-169
-00:16:22,360 --> 00:16:27,319
-In many countries, people are growing more
-trees.
-
-170
-00:16:27,319 --> 00:16:30,589
-Trees stop the soil blowing away.
-
-171
-00:16:30,589 --> 00:16:38,470
-In China, people are using a wall of trees
-to stop desertification near the Gobi Desert.
-
-172
-00:16:38,470 --> 00:16:45,659
+141
+00:16:34,080 --> 00:16:49,840
+to stop desertification near the Gobi Desert. 
 The wall is 4,000 kilometers long!
+ 
+ 
+ 
+ 
 
-173
-00:16:45,659 --> 00:16:49,729
+142
+00:16:58,040 --> 00:16:59,418
 - THE END -
 

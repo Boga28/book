@@ -1,693 +1,409 @@
 1
-00:00:03,460 --> 00:00:08,969
-These things happened to me nearly ten years
-ago.
+00:00:03,440 --> 00:00:07,200
+These things happened to me nearly ten years ago.
 
 2
-00:00:08,969 --> 00:00:14,880
-I lived in a city, but the city was hot in
-summer.
+00:00:08,960 --> 00:00:13,360
+I lived in a city, but the city was hot in summer.  
 
 3
-00:00:14,880 --> 00:00:18,000
-I wanted to see the country.
+00:00:14,880 --> 00:00:21,920
+I wanted to see the country. I wanted to 
+walk in the woods and see green trees.
 
 4
-00:00:18,000 --> 00:00:23,970
-I wanted to walk in the woods and see green
-trees.
+00:00:23,840 --> 00:00:33,040
+I had a little red car and I had a map, 
+too. I drove all night out into the country.
 
 5
-00:00:23,970 --> 00:00:29,759
-I had a little red car and I had a map, too.
+00:00:34,960 --> 00:00:44,160
+I was happy in my car. We had a very good 
+summer that year. The country was very pretty  
 
 6
-00:00:29,759 --> 00:00:35,050
-I drove all night out into the country.
+00:00:44,160 --> 00:00:54,160
+in the early morning. The sun was hot, and the 
+sky was blue. I heard the birds in the trees.
 
 7
-00:00:35,050 --> 00:00:38,030
-I was happy in my car.
-
-8
-00:00:38,030 --> 00:00:42,129
-We had a very good summer that year.
-
-9
-00:00:42,129 --> 00:00:47,170
-The country was very pretty in the early morning.
-
-10
-00:00:47,170 --> 00:00:52,180
-The sun was hot, and the sky was blue.
-
-11
-00:00:52,180 --> 00:00:56,420
-I heard the birds in the trees.
-
-12
-00:00:56,420 --> 00:01:01,730
+00:00:56,080 --> 00:01:00,000
 And then my car stopped suddenly.
 
+8
+00:01:01,600 --> 00:01:08,320
+'What's wrong?' I thought. 'Oh 
+dear, I haven't got any petrol.  
+
+9
+00:01:09,600 --> 00:01:18,720
+Now I'll have to walk. I'll have to find a 
+town and buy some petrol. But where am I?'
+
+10
+00:01:20,480 --> 00:01:27,200
+I looked at the map. I wasn't near 
+a town. I was lost in the country.
+
+11
+00:01:29,200 --> 00:01:39,360
+And then I saw the girl. She walked down 
+the road, with flowers in her hand. She wore  
+
+12
+00:01:39,360 --> 00:01:48,240
+a long dress, and her hair was long, too. It 
+was long and black, and it shone in the sun.  
+
 13
-00:01:01,730 --> 00:01:03,260
-'What's wrong?'
+00:01:50,160 --> 00:01:56,480
+She was very pretty. I wanted to 
+speak to her, so I got out of the car.
 
 14
-00:01:03,260 --> 00:01:04,480
-I thought.
+00:01:58,400 --> 00:02:03,680
+'Hello,' I said. 'I'm lost. Where am I?'
 
 15
-00:01:04,480 --> 00:01:09,800
-'Oh dear, I haven't got any petrol.
-
-16
-00:01:09,800 --> 00:01:12,340
-Now I'll have to walk.
-
-17
-00:01:12,340 --> 00:01:17,420
-I'll have to find a town and buy some petrol.
-
-18
-00:01:17,420 --> 00:01:20,659
-But where am I?'
-
-19
-00:01:20,659 --> 00:01:22,950
-I looked at the map.
-
-20
-00:01:22,950 --> 00:01:25,590
-I wasn't near a town.
-
-21
-00:01:25,590 --> 00:01:29,509
-I was lost in the country.
-
-22
-00:01:29,509 --> 00:01:33,430
-And then I saw the girl.
-
-23
-00:01:33,430 --> 00:01:38,979
-She walked down the road, with flowers in
-her hand.
-
-24
-00:01:38,979 --> 00:01:44,770
-She wore a long dress, and her hair was long,
-too.
-
-25
-00:01:44,770 --> 00:01:50,399
-It was long and black, and it shone in the
-sun.
-
-26
-00:01:50,399 --> 00:01:52,659
-She was very pretty.
-
-27
-00:01:52,659 --> 00:01:58,140
-I wanted to speak to her, so I got out of
-the car.
-
-28
-00:01:58,140 --> 00:02:01,080
-'Hello,' I said.
-
-29
-00:02:01,080 --> 00:02:03,329
-'I'm lost.
-
-30
-00:02:03,329 --> 00:02:05,970
-Where am I?'
-
-31
-00:02:05,970 --> 00:02:08,730
+00:02:05,680 --> 00:02:08,880
 She looked afraid, so I spoke quietly.
 
-32
-00:02:08,730 --> 00:02:14,310
-'I haven't got any petrol,' I said.
+16
+00:02:10,400 --> 00:02:16,000
+'I haven't got any petrol,' I 
+said. 'Where can I find some?'
 
-33
-00:02:14,310 --> 00:02:17,610
-'Where can I find some?'
-
-34
-00:02:17,610 --> 00:02:21,740
+17
+00:02:17,360 --> 00:02:20,160
 Her blue eyes looked at me, and she smiled.
 
-35
-00:02:21,740 --> 00:02:23,850
-'She's a very pretty girl!'
+18
+00:02:21,440 --> 00:02:24,240
+'She's a very pretty girl!' I thought.
 
-36
-00:02:23,850 --> 00:02:25,060
-I thought.
+19
+00:02:25,840 --> 00:02:33,040
+'I do not know,' she said. 'Come with me 
+to the village. Perhaps we can help you.'
 
-37
-00:02:25,060 --> 00:02:29,470
-'I do not know,' she said.
+20
+00:02:35,040 --> 00:02:38,480
+I went with her happily, and we walked a long way.
 
-38
-00:02:29,470 --> 00:02:32,200
-'Come with me to the village.
+21
+00:02:40,480 --> 00:02:46,160
+'There isn't a village on the map,' I 
+thought. 'Perhaps it's a very small village.'
 
-39
-00:02:32,200 --> 00:02:35,190
-Perhaps we can help you.'
+22
+00:02:48,080 --> 00:02:51,920
+There was a village, and it was old and pretty.  
 
-40
-00:02:35,190 --> 00:02:39,730
-I went with her happily, and we walked a long
-way.
+23
+00:02:53,200 --> 00:02:58,800
+The houses were black and white and 
+very small. There were a lot of animals.
 
-41
-00:02:39,730 --> 00:02:44,570
-'There isn't a village on the map,' I thought.
+24
+00:03:00,400 --> 00:03:04,160
+The girl stopped at a house and smiled at me.
 
-42
-00:02:44,570 --> 00:02:46,270
-'Perhaps it's a very small village.'
-
-43
-00:02:46,270 --> 00:02:53,370
-There was a village, and it was old and pretty.
-
-44
-00:02:53,370 --> 00:02:56,690
-The houses were black and white and very small.
-
-45
-00:02:56,690 --> 00:03:00,580
-There were a lot of animals.
-
-46
-00:03:00,580 --> 00:03:06,120
-The girl stopped at a house and smiled at
-me.
-
-47
-00:03:06,120 --> 00:03:09,950
+25
+00:03:05,840 --> 00:03:08,560
 'Come in, please,' she said.
 
-48
-00:03:09,950 --> 00:03:11,930
-I went in.
+26
+00:03:09,840 --> 00:03:15,440
+I went in. The house was very clean, but it was  
 
-49
-00:03:11,930 --> 00:03:17,160
-The house was very clean, but it was strange,
-too.
+27
+00:03:15,440 --> 00:03:22,640
+strange, too. There was a fire and 
+some food above it. I felt hungry then.
 
-50
-00:03:17,160 --> 00:03:21,560
-There was a fire and some food above it.
+28
+00:03:24,320 --> 00:03:33,120
+'That's strange,' I thought. 'They cook their food 
+over a wood fire! Perhaps they have no money.'
 
-51
-00:03:21,560 --> 00:03:23,830
-I felt hungry then.
+29
+00:03:34,960 --> 00:03:38,160
+I met her father and mother, and I liked them.  
 
-52
-00:03:23,830 --> 00:03:27,230
-'That's strange,' I thought.
+30
+00:03:39,040 --> 00:03:42,640
+They were nice people, but 
+their clothes were strange.
 
-53
-00:03:27,230 --> 00:03:32,090
-'They cook their food over a wood fire!
-
-54
-00:03:32,090 --> 00:03:35,040
-Perhaps they have no money.'
-
-55
-00:03:35,040 --> 00:03:39,280
-I met her father and mother, and I liked them.
-
-56
-00:03:39,280 --> 00:03:43,610
-They were nice people, but their clothes were
-strange.
-
-57
-00:03:43,610 --> 00:03:47,580
-'Sit down,' said the old man.
-
-58
-00:03:47,580 --> 00:03:51,820
+31
+00:03:44,320 --> 00:03:50,000
+'Sit down,' said the old man. 
 'Are you thirsty after your walk?'
 
-59
-00:03:51,820 --> 00:03:56,300
-He gave me a drink, and I said, 'Thank you.'
+32
+00:03:51,600 --> 00:03:54,480
+He gave me a drink, and I said, 'Thank you.'  
 
-60
-00:03:56,300 --> 00:03:59,010
-But the drink was strange, too.
-
-61
-00:03:59,010 --> 00:04:03,430
+33
+00:03:56,000 --> 00:04:01,680
+But the drink was strange, too. 
 It was dark brown and very strong.
 
-62
-00:04:03,430 --> 00:04:05,790
-I didn't understand.
+34
+00:04:03,360 --> 00:04:06,640
+I didn't understand. But I was happy there.
 
-63
-00:04:05,790 --> 00:04:08,320
-But I was happy there.
+35
+00:04:08,160 --> 00:04:12,400
+I asked about petrol, but the 
+old man didn't understand.
 
-64
-00:04:08,320 --> 00:04:13,510
-I asked about petrol, but the old man didn't
-understand.
+36
+00:04:13,680 --> 00:04:16,960
+'Petrol?' he asked. 'What is that?'
 
-65
-00:04:13,510 --> 00:04:15,950
-'Petrol?' he asked.
+37
+00:04:18,880 --> 00:04:25,280
+'This is strange,' I thought. Then 
+I asked, 'Do you walk everywhere?'
 
-66
-00:04:15,950 --> 00:04:18,139
-'What is that?'
+38
+00:04:26,640 --> 00:04:33,200
+The old man smiled. 'Oh, 
+no, we use horses,' he said.
 
-67
-00:04:18,139 --> 00:04:22,180
-'This is strange,' I thought.
+39
+00:04:34,400 --> 00:04:42,080
+'Horses!' I thought. 'Horses are 
+very slow. Why don't they have cars?'
 
-68
-00:04:22,180 --> 00:04:26,909
-Then I asked, 'Do you walk everywhere?'
-
-69
-00:04:26,909 --> 00:04:28,830
-The old man smiled.
-
-70
-00:04:28,830 --> 00:04:34,330
-'Oh, no, we use horses,' he said.
-
-71
-00:04:34,330 --> 00:04:35,560
-'Horses!'
-
-72
-00:04:35,560 --> 00:04:37,030
-I thought.
-
-73
-00:04:37,030 --> 00:04:39,520
-'Horses are very slow.
-
-74
-00:04:39,520 --> 00:04:42,300
-Why don't they have cars?'
-
-75
-00:04:42,300 --> 00:04:45,750
+40
+00:04:42,080 --> 00:04:44,080
 But I didn't say that to the old man.
 
-76
-00:04:45,750 --> 00:04:48,129
-I felt happy there.
+41
+00:04:45,680 --> 00:04:52,080
+I felt happy there. I stayed all day, 
+and I ate dinner with them that evening.  
 
-77
-00:04:48,129 --> 00:04:54,150
-I stayed all day, and I ate dinner with them
-that evening.
+42
+00:04:53,840 --> 00:04:59,920
+Then the girl and I went out into 
+the garden. The girl's name was Mary.
 
-78
-00:04:54,150 --> 00:04:58,270
-Then the girl and I went out into the garden.
+43
+00:05:01,760 --> 00:05:09,840
+'This is nice,' she said. 'We like having 
+visitors. We do not see many people here.'
 
-79
-00:04:58,270 --> 00:05:00,520
-The girl's name was Mary.
+44
+00:05:11,200 --> 00:05:14,720
+We spoke happily. She was very beautiful.  
 
-80
-00:05:00,520 --> 00:05:04,319
-'This is nice,' she said.
+45
+00:05:15,840 --> 00:05:21,760
+But after a time, she began to 
+talk quietly, and her face was sad.
 
-81
-00:05:04,319 --> 00:05:07,300
-'We like having visitors.
+46
+00:05:23,520 --> 00:05:26,080
+'Why are you sad?' I asked her.
 
-82
-00:05:07,300 --> 00:05:11,419
-We do not see many people here.'
+47
+00:05:27,280 --> 00:05:29,920
+'I cannot tell you,' she said.  
 
-83
-00:05:11,419 --> 00:05:13,520
-We spoke happily.
+48
+00:05:30,880 --> 00:05:37,840
+'You are only a visitor here. We have to 
+say goodbye tonight. You have to go now.'
 
-84
-00:05:13,520 --> 00:05:16,130
-She was very beautiful.
+49
+00:05:39,360 --> 00:05:45,920
+I didn't understand. I loved her. I 
+knew that. And I wanted to help her.  
 
-85
-00:05:16,130 --> 00:05:22,370
-But after a time, she began to talk quietly,
-and her face was sad.
+50
+00:05:47,440 --> 00:05:57,200
+Why did I have to go? But Mary said again in a 
+sad voice, 'You have to go. It is dangerous here.'
 
-86
-00:05:22,370 --> 00:05:25,479
-'Why are you sad?'
+51
+00:05:58,800 --> 00:06:05,840
+So I said, 'I'll go to the next town and 
+find some petrol. Then I'll come back.'
 
-87
-00:05:25,479 --> 00:05:27,569
-I asked her.
-
-88
-00:05:27,569 --> 00:05:31,129
-'I cannot tell you,' she said.
-
-89
-00:05:31,129 --> 00:05:33,520
-'You are only a visitor here.
-
-90
-00:05:33,520 --> 00:05:35,610
-We have to say goodbye tonight.
-
-91
-00:05:35,610 --> 00:05:39,560
-You have to go now.'
-
-92
-00:05:39,560 --> 00:05:40,849
-I didn't understand.
-
-93
-00:05:40,849 --> 00:05:43,199
-I loved her.
-
-94
-00:05:43,199 --> 00:05:44,749
-I knew that.
-
-95
-00:05:44,749 --> 00:05:47,710
-And I wanted to help her.
-
-96
-00:05:47,710 --> 00:05:50,449
-Why did I have to go?
-
-97
-00:05:50,449 --> 00:05:56,120
-But Mary said again in a sad voice, 'You have
-to go.
-
-98
-00:05:56,120 --> 00:05:59,039
-It is dangerous here.'
-
-99
-00:05:59,039 --> 00:06:04,699
-So I said, 'I'll go to the next town and find
-some petrol.
-
-100
-00:06:04,699 --> 00:06:07,389
-Then I'll come back.'
-
-101
-00:06:07,389 --> 00:06:09,139
+52
+00:06:07,120 --> 00:06:07,920
 She didn't speak.
 
-102
-00:06:09,139 --> 00:06:13,509
-'I love you, Mary,' I said.
+53
+00:06:09,440 --> 00:06:16,480
+'I love you, Mary,' I said. 'And I'll 
+come back to you. You won't stop me.'
 
-103
-00:06:13,509 --> 00:06:15,669
-'And I'll come back to you.
+54
+00:06:19,120 --> 00:06:27,840
+She said goodbye to me at the door. Her face was 
+very sad, and I was sad, too. I didn't want to go.
 
-104
-00:06:15,669 --> 00:06:19,349
-You won't stop me.'
+55
+00:06:29,600 --> 00:06:37,440
+It was midnight. The night was very dark, but I 
+walked and walked. I was very tired when I saw  
 
-105
-00:06:19,349 --> 00:06:22,240
-She said goodbye to me at the door.
+56
+00:06:37,440 --> 00:06:43,760
+the lights of a town. I found some petrol, 
+and then I asked the name of the village.  
 
-106
-00:06:22,240 --> 00:06:26,949
-Her face was very sad, and I was sad, too.
+57
+00:06:45,120 --> 00:06:48,480
+But the man at the garage gave me a strange look.
 
-107
-00:06:26,949 --> 00:06:29,840
-I didn't want to go.
-
-108
-00:06:29,840 --> 00:06:31,449
-It was midnight.
-
-109
-00:06:31,449 --> 00:06:35,939
-The night was very dark, but I walked and
-walked.
-
-110
-00:06:35,939 --> 00:06:39,800
-I was very tired when I saw the lights of
-a town.
-
-111
-00:06:39,800 --> 00:06:45,449
-I found some petrol, and then I asked the
-name of the village.
-
-112
-00:06:45,449 --> 00:06:49,409
-But the man at the garage gave me a strange
-look.
-
-113
-00:06:49,409 --> 00:06:53,249
+58
+00:06:49,920 --> 00:06:51,920
 'What village?' he asked.
 
-114
-00:06:53,249 --> 00:06:55,650
-I told him about the village.
+59
+00:06:53,200 --> 00:06:59,840
+I told him about the village. I told him about the 
+old houses and the people with strange clothes.
 
-115
-00:06:55,650 --> 00:07:01,779
-I told him about the old houses and the people
-with strange clothes.
+60
+00:07:01,360 --> 00:07:09,840
+Again he gave me a strange look. He thought, 
+and then he said, 'There was a village there,  
 
-116
-00:07:01,779 --> 00:07:05,250
-Again he gave me a strange look.
+61
+00:07:10,640 --> 00:07:16,480
+but it isn't there now. There are 
+stories about it - strange stories.'
 
-117
-00:07:05,250 --> 00:07:13,340
-He thought, and then he said, 'There was a
-village there, but it isn't there now.
+62
+00:07:18,640 --> 00:07:21,280
+'What do people say about it?' I asked.
 
-118
-00:07:13,340 --> 00:07:17,370
-There are stories about it - strange stories.'
+63
+00:07:22,480 --> 00:07:27,920
+He didn't want to tell me, but 
+then he said, 'There was a big  
 
-119
-00:07:17,370 --> 00:07:20,830
-'What do people say about it?'
+64
+00:07:27,920 --> 00:07:34,640
+fire in the village. Everybody died. There 
+aren't any people or houses there now.'
 
-120
-00:07:20,830 --> 00:07:22,750
-I asked.
+65
+00:07:36,880 --> 00:07:40,160
+'How did it happen?' I asked. 'And why?'
 
-121
-00:07:22,750 --> 00:07:30,370
-He didn't want to tell me, but then he said,
-'There was a big fire in the village.
+66
+00:07:41,600 --> 00:07:44,240
+'Oliver Cromwell killed them,' he said.  
 
-122
-00:07:30,370 --> 00:07:32,389
-Everybody died.
+67
+00:07:45,120 --> 00:07:49,200
+'He was angry with the villagers because 
+they helped the king in the war.'
 
-123
-00:07:32,389 --> 00:07:35,930
-There aren't any people or houses there now.'
-
-124
-00:07:35,930 --> 00:07:38,220
-'How did it happen?'
-
-125
-00:07:38,220 --> 00:07:39,220
-I asked.
-
-126
-00:07:39,220 --> 00:07:41,129
-'And why?'
-
-127
-00:07:41,129 --> 00:07:44,849
-'Oliver Cromwell killed them,' he said.
-
-128
-00:07:44,849 --> 00:07:51,080
-'He was angry with the villagers because they
-helped the king in the war.'
-
-129
-00:07:51,080 --> 00:07:52,509
+68
+00:07:50,880 --> 00:07:51,760
 I couldn't speak.
 
-130
-00:07:52,509 --> 00:07:55,479
-'This isn't right,' I thought.
-
-131
-00:07:55,479 --> 00:08:01,319
+69
+00:07:52,800 --> 00:07:59,280
+'This isn't right,' I thought. 
 'That war happened 350 years ago!'
 
-132
-00:08:01,319 --> 00:08:09,190
-Then I remembered the strange clothes, the
-long hair, the food over the fire, and the
+70
+00:08:01,040 --> 00:08:08,000
+Then I remembered the strange clothes, 
+the long hair, the food over the fire,  
 
-133
-00:08:09,190 --> 00:08:11,680
-old houses.
+71
+00:08:08,880 --> 00:08:14,480
+and the old houses. And I 
+remembered, too, about the horses.
 
-134
-00:08:11,680 --> 00:08:15,460
-And I remembered, too, about the horses.
+72
+00:08:16,160 --> 00:08:22,560
+'But I don't understand,' I cried. 
+'I saw the people and the village.  
 
-135
-00:08:15,460 --> 00:08:19,919
-'But I don't understand,' I cried.
-
-136
-00:08:19,919 --> 00:08:23,479
-'I saw the people and the village.
-
-137
-00:08:23,479 --> 00:08:27,310
+73
+00:08:23,360 --> 00:08:25,840
 I spoke to some people there!'
 
-138
-00:08:27,310 --> 00:08:31,310
-The man looked quickly at me, and then he
-spoke.
+74
+00:08:27,040 --> 00:08:30,320
+The man looked quickly at me, and then he spoke.
 
-139
-00:08:31,310 --> 00:08:35,840
-'There's an interesting story about the village.
+75
+00:08:32,000 --> 00:08:38,640
+'There's an interesting story about the 
+village. For one day every ten years,  
 
-140
-00:08:35,840 --> 00:08:44,610
-For one day every ten years, it lives again
-- but only for one day.
+76
+00:08:39,520 --> 00:08:50,080
+it lives again - but only for one day. Then it 
+goes away again for another ten years. On that  
 
-141
-00:08:44,610 --> 00:08:49,570
-Then it goes away again for another ten years.
+77
+00:08:50,080 --> 00:08:58,160
+one day, you can find the village. But you have 
+to leave before morning, or you will never leave.'
 
-142
-00:08:49,570 --> 00:08:54,320
-On that one day, you can find the village.
+78
+00:08:59,680 --> 00:09:10,000
+'Can this be right?' I thought. Perhaps it 
+was. Mary said, 'You have to go.' She loved me,  
 
-143
-00:08:54,320 --> 00:09:00,020
-But you have to leave before morning, or you
-will never leave.'
+79
+00:09:10,560 --> 00:09:21,840
+but she said, 'We have to say goodbye.' She was 
+afraid for me. 'Now I understand,' I thought.
 
-144
-00:09:00,020 --> 00:09:01,470
-'Can this be right?'
+80
+00:09:23,120 --> 00:09:31,760
+I went back to the village, but it wasn't there. 
+I looked again and again, but I couldn't find it.  
 
-145
-00:09:01,470 --> 00:09:03,270
-I thought.
+81
+00:09:32,560 --> 00:09:39,280
+I saw only flowers and trees. I heard 
+only the sound of the birds and the wind.  
 
-146
-00:09:03,270 --> 00:09:05,350
-Perhaps it was.
+82
+00:09:40,720 --> 00:09:45,520
+I was very sad. I sat down 
+on the ground and cried.
 
-147
-00:09:05,350 --> 00:09:09,500
-Mary said, 'You have to go.'
+83
+00:09:47,280 --> 00:09:53,680
+I will never forget that day. I remember 
+Mary, and I will always love her.
 
-148
-00:09:09,500 --> 00:09:15,290
-She loved me, but she said, 'We have to say
-goodbye.'
+84
+00:09:56,000 --> 00:10:03,840
+Now, I only have to wait two months. The 
+village will conic back again. On the right day,  
 
-149
-00:09:15,290 --> 00:09:17,880
-She was afraid for me.
+85
+00:10:04,800 --> 00:10:11,760
+I will go back. I will find her again, 
+my love with the long, black hair.  
 
-150
-00:09:17,880 --> 00:09:23,270
-'Now I understand,' I thought.
+86
+00:10:13,120 --> 00:10:24,480
+And this time, I will not leave before 
+morning. I will stay with her.
+ 
+ 
+ 
+ 
 
-151
-00:09:23,270 --> 00:09:27,130
-I went back to the village, but it wasn't
-there.
-
-152
-00:09:27,130 --> 00:09:32,710
-I looked again and again, but I couldn't find
-it.
-
-153
-00:09:32,710 --> 00:09:36,340
-I saw only flowers and trees.
-
-154
-00:09:36,340 --> 00:09:40,910
-I heard only the sound of the birds and the
-wind.
-
-155
-00:09:40,910 --> 00:09:42,530
-I was very sad.
-
-156
-00:09:42,530 --> 00:09:47,450
-I sat down on the ground and cried.
-
-157
-00:09:47,450 --> 00:09:50,240
-I will never forget that day.
-
-158
-00:09:50,240 --> 00:09:55,040
-I remember Mary, and I will always love her.
-
-159
-00:09:55,040 --> 00:10:00,200
-Now, I only have to wait two months.
-
-160
-00:10:00,200 --> 00:10:03,200
-The village will conic back again.
-
-161
-00:10:03,200 --> 00:10:07,140
-On the right day, I will go back.
-
-162
-00:10:07,140 --> 00:10:13,400
-I will find her again, my love with the long,
-black hair.
-
-163
-00:10:13,400 --> 00:10:18,740
-And this time, I will not leave before morning.
-
-164
-00:10:18,740 --> 00:10:19,740
-I will stay with her.
-
-165
-00:10:19,740 --> 00:10:19,950
+87
+00:10:24,480 --> 00:10:25,065
 - THE END -
 

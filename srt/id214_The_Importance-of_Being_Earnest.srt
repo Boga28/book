@@ -1,0 +1,9525 @@
+1
+00:00:01,339 --> 00:00:02,339
+ACT ONE
+
+2
+00:00:02,339 --> 00:00:03,339
+(The living room of Algernon Moncrieff's flat
+in Mayfair, London.
+
+3
+00:00:03,339 --> 00:00:04,339
+Lane is arranging afternoon tea on a table.
+
+4
+00:00:04,339 --> 00:00:05,339
+Algernon enters)
+
+5
+00:00:05,339 --> 00:00:06,339
+Algernon: Lane, have you made the cucumber
+sandwiches for Lady Bracknell's tea?
+
+6
+00:00:06,339 --> 00:00:07,339
+Lane: Yes, sir.
+
+7
+00:00:07,339 --> 00:00:08,339
+(Handing them to Algernon on a silver tray)
+
+8
+00:00:08,339 --> 00:00:09,339
+Algernon: (Looking carefully at them, taking
+two and sitting down on the sofa) Oh, by the
+
+9
+00:00:09,339 --> 00:00:11,140
+way, Lane, I looked at your notebook.
+
+10
+00:00:11,140 --> 00:00:17,110
+I noticed that when Lord Shoreman and Mr Worthing
+dined with me on Thursday night, eight bottles
+
+11
+00:00:17,110 --> 00:00:18,600
+of champagne were drunk.
+
+12
+00:00:18,600 --> 00:00:20,640
+Lane: Yes, sir; eight bottles.
+
+13
+00:00:20,640 --> 00:00:25,470
+Algernon: Why is it that, in a bachelor's
+home, the servants always drink the champagne?
+
+14
+00:00:25,470 --> 00:00:27,699
+I just ask because I am interested, Lane.
+
+15
+00:00:27,699 --> 00:00:32,859
+Lane: I think that it is because the champagne
+is better in a bachelor's home.
+
+16
+00:00:32,859 --> 00:00:37,441
+I have noticed that the champagne in married
+people's homes is rarely very good.
+
+17
+00:00:37,441 --> 00:00:39,920
+Algernon: Good heavens!
+
+18
+00:00:39,920 --> 00:00:41,320
+Is marriage so depressing?
+
+19
+00:00:41,320 --> 00:00:44,850
+Lane: I believe marriage is very pleasant,
+sir.
+
+20
+00:00:44,850 --> 00:00:47,750
+I haven't had much experience of it myself.
+
+21
+00:00:47,750 --> 00:00:53,200
+I have only been married once, and that was
+because of a misunderstanding between myself
+
+22
+00:00:53,200 --> 00:00:54,200
+and a young person.
+
+23
+00:00:54,200 --> 00:00:58,400
+Algernon: (Lazily, without interest) I am
+not very interested in your family life, Lane.
+
+24
+00:00:58,400 --> 00:01:02,070
+Lane: No, sir; it is not a very interesting
+subject.
+
+25
+00:01:02,070 --> 00:01:04,080
+I never think of it myself.
+
+26
+00:01:04,080 --> 00:01:05,270
+Algernon: That is very understandable.
+
+27
+00:01:05,270 --> 00:01:06,890
+Well, thank you, Lane.
+
+28
+00:01:06,890 --> 00:01:08,100
+(Lane goes off)
+
+29
+00:01:08,100 --> 00:01:12,369
+Algernon: (To himself) Lane's views on marriage
+seem very casual.
+
+30
+00:01:12,369 --> 00:01:17,490
+Really, if the servants don't set us a good
+example, what on earth is the use of them?
+
+31
+00:01:17,490 --> 00:01:19,670
+They seem to have no morals.
+
+32
+00:01:19,670 --> 00:01:20,670
+(Lane enters)
+
+33
+00:01:20,670 --> 00:01:22,759
+Lane: Mr Ernest Worthing is here, sir.
+
+34
+00:01:22,759 --> 00:01:23,759
+(Jack enters.
+
+35
+00:01:23,759 --> 00:01:24,759
+Lane goes off)
+
+36
+00:01:24,759 --> 00:01:26,829
+Algernon: How are you, my dear Ernest?
+
+37
+00:01:26,829 --> 00:01:28,069
+What brings you to town?
+
+38
+00:01:28,069 --> 00:01:31,340
+Jack: Oh, pleasure brings me, pleasure, of
+course!
+
+39
+00:01:31,340 --> 00:01:33,530
+What else should bring one anywhere?
+
+40
+00:01:33,530 --> 00:01:35,689
+You're eating as usual, I see, Algy!
+
+41
+00:01:35,689 --> 00:01:39,689
+Algernon: (Very formally) I believe it is
+normal in good society to have some light
+
+42
+00:01:39,689 --> 00:01:41,149
+refreshment at five o'clock.
+
+43
+00:01:41,149 --> 00:01:44,130
+(In a normal voice) Where have you been since
+last Thursday?
+
+44
+00:01:44,130 --> 00:01:45,349
+Jack: (Sitting down on the sofa) In the country.
+
+45
+00:01:45,349 --> 00:01:47,529
+Algernon: What on earth do you do in the country?
+
+46
+00:01:47,529 --> 00:01:51,929
+Jack: (Taking off his gloves) When one is
+in town one entertains oneself.
+
+47
+00:01:51,929 --> 00:01:54,889
+When one is in the country one entertains
+other people.
+
+48
+00:01:54,889 --> 00:01:56,119
+It is very boring.
+
+49
+00:01:56,119 --> 00:01:58,869
+Algernon: And who are the people you entertain?
+
+50
+00:01:58,869 --> 00:02:00,539
+Jack: Oh, neighbours, neighbours!
+
+51
+00:02:00,539 --> 00:02:03,819
+Algernon: Have you got nice neighbours in
+your part of Shropshire?
+
+52
+00:02:03,819 --> 00:02:05,869
+Jack: No, they're all horrid.
+
+53
+00:02:05,869 --> 00:02:07,469
+I never speak to any of them.
+
+54
+00:02:07,469 --> 00:02:09,500
+Algernon: You must entertain them very much,
+then!
+
+55
+00:02:09,500 --> 00:02:14,319
+(Going over to the table and taking a sandwich)
+By the way, Shropshire is where you come from,
+
+56
+00:02:14,319 --> 00:02:15,540
+is it not?
+
+57
+00:02:15,540 --> 00:02:16,540
+Jack: Shropshire?
+
+58
+00:02:16,540 --> 00:02:17,650
+Yes, of course.
+
+59
+00:02:17,650 --> 00:02:18,650
+My dear fellow!
+
+60
+00:02:18,650 --> 00:02:21,379
+Why are all these cups here?
+
+61
+00:02:21,379 --> 00:02:23,430
+Why cucumber sandwiches?
+
+62
+00:02:23,430 --> 00:02:25,330
+Why are you being so extravagant?
+
+63
+00:02:25,330 --> 00:02:26,360
+Who is coming to tea?
+
+64
+00:02:26,360 --> 00:02:29,189
+Algernon: Oh, just Aunt Augusta and Gwendolen.
+
+65
+00:02:29,189 --> 00:02:30,900
+Jack: How perfectly delightful!
+
+66
+00:02:30,900 --> 00:02:36,300
+Algernon: Yes, but I am afraid Aunt Augusta
+won't be happy that you're here.
+
+67
+00:02:36,300 --> 00:02:37,950
+Jack: And why is that?
+
+68
+00:02:37,950 --> 00:02:43,659
+Algernon: My dear fellow, the way that you
+flirt with Gwendolen is perfectly disgraceful.
+
+69
+00:02:43,659 --> 00:02:46,840
+It is almost as bad as the way Gwendolen flirts
+with you.
+
+70
+00:02:46,840 --> 00:02:49,220
+Jack: I am in love with Gwendolen.
+
+71
+00:02:49,220 --> 00:02:52,140
+I have come to town in order to propose marriage
+to her.
+
+72
+00:02:52,140 --> 00:02:55,180
+Algernon: I thought you had come to town for
+pleasure.
+
+73
+00:02:55,180 --> 00:02:57,459
+I call a marriage proposal business.
+
+74
+00:02:57,459 --> 00:02:59,810
+Jack: How very unromantic you are!
+
+75
+00:02:59,810 --> 00:03:03,569
+Algernon: I really don't think proposing is
+romantic.
+
+76
+00:03:03,569 --> 00:03:06,439
+It is very romantic to be in love.
+
+77
+00:03:06,439 --> 00:03:10,780
+But there is nothing romantic about a proposal.
+
+78
+00:03:10,780 --> 00:03:12,040
+Someone might accept.
+
+79
+00:03:12,040 --> 00:03:14,390
+They usually do, I believe.
+
+80
+00:03:14,390 --> 00:03:17,250
+Then the exciting time is over.
+
+81
+00:03:17,250 --> 00:03:21,360
+The most important thing about romance is
+the uncertainty.
+
+82
+00:03:21,360 --> 00:03:25,349
+If I ever marry, I'll certainly try to forget
+that I am married.
+
+83
+00:03:25,349 --> 00:03:27,810
+Jack: I believe you, dear Algy.
+
+84
+00:03:27,810 --> 00:03:31,659
+The Divorce Court was especially invented
+for people with memories like yours.
+
+85
+00:03:31,659 --> 00:03:33,230
+(Jack puts out his hand to take a cucumber
+sandwich; Algernon immediately stops him)
+
+86
+00:03:33,230 --> 00:03:36,139
+Algernon: Oh, there is no point in thinking
+about that.
+
+87
+00:03:36,139 --> 00:03:38,760
+Divorces are made in Heaven.
+
+88
+00:03:38,760 --> 00:03:41,329
+Please don't touch the cucumber sandwiches.
+
+89
+00:03:41,329 --> 00:03:42,890
+They were ordered specially for Aunt Augusta.
+
+90
+00:03:42,890 --> 00:03:43,970
+(Taking a sandwich himself and eating it)
+
+91
+00:03:43,970 --> 00:03:45,469
+Jack: Well, you have been eating them all
+the time.
+
+92
+00:03:45,469 --> 00:03:47,120
+Algernon: That is different.
+
+93
+00:03:47,120 --> 00:03:48,120
+She is my aunt.
+
+94
+00:03:48,120 --> 00:03:50,420
+(Offering Jack a different plate) Have some
+bread and butter.
+
+95
+00:03:50,420 --> 00:03:53,349
+The bread and butter is for Gwendolen.
+
+96
+00:03:53,349 --> 00:03:54,609
+Gwendolen loves bread and butter.
+
+97
+00:03:54,609 --> 00:03:57,849
+Jack: (Helping himself to bread and butter)
+And very good bread and butter it is too.
+
+98
+00:03:57,849 --> 00:04:01,530
+Algernon: Well, my dear fellow, you don't
+need to eat it all.
+
+99
+00:04:01,530 --> 00:04:04,749
+You are behaving as if you are married to
+her already.
+
+100
+00:04:04,749 --> 00:04:09,870
+But you are not married to her and I don't
+think you ever will be.
+
+101
+00:04:09,870 --> 00:04:12,129
+Jack: Why on earth do you say that?
+
+102
+00:04:12,129 --> 00:04:16,109
+Algernon: Well, firstly, girls never marry
+the men they flirt with.
+
+103
+00:04:16,109 --> 00:04:18,569
+They don't think it's the right thing to do.
+
+104
+00:04:18,569 --> 00:04:19,989
+Jack: Oh, that is nonsense!
+
+105
+00:04:19,989 --> 00:04:20,989
+Algernon: It isn't.
+
+106
+00:04:20,989 --> 00:04:21,989
+It's true.
+
+107
+00:04:21,989 --> 00:04:25,720
+(Taking two more sandwiches) That's why one
+sees such a large number of bachelors all
+
+108
+00:04:25,720 --> 00:04:27,050
+over the place.
+
+109
+00:04:27,050 --> 00:04:30,050
+And secondly, I don't give my consent.
+
+110
+00:04:30,050 --> 00:04:31,819
+Jack: Your consent!
+
+111
+00:04:31,819 --> 00:04:34,400
+Algernon: Gwendolen is my cousin.
+
+112
+00:04:34,400 --> 00:04:38,440
+And before I allow you to marry her, you will
+have to clear up the matter of Cecily.
+
+113
+00:04:38,440 --> 00:04:41,470
+(Algernon rings a bell)
+
+114
+00:04:41,470 --> 00:04:42,470
+Jack: Cecily?
+
+115
+00:04:42,470 --> 00:04:43,470
+What on earth do you mean, Algy?
+
+116
+00:04:43,470 --> 00:04:45,400
+I don't know anyone called Cecily.
+
+117
+00:04:45,400 --> 00:04:46,400
+(Lane enters)
+
+118
+00:04:46,400 --> 00:04:51,030
+Algernon: Lane, bring me the cigarette case
+which Mr Worthing left last time he dined
+
+119
+00:04:51,030 --> 00:04:52,030
+here.
+
+120
+00:04:52,030 --> 00:04:53,030
+Lane: Yes, sir.
+
+121
+00:04:53,030 --> 00:04:54,030
+(Lane goes off.
+
+122
+00:04:54,030 --> 00:04:55,030
+Algernon takes the last of the cucumber sandwiches)
+
+123
+00:04:55,030 --> 00:04:57,759
+Jack: Have you had my cigarette case all this
+time?
+
+124
+00:04:57,759 --> 00:04:59,710
+I wish you had told me.
+
+125
+00:04:59,710 --> 00:05:02,699
+I have been writing letters to the police
+about it.
+
+126
+00:05:02,699 --> 00:05:04,569
+I nearly offered a large reward.
+
+127
+00:05:04,569 --> 00:05:07,880
+Algernon: Well, I wish you would offer a large
+reward.
+
+128
+00:05:07,880 --> 00:05:09,509
+I am very poor at the moment.
+
+129
+00:05:09,509 --> 00:05:13,681
+Jack: There is no point in offering a large
+reward now that you've found it.
+
+130
+00:05:13,681 --> 00:05:14,681
+(Lane enters with the cigarette case on a
+silver tray.
+
+131
+00:05:14,681 --> 00:05:15,681
+Algernon takes it immediately.
+
+132
+00:05:15,681 --> 00:05:16,681
+Lane goes off)
+
+133
+00:05:16,681 --> 00:05:17,681
+Algernon: I think that is mean of you, Ernest,
+I must say.
+
+134
+00:05:17,681 --> 00:05:20,280
+(Opening the case and examining it) However,
+it doesn't matter.
+
+135
+00:05:20,280 --> 00:05:24,520
+Now I look at the inscription inside, I see
+that this isn't yours.
+
+136
+00:05:24,520 --> 00:05:26,169
+Jack: Of course it's mine.
+
+137
+00:05:26,169 --> 00:05:29,440
+(Moving towards Algernon) You have seen me
+with it a hundred times, and you shouldn't
+
+138
+00:05:29,440 --> 00:05:31,140
+be reading what is written inside it.
+
+139
+00:05:31,140 --> 00:05:34,360
+It is very impolite to read a private cigarette
+case.
+
+140
+00:05:34,360 --> 00:05:35,360
+Algernon: Oh!
+
+141
+00:05:35,360 --> 00:05:39,630
+It is ridiculous to have rules about what
+one should read and what one shouldn't.
+
+142
+00:05:39,630 --> 00:05:43,380
+Most of modern culture depends on reading
+what one shouldn't read.
+
+143
+00:05:43,380 --> 00:05:48,069
+Jack: I know that, and I am not going to discuss
+modern culture.
+
+144
+00:05:48,069 --> 00:05:50,680
+I simply want my cigarette case back.
+
+145
+00:05:50,680 --> 00:05:55,319
+Algernon: Yes; but this isn't your cigarette
+case.
+
+146
+00:05:55,319 --> 00:05:59,590
+This cigarette case is a present from someone
+called Cecily.
+
+147
+00:05:59,590 --> 00:06:03,220
+And you said you don't know anyone called
+Cecily.
+
+148
+00:06:03,220 --> 00:06:07,500
+Jack: Well, if you want to know, Cecily is
+my aunt.
+
+149
+00:06:07,500 --> 00:06:09,060
+Algernon: Your aunt?
+
+150
+00:06:09,060 --> 00:06:10,110
+Jack: Yes.
+
+151
+00:06:10,110 --> 00:06:13,370
+She is a charming old lady.
+
+152
+00:06:13,370 --> 00:06:15,300
+Just give it back to me, Algy.
+
+153
+00:06:15,300 --> 00:06:20,169
+Algernon: (Going behind the sofa) But why
+does she call herself 'little Cecily' if she
+
+154
+00:06:20,169 --> 00:06:21,220
+is your aunt?
+
+155
+00:06:21,220 --> 00:06:25,220
+(Reading) 'From little Cecily, with all her
+love.'
+
+156
+00:06:25,220 --> 00:06:28,710
+Jack: (Going to the front of the sofa and
+kneeling on it) My dear fellow, some aunts
+
+157
+00:06:28,710 --> 00:06:30,020
+are tall.
+
+158
+00:06:30,020 --> 00:06:32,669
+Some aunts are not tall.
+
+159
+00:06:32,669 --> 00:06:37,229
+My aunt should be allowed to decide her height
+for herself.
+
+160
+00:06:37,229 --> 00:06:41,270
+You seem to think that every aunt should be
+like your aunt, Lady Bracknell!
+
+161
+00:06:41,270 --> 00:06:42,340
+That is ridiculous.
+
+162
+00:06:42,340 --> 00:06:44,960
+Now, give me back my cigarette case.
+
+163
+00:06:44,960 --> 00:06:46,680
+(Following Algernon all around the room)
+
+164
+00:06:46,680 --> 00:06:47,680
+Algernon: Yes.
+
+165
+00:06:47,680 --> 00:06:51,360
+But why does your aunt call you her uncle?
+
+166
+00:06:51,360 --> 00:06:57,870
+(Reading) 'From little Cecily, with all her
+love to her dear Uncle Jack.'
+
+167
+00:06:57,870 --> 00:07:01,500
+I don't object to an aunt being a small aunt.
+
+168
+00:07:01,500 --> 00:07:07,530
+But why does an aunt, whatever her size, call
+her own nephew 'uncle'?
+
+169
+00:07:07,530 --> 00:07:09,710
+I don't understand.
+
+170
+00:07:09,710 --> 00:07:12,370
+And your name isn't Jack; it is Ernest.
+
+171
+00:07:12,370 --> 00:07:15,830
+Jack: It isn't Ernest; it's Jack.
+
+172
+00:07:15,830 --> 00:07:19,430
+Algernon: You have always told me that your
+name is Ernest.
+
+173
+00:07:19,430 --> 00:07:23,189
+I have introduced you to everyone as Ernest.
+
+174
+00:07:23,189 --> 00:07:25,400
+You answer to the name Ernest.
+
+175
+00:07:25,400 --> 00:07:28,729
+You look as if your name is Ernest.
+
+176
+00:07:28,729 --> 00:07:32,449
+You are the most earnest-looking person I
+have ever seen in my life.
+
+177
+00:07:32,449 --> 00:07:37,289
+It is perfectly ridiculous to tell me your
+name isn't Ernest.
+
+178
+00:07:37,289 --> 00:07:38,879
+It is on your visiting cards.
+
+179
+00:07:38,879 --> 00:07:40,230
+Here is one of them.
+
+180
+00:07:40,230 --> 00:07:44,680
+(Taking it from a case) 'Mr Ernest Worthing,
+B.4, The Albany, London.'
+
+181
+00:07:44,680 --> 00:07:49,350
+I'll keep this as proof that your name is
+Ernest.
+
+182
+00:07:49,350 --> 00:07:52,810
+Don't ever try to deny it to me or to Gwendolen
+or to anyone else.
+
+183
+00:07:52,810 --> 00:07:54,220
+(Putting the card in his pocket)
+
+184
+00:07:54,220 --> 00:08:01,300
+Jack: Well, my name is Ernest in town and
+Jack in the country, and the cigarette case
+
+185
+00:08:01,300 --> 00:08:03,020
+was given to me in the country.
+
+186
+00:08:03,020 --> 00:08:10,780
+Algernon: That does not explain why your small
+Aunt Cecily calls you her dear uncle.
+
+187
+00:08:10,780 --> 00:08:13,730
+My dear fellow, you had better tell me everything.
+
+188
+00:08:13,730 --> 00:08:14,730
+Go on!
+
+189
+00:08:14,730 --> 00:08:21,590
+I have always suspected that you were a secret
+Bunburyist and now I am quite sure.
+
+190
+00:08:21,590 --> 00:08:23,710
+Jack: Bunburyist?
+
+191
+00:08:23,710 --> 00:08:26,680
+What on earth do you mean by a Bunburyist?
+
+192
+00:08:26,680 --> 00:08:32,490
+Algernon: I'll tell you the meaning of Bunburyist
+when you tell me why you are Ernest in town
+
+193
+00:08:32,490 --> 00:08:33,920
+and Jack in the country.
+
+194
+00:08:33,920 --> 00:08:37,220
+Jack: Well, give me my cigarette case first.
+
+195
+00:08:37,220 --> 00:08:38,220
+Algernon: Here it is.
+
+196
+00:08:38,220 --> 00:08:43,030
+(Handing Jack the cigarette case) Now give
+me your explanation and please make it unbelievable.
+
+197
+00:08:43,030 --> 00:08:44,030
+(Sitting on the sofa)
+
+198
+00:08:44,030 --> 00:08:49,140
+Jack: My dear fellow, there is nothing unbelievable
+about my explanation.
+
+199
+00:08:49,140 --> 00:08:51,660
+In fact, it's perfectly ordinary.
+
+200
+00:08:51,660 --> 00:08:56,440
+I was brought up by an old gentleman called
+Thomas Cardew.
+
+201
+00:08:56,440 --> 00:09:02,530
+He adopted me when I was a little boy and
+he made me the guardian of his granddaughter,
+
+202
+00:09:02,530 --> 00:09:05,870
+Miss Cecily Cardew, in his will.
+
+203
+00:09:05,870 --> 00:09:12,530
+Cecily is my ward and calls me uncle because
+she respects me, although you wouldn't understand
+
+204
+00:09:12,530 --> 00:09:13,690
+that!
+
+205
+00:09:13,690 --> 00:09:16,810
+You don't understand respect.
+
+206
+00:09:16,810 --> 00:09:21,310
+Cecily lives in my house in the country and
+is looked after by her excellent governess,
+
+207
+00:09:21,310 --> 00:09:22,400
+Miss Prism.
+
+208
+00:09:22,400 --> 00:09:26,640
+Algernon: Where is your house in the country,
+by the way?
+
+209
+00:09:26,640 --> 00:09:30,630
+Jack: That is nothing to do with you, my dear
+fellow.
+
+210
+00:09:30,630 --> 00:09:36,480
+I am not going to invite you there... but
+I will tell you honestly that the house is
+
+211
+00:09:36,480 --> 00:09:38,100
+not in Shropshire.
+
+212
+00:09:38,100 --> 00:09:40,780
+Algernon: I guessed that, my dear fellow!
+
+213
+00:09:40,780 --> 00:09:44,200
+I have Bunburyed all over Shropshire twice.
+
+214
+00:09:44,200 --> 00:09:46,670
+Now, go on.
+
+215
+00:09:46,670 --> 00:09:49,930
+Why are you Ernest in town and Jack in the
+country?
+
+216
+00:09:49,930 --> 00:09:55,120
+Jack: My dear Algy, I don't know whether you
+will understand.
+
+217
+00:09:55,120 --> 00:09:57,660
+You are not a very serious person.
+
+218
+00:09:57,660 --> 00:10:00,420
+I will try to explain it to you.
+
+219
+00:10:00,420 --> 00:10:07,710
+I am a responsible guardian and I have to
+behave well all the time in the country.
+
+220
+00:10:07,710 --> 00:10:09,420
+It is my duty.
+
+221
+00:10:09,420 --> 00:10:12,940
+But it is not very good for my health or my
+happiness.
+
+222
+00:10:12,940 --> 00:10:19,780
+So, when I want to leave the country and come
+to town, I pretend to have a younger brother
+
+223
+00:10:19,780 --> 00:10:20,920
+called Ernest.
+
+224
+00:10:20,920 --> 00:10:27,240
+I tell everyone that he lives in The Albany
+and that he gets into the most terrible trouble.
+
+225
+00:10:27,240 --> 00:10:31,190
+That, my dear Algy, is the truth.
+
+226
+00:10:31,190 --> 00:10:34,180
+Algernon: You are a Bunburyist!
+
+227
+00:10:34,180 --> 00:10:36,860
+I was right to say you were a Bunburyist.
+
+228
+00:10:36,860 --> 00:10:40,630
+You are one of the most advanced Bunburyists
+I know.
+
+229
+00:10:40,630 --> 00:10:43,280
+Jack: What on earth do you mean?
+
+230
+00:10:43,280 --> 00:10:48,730
+Algernon: You have invented a younger brother
+called Ernest so that you can come to town
+
+231
+00:10:48,730 --> 00:10:50,480
+as often as you like.
+
+232
+00:10:50,480 --> 00:10:56,530
+I have invented an invalid called Bunbury
+so that I can go to the country as often as
+
+233
+00:10:56,530 --> 00:10:58,080
+I like.
+
+234
+00:10:58,080 --> 00:11:02,260
+When I pretend to visit him, I call it Bunburying.
+
+235
+00:11:02,260 --> 00:11:07,020
+And I call someone who visits imaginary people
+a Bunburyist.
+
+236
+00:11:07,020 --> 00:11:10,250
+Bunbury is very valuable.
+
+237
+00:11:10,250 --> 00:11:16,760
+For example, if it wasn't for Bunbury's very
+bad health, I wouldn't be able to dine with
+
+238
+00:11:16,760 --> 00:11:17,910
+you tonight.
+
+239
+00:11:17,910 --> 00:11:20,700
+I should be dining with Aunt Augusta.
+
+240
+00:11:20,700 --> 00:11:23,490
+Jack: I haven't asked you to dine with me
+tonight.
+
+241
+00:11:23,490 --> 00:11:24,880
+Algernon: I know.
+
+242
+00:11:24,880 --> 00:11:28,940
+You are very careless about sending out invitations.
+
+243
+00:11:28,940 --> 00:11:31,420
+It is very foolish of you.
+
+244
+00:11:31,420 --> 00:11:34,310
+Nothing annoys people more than not receiving
+invitations.
+
+245
+00:11:34,310 --> 00:11:36,840
+Jack: You ought to dine with your Aunt Augusta.
+
+246
+00:11:36,840 --> 00:11:41,630
+Algernon: I don't have any intention of dining
+with Aunt Augusta.
+
+247
+00:11:41,630 --> 00:11:48,190
+Firstly, I dined there on Monday and once
+a week is enough time to spend with one's
+
+248
+00:11:48,190 --> 00:11:49,390
+relations.
+
+249
+00:11:49,390 --> 00:11:56,520
+Secondly, Aunt Augusta will either give me
+two women to talk to at dinner or none.
+
+250
+00:11:56,520 --> 00:12:03,250
+And thirdly, I know that tonight she will
+make me sit next to Mary Farquhar, who always
+
+251
+00:12:03,250 --> 00:12:06,900
+flirts with her own husband across the dinner
+table.
+
+252
+00:12:06,900 --> 00:12:09,040
+It is not very pleasant.
+
+253
+00:12:09,040 --> 00:12:15,510
+In fact, respectable women should not behave
+like that... and more and more women are doing
+
+254
+00:12:15,510 --> 00:12:16,510
+it.
+
+255
+00:12:16,510 --> 00:12:22,460
+The number of women in London who flirt with
+their own husbands is terrible.
+
+256
+00:12:22,460 --> 00:12:24,110
+It looks so bad.
+
+257
+00:12:24,110 --> 00:12:30,820
+Well, now I know that you are a Bunburyist,
+I want to talk to you about Bunburying.
+
+258
+00:12:30,820 --> 00:12:32,510
+I want to tell you the rules.
+
+259
+00:12:32,510 --> 00:12:36,360
+Jack: I am not a Bunburyist.
+
+260
+00:12:36,360 --> 00:12:40,510
+If Gwendolen agrees to marry me, I am going
+to kill my brother.
+
+261
+00:12:40,510 --> 00:12:43,620
+In fact, I think I will kill him anyway.
+
+262
+00:12:43,620 --> 00:12:46,190
+Cecily is a little too interested in him.
+
+263
+00:12:46,190 --> 00:12:48,990
+So I am going to get rid of Ernest.
+
+264
+00:12:48,990 --> 00:12:54,800
+And I think you should kill Mr... your invalid
+friend with the ridiculous name.
+
+265
+00:12:54,800 --> 00:13:00,020
+Algernon: Nothing will make me kill Bunbury,
+and, if you ever get married, you will be
+
+266
+00:13:00,020 --> 00:13:01,700
+glad to know Bunbury.
+
+267
+00:13:01,700 --> 00:13:07,610
+A man who marries without knowing Bunbury
+will have a very boring marriage.
+
+268
+00:13:07,610 --> 00:13:09,930
+Jack: That is nonsense.
+
+269
+00:13:09,930 --> 00:13:15,700
+If I marry a charming girl like Gwendolen,
+I certainly won't want to know Bunbury.
+
+270
+00:13:15,700 --> 00:13:19,380
+Algernon: Then your wife will want to know
+him.
+
+271
+00:13:19,380 --> 00:13:24,960
+You don't understand that in married life
+three is company and two is none.
+
+272
+00:13:24,960 --> 00:13:27,270
+Jack: Don't try to be cynical.
+
+273
+00:13:27,270 --> 00:13:29,250
+It's perfectly easy to be cynical.
+
+274
+00:13:29,250 --> 00:13:33,430
+Algernon: My dear fellow, it isn't easy to
+be anything these days.
+
+275
+00:13:33,430 --> 00:13:34,430
+There is so much competition.
+
+276
+00:13:34,430 --> 00:13:40,830
+(There is the sound of a doorbell being rung
+for a long time) Ah!
+
+277
+00:13:40,830 --> 00:13:41,830
+That must be Aunt Augusta.
+
+278
+00:13:41,830 --> 00:13:44,630
+Only relatives ring like that.
+
+279
+00:13:44,630 --> 00:13:51,760
+Now, I will take her out of the room for ten
+minutes so that you can propose to Gwendolen.
+
+280
+00:13:51,760 --> 00:13:55,960
+So I can dine with you tonight, can't I?
+
+281
+00:13:55,960 --> 00:13:59,160
+Jack: I suppose so, if you want to.
+
+282
+00:13:59,160 --> 00:14:00,550
+Algernon: Good.
+
+283
+00:14:00,550 --> 00:14:01,950
+(Lane enters)
+
+284
+00:14:01,950 --> 00:14:05,220
+Lane: Lady Bracknell and Miss Fairfax are
+here, sir.
+
+285
+00:14:05,220 --> 00:14:06,220
+(Algernon goes forward to meet them.
+
+286
+00:14:06,220 --> 00:14:07,220
+Lady Bracknell and Gwendolen enter)
+
+287
+00:14:07,220 --> 00:14:08,990
+Lady Bracknell: Good afternoon, dear Algernon.
+
+288
+00:14:08,990 --> 00:14:11,620
+I hope you are behaving very well.
+
+289
+00:14:11,620 --> 00:14:14,490
+Algernon: I'm feeling very well, Aunt Augusta.
+
+290
+00:14:14,490 --> 00:14:19,560
+Lady Bracknell: Feeling very well is not the
+same as behaving very well.
+
+291
+00:14:19,560 --> 00:14:22,800
+In fact, the two things rarely go together.
+
+292
+00:14:22,800 --> 00:14:26,150
+Algernon: (To Gwendolen) Good heavens, you
+are smart!
+
+293
+00:14:26,150 --> 00:14:28,490
+Gwendolen: I am always smart!
+
+294
+00:14:28,490 --> 00:14:30,010
+Aren't I, Mr Worthing?
+
+295
+00:14:30,010 --> 00:14:32,620
+Jack: You're quite perfect, Miss Fairfax.
+
+296
+00:14:32,620 --> 00:14:33,820
+Gwendolen: Oh!
+
+297
+00:14:33,820 --> 00:14:35,460
+I hope I am not perfect.
+
+298
+00:14:35,460 --> 00:14:40,760
+There would be no room for development and
+I intend to develop in every direction.
+
+299
+00:14:40,760 --> 00:14:42,220
+(Gwendolen and Jack sit down together in a
+corner of the room)
+
+300
+00:14:42,220 --> 00:14:48,190
+Lady Bracknell: I am sorry if we are a little
+late, Algernon, but I had to visit Lady Harbury.
+
+301
+00:14:48,190 --> 00:14:52,830
+I hadn't seen her since her poor husband died.
+
+302
+00:14:52,830 --> 00:14:59,420
+She has changed very much; she looks quite
+twenty years younger.
+
+303
+00:14:59,420 --> 00:15:05,270
+And now I'll have a cup of tea and one of
+those nice cucumber sandwiches you promised
+
+304
+00:15:05,270 --> 00:15:06,270
+me.
+
+305
+00:15:06,270 --> 00:15:07,270
+Algernon: Certainly, Aunt Augusta.
+
+306
+00:15:07,270 --> 00:15:08,270
+(Going over to the tea table)
+
+307
+00:15:08,270 --> 00:15:10,020
+Lady Bracknell: Will you come and sit here,
+Gwendolen?
+
+308
+00:15:10,020 --> 00:15:13,760
+Gwendolen: Thanks, Mama, I'm quite comfortable
+over here.
+
+309
+00:15:13,760 --> 00:15:17,540
+Algernon: (Picking up the empty plate of sandwiches
+in horror) Good heavens!
+
+310
+00:15:17,540 --> 00:15:18,540
+Lane!
+
+311
+00:15:18,540 --> 00:15:20,670
+Why are there no cucumber sandwiches?
+
+312
+00:15:20,670 --> 00:15:21,890
+I ordered them specially.
+
+313
+00:15:21,890 --> 00:15:26,380
+Lane: (Seriously) There were no cucumbers
+in the market this morning, sir.
+
+314
+00:15:26,380 --> 00:15:28,090
+I went there twice.
+
+315
+00:15:28,090 --> 00:15:29,960
+Algernon: No cucumbers?
+
+316
+00:15:29,960 --> 00:15:31,830
+Lane: No, sir.
+
+317
+00:15:31,830 --> 00:15:34,330
+Algernon: Thank you, Lane.
+
+318
+00:15:34,330 --> 00:15:35,330
+You may go.
+
+319
+00:15:35,330 --> 00:15:36,350
+Lane: Thank you, sir.
+
+320
+00:15:36,350 --> 00:15:37,350
+(Goes off)
+
+321
+00:15:37,350 --> 00:15:41,480
+Algernon: I am very upset that there were
+no cucumbers, Aunt Augusta.
+
+322
+00:15:41,480 --> 00:15:44,250
+Lady Bracknell: It doesn't matter, Algernon.
+
+323
+00:15:44,250 --> 00:15:46,750
+I had some crumpets with Lady Harbury.
+
+324
+00:15:46,750 --> 00:15:51,290
+Algernon: I hear that her hair has turned
+quite blonde from grief.
+
+325
+00:15:51,290 --> 00:15:55,290
+Lady Bracknell: It certainly has changed its
+colour.
+
+326
+00:15:55,290 --> 00:15:57,320
+I do not know why, of course.
+
+327
+00:15:57,320 --> 00:16:01,120
+(Algernon takes her a cup of tea) Thank you.
+
+328
+00:16:01,120 --> 00:16:04,860
+I've got quite a treat for you at dinner tonight,
+Algernon.
+
+329
+00:16:04,860 --> 00:16:09,290
+I am going to seat you next to Mary Farquhar.
+
+330
+00:16:09,290 --> 00:16:14,400
+She is such a nice woman and she is so sweet
+to her husband.
+
+331
+00:16:14,400 --> 00:16:16,730
+It's delightful to watch them.
+
+332
+00:16:16,730 --> 00:16:22,820
+Algernon: I am afraid, Aunt Augusta, I cannot
+dine with you tonight after all.
+
+333
+00:16:22,820 --> 00:16:26,110
+Lady Bracknell: (Frowning) I hope you can,
+Algernon.
+
+334
+00:16:26,110 --> 00:16:31,130
+There will be thirteen people at the dining
+table if you aren't there.
+
+335
+00:16:31,130 --> 00:16:33,730
+That is unlucky.
+
+336
+00:16:33,730 --> 00:16:36,010
+Your uncle will have to eat upstairs.
+
+337
+00:16:36,010 --> 00:16:39,320
+Fortunately, he often has to do that.
+
+338
+00:16:39,320 --> 00:16:45,430
+Algernon: It is terribly disappointing to
+me, but I've had a telegram to say that my
+
+339
+00:16:45,430 --> 00:16:48,670
+poor friend Bunbury is very ill again.
+
+340
+00:16:48,670 --> 00:16:52,230
+(Smiling quickly at Jack) They think I should
+be with him.
+
+341
+00:16:52,230 --> 00:16:56,090
+Lady Bracknell: It is very strange.
+
+342
+00:16:56,090 --> 00:17:00,430
+Mr Bunbury seems to suffer from very bad health.
+
+343
+00:17:00,430 --> 00:17:02,410
+Algernon: Yes, indeed.
+
+344
+00:17:02,410 --> 00:17:04,080
+He is a permanent invalid.
+
+345
+00:17:04,080 --> 00:17:10,230
+Lady Bracknell: Well, Algernon, I think it's
+about time that Mr Bunbury decides whether
+
+346
+00:17:10,230 --> 00:17:13,350
+he is going to live or die.
+
+347
+00:17:13,350 --> 00:17:15,699
+I don't sympathize with invalids.
+
+348
+00:17:15,699 --> 00:17:18,990
+Illness should not be encouraged in others.
+
+349
+00:17:18,990 --> 00:17:20,360
+One should be healthy.
+
+350
+00:17:20,360 --> 00:17:26,169
+Could you ask Mr Bunbury not to be ill on
+Saturday?
+
+351
+00:17:26,169 --> 00:17:30,980
+I am holding a reception and I want you to
+organize the music.
+
+352
+00:17:30,980 --> 00:17:38,210
+People talk during performances of music and
+I want to encourage them to talk, particularly
+
+353
+00:17:38,210 --> 00:17:43,580
+since it is the end of the London season and
+they have nearly run out of things to say.
+
+354
+00:17:43,580 --> 00:17:48,880
+Algernon: I'll speak to Bunbury, Aunt Augusta,
+if he is still conscious.
+
+355
+00:17:48,880 --> 00:17:54,250
+I think I can promise you that he will be
+well by Saturday.
+
+356
+00:17:54,250 --> 00:17:58,039
+Of course, the music is a problem.
+
+357
+00:17:58,039 --> 00:18:04,340
+You see, if one plays good music, people don't
+listen and if one plays bad music, people
+
+358
+00:18:04,340 --> 00:18:05,360
+don't talk.
+
+359
+00:18:05,360 --> 00:18:10,240
+But I will show you the programme of music
+I have chosen if you will come into the music
+
+360
+00:18:10,240 --> 00:18:11,669
+room for a moment.
+
+361
+00:18:11,669 --> 00:18:13,429
+Lady Bracknell: Thank you, Algernon.
+
+362
+00:18:13,429 --> 00:18:15,179
+It is very thoughtful of you.
+
+363
+00:18:15,179 --> 00:18:17,610
+(Lady Bracknell and Algernon go into the music
+room, Gwendolen remains behind)
+
+364
+00:18:17,610 --> 00:18:20,009
+Jack: It's been a charming day, Miss Fairfax.
+
+365
+00:18:20,009 --> 00:18:23,960
+Gwendolen: Please don't talk about the weather,
+Mr Worthing.
+
+366
+00:18:23,960 --> 00:18:29,779
+When people talk to me about the weather,
+I always feel quite certain they mean something
+
+367
+00:18:29,779 --> 00:18:31,720
+else and I get nervous.
+
+368
+00:18:31,720 --> 00:18:33,929
+Jack: I do mean something else.
+
+369
+00:18:33,929 --> 00:18:35,809
+Gwendolen: I thought so.
+
+370
+00:18:35,809 --> 00:18:37,909
+In fact, I am never wrong.
+
+371
+00:18:37,909 --> 00:18:43,309
+Jack: I would like to talk to you about the
+'something else' while Lady Bracknell is out
+
+372
+00:18:43,309 --> 00:18:44,309
+of the room.
+
+373
+00:18:44,309 --> 00:18:46,630
+Gwendolen: Then talk about it quickly.
+
+374
+00:18:46,630 --> 00:18:49,139
+Mama often comes back into a room suddenly.
+
+375
+00:18:49,139 --> 00:18:55,790
+Jack: (Nervously) Miss Fairfax, ever since
+I met you, I have admired you more than any
+
+376
+00:18:55,790 --> 00:18:56,830
+girl...
+
+377
+00:18:56,830 --> 00:18:59,389
+I have met ever since...
+
+378
+00:18:59,389 --> 00:19:00,509
+I met you.
+
+379
+00:19:00,509 --> 00:19:04,340
+Gwendolen: Yes, I am quite well aware of that.
+
+380
+00:19:04,340 --> 00:19:08,289
+I was always fascinated by you - even before
+I met you.
+
+381
+00:19:08,289 --> 00:19:13,960
+(Jack looks at her in amazement) We live in
+an age of ideals - any expensive monthly magazine
+
+382
+00:19:13,960 --> 00:19:21,680
+will tell you that - and my ideal has always
+been to love someone called Ernest.
+
+383
+00:19:21,680 --> 00:19:26,960
+When Algernon mentioned he had a friend called
+Ernest, I knew I would love you.
+
+384
+00:19:26,960 --> 00:19:29,860
+Jack: Do you really love me, Gwendolen?
+
+385
+00:19:29,860 --> 00:19:30,970
+Gwendolen: Very much!
+
+386
+00:19:30,970 --> 00:19:32,119
+Jack: Darling!
+
+387
+00:19:32,119 --> 00:19:34,990
+You don't know how happy you have made me.
+
+388
+00:19:34,990 --> 00:19:37,029
+Gwendolen: My own Ernest!
+
+389
+00:19:37,029 --> 00:19:41,669
+Jack: But could you love me if my name wasn't
+Ernest?
+
+390
+00:19:41,669 --> 00:19:44,080
+Gwendolen: But your name is Ernest.
+
+391
+00:19:44,080 --> 00:19:47,250
+Jack: Yes, I know it is.
+
+392
+00:19:47,250 --> 00:19:50,559
+But what if it was something else?
+
+393
+00:19:50,559 --> 00:19:52,040
+Couldn't you love me then?
+
+394
+00:19:52,040 --> 00:19:53,279
+Gwendolen: (Cleverly) Ah!
+
+395
+00:19:53,279 --> 00:19:58,169
+But you are called Ernest, so there is no
+reason to think about you not being called
+
+396
+00:19:58,169 --> 00:19:59,169
+Ernest.
+
+397
+00:19:59,169 --> 00:20:03,500
+Jack: Personally, darling, I don't really
+like the name Ernest...
+
+398
+00:20:03,500 --> 00:20:05,909
+I don't think the name suits me.
+
+399
+00:20:05,909 --> 00:20:07,240
+Gwendolen: It suits you perfectly.
+
+400
+00:20:07,240 --> 00:20:10,080
+It is a wonderful name.
+
+401
+00:20:10,080 --> 00:20:11,129
+It is musical.
+
+402
+00:20:11,129 --> 00:20:17,700
+Jack: Well, really, Gwendolen, I think there
+are a lot of nicer names.
+
+403
+00:20:17,700 --> 00:20:23,309
+I think that Jack, for instance, is a charming
+name.
+
+404
+00:20:23,309 --> 00:20:24,539
+Gwendolen: Jack...?
+
+405
+00:20:24,539 --> 00:20:28,820
+No, there is very little music in the name
+Jack.
+
+406
+00:20:28,820 --> 00:20:30,570
+It does not excite me.
+
+407
+00:20:30,570 --> 00:20:36,240
+I have known several Jacks and they all were
+very ordinary.
+
+408
+00:20:36,240 --> 00:20:40,710
+I feel pity for any woman who is married to
+a man called Jack.
+
+409
+00:20:40,710 --> 00:20:45,190
+I think the only really good name is Ernest.
+
+410
+00:20:45,190 --> 00:20:48,990
+Jack: Gwendolen, I must get baptized at once...
+
+411
+00:20:48,990 --> 00:20:51,429
+I mean we must get married at once.
+
+412
+00:20:51,429 --> 00:20:52,429
+There is no time to lose.
+
+413
+00:20:52,429 --> 00:20:54,759
+Gwendolen: (Shocked) Married, Mr Worthing?
+
+414
+00:20:54,759 --> 00:21:01,360
+Jack: Well... you know that I love you and
+you told me, Miss Fairfax, that you love me.
+
+415
+00:21:01,360 --> 00:21:03,840
+Gwendolen: I do love you.
+
+416
+00:21:03,840 --> 00:21:06,279
+But you haven't proposed to me yet.
+
+417
+00:21:06,279 --> 00:21:08,980
+Nothing has been said about marriage.
+
+418
+00:21:08,980 --> 00:21:12,649
+Jack: Well... may I propose to you now?
+
+419
+00:21:12,649 --> 00:21:17,029
+Gwendolen: I think that this would be an excellent
+time to propose to me.
+
+420
+00:21:17,029 --> 00:21:21,040
+And I will tell you now that I will accept
+you so that you aren't worried.
+
+421
+00:21:21,040 --> 00:21:22,160
+Jack: Gwendolen!
+
+422
+00:21:22,160 --> 00:21:23,870
+Gwendolen: Yes, Mr Worthing?
+
+423
+00:21:23,870 --> 00:21:26,379
+What are you going to say to me?
+
+424
+00:21:26,379 --> 00:21:29,120
+Jack: You know what I am going to say to you.
+
+425
+00:21:29,120 --> 00:21:31,649
+Gwendolen: Yes, but you haven't said it.
+
+426
+00:21:31,649 --> 00:21:34,600
+Jack: Gwendolen, will you marry me?
+
+427
+00:21:34,600 --> 00:21:35,600
+(Going down on his knees)
+
+428
+00:21:35,600 --> 00:21:37,110
+Gwendolen: Yes, of course I will.
+
+429
+00:21:37,110 --> 00:21:39,580
+You have taken a long time to ask.
+
+430
+00:21:39,580 --> 00:21:43,289
+I am afraid you have had very little experience
+of proposing.
+
+431
+00:21:43,289 --> 00:21:47,340
+Jack: My dear, I have never loved anyone in
+the world but you.
+
+432
+00:21:47,340 --> 00:21:51,029
+Gwendolen: Yes, but men often practise proposing.
+
+433
+00:21:51,029 --> 00:21:54,649
+My brother, Gerald, often proposes to people.
+
+434
+00:21:54,649 --> 00:21:56,779
+All my friends tell me.
+
+435
+00:21:56,779 --> 00:22:00,169
+What wonderful blue eyes you have, Ernest!
+
+436
+00:22:00,169 --> 00:22:04,590
+They are quite, quite blue.
+
+437
+00:22:04,590 --> 00:22:09,399
+I hope you will always look at me like that,
+especially when there are other people in
+
+438
+00:22:09,399 --> 00:22:10,399
+the room.
+
+439
+00:22:10,399 --> 00:22:12,249
+(Lady Bracknell enters)
+
+440
+00:22:12,249 --> 00:22:15,110
+Lady Bracknell: Mr Worthing!
+
+441
+00:22:15,110 --> 00:22:17,429
+Get up from that position.
+
+442
+00:22:17,429 --> 00:22:20,370
+It is not respectable to behave like that.
+
+443
+00:22:20,370 --> 00:22:21,370
+Gwendolen: Mama!
+
+444
+00:22:21,370 --> 00:22:24,379
+(Jack tries to stand up but Gwendolen makes
+him stay in a kneeling position) Please go
+
+445
+00:22:24,379 --> 00:22:25,379
+away.
+
+446
+00:22:25,379 --> 00:22:26,379
+Mr Worthing has not finished yet.
+
+447
+00:22:26,379 --> 00:22:29,380
+Lady Bracknell: Finished what, may I ask?
+
+448
+00:22:29,380 --> 00:22:33,179
+Gwendolen: I am engaged to be married to Mr
+Worthing, Mama.
+
+449
+00:22:33,179 --> 00:22:34,179
+(Jack stands up)
+
+450
+00:22:34,179 --> 00:22:39,029
+Lady Bracknell: Pardon me, you are not engaged
+to anyone, Gwendolen.
+
+451
+00:22:39,029 --> 00:22:45,620
+When you are engaged to someone, I, or your
+father, will inform you of the fact.
+
+452
+00:22:45,620 --> 00:22:49,340
+An engagement should come as a surprise to
+a young girl.
+
+453
+00:22:49,340 --> 00:22:53,080
+A pleasant surprise or an unpleasant surprise.
+
+454
+00:22:53,080 --> 00:22:56,970
+It is not something that she is allowed to
+arrange for herself...
+
+455
+00:22:56,970 --> 00:23:04,529
+And now, I have a few questions to ask you,
+Mr Worthing.
+
+456
+00:23:04,529 --> 00:23:09,470
+While I am asking these questions, you, Gwendolen,
+will wait for me in the carriage.
+
+457
+00:23:09,470 --> 00:23:10,470
+Gwendolen: Mama!
+
+458
+00:23:10,470 --> 00:23:12,120
+Lady Bracknell: Wait in the carriage, Gwendolen!
+
+459
+00:23:12,120 --> 00:23:13,120
+(Gwendolen goes to the door.
+
+460
+00:23:13,120 --> 00:23:14,320
+She and Jack kiss their hands and pretend
+to blow the kisses to each other behind Lady
+
+461
+00:23:14,320 --> 00:23:15,320
+Bracknell's back.
+
+462
+00:23:15,320 --> 00:23:16,320
+Lady Bracknell looks around for the cause
+of the noise.
+
+463
+00:23:16,320 --> 00:23:17,320
+Finally she turns round and sees them.
+
+464
+00:23:17,320 --> 00:23:18,320
+Frowning) Gwendolen, I said wait for me in
+the carriage!
+
+465
+00:23:18,320 --> 00:23:19,390
+Gwendolen: Yes, Mama.
+
+466
+00:23:19,390 --> 00:23:21,820
+(Going off, looking back at Jack)
+
+467
+00:23:21,820 --> 00:23:24,910
+Lady Bracknell: You can sit down, Mr Worthing.
+
+468
+00:23:24,910 --> 00:23:25,910
+(Looks in her pocket for a notebook and pencil)
+
+469
+00:23:25,910 --> 00:23:27,860
+Jack: Thank you, Lady Bracknell, I prefer
+to stand.
+
+470
+00:23:27,860 --> 00:23:31,900
+Lady Bracknell: (Notebook and pencil in hand)
+I must tell you that you are not on my list
+
+471
+00:23:31,900 --> 00:23:37,789
+of eligible young men, although I have the
+same list as the Duchess of Bolton.
+
+472
+00:23:37,789 --> 00:23:40,669
+We work together during the season.
+
+473
+00:23:40,669 --> 00:23:46,769
+However, I am quite ready to add your name
+to the list if your answers are satisfactory.
+
+474
+00:23:46,769 --> 00:23:49,600
+Do you smoke?
+
+475
+00:23:49,600 --> 00:23:53,029
+Jack: Well, yes, I do smoke.
+
+476
+00:23:53,029 --> 00:23:55,519
+Lady Bracknell: I am glad to hear it.
+
+477
+00:23:55,519 --> 00:23:57,600
+A man should always have an occupation.
+
+478
+00:23:57,600 --> 00:24:02,889
+There are far too many men in London who don't
+have an occupation.
+
+479
+00:24:02,889 --> 00:24:05,860
+How old are you?
+
+480
+00:24:05,860 --> 00:24:06,940
+Jack: Twenty-nine.
+
+481
+00:24:06,940 --> 00:24:09,320
+Lady Bracknell: That's a very good age to
+get married.
+
+482
+00:24:09,320 --> 00:24:19,380
+I have always believed that a man who wants
+to get married should know everything or nothing.
+
+483
+00:24:19,380 --> 00:24:21,789
+Which do you know?
+
+484
+00:24:21,789 --> 00:24:25,610
+Jack: (After hesitating) I know nothing, Lady
+Bracknell.
+
+485
+00:24:25,610 --> 00:24:27,760
+Lady Bracknell: I am pleased to hear it.
+
+486
+00:24:27,760 --> 00:24:29,659
+I approve of ignorance.
+
+487
+00:24:29,659 --> 00:24:32,649
+I don't approve of modern education.
+
+488
+00:24:32,649 --> 00:24:39,080
+Fortunately, in England at least, education
+has no effect at all.
+
+489
+00:24:39,080 --> 00:24:40,389
+What is your income?
+
+490
+00:24:40,389 --> 00:24:43,639
+Jack: It's between seven and eight thousand
+pounds a year.
+
+491
+00:24:43,639 --> 00:24:49,190
+Lady Bracknell: (Making a note in her book)
+Do you earn this income from land that you
+
+492
+00:24:49,190 --> 00:24:50,369
+own or from investments?
+
+493
+00:24:50,369 --> 00:24:51,769
+Jack: From investments.
+
+494
+00:24:51,769 --> 00:24:54,960
+Lady Bracknell: That is satisfactory.
+
+495
+00:24:54,960 --> 00:25:00,639
+Owning land is neither profitable nor pleasurable
+- it costs money to look after it when one
+
+496
+00:25:00,639 --> 00:25:04,860
+is alive and then there are taxes when one
+is dead.
+
+497
+00:25:04,860 --> 00:25:07,009
+That's all I can say about land.
+
+498
+00:25:07,009 --> 00:25:12,480
+Jack: I have a country house with some land,
+but I don't depend upon it for my income.
+
+499
+00:25:12,480 --> 00:25:15,100
+Lady Bracknell: A country house!
+
+500
+00:25:15,100 --> 00:25:16,260
+How many bedrooms?
+
+501
+00:25:16,260 --> 00:25:19,009
+Well, that doesn't matter.
+
+502
+00:25:19,009 --> 00:25:21,509
+I hope you have a house in town.
+
+503
+00:25:21,509 --> 00:25:23,669
+Gwendolen must have a house in town.
+
+504
+00:25:23,669 --> 00:25:29,850
+Jack: Well, I do have a town house in Belgrave
+Square but it is rented to Lady Bloxham.
+
+505
+00:25:29,850 --> 00:25:32,460
+Lady Bracknell: Lady Bloxham?
+
+506
+00:25:32,460 --> 00:25:34,059
+I don't know her.
+
+507
+00:25:34,059 --> 00:25:37,860
+Jack: Oh, she doesn't go out very much; she's
+very old.
+
+508
+00:25:37,860 --> 00:25:42,970
+Lady Bracknell: She's not necessarily respectable
+even if she is old.
+
+509
+00:25:42,970 --> 00:25:44,669
+What number Belgrave Square?
+
+510
+00:25:44,669 --> 00:25:45,669
+Jack: 149.
+
+511
+00:25:45,669 --> 00:25:51,080
+Lady Bracknell: (Shaking her head disapprovingly)
+But that is the unfashionable side of the
+
+512
+00:25:51,080 --> 00:25:52,080
+street.
+
+513
+00:25:52,080 --> 00:25:54,549
+However, that could easily be changed.
+
+514
+00:25:54,549 --> 00:25:56,600
+Jack: Do you mean the fashion or the side?
+
+515
+00:25:56,600 --> 00:25:59,490
+Lady Bracknell: (Very disapprovingly) Both,
+if necessary.
+
+516
+00:25:59,490 --> 00:26:04,350
+Now, let us discuss less important details.
+
+517
+00:26:04,350 --> 00:26:05,950
+Are your parents living?
+
+518
+00:26:05,950 --> 00:26:08,330
+Jack: I have lost both my parents.
+
+519
+00:26:08,330 --> 00:26:16,320
+Lady Bracknell: To lose one parent, Mr Worthing,
+is unfortunate; to lose both seems like carelessness.
+
+520
+00:26:16,320 --> 00:26:18,389
+Who was your father?
+
+521
+00:26:18,389 --> 00:26:21,049
+He must have been a wealthy man.
+
+522
+00:26:21,049 --> 00:26:23,529
+Was he a businessman or an aristocrat?
+
+523
+00:26:23,529 --> 00:26:27,330
+Jack: I am afraid I don't know.
+
+524
+00:26:27,330 --> 00:26:31,040
+Lady Bracknell, I said that I had lost my
+parents.
+
+525
+00:26:31,040 --> 00:26:33,789
+In fact, my parents lost me...
+
+526
+00:26:33,789 --> 00:26:36,480
+I don't know who I am.
+
+527
+00:26:36,480 --> 00:26:39,980
+I was... well, I was found.
+
+528
+00:26:39,980 --> 00:26:41,909
+Lady Bracknell: Found?
+
+529
+00:26:41,909 --> 00:26:49,159
+Jack: The late Mr Thomas Cardew, a very kind
+and charitable old gentleman, found me and
+
+530
+00:26:49,159 --> 00:26:55,549
+called me 'Worthing' because he had a train
+ticket for Worthing in his pocket at the time.
+
+531
+00:26:55,549 --> 00:26:57,749
+Worthing is a seaside town.
+
+532
+00:26:57,749 --> 00:27:04,289
+Lady Bracknell: Where did the kind gentleman
+who had a train ticket for this seaside town
+
+533
+00:27:04,289 --> 00:27:05,480
+find you?
+
+534
+00:27:05,480 --> 00:27:07,080
+Jack: (Seriously) In a handbag.
+
+535
+00:27:07,080 --> 00:27:09,529
+Lady Bracknell: A handbag?
+
+536
+00:27:09,529 --> 00:27:13,019
+Jack: (Very seriously) Yes, Lady Bracknell.
+
+537
+00:27:13,019 --> 00:27:20,330
+I was in a handbag - a large, black leather
+handbag - an ordinary handbag with handles.
+
+538
+00:27:20,330 --> 00:27:25,989
+Lady Bracknell: Where did Mr Thomas Cardew
+find this ordinary handbag?
+
+539
+00:27:25,989 --> 00:27:31,509
+Jack: In the cloakroom at Victoria Station,
+here in London.
+
+540
+00:27:31,509 --> 00:27:32,870
+It was a mistake.
+
+541
+00:27:32,870 --> 00:27:35,710
+It was given to him instead of his own bag.
+
+542
+00:27:35,710 --> 00:27:39,750
+Lady Bracknell: In the cloakroom at Victoria
+Station?
+
+543
+00:27:39,750 --> 00:27:41,070
+Jack: Yes.
+
+544
+00:27:41,070 --> 00:27:49,360
+Lady Bracknell: Mr Worthing, I am shocked
+by what you have just told me.
+
+545
+00:27:49,360 --> 00:27:55,289
+I do not think it is right to be born in a
+handbag, even if it has handles.
+
+546
+00:27:55,289 --> 00:28:02,919
+And I do not think it is right to be found
+in a handbag in a cloakroom at a railway station.
+
+547
+00:28:02,919 --> 00:28:08,890
+It is not the way to become a respectable
+gentleman with a good position in society.
+
+548
+00:28:08,890 --> 00:28:12,000
+Jack: What is your advice, Lady Bracknell?
+
+549
+00:28:12,000 --> 00:28:15,200
+I would, of course, do anything to make Gwendolen
+happy.
+
+550
+00:28:15,200 --> 00:28:22,899
+Lady Bracknell: My advice to you, Mr Worthing,
+is this - try to find some relations as soon
+
+551
+00:28:22,899 --> 00:28:24,539
+as possible.
+
+552
+00:28:24,539 --> 00:28:27,559
+And try to find at least one parent.
+
+553
+00:28:27,559 --> 00:28:32,409
+Jack: Well, I don't see how I could possibly
+do that.
+
+554
+00:28:32,409 --> 00:28:35,389
+I can show you the handbag.
+
+555
+00:28:35,389 --> 00:28:37,629
+It is in a wardrobe at home.
+
+556
+00:28:37,629 --> 00:28:40,690
+I really think that should satisfy you, Lady
+Bracknell.
+
+557
+00:28:40,690 --> 00:28:42,400
+Lady Bracknell: Me, sir!
+
+558
+00:28:42,400 --> 00:28:44,580
+It has nothing to do with me!
+
+559
+00:28:44,580 --> 00:28:52,600
+Do you really think that Lord Bracknell would
+allow our only daughter to marry the son of
+
+560
+00:28:52,600 --> 00:28:58,070
+a cloakroom and form a relationship with a
+piece of luggage?
+
+561
+00:28:58,070 --> 00:28:59,509
+Goodbye, Mr Worthing!
+
+562
+00:28:59,509 --> 00:29:04,379
+(Lady Bracknell leaves the room with great
+dignity)
+
+563
+00:29:04,379 --> 00:29:05,600
+Jack: Goodbye!
+
+564
+00:29:05,600 --> 00:29:09,289
+(Algernon starts singing a Wedding March in
+the music room.
+
+565
+00:29:09,289 --> 00:29:14,630
+Jack looks very angry and goes to the door)
+Stop singing that awful tune, Algy!
+
+566
+00:29:14,630 --> 00:29:16,509
+(The singing stops and Algernon enters cheerfully)
+
+567
+00:29:16,509 --> 00:29:19,440
+Algernon: Didn't everything work out all right,
+old fellow?
+
+568
+00:29:19,440 --> 00:29:22,049
+Did Gwendolen refuse to marry you?
+
+569
+00:29:22,049 --> 00:29:24,059
+Jack: Oh, Gwendolen was fine.
+
+570
+00:29:24,059 --> 00:29:25,539
+She believes we are engaged.
+
+571
+00:29:25,539 --> 00:29:28,239
+Her mother is awful.
+
+572
+00:29:28,239 --> 00:29:30,759
+I've never met such a monster.
+
+573
+00:29:30,759 --> 00:29:36,100
+Oh, I beg your pardon, Algy, I suppose I shouldn't
+talk about your own aunt in that way in front
+
+574
+00:29:36,100 --> 00:29:37,100
+of you.
+
+575
+00:29:37,100 --> 00:29:42,520
+Algernon: My dear fellow, I love hearing people
+being rude about my relations.
+
+576
+00:29:42,520 --> 00:29:47,590
+Relations are simply a boring group of people
+who don't know how to live and don't know
+
+577
+00:29:47,590 --> 00:29:48,590
+when to die.
+
+578
+00:29:48,590 --> 00:29:49,990
+Jack: Oh, that is nonsense!
+
+579
+00:29:49,990 --> 00:29:51,169
+Algernon: It isn't!
+
+580
+00:29:51,169 --> 00:29:53,860
+Jack: Well, I won't argue about it.
+
+581
+00:29:53,860 --> 00:29:55,950
+You always want to argue about things.
+
+582
+00:29:55,950 --> 00:29:58,200
+Algernon: Things were made for arguing about.
+
+583
+00:29:58,200 --> 00:30:01,590
+Jack: If I believed that, I'd shoot myself...
+
+584
+00:30:01,590 --> 00:30:07,789
+(A pause) You don't think Gwendolen will become
+like her mother in a hundred and fifty years,
+
+585
+00:30:07,789 --> 00:30:08,789
+do you, Algy?
+
+586
+00:30:08,789 --> 00:30:12,059
+Algernon: All women become like their mothers.
+
+587
+00:30:12,059 --> 00:30:13,999
+That is their tragedy.
+
+588
+00:30:13,999 --> 00:30:17,059
+No men become like theirs.
+
+589
+00:30:17,059 --> 00:30:18,509
+That is their tragedy.
+
+590
+00:30:18,509 --> 00:30:21,049
+Jack: Have you said something clever?
+
+591
+00:30:21,049 --> 00:30:25,210
+Algernon: They were very fine sentences and
+they are very true.
+
+592
+00:30:25,210 --> 00:30:27,999
+Jack: I'm tired of cleverness.
+
+593
+00:30:27,999 --> 00:30:30,129
+Everybody is clever nowadays.
+
+594
+00:30:30,129 --> 00:30:32,350
+You meet clever people everywhere.
+
+595
+00:30:32,350 --> 00:30:35,059
+I wish that there were a few fools left in
+the world.
+
+596
+00:30:35,059 --> 00:30:36,379
+Algernon: There are.
+
+597
+00:30:36,379 --> 00:30:37,970
+Jack: I should like to meet them.
+
+598
+00:30:37,970 --> 00:30:39,369
+What do they talk about?
+
+599
+00:30:39,369 --> 00:30:41,179
+Algernon: The fools?
+
+600
+00:30:41,179 --> 00:30:43,570
+They talk about the clever people, of course.
+
+601
+00:30:43,570 --> 00:30:44,740
+Jack: What fools!
+
+602
+00:30:44,740 --> 00:30:50,789
+Algernon: By the way, did you tell Gwendolen
+the truth about being Ernest in town and Jack
+
+603
+00:30:50,789 --> 00:30:51,789
+in the country?
+
+604
+00:30:51,789 --> 00:30:58,899
+Jack: My dear fellow, one does not tell the
+truth to a nice, sweet girl.
+
+605
+00:30:58,899 --> 00:31:02,359
+You have extraordinary ideas about how to
+behave to a woman!
+
+606
+00:31:02,359 --> 00:31:07,460
+Algernon: The only way to behave to a woman
+is to flirt with her if she is pretty.
+
+607
+00:31:07,460 --> 00:31:11,710
+And if she isn't pretty, you must flirt with
+someone else.
+
+608
+00:31:11,710 --> 00:31:13,340
+Jack: Oh, that is nonsense.
+
+609
+00:31:13,340 --> 00:31:17,860
+Algernon: What about your badly behaved brother
+Ernest?
+
+610
+00:31:17,860 --> 00:31:19,249
+Did you tell her about him?
+
+611
+00:31:19,249 --> 00:31:22,850
+Jack: Oh, I shall have got rid of him before
+the end of the week.
+
+612
+00:31:22,850 --> 00:31:26,210
+I'll say he died in Paris of a heart attack.
+
+613
+00:31:26,210 --> 00:31:29,750
+Lots of people die of a heart attack quite
+suddenly, don't they?
+
+614
+00:31:29,750 --> 00:31:33,149
+Algernon: Yes, but it's hereditary, my dear
+fellow.
+
+615
+00:31:33,149 --> 00:31:36,029
+It's the sort of thing that runs in families.
+
+616
+00:31:36,029 --> 00:31:39,340
+You had better say that he died of a bad cold.
+
+617
+00:31:39,340 --> 00:31:42,429
+Jack: Are you sure that a bad cold isn't hereditary?
+
+618
+00:31:42,429 --> 00:31:43,929
+Algernon: Of course it isn't.
+
+619
+00:31:43,929 --> 00:31:45,369
+Jack: Very well, then.
+
+620
+00:31:45,369 --> 00:31:51,429
+My poor brother Ernest will die suddenly,
+in Paris, of a bad cold.
+
+621
+00:31:51,429 --> 00:31:53,009
+That gets rid of him.
+
+622
+00:31:53,009 --> 00:31:55,440
+Algernon: But you said that your ward...
+
+623
+00:31:55,440 --> 00:32:01,580
+Miss Cardew... was a little too interested
+in your poor brother Ernest.
+
+624
+00:32:01,580 --> 00:32:03,710
+Won't she be very distressed?
+
+625
+00:32:03,710 --> 00:32:06,649
+Jack: Oh, that's not a problem.
+
+626
+00:32:06,649 --> 00:32:11,169
+Cecily is not a silly romantic girl, I am
+pleased to say.
+
+627
+00:32:11,169 --> 00:32:16,510
+She eats big meals, goes for long walks and
+doesn't pay attention to her lessons.
+
+628
+00:32:16,510 --> 00:32:18,529
+Algernon: I would like to meet Cecily.
+
+629
+00:32:18,529 --> 00:32:22,409
+Jack: I will make sure that you never meet
+her.
+
+630
+00:32:22,409 --> 00:32:25,980
+She is extremely pretty and she is just eighteen.
+
+631
+00:32:25,980 --> 00:32:31,140
+Algernon: Have you told Gwendolen that you
+have an extremely pretty ward who is just
+
+632
+00:32:31,140 --> 00:32:32,140
+eighteen?
+
+633
+00:32:32,140 --> 00:32:36,549
+Jack: Oh, one mustn't tell people everything
+all at once.
+
+634
+00:32:36,549 --> 00:32:40,059
+Cecily and Gwendolen will be great friends,
+I'm sure.
+
+635
+00:32:40,059 --> 00:32:43,549
+They will be calling each other sister half
+an hour after they meet.
+
+636
+00:32:43,549 --> 00:32:47,710
+Algernon: Women only call each other sister
+after they have called each other lots of
+
+637
+00:32:47,710 --> 00:32:49,289
+other things first.
+
+638
+00:32:49,289 --> 00:32:54,730
+Now, my dear fellow, if we want to get a good
+table at the restaurant, we must go and change
+
+639
+00:32:54,730 --> 00:32:56,580
+our clothes now.
+
+640
+00:32:56,580 --> 00:32:57,580
+It's nearly seven.
+
+641
+00:32:57,580 --> 00:32:58,580
+I'm hungry.
+
+642
+00:32:58,580 --> 00:33:00,830
+Jack: (Irritably) I never knew a time when
+you weren't hungry.
+
+643
+00:33:00,830 --> 00:33:03,659
+Algernon: What shall we do after dinner?
+
+644
+00:33:03,659 --> 00:33:04,720
+Go to a theatre?
+
+645
+00:33:04,720 --> 00:33:06,010
+Jack: Oh no!
+
+646
+00:33:06,010 --> 00:33:07,859
+One has to listen at the theatre.
+
+647
+00:33:07,859 --> 00:33:08,859
+I hate listening.
+
+648
+00:33:08,859 --> 00:33:11,059
+Algernon: Well, let us go to the Club.
+
+649
+00:33:11,059 --> 00:33:12,399
+Jack: Oh no!
+
+650
+00:33:12,399 --> 00:33:14,320
+One has to talk at the Club.
+
+651
+00:33:14,320 --> 00:33:15,320
+I hate talking.
+
+652
+00:33:15,320 --> 00:33:18,809
+Algernon: Well, we could go to the Empire
+Music Hall at ten. 
+
+653
+00:33:18,809 --> 00:33:20,379
+Jack: The Music Hall?
+
+654
+00:33:20,379 --> 00:33:21,570
+Oh no!
+
+655
+00:33:21,570 --> 00:33:23,899
+I hate looking at things.
+
+656
+00:33:23,899 --> 00:33:25,950
+Algernon: Well, what shall we do?
+
+657
+00:33:25,950 --> 00:33:27,049
+Jack: Nothing!
+
+658
+00:33:27,049 --> 00:33:30,850
+Algernon: Doing nothing is very hard work.
+
+659
+00:33:30,850 --> 00:33:36,929
+However, I don't mind very hard work if there
+is nothing definite to do.
+
+660
+00:33:36,929 --> 00:33:37,929
+(Lane enters)
+
+661
+00:33:37,929 --> 00:33:40,509
+Lane: Miss Fairfax has returned, sir.
+
+662
+00:33:40,509 --> 00:33:41,509
+(Gwendolen enters.
+
+663
+00:33:41,509 --> 00:33:42,509
+Lane goes off)
+
+664
+00:33:42,509 --> 00:33:43,509
+Algernon: Gwendolen.
+
+665
+00:33:43,509 --> 00:33:44,509
+Hello!
+
+666
+00:33:44,509 --> 00:33:45,509
+Gwendolen: Algy, please go away.
+
+667
+00:33:45,509 --> 00:33:49,470
+I have something which I want to say to Mr
+Worthing in private.
+
+668
+00:33:49,470 --> 00:33:50,859
+Algernon: Really, Gwendolen.
+
+669
+00:33:50,859 --> 00:33:53,789
+I don't think I can allow you to do that.
+
+670
+00:33:53,789 --> 00:33:57,049
+Gwendolen: Algy, you are not quite old enough
+to say things like that.
+
+671
+00:33:57,049 --> 00:33:58,049
+(Algernon goes to the other side of the room
+near the fireplace and stands with his back
+
+672
+00:33:58,049 --> 00:33:59,049
+to them)
+
+673
+00:33:59,049 --> 00:34:01,230
+Jack: My own darling!
+
+674
+00:34:01,230 --> 00:34:04,570
+Gwendolen: Ernest, we may never be married.
+
+675
+00:34:04,570 --> 00:34:07,980
+I saw the frown on Mama's face.
+
+676
+00:34:07,980 --> 00:34:12,590
+Few parents these days pay attention to what
+their children say to them.
+
+677
+00:34:12,590 --> 00:34:17,860
+I was three years old the last time I had
+any influence over my mother.
+
+678
+00:34:17,860 --> 00:34:22,070
+Ernest, she may stop us from getting married.
+
+679
+00:34:22,070 --> 00:34:28,410
+I may get married to someone else, I may get
+married again and again - but nothing will
+
+680
+00:34:28,410 --> 00:34:30,440
+ever change my love for you.
+
+681
+00:34:30,440 --> 00:34:32,210
+Jack: Dear Gwendolen!
+
+682
+00:34:32,210 --> 00:34:36,500
+Gwendolen: Mama told me the romantic story
+of your birth.
+
+683
+00:34:36,500 --> 00:34:39,870
+She is displeased about it, but I love it.
+
+684
+00:34:39,870 --> 00:34:43,160
+Your name - Ernest - fascinates me.
+
+685
+00:34:43,160 --> 00:34:49,910
+You are so simple and good-natured and that
+makes you wonderfully complicated.
+
+686
+00:34:49,910 --> 00:34:53,680
+I've got your town address at The Albany.
+
+687
+00:34:53,680 --> 00:34:55,420
+What is your address in the country?
+
+688
+00:34:55,420 --> 00:34:57,340
+Jack: The Manor House, Woolton, Hertfordshire.
+
+689
+00:34:57,340 --> 00:35:00,950
+(Algernon, who has turned round and has been
+carefully listening, smiles to himself and
+
+690
+00:35:00,950 --> 00:35:01,950
+writes the address on the cuff of his shirt.
+
+691
+00:35:01,950 --> 00:35:02,950
+Then he picks up a railway timetable from
+a shelf)
+
+692
+00:35:02,950 --> 00:35:04,140
+Gwendolen: It may be necessary to do something
+impetuous.
+
+693
+00:35:04,140 --> 00:35:06,780
+We will have to think carefully about this.
+
+694
+00:35:06,780 --> 00:35:08,770
+I will write to you every day.
+
+695
+00:35:08,770 --> 00:35:10,490
+Jack: My own one!
+
+696
+00:35:10,490 --> 00:35:12,210
+Gwendolen: How long will you be in town?
+
+697
+00:35:12,210 --> 00:35:13,490
+Jack: Till Monday.
+
+698
+00:35:13,490 --> 00:35:15,050
+Gwendolen: Good!
+
+699
+00:35:15,050 --> 00:35:17,220
+Algy, you may turn round now.
+
+700
+00:35:17,220 --> 00:35:20,020
+Algernon: Thanks, I have turned round already.
+
+701
+00:35:20,020 --> 00:35:23,360
+Gwendolen: You may also ring the bell for
+Lane to take me to the door.
+
+702
+00:35:23,360 --> 00:35:24,680
+(Algernon rings the bell)
+
+703
+00:35:24,680 --> 00:35:26,990
+Jack: Let me take you to the door, my own
+darling.
+
+704
+00:35:26,990 --> 00:35:27,990
+Gwendolen: Certainly.
+
+705
+00:35:27,990 --> 00:35:30,950
+Jack: (To Lane, who now enters) I will take
+Miss Fairfax to the door.
+
+706
+00:35:30,950 --> 00:35:31,950
+Lane: Yes, sir.
+
+707
+00:35:31,950 --> 00:35:32,980
+(Jack and Gwendolen go off)
+
+708
+00:35:32,980 --> 00:35:35,540
+Algernon: Bring me a glass of wine, Lane.
+
+709
+00:35:35,540 --> 00:35:37,280
+Lane: Yes, sir.
+
+710
+00:35:37,280 --> 00:35:40,380
+Algernon: Tomorrow, Lane, I'm going Bunburying.
+
+711
+00:35:40,380 --> 00:35:41,990
+Lane: Yes, sir.
+
+712
+00:35:41,990 --> 00:35:45,140
+Algernon: I shall probably not be back till
+Monday.
+
+713
+00:35:45,140 --> 00:35:51,350
+Pack my evening clothes, some casual clothes
+and all my Bunbury suits...
+
+714
+00:35:51,350 --> 00:35:52,350
+Lane: Yes, sir.
+
+715
+00:35:52,350 --> 00:35:53,350
+(Handing Algernon his glass of wine)
+
+716
+00:35:53,350 --> 00:35:56,530
+Algernon: I hope that tomorrow is a fine day,
+Lane.
+
+717
+00:35:56,530 --> 00:35:58,680
+Lane: It never is, sir.
+
+718
+00:35:58,680 --> 00:36:00,820
+Algernon: Lane, you are a pessimist.
+
+719
+00:36:00,820 --> 00:36:02,580
+Lane: I do my best, sir.
+
+720
+00:36:02,580 --> 00:36:03,580
+(Jack enters.
+
+721
+00:36:03,580 --> 00:36:04,580
+Lane goes off)
+
+722
+00:36:04,580 --> 00:36:07,600
+Jack: What a sensible, intelligent girl!
+
+723
+00:36:07,600 --> 00:36:10,111
+The only girl I've ever cared for in my life.
+
+724
+00:36:10,111 --> 00:36:13,280
+(Algernon is laughing loudly) What on earth
+are you laughing at?
+
+725
+00:36:13,280 --> 00:36:18,210
+Algernon: Oh, I'm a bit worried about poor
+Bunbury, that is all.
+
+726
+00:36:18,210 --> 00:36:22,670
+Jack: Your friend Bunbury will get you into
+trouble one day, you know.
+
+727
+00:36:22,670 --> 00:36:25,580
+Algernon: I love trouble.
+
+728
+00:36:25,580 --> 00:36:28,190
+It's the only thing which is never serious.
+
+729
+00:36:28,190 --> 00:36:30,380
+Jack: Oh, that's nonsense, Algy.
+
+730
+00:36:30,380 --> 00:36:32,050
+You never talk anything but nonsense.
+
+731
+00:36:32,050 --> 00:36:33,050
+Algernon: Nobody ever does.
+
+732
+00:36:33,050 --> 00:36:35,220
+(Jack shakes his head at him and leaves the
+room.
+
+733
+00:36:35,220 --> 00:36:43,370
+Algernon lights a cigarette, looks at his
+shirt-cuff and smiles)
+
+734
+00:36:43,370 --> 00:36:44,370
+ACT TWO
+
+735
+00:36:44,370 --> 00:36:46,020
+(The garden at the Manor House in Woolton,
+Hertfordshire, Jack Worthing's country home.
+
+736
+00:36:46,020 --> 00:36:47,880
+Miss Prism is sitting at a table.
+
+737
+00:36:47,880 --> 00:36:48,940
+Cecily is watering flowers)
+
+738
+00:36:48,940 --> 00:36:50,270
+Miss Prism: (Calling) Cecily, Cecily!
+
+739
+00:36:50,270 --> 00:36:55,810
+I think that watering flowers is a servant's
+occupation rather than yours, especially at
+
+740
+00:36:55,810 --> 00:37:00,170
+a moment when the pleasures of education are
+waiting for you.
+
+741
+00:37:00,170 --> 00:37:02,150
+Your German grammar book is on the table.
+
+742
+00:37:02,150 --> 00:37:05,150
+Please open it at page fifteen.
+
+743
+00:37:05,150 --> 00:37:07,020
+We will do yesterday's lesson again.
+
+744
+00:37:07,020 --> 00:37:12,550
+Cecily: (Coming over to the table very slowly)
+But I don't like German.
+
+745
+00:37:12,550 --> 00:37:14,110
+It isn't a very pretty language.
+
+746
+00:37:14,110 --> 00:37:16,590
+I know that I look quite ugly after my German
+lesson.
+
+747
+00:37:16,590 --> 00:37:23,180
+Miss Prism: Child, your guardian is anxious
+that you improve yourself in every way.
+
+748
+00:37:23,180 --> 00:37:29,550
+As he was leaving for town yesterday, he reminded
+me how important your German is.
+
+749
+00:37:29,550 --> 00:37:35,080
+Indeed he always reminds me how important
+your German is when he is leaving for town.
+
+750
+00:37:35,080 --> 00:37:38,730
+Cecily: Dear Uncle Jack is so very serious!
+
+751
+00:37:38,730 --> 00:37:42,600
+Sometimes he is so serious that I think he
+must be ill.
+
+752
+00:37:42,600 --> 00:37:46,280
+Miss Prism: (Sitting up very straight in her
+chair) Your guardian's health is excellent
+
+753
+00:37:46,280 --> 00:37:54,010
+and his seriousness - indeed his earnestness
+- is very admirable in such a young man.
+
+754
+00:37:54,010 --> 00:37:59,470
+I do not know anyone else who has such a good
+sense of duty and responsibility.
+
+755
+00:37:59,470 --> 00:38:05,360
+Cecily: I suppose that is why he often seems
+a little bored when we three are together.
+
+756
+00:38:05,360 --> 00:38:06,740
+Miss Prism: Cecily!
+
+757
+00:38:06,740 --> 00:38:09,050
+I am surprised at you.
+
+758
+00:38:09,050 --> 00:38:12,120
+Mr Worthing has many troubles in his life.
+
+759
+00:38:12,120 --> 00:38:18,501
+You must remember that he is always worried
+about that unfortunate young man, his brother
+
+760
+00:38:18,501 --> 00:38:19,501
+Ernest.
+
+761
+00:38:19,501 --> 00:38:26,460
+Cecily: I wish Uncle Jack would allow that
+unfortunate young man, his brother Ernest,
+
+762
+00:38:26,460 --> 00:38:27,500
+to come here sometimes.
+
+763
+00:38:27,500 --> 00:38:31,490
+We might have a good influence on him, Miss
+Prism.
+
+764
+00:38:31,490 --> 00:38:33,730
+I am sure that you would.
+
+765
+00:38:33,730 --> 00:38:39,570
+You know German and geology and all kinds
+of things that influence a man very much.
+
+766
+00:38:39,570 --> 00:38:40,720
+(Cecily begins to write in her diary)
+
+767
+00:38:40,720 --> 00:38:45,210
+Miss Prism: (Shaking her head) I do not think
+that even I could have a good influence on
+
+768
+00:38:45,210 --> 00:38:46,490
+his character.
+
+769
+00:38:46,490 --> 00:38:52,300
+Mr Worthing himself says that his brother's
+character is weak and indecisive.
+
+770
+00:38:52,300 --> 00:38:56,760
+Indeed, I wouldn't want to have a good influence
+on him.
+
+771
+00:38:56,760 --> 00:39:02,920
+I do not approve of this modern desire to
+turn bad people into good people at a moment's
+
+772
+00:39:02,920 --> 00:39:03,920
+notice.
+
+773
+00:39:03,920 --> 00:39:07,420
+I think he should suffer because of his misbehaviour.
+
+774
+00:39:07,420 --> 00:39:09,790
+You must put away your diary, Cecily.
+
+775
+00:39:09,790 --> 00:39:12,830
+I really don't understand why you keep a diary
+at all.
+
+776
+00:39:12,830 --> 00:39:19,510
+Cecily: I keep a diary in order to write down
+the wonderful secrets of my life.
+
+777
+00:39:19,510 --> 00:39:23,420
+If I didn't write them down, I should probably
+forget all about them.
+
+778
+00:39:23,420 --> 00:39:28,260
+Miss Prism: Our memory is the diary that we
+all have with us.
+
+779
+00:39:28,260 --> 00:39:36,020
+Cecily: Yes, but our memory usually remembers
+things that have never happened and couldn't
+
+780
+00:39:36,020 --> 00:39:37,020
+possibly have happened.
+
+781
+00:39:37,020 --> 00:39:42,360
+I believe that memory is responsible for all
+the three-volume novels people write.
+
+782
+00:39:42,360 --> 00:39:47,320
+Miss Prism: Do not be dismissive of the three-volume
+novel, Cecily.
+
+783
+00:39:47,320 --> 00:39:49,780
+I wrote one myself a long time ago.
+
+784
+00:39:49,780 --> 00:39:51,360
+Cecily: Did you really, Miss Prism?
+
+785
+00:39:51,360 --> 00:39:52,680
+How wonderfully clever you are!
+
+786
+00:39:52,680 --> 00:39:55,780
+I hope it did not end happily!
+
+787
+00:39:55,780 --> 00:40:00,520
+I don't like novels that end happily.
+
+788
+00:40:00,520 --> 00:40:02,610
+They depress me so much.
+
+789
+00:40:02,610 --> 00:40:06,980
+Miss Prism: The good people ended happily.
+
+790
+00:40:06,980 --> 00:40:09,590
+The bad people ended unhappily.
+
+791
+00:40:09,590 --> 00:40:11,640
+That is fiction.
+
+792
+00:40:11,640 --> 00:40:13,420
+Cecily: I suppose so.
+
+793
+00:40:13,420 --> 00:40:15,680
+But it seems very unfair.
+
+794
+00:40:15,680 --> 00:40:18,850
+And was your novel ever published?
+
+795
+00:40:18,850 --> 00:40:22,920
+Miss Prism: I am sad to say it was not.
+
+796
+00:40:22,920 --> 00:40:26,320
+The manuscript, unfortunately, was lost.
+
+797
+00:40:26,320 --> 00:40:29,020
+Now, start work, child.
+
+798
+00:40:29,020 --> 00:40:31,110
+There is no point in thinking about these
+things.
+
+799
+00:40:31,110 --> 00:40:36,600
+Cecily: (Smiling) But I see dear Canon Chasuble
+coming towards us through the garden.
+
+800
+00:40:36,600 --> 00:40:38,880
+Miss Prism: (Standing up and going towards
+Canon Chasuble) Canon Chasuble!
+
+801
+00:40:38,880 --> 00:40:41,080
+It is indeed a pleasure to see you.
+
+802
+00:40:41,080 --> 00:40:44,270
+Chasuble: And how are we today?
+
+803
+00:40:44,270 --> 00:40:46,690
+Miss Prism, you are, I hope, well?
+
+804
+00:40:46,690 --> 00:40:51,480
+Cecily: Miss Prism has just been complaining
+of a slight headache.
+
+805
+00:40:51,480 --> 00:40:56,920
+I think that it would do her good to have
+a short walk with you in the park, Canon Chasuble.
+
+806
+00:40:56,920 --> 00:41:01,410
+Miss Prism: Cecily, I have not mentioned anything
+about a headache.
+
+807
+00:41:01,410 --> 00:41:09,110
+Cecily: No, dear Miss Prism, I know that,
+but I felt that you had a headache.
+
+808
+00:41:09,110 --> 00:41:15,850
+Indeed, I was thinking about that, and not
+about my German lesson, when Canon Chasuble
+
+809
+00:41:15,850 --> 00:41:16,850
+arrived.
+
+810
+00:41:16,850 --> 00:41:20,250
+Chasuble: I hope, Cecily, that you pay attention
+to your lessons.
+
+811
+00:41:20,250 --> 00:41:23,140
+Cecily: Oh, I am afraid I do not!
+
+812
+00:41:23,140 --> 00:41:25,640
+Chasuble: That is strange.
+
+813
+00:41:25,640 --> 00:41:30,670
+If I were Miss Prism's pupil, I would always
+pay attention.
+
+814
+00:41:30,670 --> 00:41:33,350
+Has Mr Worthing returned from town yet?
+
+815
+00:41:33,350 --> 00:41:36,500
+Miss Prism: We expect him on Monday afternoon.
+
+816
+00:41:36,500 --> 00:41:41,770
+Chasuble: Ah, yes, he usually likes to spend
+his Sundays in London.
+
+817
+00:41:41,770 --> 00:41:47,990
+He is an earnest young man who does not always
+look for pleasure as, I believe, his younger
+
+818
+00:41:47,990 --> 00:41:49,270
+brother does.
+
+819
+00:41:49,270 --> 00:41:53,150
+I will see you both at church later, shall
+I?
+
+820
+00:41:53,150 --> 00:41:59,070
+Miss Prism: I think, dear Canon, I will have
+a walk with you.
+
+821
+00:41:59,070 --> 00:42:03,890
+I find I have a headache after all and a walk
+might do it good.
+
+822
+00:42:03,890 --> 00:42:08,780
+Canon Chasuble: It would be a pleasure, Miss
+Prism, a pleasure.
+
+823
+00:42:08,780 --> 00:42:12,470
+Let us go to the end of the garden and back.
+
+824
+00:42:12,470 --> 00:42:15,870
+Miss Prism: That would be delightful.
+
+825
+00:42:15,870 --> 00:42:19,510
+Cecily, you will read your Political Economy
+in my absence.
+
+826
+00:42:19,510 --> 00:42:21,040
+(Miss Prism goes down the garden with Canon
+Chasuble)
+
+827
+00:42:21,040 --> 00:42:23,350
+Cecily: Oh horrid Political Economy!
+
+828
+00:42:23,350 --> 00:42:24,350
+Horrid German!
+
+829
+00:42:24,350 --> 00:42:26,010
+(Merriman enters with a visiting card on a
+silver tray)
+
+830
+00:42:26,010 --> 00:42:29,690
+Merriman: Mr Ernest Worthing has just arrived
+from the station.
+
+831
+00:42:29,690 --> 00:42:31,980
+He has brought his luggage with him.
+
+832
+00:42:31,980 --> 00:42:38,410
+Cecily: (Taking the card and reading it) 'Mr
+Ernest Worthing, B.4, The Albany, London.'
+
+833
+00:42:38,410 --> 00:42:41,590
+He must be Uncle Jack's brother!
+
+834
+00:42:41,590 --> 00:42:44,810
+Have you told him Uncle Jack is in town?
+
+835
+00:42:44,810 --> 00:42:46,310
+Merriman: Yes, miss.
+
+836
+00:42:46,310 --> 00:42:48,390
+He seemed very disappointed.
+
+837
+00:42:48,390 --> 00:42:52,210
+I told him that you and Miss Prism were in
+the garden.
+
+838
+00:42:52,210 --> 00:42:56,440
+He said he was anxious to speak to you privately
+for a moment.
+
+839
+00:42:56,440 --> 00:42:59,480
+Cecily: Ask Mr Ernest Worthing to come here.
+
+840
+00:42:59,480 --> 00:43:01,850
+And you had better talk to the housekeeper
+about a bedroom for him.
+
+841
+00:43:01,850 --> 00:43:03,300
+Merriman: Yes, miss.
+
+842
+00:43:03,300 --> 00:43:04,750
+(Merriman goes off)
+
+843
+00:43:04,750 --> 00:43:08,820
+Cecily: (To herself) I have never met a really
+wicked person before.
+
+844
+00:43:08,820 --> 00:43:10,810
+I feel rather frightened.
+
+845
+00:43:10,810 --> 00:43:15,050
+I am so afraid that he will look just like
+everyone else.
+
+846
+00:43:15,050 --> 00:43:17,390
+(Algernon enters looking very handsome and
+fashionable) Oh dear, he does!
+
+847
+00:43:17,390 --> 00:43:22,090
+Algernon: (Raising his hat) You are my little
+cousin, Cecily, I'm sure.
+
+848
+00:43:22,090 --> 00:43:24,940
+Cecily: You are making a strange mistake.
+
+849
+00:43:24,940 --> 00:43:26,550
+I am not little.
+
+850
+00:43:26,550 --> 00:43:29,770
+In fact, I believe I am quite tall for my
+age.
+
+851
+00:43:29,770 --> 00:43:34,090
+(Algernon is rather surprised) But I am your
+cousin, Cecily.
+
+852
+00:43:34,090 --> 00:43:41,880
+You, I see from your card, are Uncle Jack's
+brother, my cousin Ernest, my wicked cousin
+
+853
+00:43:41,880 --> 00:43:42,880
+Ernest.
+
+854
+00:43:42,880 --> 00:43:43,880
+Algernon: Oh!
+
+855
+00:43:43,880 --> 00:43:47,120
+I am not really wicked at all, Cousin Cecily.
+
+856
+00:43:47,120 --> 00:43:49,650
+You mustn't think that I am wicked.
+
+857
+00:43:49,650 --> 00:43:55,440
+Cecily: If you are not wicked, then I think
+you have been deceiving us all.
+
+858
+00:43:55,440 --> 00:43:58,810
+I hope that you have not been leading a double
+life.
+
+859
+00:43:58,810 --> 00:44:04,790
+I hope you have not been pretending to be
+wicked and being really good all the time.
+
+860
+00:44:04,790 --> 00:44:06,500
+That would be hypocrisy.
+
+861
+00:44:06,500 --> 00:44:08,690
+Algernon: (Looking at her in amazement) Oh!
+
+862
+00:44:08,690 --> 00:44:13,410
+Of course, I have been rather bad.
+
+863
+00:44:13,410 --> 00:44:15,740
+Cecily: I'm glad to hear it.
+
+864
+00:44:15,740 --> 00:44:20,950
+Algernon: In fact, I think that I have been
+very wicked in my own way.
+
+865
+00:44:20,950 --> 00:44:27,210
+Cecily: I don't think you should be so proud
+of that, though I'm sure it must have been
+
+866
+00:44:27,210 --> 00:44:28,210
+very pleasant.
+
+867
+00:44:28,210 --> 00:44:31,740
+Algernon: It is much pleasanter being here
+with you.
+
+868
+00:44:31,740 --> 00:44:35,640
+Cecily: I can't understand why you are here
+at all.
+
+869
+00:44:35,640 --> 00:44:39,030
+Uncle Jack won't be back from town till Monday
+afternoon.
+
+870
+00:44:39,030 --> 00:44:41,820
+Algernon: That is a great disappointment to
+me.
+
+871
+00:44:41,820 --> 00:44:46,020
+I have to leave for London by the first train
+on Monday morning.
+
+872
+00:44:46,020 --> 00:44:49,950
+I have a business meeting that I am anxious...
+to miss!
+
+873
+00:44:49,950 --> 00:44:53,190
+Cecily: Couldn't you miss it anywhere but
+in London?
+
+874
+00:44:53,190 --> 00:44:54,190
+Algernon: No.
+
+875
+00:44:54,190 --> 00:44:56,160
+The appointment is in London.
+
+876
+00:44:56,160 --> 00:45:03,060
+Cecily: Well, of course, I know that it is
+important not to attend a business meeting.
+
+877
+00:45:03,060 --> 00:45:05,380
+That is what makes life interesting.
+
+878
+00:45:05,380 --> 00:45:09,720
+But I think you should wait till Uncle Jack
+arrives.
+
+879
+00:45:09,720 --> 00:45:13,120
+I know he wants to speak to you about your
+emigration.
+
+880
+00:45:13,120 --> 00:45:16,270
+Algernon: He wants to speak to me about...
+
+881
+00:45:16,270 --> 00:45:17,500
+I don't understand!
+
+882
+00:45:17,500 --> 00:45:19,570
+Cecily: About your emigration.
+
+883
+00:45:19,570 --> 00:45:22,810
+He has gone to town to buy your clothes.
+
+884
+00:45:22,810 --> 00:45:26,890
+Algernon: I certainly wouldn't let Jack buy
+my clothes.
+
+885
+00:45:26,890 --> 00:45:28,810
+He has no taste in ties at all.
+
+886
+00:45:28,810 --> 00:45:31,990
+Cecily: I don't think you will require ties.
+
+887
+00:45:31,990 --> 00:45:34,830
+Uncle Jack is sending you to Australia.
+
+888
+00:45:34,830 --> 00:45:36,450
+Algernon: Australia!
+
+889
+00:45:36,450 --> 00:45:38,890
+I'd rather die.
+
+890
+00:45:38,890 --> 00:45:45,290
+Cecily: Well, at dinner on Wednesday he said
+that you would have to choose between this
+
+891
+00:45:45,290 --> 00:45:47,770
+world, the next world and Australia.
+
+892
+00:45:47,770 --> 00:45:49,610
+Algernon: Oh well!
+
+893
+00:45:49,610 --> 00:45:53,580
+I don't believe Australia and the next world
+are very nice.
+
+894
+00:45:53,580 --> 00:45:56,250
+This world is good enough for me, Cousin Cecily.
+
+895
+00:45:56,250 --> 00:45:59,410
+Cecily: Ah, but are you good enough for it?
+
+896
+00:45:59,410 --> 00:46:02,290
+Algernon: I'm afraid I'm not.
+
+897
+00:46:02,290 --> 00:46:06,510
+That is why I want you to reform me.
+
+898
+00:46:06,510 --> 00:46:08,490
+Please will you do this, Cousin Cecily.
+
+899
+00:46:08,490 --> 00:46:11,970
+Cecily: I'm afraid I don't have time this
+afternoon.
+
+900
+00:46:11,970 --> 00:46:16,540
+Algernon: Well, would you mind if I reformed
+myself this afternoon?
+
+901
+00:46:16,540 --> 00:46:18,830
+Cecily: It is rather ambitious of you.
+
+902
+00:46:18,830 --> 00:46:20,060
+But I think you should try.
+
+903
+00:46:20,060 --> 00:46:22,150
+Algernon: I will.
+
+904
+00:46:22,150 --> 00:46:23,840
+I feel better already.
+
+905
+00:46:23,840 --> 00:46:26,320
+Cecily: You are looking a little worse.
+
+906
+00:46:26,320 --> 00:46:28,780
+Algernon: That is because I am hungry.
+
+907
+00:46:28,780 --> 00:46:31,930
+Cecily: How thoughtless of me.
+
+908
+00:46:31,930 --> 00:46:37,980
+I should have remembered that someone who
+is going to reform himself needs regular meals.
+
+909
+00:46:37,980 --> 00:46:39,010
+Please come in.
+
+910
+00:46:39,010 --> 00:46:40,480
+Algernon: Thank you.
+
+911
+00:46:40,480 --> 00:46:44,170
+May I have a flower for my buttonhole first?
+
+912
+00:46:44,170 --> 00:46:49,030
+I never have any appetite unless I have a
+flower for my buttonhole.
+
+913
+00:46:49,030 --> 00:46:50,430
+I'd like a pink rose.
+
+914
+00:46:50,430 --> 00:46:51,780
+Cecily: (Picking up scissors) Why?
+
+915
+00:46:51,780 --> 00:46:52,780
+(Cutting a flower)
+
+916
+00:46:52,780 --> 00:46:56,970
+Algernon: Because you are like a pink rose,
+Cousin Cecily.
+
+917
+00:46:56,970 --> 00:47:01,890
+Cecily: I don't think that it is right for
+you to talk to me like that.
+
+918
+00:47:01,890 --> 00:47:04,640
+Miss Prism doesn't say such things to me.
+
+919
+00:47:04,640 --> 00:47:07,270
+Algernon: Miss Prism must be a very short-sighted
+old lady.
+
+920
+00:47:07,270 --> 00:47:12,320
+(Cecily puts the flower in his buttonhole)
+You are the prettiest girl I have ever seen.
+
+921
+00:47:12,320 --> 00:47:15,940
+Cecily: Miss Prism says that good looks are
+a trap.
+
+922
+00:47:15,940 --> 00:47:21,300
+Algernon: They are a trap that every sensible
+man would like to be caught in.
+
+923
+00:47:21,300 --> 00:47:25,100
+Cecily: Oh, I don't think I would like to
+catch a sensible man.
+
+924
+00:47:25,100 --> 00:47:27,730
+I wouldn't know what to talk to him about.
+
+925
+00:47:27,730 --> 00:47:28,800
+(They go into the house.
+
+926
+00:47:28,800 --> 00:47:30,090
+Miss Prism and Canon Chasuble enter)
+
+927
+00:47:30,090 --> 00:47:34,170
+Miss Prism: You are on your own too much,
+Canon Chasuble.
+
+928
+00:47:34,170 --> 00:47:35,250
+You should get married.
+
+929
+00:47:35,250 --> 00:47:39,220
+Chasuble: The Early Church was very much against
+marriage.
+
+930
+00:47:39,220 --> 00:47:44,800
+Miss Prism: That is obviously the reason why
+the Early Church has not lasted to the present
+
+931
+00:47:44,800 --> 00:47:46,100
+day.
+
+932
+00:47:46,100 --> 00:47:53,050
+And you do not seem to realize, dear sir,
+that a man who remains single becomes a permanent
+
+933
+00:47:53,050 --> 00:47:54,050
+temptation.
+
+934
+00:47:54,050 --> 00:47:58,180
+Chasuble: But isn't a man equally attractive
+when he is married?
+
+935
+00:47:58,180 --> 00:48:03,010
+Miss Prism: No married man is ever attractive
+except to his wife.
+
+936
+00:48:03,010 --> 00:48:07,610
+Chasuble: And often, I've been told, he is
+not even attractive to her.
+
+937
+00:48:07,610 --> 00:48:10,510
+Miss Prism: That depends on the woman.
+
+938
+00:48:10,510 --> 00:48:15,180
+If she is a mature woman, she can be relied
+upon.
+
+939
+00:48:15,180 --> 00:48:17,990
+You cannot rely upon a young woman.
+
+940
+00:48:17,990 --> 00:48:20,710
+But where is Cecily?
+
+941
+00:48:20,710 --> 00:48:22,470
+Chasuble: Perhaps she followed us.
+
+942
+00:48:22,470 --> 00:48:24,110
+(Jack enters from the back of the garden.
+
+943
+00:48:24,110 --> 00:48:25,340
+He is wearing black mourning clothes)
+
+944
+00:48:25,340 --> 00:48:26,680
+Miss Prism: Mr Worthing!
+
+945
+00:48:26,680 --> 00:48:28,010
+Chasuble: Mr Worthing!
+
+946
+00:48:28,010 --> 00:48:30,380
+Miss Prism: This is a surprise.
+
+947
+00:48:30,380 --> 00:48:32,720
+We did not expect you till Monday afternoon.
+
+948
+00:48:32,720 --> 00:48:36,090
+Jack: (Shaking Miss Prism's hand in a tragic
+way) I have returned sooner than I expected
+
+949
+00:48:36,090 --> 00:48:37,460
+to.
+
+950
+00:48:37,460 --> 00:48:39,910
+Canon Chasuble, I hope you are well?
+
+951
+00:48:39,910 --> 00:48:46,120
+Chasuble: Dear Mr Worthing, I hope these black
+clothes do not mean that something dreadful
+
+952
+00:48:46,120 --> 00:48:47,120
+has happened?
+
+953
+00:48:47,120 --> 00:48:48,330
+Jack: My brother.
+
+954
+00:48:48,330 --> 00:48:52,030
+Miss Prism: More shameful debts and bad behaviour?
+
+955
+00:48:52,030 --> 00:48:55,340
+Chasuble: Is he still leading his wicked life?
+
+956
+00:48:55,340 --> 00:48:57,590
+Jack: (Shaking his head) Dead!
+
+957
+00:48:57,590 --> 00:49:00,090
+Chasuble: Your brother Ernest is dead?
+
+958
+00:49:00,090 --> 00:49:01,690
+Jack: Quite dead.
+
+959
+00:49:01,690 --> 00:49:05,330
+Miss Prism: What a lesson for him!
+
+960
+00:49:05,330 --> 00:49:07,480
+I hope he will learn from this.
+
+961
+00:49:07,480 --> 00:49:11,720
+Chasuble: Mr Worthing, I offer you my sincere
+condolences.
+
+962
+00:49:11,720 --> 00:49:18,390
+At least you know that you have always been
+most generous and forgiving to him.
+
+963
+00:49:18,390 --> 00:49:19,950
+Jack: Poor Ernest!
+
+964
+00:49:19,950 --> 00:49:23,090
+He had many faults, but it is very, very sad.
+
+965
+00:49:23,090 --> 00:49:27,610
+Chasuble: Very sad indeed.
+
+966
+00:49:27,610 --> 00:49:29,760
+Were you with him at the end?
+
+967
+00:49:29,760 --> 00:49:30,960
+Jack: No.
+
+968
+00:49:30,960 --> 00:49:34,810
+He died abroad; in Paris, in fact.
+
+969
+00:49:34,810 --> 00:49:38,940
+I had a telegram last night from the manager
+of the Grand Hotel in Paris.
+
+970
+00:49:38,940 --> 00:49:42,380
+Chasuble: Did the telegram mention the cause
+of death?
+
+971
+00:49:42,380 --> 00:49:45,380
+Jack: A bad cold, it seems.
+
+972
+00:49:45,380 --> 00:49:49,560
+Miss Prism: As a man sows, so shall he reap.
+
+973
+00:49:49,560 --> 00:49:52,670
+Chasuble: Charity, dear Miss Prism, charity!
+
+974
+00:49:52,670 --> 00:49:54,920
+None of us are perfect.
+
+975
+00:49:54,920 --> 00:49:59,770
+I myself am particularly sensitive to draughts.
+
+976
+00:49:59,770 --> 00:50:02,380
+Will the funeral take place here?
+
+977
+00:50:02,380 --> 00:50:03,610
+Jack: No.
+
+978
+00:50:03,610 --> 00:50:05,970
+It seems he wanted to be buried in Paris.
+
+979
+00:50:05,970 --> 00:50:07,410
+Chasuble: In Paris!
+
+980
+00:50:07,410 --> 00:50:14,110
+(Shaking his head) I don't think he was being
+very serious even at the end.
+
+981
+00:50:14,110 --> 00:50:18,330
+You will want me to mention this sad event
+in church next Sunday.
+
+982
+00:50:18,330 --> 00:50:21,080
+(Jack presses Canon Chasuble's hand very hard
+and looks very sad) My sermon on the mercy
+
+983
+00:50:21,080 --> 00:50:26,080
+of God can be used on any occasion, happy
+or sad.
+
+984
+00:50:26,080 --> 00:50:32,940
+(They all sigh) I have preached it at baptisms,
+weddings and funerals.
+
+985
+00:50:32,940 --> 00:50:39,210
+The last time I preached it was to the Society
+for the Prevention of Discontent among the
+
+986
+00:50:39,210 --> 00:50:40,530
+Upper Classes.
+
+987
+00:50:40,530 --> 00:50:45,210
+The Bishop, who was present, liked it very
+much.
+
+988
+00:50:45,210 --> 00:50:46,440
+Jack: Ah!
+
+989
+00:50:46,440 --> 00:50:47,610
+That reminds me.
+
+990
+00:50:47,610 --> 00:50:51,130
+You mentioned baptisms, I think, Canon Chasuble?
+
+991
+00:50:51,130 --> 00:50:53,580
+You know how to baptize people, I suppose?
+
+992
+00:50:53,580 --> 00:50:57,320
+(Canon Chasuble looks very surprised) I mean
+you often baptize people, don't you?
+
+993
+00:50:57,320 --> 00:51:02,440
+Miss Prism: It is, I am sorry to say, one
+of the canon's most frequent duties.
+
+994
+00:51:02,440 --> 00:51:05,360
+I have often spoken to the poorer classes
+about it.
+
+995
+00:51:05,360 --> 00:51:07,150
+But they don't take any notice.
+
+996
+00:51:07,150 --> 00:51:13,080
+Chasuble: But is there any particular child
+in whom you are interested, Mr Worthing?
+
+997
+00:51:13,080 --> 00:51:15,710
+Your brother was, I believe, unmarried?
+
+998
+00:51:15,710 --> 00:51:16,910
+Jack: Oh yes.
+
+999
+00:51:16,910 --> 00:51:21,550
+Miss Prism: (Bitterly) People who live just
+for pleasure are usually unmarried.
+
+1000
+00:51:21,550 --> 00:51:25,330
+Jack: But it is not for any child, dear canon.
+
+1001
+00:51:25,330 --> 00:51:26,330
+No!
+
+1002
+00:51:26,330 --> 00:51:31,370
+The fact is that I would like to be baptized
+myself, this afternoon, if you have nothing
+
+1003
+00:51:31,370 --> 00:51:32,470
+better to do.
+
+1004
+00:51:32,470 --> 00:51:36,930
+Chasuble: But surely, Mr Worthing, you have
+been baptized already?
+
+1005
+00:51:36,930 --> 00:51:40,370
+Jack: I don't remember anything about it.
+
+1006
+00:51:40,370 --> 00:51:44,690
+Of course, I don't know if you think I am
+a little too old now.
+
+1007
+00:51:44,690 --> 00:51:46,840
+Chasuble: Not at all.
+
+1008
+00:51:46,840 --> 00:51:50,020
+At what time would you like the ceremony performed?
+
+1009
+00:51:50,020 --> 00:51:54,650
+Jack: Oh, I'll come about five o'clock if
+that would suit you.
+
+1010
+00:51:54,650 --> 00:51:56,540
+Chasuble: Perfectly, perfectly!
+
+1011
+00:51:56,540 --> 00:52:03,190
+In fact I have two similar ceremonies to perform
+at that time - twins who were born in one
+
+1012
+00:52:03,190 --> 00:52:05,110
+of the cottages on your estate.
+
+1013
+00:52:05,110 --> 00:52:06,120
+Jack: Oh!
+
+1014
+00:52:06,120 --> 00:52:10,640
+I don't think it would be much fun to be baptized
+along with other babies.
+
+1015
+00:52:10,640 --> 00:52:12,090
+It would be childish.
+
+1016
+00:52:12,090 --> 00:52:14,170
+Would half-past five be all right?
+
+1017
+00:52:14,170 --> 00:52:15,170
+Chasuble: Of course, of course!
+
+1018
+00:52:15,170 --> 00:52:19,890
+(Taking out his watch from his pocket) And
+now, dear Mr Worthing, I will not stay any
+
+1019
+00:52:19,890 --> 00:52:23,060
+longer in this house of grief.
+
+1020
+00:52:23,060 --> 00:52:26,540
+I ask you not to grieve too much.
+
+1021
+00:52:26,540 --> 00:52:30,410
+Bitter trials are often blessings in disguise.
+
+1022
+00:52:30,410 --> 00:52:33,400
+Miss Prism: This seems to me to be an extremely
+obvious blessing.
+
+1023
+00:52:33,400 --> 00:52:34,400
+(Cecily enters from the house)
+
+1024
+00:52:34,400 --> 00:52:35,400
+Cecily: Uncle Jack!
+
+1025
+00:52:35,400 --> 00:52:36,460
+Oh, I am pleased to see you.
+
+1026
+00:52:36,460 --> 00:52:42,980
+But what horrible clothes you are wearing.
+
+1027
+00:52:42,980 --> 00:52:45,340
+Please go and change them.
+
+1028
+00:52:45,340 --> 00:52:46,340
+Miss Prism: Cecily!
+
+1029
+00:52:46,340 --> 00:52:47,340
+Chasuble: My child!
+
+1030
+00:52:47,340 --> 00:52:48,340
+My child!
+
+1031
+00:52:48,340 --> 00:52:49,940
+(Cecily goes towards Jack, who kisses her
+forehead in a tragic way)
+
+1032
+00:52:49,940 --> 00:52:51,700
+Cecily: What is the matter, Uncle Jack?
+
+1033
+00:52:51,700 --> 00:52:52,880
+Please look happy!
+
+1034
+00:52:52,880 --> 00:52:57,610
+You look as if you have toothache, and I have
+got such a surprise for you.
+
+1035
+00:52:57,610 --> 00:53:01,240
+Who do you think is in the dining room?
+
+1036
+00:53:01,240 --> 00:53:02,240
+Your brother!
+
+1037
+00:53:02,240 --> 00:53:03,240
+Jack: Who?
+
+1038
+00:53:03,240 --> 00:53:04,840
+Cecily: Your brother Ernest.
+
+1039
+00:53:04,840 --> 00:53:07,990
+He arrived about half an hour ago.
+
+1040
+00:53:07,990 --> 00:53:09,350
+Jack: What nonsense!
+
+1041
+00:53:09,350 --> 00:53:10,550
+I haven't got a brother.
+
+1042
+00:53:10,550 --> 00:53:12,170
+Cecily: Oh, don't say that.
+
+1043
+00:53:12,170 --> 00:53:16,740
+He is still your brother even though he has
+behaved badly in the past.
+
+1044
+00:53:16,740 --> 00:53:18,310
+You mustn't be so heartless.
+
+1045
+00:53:18,310 --> 00:53:20,240
+I'll tell him to come out.
+
+1046
+00:53:20,240 --> 00:53:23,480
+And you will shake hands with him, won't you,
+Uncle Jack?
+
+1047
+00:53:23,480 --> 00:53:25,150
+(Cecily runs back into the house)
+
+1048
+00:53:25,150 --> 00:53:27,460
+Chasuble: This is very happy news.
+
+1049
+00:53:27,460 --> 00:53:33,130
+Miss Prism: Since we were just getting used
+to his departure, his sudden return seems
+
+1050
+00:53:33,130 --> 00:53:34,250
+very distressing.
+
+1051
+00:53:34,250 --> 00:53:38,220
+Jack: My brother is in the dining room?
+
+1052
+00:53:38,220 --> 00:53:40,690
+I don't know what it means.
+
+1053
+00:53:40,690 --> 00:53:42,180
+I think it is perfectly ridiculous.
+
+1054
+00:53:42,180 --> 00:53:43,330
+(Algernon and Cecily enter holding hands.
+
+1055
+00:53:43,330 --> 00:53:44,330
+They come slowly towards Jack)
+
+1056
+00:53:44,330 --> 00:53:45,330
+Good heavens!
+
+1057
+00:53:45,330 --> 00:53:46,790
+(He waves his hand to try to make Algernon
+go away)
+
+1058
+00:53:46,790 --> 00:53:50,840
+Algernon: (Holding his hand out to Jack) Brother
+Jack, I have come from town to tell you that
+
+1059
+00:53:50,840 --> 00:53:57,800
+I am very sorry for all the trouble I have
+given you and that I will behave myself better
+
+1060
+00:53:57,800 --> 00:53:58,800
+in future.
+
+1061
+00:53:58,800 --> 00:54:01,290
+(Jack glares at him and doesn't take his hand)
+
+1062
+00:54:01,290 --> 00:54:04,790
+Cecily: Uncle Jack, are you going to refuse
+to shake your brother's hand?
+
+1063
+00:54:04,790 --> 00:54:08,780
+Jack: Nothing will make me shake his hand.
+
+1064
+00:54:08,780 --> 00:54:12,040
+I think it is disgraceful that he has come
+here.
+
+1065
+00:54:12,040 --> 00:54:14,530
+He knows perfectly well why.
+
+1066
+00:54:14,530 --> 00:54:17,800
+Cecily: Uncle Jack, do be nice.
+
+1067
+00:54:17,800 --> 00:54:22,240
+There is some good in everyone.
+
+1068
+00:54:22,240 --> 00:54:27,190
+Ernest has just been telling me about his
+poor invalid friend, Mr Bunbury, whom he goes
+
+1069
+00:54:27,190 --> 00:54:28,860
+to visit very often.
+
+1070
+00:54:28,860 --> 00:54:34,640
+There must be much good in Ernest if he leaves
+London to sit by the bed of an invalid.
+
+1071
+00:54:34,640 --> 00:54:36,010
+Jack: Oh!
+
+1072
+00:54:36,010 --> 00:54:38,740
+He has been talking about Bunbury, has he?
+
+1073
+00:54:38,740 --> 00:54:45,280
+Cecily: Yes, he has told me all about poor
+Mr Bunbury and his very bad health.
+
+1074
+00:54:45,280 --> 00:54:46,450
+Jack: Bunbury!
+
+1075
+00:54:46,450 --> 00:54:51,230
+Well, I don't want him to talk to you about
+Bunbury or about anything else.
+
+1076
+00:54:51,230 --> 00:54:53,130
+It makes me furious.
+
+1077
+00:54:53,130 --> 00:54:57,810
+Algernon: Of course, I agree that I used to
+behave very badly.
+
+1078
+00:54:57,810 --> 00:55:04,030
+But I must say that I think Brother Jack's
+coldness towards me is very unkind.
+
+1079
+00:55:04,030 --> 00:55:09,170
+I expected a better welcome, especially since
+it is the first time I have come here.
+
+1080
+00:55:09,170 --> 00:55:16,460
+Cecily: Uncle Jack, if you don't shake hands
+with Ernest, I will never forgive you.
+
+1081
+00:55:16,460 --> 00:55:19,310
+Jack: You will never forgive me?
+
+1082
+00:55:19,310 --> 00:55:22,110
+Cecily: Never, never, never!
+
+1083
+00:55:22,110 --> 00:55:27,260
+Jack: Well, this is the last time I shall
+ever do it.
+
+1084
+00:55:27,260 --> 00:55:29,050
+(Shaking hands with Algernon and glaring at
+him)
+
+1085
+00:55:29,050 --> 00:55:34,270
+Chasuble: It is pleasant to see a perfect
+reconciliation, is it not?
+
+1086
+00:55:34,270 --> 00:55:36,860
+I think we should leave the brothers together.
+
+1087
+00:55:36,860 --> 00:55:39,820
+Miss Prism: Cecily, you will come with us.
+
+1088
+00:55:39,820 --> 00:55:41,540
+Cecily: Certainly, Miss Prism.
+
+1089
+00:55:41,540 --> 00:55:44,120
+My task of reconciliation is over.
+
+1090
+00:55:44,120 --> 00:55:48,120
+Chasuble: You have done something beautiful
+today, dear child.
+
+1091
+00:55:48,120 --> 00:55:58,590
+Miss Prism: We must not say these things too
+soon.
+
+1092
+00:55:58,590 --> 00:56:18,760
+Cecily: I feel very happy.
+
+1093
+00:56:18,760 --> 00:56:51,030
+(They all go off except Jack and Algernon)
+
+1094
+00:56:51,030 --> 00:57:01,180
+Jack: You young scoundrel, Algy, you must
+get out of this place as soon as possible.
+
+1095
+00:57:01,180 --> 00:57:04,160
+I don't allow any Bunburying here.
+
+1096
+00:57:04,160 --> 00:57:05,160
+(Merriman enters)
+
+1097
+00:57:05,160 --> 00:57:08,840
+Merriman: I have put Mr Ernest's things in
+the room next to yours, sir.
+
+1098
+00:57:08,840 --> 00:57:09,840
+Jack: What?
+
+1099
+00:57:09,840 --> 00:57:12,020
+Merriman: Mr Ernest's luggage, sir.
+
+1100
+00:57:12,020 --> 00:57:15,910
+I have unpacked it and put it in the room
+next to your own.
+
+1101
+00:57:15,910 --> 00:57:17,280
+Jack: His luggage?
+
+1102
+00:57:17,280 --> 00:57:19,240
+Merriman: Yes, sir.
+
+1103
+00:57:19,240 --> 00:57:26,960
+Three large suitcases, a small suitcase, two
+hat boxes and a large picnic basket.
+
+1104
+00:57:26,960 --> 00:57:30,750
+Algernon: I'm afraid I can only stay for a
+week this time.
+
+1105
+00:57:30,750 --> 00:57:34,110
+Jack: Merriman, order the carriage at once.
+
+1106
+00:57:34,110 --> 00:57:37,210
+Mr Ernest has suddenly been called back to
+town.
+
+1107
+00:57:37,210 --> 00:57:38,210
+Merriman: Yes, sir.
+
+1108
+00:57:38,210 --> 00:57:39,210
+(Merriman goes off)
+
+1109
+00:57:39,210 --> 00:57:40,980
+Algernon: What a liar you are, Jack.
+
+1110
+00:57:40,980 --> 00:57:43,510
+I have not been called back to town at all.
+
+1111
+00:57:43,510 --> 00:57:44,910
+Jack: Yes, you have.
+
+1112
+00:57:44,910 --> 00:57:47,040
+Algernon: I haven't heard anyone call me.
+
+1113
+00:57:47,040 --> 00:57:50,160
+Jack: Your duty as a gentleman calls you back.
+
+1114
+00:57:50,160 --> 00:57:55,210
+Algernon: My duty as a gentleman has never
+interfered with my pleasure at all.
+
+1115
+00:57:55,210 --> 00:57:57,970
+Jack: Yes, I quite understand that!
+
+1116
+00:57:57,970 --> 00:58:01,350
+Algernon: Well, Cecily is a darling.
+
+1117
+00:58:01,350 --> 00:58:05,200
+Jack: You are not to talk of Miss Cardew like
+that.
+
+1118
+00:58:05,200 --> 00:58:06,460
+I don't like it.
+
+1119
+00:58:06,460 --> 00:58:09,180
+Algernon: Well, I don't like your clothes.
+
+1120
+00:58:09,180 --> 00:58:11,240
+You look perfectly ridiculous in them.
+
+1121
+00:58:11,240 --> 00:58:13,390
+Why don't you go upstairs and change?
+
+1122
+00:58:13,390 --> 00:58:18,850
+It is perfectly childish to be wearing black
+clothes for a man who is going to stay in
+
+1123
+00:58:18,850 --> 00:58:21,380
+your house for a whole week as a guest.
+
+1124
+00:58:21,380 --> 00:58:25,390
+Jack: You are certainly not staying with me
+for a whole week.
+
+1125
+00:58:25,390 --> 00:58:28,320
+You have got to leave... by the four o'clock
+train.
+
+1126
+00:58:28,320 --> 00:58:32,450
+Algernon: I certainly won't leave you while
+you are in black clothes.
+
+1127
+00:58:32,450 --> 00:58:33,820
+That would be very unfriendly.
+
+1128
+00:58:33,820 --> 00:58:37,330
+Jack: Well, will you go if I change my clothes?
+
+1129
+00:58:37,330 --> 00:58:40,990
+Algernon: Yes, if you are not too long.
+
+1130
+00:58:40,990 --> 00:58:47,620
+I never saw anybody else who took so long
+to get dressed, and with such uninteresting
+
+1131
+00:58:47,620 --> 00:58:48,620
+results.
+
+1132
+00:58:48,620 --> 00:58:52,960
+Jack: Well, at least that is better than always
+being overdressed like you.
+
+1133
+00:58:52,960 --> 00:59:00,810
+Algernon: If I am occasionally overdressed,
+I make up for it by being extremely overeducated.
+
+1134
+00:59:00,810 --> 00:59:07,740
+Jack: Your vanity is silly, your behaviour
+is outrageous and your presence in my garden
+
+1135
+00:59:07,740 --> 00:59:09,600
+is ridiculous.
+
+1136
+00:59:09,600 --> 00:59:15,310
+However, you have got to catch the four o'clock
+train and I hope you will have a pleasant
+
+1137
+00:59:15,310 --> 00:59:17,140
+journey back to town.
+
+1138
+00:59:17,140 --> 00:59:20,620
+This Bunburying has not been a success for
+you.
+
+1139
+00:59:20,620 --> 00:59:21,620
+(Jack goes into the house)
+
+1140
+00:59:21,620 --> 00:59:24,800
+Algernon: (To himself) I think it has been
+a great success.
+
+1141
+00:59:24,800 --> 00:59:29,760
+I'm in love with Cecily and that is wonderful.
+
+1142
+00:59:29,760 --> 00:59:31,960
+(Cecily enters at the back of the garden.
+
+1143
+00:59:31,960 --> 00:59:34,710
+She picks up a can and starts watering the
+flowers)
+
+1144
+00:59:34,710 --> 00:59:39,650
+But I must see her before I go and make arrangements
+for some more Bunburying.
+
+1145
+00:59:39,650 --> 00:59:41,050
+Ah, there she is.
+
+1146
+00:59:41,050 --> 00:59:44,550
+Cecily: Oh, I came back to water the roses.
+
+1147
+00:59:44,550 --> 00:59:46,880
+I thought you were with Uncle Jack.
+
+1148
+00:59:46,880 --> 00:59:49,490
+Algernon: He's gone to order the carriage
+for me.
+
+1149
+00:59:49,490 --> 00:59:52,710
+Cecily: Oh, is he going to take you for a
+nice drive?
+
+1150
+00:59:52,710 --> 00:59:54,910
+Algernon: He's going to send me away.
+
+1151
+00:59:54,910 --> 00:59:56,730
+Cecily: Then we have to part?
+
+1152
+00:59:56,730 --> 00:59:58,970
+Algernon: I am afraid so.
+
+1153
+00:59:58,970 --> 01:00:00,670
+It's a very painful parting.
+
+1154
+01:00:00,670 --> 01:00:04,420
+Cecily: It is always painful to part with
+new friends.
+
+1155
+01:00:04,420 --> 01:00:09,780
+It is easy to bear the absence of old friends,
+but even a short parting from someone whom
+
+1156
+01:00:09,780 --> 01:00:13,040
+one has just met is extremely painful.
+
+1157
+01:00:13,040 --> 01:00:14,400
+Algernon: Thank you.
+
+1158
+01:00:14,400 --> 01:00:15,400
+(Merriman enters)
+
+1159
+01:00:15,400 --> 01:00:17,980
+Merriman: The carriage is at the door, sir.
+
+1160
+01:00:17,980 --> 01:00:20,500
+(Algernon looks sadly at Cecily)
+
+1161
+01:00:20,500 --> 01:00:24,530
+Cecily: It can wait, Merriman... for... five
+minutes.
+
+1162
+01:00:24,530 --> 01:00:26,040
+Merriman: Yes, miss.
+
+1163
+01:00:26,040 --> 01:00:27,550
+(Merriman goes off)
+
+1164
+01:00:27,550 --> 01:00:33,930
+Algernon: I hope, Cecily, I shall not offend
+you if I tell you that you seem to me to be
+
+1165
+01:00:33,930 --> 01:00:35,120
+perfect in every way.
+
+1166
+01:00:35,120 --> 01:00:39,970
+Cecily: I think that it is very good that
+you are so honest.
+
+1167
+01:00:39,970 --> 01:00:43,750
+If you will allow me, I will copy your words
+into my diary.
+
+1168
+01:00:43,750 --> 01:00:46,780
+(Going over to a table and starting to write
+in her diary)
+
+1169
+01:00:46,780 --> 01:00:48,750
+Algernon: Do you really keep a diary?
+
+1170
+01:00:48,750 --> 01:00:51,050
+I'd love to look at it.
+
+1171
+01:00:51,050 --> 01:00:52,590
+May I look at it?
+
+1172
+01:00:52,590 --> 01:00:53,590
+Cecily: Oh, no.
+
+1173
+01:00:53,590 --> 01:00:59,380
+(Putting her hand over it) You see, it is
+just a young girl's record of her thoughts
+
+1174
+01:00:59,380 --> 01:01:03,160
+and impressions, and of course, it is going
+to be published.
+
+1175
+01:01:03,160 --> 01:01:07,010
+When it appears in the form of a book, I hope
+you will buy a copy.
+
+1176
+01:01:07,010 --> 01:01:09,950
+But please don't stop, Ernest.
+
+1177
+01:01:09,950 --> 01:01:12,820
+I enjoy writing things down from dictation.
+
+1178
+01:01:12,820 --> 01:01:15,940
+I have got to 'perfect in every way'.
+
+1179
+01:01:15,940 --> 01:01:17,860
+You can go on.
+
+1180
+01:01:17,860 --> 01:01:20,090
+I am quite ready to write down more.
+
+1181
+01:01:20,090 --> 01:01:22,140
+Algernon: (Rather surprised, coughing) Ahem!
+
+1182
+01:01:22,140 --> 01:01:23,140
+Ahem!
+
+1183
+01:01:23,140 --> 01:01:24,600
+Cecily: Oh, don't cough, Ernest.
+
+1184
+01:01:24,600 --> 01:01:28,090
+When one is dictating, one should speak clearly
+and not cough.
+
+1185
+01:01:28,090 --> 01:01:29,350
+Besides, I can't spell a cough.
+
+1186
+01:01:29,350 --> 01:01:30,830
+(Writing as Algernon speaks)
+
+1187
+01:01:30,830 --> 01:01:34,490
+Algernon: (Speaking very quickly) Cecily,
+ever since I first looked at your wonderful
+
+1188
+01:01:34,490 --> 01:01:37,270
+beauty, I have loved you wildly, passionately,
+devotedly, hopelessly.
+
+1189
+01:01:37,270 --> 01:01:42,330
+Cecily: I don't think that you should tell
+me you love me wildly, passionately, devotedly,
+
+1190
+01:01:42,330 --> 01:01:43,330
+hopelessly.
+
+1191
+01:01:43,330 --> 01:01:46,360
+Hopelessly doesn't make much sense, does it?
+
+1192
+01:01:46,360 --> 01:01:47,360
+Algernon: Cecily.
+
+1193
+01:01:47,360 --> 01:01:48,370
+(Merriman enters)
+
+1194
+01:01:48,370 --> 01:01:51,740
+Merriman: The carriage is waiting at the door,
+sir.
+
+1195
+01:01:51,740 --> 01:01:54,510
+Algernon: Tell it to come to the door next
+week at the same time.
+
+1196
+01:01:54,510 --> 01:01:57,300
+Merriman: (Looking at Cecily, who doesn't
+say anything) Yes, sir.
+
+1197
+01:01:57,300 --> 01:01:58,300
+(Merriman goes off)
+
+1198
+01:01:58,300 --> 01:02:02,810
+Cecily: Uncle Jack would be very annoyed if
+he knew you were staying till next week at
+
+1199
+01:02:02,810 --> 01:02:03,810
+the same time.
+
+1200
+01:02:03,810 --> 01:02:05,950
+Algernon: Oh, I don't care about Jack.
+
+1201
+01:02:05,950 --> 01:02:10,130
+I don't care about anybody in the whole world
+except you.
+
+1202
+01:02:10,130 --> 01:02:12,780
+I love you, Cecily.
+
+1203
+01:02:12,780 --> 01:02:14,450
+You will marry me, won't you?
+
+1204
+01:02:14,450 --> 01:02:15,580
+Cecily: You silly boy!
+
+1205
+01:02:15,580 --> 01:02:16,580
+Of course.
+
+1206
+01:02:16,580 --> 01:02:22,010
+We have been engaged for the last three months.
+
+1207
+01:02:22,010 --> 01:02:23,950
+Algernon: For the last three months?
+
+1208
+01:02:23,950 --> 01:02:26,810
+Cecily: Yes, it will have been three months
+on Thursday.
+
+1209
+01:02:26,810 --> 01:02:29,200
+Algernon: But how did we become engaged?
+
+1210
+01:02:29,200 --> 01:02:35,620
+Cecily: Well, ever since Uncle Jack told us
+he had a very wicked younger brother, you,
+
+1211
+01:02:35,620 --> 01:02:42,430
+of course, have been the main topic of conversation
+between myself and Miss Prism.
+
+1212
+01:02:42,430 --> 01:02:45,610
+And a man who is talked about all the time
+is very attractive.
+
+1213
+01:02:45,610 --> 01:02:51,870
+And I fell in love with you, which is probably
+a bit silly of me.
+
+1214
+01:02:51,870 --> 01:02:53,770
+Algernon: Darling!
+
+1215
+01:02:53,770 --> 01:02:55,840
+And when did we become engaged?
+
+1216
+01:02:55,840 --> 01:02:58,800
+Cecily: On the fourteenth of February.
+
+1217
+01:02:58,800 --> 01:03:04,570
+I was unhappy that you didn't know I existed,
+so I made up my mind to decide the matter,
+
+1218
+01:03:04,570 --> 01:03:05,870
+one way or the other.
+
+1219
+01:03:05,870 --> 01:03:12,720
+After thinking about it for a long time, I
+decided to accept your proposal of marriage.
+
+1220
+01:03:12,720 --> 01:03:15,760
+I decided that we were engaged.
+
+1221
+01:03:15,760 --> 01:03:21,510
+And so the next day I bought this little ring
+for you to give me and I promised you that
+
+1222
+01:03:21,510 --> 01:03:23,630
+I would always wear it.
+
+1223
+01:03:23,630 --> 01:03:25,990
+Algernon: Did I give you this?
+
+1224
+01:03:25,990 --> 01:03:28,560
+It's very pretty, isn't it?
+
+1225
+01:03:28,560 --> 01:03:32,400
+Cecily: Yes, you've got wonderfully good taste,
+Ernest.
+
+1226
+01:03:32,400 --> 01:03:36,310
+It's the excuse I've given you for leading
+such a bad life.
+
+1227
+01:03:36,310 --> 01:03:39,820
+And this is the box in which I keep all your
+dear letters.
+
+1228
+01:03:39,820 --> 01:03:40,820
+(Putting a box on the table.
+
+1229
+01:03:40,820 --> 01:03:41,920
+Opening the box and bringing out a bundle
+of letters tied up with a blue ribbon)
+
+1230
+01:03:41,920 --> 01:03:43,310
+Algernon: (Sitting beside her) My letters!
+
+1231
+01:03:43,310 --> 01:03:48,010
+But, my own sweet Cecily, I have never written
+you any letters.
+
+1232
+01:03:48,010 --> 01:03:50,560
+Cecily: You needn't remind me, Ernest.
+
+1233
+01:03:50,560 --> 01:03:54,380
+I remember very well that I had to write your
+letters for you.
+
+1234
+01:03:54,380 --> 01:03:58,210
+I always wrote three times a week and sometimes
+more often.
+
+1235
+01:03:58,210 --> 01:04:01,220
+Algernon: Oh, do let me read them, Cecily.
+
+1236
+01:04:01,220 --> 01:04:04,390
+Cecily: Oh, I couldn't possibly let you do
+that.
+
+1237
+01:04:04,390 --> 01:04:07,000
+They would make you far too conceited.
+
+1238
+01:04:07,000 --> 01:04:13,080
+(Replacing the box) The three that you wrote
+me after I had broken off the engagement are
+
+1239
+01:04:13,080 --> 01:04:20,060
+so beautiful and so badly spelt that even
+now they make me cry a little when I read
+
+1240
+01:04:20,060 --> 01:04:21,060
+them.
+
+1241
+01:04:21,060 --> 01:04:22,920
+Algernon: But was our engagement ever broken
+off?
+
+1242
+01:04:22,920 --> 01:04:26,060
+Cecily: Of course it was.
+
+1243
+01:04:26,060 --> 01:04:28,080
+On the twenty-second of March.
+
+1244
+01:04:28,080 --> 01:04:30,030
+You can see the diary entry if you like.
+
+1245
+01:04:30,030 --> 01:04:34,310
+(Showing her diary) 'Today I broke off my
+engagement with Ernest.
+
+1246
+01:04:34,310 --> 01:04:36,350
+I feel it is better to do so.
+
+1247
+01:04:36,350 --> 01:04:38,690
+The weather continues to be very pleasant.'
+
+1248
+01:04:38,690 --> 01:04:41,640
+Algernon: But why on earth did you break it
+off?
+
+1249
+01:04:41,640 --> 01:04:43,420
+What had I done?
+
+1250
+01:04:43,420 --> 01:04:45,750
+I had done nothing at all.
+
+1251
+01:04:45,750 --> 01:04:50,610
+Cecily, I am very hurt indeed to hear that
+you broke it off.
+
+1252
+01:04:50,610 --> 01:04:52,230
+Particularly when the weather was so pleasant.
+
+1253
+01:04:52,230 --> 01:04:57,270
+Cecily: It wouldn't have been a very serious
+engagement if it hadn't been broken off at
+
+1254
+01:04:57,270 --> 01:04:58,430
+least once.
+
+1255
+01:04:58,430 --> 01:05:01,350
+But I forgave you before the end of the week.
+
+1256
+01:05:01,350 --> 01:05:05,680
+Algernon: What a perfect angel you are, Cecily.
+
+1257
+01:05:05,680 --> 01:05:09,130
+Cecily: You dear romantic boy.
+
+1258
+01:05:09,130 --> 01:05:11,200
+(He kisses her)
+
+1259
+01:05:11,200 --> 01:05:16,300
+Algernon: Do you promise that you'll never
+break off our engagement again, Cecily?
+
+1260
+01:05:16,300 --> 01:05:22,040
+Cecily: I don't think I could break it off
+now that I have actually met you.
+
+1261
+01:05:22,040 --> 01:05:26,560
+Besides, of course, there is your name.
+
+1262
+01:05:26,560 --> 01:05:29,910
+Algernon: (Sounding nervous) Yes, of course.
+
+1263
+01:05:29,910 --> 01:05:35,340
+Cecily: You must not laugh at me, darling,
+but it had always been a dream of mine to
+
+1264
+01:05:35,340 --> 01:05:36,540
+love someone called Ernest.
+
+1265
+01:05:36,540 --> 01:05:42,430
+(Algernon stands up and then Cecily does also)
+There is something about that name which inspires
+
+1266
+01:05:42,430 --> 01:05:44,020
+confidence.
+
+1267
+01:05:44,020 --> 01:05:48,870
+I pity any poor married woman whose husband
+is not called Ernest.
+
+1268
+01:05:48,870 --> 01:05:54,510
+Algernon: But, my dear child, couldn't you
+love me if I had another name?
+
+1269
+01:05:54,510 --> 01:05:55,790
+Cecily: But what name?
+
+1270
+01:05:55,790 --> 01:05:59,910
+Algernon: Oh, any name you like - Algernon
+- for instance...
+
+1271
+01:05:59,910 --> 01:06:03,390
+Cecily: But I don't like the name Algernon.
+
+1272
+01:06:03,390 --> 01:06:09,130
+Algernon: Well, my own dear, sweet, loving
+little darling, I can't see why you don't
+
+1273
+01:06:09,130 --> 01:06:11,190
+like the name Algernon.
+
+1274
+01:06:11,190 --> 01:06:12,990
+It is not a bad name.
+
+1275
+01:06:12,990 --> 01:06:17,270
+In fact, it is rather an aristocratic name.
+
+1276
+01:06:17,270 --> 01:06:20,040
+Half the fellows who get into the Bankruptcy
+Court are called Algernon.
+
+1277
+01:06:20,040 --> 01:06:21,040
+But seriously, Cecily...
+
+1278
+01:06:21,040 --> 01:06:28,620
+(Moving to her and making her sit down with
+him) if my name was Algy, couldn't you love
+
+1279
+01:06:28,620 --> 01:06:29,620
+me?
+
+1280
+01:06:29,620 --> 01:06:33,230
+Cecily: (Standing up) I might respect you,
+Ernest.
+
+1281
+01:06:33,230 --> 01:06:38,870
+I might admire your character, but I would
+not really want to spend very much time with
+
+1282
+01:06:38,870 --> 01:06:39,870
+you.
+
+1283
+01:06:39,870 --> 01:06:40,870
+Algernon: Ahem!
+
+1284
+01:06:40,870 --> 01:06:41,870
+Cecily!
+
+1285
+01:06:41,870 --> 01:06:47,830
+(Picking up his hat) The clergyman here is,
+I suppose, a very experienced man?
+
+1286
+01:06:47,830 --> 01:06:49,020
+Cecily: Oh, yes.
+
+1287
+01:06:49,020 --> 01:06:51,400
+Canon Chasuble is a very learned man.
+
+1288
+01:06:51,400 --> 01:06:55,400
+He has never written a single book, so you
+can imagine how much he knows.
+
+1289
+01:06:55,400 --> 01:06:59,510
+Algernon: I must see him at once about an
+important baptism...
+
+1290
+01:06:59,510 --> 01:07:01,760
+I mean... on important business.
+
+1291
+01:07:01,760 --> 01:07:02,760
+Cecily: Oh!
+
+1292
+01:07:02,760 --> 01:07:05,340
+Algernon: I shan't be away for more than half
+an hour.
+
+1293
+01:07:05,340 --> 01:07:11,030
+Cecily: We have been engaged since the fourteenth
+of February and I only met you today for the
+
+1294
+01:07:11,030 --> 01:07:16,230
+first time, so I think it is rather hard that
+you should leave me for as long as half an
+
+1295
+01:07:16,230 --> 01:07:17,230
+hour.
+
+1296
+01:07:17,230 --> 01:07:18,650
+Couldn't you make it twenty minutes?
+
+1297
+01:07:18,650 --> 01:07:20,460
+Algernon: I'll be back in no time.
+
+1298
+01:07:20,460 --> 01:07:21,760
+(He kisses her and runs down the garden)
+
+1299
+01:07:21,760 --> 01:07:24,240
+Cecily: What an impetuous boy he is!
+
+1300
+01:07:24,240 --> 01:07:26,930
+I must write about his proposal in my diary.
+
+1301
+01:07:26,930 --> 01:07:30,620
+(She sits down and writes in her diary)
+
+1302
+01:07:30,620 --> 01:07:32,620
+(Merriman enters)
+
+1303
+01:07:32,620 --> 01:07:37,750
+Merriman: A Miss Fairfax has just called to
+see Mr Worthing.
+
+1304
+01:07:37,750 --> 01:07:40,130
+She says it is on very important business.
+
+1305
+01:07:40,130 --> 01:07:42,420
+Cecily: Isn't Mr Worthing in his library?
+
+1306
+01:07:42,420 --> 01:07:46,060
+Merriman: Mr Worthing went to Canon Chasuble's
+house some time ago.
+
+1307
+01:07:46,060 --> 01:07:50,230
+Cecily: Please ask the lady to come out into
+the garden and join me.
+
+1308
+01:07:50,230 --> 01:07:52,700
+Mr Worthing is sure to be back soon.
+
+1309
+01:07:52,700 --> 01:07:53,700
+And you can bring tea.
+
+1310
+01:07:53,700 --> 01:07:54,700
+Merriman: Yes, miss.
+
+1311
+01:07:54,700 --> 01:07:55,810
+(Merriman goes off)
+
+1312
+01:07:55,810 --> 01:07:58,990
+Cecily: (To herself) Miss Fairfax!
+
+1313
+01:07:58,990 --> 01:08:03,380
+I suppose she is one of the many good women
+who help Uncle Jack with his charitable work
+
+1314
+01:08:03,380 --> 01:08:05,210
+in London.
+
+1315
+01:08:05,210 --> 01:08:09,540
+I don't really like women who are interested
+in charitable work.
+
+1316
+01:08:09,540 --> 01:08:11,540
+I think it is so presumptuous of them.
+
+1317
+01:08:11,540 --> 01:08:12,540
+(Merriman enters)
+
+1318
+01:08:12,540 --> 01:08:13,540
+Merriman: Miss Fairfax.
+
+1319
+01:08:13,540 --> 01:08:14,540
+(Gwendolen enters.
+
+1320
+01:08:14,540 --> 01:08:15,540
+Merriman goes off)
+
+1321
+01:08:15,540 --> 01:08:17,600
+Cecily: (Standing up and going to meet her)
+Let me introduce myself to you.
+
+1322
+01:08:17,600 --> 01:08:19,409
+My name is Cecily Cardew.
+
+1323
+01:08:19,409 --> 01:08:20,409
+Gwendolen: Cecily Cardew?
+
+1324
+01:08:20,409 --> 01:08:23,489
+(Moving to her and shaking hands) What a very
+sweet name!
+
+1325
+01:08:23,489 --> 01:08:26,359
+I think we are going to be great friends.
+
+1326
+01:08:26,359 --> 01:08:29,219
+I like you already more than I can say.
+
+1327
+01:08:29,219 --> 01:08:31,870
+My first impressions of people are never wrong.
+
+1328
+01:08:31,870 --> 01:08:37,710
+Cecily: How nice of you to like me so much
+when we have known each other for such a short
+
+1329
+01:08:37,710 --> 01:08:38,710
+time.
+
+1330
+01:08:38,710 --> 01:08:39,710
+Please sit down.
+
+1331
+01:08:39,710 --> 01:08:42,190
+Gwendolen: (Still standing up) I may call
+you Cecily, may I not?
+
+1332
+01:08:42,190 --> 01:08:44,029
+Cecily: Of course, with pleasure.
+
+1333
+01:08:44,029 --> 01:08:47,679
+Gwendolen: And you will always call me Gwendolen,
+won't you?
+
+1334
+01:08:47,679 --> 01:08:49,029
+Cecily: If you wish.
+
+1335
+01:08:49,029 --> 01:08:51,819
+Gwendolen: Then that is all quite settled,
+is it not?
+
+1336
+01:08:51,819 --> 01:08:53,109
+Cecily: I hope so.
+
+1337
+01:08:53,109 --> 01:08:54,109
+(A pause.
+
+1338
+01:08:54,109 --> 01:08:55,690
+Then they both sit down together)
+
+1339
+01:08:55,690 --> 01:08:59,069
+Gwendolen: Perhaps this is a good opportunity
+to tell you who I am.
+
+1340
+01:08:59,069 --> 01:09:02,009
+My father is Lord Bracknell.
+
+1341
+01:09:02,009 --> 01:09:04,549
+You have never heard of Papa, I suppose?
+
+1342
+01:09:04,549 --> 01:09:05,949
+Cecily: I don't think so.
+
+1343
+01:09:05,949 --> 01:09:12,299
+Gwendolen: Outside the family circle, Papa,
+I am glad to say, is completely unknown.
+
+1344
+01:09:12,299 --> 01:09:14,150
+I think that is quite right.
+
+1345
+01:09:14,150 --> 01:09:18,449
+The home seems to me to be the proper place
+for a man.
+
+1346
+01:09:18,449 --> 01:09:24,310
+Certainly once a man begins to neglect his
+duties at home, it makes him very attractive.
+
+1347
+01:09:24,310 --> 01:09:32,210
+Cecily, Mama, whose views on education are
+very strict, has brought me up to be extremely
+
+1348
+01:09:32,210 --> 01:09:35,109
+short-sighted; it is part of her system.
+
+1349
+01:09:35,109 --> 01:09:38,829
+So do you mind me looking at you through my
+glasses?
+
+1350
+01:09:38,829 --> 01:09:40,140
+Cecily: Oh!
+
+1351
+01:09:40,140 --> 01:09:41,759
+Not at all, Gwendolen.
+
+1352
+01:09:41,759 --> 01:09:42,759
+I like being looked at.
+
+1353
+01:09:42,759 --> 01:09:47,960
+Gwendolen: (After looking at Cecily carefully
+through a lorgnette) You are here on a short
+
+1354
+01:09:47,960 --> 01:09:49,199
+visit, I suppose?
+
+1355
+01:09:49,199 --> 01:09:50,440
+Cecily: Oh no!
+
+1356
+01:09:50,440 --> 01:09:51,710
+I live here.
+
+1357
+01:09:51,710 --> 01:09:53,620
+Gwendolen: (Severely) Really?
+
+1358
+01:09:53,620 --> 01:09:58,020
+Your mother, or an elderly female relation,
+lives here also?
+
+1359
+01:09:58,020 --> 01:09:59,020
+Cecily: Oh no!
+
+1360
+01:09:59,020 --> 01:10:03,070
+I have no mother, nor, in fact, any relations.
+
+1361
+01:10:03,070 --> 01:10:04,099
+Gwendolen: Indeed?
+
+1362
+01:10:04,099 --> 01:10:09,559
+Cecily: My dear guardian, with the help of
+Miss Prism, has the difficult task of looking
+
+1363
+01:10:09,559 --> 01:10:10,559
+after me.
+
+1364
+01:10:10,559 --> 01:10:12,119
+Gwendolen: Your guardian?
+
+1365
+01:10:12,119 --> 01:10:15,820
+Cecily: Yes, I am Mr Worthing's ward.
+
+1366
+01:10:15,820 --> 01:10:17,480
+Gwendolen: Oh!
+
+1367
+01:10:17,480 --> 01:10:21,940
+It is strange that he never mentioned to me
+that he had a ward.
+
+1368
+01:10:21,940 --> 01:10:24,020
+How secretive of him!
+
+1369
+01:10:24,020 --> 01:10:27,249
+He is becoming more interesting every hour.
+
+1370
+01:10:27,249 --> 01:10:31,090
+However, I am not sure that I am delighted
+by this news.
+
+1371
+01:10:31,090 --> 01:10:35,599
+(Standing up and going to Cecily) I have liked
+you ever since I met you, Cecily.
+
+1372
+01:10:35,599 --> 01:10:42,831
+But, now that I know you are Mr Worthing's
+ward, I must say that I wish you were - well
+
+1373
+01:10:42,831 --> 01:10:48,710
+- a bit older than you seem to be - and not
+quite so pretty.
+
+1374
+01:10:48,710 --> 01:10:51,550
+In fact, if I may speak candidly...
+
+1375
+01:10:51,550 --> 01:10:52,550
+Cecily: Please do!
+
+1376
+01:10:52,550 --> 01:10:58,080
+I think that when one has anything unpleasant
+to say, one should always be quite candid.
+
+1377
+01:10:58,080 --> 01:11:03,830
+Gwendolen: Well, to be quite candid, Cecily,
+I wish that you were at least forty-two years
+
+1378
+01:11:03,830 --> 01:11:06,329
+old and extremely plain.
+
+1379
+01:11:06,329 --> 01:11:09,190
+Ernest has an honourable, truthful nature.
+
+1380
+01:11:09,190 --> 01:11:11,099
+He would never be deceitful.
+
+1381
+01:11:11,099 --> 01:11:16,570
+But the most honourable men can be influenced
+by the beauty of others.
+
+1382
+01:11:16,570 --> 01:11:22,099
+Modern history, and indeed ancient history,
+give us many painful examples of what I refer
+
+1383
+01:11:22,099 --> 01:11:23,099
+to.
+
+1384
+01:11:23,099 --> 01:11:26,030
+Indeed, history would be quite unreadable
+if it were not so.
+
+1385
+01:11:26,030 --> 01:11:30,920
+Cecily: I beg your pardon, Gwendolen, did
+you say 'Ernest'?
+
+1386
+01:11:30,920 --> 01:11:32,010
+Gwendolen: Yes.
+
+1387
+01:11:32,010 --> 01:11:37,829
+Cecily: Oh, but it is not Mr Ernest Worthing
+who is my guardian.
+
+1388
+01:11:37,829 --> 01:11:39,849
+It is his brother - his elder brother.
+
+1389
+01:11:39,849 --> 01:11:44,010
+Gwendolen: (Sitting down again) Ernest never
+mentioned to me that he had a brother.
+
+1390
+01:11:44,010 --> 01:11:49,440
+Cecily: I am sorry to say that they have not
+got on well with each other for a long time.
+
+1391
+01:11:49,440 --> 01:11:50,699
+Gwendolen: Ah!
+
+1392
+01:11:50,699 --> 01:11:52,829
+I see.
+
+1393
+01:11:52,829 --> 01:11:58,460
+And now I think about it, I have never heard
+any man mention his brother.
+
+1394
+01:11:58,460 --> 01:12:01,389
+Most men don't seem to like the subject.
+
+1395
+01:12:01,389 --> 01:12:04,619
+Cecily, you have lifted a weight from my mind.
+
+1396
+01:12:04,619 --> 01:12:07,630
+I was becoming almost anxious.
+
+1397
+01:12:07,630 --> 01:12:11,850
+It would have been awful if any cloud had
+come across such a special friendship, would
+
+1398
+01:12:11,850 --> 01:12:12,909
+it not?
+
+1399
+01:12:12,909 --> 01:12:19,840
+Are you quite, quite sure that it is not Mr
+Ernest Worthing who is your guardian?
+
+1400
+01:12:19,840 --> 01:12:21,110
+Cecily: Quite sure.
+
+1401
+01:12:21,110 --> 01:12:26,269
+(A pause) In fact, I am going to be his guardian.
+
+1402
+01:12:26,269 --> 01:12:28,060
+Gwendolen: I beg your pardon?
+
+1403
+01:12:28,060 --> 01:12:33,489
+Cecily: (Shyly) Dearest Gwendolen, there is
+no reason why I should keep it a secret from
+
+1404
+01:12:33,489 --> 01:12:34,489
+you.
+
+1405
+01:12:34,489 --> 01:12:37,280
+It will be in the local newspaper next week.
+
+1406
+01:12:37,280 --> 01:12:41,440
+Mr Ernest Worthing and I are engaged to be
+married.
+
+1407
+01:12:41,440 --> 01:12:46,160
+Gwendolen: (Politely, standing up) My darling
+Cecily, I think that there must be some small
+
+1408
+01:12:46,160 --> 01:12:47,510
+mistake.
+
+1409
+01:12:47,510 --> 01:12:49,940
+Mr Ernest Worthing is engaged to me.
+
+1410
+01:12:49,940 --> 01:12:54,070
+The announcement will appear in the newspapers
+on Saturday at the latest.
+
+1411
+01:12:54,070 --> 01:12:58,469
+Cecily: (Very politely, standing up) I am
+afraid that you are mistaken.
+
+1412
+01:12:58,469 --> 01:13:01,440
+Ernest proposed to me exactly ten minutes
+ago.
+
+1413
+01:13:01,440 --> 01:13:02,550
+(Showing her diary to Gwendolen)
+
+1414
+01:13:02,550 --> 01:13:05,659
+Gwendolen: (Looking at the diary very carefully
+through her lorgnette) It is very strange
+
+1415
+01:13:05,659 --> 01:13:10,239
+because he asked me to be his wife yesterday
+afternoon at half-past five.
+
+1416
+01:13:10,239 --> 01:13:11,650
+Please check for yourself.
+
+1417
+01:13:11,650 --> 01:13:16,119
+(Producing a diary of her own) I never travel
+without my diary.
+
+1418
+01:13:16,119 --> 01:13:20,179
+One should always have something exciting
+to read on the train.
+
+1419
+01:13:20,179 --> 01:13:28,760
+I am so sorry, dear Cecily, if it is any disappointment
+to you, but I am afraid that I was his first
+
+1420
+01:13:28,760 --> 01:13:29,760
+choice.
+
+1421
+01:13:29,760 --> 01:13:36,909
+Cecily: It would make me very sad, dear Gwendolen,
+to cause you any pain, but I feel I must point
+
+1422
+01:13:36,909 --> 01:13:41,920
+out that since Ernest proposed to you he has
+clearly changed his mind.
+
+1423
+01:13:41,920 --> 01:13:46,409
+Gwendolen: (Thoughtfully) If the poor fellow
+has been trapped into making a foolish promise,
+
+1424
+01:13:46,409 --> 01:13:50,230
+it is my duty to rescue him at once - and
+firmly.
+
+1425
+01:13:50,230 --> 01:13:55,429
+Cecily: (Thoughtfully and sadly) If my dear
+boy has got into an unfortunate entanglement,
+
+1426
+01:13:55,429 --> 01:13:58,540
+I will never reproach him for it when we are
+married.
+
+1427
+01:13:58,540 --> 01:14:02,469
+Gwendolen: Are you calling me an entanglement,
+Miss Cardew?
+
+1428
+01:14:02,469 --> 01:14:05,510
+You are presumptuous.
+
+1429
+01:14:05,510 --> 01:14:11,050
+On an occasion of this kind, it becomes more
+than a duty to speak one's mind.
+
+1430
+01:14:11,050 --> 01:14:12,780
+It becomes a pleasure.
+
+1431
+01:14:12,780 --> 01:14:19,860
+Cecily: Do you suggest, Miss Fairfax, that
+I trapped Ernest into an engagement?
+
+1432
+01:14:19,860 --> 01:14:22,599
+How dare you!
+
+1433
+01:14:22,599 --> 01:14:25,690
+This is no time to pretend to have good manners.
+
+1434
+01:14:25,690 --> 01:14:29,249
+When I see a spade, I call it a spade.
+
+1435
+01:14:29,249 --> 01:14:32,900
+Gwendolen: I am glad to say that I have never
+seen a spade.
+
+1436
+01:14:32,900 --> 01:14:36,050
+It is obvious we do not live in the same social
+circle.
+
+1437
+01:14:36,050 --> 01:14:37,050
+(Merriman enters, pushing a small trolley.
+
+1438
+01:14:37,050 --> 01:14:38,050
+It holds a tablecloth, a teapot, some milk,
+sugar, plates of cakes, muffins, teacake,
+
+1439
+01:14:38,050 --> 01:14:39,050
+bread and butter, and some plates.
+
+1440
+01:14:39,050 --> 01:14:40,050
+Cecily is about to reply but doesn't while
+the servant is there)
+
+1441
+01:14:40,050 --> 01:14:42,869
+Merriman: Shall I set the table for afternoon
+tea here as usual, miss?
+
+1442
+01:14:42,869 --> 01:14:44,801
+Cecily: (Sternly, in a calm voice) Yes, as
+usual.
+
+1443
+01:14:44,801 --> 01:14:45,801
+(Merriman begins to lay the cloth on the table.
+
+1444
+01:14:45,801 --> 01:14:46,801
+There is a long pause.
+
+1445
+01:14:46,801 --> 01:14:48,040
+Cecily and Gwendolen look angrily at each
+other)
+
+1446
+01:14:48,040 --> 01:14:52,559
+Gwendolen: Are there many interesting walks
+near here, Miss Cardew?
+
+1447
+01:14:52,559 --> 01:14:55,800
+Cecily: Oh, yes, a great many.
+
+1448
+01:14:55,800 --> 01:14:59,139
+From the top of one of the hills one can see
+five counties.
+
+1449
+01:14:59,139 --> 01:15:01,510
+Gwendolen: Five counties!
+
+1450
+01:15:01,510 --> 01:15:04,460
+I don't think I should like that; I hate crowds.
+
+1451
+01:15:04,460 --> 01:15:07,639
+Cecily: (Sweetly) I suppose that is why you
+live in town.
+
+1452
+01:15:07,639 --> 01:15:11,159
+(Gwendolen doesn't answer and taps her foot
+nervously on the ground)
+
+1453
+01:15:11,159 --> 01:15:15,940
+Gwendolen: (Looking around) This is quite
+a well-kept garden, Miss Cardew.
+
+1454
+01:15:15,940 --> 01:15:18,270
+Cecily: I'm glad you like it, Miss Fairfax.
+
+1455
+01:15:18,270 --> 01:15:21,920
+Gwendolen: I had no idea there were any flowers
+in the country.
+
+1456
+01:15:21,920 --> 01:15:27,599
+Cecily: Oh, flowers are as common here, Miss
+Fairfax, as people are in London.
+
+1457
+01:15:27,599 --> 01:15:33,809
+Gwendolen: Personally, I cannot imagine how
+anyone manages to live in the country - if
+
+1458
+01:15:33,809 --> 01:15:36,429
+anybody who is anybody does.
+
+1459
+01:15:36,429 --> 01:15:40,079
+The country always bores me to death.
+
+1460
+01:15:40,079 --> 01:15:42,960
+Cecily: Would you like some tea, Miss Fairfax?
+
+1461
+01:15:42,960 --> 01:15:45,960
+Gwendolen: (Extremely politely) Yes, thank
+you.
+
+1462
+01:15:45,960 --> 01:15:47,969
+(To herself) Hateful girl!
+
+1463
+01:15:47,969 --> 01:15:49,190
+But I want some tea!
+
+1464
+01:15:49,190 --> 01:15:50,869
+Cecily: (Sweetly) Sugar?
+
+1465
+01:15:50,869 --> 01:15:53,119
+Gwendolen: No, thank you.
+
+1466
+01:15:53,119 --> 01:15:55,170
+Sugar is not fashionable anymore.
+
+1467
+01:15:55,170 --> 01:16:00,560
+(Cecily looks angrily at her, picks up the
+sugar tongs and puts four lumps of sugar into
+
+1468
+01:16:00,560 --> 01:16:01,560
+the cup)
+
+1469
+01:16:01,560 --> 01:16:02,560
+Cecily: (Severely) Cake or bread and butter?
+
+1470
+01:16:02,560 --> 01:16:03,560
+Gwendolen: (In a bored way) Bread and butter,
+please.
+
+1471
+01:16:03,560 --> 01:16:06,000
+Cake is not seen in the best houses nowadays.
+
+1472
+01:16:06,000 --> 01:16:07,000
+Cecily: (Cutting a very large slice of cake
+and putting it on the tray which Merriman
+
+1473
+01:16:07,000 --> 01:16:11,590
+is holding) Give that to Miss Fairfax.
+
+1474
+01:16:11,590 --> 01:16:12,590
+(Merriman gives Gwendolen the cake and goes
+off.
+
+1475
+01:16:12,590 --> 01:16:13,590
+Gwendolen drinks some tea and makes a face.
+
+1476
+01:16:13,590 --> 01:16:14,590
+She puts down her cup, reaches out her hand
+for the bread and butter, looks at it and
+
+1477
+01:16:14,590 --> 01:16:15,590
+finds that it is cake.
+
+1478
+01:16:15,590 --> 01:16:16,590
+She stands up angrily)
+
+1479
+01:16:16,590 --> 01:16:18,070
+Gwendolen: You have filled my tea with lumps
+of sugar.
+
+1480
+01:16:18,070 --> 01:16:23,519
+And, though I asked for bread and butter,
+you have given me cake.
+
+1481
+01:16:23,519 --> 01:16:29,909
+I am known to be sweet-tempered, but I warn
+you, Miss Cardew, you may go too far.
+
+1482
+01:16:29,909 --> 01:16:35,340
+Cecily: (Standing up) I would go any distance
+to save my poor, innocent, trusting boy from
+
+1483
+01:16:35,340 --> 01:16:37,429
+being trapped by a girl like you.
+
+1484
+01:16:37,429 --> 01:16:41,050
+Gwendolen: I have distrusted you from the
+moment I saw you.
+
+1485
+01:16:41,050 --> 01:16:43,400
+I felt you were false and deceitful.
+
+1486
+01:16:43,400 --> 01:16:46,070
+I am never wrong in such matters.
+
+1487
+01:16:46,070 --> 01:16:48,449
+My first impressions of people are always
+right.
+
+1488
+01:16:48,449 --> 01:16:51,809
+Cecily: It seems to me that I am keeping you
+from other appointments.
+
+1489
+01:16:51,809 --> 01:16:56,510
+No doubt you have many other similar calls
+to make in the area.
+
+1490
+01:16:56,510 --> 01:16:58,099
+(Jack enters)
+
+1491
+01:16:58,099 --> 01:17:01,270
+Gwendolen: (Seeing him) Ernest!
+
+1492
+01:17:01,270 --> 01:17:03,650
+My own Ernest!
+
+1493
+01:17:03,650 --> 01:17:05,239
+Jack: Gwendolen!
+
+1494
+01:17:05,239 --> 01:17:06,239
+Darling!
+
+1495
+01:17:06,239 --> 01:17:07,239
+(Offering to kiss her)
+
+1496
+01:17:07,239 --> 01:17:08,239
+Gwendolen: (Drawing away from Jack) Wait a
+moment!
+
+1497
+01:17:08,239 --> 01:17:12,500
+May I ask if you are engaged to be married
+to this young lady?
+
+1498
+01:17:12,500 --> 01:17:13,500
+(Pointing to Cecily)
+
+1499
+01:17:13,500 --> 01:17:15,059
+Jack: (Laughing) To dear little Cecily?
+
+1500
+01:17:15,059 --> 01:17:16,290
+Of course not!
+
+1501
+01:17:16,290 --> 01:17:19,980
+What could have put such an idea into your
+pretty little head?
+
+1502
+01:17:19,980 --> 01:17:21,030
+Gwendolen: Thank you.
+
+1503
+01:17:21,030 --> 01:17:22,389
+You may kiss me.
+
+1504
+01:17:22,389 --> 01:17:23,389
+(Offering her cheek)
+
+1505
+01:17:23,389 --> 01:17:27,829
+Cecily: (Very sweetly) I knew there must be
+some kind of misunderstanding, Miss Fairfax.
+
+1506
+01:17:27,829 --> 01:17:36,059
+The gentleman whose arm is at present around
+your waist is my guardian, Mr Jack Worthing.
+
+1507
+01:17:36,059 --> 01:17:37,880
+Gwendolen: I beg your pardon?
+
+1508
+01:17:37,880 --> 01:17:39,980
+Cecily: This is Uncle Jack,
+
+1509
+01:17:39,980 --> 01:17:42,489
+Gwendolen: (Pulling away from Jack) Jack!
+
+1510
+01:17:42,489 --> 01:17:43,489
+Oh!
+
+1511
+01:17:43,489 --> 01:17:44,489
+(Algernon enters)
+
+1512
+01:17:44,489 --> 01:17:45,489
+Cecily: Here is Ernest.
+
+1513
+01:17:45,489 --> 01:17:47,880
+Algernon: (Going straight to Cecily without
+noticing anyone else) My own love!
+
+1514
+01:17:47,880 --> 01:17:48,880
+(Offering to kiss her)
+
+1515
+01:17:48,880 --> 01:17:52,849
+Cecily: (Drawing away from Algernon) Wait
+a moment, Ernest!
+
+1516
+01:17:52,849 --> 01:17:58,090
+May I ask you - are you engaged to be married
+to this young lady?
+
+1517
+01:17:58,090 --> 01:18:00,170
+Algernon: (Looking around) To what young lady?
+
+1518
+01:18:00,170 --> 01:18:01,579
+Good heavens!
+
+1519
+01:18:01,579 --> 01:18:02,719
+Gwendolen!
+
+1520
+01:18:02,719 --> 01:18:03,830
+Of course not!
+
+1521
+01:18:03,830 --> 01:18:06,969
+What could have put such an idea into your
+pretty little head?
+
+1522
+01:18:06,969 --> 01:18:08,150
+Cecily: Thank you.
+
+1523
+01:18:08,150 --> 01:18:10,900
+(Offering her cheek) You may kiss me.
+
+1524
+01:18:10,900 --> 01:18:12,090
+(Algernon kisses her)
+
+1525
+01:18:12,090 --> 01:18:16,090
+Gwendolen: I felt there was some slight error,
+Miss Cardew.
+
+1526
+01:18:16,090 --> 01:18:23,260
+The gentleman whose arm is at present around
+your waist is my cousin, Mr Algernon Moncrieff.
+
+1527
+01:18:23,260 --> 01:18:30,179
+Cecily: (Breaking away from Algernon) Algernon
+Moncrieff!
+
+1528
+01:18:30,179 --> 01:18:31,179
+Oh!
+
+1529
+01:18:31,179 --> 01:18:32,179
+(The two girls move towards each other and
+put their arms around each other's waists
+
+1530
+01:18:32,179 --> 01:18:33,179
+as if for protection)
+
+1531
+01:18:33,179 --> 01:18:34,179
+Are you called Algernon?
+
+1532
+01:18:34,179 --> 01:18:35,179
+Algernon: I cannot deny it.
+
+1533
+01:18:35,179 --> 01:18:36,179
+Cecily: Oh!
+
+1534
+01:18:36,179 --> 01:18:37,179
+Gwendolen: Is your name really Jack?
+
+1535
+01:18:37,179 --> 01:18:38,179
+Jack: (Standing rather proudly) I could deny
+it if I liked.
+
+1536
+01:18:38,179 --> 01:18:39,350
+I could deny anything if I liked.
+
+1537
+01:18:39,350 --> 01:18:42,110
+But my name certainly is Jack.
+
+1538
+01:18:42,110 --> 01:18:43,460
+It has been Jack for years.
+
+1539
+01:18:43,460 --> 01:18:46,650
+Cecily: We have both been terribly deceived.
+
+1540
+01:18:46,650 --> 01:18:48,920
+Gwendolen: My poor wounded Cecily!
+
+1541
+01:18:48,920 --> 01:18:51,199
+Cecily: My poor wronged Gwendolen!
+
+1542
+01:18:51,199 --> 01:18:54,090
+Gwendolen: (Slowly and seriously) Please will
+you call me 'sister'.
+
+1543
+01:18:54,090 --> 01:18:55,090
+(They embrace.
+
+1544
+01:18:55,090 --> 01:18:56,090
+Jack and Algernon groan and walk up and down)
+
+1545
+01:18:56,090 --> 01:19:03,840
+Cecily: (Rather brightly) There is just one
+question I would like to ask my guardian.
+
+1546
+01:19:03,840 --> 01:19:06,469
+Gwendolen: A very good idea!
+
+1547
+01:19:06,469 --> 01:19:11,499
+Mr Worthing, there is just one question I
+would like permission to ask you.
+
+1548
+01:19:11,499 --> 01:19:14,349
+Where is your brother Ernest?
+
+1549
+01:19:14,349 --> 01:19:18,909
+We are both engaged to be married to your
+brother Ernest so it is important for us to
+
+1550
+01:19:18,909 --> 01:19:20,860
+know where he is at present.
+
+1551
+01:19:20,860 --> 01:19:29,190
+Jack: (Slowly and hesitantly) Gwendolen - Cecily
+- it is very painful for me but I must speak
+
+1552
+01:19:29,190 --> 01:19:30,820
+the truth.
+
+1553
+01:19:30,820 --> 01:19:36,159
+It is the first time in my life that I have
+been in such a painful position and I am quite
+
+1554
+01:19:36,159 --> 01:19:38,380
+inexperienced at doing this.
+
+1555
+01:19:38,380 --> 01:19:44,330
+However, I will tell you honestly that I have
+no brother Ernest.
+
+1556
+01:19:44,330 --> 01:19:46,079
+I have no brother at all.
+
+1557
+01:19:46,079 --> 01:19:50,110
+I have never had a brother in my life and
+I don't intend ever to have a brother in the
+
+1558
+01:19:50,110 --> 01:19:51,110
+future.
+
+1559
+01:19:51,110 --> 01:19:52,199
+Cecily: (Surprised) No brother at all?
+
+1560
+01:19:52,199 --> 01:19:53,199
+Jack: (Cheerfully) None!
+
+1561
+01:19:53,199 --> 01:19:56,090
+Gwendolen: (Severely) Did you ever have a
+brother of any kind?
+
+1562
+01:19:56,090 --> 01:19:57,199
+Jack: (Pleasantly) Never.
+
+1563
+01:19:57,199 --> 01:19:59,070
+Not of any kind.
+
+1564
+01:19:59,070 --> 01:20:02,650
+Gwendolen: I am afraid, Cecily, that neither
+of us is engaged to be married to anyone.
+
+1565
+01:20:02,650 --> 01:20:08,760
+Cecily: It is not a very pleasant position
+for a young girl suddenly to find herself
+
+1566
+01:20:08,760 --> 01:20:09,760
+in, is it?
+
+1567
+01:20:09,760 --> 01:20:11,810
+Gwendolen: Let us go into the house.
+
+1568
+01:20:11,810 --> 01:20:14,710
+They will not follow us into the house, will
+they?
+
+1569
+01:20:14,710 --> 01:20:17,780
+Cecily: No, men are so cowardly, aren't they?
+
+1570
+01:20:17,780 --> 01:20:21,989
+(They go into the house, after looking scornfully
+at the men)
+
+1571
+01:20:21,989 --> 01:20:27,040
+Jack: I suppose that this awful business is
+what you call Bunburying, is it?
+
+1572
+01:20:27,040 --> 01:20:32,329
+Algernon: (Laughing) Yes, and it's the best
+Bunburying I have ever done in my life.
+
+1573
+01:20:32,329 --> 01:20:35,610
+Jack: Well, you have no right to Bunbury here.
+
+1574
+01:20:35,610 --> 01:20:37,750
+Algernon: That is absurd.
+
+1575
+01:20:37,750 --> 01:20:41,249
+One has a right to Bunbury wherever one chooses.
+
+1576
+01:20:41,249 --> 01:20:43,469
+Every serious Bunburyist knows that.
+
+1577
+01:20:43,469 --> 01:20:45,099
+Jack: What are you saying?
+
+1578
+01:20:45,099 --> 01:20:46,519
+Serious Bunburyist?
+
+1579
+01:20:46,519 --> 01:20:47,590
+Good heavens!
+
+1580
+01:20:47,590 --> 01:20:53,400
+Algernon: Well, one must be serious about
+something if one wants to enjoy one's life.
+
+1581
+01:20:53,400 --> 01:20:56,079
+I am serious about Bunburying.
+
+1582
+01:20:56,079 --> 01:21:01,690
+I have no idea what you are serious about
+- I suppose you are serious about everything.
+
+1583
+01:21:01,690 --> 01:21:07,560
+Jack: Well, the only satisfaction I get from
+this awful business is that you won't be able
+
+1584
+01:21:07,560 --> 01:21:09,869
+to Bunbury anymore.
+
+1585
+01:21:09,869 --> 01:21:13,730
+Your friend, Bunbury, is quite finished.
+
+1586
+01:21:13,730 --> 01:21:18,180
+You won't be able to run away from town to
+the country quite so often now, Algy.
+
+1587
+01:21:18,180 --> 01:21:21,249
+And that's a very good thing.
+
+1588
+01:21:21,249 --> 01:21:26,170
+Algernon: Your brother isn't very well, is
+he, Jack?
+
+1589
+01:21:26,170 --> 01:21:28,119
+Dead, in fact.
+
+1590
+01:21:28,119 --> 01:21:32,809
+You won't be able to run away to town from
+the country quite so often now.
+
+1591
+01:21:32,809 --> 01:21:34,699
+And that's a very good thing too.
+
+1592
+01:21:34,699 --> 01:21:39,929
+Jack: And you have behaved very badly towards
+Miss Cardew.
+
+1593
+01:21:39,929 --> 01:21:48,030
+I must say that deceiving a sweet, simple
+girl like Cecily is very wicked of you.
+
+1594
+01:21:48,030 --> 01:21:50,479
+To say nothing of the fact that she is my
+ward.
+
+1595
+01:21:50,479 --> 01:21:56,500
+Algernon: I must say that deceiving a brilliant,
+clever young lady like Miss Fairfax is very
+
+1596
+01:21:56,500 --> 01:21:57,940
+wicked of you.
+
+1597
+01:21:57,940 --> 01:22:00,880
+To say nothing of the fact that she is my
+cousin.
+
+1598
+01:22:00,880 --> 01:22:04,280
+Jack: I wanted to be engaged to Gwendolen,
+that is all.
+
+1599
+01:22:04,280 --> 01:22:05,280
+I love her.
+
+1600
+01:22:05,280 --> 01:22:08,729
+Algernon: Well, I simply wanted to be engaged
+to Cecily.
+
+1601
+01:22:08,729 --> 01:22:10,139
+I adore her.
+
+1602
+01:22:10,139 --> 01:22:14,179
+Jack: There is certainly no chance of you
+marrying Miss Cardew.
+
+1603
+01:22:14,179 --> 01:22:18,389
+Algernon: I don't think there is much chance
+of you marrying Miss Fairfax, Jack.
+
+1604
+01:22:18,389 --> 01:22:21,309
+(Sitting at the table and beginning to eat
+muffins)
+
+1605
+01:22:21,309 --> 01:22:25,239
+Jack: I can't understand how you can sit there
+calmly eating muffins when we are in this
+
+1606
+01:22:25,239 --> 01:22:26,770
+awful trouble.
+
+1607
+01:22:26,770 --> 01:22:29,150
+You seem to me to be perfectly heartless.
+
+1608
+01:22:29,150 --> 01:22:34,610
+Algernon: Well, I can't eat muffins in an
+agitated manner.
+
+1609
+01:22:34,610 --> 01:22:37,030
+The butter would probably get on my cuffs.
+
+1610
+01:22:37,030 --> 01:22:40,499
+One should always eat muffins calmly.
+
+1611
+01:22:40,499 --> 01:22:42,090
+It is the only way to eat them.
+
+1612
+01:22:42,090 --> 01:22:47,489
+Jack: I think that it is perfectly heartless
+to be eating muffins at all in the circumstances.
+
+1613
+01:22:47,489 --> 01:22:52,110
+Algernon: When I am in trouble, eating is
+the only thing which makes me feel better.
+
+1614
+01:22:52,110 --> 01:22:59,249
+Indeed, when I am in very great trouble, I
+refuse everything except food and drink.
+
+1615
+01:22:59,249 --> 01:23:03,260
+At present, I am eating muffins because I
+am unhappy.
+
+1616
+01:23:03,260 --> 01:23:05,070
+Besides, I like muffins.
+
+1617
+01:23:05,070 --> 01:23:06,070
+(Standing up)
+
+1618
+01:23:06,070 --> 01:23:09,440
+Jack: (Standing up) Well, that is no reason
+why you should eat them all.
+
+1619
+01:23:09,440 --> 01:23:10,760
+(Taking the plate of muffins from Algernon)
+
+1620
+01:23:10,760 --> 01:23:13,969
+Algernon: (Offering Jack teacake) Please will
+you have teacake instead.
+
+1621
+01:23:13,969 --> 01:23:15,420
+I don't like teacake.
+
+1622
+01:23:15,420 --> 01:23:17,620
+Jack: Good heavens!
+
+1623
+01:23:17,620 --> 01:23:21,849
+I think a man may eat his own muffins in his
+own garden.
+
+1624
+01:23:21,849 --> 01:23:25,469
+Algernon: But you just said that it was perfectly
+heartless to eat muffins.
+
+1625
+01:23:25,469 --> 01:23:30,219
+Jack: I said it was perfectly heartless of
+you to eat muffins.
+
+1626
+01:23:30,219 --> 01:23:32,110
+That is very different.
+
+1627
+01:23:32,110 --> 01:23:33,270
+Algernon: Maybe.
+
+1628
+01:23:33,270 --> 01:23:35,420
+But the muffins are the same.
+
+1629
+01:23:35,420 --> 01:23:36,420
+(Taking the plate of muffins from Jack)
+
+1630
+01:23:36,420 --> 01:23:37,489
+Jack: Algy, I wish you would go.
+
+1631
+01:23:37,489 --> 01:23:41,389
+Algernon: You can't ask me to go without giving
+me some dinner.
+
+1632
+01:23:41,389 --> 01:23:44,139
+I never go without my dinner.
+
+1633
+01:23:44,139 --> 01:23:49,170
+Besides I have just arranged with Canon Chasuble
+to be baptized at a quarter to six.
+
+1634
+01:23:49,170 --> 01:23:52,320
+I am going to be baptized with the name of
+Ernest.
+
+1635
+01:23:52,320 --> 01:23:55,560
+Jack: My dear fellow, no you aren't.
+
+1636
+01:23:55,560 --> 01:23:56,809
+That is nonsense.
+
+1637
+01:23:56,809 --> 01:24:01,849
+I arranged with Canon Chasuble to be baptized
+myself at half-past five.
+
+1638
+01:24:01,849 --> 01:24:06,250
+I will, of course, take the name Ernest.
+
+1639
+01:24:06,250 --> 01:24:07,650
+Gwendolen would want me to.
+
+1640
+01:24:07,650 --> 01:24:11,170
+We cannot both be baptized with the name Ernest.
+
+1641
+01:24:11,170 --> 01:24:12,420
+It's absurd.
+
+1642
+01:24:12,420 --> 01:24:15,719
+Besides, I have a right to be baptized if
+I like.
+
+1643
+01:24:15,719 --> 01:24:18,760
+There is no evidence that I have ever been
+baptized.
+
+1644
+01:24:18,760 --> 01:24:23,449
+I think it very likely that I never was and
+so does Canon Chasuble.
+
+1645
+01:24:23,449 --> 01:24:25,349
+It is different for you.
+
+1646
+01:24:25,349 --> 01:24:27,389
+You have been baptized already.
+
+1647
+01:24:27,389 --> 01:24:30,150
+Algernon: Yes, but that was years ago.
+
+1648
+01:24:30,150 --> 01:24:33,370
+Jack: Yes, but you have been baptized.
+
+1649
+01:24:33,370 --> 01:24:35,380
+That is the important thing.
+
+1650
+01:24:35,380 --> 01:24:36,570
+Algernon: Yes indeed.
+
+1651
+01:24:36,570 --> 01:24:39,850
+So I know my health can bear it.
+
+1652
+01:24:39,850 --> 01:24:45,560
+I must say I think that it is rather dangerous
+for you to be baptized now.
+
+1653
+01:24:45,560 --> 01:24:48,699
+It might make you very unwell.
+
+1654
+01:24:48,699 --> 01:24:54,590
+You can't have forgotten that a close relative
+very nearly died in Paris this week of a bad
+
+1655
+01:24:54,590 --> 01:24:55,590
+cold.
+
+1656
+01:24:55,590 --> 01:25:00,590
+Jack: Yes, but you said yourself that a bad
+cold was not hereditary.
+
+1657
+01:25:00,590 --> 01:25:05,489
+Algernon: I know it didn't use to be - but
+it probably is now.
+
+1658
+01:25:05,489 --> 01:25:08,300
+Science is always making wonderful improvements.
+
+1659
+01:25:08,300 --> 01:25:11,070
+Jack: (Picking up the muffin plate) Oh that
+is nonsense.
+
+1660
+01:25:11,070 --> 01:25:12,800
+You always talk nonsense.
+
+1661
+01:25:12,800 --> 01:25:15,110
+Algernon: Jack - muffins again!
+
+1662
+01:25:15,110 --> 01:25:16,960
+I wish you wouldn't.
+
+1663
+01:25:16,960 --> 01:25:18,249
+There are only two left.
+
+1664
+01:25:18,249 --> 01:25:22,409
+(Taking them) I told you I was particularly
+fond of muffins.
+
+1665
+01:25:22,409 --> 01:25:24,000
+Jack: But I hate teacake.
+
+1666
+01:25:24,000 --> 01:25:28,619
+Algernon: Then why on earth do you serve teacake
+to your guests?
+
+1667
+01:25:28,619 --> 01:25:30,940
+I don't like your ideas of hospitality.
+
+1668
+01:25:30,940 --> 01:25:32,420
+Jack: Algernon!
+
+1669
+01:25:32,420 --> 01:25:34,540
+I have already told you to go.
+
+1670
+01:25:34,540 --> 01:25:37,229
+I don't want you here.
+
+1671
+01:25:37,229 --> 01:25:38,860
+Why don't you go?
+
+1672
+01:25:38,860 --> 01:25:42,469
+Algernon: Because I haven't finished my tea
+yet!
+
+1673
+01:25:42,469 --> 01:25:45,420
+I have one muffin left.
+
+1674
+01:25:45,420 --> 01:25:51,570
+(Jack groans and sits down.
+
+1675
+01:25:51,570 --> 01:25:55,269
+Algernon continues eating)
+
+1676
+01:25:55,269 --> 01:25:56,269
+ACT THREE
+
+1677
+01:25:56,269 --> 01:25:57,269
+(The living room at the Manor House.
+
+1678
+01:25:57,269 --> 01:25:59,769
+Gwendolen and Cecily are at the window looking
+out into the garden)
+
+1679
+01:25:59,769 --> 01:26:04,019
+Gwendolen: They have not followed us into
+the house, as anyone else would have done.
+
+1680
+01:26:04,019 --> 01:26:05,519
+They must be ashamed.
+
+1681
+01:26:05,519 --> 01:26:07,979
+Cecily: They have been eating muffins.
+
+1682
+01:26:07,979 --> 01:26:10,119
+That looks like repentance to me.
+
+1683
+01:26:10,119 --> 01:26:12,380
+Gwendolen: (After a pause while she thinks
+about what Cecily has said) They don't seem
+
+1684
+01:26:12,380 --> 01:26:13,739
+to notice us at all.
+
+1685
+01:26:13,739 --> 01:26:14,739
+Couldn't you cough?
+
+1686
+01:26:14,739 --> 01:26:16,739
+Cecily: But I haven't got a cough.
+
+1687
+01:26:16,739 --> 01:26:19,010
+Gwendolen: They're looking at us.
+
+1688
+01:26:19,010 --> 01:26:20,010
+How dare they!
+
+1689
+01:26:20,010 --> 01:26:21,499
+Cecily: They're coming towards us.
+
+1690
+01:26:21,499 --> 01:26:22,760
+How presumptuous of them.
+
+1691
+01:26:22,760 --> 01:26:25,550
+Gwendolen: Let us remain silent and dignified.
+
+1692
+01:26:25,550 --> 01:26:27,239
+Cecily: Certainly.
+
+1693
+01:26:27,239 --> 01:26:28,880
+It is the only thing to do now.
+
+1694
+01:26:28,880 --> 01:26:31,050
+(Jack enters, followed by Algernon.
+
+1695
+01:26:31,050 --> 01:26:34,510
+They are whistling the tune of a popular song)
+
+1696
+01:26:34,510 --> 01:26:37,469
+Gwendolen: This dignified silence is rather
+unpleasant.
+
+1697
+01:26:37,469 --> 01:26:39,530
+Cecily: Yes, I agree.
+
+1698
+01:26:39,530 --> 01:26:40,530
+It is.
+
+1699
+01:26:40,530 --> 01:26:42,460
+Gwendolen: But we will not be the first to
+speak.
+
+1700
+01:26:42,460 --> 01:26:43,510
+Cecily: Certainly not.
+
+1701
+01:26:43,510 --> 01:26:46,909
+Gwendolen: Mr Worthing, I have something to
+ask you.
+
+1702
+01:26:46,909 --> 01:26:48,909
+Your reply is extremely important.
+
+1703
+01:26:48,909 --> 01:26:51,829
+Cecily: Gwendolen, I value your common sense.
+
+1704
+01:26:51,829 --> 01:26:56,600
+Mr Moncrieff, I would be grateful if you would
+answer the following question.
+
+1705
+01:26:56,600 --> 01:26:59,960
+Why did you pretend to be my guardian's brother?
+
+1706
+01:26:59,960 --> 01:27:03,860
+Algernon: In order that I might have the opportunity
+of meeting you.
+
+1707
+01:27:03,860 --> 01:27:08,980
+Cecily: (To Gwendolen) That seems a satisfactory
+explanation, does it not?
+
+1708
+01:27:08,980 --> 01:27:11,449
+Gwendolen: Yes, dear, if you can believe him.
+
+1709
+01:27:11,449 --> 01:27:13,380
+Cecily: I don't believe him.
+
+1710
+01:27:13,380 --> 01:27:15,800
+But it is a wonderful answer.
+
+1711
+01:27:15,800 --> 01:27:17,650
+Gwendolen: That is true.
+
+1712
+01:27:17,650 --> 01:27:23,239
+If you are talking about something very serious,
+the style of what you say is much more important
+
+1713
+01:27:23,239 --> 01:27:24,780
+than the sincerity.
+
+1714
+01:27:24,780 --> 01:27:29,739
+Mr Worthing, why did you pretend to have a
+brother?
+
+1715
+01:27:29,739 --> 01:27:33,530
+Was it in order that you could come to town
+as often as possible to see me?
+
+1716
+01:27:33,530 --> 01:27:35,780
+Jack: Can you doubt that, Miss Fairfax?
+
+1717
+01:27:35,780 --> 01:27:39,090
+Gwendolen: I have very strong doubts.
+
+1718
+01:27:39,090 --> 01:27:40,739
+But I intend to ignore them.
+
+1719
+01:27:40,739 --> 01:27:45,760
+(Going closer to Cecily) Their explanations
+appear to be quite satisfactory, especially
+
+1720
+01:27:45,760 --> 01:27:46,760
+Mr Worthing's.
+
+1721
+01:27:46,760 --> 01:27:48,659
+His answer seems to me to be particularly
+truthful.
+
+1722
+01:27:48,659 --> 01:27:53,949
+Cecily: I am very happy with what Mr Moncrieff
+said.
+
+1723
+01:27:53,949 --> 01:27:58,329
+The sound of his voice alone makes me feel
+certain that I should believe him.
+
+1724
+01:27:58,329 --> 01:28:00,639
+Gwendolen: Then, do you think we should forgive
+them?
+
+1725
+01:28:00,639 --> 01:28:01,639
+Cecily: Yes...
+
+1726
+01:28:01,639 --> 01:28:03,849
+I mean no.
+
+1727
+01:28:03,849 --> 01:28:04,849
+Gwendolen: I agree!
+
+1728
+01:28:04,849 --> 01:28:07,550
+I had forgotten something.
+
+1729
+01:28:07,550 --> 01:28:10,869
+We have ideals which we must not ignore.
+
+1730
+01:28:10,869 --> 01:28:12,360
+Which of us should tell them?
+
+1731
+01:28:12,360 --> 01:28:14,159
+The task is not a pleasant one.
+
+1732
+01:28:14,159 --> 01:28:17,329
+Cecily: Could we not both speak to them at
+the same time?
+
+1733
+01:28:17,329 --> 01:28:20,150
+Gwendolen: That is an excellent idea!
+
+1734
+01:28:20,150 --> 01:28:23,150
+I nearly always speak at the same time as
+other people.
+
+1735
+01:28:23,150 --> 01:28:24,150
+Are you ready?
+
+1736
+01:28:24,150 --> 01:28:25,150
+Cecily: Certainly.
+
+1737
+01:28:25,150 --> 01:28:26,710
+(Gwendolen beats time with a finger as if
+she is conducting an orchestra)
+
+1738
+01:28:26,710 --> 01:28:30,860
+Gwendolen and Cecily: (Speaking together)
+Your first names are a problem that cannot
+
+1739
+01:28:30,860 --> 01:28:32,469
+be solved.
+
+1740
+01:28:32,469 --> 01:28:33,469
+That is all!
+
+1741
+01:28:33,469 --> 01:28:36,309
+Jack and Algernon: (Speaking together) Our
+first names!
+
+1742
+01:28:36,309 --> 01:28:37,960
+Is that all?
+
+1743
+01:28:37,960 --> 01:28:41,900
+But we are going to be baptized later this
+afternoon.
+
+1744
+01:28:41,900 --> 01:28:45,289
+Gwendolen: (To Jack) Are you really prepared
+to do this terrible thing for my sake?
+
+1745
+01:28:45,289 --> 01:28:46,289
+Jack: I am.
+
+1746
+01:28:46,289 --> 01:28:52,080
+Cecily: (To Algernon) Are you really prepared
+to face this awful ordeal to please me?
+
+1747
+01:28:52,080 --> 01:28:53,559
+Algernon: I am!
+
+1748
+01:28:53,559 --> 01:28:58,440
+Gwendolen: How absurd to talk about the equality
+of the sexes!
+
+1749
+01:28:58,440 --> 01:29:01,170
+Men are infinitely better than us at self-sacrifice.
+
+1750
+01:29:01,170 --> 01:29:02,519
+Jack: We are!
+
+1751
+01:29:02,519 --> 01:29:03,820
+(Getting hold of Algernon's hand)
+
+1752
+01:29:03,820 --> 01:29:07,239
+Cecily: They have moments of courage of which
+we women know nothing.
+
+1753
+01:29:07,239 --> 01:29:08,500
+Gwendolen: (To Jack) Darling!
+
+1754
+01:29:08,500 --> 01:29:09,750
+Cecily: (To Algernon) Darling!
+
+1755
+01:29:09,750 --> 01:29:11,639
+(They fall into each other's arms.
+
+1756
+01:29:11,639 --> 01:29:12,639
+Merriman enters.
+
+1757
+01:29:12,639 --> 01:29:13,639
+When he sees the situation, he coughs loudly)
+
+1758
+01:29:13,639 --> 01:29:14,639
+Merriman: Ahem!
+
+1759
+01:29:14,639 --> 01:29:15,639
+Ahem!
+
+1760
+01:29:15,639 --> 01:29:16,639
+Lady Bracknell is here.
+
+1761
+01:29:16,639 --> 01:29:17,639
+Jack: Good heavens!
+
+1762
+01:29:17,639 --> 01:29:18,639
+(Lady Bracknell enters.
+
+1763
+01:29:18,639 --> 01:29:19,639
+The couples separate very quickly.
+
+1764
+01:29:19,639 --> 01:29:20,639
+Merriman goes off)
+
+1765
+01:29:20,639 --> 01:29:21,639
+Lady Bracknell: Gwendolen!
+
+1766
+01:29:21,639 --> 01:29:22,639
+What does this mean?
+
+1767
+01:29:22,639 --> 01:29:26,800
+Gwendolen: It means that I am engaged to be
+married to Mr Worthing, Mama.
+
+1768
+01:29:26,800 --> 01:29:29,130
+Lady Bracknell: Come here.
+
+1769
+01:29:29,130 --> 01:29:30,730
+Sit down.
+
+1770
+01:29:30,730 --> 01:29:31,789
+Sit down immediately.
+
+1771
+01:29:31,789 --> 01:29:38,659
+(To Jack) I learnt of Gwendolen's sudden departure
+from her trusted maid, who gave me the information
+
+1772
+01:29:38,659 --> 01:29:41,830
+after I had given her a small coin.
+
+1773
+01:29:41,830 --> 01:29:44,429
+I followed her at once on the next train.
+
+1774
+01:29:44,429 --> 01:29:50,119
+Her father does not know where she is and
+I don't propose to tell him the truth.
+
+1775
+01:29:50,119 --> 01:29:52,880
+In fact, I never tell him the truth about
+anything.
+
+1776
+01:29:52,880 --> 01:29:56,199
+I would consider it wrong to do so.
+
+1777
+01:29:56,199 --> 01:30:03,900
+You must understand that all communication
+between you and my daughter must stop immediately.
+
+1778
+01:30:03,900 --> 01:30:08,300
+On this point, as indeed on all points, I
+am firm.
+
+1779
+01:30:08,300 --> 01:30:12,660
+Jack: I am engaged to be married to Gwendolen,
+Lady Bracknell!
+
+1780
+01:30:12,660 --> 01:30:15,409
+Lady Bracknell: You are not, sir.
+
+1781
+01:30:15,409 --> 01:30:16,409
+And now...
+
+1782
+01:30:16,409 --> 01:30:17,409
+Algernon...!
+
+1783
+01:30:17,409 --> 01:30:19,199
+Algernon: Yes, Aunt Augusta.
+
+1784
+01:30:19,199 --> 01:30:25,449
+Lady Bracknell: Is this the house in which
+your invalid friend Mr Bunbury lives?
+
+1785
+01:30:25,449 --> 01:30:28,110
+Algernon: (Finding it difficult to speak)
+Oh!
+
+1786
+01:30:28,110 --> 01:30:29,110
+No!
+
+1787
+01:30:29,110 --> 01:30:30,280
+Bunbury doesn't live here.
+
+1788
+01:30:30,280 --> 01:30:32,679
+Bunbury is somewhere else at present.
+
+1789
+01:30:32,679 --> 01:30:35,460
+In fact, Bunbury is dead.
+
+1790
+01:30:35,460 --> 01:30:36,890
+Lady Bracknell: Dead!
+
+1791
+01:30:36,890 --> 01:30:39,450
+When did Mr Bunbury die?
+
+1792
+01:30:39,450 --> 01:30:42,369
+His death must have been extremely sudden.
+
+1793
+01:30:42,369 --> 01:30:43,369
+Algernon: Oh!
+
+1794
+01:30:43,369 --> 01:30:45,349
+I killed Bunbury this afternoon...
+
+1795
+01:30:45,349 --> 01:30:49,210
+I mean poor Bunbury died this afternoon.
+
+1796
+01:30:49,210 --> 01:30:51,510
+Lady Bracknell: What did he die of?
+
+1797
+01:30:51,510 --> 01:30:53,659
+Algernon: Bunbury?
+
+1798
+01:30:53,659 --> 01:30:56,219
+Oh he was quite exploded.
+
+1799
+01:30:56,219 --> 01:30:57,979
+Lady Bracknell: Exploded?
+
+1800
+01:30:57,979 --> 01:31:00,610
+Was he the victim of a terrorist plot?
+
+1801
+01:31:00,610 --> 01:31:04,340
+I was not aware that Mr Bunbury was interested
+in politics.
+
+1802
+01:31:04,340 --> 01:31:07,550
+If so, he deserved his punishment.
+
+1803
+01:31:07,550 --> 01:31:13,040
+Algernon: My dear Aunt Augusta, I mean that
+he was found out!
+
+1804
+01:31:13,040 --> 01:31:19,699
+What I mean is the doctors found out that
+Bunbury could not live - so he died.
+
+1805
+01:31:19,699 --> 01:31:25,080
+Lady Bracknell: He seems to have had great
+confidence in his doctors' opinions.
+
+1806
+01:31:25,080 --> 01:31:31,060
+I am glad, however, that he made up his mind
+to do something definite and acted on proper
+
+1807
+01:31:31,060 --> 01:31:33,530
+medical advice.
+
+1808
+01:31:33,530 --> 01:31:41,659
+And now, Mr Worthing, may I ask: who is that
+young person whose hand my nephew Algernon
+
+1809
+01:31:41,659 --> 01:31:42,869
+is holding?
+
+1810
+01:31:42,869 --> 01:31:46,489
+He is holding it, I may add, in a most unnecessary
+way.
+
+1811
+01:31:46,489 --> 01:31:50,090
+Jack: The lady is Miss Cecily Cardew, my ward.
+
+1812
+01:31:50,090 --> 01:31:51,090
+(Lady Bracknell bows coldly to Cecily)
+
+1813
+01:31:51,090 --> 01:31:53,729
+Algernon: I am engaged to be married to Cecily,
+Aunt Augusta.
+
+1814
+01:31:53,729 --> 01:31:55,520
+Lady Bracknell: I beg your pardon?
+
+1815
+01:31:55,520 --> 01:31:59,440
+Cecily: Mr Moncrieff and I are engaged to
+be married, Lady Bracknell.
+
+1816
+01:31:59,440 --> 01:32:03,210
+Lady Bracknell: (Shivering, then moving over
+to the sofa and sitting down) I do not know
+
+1817
+01:32:03,210 --> 01:32:09,340
+whether there is anything very exciting about
+the air in Hertfordshire, but the number of
+
+1818
+01:32:09,340 --> 01:32:14,840
+engagements being made seems to be considerably
+above the expected average.
+
+1819
+01:32:14,840 --> 01:32:19,510
+I think that it would be a good idea for me
+to make some preliminary enquiries.
+
+1820
+01:32:19,510 --> 01:32:27,389
+Mr Worthing, is Miss Cardew connected with
+any of the larger railway stations in London?
+
+1821
+01:32:27,389 --> 01:32:30,840
+I am merely asking for information.
+
+1822
+01:32:30,840 --> 01:32:36,020
+I did not know until yesterday that there
+were families or persons who were related
+
+1823
+01:32:36,020 --> 01:32:37,020
+to railway stations.
+
+1824
+01:32:37,020 --> 01:32:42,949
+Jack: (Speaking in a cold, clear voice) Miss
+Cardew is the granddaughter of the late Mr
+
+1825
+01:32:42,949 --> 01:32:53,079
+Thomas Cardew of 149 Belgrave Square, London;
+of Gervase Park, Dorking, Surrey; and also
+
+1826
+01:32:53,079 --> 01:32:56,249
+of The Sporran, Fifeshire, Scotland.
+
+1827
+01:32:56,249 --> 01:33:00,670
+Lady Bracknell: That sounds not unsatisfactory.
+
+1828
+01:33:00,670 --> 01:33:04,039
+Three addresses always inspire confidence.
+
+1829
+01:33:04,039 --> 01:33:06,329
+But I have no proof that they are real.
+
+1830
+01:33:06,329 --> 01:33:11,309
+Jack: Miss Cardew's family lawyers are Markby,
+Markby and Markby.
+
+1831
+01:33:11,309 --> 01:33:14,809
+Lady Bracknell: Markby, Markby and Markby?
+
+1832
+01:33:14,809 --> 01:33:19,429
+They are lawyers in the very highest position
+of their profession.
+
+1833
+01:33:19,429 --> 01:33:26,130
+Indeed I know that one of the Mr Markbys is
+occasionally to be seen at dinner parties.
+
+1834
+01:33:26,130 --> 01:33:27,260
+I am almost satisfied.
+
+1835
+01:33:27,260 --> 01:33:32,670
+Jack: (Very irritably) How extremely kind
+of you, Lady Bracknell!
+
+1836
+01:33:32,670 --> 01:33:39,340
+I have also got, you will be pleased to hear,
+certificates of Miss Cardew's birth, baptism
+
+1837
+01:33:39,340 --> 01:33:46,280
+and confirmation of vaccinations for whooping
+cough and the measles - both German and English.
+
+1838
+01:33:46,280 --> 01:33:47,500
+Lady Bracknell: Ah!
+
+1839
+01:33:47,500 --> 01:33:49,260
+A busy life, I see.
+
+1840
+01:33:49,260 --> 01:33:54,019
+Though perhaps it has been too exciting for
+a young girl.
+
+1841
+01:33:54,019 --> 01:33:57,670
+I do not believe a young girl should have
+too many experiences.
+
+1842
+01:33:57,670 --> 01:33:59,460
+(Standing up and looking at her watch) Gwendolen!
+
+1843
+01:33:59,460 --> 01:34:00,590
+We must leave.
+
+1844
+01:34:00,590 --> 01:34:03,429
+We have not a moment to lose.
+
+1845
+01:34:03,429 --> 01:34:10,829
+Since I am making enquiries, Mr Worthing,
+I had better ask you if Miss Cardew has any
+
+1846
+01:34:10,829 --> 01:34:11,969
+personal fortune.
+
+1847
+01:34:11,969 --> 01:34:13,110
+Jack: Oh!
+
+1848
+01:34:13,110 --> 01:34:19,770
+She has an investment of a hundred and thirty
+thousand pounds in Government Stocks, so her
+
+1849
+01:34:19,770 --> 01:34:22,809
+annual income is very large.
+
+1850
+01:34:22,809 --> 01:34:24,050
+That is all.
+
+1851
+01:34:24,050 --> 01:34:26,309
+Goodbye, Lady Bracknell.
+
+1852
+01:34:26,309 --> 01:34:28,130
+So pleased to have seen you.
+
+1853
+01:34:28,130 --> 01:34:31,510
+Lady Bracknell: (Sitting down again) Just
+a moment, Mr Worthing.
+
+1854
+01:34:31,510 --> 01:34:34,019
+A hundred and thirty thousand pounds!
+
+1855
+01:34:34,019 --> 01:34:37,790
+And in Government Stocks!
+
+1856
+01:34:37,790 --> 01:34:45,559
+Miss Cardew seems to me to be a very attractive
+young lady, now that I look at her.
+
+1857
+01:34:45,559 --> 01:34:51,329
+Few girls today have any good qualities which
+last and improve with time.
+
+1858
+01:34:51,329 --> 01:34:55,650
+We live in a time, sadly, when beauty is the
+only important thing.
+
+1859
+01:34:55,650 --> 01:34:57,079
+(To Cecily) Come here, dear.
+
+1860
+01:34:57,079 --> 01:34:59,590
+(Cecily goes to her) You are a pretty child!
+
+1861
+01:34:59,590 --> 01:35:04,880
+Your dress is not very fashionable and your
+hair has not been styled very well.
+
+1862
+01:35:04,880 --> 01:35:07,810
+But we can soon alter that.
+
+1863
+01:35:07,810 --> 01:35:12,630
+An experienced French maid will produce a
+very good result in a short time.
+
+1864
+01:35:12,630 --> 01:35:18,769
+I remember recommending one to Lady Lancing
+and after a few months her own husband did
+
+1865
+01:35:18,769 --> 01:35:19,769
+not know her.
+
+1866
+01:35:19,769 --> 01:35:21,920
+Jack: After a few months nobody knew her.
+
+1867
+01:35:21,920 --> 01:35:24,479
+Lady Bracknell: (Glaring at Jack, then pretending
+to smile at Cecily) Turn round, sweet child.
+
+1868
+01:35:24,479 --> 01:35:27,190
+(Cecily turns completely round in a circle)
+No, I want to see you from the side.
+
+1869
+01:35:27,190 --> 01:35:29,320
+(Cecily turns round so that Lady Bracknell
+can see her: face in profile from the side)
+
+1870
+01:35:29,320 --> 01:35:31,599
+Yes, very good.
+
+1871
+01:35:31,599 --> 01:35:38,229
+There is much about your situation which is
+promising - you could fit well into good society.
+
+1872
+01:35:38,229 --> 01:35:41,300
+Hold your chin a little higher, dear.
+
+1873
+01:35:41,300 --> 01:35:43,340
+Chins are worn very high at present.
+
+1874
+01:35:43,340 --> 01:35:44,340
+Algernon!
+
+1875
+01:35:44,340 --> 01:35:45,600
+Algernon: Yes, Aunt Augusta!
+
+1876
+01:35:45,600 --> 01:35:50,600
+Lady Bracknell: There is much about her situation
+which is promising - she could fit well into
+
+1877
+01:35:50,600 --> 01:35:51,600
+good society.
+
+1878
+01:35:51,600 --> 01:35:55,719
+Algernon: Cecily is the sweetest, dearest,
+prettiest girl in the whole world.
+
+1879
+01:35:55,719 --> 01:35:58,119
+And I don't care about her fitting into good
+society.
+
+1880
+01:35:58,119 --> 01:36:02,730
+Lady Bracknell: Do not be dismissive of good
+society, Algernon.
+
+1881
+01:36:02,730 --> 01:36:06,250
+Only people who can't get into good society
+speak like that.
+
+1882
+01:36:06,250 --> 01:36:11,429
+(To Cecily) Dear child, of course Algernon
+has no money.
+
+1883
+01:36:11,429 --> 01:36:14,139
+He has nothing but his debts to bring to a
+marriage.
+
+1884
+01:36:14,139 --> 01:36:17,480
+But I do not approve of marrying for money.
+
+1885
+01:36:17,480 --> 01:36:23,479
+When I married Lord Bracknell, I had no fortune
+at all, but I didn't allow that to stand in
+
+1886
+01:36:23,479 --> 01:36:24,540
+my way.
+
+1887
+01:36:24,540 --> 01:36:29,340
+Well, I suppose I must give my consent to
+this marriage.
+
+1888
+01:36:29,340 --> 01:36:30,760
+Algernon: Thank you, Aunt Augusta.
+
+1889
+01:36:30,760 --> 01:36:33,489
+Lady Bracknell: Cecily, you may kiss me!
+
+1890
+01:36:33,489 --> 01:36:36,039
+Cecily: (Kissing her) Thank you, Lady Bracknell.
+
+1891
+01:36:36,039 --> 01:36:40,500
+Lady Bracknell: You may also call me Aunt
+Augusta in future.
+
+1892
+01:36:40,500 --> 01:36:42,179
+Cecily: Thank you, Aunt Augusta.
+
+1893
+01:36:42,179 --> 01:36:45,110
+Lady Bracknell: The marriage ought to take
+place quite soon.
+
+1894
+01:36:45,110 --> 01:36:46,690
+Algernon: Thank you, Aunt Augusta.
+
+1895
+01:36:46,690 --> 01:36:48,019
+Cecily: Thank you, Aunt Augusta.
+
+1896
+01:36:48,019 --> 01:36:51,449
+Lady Bracknell: I do not approve of long engagements.
+
+1897
+01:36:51,449 --> 01:36:56,170
+They give people a chance to find out about
+each other's character before marriage, which
+
+1898
+01:36:56,170 --> 01:36:57,599
+I think is never advisable.
+
+1899
+01:36:57,599 --> 01:37:03,660
+Jack: I beg your pardon, Lady Bracknell, but
+their engagement is not acceptable.
+
+1900
+01:37:03,660 --> 01:37:09,619
+I am Miss Cardew's guardian and she cannot
+marry without my consent until she comes of
+
+1901
+01:37:09,619 --> 01:37:10,619
+age.
+
+1902
+01:37:10,619 --> 01:37:12,309
+I will not give my consent.
+
+1903
+01:37:12,309 --> 01:37:15,630
+Lady Bracknell: Why, may I ask?
+
+1904
+01:37:15,630 --> 01:37:18,570
+Algernon is an extremely eligible young man.
+
+1905
+01:37:18,570 --> 01:37:21,940
+He has nothing, but he looks as if he has
+everything.
+
+1906
+01:37:21,940 --> 01:37:23,559
+What more can one want?
+
+1907
+01:37:23,559 --> 01:37:29,199
+Jack: I am very sorry to have to say this
+to you, Lady Bracknell, but the fact is that
+
+1908
+01:37:29,199 --> 01:37:32,400
+I do not approve of his character.
+
+1909
+01:37:32,400 --> 01:37:34,489
+I suspect that he is devious.
+
+1910
+01:37:34,489 --> 01:37:37,989
+(Algernon and Cecily look at him, amazed and
+indignant)
+
+1911
+01:37:37,989 --> 01:37:39,159
+Lady Bracknell: Devious?
+
+1912
+01:37:39,159 --> 01:37:40,330
+My nephew Algernon?
+
+1913
+01:37:40,330 --> 01:37:41,330
+Impossible!
+
+1914
+01:37:41,330 --> 01:37:43,179
+He was educated at Oxford University.
+
+1915
+01:37:43,179 --> 01:37:46,980
+Jack: There can be no doubt about it.
+
+1916
+01:37:46,980 --> 01:37:52,849
+This afternoon, while I was away in London,
+he was allowed into this house because he
+
+1917
+01:37:52,849 --> 01:37:55,390
+said he was my brother.
+
+1918
+01:37:55,390 --> 01:38:02,770
+While pretending to be my brother, he drank,
+I am informed by my servant, a complete bottle
+
+1919
+01:38:02,770 --> 01:38:09,099
+of very good quality champagne which I was
+keeping especially for myself.
+
+1920
+01:38:09,099 --> 01:38:13,940
+He also succeeded in turning my ward against
+me.
+
+1921
+01:38:13,940 --> 01:38:19,760
+He then stayed to tea and ate every muffin
+we had.
+
+1922
+01:38:19,760 --> 01:38:23,619
+He behaved completely heartlessly.
+
+1923
+01:38:23,619 --> 01:38:31,070
+And what is worse, he knew that I don't have
+a brother, that I have never had a brother
+
+1924
+01:38:31,070 --> 01:38:35,969
+and that I don't intend to ever have a brother
+of any kind.
+
+1925
+01:38:35,969 --> 01:38:41,409
+He knew because I told him so myself yesterday
+afternoon.
+
+1926
+01:38:41,409 --> 01:38:43,659
+Lady Bracknell: (Coughing) Ahem!
+
+1927
+01:38:43,659 --> 01:38:50,699
+Mr Worthing, after thinking about this carefully,
+I have decided to forget about the way my
+
+1928
+01:38:50,699 --> 01:38:53,139
+nephew behaved towards you.
+
+1929
+01:38:53,139 --> 01:38:56,610
+Jack: That is very good of you, Lady Bracknell.
+
+1930
+01:38:56,610 --> 01:39:01,219
+I have decided, however, not to change my
+mind.
+
+1931
+01:39:01,219 --> 01:39:03,499
+I will not give my consent.
+
+1932
+01:39:03,499 --> 01:39:06,119
+Lady Bracknell: (To Cecily) Come here, sweet
+child.
+
+1933
+01:39:06,119 --> 01:39:09,350
+(Cecily goes to her) How old are you, my dear?
+
+1934
+01:39:09,350 --> 01:39:14,550
+Cecily: Well, I am really only eighteen, but
+I always say I am twenty when I go to parties.
+
+1935
+01:39:14,550 --> 01:39:18,199
+Lady Bracknell: You are perfectly right to
+make a small alteration.
+
+1936
+01:39:18,199 --> 01:39:22,699
+Indeed, no woman should ever be quite accurate
+about her age.
+
+1937
+01:39:22,699 --> 01:39:24,119
+It looks so devious.
+
+1938
+01:39:24,119 --> 01:39:28,730
+(Speaking again, thoughtfully) Well, it will
+not be very long before you come of age.
+
+1939
+01:39:28,730 --> 01:39:33,679
+So I don't think your guardian's consent is
+very important.
+
+1940
+01:39:33,679 --> 01:39:37,630
+Jack: Excuse me for interrupting you again,
+Lady Bracknell.
+
+1941
+01:39:37,630 --> 01:39:44,750
+I must tell you that, according to her grandfather's
+will, Miss Cardew does not come of age until
+
+1942
+01:39:44,750 --> 01:39:45,750
+she is thirty-five.
+
+1943
+01:39:45,750 --> 01:39:49,510
+Lady Bracknell: That does not seem to me to
+be a problem.
+
+1944
+01:39:49,510 --> 01:39:53,050
+Thirty-five is a very attractive age.
+
+1945
+01:39:53,050 --> 01:39:59,070
+London society is full of women who have,
+by their own free choice, remained thirty-five
+
+1946
+01:39:59,070 --> 01:40:00,349
+for years.
+
+1947
+01:40:00,349 --> 01:40:02,489
+Lady Dumbleton is an example.
+
+1948
+01:40:02,489 --> 01:40:08,499
+She has been thirty-five ever since she reached
+the age of forty, which was many years ago.
+
+1949
+01:40:08,499 --> 01:40:15,489
+Our dear Cecily will be even more attractive
+at the age of thirty-five than she is at present.
+
+1950
+01:40:15,489 --> 01:40:19,530
+She will have even more money then than she
+has now.
+
+1951
+01:40:19,530 --> 01:40:22,979
+Cecily: Algy, could you wait for me till I
+was thirty-five?
+
+1952
+01:40:22,979 --> 01:40:25,210
+Algernon: Of course I could, Cecily.
+
+1953
+01:40:25,210 --> 01:40:26,820
+You know I could.
+
+1954
+01:40:26,820 --> 01:40:31,690
+Cecily: Yes, I believe that you could, but
+I couldn't wait all that time.
+
+1955
+01:40:31,690 --> 01:40:34,570
+I hate waiting even five minutes for anybody.
+
+1956
+01:40:34,570 --> 01:40:37,080
+It always makes me rather cross.
+
+1957
+01:40:37,080 --> 01:40:40,760
+I am not punctual myself but I do like other
+people to be punctual.
+
+1958
+01:40:40,760 --> 01:40:45,349
+Waiting, even to be married, is quite out
+of the question.
+
+1959
+01:40:45,349 --> 01:40:48,380
+Algernon: Then what are we going to do, Cecily?
+
+1960
+01:40:48,380 --> 01:40:51,059
+Cecily: I don't know, Mr Moncrieff.
+
+1961
+01:40:51,059 --> 01:40:57,579
+Lady Bracknell: My dear Mr Worthing, Miss
+Cardew states that she cannot wait till she
+
+1962
+01:40:57,579 --> 01:41:03,349
+is thirty-five - a remark that tells me she
+has a rather impatient nature - however, I
+
+1963
+01:41:03,349 --> 01:41:06,599
+beg of you to think again about your decision.
+
+1964
+01:41:06,599 --> 01:41:13,330
+Jack: My dear Lady Bracknell, the decision
+is entirely in your own hands.
+
+1965
+01:41:13,330 --> 01:41:19,960
+When you consent to my marriage with Gwendolen,
+I will gladly consent to your nephew's marriage
+
+1966
+01:41:19,960 --> 01:41:20,960
+with my ward.
+
+1967
+01:41:20,960 --> 01:41:24,079
+Lady Bracknell: (Standing and looking very
+tall) You must know that your marriage with
+
+1968
+01:41:24,079 --> 01:41:26,719
+my daughter is not possible.
+
+1969
+01:41:26,719 --> 01:41:30,639
+Jack: Then none of us can look forward to
+ever getting married.
+
+1970
+01:41:30,639 --> 01:41:34,100
+Lady Bracknell: I cannot agree to Gwendolen
+never getting married.
+
+1971
+01:41:34,100 --> 01:41:36,550
+Algernon, of course, may choose for himself.
+
+1972
+01:41:36,550 --> 01:41:41,530
+Come, dear, (Gwendolen stands up) we have
+already missed five, if not six, trains.
+
+1973
+01:41:41,530 --> 01:41:43,460
+(Canon Chasuble enters)
+
+1974
+01:41:43,460 --> 01:41:46,699
+Chasuble: Everything is quite ready for the
+baptisms.
+
+1975
+01:41:46,699 --> 01:41:48,630
+Lady Bracknell: The baptisms?
+
+1976
+01:41:48,630 --> 01:41:50,750
+Is it not a little early for baptisms?
+
+1977
+01:41:50,750 --> 01:41:53,449
+First marriage, then children, then baptisms!
+
+1978
+01:41:53,449 --> 01:41:58,830
+Chasuble: (Looking puzzled, and pointing at
+Jack and Algernon) Both these gentlemen have
+
+1979
+01:41:58,830 --> 01:42:01,090
+said they wish to be baptized immediately.
+
+1980
+01:42:01,090 --> 01:42:03,050
+Lady Bracknell: Baptized?
+
+1981
+01:42:03,050 --> 01:42:05,010
+At their age?
+
+1982
+01:42:05,010 --> 01:42:08,019
+The idea is ridiculous and quite irreligious.
+
+1983
+01:42:08,019 --> 01:42:11,510
+Algernon, I forbid you to be baptized.
+
+1984
+01:42:11,510 --> 01:42:16,849
+My husband, Lord Bracknell, would be very
+displeased to hear that you were wasting your
+
+1985
+01:42:16,849 --> 01:42:18,389
+time and money like this.
+
+1986
+01:42:18,389 --> 01:42:21,369
+Chasuble: Do I understand you correctly?
+
+1987
+01:42:21,369 --> 01:42:24,270
+Is neither of you gentlemen to be baptized?
+
+1988
+01:42:24,270 --> 01:42:29,320
+Jack: I don't think that baptism would be
+much use to either of us at the moment, Canon
+
+1989
+01:42:29,320 --> 01:42:30,320
+Chasuble.
+
+1990
+01:42:30,320 --> 01:42:34,909
+Chasuble: I am very sorry to hear you say
+so, Mr Worthing.
+
+1991
+01:42:34,909 --> 01:42:38,070
+That sounds like the view of an irreligious
+man.
+
+1992
+01:42:38,070 --> 01:42:42,900
+I have written four unpublished sermons on
+this subject.
+
+1993
+01:42:42,900 --> 01:42:49,949
+However, since you have decided to ignore
+religion for now, I will return to the church
+
+1994
+01:42:49,949 --> 01:42:53,780
+where Miss Prism has been waiting for me for
+an hour and a half.
+
+1995
+01:42:53,780 --> 01:42:55,869
+Lady Bracknell: (Looking shocked and sitting
+down again) Miss Prism?
+
+1996
+01:42:55,869 --> 01:42:59,729
+Did I hear you say 'Miss Prism'?
+
+1997
+01:42:59,729 --> 01:43:02,130
+Chasuble: Yes, Lady Bracknell.
+
+1998
+01:43:02,130 --> 01:43:04,710
+I am going to the church to join her now.
+
+1999
+01:43:04,710 --> 01:43:07,539
+Lady Bracknell: Please wait a moment, Canon
+Chasuble.
+
+2000
+01:43:07,539 --> 01:43:12,409
+This is something which may be important to
+Lord Bracknell and myself.
+
+2001
+01:43:12,409 --> 01:43:17,730
+Is this Miss Prism a rather ugly female who
+is remotely connected with education?
+
+2002
+01:43:17,730 --> 01:43:21,550
+Chasuble: (Rather indignantly) She is a very
+respectable lady.
+
+2003
+01:43:21,550 --> 01:43:24,610
+Lady Bracknell: It must be the same person.
+
+2004
+01:43:24,610 --> 01:43:27,709
+May I ask what position she has in your household?
+
+2005
+01:43:27,709 --> 01:43:30,929
+Chasuble: (Severely) I am celibate, madam.
+
+2006
+01:43:30,929 --> 01:43:37,909
+Jack: Lady Bracknell, Miss Prism has been
+Miss Cardew's valued governess and companion
+
+2007
+01:43:37,909 --> 01:43:39,280
+for the last three years.
+
+2008
+01:43:39,280 --> 01:43:41,360
+Lady Bracknell: I must see her at once.
+
+2009
+01:43:41,360 --> 01:43:42,940
+Let her be sent for.
+
+2010
+01:43:42,940 --> 01:43:44,489
+Chasuble: (Looking offstage) She's approaching.
+
+2011
+01:43:44,489 --> 01:43:45,489
+She's nearly here.
+
+2012
+01:43:45,489 --> 01:43:46,980
+(Miss Prism enters very quickly)
+
+2013
+01:43:46,980 --> 01:43:50,489
+Miss Prism: I was told you were coming to
+the church, dear canon.
+
+2014
+01:43:50,489 --> 01:43:54,030
+I have been waiting there for an hour and
+three-quarters.
+
+2015
+01:43:54,030 --> 01:43:55,380
+(Seeing Lady Bracknell, who is glaring at
+her, Miss Prism turns pale.
+
+2016
+01:43:55,380 --> 01:43:57,849
+She looks round her as if she wants to escape)
+
+2017
+01:43:57,849 --> 01:44:06,510
+Lady Bracknell: (In a severe voice, as if
+she is a lawyer in a courtroom) Prism!
+
+2018
+01:44:06,510 --> 01:44:08,310
+(Miss Prism lowers her head, looking ashamed)
+Come here, Prism!
+
+2019
+01:44:08,310 --> 01:44:09,310
+(Miss Prism approaches looking nervous) Prism!
+
+2020
+01:44:09,310 --> 01:44:10,310
+Where is that baby?
+
+2021
+01:44:10,310 --> 01:44:11,310
+(Everyone looks horrified.
+
+2022
+01:44:11,310 --> 01:44:12,310
+The canon takes a step backwards.
+
+2023
+01:44:12,310 --> 01:44:13,310
+Algernon and Jack pretend to be anxious to
+stop Gwendolen and Cecily from hearing something
+
+2024
+01:44:13,310 --> 01:44:14,690
+shocking) Prism, twenty-eight years ago, you
+left Lord Bracknell's house, Number 104, Upper
+
+2025
+01:44:14,690 --> 01:44:20,420
+Grosvenor Square, London, in charge of a pram
+containing a baby boy.
+
+2026
+01:44:20,420 --> 01:44:22,639
+You never returned.
+
+2027
+01:44:22,639 --> 01:44:30,260
+A few weeks later, after a police investigation,
+the pram was discovered at midnight in a remote
+
+2028
+01:44:30,260 --> 01:44:31,929
+part of the city.
+
+2029
+01:44:31,929 --> 01:44:36,929
+It contained the manuscript of a very bad
+three-volume novel.
+
+2030
+01:44:36,929 --> 01:44:39,969
+(Miss Prism looks indignant) But the baby
+was not there.
+
+2031
+01:44:39,969 --> 01:44:43,870
+(Everyone looks at Miss Prism) Prism, where
+is that baby?
+
+2032
+01:44:43,870 --> 01:44:45,270
+(There is a pause)
+
+2033
+01:44:45,270 --> 01:44:51,239
+Miss Prism: Lady Bracknell, I am ashamed to
+say I don't know.
+
+2034
+01:44:51,239 --> 01:44:53,219
+I wish I did.
+
+2035
+01:44:53,219 --> 01:44:54,969
+These are the facts.
+
+2036
+01:44:54,969 --> 01:45:01,719
+On the morning of that day, a day I will remember
+forever, I prepared as usual to take the baby
+
+2037
+01:45:01,719 --> 01:45:03,369
+out in the pram.
+
+2038
+01:45:03,369 --> 01:45:09,260
+I had with me a large old handbag in which
+I had intended to put the manuscript of a
+
+2039
+01:45:09,260 --> 01:45:11,730
+three-volume novel that I had written.
+
+2040
+01:45:11,730 --> 01:45:19,280
+In a moment of forgetfulness, for which I
+can never forgive myself, I put the manuscript
+
+2041
+01:45:19,280 --> 01:45:22,459
+in the pram and the baby in the handbag.
+
+2042
+01:45:22,459 --> 01:45:27,840
+Jack: (Who had been listening very carefully)
+But where did you put the handbag?
+
+2043
+01:45:27,840 --> 01:45:32,459
+Miss Prism: Do not ask me, Mr Worthing.
+
+2044
+01:45:32,459 --> 01:45:37,760
+Jack: Miss Prism, this is very important to
+me.
+
+2045
+01:45:37,760 --> 01:45:44,219
+I must know where you put the handbag which
+contained the baby.
+
+2046
+01:45:44,219 --> 01:45:52,270
+Miss Prism: I left it in the cloakroom of
+one of the larger railway stations in London.
+
+2047
+01:45:52,270 --> 01:45:53,619
+Jack: Which railway station?
+
+2048
+01:45:53,619 --> 01:45:55,639
+Miss Prism: (Looking very miserable) Victoria.
+
+2049
+01:45:55,639 --> 01:45:57,659
+(Sitting down slowly on an armchair)
+
+2050
+01:45:57,659 --> 01:46:00,650
+Jack: I must go to my bedroom for a moment.
+
+2051
+01:46:00,650 --> 01:46:02,360
+Gwendolen, wait for me here.
+
+2052
+01:46:02,360 --> 01:46:05,670
+Gwendolen: If you are not too long, I will
+wait for you all my life.
+
+2053
+01:46:05,670 --> 01:46:07,349
+(Jack leaves, very excited)
+
+2054
+01:46:07,349 --> 01:46:09,940
+Chasuble: What do you think this means, Lady
+Bracknell?
+
+2055
+01:46:09,940 --> 01:46:13,380
+Lady Bracknell: I dare not guess, Canon Chasuble.
+
+2056
+01:46:13,380 --> 01:46:18,389
+You must know that strange coincidences are
+not supposed to happen in families with a
+
+2057
+01:46:18,389 --> 01:46:21,780
+high position in society like ours.
+
+2058
+01:46:21,780 --> 01:46:22,780
+They are not appropriate.
+
+2059
+01:46:22,780 --> 01:46:26,230
+(Noises are heard above as if someone is throwing
+boxes around.
+
+2060
+01:46:26,230 --> 01:46:27,239
+Everyone looks up)
+
+2061
+01:46:27,239 --> 01:46:29,260
+Cecily: Uncle Jack sounds very agitated.
+
+2062
+01:46:29,260 --> 01:46:31,860
+Lady Bracknell: The noise is extremely unpleasant.
+
+2063
+01:46:31,860 --> 01:46:33,929
+Chasuble: (Looking up) It has stopped now.
+
+2064
+01:46:33,929 --> 01:46:35,999
+(The noises start again, sounding even louder)
+
+2065
+01:46:35,999 --> 01:46:38,550
+Lady Bracknell: I wish he would stop.
+
+2066
+01:46:38,550 --> 01:46:41,440
+Gwendolen: The suspense is terrible.
+
+2067
+01:46:41,440 --> 01:46:42,440
+I hope it will last.
+
+2068
+01:46:42,440 --> 01:46:43,510
+(Jack enters, with a black leather handbag
+in his hand)
+
+2069
+01:46:43,510 --> 01:46:47,710
+Jack: (Rushing over to Miss Prism) Is this
+the handbag, Miss Prism?
+
+2070
+01:46:47,710 --> 01:46:51,679
+Examine it carefully before you speak.
+
+2071
+01:46:51,679 --> 01:46:55,449
+The happiness of more than one person depends
+on your answer.
+
+2072
+01:46:55,449 --> 01:46:59,269
+Miss Prism: (Calmly) It seems to be mine.
+
+2073
+01:46:59,269 --> 01:47:04,559
+Yes, here is the damage which happened in
+an accident on a bus.
+
+2074
+01:47:04,559 --> 01:47:08,880
+Here is the stain caused by a drink which
+exploded at Leamington.
+
+2075
+01:47:08,880 --> 01:47:12,369
+And here, near the lock, are my initials.
+
+2076
+01:47:12,369 --> 01:47:15,199
+I had forgotten that I had had them put there.
+
+2077
+01:47:15,199 --> 01:47:17,860
+The bag is definitely mine.
+
+2078
+01:47:17,860 --> 01:47:20,420
+I am delighted to have it returned to me so
+unexpectedly.
+
+2079
+01:47:20,420 --> 01:47:22,393
+It has been inconvenient not to have it all
+these years.
+
+2080
+01:47:22,393 --> 01:47:30,380
+Jack: (In a pathetic voice) Miss Prism, you
+have had more returned to you than the handbag.
+
+2081
+01:47:30,380 --> 01:47:33,499
+I was the baby you placed in it.
+
+2082
+01:47:33,499 --> 01:47:34,510
+Miss Prism: (Amazed) You?
+
+2083
+01:47:34,510 --> 01:47:35,510
+Jack: (Embracing her) Yes...
+
+2084
+01:47:35,510 --> 01:47:36,510
+Mother!
+
+2085
+01:47:36,510 --> 01:47:39,150
+Miss Prism: (Pulling away from him indignantly)
+Mr Worthing, I am unmarried.
+
+2086
+01:47:39,150 --> 01:47:40,610
+Jack: Unmarried!
+
+2087
+01:47:40,610 --> 01:47:43,130
+That is a serious problem.
+
+2088
+01:47:43,130 --> 01:47:47,079
+But who has the right to speak badly of someone
+who has suffered?
+
+2089
+01:47:47,079 --> 01:47:50,280
+Why should society treat men and women differently?
+
+2090
+01:47:50,280 --> 01:47:51,539
+Mother, I forgive you.
+
+2091
+01:47:51,539 --> 01:47:52,539
+(Trying to embrace her again)
+
+2092
+01:47:52,539 --> 01:47:53,579
+Miss Prism: (Now even more indignant) Mr Worthing,
+you are wrong.
+
+2093
+01:47:53,579 --> 01:47:58,140
+(Pointing to Lady Bracknell) There is the
+lady who can tell you who you really are.
+
+2094
+01:47:58,140 --> 01:48:04,219
+Jack: (After a pause) Lady Bracknell, would
+you kindly inform me who I am?
+
+2095
+01:48:04,219 --> 01:48:08,840
+Lady Bracknell: I am afraid that my news may
+not please you.
+
+2096
+01:48:08,840 --> 01:48:16,960
+You are the son of my poor sister, Mrs Moncrieff,
+and therefore Algernon's elder brother.
+
+2097
+01:48:16,960 --> 01:48:19,520
+Jack: Algy's elder brother!
+
+2098
+01:48:19,520 --> 01:48:22,469
+Then I have a brother after all.
+
+2099
+01:48:22,469 --> 01:48:24,239
+I knew I had a brother!
+
+2100
+01:48:24,239 --> 01:48:26,449
+I always said I had a brother!
+
+2101
+01:48:26,449 --> 01:48:29,229
+Cecily - how could you ever have doubted that
+I had a brother?
+
+2102
+01:48:29,229 --> 01:48:31,880
+(Getting hold of Algernon and leading him
+around the room) Canon Chasuble, here is my
+
+2103
+01:48:31,880 --> 01:48:33,590
+unfortunate brother.
+
+2104
+01:48:33,590 --> 01:48:35,739
+Miss Prism, my unfortunate brother.
+
+2105
+01:48:35,739 --> 01:48:37,969
+Gwendolen, my unfortunate brother.
+
+2106
+01:48:37,969 --> 01:48:41,789
+Algy, you will have to treat me with more
+respect in the future.
+
+2107
+01:48:41,789 --> 01:48:44,519
+You have never behaved to me like a younger
+brother should.
+
+2108
+01:48:44,519 --> 01:48:47,119
+Algernon: Well, I haven't done until today.
+
+2109
+01:48:47,119 --> 01:48:48,119
+I did my best, though.
+
+2110
+01:48:48,119 --> 01:48:49,119
+(They shake hands)
+
+2111
+01:48:49,119 --> 01:48:53,900
+Gwendolen: (To Jack) My own - but my own - what?
+
+2112
+01:48:53,900 --> 01:48:57,650
+What is your name, now that you are not Jack
+Worthing?
+
+2113
+01:48:57,650 --> 01:48:59,380
+Jack: Good heavens!
+
+2114
+01:48:59,380 --> 01:49:01,679
+I had forgotten about my name.
+
+2115
+01:49:01,679 --> 01:49:05,719
+I suppose that you won't change your mind
+about your favourite name?
+
+2116
+01:49:05,719 --> 01:49:06,719
+Gwendolen: Never!
+
+2117
+01:49:06,719 --> 01:49:10,500
+Jack: Then the question must be cleared up
+at once.
+
+2118
+01:49:10,500 --> 01:49:12,400
+Aunt Augusta, had I been baptized?
+
+2119
+01:49:12,400 --> 01:49:18,270
+Lady Bracknell: Your loving parents had done
+everything for you, including baptism.
+
+2120
+01:49:18,270 --> 01:49:20,449
+Jack: Then I was baptized!
+
+2121
+01:49:20,449 --> 01:49:21,989
+That is clear.
+
+2122
+01:49:21,989 --> 01:49:24,480
+Now what name was I given?
+
+2123
+01:49:24,480 --> 01:49:25,749
+Let me know the worst!
+
+2124
+01:49:25,749 --> 01:49:30,780
+Lady Bracknell: You were the elder son so
+you were given your father's name.
+
+2125
+01:49:30,780 --> 01:49:34,179
+Jack: (Irritably) Yes, but what was my father's
+name?
+
+2126
+01:49:34,179 --> 01:49:40,340
+Lady Bracknell: (Thoughtfully) I cannot at
+present remember what the general's name was.
+
+2127
+01:49:40,340 --> 01:49:43,070
+But I have no doubt that he had one.
+
+2128
+01:49:43,070 --> 01:49:44,070
+Jack: Algy!
+
+2129
+01:49:44,070 --> 01:49:46,389
+Can't you remember what our father's name
+was?
+
+2130
+01:49:46,389 --> 01:49:49,810
+Algernon: My dear fellow, we never even spoke
+to each other.
+
+2131
+01:49:49,810 --> 01:49:51,909
+He died before I was a year old.
+
+2132
+01:49:51,909 --> 01:49:56,209
+Jack: His name will appear in the Army Lists
+of that period, I suppose, Aunt Augusta?
+
+2133
+01:49:56,209 --> 01:50:00,999
+Lady Bracknell: The general was a man of peace,
+except in his domestic life.
+
+2134
+01:50:00,999 --> 01:50:04,849
+So I have no doubt that his name will appear
+in an Army List.
+
+2135
+01:50:04,849 --> 01:50:09,040
+Jack: The Army Lists for the last forty years
+are here.
+
+2136
+01:50:09,040 --> 01:50:10,750
+I should have read them all!
+
+2137
+01:50:10,750 --> 01:50:18,409
+(Rushes over to a bookcase and pulls lots
+of books out) Mmm... generals...
+
+2138
+01:50:18,409 --> 01:50:24,130
+Mallam, Maxbohm, Magley - what awful names
+they have - Markby, Migsby, Mobbs, Moncrieff!
+
+2139
+01:50:24,130 --> 01:50:30,860
+Lieutenant: 1840, Captain, Lieutenant-Colonel,
+Colonel, General: 1869: names Ernest John.
+
+2140
+01:50:30,860 --> 01:50:41,289
+(Putting down the book and speaking quite
+calmly) I always told you, Gwendolen, that
+
+2141
+01:50:41,289 --> 01:50:43,570
+my name was Ernest, didn't I?
+
+2142
+01:50:43,570 --> 01:50:46,190
+Well, it is Ernest after all.
+
+2143
+01:50:46,190 --> 01:50:48,110
+I mean it really is Ernest.
+
+2144
+01:50:48,110 --> 01:50:53,909
+Lady Bracknell: Yes, I remember now that the
+general called you Ernest.
+
+2145
+01:50:53,909 --> 01:50:56,969
+I knew I had a reason for disliking that name.
+
+2146
+01:50:56,969 --> 01:50:58,429
+Gwendolen: Ernest!
+
+2147
+01:50:58,429 --> 01:51:00,619
+My own Ernest!
+
+2148
+01:51:00,619 --> 01:51:05,860
+I felt from the first time I met you that
+you could have no other name!
+
+2149
+01:51:05,860 --> 01:51:11,469
+Jack: Gwendolen, it is terrible for a man
+to find out suddenly that he has been speaking
+
+2150
+01:51:11,469 --> 01:51:14,119
+the truth all his life.
+
+2151
+01:51:14,119 --> 01:51:15,119
+Can you forgive me?
+
+2152
+01:51:15,119 --> 01:51:16,630
+Gwendolen: I can.
+
+2153
+01:51:16,630 --> 01:51:18,489
+Because I feel that you are going to change.
+
+2154
+01:51:18,489 --> 01:51:19,969
+Jack: My own darling!
+
+2155
+01:51:19,969 --> 01:51:22,199
+Chasuble: (To Miss Prism) Laetitia!
+
+2156
+01:51:22,199 --> 01:51:23,199
+(Embracing her)
+
+2157
+01:51:23,199 --> 01:51:24,880
+Miss Prism: (Enthusiastically) Frederick!
+
+2158
+01:51:24,880 --> 01:51:25,880
+At last!
+
+2159
+01:51:25,880 --> 01:51:26,880
+Algernon: Cecily!
+
+2160
+01:51:26,880 --> 01:51:28,439
+(Embracing her) At last!
+
+2161
+01:51:28,439 --> 01:51:29,439
+Jack: Gwendolen!
+
+2162
+01:51:29,439 --> 01:51:30,820
+(Embracing her) At last!
+
+2163
+01:51:30,820 --> 01:51:37,329
+Lady Bracknell: My nephew, you seem to be
+displaying signs of a lack of seriousness.
+
+2164
+01:51:37,329 --> 01:51:44,429
+Jack: On the contrary, Aunt Augusta, I've
+now realized for the first time in my life
+
+2165
+01:51:44,429 --> 01:52:32,530
+the Importance of Being Earnest.
+

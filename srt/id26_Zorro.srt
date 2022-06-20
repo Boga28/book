@@ -1,2431 +1,2425 @@
 1
-00:00:01,969 --> 00:00:03,000
+00:00:12,830 --> 00:00:14,550
 CHAPTER ONE
 
 2
-00:00:03,000 --> 00:00:04,890
+00:00:14,550 --> 00:00:18,040
 A Stormy Night
 
 3
-00:00:04,890 --> 00:00:11,040
+00:00:18,040 --> 00:00:24,279
 Reina de Los Angeles is a Spanish village
 in southern California.
 
 4
-00:00:11,040 --> 00:00:18,010
+00:00:24,279 --> 00:00:31,080
 In the village there is a military presidio
 with Spanish soldiers and their horses.
 
 5
-00:00:18,010 --> 00:00:22,499
+00:00:31,080 --> 00:00:34,710
 There is also a Spanish church called a mission.
 
 6
-00:00:22,499 --> 00:00:23,499
+00:00:34,710 --> 00:00:38,760
 The Spanish friars live here.
 
 7
-00:00:23,499 --> 00:00:28,369
+00:00:38,760 --> 00:00:47,190
 All around the village there are big homes
 with patios.
 
 8
-00:00:28,369 --> 00:00:32,940
+00:00:47,190 --> 00:00:57,440
 Tonight there is a terrible storm and it is
 raining.
 
 9
-00:00:32,940 --> 00:00:36,060
+00:00:57,440 --> 00:01:00,850
 Inside the village tavern there are soldiers
 and other men.
 
 10
-00:00:36,060 --> 00:00:37,560
+00:01:00,850 --> 00:01:06,250
 They are eating and drinking.
 
 11
-00:00:37,560 --> 00:00:39,201
+00:01:06,250 --> 00:01:09,979
 Sergeant Pedro Gonzales is at the tavern.
 
 12
-00:00:39,201 --> 00:00:41,300
+00:01:09,979 --> 00:01:12,970
 He is a big, strong man.
 
 13
-00:00:41,300 --> 00:00:43,830
+00:01:12,970 --> 00:01:16,070
 "What a horrible night!
 
 14
-00:00:43,830 --> 00:00:47,010
+00:01:16,070 --> 00:01:19,110
 It always rains in February.
 
 15
-00:00:47,010 --> 00:00:53,350
+00:01:19,110 --> 00:01:24,220
 Where is Zorro on this stormy night?" asks
 one soldier.
 
 16
-00:00:53,350 --> 00:00:54,350
+00:01:24,220 --> 00:01:25,450
 "Zorro!
 
 17
-00:00:54,350 --> 00:00:56,520
+00:01:25,450 --> 00:01:27,370
 Don't say that name!
 
 18
-00:00:56,520 --> 00:01:01,340
+00:01:27,370 --> 00:01:32,300
 He is a bandit and a criminal,'' says Sergeant
 Gonzales.
 
 19
-00:01:01,340 --> 00:01:05,250
+00:01:32,300 --> 00:01:37,700
 "He is the terror of southern California,''
 says another soldier.
 
 20
-00:01:05,250 --> 00:01:08,470
+00:01:37,700 --> 00:01:42,270
 "People say that he takes from the rich and
 gives to the poor.
 
 21
-00:01:08,470 --> 00:01:14,020
+00:01:42,270 --> 00:01:45,830
 He is a friend of the natives and the friars.
 
 22
-00:01:14,020 --> 00:01:18,180
+00:01:45,830 --> 00:01:50,070
 He punishes dishonest people," says an old
 man.
 
 23
-00:01:18,180 --> 00:01:19,180
+00:01:50,070 --> 00:01:51,070
 "Ha!
 
 24
-00:01:19,180 --> 00:01:21,300
+00:01:51,070 --> 00:01:54,100
 Zorro is a big mystery.
 
 25
-00:01:21,300 --> 00:01:22,310
+00:01:54,100 --> 00:01:55,480
 Who is he?
 
 26
-00:01:22,310 --> 00:01:24,230
+00:01:55,480 --> 00:01:57,229
 Where is he from?
 
 27
-00:01:24,230 --> 00:01:30,010
+00:01:57,229 --> 00:02:01,370
 He wears a black mask and no one can see his
 face.
 
 28
-00:01:30,010 --> 00:01:35,300
+00:02:01,370 --> 00:02:05,710
 He travels on the El Camino Real on his fast
 horse.
 
 29
-00:01:35,300 --> 00:01:39,900
+00:02:05,710 --> 00:02:10,200
 He is very good with his sword," says the
 Sergeant.
 
 30
-00:01:39,900 --> 00:01:48,040
+00:02:10,200 --> 00:02:17,340
 "Yes, and he leaves his mark - the Z - everywhere,"
 says the old man.
 
 31
-00:01:48,040 --> 00:01:51,340
+00:02:17,340 --> 00:02:20,110
 "No one can stop him.
 
 32
-00:01:51,340 --> 00:01:57,610
+00:02:20,110 --> 00:02:29,050
 The Governor of California offers a big reward
 for the capture of Zorro," says one soldier.
 
 33
-00:01:57,610 --> 00:02:00,909
+00:02:29,050 --> 00:02:31,620
 At that moment a man enters the tavern.
 
 34
-00:02:00,909 --> 00:02:03,380
+00:02:31,620 --> 00:02:33,770
 He is young and handsome.
 
 35
-00:02:03,380 --> 00:02:06,400
+00:02:33,770 --> 00:02:36,980
 He has black hair and dark eyes.
 
 36
-00:02:06,400 --> 00:02:08,129
+00:02:36,980 --> 00:02:38,740
 He has fine clothes.
 
 37
-00:02:08,129 --> 00:02:11,610
+00:02:38,740 --> 00:02:44,940
 "Don Diego Vega, my friend!" says Sergeant
 Gonzales.
 
 38
-00:02:11,610 --> 00:02:13,349
+00:02:44,940 --> 00:02:47,270
 "Your clothes are wet.
 
 39
-00:02:13,349 --> 00:02:16,840
+00:02:47,270 --> 00:02:51,190
 Why are you out on this rainy night?"
 
 40
-00:02:16,840 --> 00:02:23,220
+00:02:51,190 --> 00:02:56,849
 Don Diego smiles and says, "I am going home,
 but I am cold and wet.
 
 41
-00:02:23,220 --> 00:02:24,220
+00:02:56,849 --> 00:02:58,330
 I want something to drink."
 
 42
-00:02:24,220 --> 00:02:26,280
+00:02:58,330 --> 00:03:03,100
 "Come and stand near the fire," says the Sergeant.
 
 43
-00:02:26,280 --> 00:02:29,590
+00:03:03,100 --> 00:03:04,900
 "Here is a glass of wine."
 
 44
-00:02:29,590 --> 00:02:35,190
+00:03:04,900 --> 00:03:08,210
 "Thank you, my friend," says Don Diego.
 
 45
-00:02:35,190 --> 00:02:38,360
+00:03:08,210 --> 00:03:11,520
 "We are talking about Zorro.
 
 46
-00:02:38,360 --> 00:02:44,069
+00:03:11,520 --> 00:03:14,520
 Everyone is scared of him, but I am not!
 
 47
-00:02:44,069 --> 00:02:48,190
+00:03:14,520 --> 00:03:17,770
 I am ready to fight Zorro and win!
 
 48
-00:02:48,190 --> 00:02:53,020
+00:03:17,770 --> 00:03:20,250
 I am a champion with the sword.
 
 49
-00:02:53,020 --> 00:02:56,920
+00:03:20,250 --> 00:03:23,819
 What do you think, Don Diego?" asks the Sergeant.
 
 50
-00:02:56,920 --> 00:03:00,480
+00:03:23,819 --> 00:03:27,980
 "Everyone talks about this mysterious man
 with a mask.
 
 51
-00:03:00,480 --> 00:03:05,650
+00:03:27,980 --> 00:03:31,240
 Many people say good things about him," says
 Don Diego.
 
 52
-00:03:05,650 --> 00:03:13,410
+00:03:31,240 --> 00:03:34,540
 "I want to fight him and capture him!
 
 53
-00:03:13,410 --> 00:03:18,200
+00:03:34,540 --> 00:03:38,450
 I want the big reward," says Sergeant Gonzales.
 
 54
-00:03:18,200 --> 00:03:19,300
+00:03:38,450 --> 00:03:39,810
 "No, no!
 
 55
-00:03:19,300 --> 00:03:21,480
+00:03:39,810 --> 00:03:41,340
 Don't talk about fighting.
 
 56
-00:03:21,480 --> 00:03:25,530
+00:03:41,340 --> 00:03:43,870
 I hate fighting and I hate violence.
 
 57
-00:03:25,530 --> 00:03:28,489
+00:03:43,870 --> 00:03:46,390
 I think Zorro is sincere.
 
 58
-00:03:28,489 --> 00:03:30,910
+00:03:46,390 --> 00:03:48,760
 He punishes only bad people.
 
 59
-00:03:30,910 --> 00:03:38,349
+00:03:48,760 --> 00:03:52,840
 He protects the poor, the natives and the
 friars.
 
 60
-00:03:38,349 --> 00:03:42,610
+00:03:52,840 --> 00:03:56,110
 Let Zorro do his work," says Don Diego.
 
 61
-00:03:42,610 --> 00:03:45,959
+00:03:56,110 --> 00:03:58,500
 "You are a kind man.
 
 62
-00:03:45,959 --> 00:03:52,730
+00:03:58,500 --> 00:04:01,360
 You like music and poetry.
 
 63
-00:03:52,730 --> 00:03:56,050
+00:04:01,360 --> 00:04:03,900
 You don't understand, my friend.
 
 64
-00:03:56,050 --> 00:03:57,560
+00:04:03,900 --> 00:04:07,650
 You are rich and noble," says the Sergeant.
 
 65
-00:03:57,560 --> 00:04:01,400
+00:04:07,650 --> 00:04:10,870
 Don Diego smiles and says, "It's 6 p.m.
 
 66
-00:04:01,400 --> 00:04:02,770
+00:04:10,870 --> 00:04:13,060
 I must return to my hacienda.
 
 67
-00:04:02,770 --> 00:04:03,810
+00:04:13,060 --> 00:04:14,900
 Good night everyone."
 
 68
-00:04:03,810 --> 00:04:08,300
+00:04:14,900 --> 00:04:26,500
 He opens the tavern door and goes out into
 the rain.
 
 69
-00:04:08,300 --> 00:04:09,430
+00:04:26,500 --> 00:04:27,930
 CHAPTER TWO
 
 70
-00:04:09,430 --> 00:04:11,129
+00:04:27,930 --> 00:04:29,110
 A Surprise Visit
 
 71
-00:04:11,129 --> 00:04:15,659
+00:04:29,110 --> 00:04:37,479
 At 7 p.m. the door of tavern opens.
 
 72
-00:04:15,659 --> 00:04:22,220
+00:04:37,479 --> 00:04:42,750
 Sergeant Gonzales and the other soldiers are
 standing near the fire.
 
 73
-00:04:22,220 --> 00:04:28,020
+00:04:42,750 --> 00:04:48,040
 They are talking about Don Diego Vega and
 his rich family.
 
 74
-00:04:28,020 --> 00:04:32,380
+00:04:48,040 --> 00:04:52,249
 They turn around and see a man.
 
 75
-00:04:32,380 --> 00:04:34,860
+00:04:52,249 --> 00:04:54,779
 He is dressed in black.
 
 76
-00:04:34,860 --> 00:04:40,400
+00:04:54,779 --> 00:04:58,919
 He has a black mask and a black sombrero.
 
 77
-00:04:40,400 --> 00:04:41,699
+00:04:58,919 --> 00:05:00,100
 It is Zorro!
 
 78
-00:04:41,699 --> 00:04:42,699
+00:05:00,100 --> 00:05:01,960
 "Good evening!
 
 79
-00:04:42,699 --> 00:04:45,260
+00:05:01,960 --> 00:05:05,840
 My name is Zorro!" says the masked man.
 
 80
-00:04:45,260 --> 00:04:49,200
+00:05:05,840 --> 00:05:11,249
 The men in the tavern are very surprised and
 scared.
 
 81
-00:04:49,200 --> 00:04:55,370
+00:05:11,249 --> 00:05:18,819
 Sergeant Gonzales looks at him carefully and
 says, "What do you want, bandit?"
 
 82
-00:04:55,370 --> 00:04:56,720
+00:05:18,819 --> 00:05:20,590
 Zorro laughs loudly.
 
 83
-00:04:56,720 --> 00:05:01,850
+00:05:20,590 --> 00:05:26,389
 He looks at Sergeant Gonzales and says," I
 am here to punish you, Sergeant!"
 
 84
-00:05:01,850 --> 00:05:04,410
+00:05:26,389 --> 00:05:29,779
 "What do you mean?" says the Sergeant.
 
 85
-00:05:04,410 --> 00:05:06,290
+00:05:29,779 --> 00:05:31,949
 "You beat the poor natives.
 
 86
-00:05:06,290 --> 00:05:08,790
+00:05:31,949 --> 00:05:33,660
 I am a friend of the natives.
 
 87
-00:05:08,790 --> 00:05:11,910
+00:05:33,660 --> 00:05:35,800
 I am here to punish you."
 
 88
-00:05:11,910 --> 00:05:12,960
+00:05:35,800 --> 00:05:37,479
 "You idiot!
 
 89
-00:05:12,960 --> 00:05:20,470
+00:05:37,479 --> 00:05:42,449
 The governor wants you dead or alive!" says
 Sergeant Gonzales.
 
 90
-00:05:20,470 --> 00:05:23,650
+00:05:42,449 --> 00:05:45,889
 He pulls out his sword and wants to fight.
 
 91
-00:05:23,650 --> 00:05:26,199
+00:05:45,889 --> 00:05:49,009
 At that moment Zorro pulls out a pistol.
 
 92
-00:05:26,199 --> 00:05:28,169
+00:05:49,009 --> 00:05:52,869
 He watches everyone carefully.
 
 93
-00:05:28,169 --> 00:05:36,360
+00:05:52,869 --> 00:05:59,319
 Sergeant Gonzales looks at the pistol and
 says, "Courageous men don't use pistols.
 
 94
-00:05:36,360 --> 00:05:38,949
+00:05:59,319 --> 00:06:01,080
 They use swords.
 
 95
-00:05:38,949 --> 00:05:43,250
+00:06:01,080 --> 00:06:04,379
 Perhaps you are not courageous, Zorro?"
 
 96
-00:05:43,250 --> 00:05:52,530
+00:06:04,379 --> 00:06:09,360
 "This pistol is necessary because you have
 many friends in this tavern.
 
 97
-00:05:52,530 --> 00:05:55,639
+00:06:09,360 --> 00:06:12,199
 Everyone must go near the fire and stay there!"
 says Zorro.
 
 98
-00:05:55,639 --> 00:05:59,970
+00:06:12,199 --> 00:06:16,080
 "Now I have a pistol in my left hand and a
 sword in my right hand.
 
 99
-00:05:59,970 --> 00:06:01,470
+00:06:16,080 --> 00:06:17,979
 I am ready to punish you."
 
 100
-00:06:01,470 --> 00:06:03,190
+00:06:17,979 --> 00:06:22,059
 "Fight, senor!" says the Sergeant.
 
 101
-00:06:03,190 --> 00:06:04,270
+00:06:22,059 --> 00:06:23,819
 They start fighting.
 
 102
-00:06:04,270 --> 00:06:09,270
+00:06:23,819 --> 00:06:27,979
 Their swords move quickly and make a lot of
 noise.
 
 103
-00:06:09,270 --> 00:06:12,020
+00:06:27,979 --> 00:06:30,840
 The two men are good fighters.
 
 104
-00:06:12,020 --> 00:06:13,789
+00:06:30,840 --> 00:06:33,550
 Zorro is fast and light.
 
 105
-00:06:13,789 --> 00:06:16,840
+00:06:33,550 --> 00:06:37,569
 Sergeant Gonzales is slow and heavy.
 
 106
-00:06:16,840 --> 00:06:19,130
+00:06:37,569 --> 00:06:39,559
 Zorro jumps onto a table.
 
 107
-00:06:19,130 --> 00:06:21,970
+00:06:39,559 --> 00:06:41,770
 Then he jumps onto a chair.
 
 108
-00:06:21,970 --> 00:06:28,080
+00:06:41,770 --> 00:06:48,289
 The fight continues and Sergeant Gonzales'
 sword falls onto the floor.
 
 109
-00:06:28,080 --> 00:06:30,490
+00:06:48,289 --> 00:06:49,979
 His face is white.
 
 110
-00:06:30,490 --> 00:06:31,490
+00:06:49,979 --> 00:06:52,249
 He is scared.
 
 111
-00:06:31,490 --> 00:06:33,910
+00:06:52,249 --> 00:06:57,800
 Zorro slaps his face and says, "This is your
 punishment."
 
 112
-00:06:33,910 --> 00:06:39,770
+00:06:57,800 --> 00:07:04,599
 Then he makes a Z on the Sergeant's shirt
 with his sword.
 
 113
-00:06:39,770 --> 00:06:43,000
+00:07:04,599 --> 00:07:06,289
 Zorro runs to the window.
 
 114
-00:06:43,000 --> 00:06:46,730
+00:07:06,289 --> 00:07:11,389
 He opens it and says, "Good evening, gentlemen!"
 
 115
-00:06:46,730 --> 00:06:50,690
+00:07:11,389 --> 00:07:18,379
 He jumps out of the window and disappears.
 
 116
-00:06:50,690 --> 00:06:51,690
+00:07:18,379 --> 00:07:19,879
 CHAPTER THREE
 
 117
-00:06:51,690 --> 00:06:53,039
+00:07:19,879 --> 00:07:23,610
 The Pulido Hacienda
 
 118
-00:06:53,039 --> 00:06:57,979
+00:07:23,610 --> 00:07:27,039
 The next day is warm and sunny.
 
 119
-00:06:57,979 --> 00:06:59,830
+00:07:27,039 --> 00:07:30,830
 Don Diego gets on his beautiful horse.
 
 120
-00:06:59,830 --> 00:07:02,610
+00:07:30,830 --> 00:07:36,679
 He rides to Don Carlos Pulido's big hacienda.
 
 121
-00:07:02,610 --> 00:07:07,130
+00:07:36,679 --> 00:07:40,659
 Don Carlos is a good friend of Don Diego's
 family.
 
 122
-00:07:07,130 --> 00:07:09,370
+00:07:40,659 --> 00:07:44,610
 Both families are rich and important.
 
 123
-00:07:09,370 --> 00:07:14,729
+00:07:44,610 --> 00:07:48,020
 But the Governor does not like Don Carlos.
 
 124
-00:07:14,729 --> 00:07:22,330
+00:07:48,020 --> 00:07:50,289
 He creates problems for him.
 
 125
-00:07:22,330 --> 00:07:35,449
+00:07:50,289 --> 00:07:53,800
 He wants to take Don Carlos' land.
 
 126
-00:07:35,449 --> 00:07:50,460
+00:07:53,800 --> 00:07:56,330
 Don Carlos is happy to see his friend.
 
 127
-00:07:50,460 --> 00:07:57,960
+00:07:56,330 --> 00:07:58,409
 "Good morning, Don Diego.
 
 128
-00:07:57,960 --> 00:08:01,420
+00:07:58,409 --> 00:08:00,449
 What a nice surprise!
 
 129
-00:08:01,420 --> 00:08:04,430
+00:08:00,449 --> 00:08:01,960
 Come and sit in the patio."
 
 130
-00:08:04,430 --> 00:08:05,530
+00:08:01,960 --> 00:08:03,439
 "Thank you.
 
 131
-00:08:05,530 --> 00:08:11,569
+00:08:03,439 --> 00:08:07,249
 I am here to say something very important,"
 says Don Diego.
 
 132
-00:08:11,569 --> 00:08:14,870
+00:08:07,249 --> 00:08:10,410
 "I am almost 25 years old.
 
 133
-00:08:14,870 --> 00:08:20,910
+00:08:10,410 --> 00:08:13,889
 My father wants me to get married and start
 a family.
 
 134
-00:08:20,910 --> 00:08:25,840
+00:08:13,889 --> 00:08:15,949
 I am not interested in marriage.
 
 135
-00:08:25,840 --> 00:08:39,890
+00:08:15,949 --> 00:08:21,389
 I think love and marriage are boring but I
 must obey my father.
 
 136
-00:08:39,890 --> 00:08:46,940
+00:08:21,389 --> 00:08:25,119
 How old is your daughter Lolita?" asks Don
 Diego.
 
 137
-00:08:46,940 --> 00:08:52,269
+00:08:25,119 --> 00:08:30,800
 "Lolita is 18 years old and she is very beautiful,"
 answers Don Carlos.
 
 138
-00:08:52,269 --> 00:08:56,680
+00:08:30,800 --> 00:08:33,240
 "You have a fine family.
 
 139
-00:08:56,680 --> 00:09:02,680
+00:08:33,240 --> 00:08:38,539
 With your permission ', I want to marry your
 daughter," says Don Diego.
 
 140
-00:09:02,680 --> 00:09:05,810
+00:08:38,539 --> 00:08:40,589
 Don Carlos smiles and is happy.
 
 141
-00:09:05,810 --> 00:09:09,009
+00:08:40,589 --> 00:08:43,669
 "This is an honour for our family.
 
 142
-00:09:09,009 --> 00:09:10,980
+00:08:43,669 --> 00:08:45,200
 You have my permission!
 
 143
-00:09:10,980 --> 00:09:13,920
+00:08:45,200 --> 00:08:46,770
 Do you want to see Lolita?"
 
 144
-00:09:13,920 --> 00:09:15,889
+00:08:46,770 --> 00:08:49,140
 "I think I must!"
 
 145
-00:09:15,889 --> 00:09:17,360
+00:08:49,140 --> 00:08:51,620
 answers Don Diego.
 
 146
-00:09:17,360 --> 00:09:20,699
+00:08:51,620 --> 00:08:55,970
 Don Carlos calls her and she comes to the
 patio.
 
 147
-00:09:20,699 --> 00:09:24,069
+00:08:55,970 --> 00:09:00,740
 Lolita is a lovely girl with long black hair
 and dark eyes.
 
 148
-00:09:24,069 --> 00:09:25,149
+00:09:00,740 --> 00:09:02,780
 "Good morning, senorita.
 
 149
-00:09:25,149 --> 00:09:29,429
+00:09:02,780 --> 00:09:06,450
 There is something I must tell you," says
 Don Diego smiling.
 
 150
-00:09:29,429 --> 00:09:32,850
+00:09:06,450 --> 00:09:10,090
 "I want to marry you and your father approves."
 
 151
-00:09:32,850 --> 00:09:33,850
+00:09:10,090 --> 00:09:12,050
 "Oh, senor!"
 
 152
-00:09:33,850 --> 00:09:34,850
+00:09:12,050 --> 00:09:13,050
 exclaims Lolita.
 
 153
-00:09:34,850 --> 00:09:35,850
+00:09:13,050 --> 00:09:15,220
 "You want to marry me!"
 
 154
-00:09:35,850 --> 00:09:36,850
+00:09:15,220 --> 00:09:18,150
 She is surprised and her face is red.
 
 155
-00:09:36,850 --> 00:09:38,170
+00:09:18,150 --> 00:09:20,530
 "Think about it today.
 
 156
-00:09:38,170 --> 00:09:40,670
+00:09:20,530 --> 00:09:23,250
 One of my servants can bring me your answer
 tomorrow."
 
 157
-00:09:40,670 --> 00:09:43,839
+00:09:23,250 --> 00:09:27,210
 "But why can't you come tomorrow?" asks Lolita.
 
 158
-00:09:43,839 --> 00:09:45,910
+00:09:27,210 --> 00:09:29,660
 "Oh, your hacienda is far.
 
 159
-00:09:45,910 --> 00:09:50,689
+00:09:29,660 --> 00:09:31,920
 I get tired when I ride my horse.
 
 160
-00:09:50,689 --> 00:09:54,519
+00:09:31,920 --> 00:09:35,320
 I prefer to stay at home and rest."
 
 161
-00:09:54,519 --> 00:09:55,519
+00:09:35,320 --> 00:09:36,320
 "What!
 
 162
-00:09:55,519 --> 00:10:00,779
+00:09:36,320 --> 00:09:40,590
 You want to marry me and you don't want to
 visit me!
 
 163
-00:10:00,779 --> 00:10:04,079
+00:09:40,590 --> 00:09:43,180
 Is this your idea of love?
 
 164
-00:10:04,079 --> 00:10:09,839
+00:09:43,180 --> 00:09:47,140
 I want to marry a strong, romantic man.
 
 165
-00:10:09,839 --> 00:10:17,959
+00:09:47,140 --> 00:09:51,780
 You are young and rich, but you are not strong
 or romantic!
 
 166
-00:10:17,959 --> 00:10:21,569
+00:09:51,780 --> 00:09:54,990
 Do you have a heart?" says Lolita.
 
 167
-00:10:21,569 --> 00:10:22,570
+00:09:54,990 --> 00:09:56,280
 She is angry.
 
 168
-00:10:22,570 --> 00:10:24,889
+00:09:56,280 --> 00:09:59,280
 She runs away and tells her mother.
 
 169
-00:10:24,889 --> 00:10:30,149
+00:09:59,280 --> 00:10:03,910
 Doha Catalina says, "You are lucky, Lolita.
 
 170
-00:10:30,149 --> 00:10:31,959
+00:10:03,910 --> 00:10:06,780
 Don Diego is very rich.
 
 171
-00:10:31,959 --> 00:10:34,339
+00:10:06,780 --> 00:10:09,650
 He comes from a noble family.
 
 172
-00:10:34,339 --> 00:10:36,329
+00:10:09,650 --> 00:10:12,160
 The Governor likes his family.
 
 173
-00:10:36,329 --> 00:10:39,500
+00:10:12,160 --> 00:10:15,580
 This is a big opportunity for our family."
 
 174
-00:10:39,500 --> 00:10:42,050
+00:10:15,580 --> 00:10:19,930
 In the afternoon Lolita is alone in the patio.
 
 175
-00:10:42,050 --> 00:10:43,939
+00:10:19,930 --> 00:10:22,800
 She is thinking about Don Diego.
 
 176
-00:10:43,939 --> 00:10:46,920
+00:10:22,800 --> 00:10:26,900
 Suddenly she hears a noise and turns around.
 
 177
-00:10:46,920 --> 00:10:49,529
+00:10:26,900 --> 00:10:30,170
 She sees standing in front of her.
 
 178
-00:10:49,529 --> 00:10:50,529
+00:10:30,170 --> 00:10:31,170
 "Zorro!"
 
 179
-00:10:50,529 --> 00:10:51,529
+00:10:31,170 --> 00:10:32,170
 she whispers.
 
 180
-00:10:51,529 --> 00:10:52,529
+00:10:32,170 --> 00:10:34,180
 "Don't be afraid, senorita.
 
 181
-00:10:52,529 --> 00:10:53,529
+00:10:34,180 --> 00:10:36,430
 I only punish corrupt people.
 
 182
-00:10:53,529 --> 00:10:56,699
+00:10:36,430 --> 00:10:38,720
 I like your father because he is honest.
 
 183
-00:10:56,699 --> 00:10:58,129
+00:10:38,720 --> 00:10:40,740
 I am here to admire your beauty."
 
 184
-00:10:58,129 --> 00:10:59,129
+00:10:40,740 --> 00:10:42,310
 "What!
 
 185
-00:10:59,129 --> 00:11:00,129
+00:10:42,310 --> 00:10:44,180
 You must go away.
 
 186
-00:11:00,129 --> 00:11:01,910
+00:10:44,180 --> 00:10:47,330
 You are in great danger," says Lolita.
 
 187
-00:11:01,910 --> 00:11:04,990
+00:10:47,330 --> 00:10:51,050
 "You are beautiful and kind, Lolita," says
 Zorro.
 
 188
-00:11:04,990 --> 00:11:06,920
+00:10:51,050 --> 00:10:52,860
 "Let me kiss your hand."
 
 189
-00:11:06,920 --> 00:11:10,009
+00:10:52,860 --> 00:10:57,500
 Zorro takes her small hand and kisses it.
 
 190
-00:11:10,009 --> 00:11:12,549
+00:10:57,500 --> 00:11:01,710
 Lolita looks into his eyes and smiles.
 
 191
-00:11:12,549 --> 00:11:14,670
+00:11:01,710 --> 00:11:03,510
 Then she runs into the house.
 
 192
-00:11:14,670 --> 00:11:17,170
+00:11:03,510 --> 00:11:06,180
 "What a courageous man!
 
 193
-00:11:17,170 --> 00:11:22,139
+00:11:06,180 --> 00:11:13,610
 He is a bandit but I like him," Lolita thinks.
 
 194
-00:11:22,139 --> 00:11:23,139
+00:11:13,610 --> 00:11:14,930
 CHAPTER FOUR
 
 195
-00:11:23,139 --> 00:11:24,139
+00:11:14,930 --> 00:11:18,910
 Captain Ramon
 
 196
-00:11:24,139 --> 00:11:28,299
+00:11:18,910 --> 00:11:23,800
 At 8 p.m. it is dinner time at Don Carlos'
 home.
 
 197
-00:11:28,299 --> 00:11:31,369
+00:11:23,800 --> 00:11:26,630
 The family is sitting at the table.
 
 198
-00:11:31,369 --> 00:11:35,980
+00:11:26,630 --> 00:11:30,180
 Someone knocks at the door.
 
 199
-00:11:35,980 --> 00:11:39,569
+00:11:30,180 --> 00:11:36,210
 A servant opens it and Zorro appears!
 
 200
-00:11:39,569 --> 00:11:42,339
+00:11:36,210 --> 00:11:39,810
 Don Carlos, his wife and daughter stand up.
 
 201
-00:11:42,339 --> 00:11:43,670
+00:11:39,810 --> 00:11:41,360
 They are scared.
 
 202
-00:11:43,670 --> 00:11:45,540
+00:11:41,360 --> 00:11:43,200
 "Good evening," says Zorro.
 
 203
-00:11:45,540 --> 00:11:46,819
+00:11:43,200 --> 00:11:45,150
 "Don't be scared!
 
 204
-00:11:46,819 --> 00:11:49,819
+00:11:45,150 --> 00:11:47,740
 You are an honest man, Don Carlos.
 
 205
-00:11:49,819 --> 00:11:56,830
+00:11:47,740 --> 00:11:50,680
 I only want some food and drink."
 
 206
-00:11:56,830 --> 00:12:12,829
+00:11:50,680 --> 00:11:56,840
 Zorro goes to Lolita and whispers, "I cannot
 forget this afternoon in the patio."
 
 207
-00:12:12,829 --> 00:12:15,720
+00:11:56,840 --> 00:11:58,560
 "You must not come here.
 
 208
-00:12:15,720 --> 00:12:16,939
+00:11:58,560 --> 00:12:00,070
 It is dangerous!"
 
 209
-00:12:16,939 --> 00:12:17,939
+00:12:00,070 --> 00:12:02,550
 whispers Lolita.
 
 210
-00:12:17,939 --> 00:12:20,880
+00:12:02,550 --> 00:12:06,530
 Suddenly a young Spanish soldier enters the
 house.
 
 211
-00:12:20,880 --> 00:12:22,269
+00:12:06,530 --> 00:12:08,790
 He is Captain Ramon.
 
 212
-00:12:22,269 --> 00:12:24,000
+00:12:08,790 --> 00:12:11,780
 He wants to arrest Zorro.
 
 213
-00:12:24,000 --> 00:12:29,360
+00:12:11,780 --> 00:12:15,360
 Zorro takes out his sword and they fight.
 
 214
-00:12:29,360 --> 00:12:31,750
+00:12:15,360 --> 00:12:17,810
 The two men are good fighters.
 
 215
-00:12:31,750 --> 00:12:35,339
+00:12:17,810 --> 00:12:21,970
 "I want to arrest you, Zorro," says Captain
 Ramon.
 
 216
-00:12:35,339 --> 00:12:36,920
+00:12:21,970 --> 00:12:23,870
 "You are a public enemy."
 
 217
-00:12:36,920 --> 00:12:39,109
+00:12:23,870 --> 00:12:27,190
 "You cannot arrest me!" says Zorro.
 
 218
-00:12:39,109 --> 00:12:43,029
+00:12:27,190 --> 00:12:32,730
 Zorro injures the Captain's shoulder with
 his sword.
 
 219
-00:12:43,029 --> 00:12:45,569
+00:12:32,730 --> 00:12:34,990
 The Captain falls to the floor.
 
 220
-00:12:45,569 --> 00:12:46,569
+00:12:34,990 --> 00:12:37,150
 "Please help the Captain!"
 
 221
-00:12:46,569 --> 00:12:49,820
+00:12:37,150 --> 00:12:39,560
 Zorro says to Don Carlos.
 
 222
-00:12:49,820 --> 00:12:55,009
+00:12:39,560 --> 00:12:47,750
 Then he smiles at Lolita and rides away on
 his horse.
 
 223
-00:12:55,009 --> 00:12:59,299
+00:12:47,750 --> 00:12:53,210
 Don Carlos' wife and daughter look after Captain
 Ramon's injured shoulder.
 
 224
-00:12:59,299 --> 00:13:01,410
+00:12:53,210 --> 00:12:56,530
 The Captain likes beautiful Lolita.
 
 225
-00:13:01,410 --> 00:13:05,639
+00:12:56,530 --> 00:13:02,200
 "Don Carlos,'' says the Captain, "I like Lolita
 very much.
 
 226
-00:13:05,639 --> 00:13:10,910
+00:13:02,200 --> 00:13:06,290
 I come from a good family and I am the Governor's
 friend.
 
 227
-00:13:10,910 --> 00:13:16,709
+00:13:06,290 --> 00:13:11,150
 I am 23 years old and I am the Captain of
 the Presidio.
 
 228
-00:13:16,709 --> 00:13:17,920
+00:13:11,150 --> 00:13:13,170
 May I court Lolita?"
 
 229
-00:13:17,920 --> 00:13:20,879
+00:13:13,170 --> 00:13:18,020
 "First, I must explain something," says Don
 Carlos.
 
 230
-00:13:20,879 --> 00:13:24,709
+00:13:18,020 --> 00:13:22,400
 "Don Diego Vega wants to court Lolita too.
 
 231
-00:13:24,709 --> 00:13:29,101
+00:13:22,400 --> 00:13:29,030
 Lolita must choose her husband herself, but
 you have my permission to court her!"
 
 232
-00:13:29,101 --> 00:13:33,629
+00:13:29,030 --> 00:13:34,330
 The next morning there is a lot of noise at
 the Presidio Don.
 
 233
-00:13:33,629 --> 00:13:36,939
+00:13:34,330 --> 00:13:37,120
 Diego and other men are watching.
 
 234
-00:13:36,939 --> 00:13:40,089
+00:13:37,120 --> 00:13:40,120
 There are many soldiers on their horses.
 
 235
-00:13:40,089 --> 00:13:43,669
+00:13:40,120 --> 00:13:43,730
 They are listening to Sergeant Gonzales.
 
 236
-00:13:43,669 --> 00:13:45,919
+00:13:43,730 --> 00:13:47,690
 "Today is an important day.
 
 237
-00:13:45,919 --> 00:13:47,829
+00:13:47,690 --> 00:13:49,970
 We must find Zorro!
 
 238
-00:13:47,829 --> 00:13:50,350
+00:13:49,970 --> 00:13:54,820
 We must look in every hacienda and in every
 home.
 
 239
-00:13:50,350 --> 00:13:51,619
+00:13:54,820 --> 00:13:57,050
 Remember the Governor's big reward.
 
 240
-00:13:51,619 --> 00:13:52,619
+00:13:57,050 --> 00:13:59,040
 Let's go!"
 
 241
-00:13:52,619 --> 00:13:53,869
+00:13:59,040 --> 00:14:03,840
 That morning Don Diego sends a letter to Don
 Carlos:
 
 242
-00:13:53,869 --> 00:13:54,869
+00:14:03,840 --> 00:14:06,010
 My dear friend,
 
 243
-00:13:54,869 --> 00:13:56,320
+00:14:06,010 --> 00:14:09,850
 Sergeant Gonzales and his soldiers want to
 arrest Zorro.
 
 244
-00:13:56,320 --> 00:14:01,209
+00:14:09,850 --> 00:14:14,010
 It is dangerous for you and your family to
 stay at your hacienda.
 
 245
-00:14:01,209 --> 00:14:04,829
+00:14:14,010 --> 00:14:17,000
 Please come to my home in Reina de Los Angeles.
 
 246
-00:14:04,829 --> 00:14:06,999
+00:14:17,000 --> 00:14:19,510
 It is safe in my home.
 
 247
-00:14:06,999 --> 00:14:10,459
+00:14:19,510 --> 00:14:22,040
 I must go away for a few days.
 
 248
-00:14:10,459 --> 00:14:11,959
+00:14:22,040 --> 00:14:23,240
 Your friend,
 
 249
-00:14:11,959 --> 00:14:13,459
+00:14:23,240 --> 00:14:24,870
 Diego Vega.
 
 250
-00:14:13,459 --> 00:14:19,230
+00:14:24,870 --> 00:14:30,310
 Don Carlos receives the letter and says, "What
 a generous invitation!
 
 251
-00:14:19,230 --> 00:14:20,399
+00:14:30,310 --> 00:14:33,000
 Don Diego wants to protect Lolita.
 
 252
-00:14:20,399 --> 00:14:21,730
+00:14:33,000 --> 00:14:35,600
 We must accept the invitation.
 
 253
-00:14:21,730 --> 00:14:23,109
+00:14:35,600 --> 00:14:40,240
 Let us go immediately!"
 
 254
-00:14:23,109 --> 00:14:24,109
+00:14:40,240 --> 00:14:41,430
 CHAPTER FIVE
 
 255
-00:14:24,109 --> 00:14:25,660
+00:14:41,430 --> 00:14:44,940
 Lolita is in Love
 
 256
-00:14:25,660 --> 00:14:30,550
+00:14:44,940 --> 00:14:50,470
 Don Diego's home in Reina de Los Angeles is
 big and beautiful.
 
 257
-00:14:30,550 --> 00:14:33,949
+00:14:50,470 --> 00:14:53,810
 There are many rooms and many servants.
 
 258
-00:14:33,949 --> 00:14:41,839
+00:14:53,810 --> 00:14:57,570
 There is a big garden with trees and flowers.
 
 259
-00:14:41,839 --> 00:14:45,359
+00:14:57,570 --> 00:15:01,230
 Don Carlos and his family like it.
 
 260
-00:14:45,359 --> 00:14:46,359
+00:15:01,230 --> 00:15:02,790
 "Lolita!
 
 261
-00:14:46,359 --> 00:14:53,100
+00:15:02,790 --> 00:15:08,120
 Marry Don Diego and this beautiful home is
 yours!" says Doha Catalina.
 
 262
-00:14:53,100 --> 00:14:56,529
+00:15:08,120 --> 00:15:10,230
 "I don't love Don Diego!
 
 263
-00:14:56,529 --> 00:15:02,029
+00:15:10,230 --> 00:15:13,380
 I don't want to marry him!" says Lolita.
 
 264
-00:15:02,029 --> 00:15:12,149
+00:15:13,380 --> 00:15:19,340
 "Lolita, tonight your mother and I must visit
 our old friends," says Don Carlos.
 
 265
-00:15:12,149 --> 00:15:14,660
+00:15:19,340 --> 00:15:21,430
 "Can you stay at home alone?"
 
 266
-00:15:14,660 --> 00:15:15,910
+00:15:21,430 --> 00:15:23,420
 "Yes, of course.
 
 267
-00:15:15,910 --> 00:15:19,809
+00:15:23,420 --> 00:15:26,590
 There are many books in Don Diego's library.
 
 268
-00:15:19,809 --> 00:15:22,679
+00:15:26,590 --> 00:15:29,480
 I can stay here and read."
 
 269
-00:15:22,679 --> 00:15:24,550
+00:15:29,480 --> 00:15:31,500
 Lolita looks at the books.
 
 270
-00:15:24,550 --> 00:15:25,550
+00:15:31,500 --> 00:15:33,560
 "How strange!"
 
 271
-00:15:25,550 --> 00:15:26,550
+00:15:33,560 --> 00:15:34,580
 she thinks.
 
 272
-00:15:26,550 --> 00:15:29,410
+00:15:34,580 --> 00:15:42,320
 "Don Diego has books about love, passion,
 adventure, horses and heroes!
 
 273
-00:15:29,410 --> 00:15:31,049
+00:15:42,320 --> 00:15:46,440
 But he isn't strong and is so lifeless !"
 
 274
-00:15:31,049 --> 00:15:33,829
+00:15:46,440 --> 00:15:50,380
 Suddenly there is a knock at the door.
 
 275
-00:15:33,829 --> 00:15:37,560
+00:15:50,380 --> 00:15:56,320
 A servant opens it and Captain Ramon enters.
 
 276
-00:15:37,560 --> 00:15:41,109
+00:15:56,320 --> 00:15:59,560
 He goes to the library and sees Lolita.
 
 277
-00:15:41,109 --> 00:15:43,190
+00:15:59,560 --> 00:16:02,320
 "I'm glad you are alone!
 
 278
-00:15:43,190 --> 00:15:47,059
+00:16:02,320 --> 00:16:04,880
 You are a very beautiful girl.
 
 279
-00:15:47,059 --> 00:15:48,720
+00:16:04,880 --> 00:16:07,650
 I have your father's permission to court you!
 
 280
-00:15:48,720 --> 00:15:55,519
+00:16:07,650 --> 00:16:13,660
 I know that Don Diego wants to marry you,
 but I am superior in every way.
 
 281
-00:15:55,519 --> 00:15:57,559
+00:16:13,660 --> 00:16:16,070
 Don Diego has no courage.
 
 282
-00:15:57,559 --> 00:15:59,600
+00:16:16,070 --> 00:16:17,980
 He is a weak man.
 
 283
-00:15:59,600 --> 00:16:02,459
+00:16:17,980 --> 00:16:20,940
 I am the Captain of the Presidio."
 
 284
-00:16:02,459 --> 00:16:04,499
+00:16:20,940 --> 00:16:23,820
 "I am alone,'' says Lolita.
 
 285
-00:16:04,499 --> 00:16:06,129
+00:16:23,820 --> 00:16:25,950
 "You cannot stay here.
 
 286
-00:16:06,129 --> 00:16:07,699
+00:16:25,950 --> 00:16:27,420
 It is not right.
 
 287
-00:16:07,699 --> 00:16:09,139
+00:16:27,420 --> 00:16:29,450
 Please go away!"
 
 288
-00:16:09,139 --> 00:16:14,439
+00:16:29,450 --> 00:16:34,290
 Captain Ramon takes her hand and says, "Don't
 run away, Lolita.
 
 289
-00:16:14,439 --> 00:16:15,889
+00:16:34,290 --> 00:16:35,870
 You are mine!
 
 290
-00:16:15,889 --> 00:16:16,889
+00:16:35,870 --> 00:16:38,150
 Kiss me!"
 
 291
-00:16:16,889 --> 00:16:21,519
+00:16:38,150 --> 00:16:42,770
 Lolita pushes him away and says, "I don't
 want to kiss you.
 
 292
-00:16:21,519 --> 00:16:22,519
+00:16:42,770 --> 00:16:44,320
 Go away!"
 
 293
-00:16:22,519 --> 00:16:24,180
+00:16:44,320 --> 00:16:46,290
 "No, you are mine.
 
 294
-00:16:24,180 --> 00:16:25,180
+00:16:46,290 --> 00:16:48,310
 You must marry me.
 
 295
-00:16:25,180 --> 00:16:26,180
+00:16:48,310 --> 00:16:51,420
 Now kiss me!"
 
 296
-00:16:26,180 --> 00:16:27,739
+00:16:51,420 --> 00:16:55,050
 Lolita slaps the Captain's face.
 
 297
-00:16:27,739 --> 00:16:35,970
+00:16:55,050 --> 00:17:02,790
 At that moment Zorro appears in the library
 and says, "Captain Ramon, you are a villain.
 
 298
-00:16:35,970 --> 00:16:36,990
+00:17:02,790 --> 00:17:04,470
 Don't touch Lolita!
 
 299
-00:16:36,990 --> 00:16:38,360
+00:17:04,470 --> 00:17:06,289
 Leave this house immediately!"
 
 300
-00:16:38,360 --> 00:16:41,169
+00:17:06,289 --> 00:17:11,870
 "I cannot forget this terrible insult," says
 the Captain.
 
 301
-00:16:41,169 --> 00:16:43,290
+00:17:11,870 --> 00:17:14,559
 His face is red with anger.
 
 302
-00:16:43,290 --> 00:16:46,470
+00:17:14,559 --> 00:17:19,449
 Zorro opens the door and kicks him out.
 
 303
-00:16:46,470 --> 00:16:48,689
+00:17:19,449 --> 00:17:22,679
 "Thank you for your help, Zorro.
 
 304
-00:16:48,689 --> 00:16:50,429
+00:17:22,679 --> 00:17:25,459
 You are courageous and kind.
 
 305
-00:16:50,429 --> 00:16:51,489
+00:17:25,459 --> 00:17:27,059
 I love you!"
 
 306
-00:16:51,489 --> 00:16:52,489
+00:17:27,059 --> 00:17:28,360
 Lolita says.
 
 307
-00:16:52,489 --> 00:16:53,489
+00:17:28,360 --> 00:17:31,389
 "Dear Lolita, I love you too!"
 
 308
-00:16:53,489 --> 00:16:54,489
+00:17:31,389 --> 00:17:32,960
 says Zorro.
 
 309
-00:16:54,489 --> 00:16:55,790
+00:17:32,960 --> 00:17:38,909
 They embrace and kiss.
 
 310
-00:16:55,790 --> 00:16:56,790
+00:17:38,909 --> 00:17:40,669
 CHAPTER SIX
 
 311
-00:16:56,790 --> 00:16:57,790
+00:17:40,669 --> 00:17:44,509
 Friar Felipe
 
 312
-00:16:57,790 --> 00:16:59,220
+00:17:44,509 --> 00:17:47,669
 Captain Ramon returns to the Presidio.
 
 313
-00:16:59,220 --> 00:17:00,369
+00:17:47,669 --> 00:17:48,809
 He is furious.
 
 314
-00:17:00,369 --> 00:17:03,239
+00:17:48,809 --> 00:17:56,350
 "I must punish Lolita, her family and Zorro
 for their insults!" he thinks.
 
 315
-00:17:03,239 --> 00:17:04,390
+00:17:56,350 --> 00:17:59,220
 "I must write a letter to the Governor.
 
 316
-00:17:04,390 --> 00:17:08,309
+00:17:59,220 --> 00:18:05,039
 I must tell him that Don Carlos Pulido and
 his family are traitors.
 
 317
-00:17:08,309 --> 00:17:09,309
+00:18:05,039 --> 00:18:06,980
 They are Zorro's friends.
 
 318
-00:17:09,309 --> 00:17:10,309
+00:18:06,980 --> 00:18:09,940
 They help him."
 
 319
-00:17:10,309 --> 00:17:12,669
+00:18:09,940 --> 00:18:13,370
 He writes the letter and sends it to the Governor.
 
 320
-00:17:12,669 --> 00:17:17,169
+00:18:13,370 --> 00:18:19,720
 He smiles and says, "I want to see the Pulido
 family in prison!"
 
 321
-00:17:17,169 --> 00:17:21,939
+00:18:19,720 --> 00:18:25,509
 "I want to see you in prison!" says a man's
 voice.
 
 322
-00:17:21,939 --> 00:17:25,579
+00:18:25,509 --> 00:18:28,379
 Captain Ramon turns around and sees Zorro.
 
 323
-00:17:25,579 --> 00:17:27,130
+00:18:28,379 --> 00:18:30,649
 "You are a villain.
 
 324
-00:17:27,130 --> 00:17:30,760
+00:18:30,649 --> 00:18:34,510
 Fight me but don't hurt the Pulido family!"
 says Zorro.
 
 325
-00:17:30,760 --> 00:17:33,530
+00:18:34,510 --> 00:18:39,200
 "Sergeant Gonzales, come quickly!" says the
 Captain.
 
 326
-00:17:33,530 --> 00:17:35,230
+00:18:39,200 --> 00:18:41,860
 "Zorro is here."
 
 327
-00:17:35,230 --> 00:17:36,850
+00:18:41,860 --> 00:18:42,860
 Zorro disappears.
 
 328
-00:17:36,850 --> 00:17:41,549
+00:18:42,860 --> 00:18:46,830
 "I am here, Captain," says Sergeant Gonzales.
 
 329
-00:17:41,549 --> 00:17:44,850
+00:18:46,830 --> 00:18:50,019
 "Take all the soldiers and find Zorro!
 
 330
-00:17:44,850 --> 00:17:46,740
+00:18:50,019 --> 00:18:52,049
 We must capture him."
 
 331
-00:17:46,740 --> 00:17:48,630
+00:18:52,049 --> 00:18:55,120
 The soldiers follow Zorro.
 
 332
-00:17:48,630 --> 00:17:51,139
+00:18:55,120 --> 00:18:56,840
 The night is dark.
 
 333
-00:17:51,139 --> 00:17:57,419
+00:18:56,840 --> 00:19:01,740
 It is difficult to follow him because his
 horse is very fast.
 
 334
-00:17:57,419 --> 00:18:01,940
+00:19:01,740 --> 00:19:07,139
 The next morning the soldiers return to the
 Presidio.
 
 335
-00:18:01,940 --> 00:18:04,260
+00:19:07,139 --> 00:19:10,159
 They are tired and angry.
 
 336
-00:18:04,260 --> 00:18:05,940
+00:19:10,159 --> 00:19:12,929
 Zorro is still free.
 
 337
-00:18:05,940 --> 00:18:09,080
+00:19:12,929 --> 00:19:16,889
 There are many people in front of the Presidio
 that morning.
 
 338
-00:18:09,080 --> 00:18:10,850
+00:19:16,889 --> 00:19:19,789
 Don Diego is there too.
 
 339
-00:18:10,850 --> 00:18:12,039
+00:19:19,789 --> 00:19:21,850
 Something is happening.
 
 340
-00:18:12,039 --> 00:18:17,549
+00:19:21,850 --> 00:19:31,350
 An old friar is standing before the magistrate
 L The old friar is in chains.
 
 341
-00:18:17,549 --> 00:18:21,200
+00:19:31,350 --> 00:19:36,009
 "I am not a thief," says the old friar.
 
 342
-00:18:21,200 --> 00:18:23,539
+00:19:36,009 --> 00:19:38,130
 "I am a poor friar."
 
 343
-00:18:23,539 --> 00:18:26,340
+00:19:38,130 --> 00:19:41,490
 "What is happening?" asks Don Diego.
 
 344
-00:18:26,340 --> 00:18:29,139
+00:19:41,490 --> 00:19:43,590
 "This old friar is a thief.
 
 345
-00:18:29,139 --> 00:18:32,399
+00:19:43,590 --> 00:19:47,450
 He must be punished," answers the magistrate.
 
 346
-00:18:32,399 --> 00:18:33,799
+00:19:47,450 --> 00:19:50,059
 "That is impossible.
 
 347
-00:18:33,799 --> 00:18:36,600
+00:19:50,059 --> 00:19:52,210
 Friar Felipe is an honest man.
 
 348
-00:18:36,600 --> 00:18:39,399
+00:19:52,210 --> 00:19:55,370
 I know him," says Don Diego.
 
 349
-00:18:39,399 --> 00:18:45,809
+00:19:55,370 --> 00:20:00,059
 "No, you are wrong," says the cruel magistrate.
 
 350
-00:18:45,809 --> 00:18:55,539
+00:20:00,059 --> 00:20:04,440
 He calls two soldiers and says, "Whip this
 friar 15 times."
 
 351
-00:18:55,539 --> 00:19:00,870
+00:20:04,440 --> 00:20:12,720
 The soldiers whip the old friar and he falls
 to the ground.
 
 352
-00:19:00,870 --> 00:19:04,929
+00:20:12,720 --> 00:20:18,350
 Don Diego is very angry because Friar Felipe
 is his friend.
 
 353
-00:19:04,929 --> 00:19:08,080
+00:20:18,350 --> 00:20:21,259
 He returns to his father's hacienda.
 
 354
-00:19:08,080 --> 00:19:13,340
+00:20:21,259 --> 00:20:26,169
 "Good afternoon, my son," says his father,
 Don Alejandro Vega.
 
 355
-00:19:13,340 --> 00:19:16,490
+00:20:26,169 --> 00:20:29,059
 "I am happy to see you.
 
 356
-00:19:16,490 --> 00:19:19,230
+00:20:29,059 --> 00:20:31,400
 Come and tell me about Lolita.
 
 357
-00:19:19,230 --> 00:19:22,190
+00:20:31,400 --> 00:20:33,090
 Does she want to marry you?"
 
 358
-00:19:22,190 --> 00:19:26,130
+00:20:33,090 --> 00:20:37,230
 "I like Lolita, but she doesn't like me.
 
 359
-00:19:26,130 --> 00:19:28,100
+00:20:37,230 --> 00:20:39,399
 She likes romantic men.
 
 360
-00:19:28,100 --> 00:19:31,549
+00:20:39,399 --> 00:20:42,200
 What can I do?" asks Don Diego.
 
 361
-00:19:31,549 --> 00:19:34,019
+00:20:42,200 --> 00:20:45,600
 "Girls like courageous, romantic men.
 
 362
-00:19:34,019 --> 00:19:36,490
+00:20:45,600 --> 00:20:47,659
 You must talk about love.
 
 363
-00:19:36,490 --> 00:19:39,669
+00:20:47,659 --> 00:20:50,950
 You must play the guitar and sing love songs.
 
 364
-00:19:39,669 --> 00:19:41,309
+00:20:50,950 --> 00:20:52,929
 Give her some flowers.
 
 365
-00:19:41,309 --> 00:19:43,669
+00:20:52,929 --> 00:20:54,629
 This is what young men do.
 
 366
-00:19:43,669 --> 00:19:46,039
+00:20:54,629 --> 00:20:57,480
 Wake up, Diego!" says Don Alejandro.
 
 367
-00:19:46,039 --> 00:19:47,039
+00:20:57,480 --> 00:20:59,509
 "How ridiculous!
 
 368
-00:19:47,039 --> 00:19:50,370
+00:20:59,509 --> 00:21:02,950
 I cannot do these stupid things," says Don
 Diego.
 
 369
-00:19:50,370 --> 00:19:51,549
+00:21:02,950 --> 00:21:04,769
 "You must try.
 
 370
-00:19:51,549 --> 00:19:54,700
+00:21:04,769 --> 00:21:07,559
 Lolita is a lovely girl," says Don Alejandro.
 
 371
-00:19:54,700 --> 00:19:57,269
+00:21:07,559 --> 00:21:10,690
 "There are many problems in my life.
 
 372
-00:19:57,269 --> 00:20:00,110
+00:21:10,690 --> 00:21:17,960
 I want to rest and meditate," says Don Diego.
 
 373
-00:20:00,110 --> 00:20:01,110
+00:21:17,960 --> 00:21:19,590
 CHAPTER SEVEN
 
 374
-00:20:01,110 --> 00:20:02,110
+00:21:19,590 --> 00:21:22,980
 The Avengers
 
 375
-00:20:02,110 --> 00:20:05,070
+00:21:22,980 --> 00:21:27,399
 In the evening the magistrate and his friends
 are in the tavern.
 
 376
-00:20:05,070 --> 00:20:08,019
+00:21:27,399 --> 00:21:35,019
 They are laughing about the old friar.
 
 377
-00:20:08,019 --> 00:20:11,580
+00:21:35,019 --> 00:21:39,429
 Why are you laughing?" asks a mysterious voice.
 
 378
-00:20:11,580 --> 00:20:17,240
+00:21:39,429 --> 00:21:43,999
 They look at the door of the tavern and see
 Zorro.
 
 379
-00:20:17,240 --> 00:20:23,750
+00:21:43,999 --> 00:21:48,220
 He has a pistol in one hand and a sword in
 the other.
 
 380
-00:20:23,750 --> 00:20:24,750
+00:21:48,220 --> 00:21:49,470
 "Magistrate!
 
 381
-00:20:24,750 --> 00:20:35,289
+00:21:49,470 --> 00:21:56,239
 I am here to punish you," says Zorro. "Old
 Friar Felipe is not a thief and you know it."
 
 382
-00:20:35,289 --> 00:20:38,179
+00:21:56,239 --> 00:21:59,120
 "I am an important magistrate.
 
 383
-00:20:38,179 --> 00:20:41,789
+00:21:59,120 --> 00:22:03,340
 I don't like friars because they are your
 friends, Zorro."
 
 384
-00:20:41,789 --> 00:20:47,000
+00:22:03,340 --> 00:22:10,899
 Zorro gives a whip to the magistrate's friend
 and says, "Now whip this corrupt magistrate
 
 385
-00:20:47,000 --> 00:20:48,000
+00:22:10,899 --> 00:22:12,350
 15 times."
 
 386
-00:20:48,000 --> 00:20:50,250
+00:22:12,350 --> 00:22:15,760
 "But I cannot do this," says the friend.
 
 387
-00:20:50,250 --> 00:20:56,009
+00:22:15,760 --> 00:22:19,179
 "Whip him or I whip you!" says Zorro.
 
 388
-00:20:56,009 --> 00:20:57,850
+00:22:19,179 --> 00:22:23,049
 The friend whips the magistrate.
 
 389
-00:20:57,850 --> 00:21:01,730
+00:22:23,049 --> 00:22:26,840
 After the punishment the magistrate falls
 to the ground.
 
 390
-00:21:01,730 --> 00:21:08,000
+00:22:26,840 --> 00:22:31,809
 ''This is how I punish dishonest people,''
 says Zorro.
 
 391
-00:21:08,000 --> 00:21:11,990
+00:22:31,809 --> 00:22:36,450
 The next day everyone talks about the magistrate's
 punishment.
 
 392
-00:21:11,990 --> 00:21:19,100
+00:22:36,450 --> 00:22:42,260
 A group of young men want to help Captain
 Ramon arrest Zorro.
 
 393
-00:21:19,100 --> 00:21:29,320
-They 
+00:22:42,260 --> 00:22:46,279
+They look for him in the hills and in the
+valleys.
 
 394
-00:21:29,320 --> 00:21:33,159
-look for him in the hills and in the valleys.
-
-395
-00:21:33,159 --> 00:21:38,049
+00:22:46,279 --> 00:22:50,419
 In the evening they go to the Vega hacienda.
 
-396
-00:21:38,049 --> 00:21:43,960
+395
+00:22:50,419 --> 00:22:54,919
 When Don Alejandro sees them he says, "Why
 are you all here?"
 
-397
-00:21:43,960 --> 00:21:46,100
+396
+00:22:54,919 --> 00:22:56,980
 "We are looking for Zorro.
 
-398
-00:21:46,100 --> 00:21:48,720
+397
+00:22:56,980 --> 00:22:59,840
 We want to capture the bandit and get the
 reward.
 
-399
-00:21:48,720 --> 00:21:50,400
+398
+00:22:59,840 --> 00:23:01,330
 But now we are tired and hungry.
 
-400
-00:21:50,400 --> 00:21:52,140
+399
+00:23:01,330 --> 00:23:03,179
 Can you give us some food?"
 
-401
-00:21:52,140 --> 00:21:53,140
+400
+00:23:03,179 --> 00:23:04,879
 "Yes, of course.
 
-402
-00:21:53,140 --> 00:21:54,140
+401
+00:23:04,879 --> 00:23:06,129
 Please come in.
 
-403
-00:21:54,140 --> 00:22:00,059
+402
+00:23:06,129 --> 00:23:10,130
 You can put your swords and pistols near the
 door," says Don Alejandro.
 
-404
-00:22:00,059 --> 00:22:01,059
+403
+00:23:10,130 --> 00:23:11,460
 "Sit down!
 
-405
-00:22:01,059 --> 00:22:03,850
+404
+00:23:11,460 --> 00:23:14,960
 Eat these cakes and this wine."
 
-406
-00:22:03,850 --> 00:22:08,309
+405
+00:23:14,960 --> 00:23:20,009
 Don Alejandro and Don Diego talk to the young
 men.
 
-407
-00:22:08,309 --> 00:22:11,679
+406
+00:23:20,009 --> 00:23:24,309
 At 9 p.m. Don Diego says, "Please excuse me.
 
-408
-00:22:11,679 --> 00:22:16,210
+407
+00:23:24,309 --> 00:23:26,840
 I am tired and I am going to bed."
 
-409
-00:22:16,210 --> 00:22:22,650
+408
+00:23:26,840 --> 00:23:30,820
 "Look, Diego, these young men are not tired.
 
-410
-00:22:22,650 --> 00:22:25,880
+409
+00:23:30,820 --> 00:23:32,909
 It's only 9 p.m.
 
-411
-00:22:25,880 --> 00:22:32,269
+410
+00:23:32,909 --> 00:23:37,409
 You are young but you are always tired," says
 Don Alejandro.
 
-412
-00:22:32,269 --> 00:22:34,500
+411
+00:23:37,409 --> 00:23:40,850
 "Yes, father, you are right.
 
-413
-00:22:34,500 --> 00:22:35,840
+412
+00:23:40,850 --> 00:23:42,940
 Good night everyone!"
 
-414
-00:22:35,840 --> 00:22:38,529
+413
+00:23:42,940 --> 00:23:46,889
 The others eat, drink and sing.
 
-415
-00:22:38,529 --> 00:22:43,840
+414
+00:23:46,889 --> 00:23:50,990
 At midnight a masked man appears at the door.
 
-416
-00:22:43,840 --> 00:22:47,960
+415
+00:23:50,990 --> 00:23:55,909
 "Look, it is Zorro!" says one of the young
 men.
 
-417
-00:22:47,960 --> 00:22:49,580
+416
+00:23:55,909 --> 00:23:59,869
 "Zorro, the bandit," they all say.
 
-418
-00:22:49,580 --> 00:22:53,230
+417
+00:23:59,869 --> 00:24:03,990
 "Yes, I am Zorro, but I am not a bandit.
 
-419
-00:22:53,230 --> 00:22:56,090
+418
+00:24:03,990 --> 00:24:07,269
 I have principles and I fight for them.
 
-420
-00:22:56,090 --> 00:23:01,260
+419
+00:24:07,269 --> 00:24:13,380
 In California we have corrupt political men,
 cruel magistrates and dishonest people.
 
-421
-00:23:01,260 --> 00:23:03,419
+420
+00:24:13,380 --> 00:24:15,369
 I want to change this.
 
-422
-00:23:03,419 --> 00:23:10,799
+421
+00:24:15,369 --> 00:24:19,820
 I fight to help the poor, the natives and
 the friars.
 
-423
-00:23:10,799 --> 00:23:14,309
+422
+00:24:19,820 --> 00:24:21,149
 What are your principles?"
 
-424
-00:23:14,309 --> 00:23:23,530
+423
+00:24:21,149 --> 00:24:27,080
 "We want to help the poor, the natives and
 the friars too," says one young man.
 
-425
-00:23:23,530 --> 00:23:27,380
+424
+00:24:27,080 --> 00:24:30,690
 "Our principles are the same," says another.
 
-426
-00:23:27,380 --> 00:23:31,780
+425
+00:24:30,690 --> 00:24:34,159
 "Come with me and we can fight together!
 
-427
-00:23:31,780 --> 00:23:38,330
+426
+00:24:34,159 --> 00:24:37,809
 We can make California a better place to live,"
 says Zorro.
 
-428
-00:23:38,330 --> 00:23:40,590
+427
+00:24:37,809 --> 00:24:40,269
 "But who are you?
 
-429
-00:23:40,590 --> 00:23:42,350
+428
+00:24:40,269 --> 00:24:42,740
 Where do you live?" asks a young man.
 
-430
-00:23:42,350 --> 00:23:43,730
+429
+00:24:42,740 --> 00:24:44,450
 "I can't tell you.
 
-431
-00:23:43,730 --> 00:23:45,450
+430
+00:24:44,450 --> 00:24:47,169
 It's a secret,'' says Zorro.
 
-432
-00:23:45,450 --> 00:23:47,169
+431
+00:24:47,169 --> 00:24:49,379
 The young men talk together.
 
-433
-00:23:47,169 --> 00:23:49,580
+432
+00:24:49,379 --> 00:24:52,080
 "Yes, we want to fight with you.
 
-434
-00:23:49,580 --> 00:23:51,460
+433
+00:24:52,080 --> 00:24:54,169
 We want justice in California.
 
-435
-00:23:51,460 --> 00:23:56,179
+434
+00:24:54,169 --> 00:24:57,359
 Our new name is The Avengers!" says a young
 man.
 
-436
-00:23:56,179 --> 00:23:59,629
+435
+00:24:57,359 --> 00:25:01,840
 "Yes, we are The Avengers," they all say.
 
-437
-00:23:59,629 --> 00:24:00,629
+436
+00:25:01,840 --> 00:25:02,900
 "Good!
 
-438
-00:24:00,629 --> 00:24:01,990
+437
+00:25:02,900 --> 00:25:04,820
 We now fight together!"
 
-439
-00:24:01,990 --> 00:24:03,590
+438
+00:25:04,820 --> 00:25:09,919
 says Zorro and leaves.
 
-440
-00:24:03,590 --> 00:24:04,590
+439
+00:25:09,919 --> 00:25:11,539
 CHAPTER EIGHT
 
-441
-00:24:04,590 --> 00:24:05,590
+440
+00:25:11,539 --> 00:25:14,029
 The Escape
 
-442
-00:24:05,590 --> 00:24:09,710
+441
+00:25:14,029 --> 00:25:19,169
 The Governor of California is here today,
 says Sergeant Gonzales.
 
-443
-00:24:09,710 --> 00:24:11,890
+442
+00:25:19,169 --> 00:25:21,659
 "Good!" says Captain Ramon.
 
-444
-00:24:11,890 --> 00:24:15,880
+443
+00:25:21,659 --> 00:25:24,019
 "I must speak to him"
 
-445
-00:24:15,880 --> 00:24:22,679
+444
+00:25:24,019 --> 00:25:27,690
 "Good morning, Captain Ramon," says the Governor."
 
-446
-00:24:22,679 --> 00:24:24,750
+445
+00:25:27,690 --> 00:25:29,460
 I have your letter.
 
-447
-00:24:24,750 --> 00:24:32,629
+446
+00:25:29,460 --> 00:25:33,869
 Thank you for the information about the Pulido
 family.
 
-448
-00:24:32,629 --> 00:24:34,929
+447
+00:25:33,869 --> 00:25:36,059
 They are Zorro's friends.
 
-449
-00:24:34,929 --> 00:24:36,649
+448
+00:25:36,059 --> 00:25:37,749
 They are traitors.
 
-450
-00:24:36,649 --> 00:24:41,610
+449
+00:25:37,749 --> 00:25:41,250
 We must put them in prison and kill them!
 
-451
-00:24:41,610 --> 00:24:43,429
+450
+00:25:41,250 --> 00:25:42,250
 They are dangerous."
 
-452
-00:24:43,429 --> 00:24:45,860
+451
+00:25:42,250 --> 00:25:45,210
 "What a good idea!
 
-453
-00:24:45,860 --> 00:24:50,750
+452
+00:25:45,210 --> 00:25:49,220
 My soldiers can arrest them today," says the
 Captain.
 
-454
-00:24:50,750 --> 00:24:56,330
+453
+00:25:49,220 --> 00:25:56,210
 A group of soldiers goes to the Pulido hacienda.
 
-455
-00:24:56,330 --> 00:25:04,100
+454
+00:25:56,210 --> 00:26:00,879
 They arrest Don Carlos, Dona Catalina and
 Lolita.
 
-456
-00:25:04,100 --> 00:25:08,299
+455
+00:26:00,879 --> 00:26:03,490
 They take them to prison.
 
-457
-00:25:08,299 --> 00:25:11,649
+456
+00:26:03,490 --> 00:26:05,779
 Don Carlos is furious.
 
-458
-00:25:11,649 --> 00:25:15,940
+457
+00:26:05,779 --> 00:26:12,659
 His wife and daughter cry.
 
-459
-00:25:15,940 --> 00:25:27,100
+458
+00:26:12,659 --> 00:26:16,889
 When Don Diego hears about this, he goes to
 the Governor.
 
-460
-00:25:27,100 --> 00:25:37,710
+459
+00:26:16,889 --> 00:26:21,480
 He asks him, "Why is the Pulido family in
 prison?"
 
-461
-00:25:37,710 --> 00:25:40,769
+460
+00:26:21,480 --> 00:26:25,489
 The Governor answers, "They are Zorro's friends.
 
-462
-00:25:40,769 --> 00:25:42,669
+461
+00:26:25,489 --> 00:26:27,119
 They help and protect him.
 
-463
-00:25:42,669 --> 00:25:43,669
+462
+00:26:27,119 --> 00:26:28,369
 They are traitors!"
 
-464
-00:25:43,669 --> 00:25:44,669
+463
+00:26:28,369 --> 00:26:31,019
 "I cannot believe this.
 
-465
-00:25:44,669 --> 00:25:45,669
+464
+00:26:31,019 --> 00:26:32,679
 I know them.
 
-466
-00:25:45,669 --> 00:25:46,669
+465
+00:26:32,679 --> 00:26:34,549
 They are honest people.
 
-467
-00:25:46,669 --> 00:25:48,659
+466
+00:26:34,549 --> 00:26:37,700
 They don't help bandits," says Don Diego.
 
-468
-00:25:48,659 --> 00:25:50,259
+467
+00:26:37,700 --> 00:26:40,370
 "You are wrong, Don Diego.
 
-469
-00:25:50,259 --> 00:25:51,549
+468
+00:26:40,370 --> 00:26:42,269
 They must be punished.
 
-470
-00:25:51,549 --> 00:25:55,129
+469
+00:26:42,269 --> 00:26:46,929
 The punishment for traitors is death," says
 the Governor.
 
-471
-00:25:55,129 --> 00:26:01,330
+470
+00:26:46,929 --> 00:26:52,359
 Early in the evening Zorro sends a message
 to The Avengers.
 
-472
-00:26:01,330 --> 00:26:02,490
+471
+00:26:52,359 --> 00:26:53,760
 The message says:
 
-473
-00:26:02,490 --> 00:26:06,990
+472
+00:26:53,760 --> 00:26:59,409
 "Meet me at midnight at the lake Bring your
 swords and pistols.
 
-474
-00:26:06,990 --> 00:26:08,299
+473
+00:26:59,409 --> 00:27:01,509
 Pass the word to everyone."
 
-475
-00:26:08,299 --> 00:26:12,080
+474
+00:27:01,509 --> 00:27:06,350
 At midnight Zorro and The Avengers meet at
 the lake.
 
-476
-00:26:12,080 --> 00:26:18,809
+475
+00:27:06,350 --> 00:27:10,059
 Every Avenger has a mask on his face.
 
-477
-00:26:18,809 --> 00:26:23,950
+476
+00:27:10,059 --> 00:27:15,470
 Zorro says, "We are here to rescue Don Pulido
 and his family.
 
-478
-00:26:23,950 --> 00:26:27,080
+477
+00:27:15,470 --> 00:27:17,690
 They must escape from prison.
 
-479
-00:26:27,080 --> 00:26:28,960
+478
+00:27:17,690 --> 00:27:19,359
 They are innocent.
 
-480
-00:26:28,960 --> 00:26:34,559
+479
+00:27:19,359 --> 00:27:23,679
 We must be silent, enter the prison and help
 them.
 
-481
-00:26:34,559 --> 00:26:38,230
+480
+00:27:23,679 --> 00:27:27,519
 Francisco, you take Don Carlos to the village
 of Pala.
 
-482
-00:26:38,230 --> 00:26:41,889
+481
+00:27:27,519 --> 00:27:31,590
 Jose, you take Doha Catalina to the Vega hacienda.
 
-483
-00:26:41,889 --> 00:26:47,509
+482
+00:27:31,590 --> 00:27:34,409
 I want to take Lolita to Friar Felipe.
 
-484
-00:26:47,509 --> 00:26:50,990
+483
+00:27:34,409 --> 00:27:37,919
 They must hide for a few days."
 
-485
-00:26:50,990 --> 00:26:55,840
+484
+00:27:37,919 --> 00:27:42,500
 Zorro and The Avengers rescue the Pulido family.
 
-486
-00:26:55,840 --> 00:27:04,559
+485
+00:27:42,500 --> 00:27:47,409
 Don Carlos and Doha Catalina reach their destination.
 
-487
-00:27:04,559 --> 00:27:07,690
+486
+00:27:47,409 --> 00:27:51,379
 The soldiers follow Zorro and Lolita.
 
-488
-00:27:07,690 --> 00:27:10,559
+487
+00:27:51,379 --> 00:27:55,629
 Zorro's horse is very fast.
 
-489
-00:27:10,559 --> 00:27:16,149
+488
+00:27:55,629 --> 00:28:00,350
 Zorro and Lolita arrive at Friar Felipe's
 hacienda.
 
-490
-00:27:16,149 --> 00:27:21,419
+489
+00:28:00,350 --> 00:28:04,639
 Zorro says, "Can Lolita stay here with you
 for a few days?
 
-491
-00:27:21,419 --> 00:27:23,070
+490
+00:28:04,639 --> 00:28:05,690
 She is in danger."
 
-492
-00:27:23,070 --> 00:27:27,119
+491
+00:28:05,690 --> 00:28:10,179
 "Yes, I can protect her," says Friar Felipe.
 
-493
-00:27:27,119 --> 00:27:32,240
+492
+00:28:10,179 --> 00:28:15,979
 Zorro kisses Lolita and says, "Always remember
 that I love you."
 
-494
-00:27:32,240 --> 00:27:35,950
+493
+00:28:15,979 --> 00:28:21,940
 Then he rides away on his horse.
 
-495
-00:27:35,950 --> 00:27:37,010
+494
+00:28:21,940 --> 00:28:22,940
 CHAPTER NINE
 
-496
-00:27:37,010 --> 00:27:39,019
+495
+00:28:22,940 --> 00:28:26,970
 The Man behind the Mask
 
-497
-00:27:39,019 --> 00:27:42,090
+496
+00:28:26,970 --> 00:28:29,889
 The soldiers follow Zorro all night.
 
-498
-00:27:42,090 --> 00:27:44,019
+497
+00:28:29,889 --> 00:28:32,590
 They cannot capture him.
 
-499
-00:27:44,019 --> 00:27:48,720
+498
+00:28:32,590 --> 00:28:38,789
 The next night Zorro silently enters the Governor's
 home.
 
-500
-00:27:48,720 --> 00:27:51,950
+499
+00:28:38,789 --> 00:28:43,320
 He wants to talk to the Governor and Captain
 Ramon.
 
-501
-00:27:51,950 --> 00:27:55,309
+500
+00:28:43,320 --> 00:28:47,970
 They are sitting near the fire.
 
-502
-00:27:55,309 --> 00:28:01,480
+501
+00:28:47,970 --> 00:28:52,690
 Zorro enters and says, "Don't move and don't
 make a noise.
 
-503
-00:28:01,480 --> 00:28:04,200
+502
+00:28:52,690 --> 00:28:54,869
 I want to speak to you."
 
-504
-00:28:04,200 --> 00:28:10,169
+503
+00:28:54,869 --> 00:28:59,179
 He has a pistol in one hand and a sword in
 the other.
 
-505
-00:28:10,169 --> 00:28:11,169
+504
+00:28:59,179 --> 00:29:00,379
 "Zorro!
 
-506
-00:28:11,169 --> 00:28:12,169
+505
+00:29:00,379 --> 00:29:01,739
 Why are you here?"
 
-507
-00:28:12,169 --> 00:28:13,169
+506
+00:29:01,739 --> 00:29:03,320
 asks the Governor.
 
-508
-00:28:13,169 --> 00:28:15,559
+507
+00:29:03,320 --> 00:29:07,350
 "You are here to die!" says Captain Ramon.
 
-509
-00:28:15,559 --> 00:28:19,700
+508
+00:29:07,350 --> 00:29:11,460
 "No," answers Zorro, "I am here to bring justice.
 
-510
-00:28:19,700 --> 00:28:23,940
+509
+00:29:11,460 --> 00:29:13,659
 I am here to learn the truth.
 
-511
-00:28:23,940 --> 00:28:27,980
+510
+00:29:13,659 --> 00:29:17,169
 Governor, you want to punish the Pulido family.
 
-512
-00:28:27,980 --> 00:28:28,980
+511
+00:29:17,169 --> 00:29:18,169
 Why?"
 
-513
-00:28:28,980 --> 00:28:29,980
+512
+00:29:18,169 --> 00:29:20,119
 "They are traitors.
 
-514
-00:28:29,980 --> 00:28:31,710
+513
+00:29:20,119 --> 00:29:22,399
 They are your friends, Zorro!
 
-515
-00:28:31,710 --> 00:28:32,960
+514
+00:29:22,399 --> 00:29:23,820
 They help you.
 
-516
-00:28:32,960 --> 00:28:36,360
+515
+00:29:23,820 --> 00:29:27,000
 Your friends are my enemies,'' says the Governor.
 
-517
-00:28:36,360 --> 00:28:38,419
+516
+00:29:27,000 --> 00:29:28,909
 "They are not traitors.
 
-518
-00:28:38,419 --> 00:28:45,230
+517
+00:29:28,909 --> 00:29:30,580
 They do not help me.
 
-519
-00:28:45,230 --> 00:28:49,809
+518
+00:29:30,580 --> 00:29:33,149
 They are not my friends," he says.
 
-520
-00:28:49,809 --> 00:28:51,050
+519
+00:29:33,149 --> 00:29:35,109
 "Look at this letter.
 
-521
-00:28:51,050 --> 00:29:00,510
-It accuses them," says 
-the Governor.
+520
+00:29:35,109 --> 00:29:38,609
+It accuses them," says the Governor.
 
-522
-00:29:00,510 --> 00:29:07,210
+521
+00:29:38,609 --> 00:29:43,230
 Zorro reads the letter and says, "It is Captain
 Ramon's letter.
 
-523
-00:29:07,210 --> 00:29:10,619
+522
+00:29:43,230 --> 00:29:46,049
 He accuses the Pulido family."
 
-524
-00:29:10,619 --> 00:29:19,220
+523
+00:29:46,049 --> 00:29:53,119
 Zorro looks at the Captain and says, "Captain,
 you are a liar but I am here to punish you.
 
-525
-00:29:19,220 --> 00:29:22,639
+524
+00:29:53,119 --> 00:29:57,479
 Tell the Governor the truth about the Pulido
 family."
 
-526
-00:29:22,639 --> 00:29:28,909
+525
+00:29:57,479 --> 00:30:03,710
 Zorro puts his pistol to Captain Ramon's head
 and says, "Tell the Governor the truth or
 
-527
-00:29:28,909 --> 00:29:29,909
+526
+00:30:03,710 --> 00:30:05,799
 I shoot!"
 
-528
-00:29:29,909 --> 00:29:31,820
+527
+00:30:05,799 --> 00:30:08,149
 Captain Ramon is silent.
 
-529
-00:29:31,820 --> 00:29:33,480
+528
+00:30:08,149 --> 00:30:09,519
 His face is white.
 
-530
-00:29:33,480 --> 00:29:37,580
+529
+00:30:09,519 --> 00:30:13,309
 "Tell the truth, you liar,'' says Zorro.
 
-531
-00:29:37,580 --> 00:29:46,029
-"Yes, I am 
-a liar.
+530
+00:30:13,309 --> 00:30:16,679
+"Yes, I am a liar.
 
-532
-00:29:46,029 --> 00:29:52,590
+531
+00:30:16,679 --> 00:30:18,129
 The letter is not true."
 
-533
-00:29:52,590 --> 00:29:54,929
+532
+00:30:18,129 --> 00:30:22,200
 "This is terrible!" says the Governor.
 
-534
-00:29:54,929 --> 00:29:56,690
+533
+00:30:22,200 --> 00:30:23,789
 "You are a liar.
 
-535
-00:29:56,690 --> 00:30:05,270
+534
+00:30:23,789 --> 00:30:27,649
 You cannot be the Captain of the Presidio!"
 
-536
-00:30:05,270 --> 00:30:15,259
+535
+00:30:27,649 --> 00:30:31,460
 At that moment the Captain pulls out his sword.
 
-537
-00:30:15,259 --> 00:30:18,340
+536
+00:30:31,460 --> 00:30:32,789
 He begins to fight Zorro.
 
-538
-00:30:18,340 --> 00:30:21,999
+537
+00:30:32,789 --> 00:30:35,799
 It is a long sword fight.
 
-539
-00:30:21,999 --> 00:30:24,080
+538
+00:30:35,799 --> 00:30:41,299
 In the end, Zorro kills Captain Ramon.
 
-540
-00:30:24,080 --> 00:30:27,999
+539
+00:30:41,299 --> 00:30:47,650
 "The Captain is dead," says Zorro to the Governor.
 
-541
-00:30:27,999 --> 00:30:35,409
+540
+00:30:47,650 --> 00:30:51,220
 Outside the Governor's home there are many
 soldiers.
 
-542
-00:30:35,409 --> 00:30:36,950
+541
+00:30:51,220 --> 00:30:53,809
 They want to capture Zorro.
 
-543
-00:30:36,950 --> 00:30:39,200
+542
+00:30:53,809 --> 00:30:58,609
 He sees Lolita on her horse.
 
-544
-00:30:39,200 --> 00:30:41,450
+543
+00:30:58,609 --> 00:31:01,669
 He shouts, "Lolita, come with me.
 
-545
-00:30:41,450 --> 00:30:49,110
+544
+00:31:01,669 --> 00:31:03,740
 We must hide in the old tavern.
 
-546
-00:30:49,110 --> 00:30:57,720
+545
+00:31:03,740 --> 00:31:05,850
 This time it is very difficult to escape.
 
-547
-00:30:57,720 --> 00:31:03,250
+546
+00:31:05,850 --> 00:31:08,049
 There are soldiers all around us."
 
-548
-00:31:03,250 --> 00:31:16,019
+547
+00:31:08,049 --> 00:31:11,220
 "I'm happy to be with you Zorro," says Lolita.
 
-549
-00:31:16,019 --> 00:31:18,210
+548
+00:31:11,220 --> 00:31:13,529
 "I'm not scared."
 
-550
-00:31:18,210 --> 00:31:28,580
+549
+00:31:13,529 --> 00:31:17,639
 Zorro and Lolita hide inside the old tavern.
 
-551
-00:31:28,580 --> 00:31:30,770
+550
+00:31:17,639 --> 00:31:20,389
 The soldiers try to enter.
 
-552
-00:31:30,770 --> 00:31:32,770
+551
+00:31:20,389 --> 00:31:22,919
 Zorro is ready to fight.
 
-553
-00:31:32,770 --> 00:31:37,499
+552
+00:31:22,919 --> 00:31:27,110
 Suddenly The Avengers come to rescue Zorro
 and Lolita.
 
-554
-00:31:37,499 --> 00:31:40,870
+553
+00:31:27,110 --> 00:31:30,349
 They explain many things to the Governor.
 
-555
-00:31:40,870 --> 00:31:43,500
+554
+00:31:30,349 --> 00:31:33,929
 The Governor pardons Zorro.
 
-556
-00:31:43,500 --> 00:31:57,620
+555
+00:31:33,929 --> 00:31:37,489
 Zorro and Lolita walk out of the old tavern.
 
-557
-00:31:57,620 --> 00:31:59,789
+556
+00:31:37,489 --> 00:31:39,460
 They are free.
 
-558
-00:31:59,789 --> 00:32:02,770
+557
+00:31:39,460 --> 00:31:41,139
 Everyone is happy and cheers.
 
-559
-00:32:02,770 --> 00:32:13,210
+558
+00:31:41,139 --> 00:31:50,840
 The Governor says, "Now that you are free,
 show us your face!"
 
-560
-00:32:13,210 --> 00:32:14,210
+559
+00:31:50,840 --> 00:31:51,840
 "Yes!
 
-561
-00:32:14,210 --> 00:32:16,110
+560
+00:31:51,840 --> 00:31:55,020
 Yes!" the people say.
 
-562
-00:32:16,110 --> 00:32:19,340
+561
+00:31:55,020 --> 00:31:57,750
 Zorro takes off his black mask.
 
-563
-00:32:19,340 --> 00:32:21,480
+562
+00:31:57,750 --> 00:32:00,309
 "It's Don Diego Vega!"
 
-564
-00:32:21,480 --> 00:32:23,090
+563
+00:32:00,309 --> 00:32:02,690
 exclaims Sergeant Gonzales.
 
-565
-00:32:23,090 --> 00:32:24,720
+564
+00:32:02,690 --> 00:32:04,629
 Everyone is very surprised.
 
-566
-00:32:24,720 --> 00:32:26,419
+565
+00:32:04,629 --> 00:32:07,129
 "My son, Don Diego!
 
-567
-00:32:26,419 --> 00:32:28,120
+566
+00:32:07,129 --> 00:32:08,629
 I can't believe it!"
 
-568
-00:32:28,120 --> 00:32:29,400
+567
+00:32:08,629 --> 00:32:10,690
 exclaims Don Alejandro.
 
-569
-00:32:29,400 --> 00:32:35,980
+568
+00:32:10,690 --> 00:32:16,279
 Lolita looks at him and says, "Is this true
 or is it a dream?
 
-570
-00:32:35,980 --> 00:32:38,379
+569
+00:32:16,279 --> 00:32:18,229
 Are you really Don Diego?"
 
-571
-00:32:38,379 --> 00:32:39,820
+570
+00:32:18,229 --> 00:32:19,979
 "Yes, my love.
 
-572
-00:32:39,820 --> 00:32:45,580
+571
+00:32:19,979 --> 00:32:49,969
 I am your Don Diego and your Zorro!" he says
 embracing Lolita.
-

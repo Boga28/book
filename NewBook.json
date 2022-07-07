@@ -2,10 +2,19 @@
 
 {"meditasyonlar":[
  
-  {"id": "219",
-"baslik": "The War Of The Worlds",
-"subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id219_The_War_Of_The_Worlds-H_G_Wells.srt",
-"sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_War_Of_The_Worlds-H_G_Wells.m4a"},
+ {"id":"219",
+"baslik":"The War Of The Worlds",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/The_War_Of_The_Worlds-H_G_Wells.jpg",
+"kategori":"6",
+"yazar":"H. G. Wells",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_War_Of_The_Worlds-H_G_Wells.m4a",
+"hardWord":"Text Analysis: Unique words: 2261 Total words: 26002\n\n\tHard words: deafened, jeweller, fattened, capturing, tearles clearnes whitened, liples bush, tinned, noiseles wetly, lord, believing, newsboy, emptied, friendles designed, helpfulnes sightseer, broadened, discolored, noiselessly, unwell, tensely, milkman, telegraph",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_War_Of_The_Worlds.epub",
+"storyAcıklama":"At the end of the nineteenth century, a metal object fell from the sky in the South of England and made a large hole in the ground. People came to learn, what had happened. They surrounded the hole, looking at the strange object. When one end of the object started opening, the watchers realized it was hollow. Was there anybody inside? But the creatures, which came out, were not homo sapiens... Gradually people began to realize that these creatures were from Mars. A small group of scientists and many other people who had come to see, were killed instantly. Later the second object landed and then the third one. Are the Martians trying to take our planet away? Is it true? And what are our chances for victory in the war against the civilization, whose development is for thousand years ahead. Moreover, the Martians become stronger in the atmosphere.",
+"tag":"drama filmed  alien  war",
+"views":"86367"},
+
  
   {"id":"218",
 "baslik":"By Courier",

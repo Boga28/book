@@ -2,6 +2,19 @@
 
 {"meditasyonlar":[
  
+  {"id":"225",
+"baslik":"England",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/England-Rachel_Bladon.jpg",
+"kategori":"6",
+"yazar":"Rachel Bladon",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/England.m4a",
+"hardWord":"Text Analysis: Unique words: 1979 Total words: 14320\n\n\tHard words: queen, moorland, rationed, beachy, maypole, invaded, basking, netball, reproduced, jousting, madding, minster, bearskin, footballer, paralympics, lord, aeroplane, traded, crimean, potter, surfing, knight, takeaway, august, glam, napoleonic, shipbuilding, saxon, sikh, armada.",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/England.epub",
+"storyAcıklama":"England is a small island country. What do most people thing about it? The River Thames, oatmeal for breakfast, prim gentlemen and the famous detective Sherlock Holmes? In fact, the country has a rich history and culture. This country is the birthplace of the most famous musicians in the world: The Beatles and the Rolling Stones. This country also donated to the world Sir John Tolkien - the writer who founded the fantasy genre. Orcs, hobbits and elves in their present form - this man came up with all these ideas. England is a multicultural country; people speak many languages there. Walking through a small town in the English outback you can meet a representative of each nation on Earth. Also there was one thing invented, which humanity uses every day - shoelaces.",
+"tag":"society  law  sport  school  island  colony  celebrity  music  war  king  politics  historical",
+"views":"14836"},
+ 
  {"id":"224",
 "baslik":"The Goose Girl",
 "aciklama":"A2 Elementary",

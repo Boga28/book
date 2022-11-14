@@ -1,0 +1,9082 @@
+1
+00:00:00,290 --> 00:00:02,060
+CHAPTER ONE
+
+2
+00:00:02,060 --> 00:00:05,839
+The Time Traveller
+
+3
+00:00:05,839 --> 00:00:10,890
+The Time Traveller (it will be convenient
+to call him this) was talking to us about
+
+4
+00:00:10,890 --> 00:00:12,630
+geometry.
+
+5
+00:00:12,630 --> 00:00:18,439
+His grey eyes shone and his usually pale face
+was red and excited.
+
+6
+00:00:18,439 --> 00:00:23,890
+The fire burned brightly and there was that
+relaxed after-dinner feeling when thoughts
+
+7
+00:00:23,890 --> 00:00:25,600
+run freely.
+
+8
+00:00:25,600 --> 00:00:28,450
+'You must listen carefully.
+
+9
+00:00:28,450 --> 00:00:34,590
+I shall have to destroy one or two ideas that
+almost everyone accepts - for example, the
+
+10
+00:00:34,590 --> 00:00:37,230
+geometry that they taught you at school.
+
+11
+00:00:37,230 --> 00:00:45,039
+You know, of course, that a mathematical line,
+a line with no thickness, doesn't really exist.
+
+12
+00:00:45,039 --> 00:00:46,380
+They taught you that?
+
+13
+00:00:46,380 --> 00:00:52,530
+A mathematical model, which only has length,
+width and thickness, doesn't really exist
+
+14
+00:00:52,530 --> 00:00:53,829
+either.
+
+15
+00:00:53,829 --> 00:00:55,730
+It's just an idea.'
+
+16
+00:00:55,730 --> 00:00:59,600
+'That's all right,' said the Psychologist.
+
+17
+00:00:59,600 --> 00:01:05,909
+'But if you make that model out of a material,'
+said Filby, a red-haired man who liked an
+
+18
+00:01:05,909 --> 00:01:08,520
+argument, 'it exists.
+
+19
+00:01:08,520 --> 00:01:12,220
+All things exist.'
+
+20
+00:01:12,220 --> 00:01:14,090
+'Most people think so.
+
+21
+00:01:14,090 --> 00:01:15,450
+But wait a moment.
+
+22
+00:01:15,450 --> 00:01:21,130
+Imagine a thing that doesn't last for any
+time.
+
+23
+00:01:21,130 --> 00:01:24,310
+Can it have a real existence?'
+
+24
+00:01:24,310 --> 00:01:26,000
+Filby looked thoughtful.
+
+25
+00:01:26,000 --> 00:01:33,810
+'Clearly,' the Time Traveller said, 'a real
+body must have length, width, thickness (the
+
+26
+00:01:33,810 --> 00:01:39,869
+dimensions of space) - and also exist in time.
+
+27
+00:01:39,869 --> 00:01:45,390
+But through a natural human weakness, we usually
+forget the fourth of these.'
+
+28
+00:01:45,390 --> 00:01:50,330
+'That,' said a very young man, 'is very clear.'
+
+29
+00:01:50,330 --> 00:01:57,469
+'Well, I don't mind telling you that I have
+been at work on this geometry of four dimensions
+
+30
+00:01:57,469 --> 00:01:58,750
+for some time.
+
+31
+00:01:58,750 --> 00:02:02,530
+Some of my results are interesting.
+
+32
+00:02:02,530 --> 00:02:04,430
+Here is a record of the weather.
+
+33
+00:02:04,430 --> 00:02:07,820
+This line shows the changes in temperature.
+
+34
+00:02:07,820 --> 00:02:15,370
+Yesterday it was quite high, last night it
+fell, then this morning it rose again.
+
+35
+00:02:15,370 --> 00:02:22,340
+Surely that line is not in any of the dimensions
+of space that we generally understand?
+
+36
+00:02:22,340 --> 00:02:25,250
+It is along the time-dimension.'
+
+37
+00:02:25,250 --> 00:02:33,280
+'But,' said the Medical Man, looking hard
+at the fire,' if time is really only a fourth
+
+38
+00:02:33,280 --> 00:02:41,010
+dimension of space, why can't we move about
+in it as we move in the other dimensions?'
+
+39
+00:02:41,010 --> 00:02:42,450
+The Time Traveller smiled.
+
+40
+00:02:42,450 --> 00:02:47,540
+'Are you so sure we can move freely in space?
+
+41
+00:02:47,540 --> 00:02:52,209
+We can go right and left, backwards and forwards
+freely enough.
+
+42
+00:02:52,209 --> 00:02:53,950
+But up and down?
+
+43
+00:02:53,950 --> 00:02:55,069
+That isn't so easy.'
+
+44
+00:02:55,069 --> 00:03:00,430
+'Well, we can move a little up and down,'
+said the Medical Man.
+
+45
+00:03:00,430 --> 00:03:03,640
+'But we can't move at all in time.
+
+46
+00:03:03,640 --> 00:03:05,870
+We are always in the present moment.'
+
+47
+00:03:05,870 --> 00:03:11,510
+'That is at the centre of my great discovery.
+
+48
+00:03:11,510 --> 00:03:18,590
+Why can a modern man not hope that one day
+he might travel in time?'
+
+49
+00:03:18,590 --> 00:03:22,010
+'It doesn't make sense,' said Filby.
+
+50
+00:03:22,010 --> 00:03:25,120
+'Possibly not,' said the Time Traveller.
+
+51
+00:03:25,120 --> 00:03:31,530
+'But now you begin to see the reason for my
+work on the geometry of four dimensions.
+
+52
+00:03:31,530 --> 00:03:39,940
+Long ago I had an idea for a machine that
+can travel in any direction of space and time,
+
+53
+00:03:39,940 --> 00:03:41,840
+as the driver wants.'
+
+54
+00:03:41,840 --> 00:03:43,390
+Filby started to laugh.
+
+55
+00:03:43,390 --> 00:03:48,390
+'But I have proved this by experiment,' said
+the Time Traveller.
+
+56
+00:03:48,390 --> 00:03:54,030
+'It would be very useful for the historian,'
+the Psychologist suggested.
+
+57
+00:03:54,030 --> 00:03:57,060
+'He could travel back and see how things really
+happened!'
+
+58
+00:03:57,060 --> 00:04:00,650
+'Then there is the future,' said the Very
+Young Man.
+
+59
+00:04:00,650 --> 00:04:02,040
+'Just think!
+
+60
+00:04:02,040 --> 00:04:06,510
+You could put all your money in the bank,
+leave it to grow and hurry on ahead!'
+
+61
+00:04:06,510 --> 00:04:11,849
+'To discover a society,' I said,' that doesn't
+use money.'
+
+62
+00:04:11,849 --> 00:04:14,560
+'Of all the crazy ideas!'
+
+63
+00:04:14,560 --> 00:04:16,259
+began the Psychologist.
+
+64
+00:04:16,259 --> 00:04:21,000
+'It seemed so to me, and I never talked about
+it until-'
+
+65
+00:04:21,000 --> 00:04:22,669
+'An experiment!'
+
+66
+00:04:22,669 --> 00:04:23,669
+I cried.
+
+67
+00:04:23,669 --> 00:04:27,030
+'You are going to prove that?'
+
+68
+00:04:27,030 --> 00:04:33,020
+'Let's see what you can do,' said the Psychologist,
+'though I think it's all rubbish.'
+
+69
+00:04:33,020 --> 00:04:36,509
+The Time Traveller smiled at us.
+
+70
+00:04:36,509 --> 00:04:42,289
+Then, with his hands deep inside his trouser
+pockets, he walked slowly out of the room
+
+71
+00:04:42,289 --> 00:04:45,270
+and we heard him going down to the laboratory.
+
+72
+00:04:45,270 --> 00:04:47,740
+The Psychologist looked at us.
+
+73
+00:04:47,740 --> 00:04:49,810
+'I wonder what he's got?'
+
+74
+00:04:49,810 --> 00:04:55,509
+'A trick probably,' said the Medical Man,
+and Filby tried to tell us about a trick he
+
+75
+00:04:55,509 --> 00:05:02,389
+had seen once, but before he had really started
+his story the Time Traveller came back.
+
+76
+00:05:02,389 --> 00:05:04,410
+He held something in his hand.
+
+77
+00:05:04,410 --> 00:05:10,440
+It was made of shiny metal and was not much
+larger than a small clock.
+
+78
+00:05:10,440 --> 00:05:18,700
+And now I must be exact, because unless you
+believe his explanation it is impossible to
+
+79
+00:05:18,700 --> 00:05:23,290
+explain what happened next.
+
+80
+00:05:23,290 --> 00:05:28,480
+He took one of the small tables in the room
+and put it in front of the fire.
+
+81
+00:05:28,480 --> 00:05:32,020
+On this he placed the machine.
+
+82
+00:05:32,020 --> 00:05:36,139
+Then he placed a chair next to it and sat
+down.
+
+83
+00:05:36,139 --> 00:05:44,740
+The only other object on the table was a small
+lamp, the light of which fell on the model.
+
+84
+00:05:44,740 --> 00:05:51,720
+I sat in a low chair nearest the fire and
+I pulled this forwards so I was almost between
+
+85
+00:05:51,720 --> 00:05:53,840
+the Time Traveller and the fire.
+
+86
+00:05:53,840 --> 00:05:58,069
+Filby sat behind him, looking over his shoulder.
+
+87
+00:05:58,069 --> 00:06:03,960
+The Medical Man watched him from the right;
+the Psychologist from the left.
+
+88
+00:06:03,960 --> 00:06:07,810
+The Very Young Man stood behind the Psychologist.
+
+89
+00:06:07,810 --> 00:06:11,060
+We were all wide awake.
+
+90
+00:06:11,060 --> 00:06:17,050
+I cannot believe that a trick was played on
+us under these conditions.
+
+91
+00:06:17,050 --> 00:06:22,919
+'This little thing,' said the Time Traveller,
+resting his elbows on the table and pressing
+
+92
+00:06:22,919 --> 00:06:27,860
+his hands together above the machine, 'is
+only a model.
+
+93
+00:06:27,860 --> 00:06:33,280
+It is my plan for a machine to travel through
+time.
+
+94
+00:06:33,280 --> 00:06:39,870
+You will notice that it looks a little rough,
+and this bar has an odd shining appearance
+
+95
+00:06:39,870 --> 00:06:43,490
+- it looks quite unreal.'
+
+96
+00:06:43,490 --> 00:06:46,060
+He pointed to this part with his finger.
+
+97
+00:06:46,060 --> 00:06:53,440
+'Also, here is one little white lever, and
+here is another.'
+
+98
+00:06:53,440 --> 00:06:59,199
+The Medical Man got out of his chair and looked
+closely into the thing.
+
+99
+00:06:59,199 --> 00:07:01,840
+'It's beautifully made,' he said.
+
+100
+00:07:01,840 --> 00:07:07,160
+'It took two years to make,' said the Time
+Traveller.
+
+101
+00:07:07,160 --> 00:07:15,120
+Then, when we had all had a close look, he
+said, 'Now I want you to understand clearly
+
+102
+00:07:15,120 --> 00:07:23,120
+that this lever sends the machine flying into
+the future, and this other one sends it into
+
+103
+00:07:23,120 --> 00:07:24,490
+the past.
+
+104
+00:07:24,490 --> 00:07:34,080
+'Soon, I'm going to press the lever and the
+machine will disappear into future time.
+
+105
+00:07:34,080 --> 00:07:35,770
+Have a good look at the thing.
+
+106
+00:07:35,770 --> 00:07:41,069
+Look at the table too, and satisfy yourself
+that there can be no tricks.
+
+107
+00:07:41,069 --> 00:07:48,190
+I don't want to waste this model and then
+be told I'm dishonest.'
+
+108
+00:07:48,190 --> 00:07:50,820
+There was a minute's pause perhaps.
+
+109
+00:07:50,820 --> 00:07:56,110
+The Psychologist opened his mouth to speak
+to me but closed it again.
+
+110
+00:07:56,110 --> 00:08:00,509
+Then the Time Traveller put out his finger
+towards the lever.
+
+111
+00:08:00,509 --> 00:08:06,000
+'No,' he said suddenly, pulling his finger
+away again.
+
+112
+00:08:06,000 --> 00:08:08,310
+'Lend me your hand.'
+
+113
+00:08:08,310 --> 00:08:14,310
+And turning to the Psychologist, he took that
+person's hand in his own and told him to put
+
+114
+00:08:14,310 --> 00:08:20,400
+out his first finger and touch the lever.
+
+115
+00:08:20,400 --> 00:08:28,220
+So the Psychologist himself sent the model
+time machine on its endless journey.
+
+116
+00:08:28,220 --> 00:08:30,949
+We all saw the lever turn.
+
+117
+00:08:30,949 --> 00:08:36,090
+I am completely certain there was no trick.
+
+118
+00:08:36,090 --> 00:08:41,140
+There was a breath of wind and the lamp flame
+jumped.
+
+119
+00:08:41,140 --> 00:08:48,589
+The machine suddenly turned round, looked
+unclear, was seen like a ghost for a second
+
+120
+00:08:48,589 --> 00:08:54,190
+and was gone - disappeared!
+
+121
+00:08:54,190 --> 00:08:59,290
+Except for the lamp, the table was empty.
+
+122
+00:08:59,290 --> 00:09:01,020
+Everyone was silent for a minute.
+
+123
+00:09:01,020 --> 00:09:07,399
+Then the Psychologist recovered from his surprise
+and looked under the table.
+
+124
+00:09:07,399 --> 00:09:09,630
+The Time Traveller laughed cheerfully.
+
+125
+00:09:09,630 --> 00:09:12,500
+'Well?' he said.
+
+126
+00:09:12,500 --> 00:09:14,750
+We all stared.
+
+127
+00:09:14,750 --> 00:09:22,200
+'My friend,' said the Medical Man quietly,
+'are you serious about this?
+
+128
+00:09:22,200 --> 00:09:29,450
+Do you really believe that machine has travelled
+in time?'
+
+129
+00:09:29,450 --> 00:09:31,940
+'Certainly,' said the Time Traveller.
+
+130
+00:09:31,940 --> 00:09:38,490
+'And I have a big machine nearly finished
+in there' - he pointed to the laboratory - 'and
+
+131
+00:09:38,490 --> 00:09:45,560
+when that is put together I intend to go on
+a journey myself.'
+
+132
+00:09:45,560 --> 00:09:52,930
+'You mean to say that that machine has travelled
+into the future?' said Filby.
+
+133
+00:09:52,930 --> 00:10:00,690
+'Into the future or the past - I'm not completely
+sure which.'
+
+134
+00:10:00,690 --> 00:10:06,769
+After some time the Psychologist said, 'It
+has gone into the past if it has gone anywhere.'
+
+135
+00:10:06,769 --> 00:10:10,170
+'Why?' said the Time Traveller.
+
+136
+00:10:10,170 --> 00:10:17,300
+'Because I'm quite sure that it hasn't moved
+in space, and if it travelled into the future
+
+137
+00:10:17,300 --> 00:10:20,870
+it would still be here all this time.
+
+138
+00:10:20,870 --> 00:10:26,120
+It would have to travel through the time that
+is passing as we stand here.'
+
+139
+00:10:26,120 --> 00:10:33,360
+'But,' I said, 'if it travelled into the past,
+why wasn't it here when we first came into
+
+140
+00:10:33,360 --> 00:10:39,750
+this room, and last Thursday when we were
+here - and the Thursday before that?'
+
+141
+00:10:39,750 --> 00:10:46,800
+'Let's be fair - these are serious questions,'
+said Filby, turning towards the Time Traveller.
+
+142
+00:10:46,800 --> 00:10:51,720
+'That can be explained,' the Time Traveller
+said to the Psychologist.
+
+143
+00:10:51,720 --> 00:10:56,790
+'It's there but can't be seen.'
+
+144
+00:10:56,790 --> 00:11:00,260
+'Of course,' said the Psychologist.
+
+145
+00:11:00,260 --> 00:11:01,960
+'That's simple enough.
+
+146
+00:11:01,960 --> 00:11:03,960
+Why didn't I think of it?
+
+147
+00:11:03,960 --> 00:11:09,220
+We can't see it, in the same way that we can't
+see a bullet flying through the air.
+
+148
+00:11:09,220 --> 00:11:16,519
+If it is travelling through time fifty times
+or a hundred times faster than we are, we
+
+149
+00:11:16,519 --> 00:11:23,320
+can see only one-fiftieth or one-hundredth
+of it.'
+
+150
+00:11:23,320 --> 00:11:26,700
+We sat and stared at the empty table for a
+minute or two.
+
+151
+00:11:26,700 --> 00:11:32,630
+Then the Time Traveller asked us what we thought
+of it all.
+
+152
+00:11:32,630 --> 00:11:37,519
+'It sounds believable enough tonight,' said
+the Medical Man, 'but it will seem different
+
+153
+00:11:37,519 --> 00:11:38,709
+in the morning.'
+
+154
+00:11:38,709 --> 00:11:44,990
+'Would you like to see the Time Machine itself?'
+asked the Time Traveller.
+
+155
+00:11:44,990 --> 00:11:51,290
+And then, taking the lamp in his hand, he
+led the way to the laboratory.
+
+156
+00:11:51,290 --> 00:11:58,860
+I remember clearly how we all followed him,
+and how in the laboratory we saw a larger
+
+157
+00:11:58,860 --> 00:12:00,720
+copy of the little machine.
+
+158
+00:12:00,720 --> 00:12:08,480
+It was almost complete, but two bars lay unfinished
+on the table and I picked one up for a better
+
+159
+00:12:08,480 --> 00:12:09,680
+look.
+
+160
+00:12:09,680 --> 00:12:16,910
+'Now listen,' said the Medical Man,' are you
+really serious?'
+
+161
+00:12:16,910 --> 00:12:25,699
+'In that machine,' said the Time Traveller,
+holding the lamp high, 'I intend to travel
+
+162
+00:12:25,699 --> 00:12:26,960
+in time.
+
+163
+00:12:26,960 --> 00:12:30,000
+Is that clear?
+
+164
+00:12:30,000 --> 00:12:35,460
+I was never more serious in my life.'
+
+165
+00:12:35,460 --> 00:12:37,889
+None of us knew what to say.
+
+166
+00:12:37,889 --> 00:12:47,170
+I looked at Filby over the shoulder of the
+Medical Man and he smiled at me.
+
+167
+00:12:47,170 --> 00:12:48,610
+CHAPTER TWO
+
+168
+00:12:48,610 --> 00:12:52,880
+The Traveller Returns
+
+169
+00:12:52,880 --> 00:12:58,949
+I think at that time none of us really believed
+in the Time Machine.
+
+170
+00:12:58,949 --> 00:13:06,240
+The fact is, the Time Traveller was one of
+those men who are too clever to be believed.
+
+171
+00:13:06,240 --> 00:13:10,220
+You never felt that you knew everything about
+him.
+
+172
+00:13:10,220 --> 00:13:15,630
+You always thought that something was hidden,
+that he was playing a trick on you.
+
+173
+00:13:15,630 --> 00:13:21,079
+If Filby showed us the model and explained
+things in the Time Traveller's words, we would
+
+174
+00:13:21,079 --> 00:13:23,050
+believe him more easily.
+
+175
+00:13:23,050 --> 00:13:29,130
+We would understand his reasons - because
+anyone could understand Filby.
+
+176
+00:13:29,130 --> 00:13:37,740
+But the Time Traveller had a strong imagination
+and we didn't really believe him.
+
+177
+00:13:37,740 --> 00:13:44,209
+The next Thursday I went to Richmond again
+and, arriving late, found four or five men
+
+178
+00:13:44,209 --> 00:13:46,610
+already in the sitting room.
+
+179
+00:13:46,610 --> 00:13:51,900
+The Medical Man was standing in front of the
+fire with a sheet of paper in one hand and
+
+180
+00:13:51,900 --> 00:13:54,010
+his watch in the other.
+
+181
+00:13:54,010 --> 00:13:56,130
+I looked around for the Time Traveller.
+
+182
+00:13:56,130 --> 00:14:01,070
+'It's half-past seven now,' said the Medical
+Man.
+
+183
+00:14:01,070 --> 00:14:03,790
+'I suppose we'd better have dinner?'
+
+184
+00:14:03,790 --> 00:14:05,259
+'Where's our host?'
+
+185
+00:14:05,259 --> 00:14:06,380
+I asked.
+
+186
+00:14:06,380 --> 00:14:09,329
+'You have just come?
+
+187
+00:14:09,329 --> 00:14:11,190
+It's rather odd.
+
+188
+00:14:11,190 --> 00:14:13,680
+He has been delayed.
+
+189
+00:14:13,680 --> 00:14:20,070
+He asks me in this note to start dinner at
+seven if he's not back.
+
+190
+00:14:20,070 --> 00:14:22,380
+He says he will explain when he comes.'
+
+191
+00:14:22,380 --> 00:14:29,459
+'It seems a pity to let the dinner spoil,'
+said the editor of a well-known daily paper,
+
+192
+00:14:29,459 --> 00:14:31,910
+and so the Medical Man rang the bell.
+
+193
+00:14:31,910 --> 00:14:38,300
+Only the Psychologist, the Medical Man and
+myself had attended the first dinner.
+
+194
+00:14:38,300 --> 00:14:45,499
+The other men were the Editor, a journalist
+and another - a quiet, shy man with a beard
+
+195
+00:14:45,499 --> 00:14:48,490
+- who I didn't know.
+
+196
+00:14:48,490 --> 00:14:54,040
+There was some discussion at the dinner table
+about the Time Traveller's absence and I suggested
+
+197
+00:14:54,040 --> 00:14:57,019
+time travelling, in a half-joking way.
+
+198
+00:14:57,019 --> 00:15:02,810
+The Editor wanted that to be explained to
+him and the Psychologist gave a very dull
+
+199
+00:15:02,810 --> 00:15:07,620
+description of the 'clever trick' we had seen
+a week before.
+
+200
+00:15:07,620 --> 00:15:14,620
+He was in the middle of this when the door
+opened slowly and without noise.
+
+201
+00:15:14,620 --> 00:15:17,660
+I was facing it and saw him first.
+
+202
+00:15:17,660 --> 00:15:18,660
+'Well!'
+
+203
+00:15:18,660 --> 00:15:19,670
+I said.
+
+204
+00:15:19,670 --> 00:15:21,590
+'At last!'
+
+205
+00:15:21,590 --> 00:15:27,230
+The door opened wider and the Time Traveller
+stood in front of us.
+
+206
+00:15:27,230 --> 00:15:29,120
+I gave a cry of surprise.
+
+207
+00:15:29,120 --> 00:15:31,310
+'Oh, my friend!
+
+208
+00:15:31,310 --> 00:15:33,320
+What's the matter?'
+
+209
+00:15:33,320 --> 00:15:36,089
+cried the Medical Man, who saw him next.
+
+210
+00:15:36,089 --> 00:15:39,460
+The others turned towards the door.
+
+211
+00:15:39,460 --> 00:15:43,270
+He looked very strange.
+
+212
+00:15:43,270 --> 00:15:51,990
+His coat was dusty and dirty, his hair untidy
+and, it seemed to me, greyer - either with
+
+213
+00:15:51,990 --> 00:15:55,860
+dust or because its colour had gone.
+
+214
+00:15:55,860 --> 00:16:00,940
+His face was very pale and his chin had a
+cut on it.
+
+215
+00:16:00,940 --> 00:16:07,620
+For a moment he stopped at the door; the light
+seemed too strong for his eyes.
+
+216
+00:16:07,620 --> 00:16:09,990
+Then he came into the room.
+
+217
+00:16:09,990 --> 00:16:14,450
+He walked slowly, with a bad limp.
+
+218
+00:16:14,450 --> 00:16:20,830
+He did not say a word, but came painfully
+to the table and moved a hand towards the
+
+219
+00:16:20,830 --> 00:16:21,830
+wine.
+
+220
+00:16:21,830 --> 00:16:26,550
+The Editor filled a glass and pushed it towards
+him.
+
+221
+00:16:26,550 --> 00:16:33,540
+He drank it and it seemed to do him good because
+he looked round the table and smiled a little.
+
+222
+00:16:33,540 --> 00:16:38,509
+'What have you been doing?' said the Medical
+Man.
+
+223
+00:16:38,509 --> 00:16:41,339
+The Time Traveller did not seem to hear.
+
+224
+00:16:41,339 --> 00:16:47,279
+'Don't let me worry you,' he said in a tired
+voice.
+
+225
+00:16:47,279 --> 00:16:49,490
+'I'm all right.'
+
+226
+00:16:49,490 --> 00:16:54,459
+He stopped, held out his glass for more, and
+drank it down.
+
+227
+00:16:54,459 --> 00:16:57,430
+'That's good,' he said.
+
+228
+00:16:57,430 --> 00:17:04,400
+His eyes grew brighter, and a faint colour
+came to his face.
+
+229
+00:17:04,400 --> 00:17:07,140
+Then he spoke again.
+
+230
+00:17:07,140 --> 00:17:13,770
+'I'm going to wash and dress, and then I'll
+come down and explain things'...
+
+231
+00:17:13,770 --> 00:17:16,689
+Save me some of that meat.
+
+232
+00:17:16,689 --> 00:17:18,980
+I'm hungry.'
+
+233
+00:17:18,980 --> 00:17:20,650
+The Editor began a question.
+
+234
+00:17:20,650 --> 00:17:24,160
+'I'll tell you soon,' said the Time Traveller.
+
+235
+00:17:24,160 --> 00:17:26,079
+'I'm feeling strange!
+
+236
+00:17:26,079 --> 00:17:29,710
+I'll be all right in a minute.'
+
+237
+00:17:29,710 --> 00:17:34,730
+He put down his glass and walked towards the
+door to the stairs.
+
+238
+00:17:34,730 --> 00:17:39,080
+Standing up in my place, I saw his feet as
+he went out.
+
+239
+00:17:39,080 --> 00:17:43,090
+He had nothing on them except a pair of socks
+with holes in them.
+
+240
+00:17:43,090 --> 00:17:46,390
+They were covered with dried blood.
+
+241
+00:17:46,390 --> 00:17:49,370
+Then the door closed behind him.
+
+242
+00:17:49,370 --> 00:17:54,130
+For a minute, perhaps, my mind was empty.
+
+243
+00:17:54,130 --> 00:17:59,700
+'Strange Behaviour of a Famous Scientist,'
+I heard the Editor say, thinking of his newspaper.
+
+244
+00:17:59,700 --> 00:18:03,710
+'What's happened to him?' said the Journalist.
+
+245
+00:18:03,710 --> 00:18:05,480
+'I don't understand.'
+
+246
+00:18:05,480 --> 00:18:09,010
+I thought of the Time Traveller walking painfully
+upstairs.
+
+247
+00:18:09,010 --> 00:18:12,350
+I don't think anyone else had noticed his
+limp.
+
+248
+00:18:12,350 --> 00:18:17,960
+The Medical Man recovered from his surprise
+first, and rang the bell for a hot plate.
+
+249
+00:18:17,960 --> 00:18:22,880
+The Editor picked up his knife and fork and
+the Silent Man did the same.
+
+250
+00:18:22,880 --> 00:18:25,570
+The dinner started again.
+
+251
+00:18:25,570 --> 00:18:30,340
+Conversation was slow for a minute or two
+because we were so surprised.
+
+252
+00:18:30,340 --> 00:18:36,130
+Then the Editor said, 'Does our friend have
+another job, or just a strong imagination?'
+
+253
+00:18:36,130 --> 00:18:42,289
+'I feel sure it's this business of the Time
+Machine,' I said, and continued the Psychologist's
+
+254
+00:18:42,289 --> 00:18:44,530
+story of our earlier meeting.
+
+255
+00:18:44,530 --> 00:18:52,330
+The new guests were very surprised and the
+Editor said, 'What is this time travelling?
+
+256
+00:18:52,330 --> 00:18:58,350
+A man couldn't cover himself with dust by
+doing something impossible, could he?'
+
+257
+00:18:58,350 --> 00:19:03,740
+The Journalist, too, refused to believe it,
+and started to make a joke of the whole thing.
+
+258
+00:19:03,740 --> 00:19:10,330
+'Our Special Reporter in the Day after Tomorrow
+reports,' he was saying - or shouting - when
+
+259
+00:19:10,330 --> 00:19:13,059
+the Time Traveller came back.
+
+260
+00:19:13,059 --> 00:19:19,560
+He was dressed in ordinary evening clothes
+and nothing except his tired look reminded
+
+261
+00:19:19,560 --> 00:19:23,120
+me of the change that had shocked me.
+
+262
+00:19:23,120 --> 00:19:28,890
+'Well,' said the Editor, laughing, 'these
+men say you have been travelling into the
+
+263
+00:19:28,890 --> 00:19:32,250
+middle of next week.'
+
+264
+00:19:32,250 --> 00:19:36,149
+The Time Traveller sat down without a word.
+
+265
+00:19:36,149 --> 00:19:40,130
+He smiled quietly, in his usual way.
+
+266
+00:19:40,130 --> 00:19:43,110
+'Where's my meat?' he said.
+
+267
+00:19:43,110 --> 00:19:46,470
+'How nice it is to stick a fork into meat
+again.'
+
+268
+00:19:46,470 --> 00:19:49,190
+'Story!'
+
+269
+00:19:49,190 --> 00:19:50,830
+cried the Editor.
+
+270
+00:19:50,830 --> 00:19:53,320
+'Later,' said the Time Traveller.
+
+271
+00:19:53,320 --> 00:19:56,070
+'I want something to eat first.
+
+272
+00:19:56,070 --> 00:20:00,350
+I won't say a word until I get some food into
+my stomach.
+
+273
+00:20:00,350 --> 00:20:01,350
+Thanks.
+
+274
+00:20:01,350 --> 00:20:02,860
+And the salt.'
+
+275
+00:20:02,860 --> 00:20:05,880
+'One word,' I said.
+
+276
+00:20:05,880 --> 00:20:09,150
+'Have you been time travelling?'
+
+277
+00:20:09,150 --> 00:20:14,799
+'Yes,' said the Time Traveller, with his mouth
+full.
+
+278
+00:20:14,799 --> 00:20:19,960
+'I'd give a pound a line for the story in
+your own words,' said the Editor.
+
+279
+00:20:19,960 --> 00:20:26,650
+The Time Traveller pushed his glass towards
+the Silent Man, who was staring at his face.
+
+280
+00:20:26,650 --> 00:20:29,630
+He jumped a little, then poured him some wine.
+
+281
+00:20:29,630 --> 00:20:34,020
+The rest of the dinner was uncomfortable.
+
+282
+00:20:34,020 --> 00:20:37,710
+The Journalist tried to relax us by telling
+funny stories.
+
+283
+00:20:37,710 --> 00:20:43,950
+The Medical Man smoked a cigarette and watched
+the Time Traveller closely.
+
+284
+00:20:43,950 --> 00:20:49,360
+The Silent Man seemed nervous, and drank a
+lot of wine.
+
+285
+00:20:49,360 --> 00:20:57,260
+At last the Time Traveller pushed his plate
+away and looked round at us.
+
+286
+00:20:57,260 --> 00:21:01,480
+'I suppose I must apologise,' he said.
+
+287
+00:21:01,480 --> 00:21:03,960
+'I was so hungry.
+
+288
+00:21:03,960 --> 00:21:10,880
+I've had a most interesting time.'
+
+289
+00:21:10,880 --> 00:21:12,890
+He put out his hand for a cigarette.
+
+290
+00:21:12,890 --> 00:21:15,470
+'But come into the smoking room.
+
+291
+00:21:15,470 --> 00:21:19,669
+The story is too long to tell over dirty plates.'
+
+292
+00:21:19,669 --> 00:21:22,799
+And he led the way.
+
+293
+00:21:22,799 --> 00:21:29,780
+'You have told these men about the machine?'
+he said to me, sitting back in his chair and
+
+294
+00:21:29,780 --> 00:21:32,059
+naming the three new guests.
+
+295
+00:21:32,059 --> 00:21:36,250
+'But the thing's just a trick,' said the Editor.
+
+296
+00:21:36,250 --> 00:21:39,860
+'I can't argue tonight.
+
+297
+00:21:39,860 --> 00:21:44,559
+I don't mind telling the story, but I can't
+argue.
+
+298
+00:21:44,559 --> 00:21:52,799
+I will,' he continued, 'tell you the story
+of what has happened to me, if you like, but
+
+299
+00:21:52,799 --> 00:21:54,960
+you mustn't interrupt.
+
+300
+00:21:54,960 --> 00:22:06,419
+Most of it will sound like lies, but it is
+true - every word of it.
+
+301
+00:22:06,419 --> 00:22:15,990
+I was in the laboratory earlier, and since
+then ... I have lived eight days... days like
+
+302
+00:22:15,990 --> 00:22:19,990
+no human being ever lived before!
+
+303
+00:22:19,990 --> 00:22:28,190
+I am very tired, but I shan't sleep until
+I have told this thing to you.
+
+304
+00:22:28,190 --> 00:22:30,450
+But no interruptions!
+
+305
+00:22:30,450 --> 00:22:33,450
+Is it agreed?'
+
+306
+00:22:33,450 --> 00:22:41,320
+We all agreed and the Time Traveller began
+his story as I have written it down.
+
+307
+00:22:41,320 --> 00:22:46,570
+He sat back in his chair at first and spoke
+slowly.
+
+308
+00:22:46,570 --> 00:22:48,230
+Afterwards he got more excited.
+
+309
+00:22:48,230 --> 00:22:57,650
+As I write it down I feel the limits of pen
+and ink, and my own limits.
+
+310
+00:22:57,650 --> 00:23:05,750
+You will read, I expect, with enough attention,
+but you cannot see the speaker's white, honest
+
+311
+00:23:05,750 --> 00:23:13,080
+face in the bright circle of the little lamp,
+or hear his voice.
+
+312
+00:23:13,080 --> 00:23:15,260
+Most of us listeners were in shadow.
+
+313
+00:23:15,260 --> 00:23:19,960
+At first each looked at the others.
+
+314
+00:23:19,960 --> 00:23:30,470
+After a time we stopped doing that and looked
+only at the Time Traveller's face.
+
+315
+00:23:30,470 --> 00:23:33,029
+CHAPTER THREE
+
+316
+00:23:33,029 --> 00:23:34,029
+Forwards in Time
+
+317
+00:23:34,029 --> 00:23:43,440
+'I told some of you last Thursday how the
+Time Machine works, and showed you the actual
+
+318
+00:23:43,440 --> 00:23:48,039
+thing itself, incomplete in the laboratory.
+
+319
+00:23:48,039 --> 00:23:53,330
+It is there now, a little damaged by travel,
+but not in bad condition.
+
+320
+00:23:53,330 --> 00:23:59,779
+I expected to finish it on Friday, but when
+I had put most of it together, I found that
+
+321
+00:23:59,779 --> 00:24:02,429
+one piece was too short.
+
+322
+00:24:02,429 --> 00:24:08,740
+I had to make this again, and the thing wasn't
+complete until this morning.
+
+323
+00:24:08,740 --> 00:24:17,760
+So at ten o'clock today, the first of all
+Time Machines began its journey.
+
+324
+00:24:17,760 --> 00:24:22,640
+'I checked everything, then got into the seat.
+
+325
+00:24:22,640 --> 00:24:30,230
+I felt a little frightened, but interested
+in what was going to happen next.
+
+326
+00:24:30,230 --> 00:24:36,409
+I took the starting lever in one hand and
+the stopping one in the other.
+
+327
+00:24:36,409 --> 00:24:42,120
+Then I pressed the first and almost immediately
+the second.
+
+328
+00:24:42,120 --> 00:24:53,210
+I felt that I was falling but, looking around,
+I saw the laboratory exactly as before.
+
+329
+00:24:53,210 --> 00:24:55,899
+Had anything happened?
+
+330
+00:24:55,899 --> 00:24:59,790
+For a moment I thought that my mind had tricked
+me.
+
+331
+00:24:59,790 --> 00:25:04,669
+Then I noticed the clock.
+
+332
+00:25:04,669 --> 00:25:09,600
+A moment before, it had showed a minute or
+two past ten.
+
+333
+00:25:09,600 --> 00:25:13,510
+Now it was nearly half-past three.
+
+334
+00:25:13,510 --> 00:25:22,309
+'I took a breath, held the starting lever
+with both hands and pushed it harder.
+
+335
+00:25:22,309 --> 00:25:26,159
+The laboratory became unclear and went dark.
+
+336
+00:25:26,159 --> 00:25:34,240
+Mrs Watchett, my cook, came in and walked,
+without seeing me, towards the garden door.
+
+337
+00:25:34,240 --> 00:25:41,460
+I suppose it took her a minute or two to cross
+the room, but she seemed to move at high speed.
+
+338
+00:25:41,460 --> 00:25:45,240
+I pressed the lever over to its furthest position.
+
+339
+00:25:45,240 --> 00:25:50,770
+'The night came, and in another moment came
+tomorrow.
+
+340
+00:25:50,770 --> 00:25:54,000
+The laboratory grew faint and unclear.
+
+341
+00:25:54,000 --> 00:26:02,730
+Tomorrow night became black, then day again,
+night again, day again - faster and faster.
+
+342
+00:26:02,730 --> 00:26:10,790
+A low and changing sound filled my ears, and
+my mind became confused.
+
+343
+00:26:10,790 --> 00:26:17,080
+'As my speed increased, night followed day
+faster and faster.
+
+344
+00:26:17,080 --> 00:26:23,010
+The faint picture of the laboratory seemed
+soon to move away from me.
+
+345
+00:26:23,010 --> 00:26:32,330
+I saw the sun jumping quickly across the sky,
+once every minute, each minute being a day.
+
+346
+00:26:32,330 --> 00:26:38,220
+I supposed that the laboratory had been destroyed
+and I had come into the open air.
+
+347
+00:26:38,220 --> 00:26:43,800
+The quick changes of darkness and light were
+very painful to my eyes.
+
+348
+00:26:43,800 --> 00:26:51,190
+Then, in the short dark times, I saw the moon
+turning quickly through her quarters from
+
+349
+00:26:51,190 --> 00:26:53,169
+new to full.
+
+350
+00:26:53,169 --> 00:27:02,790
+'Soon, as I continued, still increasing speed,
+the change from night to day became one continuous
+
+351
+00:27:02,790 --> 00:27:04,809
+greyness.
+
+352
+00:27:04,809 --> 00:27:07,520
+The sky turned a wonderful deep blue.
+
+353
+00:27:07,520 --> 00:27:15,540
+The jumping sun became a line of fire, the
+moon a fainter line that changed in width.
+
+354
+00:27:15,540 --> 00:27:20,140
+'The land was difficult to see clearly.
+
+355
+00:27:20,140 --> 00:27:24,480
+I was still on the hillside where this house
+now stands.
+
+356
+00:27:24,480 --> 00:27:27,710
+I saw trees growing and changing.
+
+357
+00:27:27,710 --> 00:27:36,900
+They changed from green to brown and back
+to green again, grew tall, died and fell.
+
+358
+00:27:36,900 --> 00:27:43,250
+I saw enormous buildings rise up, then disappear
+like dreams.
+
+359
+00:27:43,250 --> 00:27:47,909
+The speed dials on the machine went round
+faster and faster.
+
+360
+00:27:47,909 --> 00:27:55,019
+The line of the sun moved up and down, from
+summer to winter, in a minute or less.
+
+361
+00:27:55,019 --> 00:28:01,380
+Minute by minute white snow spread across
+the world and disappeared, and was followed
+
+362
+00:28:01,380 --> 00:28:03,700
+by the green of spring.
+
+363
+00:28:03,700 --> 00:28:12,760
+'The unpleasant feelings at the beginning
+now changed into a kind of crazy excitement.
+
+364
+00:28:12,760 --> 00:28:19,150
+I noticed a strange movement of the machine
+from side to side, which I couldn't explain,
+
+365
+00:28:19,150 --> 00:28:23,190
+but my mind was too confused to pay any attention
+to it.
+
+366
+00:28:23,190 --> 00:28:30,549
+So with a kind of madness growing in me, I
+threw myself into the future.
+
+367
+00:28:30,549 --> 00:28:33,169
+At first I didn't think of stopping.
+
+368
+00:28:33,169 --> 00:28:41,870
+But then a new feeling grew in my mind - a
+sense of fear mixed with the need to know.
+
+369
+00:28:41,870 --> 00:28:46,950
+'What strange changes had happened to people?
+
+370
+00:28:46,950 --> 00:28:52,140
+What wonderful improvements to our simple
+way of life might appear when I looked more
+
+371
+00:28:52,140 --> 00:28:54,910
+closely into that world?
+
+372
+00:28:54,910 --> 00:29:02,080
+I saw large and wonderful buildings growing
+in front of me, bigger than ours.
+
+373
+00:29:02,080 --> 00:29:08,190
+I saw a stronger green colour move up the
+hillside, and stay there without any interruption
+
+374
+00:29:08,190 --> 00:29:10,250
+by snow.
+
+375
+00:29:10,250 --> 00:29:16,950
+Although I was travelling so quickly, the
+world still seemed beautiful, and so my mind
+
+376
+00:29:16,950 --> 00:29:19,640
+turned to stopping the machine.
+
+377
+00:29:19,640 --> 00:29:28,649
+'My greatest fear was that there would already
+be something in the space when I, or the machine,
+
+378
+00:29:28,649 --> 00:29:30,210
+stopped.
+
+379
+00:29:30,210 --> 00:29:36,090
+While I travelled at high speed through time,
+this didn't matter much - I seemed to move
+
+380
+00:29:36,090 --> 00:29:40,870
+like a gas through other things.
+
+381
+00:29:40,870 --> 00:29:47,299
+But when I stopped, I would put myself into
+whatever lay in my way.
+
+382
+00:29:47,299 --> 00:29:53,220
+Such close contact with the other thing might
+cause a great explosion.
+
+383
+00:29:53,220 --> 00:29:58,000
+I had thought of this possibility again and
+again while I was making the machine, but
+
+384
+00:29:58,000 --> 00:30:04,669
+then I had cheerfully accepted it as one of
+the necessary dangers that a man must face.
+
+385
+00:30:04,669 --> 00:30:09,059
+I wasn't as cheerful now, when I couldn't
+escape it.
+
+386
+00:30:09,059 --> 00:30:15,380
+'The strangeness of everything, the movement
+of the machine and the feeling of continual
+
+387
+00:30:15,380 --> 00:30:20,330
+falling had made me very nervous.
+
+388
+00:30:20,330 --> 00:30:23,649
+I told myself that I could never stop.
+
+389
+00:30:23,649 --> 00:30:29,429
+Then, becoming suddenly angry, I decided to
+stop immediately.
+
+390
+00:30:29,429 --> 00:30:33,120
+Like a fool in a hurry, I pulled over the
+lever.
+
+391
+00:30:33,120 --> 00:30:37,390
+The machine turned over and I was thrown through
+the air.
+
+392
+00:30:37,390 --> 00:30:41,310
+'There was the sound of thunder in my ears.
+
+393
+00:30:41,310 --> 00:30:49,080
+For a moment I forgot what was happening,
+then I found myself sitting on soft grass
+
+394
+00:30:49,080 --> 00:30:51,120
+in front of the machine.
+
+395
+00:30:51,120 --> 00:30:55,640
+Heavy rain was falling.
+
+396
+00:30:55,640 --> 00:31:03,269
+Everything still seemed grey, but soon I noticed
+that the confusion in my ears was gone.
+
+397
+00:31:03,269 --> 00:31:05,919
+I looked around me.
+
+398
+00:31:05,919 --> 00:31:10,929
+I was on a small lawn, surrounded by bushes.
+
+399
+00:31:10,929 --> 00:31:16,690
+Their purple flowers were dropping under the
+beating of the heavy rain.
+
+400
+00:31:16,690 --> 00:31:19,669
+In a moment I was wet to the skin.
+
+401
+00:31:19,669 --> 00:31:27,149
+"A fine welcome," I thought, "to a man who
+has travelled so many years to see you."
+
+402
+00:31:27,149 --> 00:31:31,919
+'Soon I stood up and looked around me.
+
+403
+00:31:31,919 --> 00:31:40,100
+Through the heavy rain I could see an enormous
+figure cut, perhaps, out of white stone.
+
+404
+00:31:40,100 --> 00:31:43,280
+But the rest of the world was unclear.
+
+405
+00:31:43,280 --> 00:31:49,820
+'As the rain became lighter, I saw the white
+figure more clearly.
+
+406
+00:31:49,820 --> 00:31:54,440
+It was very large - a tree touched its shoulder.
+
+407
+00:31:54,440 --> 00:32:00,010
+It was shaped a little like a sphinx with
+spread wings, and seemed to be flying.
+
+408
+00:32:00,010 --> 00:32:07,230
+The pedestal seemed to be made of metal, and
+had turned green with age.
+
+409
+00:32:07,230 --> 00:32:09,820
+I stood looking at the figure for some time.
+
+410
+00:32:09,820 --> 00:32:16,820
+When, at last, I took my eyes from it for
+a moment, I saw that the rain was stopping
+
+411
+00:32:16,820 --> 00:32:19,559
+and the sky was growing lighter.
+
+412
+00:32:19,559 --> 00:32:26,809
+'Then I suddenly realised the full danger
+of my journey.
+
+413
+00:32:26,809 --> 00:32:30,890
+What might appear when the rain stopped?
+
+414
+00:32:30,890 --> 00:32:33,519
+What might people be like?
+
+415
+00:32:33,519 --> 00:32:39,269
+Had they perhaps changed into something inhuman
+and very strong?
+
+416
+00:32:39,269 --> 00:32:45,870
+I might seem like an old-world wild animal,
+but more frightening because I looked like
+
+417
+00:32:45,870 --> 00:32:50,909
+them - a horrible creature to be speedily
+killed.
+
+418
+00:32:50,909 --> 00:32:57,889
+'Already I saw the shapes of enormous buildings,
+and a wooded hillside growing clearer through
+
+419
+00:32:57,889 --> 00:32:59,909
+the dying storm.
+
+420
+00:32:59,909 --> 00:33:05,149
+I turned quickly to the Time Machine and tried
+hard to turn it the right way up.
+
+421
+00:33:05,149 --> 00:33:12,100
+As I did so, the grey rain suddenly stopped
+and the sun shone through the clouds.
+
+422
+00:33:12,100 --> 00:33:17,020
+My fear grew stronger and I fought hard with
+the machine.
+
+423
+00:33:17,020 --> 00:33:20,190
+It moved under my attack and turned over.
+
+424
+00:33:20,190 --> 00:33:22,850
+It hit my chin violently.
+
+425
+00:33:22,850 --> 00:33:28,070
+One hand on the seat, the other on the lever,
+I stood breathing heavily, ready to climb
+
+426
+00:33:28,070 --> 00:33:30,409
+inside it again.
+
+427
+00:33:30,409 --> 00:33:35,799
+'But now I had a way of escaping, my confidence
+recovered.
+
+428
+00:33:35,799 --> 00:33:41,809
+I looked with more interest and less fear
+at this world of the future.
+
+429
+00:33:41,809 --> 00:33:47,710
+In a round opening, high up in the wall of
+the nearest building, I saw a group of figures
+
+430
+00:33:47,710 --> 00:33:49,570
+wearing soft robes.
+
+431
+00:33:49,570 --> 00:33:54,500
+They had seen me, and their faces were turned
+towards me.
+
+432
+00:33:54,500 --> 00:33:58,149
+'Then I heard voices coming nearer.
+
+433
+00:33:58,149 --> 00:34:02,840
+Through the bushes I saw the heads and shoulders
+of running men.
+
+434
+00:34:02,840 --> 00:34:08,220
+One of these appeared on a path leading straight
+to the lawn where I stood.
+
+435
+00:34:08,220 --> 00:34:15,440
+He was quite thin, just over a metre high,
+wearing only a long purple shirt tied at the
+
+436
+00:34:15,440 --> 00:34:18,149
+waist with a leather belt.
+
+437
+00:34:18,149 --> 00:34:25,190
+Noticing that, I realised for the first time
+how warm the air was.
+
+438
+00:34:25,190 --> 00:34:29,940
+'He seemed to be very beautiful, but also
+very weak.
+
+439
+00:34:29,940 --> 00:34:33,639
+At the sight of him, my confidence returned.
+
+440
+00:34:33,639 --> 00:34:39,750
+I took my hands from the machine.
+
+441
+00:34:39,750 --> 00:34:42,010
+CHAPTER FOUR
+
+442
+00:34:42,010 --> 00:34:43,261
+The People of the Future
+
+443
+00:34:43,261 --> 00:34:55,369
+'In another moment we were standing face to
+face, I and this weak creature from the future.
+
+444
+00:34:55,369 --> 00:34:59,850
+He came straight up to me and laughed into
+my eyes.
+
+445
+00:34:59,850 --> 00:35:04,690
+I noticed immediately that he had no fear
+in him.
+
+446
+00:35:04,690 --> 00:35:07,710
+Then he turned to the two others who were
+following him.
+
+447
+00:35:07,710 --> 00:35:12,020
+He spoke to them in a strange and very sweet-sounding
+language.
+
+448
+00:35:12,020 --> 00:35:18,050
+'There were more coming, and soon a little
+group of perhaps eight or ten of these beautiful
+
+449
+00:35:18,050 --> 00:35:20,890
+people were around me.
+
+450
+00:35:20,890 --> 00:35:23,160
+One of them spoke to me.
+
+451
+00:35:23,160 --> 00:35:28,710
+I don't know why, but I thought that my voice
+was too strong and deep for them.
+
+452
+00:35:28,710 --> 00:35:34,310
+So I shook my head and, pointing to my ears,
+shook it again.
+
+453
+00:35:34,310 --> 00:35:41,040
+He came a step forwards, stopped and then
+touched my hand.
+
+454
+00:35:41,040 --> 00:35:45,690
+Then I felt other soft little hands on my
+back and shoulders.
+
+455
+00:35:45,690 --> 00:35:48,150
+They wanted to make sure that I was real.
+
+456
+00:35:48,150 --> 00:35:51,950
+'There was nothing at all frightening in this.
+
+457
+00:35:51,950 --> 00:36:00,240
+In fact, these pretty little people had a
+relaxed and childlike gentleness that made
+
+458
+00:36:00,240 --> 00:36:02,520
+me confident.
+
+459
+00:36:02,520 --> 00:36:07,220
+And also, they looked so weak that I could
+imagine myself throwing the whole group of
+
+460
+00:36:07,220 --> 00:36:08,619
+them to the ground.
+
+461
+00:36:08,619 --> 00:36:13,410
+'But I made a sudden movement to warn them
+when I saw their little pink hands touching
+
+462
+00:36:13,410 --> 00:36:16,410
+the Time Machine.
+
+463
+00:36:16,410 --> 00:36:22,470
+Fortunately then, when it wasn't too late,
+I thought of the danger that I had forgotten.
+
+464
+00:36:22,470 --> 00:36:28,190
+Reaching over the bars of the machine, I took
+out the little levers that would make it move.
+
+465
+00:36:28,190 --> 00:36:30,730
+I put these in my pocket.
+
+466
+00:36:30,730 --> 00:36:36,849
+Then I turned again to the little people to
+see how I could communicate.
+
+467
+00:36:36,849 --> 00:36:43,950
+'Looking closer at their faces, I saw some
+strange differences in their sweet prettiness.
+
+468
+00:36:43,950 --> 00:36:50,069
+They all had the same wavy hair, and this
+came to a sharp end at the neck and below
+
+469
+00:36:50,069 --> 00:36:52,339
+the ears.
+
+470
+00:36:52,339 --> 00:36:57,160
+There was none growing on their faces, and
+their ears were very small.
+
+471
+00:36:57,160 --> 00:37:03,839
+Their mouths were small, too, with bright
+red, rather thin lips.
+
+472
+00:37:03,839 --> 00:37:10,849
+Their little chins came to a point and their
+eyes were large and gentle.
+
+473
+00:37:10,849 --> 00:37:18,240
+Perhaps my sense of my own importance is too
+great, but I felt even then that they showed
+
+474
+00:37:18,240 --> 00:37:21,180
+very little interest in me.
+
+475
+00:37:21,180 --> 00:37:27,080
+'Because they didn't try to speak to me, but
+simply stood smiling and speaking softly to
+
+476
+00:37:27,080 --> 00:37:31,290
+each other, I began the conversation.
+
+477
+00:37:31,290 --> 00:37:35,060
+I pointed to the Time Machine and to myself.
+
+478
+00:37:35,060 --> 00:37:41,480
+Then, after thinking for a moment how to describe
+time, I pointed to the sun.
+
+479
+00:37:41,480 --> 00:37:47,099
+At once a pretty little figure dressed in
+purple and white did the same, and then made
+
+480
+00:37:47,099 --> 00:37:48,680
+the sound of thunder.
+
+481
+00:37:48,680 --> 00:37:55,119
+'For a moment I was very surprised, though
+the meaning of his movement was clear enough.
+
+482
+00:37:55,119 --> 00:38:02,540
+The question had come into my mind suddenly:
+were these people fools?
+
+483
+00:38:02,540 --> 00:38:05,380
+You couldn't really understand how I felt.
+
+484
+00:38:05,380 --> 00:38:13,410
+I had always expected that people living about
+800,000 years in the future would have much
+
+485
+00:38:13,410 --> 00:38:18,800
+greater knowledge than us in science, art
+- everything.
+
+486
+00:38:18,800 --> 00:38:24,600
+'But one of them had asked me a very simple
+question, which showed him to be on the level
+
+487
+00:38:24,600 --> 00:38:28,340
+of intelligence of one of our five- year-old
+children.
+
+488
+00:38:28,340 --> 00:38:36,550
+He had asked me, in fact, if I had come from
+the sun in a thunderstorm!
+
+489
+00:38:36,550 --> 00:38:43,869
+'This made me think again about their clothes,
+their weak arms and legs and pretty faces.
+
+490
+00:38:43,869 --> 00:38:49,070
+A feeling of sadness came into my mind.
+
+491
+00:38:49,070 --> 00:38:55,990
+For a moment I felt that I had built the Time
+Machine for no reason at all.
+
+492
+00:38:55,990 --> 00:39:01,750
+'I said yes, pointed to the sun, and made
+a sound like thunder.
+
+493
+00:39:01,750 --> 00:39:07,810
+This was so real that it frightened them - they
+all stood back a step or two and bent their
+
+494
+00:39:07,810 --> 00:39:10,320
+heads down.
+
+495
+00:39:10,320 --> 00:39:16,420
+Then one came laughing towards me, carrying
+some beautiful flowers which were new to me.
+
+496
+00:39:16,420 --> 00:39:18,760
+He put these around my neck.
+
+497
+00:39:18,760 --> 00:39:22,420
+'The idea made them all happy.
+
+498
+00:39:22,420 --> 00:39:26,850
+Soon they were running around for flowers
+and throwing them on me until I was almost
+
+499
+00:39:26,850 --> 00:39:29,440
+covered with them.
+
+500
+00:39:29,440 --> 00:39:36,589
+You cannot imagine what wonderful flowers
+countless years of work had produced.
+
+501
+00:39:36,589 --> 00:39:43,410
+'Then someone suggested that their new toy
+should be shown to others in the nearest building,
+
+502
+00:39:43,410 --> 00:39:49,050
+and so I was led past the sphinx made of white
+stone, which had seemed to watch me all the
+
+503
+00:39:49,050 --> 00:39:53,130
+time with a smile at my surprise.
+
+504
+00:39:53,130 --> 00:39:59,010
+As I went with them, the memory of my hopes
+for a future full of highly intelligent people
+
+505
+00:39:59,010 --> 00:40:03,130
+came to my mind, and made me smile.
+
+506
+00:40:03,130 --> 00:40:09,089
+'The building had a very large entrance, and
+was really enormous.
+
+507
+00:40:09,089 --> 00:40:14,810
+I was worried about the growing crowd of little-
+people, and the shadows beyond the big open
+
+508
+00:40:14,810 --> 00:40:16,400
+doors.
+
+509
+00:40:16,400 --> 00:40:19,480
+Around me I saw many bushes and flowers.
+
+510
+00:40:19,480 --> 00:40:25,450
+It was clear that no gardener was looking
+after them, but they still looked beautiful.
+
+511
+00:40:25,450 --> 00:40:30,400
+The Time Machine was left on the lawn.
+
+512
+00:40:30,400 --> 00:40:36,089
+'Several more brightly-dressed people met
+me in the doorway and we walked through into
+
+513
+00:40:36,089 --> 00:40:37,740
+a large hall.
+
+514
+00:40:37,740 --> 00:40:46,140
+The roof was in shadow and the windows, partly
+made of coloured glass, let in a soft light.
+
+515
+00:40:46,140 --> 00:40:53,829
+The floor was made of large pieces of a very
+hard white metal, lower in places where people
+
+516
+00:40:53,829 --> 00:40:55,941
+had clearly walked across it for hundreds
+of years.
+
+517
+00:40:55,941 --> 00:41:04,460
+'Along the length of the room were many tables
+made of shiny stone, perhaps half a metre
+
+518
+00:41:04,460 --> 00:41:08,869
+above the floor, and on these were piles of
+fruit.
+
+519
+00:41:08,869 --> 00:41:15,119
+Some I recognised as larger apples and oranges,
+but mostly they were strange.
+
+520
+00:41:15,119 --> 00:41:20,849
+'The people with me sat down around a table
+and made signs for me to do the same.
+
+521
+00:41:20,849 --> 00:41:24,950
+They immediately began to eat the fruit with
+their hands.
+
+522
+00:41:24,950 --> 00:41:30,240
+I was happy to follow their example because
+I felt thirsty and hungry.
+
+523
+00:41:30,240 --> 00:41:35,869
+As I did so, I took some time to look around
+the hall and noticed that the glass windows
+
+524
+00:41:35,869 --> 00:41:41,710
+were broken in many places and the curtains
+were thick with dust.
+
+525
+00:41:41,710 --> 00:41:44,329
+The general effect, though, was very attractive.
+
+526
+00:41:44,329 --> 00:41:50,700
+'There were, perhaps, a couple of hundred
+people eating in the hall, and most of them
+
+527
+00:41:50,700 --> 00:41:57,290
+were watching me with interest, their little
+eyes shining over the fruit they were eating.
+
+528
+00:41:57,290 --> 00:42:01,380
+All of them were wearing the same soft but
+strong material.
+
+529
+00:42:01,380 --> 00:42:06,530
+'Fruit, I later learned, was all that they
+ate.
+
+530
+00:42:06,530 --> 00:42:13,609
+These people of the future didn't eat meat,
+and while I was with them, although I missed
+
+531
+00:42:13,609 --> 00:42:16,609
+it, I could only eat fruit too.
+
+532
+00:42:16,609 --> 00:42:26,700
+In fact, I discovered later that horses, cows
+and sheep, and dogs, had disappeared from
+
+533
+00:42:26,700 --> 00:42:27,700
+Earth.
+
+534
+00:42:27,700 --> 00:42:30,890
+But the fruits were very pleasant.
+
+535
+00:42:30,890 --> 00:42:38,570
+'When I had filled my stomach, I tried to
+learn some of the language of these new people.
+
+536
+00:42:38,570 --> 00:42:44,640
+The fruits seemed an easy thing to start with,
+and holding one of these up, I began using
+
+537
+00:42:44,640 --> 00:42:47,800
+questioning sounds and movements.
+
+538
+00:42:47,800 --> 00:42:50,900
+I had great difficulty making them understand.
+
+539
+00:42:50,900 --> 00:42:58,580
+At first they stared in surprise and laughed,
+but soon a fair-haired little female seemed
+
+540
+00:42:58,580 --> 00:43:02,950
+to realise what I wanted and repeated a name.
+
+541
+00:43:02,950 --> 00:43:09,090
+'They had to talk for some time to explain
+things to each other, and when I first tried
+
+542
+00:43:09,090 --> 00:43:13,619
+to make the sounds of their language they
+were very amused.
+
+543
+00:43:13,619 --> 00:43:19,690
+I felt like a teacher among children, but
+soon I at least knew a number of names for
+
+544
+00:43:19,690 --> 00:43:23,210
+things and even the verb "to eat".
+
+545
+00:43:23,210 --> 00:43:29,099
+'It was slow work, though, and the little
+people soon got tired and wanted to get away
+
+546
+00:43:29,099 --> 00:43:36,079
+from my questions, so I decided to let them
+give short lessons when they wanted to.
+
+547
+00:43:36,079 --> 00:43:43,010
+And they were very short lessons because I
+have never met people who are lazier or more
+
+548
+00:43:43,010 --> 00:43:44,510
+easily tired.
+
+549
+00:43:44,510 --> 00:43:51,819
+They used to come to me with happy cries of
+surprise, like children, but like children
+
+550
+00:43:51,819 --> 00:43:56,420
+they soon stopped examining me and went away
+to find another toy.
+
+551
+00:43:56,420 --> 00:44:02,980
+'When the dinner ended, I noted the disappearance
+of almost all the creatures who had surrounded
+
+552
+00:44:02,980 --> 00:44:04,350
+me at first.
+
+553
+00:44:04,350 --> 00:44:10,869
+It is odd, too, how quickly I stopped caring
+about these little people.
+
+554
+00:44:10,869 --> 00:44:13,410
+I was continually meeting more of them.
+
+555
+00:44:13,410 --> 00:44:19,579
+They followed me a little distance, talked
+and laughed around me, smiled in a friendly
+
+556
+00:44:19,579 --> 00:44:26,060
+way, then left me alone.
+
+557
+00:44:26,060 --> 00:44:28,609
+CHAPTER FIVE
+
+558
+00:44:28,609 --> 00:44:32,040
+Life in the Future
+
+559
+00:44:32,040 --> 00:44:37,470
+The evening was calm as I came out of the
+great hall, and the land was lit by the colour
+
+560
+00:44:37,470 --> 00:44:40,190
+of the sun as it went down.
+
+561
+00:44:40,190 --> 00:44:45,960
+The big building was on the side of a wide
+river valley, but the Thames had moved a kilometre
+
+562
+00:44:45,960 --> 00:44:48,810
+or two from its present position.
+
+563
+00:44:48,810 --> 00:44:54,450
+I decided to climb to the top of a hill from
+where I could see more of our world in the
+
+564
+00:44:54,450 --> 00:45:04,920
+year 802,701.That was the date the little
+dials of my machine had showed.
+
+565
+00:45:04,920 --> 00:45:11,599
+'As I walked, I looked for anything that could
+explain the bad condition of things.
+
+566
+00:45:11,599 --> 00:45:18,090
+A little way up the hill, for example, was
+a great pile of stones held together by pieces
+
+567
+00:45:18,090 --> 00:45:20,310
+of metal.
+
+568
+00:45:20,310 --> 00:45:24,690
+These were the ruins of a great building,
+although I couldn't imagine what its use had
+
+569
+00:45:24,690 --> 00:45:26,700
+been.
+
+570
+00:45:26,700 --> 00:45:33,770
+'Looking round with a sudden thought, I realised
+that there were no small houses.
+
+571
+00:45:33,770 --> 00:45:39,880
+Here and there among the trees and bushes
+were palace-like buildings, but the single
+
+572
+00:45:39,880 --> 00:45:45,110
+house, and possibly even the family, had disappeared.
+
+573
+00:45:45,110 --> 00:45:49,360
+'And then came another thought.
+
+574
+00:45:49,360 --> 00:45:53,160
+I looked at the small group of figures who
+were following me.
+
+575
+00:45:53,160 --> 00:46:00,660
+I saw that all had the same type of clothes,
+the same soft hairless faces and the same
+
+576
+00:46:00,660 --> 00:46:04,020
+girlish arms and legs.
+
+577
+00:46:04,020 --> 00:46:07,800
+'It may seem odd, perhaps, that I hadn't noticed
+this before.
+
+578
+00:46:07,800 --> 00:46:11,760
+But everything was so strange.
+
+579
+00:46:11,760 --> 00:46:16,730
+Now, I saw the fact clearly enough.
+
+580
+00:46:16,730 --> 00:46:24,240
+These people of the future were all very similar
+in clothes, and in all other ways the differences
+
+581
+00:46:24,240 --> 00:46:29,520
+between men and women had almost disappeared.
+
+582
+00:46:29,520 --> 00:46:34,660
+And the children seemed to my eyes to be just
+smaller adults.
+
+583
+00:46:34,660 --> 00:46:42,619
+'Seeing how safely and comfortably these people
+lived, I felt that this close similarity of
+
+584
+00:46:42,619 --> 00:46:45,510
+the sexes was understandable.
+
+585
+00:46:45,510 --> 00:46:51,440
+If there are enough people, it becomes a problem
+rather than an advantage to have a lot of
+
+586
+00:46:51,440 --> 00:46:53,319
+children.
+
+587
+00:46:53,319 --> 00:46:59,710
+If violence conies only rarely and children
+are safe, there is less need for men to be
+
+588
+00:46:59,710 --> 00:47:02,890
+strong and protect their families.
+
+589
+00:47:02,890 --> 00:47:09,869
+This, I must remind you, was my feeling at
+the time.
+
+590
+00:47:09,869 --> 00:47:14,339
+Later, I discovered how wrong I was.
+
+591
+00:47:14,339 --> 00:47:20,930
+'I continued, and because I could walk better
+than the people of the future, I found myself
+
+592
+00:47:20,930 --> 00:47:24,170
+alone for the first time.
+
+593
+00:47:24,170 --> 00:47:30,980
+At the top of the hill I found a seat of a
+yellow metal that I didn't recognise.
+
+594
+00:47:30,980 --> 00:47:36,590
+I sat down on it and looked at the wide view
+of our world under the sunset of that long
+
+595
+00:47:36,590 --> 00:47:38,730
+day.
+
+596
+00:47:38,730 --> 00:47:42,309
+It was as beautiful as I have ever seen.
+
+597
+00:47:42,309 --> 00:47:48,190
+The west was burning gold, mixed with some
+purple and red.
+
+598
+00:47:48,190 --> 00:47:56,190
+Below was the valley of the Thames, in which
+the river lay like a line of shining metal.
+
+599
+00:47:56,190 --> 00:48:02,319
+'As I watched, I began to try to understand
+the things I had seen.
+
+600
+00:48:02,319 --> 00:48:06,210
+(Afterwards I realised I had only learned
+half the truth.)
+
+601
+00:48:06,210 --> 00:48:11,950
+It seemed to me that people were now past
+their best.
+
+602
+00:48:11,950 --> 00:48:18,360
+The sunset made me think about the sunset
+of our people.
+
+603
+00:48:18,360 --> 00:48:24,869
+For the first time I began to understand an
+odd result of the social changes we are trying
+
+604
+00:48:24,869 --> 00:48:27,760
+to make at the moment.
+
+605
+00:48:27,760 --> 00:48:36,089
+Strength comes because we need to be strong;
+weakness comes when we feel safe.
+
+606
+00:48:36,089 --> 00:48:43,540
+The work of improving the conditions of life,
+of making life safer and safer, had continued
+
+607
+00:48:43,540 --> 00:48:46,970
+until nothing more could be done.
+
+608
+00:48:46,970 --> 00:48:50,579
+The result was what I saw!
+
+609
+00:48:50,579 --> 00:48:59,340
+'The science of our time has attacked only
+a few human diseases, but it moves forwards.
+
+610
+00:48:59,340 --> 00:49:02,680
+Farming today is still at an early stage.
+
+611
+00:49:02,680 --> 00:49:09,760
+We improve our plants and animals very slowly
+- a new and better apple, a prettier and larger
+
+612
+00:49:09,760 --> 00:49:13,670
+flower, a cow that gives more milk.
+
+613
+00:49:13,670 --> 00:49:18,400
+One day the whole world will be better organised,
+and better.
+
+614
+00:49:18,400 --> 00:49:25,540
+'I knew that this change had been made, and
+made well, in the space of time across which
+
+615
+00:49:25,540 --> 00:49:28,309
+my machine had jumped.
+
+616
+00:49:28,309 --> 00:49:36,500
+The air was free of unpleasant insects, the
+earth was free of useless plants.
+
+617
+00:49:36,500 --> 00:49:40,920
+Everywhere there were fruits and sweet and
+pleasant flowers.
+
+618
+00:49:40,920 --> 00:49:44,180
+Beautiful birds flew here and there.
+
+619
+00:49:44,180 --> 00:49:46,819
+And I saw no diseases during my stay.
+
+620
+00:49:46,819 --> 00:49:51,250
+'Social changes, too, had been made.
+
+621
+00:49:51,250 --> 00:49:57,200
+I saw people living in fine buildings, beautifully
+dressed, but I hadn't yet found them doing
+
+622
+00:49:57,200 --> 00:49:58,250
+any work.
+
+623
+00:49:58,250 --> 00:50:01,579
+There were no signs of economic activity.
+
+624
+00:50:01,579 --> 00:50:09,200
+The shop, the advertisement, buying and selling
+- all of these things are so important to
+
+625
+00:50:09,200 --> 00:50:12,700
+us, and all of them were gone.
+
+626
+00:50:12,700 --> 00:50:19,549
+It was natural in the evening that I had the
+idea of a social heaven.
+
+627
+00:50:19,549 --> 00:50:25,190
+'But this change in conditions has to produce
+changes in people.
+
+628
+00:50:25,190 --> 00:50:30,849
+What is the cause of human intelligence and
+energy?
+
+629
+00:50:30,849 --> 00:50:36,180
+Difficulties make people strong and clever
+and help them to work together.
+
+630
+00:50:36,180 --> 00:50:42,930
+And the family, with its protective love and
+selfishness, is there for the care of children.
+
+631
+00:50:42,930 --> 00:50:47,220
+The love of parents helps to keep the young
+out of danger.
+
+632
+00:50:47,220 --> 00:50:50,760
+Now, where were these dangers?
+
+633
+00:50:50,760 --> 00:50:57,490
+'I thought of the physical smallness of the
+people, their low intelligence and those big
+
+634
+00:50:57,490 --> 00:51:00,110
+ruined buildings.
+
+635
+00:51:00,110 --> 00:51:06,200
+It strengthened my belief that humans, who
+had always fought against nature, had finally
+
+636
+00:51:06,200 --> 00:51:10,740
+won - because after the fight comes quietness.
+
+637
+00:51:10,740 --> 00:51:20,589
+People had been strong, energetic and intelligent,
+and had used this energy to change their living
+
+638
+00:51:20,589 --> 00:51:22,290
+conditions.
+
+639
+00:51:22,290 --> 00:51:28,930
+And now they too had changed because of the
+new conditions.
+
+640
+00:51:28,930 --> 00:51:36,160
+'No doubt the beauty of the buildings was
+the result of the last waves of the now purposeless
+
+641
+00:51:36,160 --> 00:51:38,340
+energy of people.
+
+642
+00:51:38,340 --> 00:51:42,980
+After that, they began to lead quieter lives.
+
+643
+00:51:42,980 --> 00:51:49,990
+Even artistic activity would finally disappear
+- had almost disappeared in the time I saw.
+
+644
+00:51:49,990 --> 00:51:57,150
+The people liked to cover themselves in flowers,
+to dance and to sing in the sunlight.
+
+645
+00:51:57,150 --> 00:51:59,589
+That was all they did.
+
+646
+00:51:59,589 --> 00:52:05,770
+'As I stood there in the growing dark, I thought
+that I had understood the whole secret of
+
+647
+00:52:05,770 --> 00:52:08,400
+these pleasant people.
+
+648
+00:52:08,400 --> 00:52:14,359
+Possibly their population control had worked
+too well, and their numbers had fallen instead
+
+649
+00:52:14,359 --> 00:52:16,809
+of staying the same.
+
+650
+00:52:16,809 --> 00:52:19,740
+That would explain the empty ruins.
+
+651
+00:52:19,740 --> 00:52:30,460
+My explanation was very simple, and believable
+enough - as most wrong ideas are!
+
+652
+00:52:30,460 --> 00:52:33,059
+CHAPTER SIX
+
+653
+00:52:33,059 --> 00:52:34,059
+Lost in Time
+
+654
+00:52:34,059 --> 00:52:43,829
+'As I stood there thinking about this too
+perfect success of humans, the full moon came
+
+655
+00:52:43,829 --> 00:52:46,290
+up in the north-east.
+
+656
+00:52:46,290 --> 00:52:52,750
+The little figures stopped moving around below
+me and the night began to feel cold.
+
+657
+00:52:52,750 --> 00:52:56,810
+I decided to go down and find a place to sleep.
+
+658
+00:52:56,810 --> 00:52:59,750
+'I looked for the building I knew.
+
+659
+00:52:59,750 --> 00:53:05,099
+Then my eye moved to the white sphinx on the
+pedestal.
+
+660
+00:53:05,099 --> 00:53:10,349
+There were the bushes and there was the little
+lawn.
+
+661
+00:53:10,349 --> 00:53:12,980
+I looked at it again.
+
+662
+00:53:12,980 --> 00:53:16,370
+A strange doubt made me feel cold.
+
+663
+00:53:16,370 --> 00:53:22,359
+"No," I said to myself, "that isn't the lawn."
+
+664
+00:53:22,359 --> 00:53:29,040
+'But it was the lawn, because the white face
+of the sphinx was towards it.
+
+665
+00:53:29,040 --> 00:53:31,980
+Can you imagine how I felt as I realised this?
+
+666
+00:53:31,980 --> 00:53:34,109
+But you can't.
+
+667
+00:53:34,109 --> 00:53:37,450
+The Time Machine had gone!
+
+668
+00:53:37,450 --> 00:53:44,930
+'At once I understood the possibility of losing
+my own time, of being left helpless in this
+
+669
+00:53:44,930 --> 00:53:47,579
+strange new world.
+
+670
+00:53:47,579 --> 00:53:51,720
+I ran with great jumps down the hillside.
+
+671
+00:53:51,720 --> 00:53:54,890
+Once I fell and cut my face.
+
+672
+00:53:54,890 --> 00:53:59,589
+I did nothing to stop the blood, but jumped
+up and continued running.
+
+673
+00:53:59,589 --> 00:54:03,900
+All the time I was saying to myself, "They
+have just pushed it under the bushes out of
+
+674
+00:54:03,900 --> 00:54:05,109
+the way."
+
+675
+00:54:05,109 --> 00:54:08,650
+'But I knew that I was wrong.
+
+676
+00:54:08,650 --> 00:54:13,930
+I suppose I covered the whole distance to
+the small lawn, three kilometres perhaps,
+
+677
+00:54:13,930 --> 00:54:15,930
+in ten minutes.
+
+678
+00:54:15,930 --> 00:54:19,170
+I shouted but nobody answered.
+
+679
+00:54:19,170 --> 00:54:23,130
+Nobody seemed to be moving in that moonlit
+world.
+
+680
+00:54:23,130 --> 00:54:28,990
+'When I reached the lawn, I found that my
+worst fears were true.
+
+681
+00:54:28,990 --> 00:54:34,710
+The Time Machine was nowhere to be seen.
+
+682
+00:54:34,710 --> 00:54:37,869
+I felt faint and cold.
+
+683
+00:54:37,869 --> 00:54:45,299
+I ran round the lawn quickly, checking every
+corner, then stopped suddenly.
+
+684
+00:54:45,299 --> 00:54:48,579
+Above me was the white sphinx.
+
+685
+00:54:48,579 --> 00:54:51,630
+It seemed to smile with pleasure at my problems.
+
+686
+00:54:51,630 --> 00:54:57,690
+'It is possible that the little people had
+put the machine in a safe place for me, but
+
+687
+00:54:57,690 --> 00:55:03,510
+I didn't feel that they were either strong
+enough or caring enough to move it.
+
+688
+00:55:03,510 --> 00:55:10,690
+This is what worried me, the feeling of a
+new power that had moved the machine.
+
+689
+00:55:10,690 --> 00:55:13,160
+But where could it be?
+
+690
+00:55:13,160 --> 00:55:16,640
+'I think I went a little mad.
+
+691
+00:55:16,640 --> 00:55:23,420
+I remember running violently in and out of
+the moonlit bushes all around the sphinx and
+
+692
+00:55:23,420 --> 00:55:27,369
+frightening a small white animal that I didn't
+recognise.
+
+693
+00:55:27,369 --> 00:55:34,180
+Then, crying and shouting, I went down to
+the great building of stone.
+
+694
+00:55:34,180 --> 00:55:39,170
+The big hall was dark, silent and empty.
+
+695
+00:55:39,170 --> 00:55:43,490
+I lit a match and continued past the dusty
+curtains.
+
+696
+00:55:43,490 --> 00:55:51,010
+'There I found a second great hall, where
+about twenty of the little people were sleeping.
+
+697
+00:55:51,010 --> 00:55:56,990
+I have no doubt they found my second appearance
+strange, as I came suddenly out of the quiet
+
+698
+00:55:56,990 --> 00:56:02,750
+darkness with mad noises and the sudden light
+of a match.
+
+699
+00:56:02,750 --> 00:56:05,180
+Perhaps they had forgotten about matches.
+
+700
+00:56:05,180 --> 00:56:07,640
+"Where is my Time Machine?"
+
+701
+00:56:07,640 --> 00:56:11,270
+I began, shaking them with my hands.
+
+702
+00:56:11,270 --> 00:56:14,510
+'This behaviour was very strange to them.
+
+703
+00:56:14,510 --> 00:56:18,970
+Some laughed, but most looked very frightened.
+
+704
+00:56:18,970 --> 00:56:25,660
+When I saw them standing round me, I realised
+that it was foolish to try and frighten them.
+
+705
+00:56:25,660 --> 00:56:30,190
+Judging by their daylight behaviour, I thought
+that fear must be forgotten.
+
+706
+00:56:30,190 --> 00:56:36,410
+'I threw down the match and, knocking one
+of the people over as I went, I ran across
+
+707
+00:56:36,410 --> 00:56:40,839
+the big dining-hall again, out under the moonlight.
+
+708
+00:56:40,839 --> 00:56:46,219
+I heard cries of terror and their little feet
+running this way and that.
+
+709
+00:56:46,219 --> 00:56:53,559
+I don't remember everything I did as the moon
+moved slowly up the sky I know that I ran
+
+710
+00:56:53,559 --> 00:56:59,799
+here and there screaming, then lay on the
+ground near the sphinx and cried.
+
+711
+00:56:59,799 --> 00:57:06,690
+After that I slept, and when I woke up again
+it was light.
+
+712
+00:57:06,690 --> 00:57:14,329
+'I sat up in the freshness of the morning,
+trying to remember how I had got there.
+
+713
+00:57:14,329 --> 00:57:17,530
+Then things became clear in my mind.
+
+714
+00:57:17,530 --> 00:57:24,410
+I understood the wild stupidity of my madness
+overnight and I could reason with myself.
+
+715
+00:57:24,410 --> 00:57:27,150
+"Suppose the worst," I said.
+
+716
+00:57:27,150 --> 00:57:31,890
+"Suppose the machine is really lost - perhaps
+destroyed?
+
+717
+00:57:31,890 --> 00:57:38,690
+I should be calm and patient, learn the ways
+of the people, learn what has happened and
+
+718
+00:57:38,690 --> 00:57:47,210
+how to get materials and tools - then, in
+the end, perhaps, I can make another machine."
+
+719
+00:57:47,210 --> 00:57:52,299
+That would be my only hope, perhaps, but better
+than giving up.
+
+720
+00:57:52,299 --> 00:57:56,569
+And it was a beautiful and interesting world.
+
+721
+00:57:56,569 --> 00:58:00,660
+'But probably the machine had only been taken
+away.
+
+722
+00:58:00,660 --> 00:58:07,789
+I must be calm, find its hiding-place and
+get it back by force and cleverness.
+
+723
+00:58:07,789 --> 00:58:12,549
+I stood up and looked around me, wondering
+where I could wash.
+
+724
+00:58:12,549 --> 00:58:21,640
+I felt tired and dirty and rather surprised
+by my emotional state the night before.
+
+725
+00:58:21,640 --> 00:58:27,700
+'I made a careful examination of the ground
+around the little lawn.
+
+726
+00:58:27,700 --> 00:58:34,359
+I wasted some time in useless questions, asked,
+as well as I could, to the little people that
+
+727
+00:58:34,359 --> 00:58:35,359
+passed.
+
+728
+00:58:35,359 --> 00:58:38,670
+They all failed to understand what I meant.
+
+729
+00:58:38,670 --> 00:58:43,579
+Some simply said nothing; others thought it
+was a joke and laughed at me.
+
+730
+00:58:43,579 --> 00:58:47,140
+'The grass told me more.
+
+731
+00:58:47,140 --> 00:58:49,599
+I found a line in it.
+
+732
+00:58:49,599 --> 00:58:54,980
+There were other signs around, with strange
+narrow footprints.
+
+733
+00:58:54,980 --> 00:58:58,070
+This made me look again at the pedestal.
+
+734
+00:58:58,070 --> 00:59:01,790
+It was made, as I think I have said, of metal.
+
+735
+00:59:01,790 --> 00:59:05,880
+It was highly decorated with metal panels
+on either side.
+
+736
+00:59:05,880 --> 00:59:09,750
+'I went and knocked at these.
+
+737
+00:59:09,750 --> 00:59:13,120
+The pedestal was hollow.
+
+738
+00:59:13,120 --> 00:59:18,740
+There was no way to pull to open the panels,
+but perhaps if they were doors they opened
+
+739
+00:59:18,740 --> 00:59:20,920
+from inside.
+
+740
+00:59:20,920 --> 00:59:26,041
+One thing was clear enough to my mind: it
+wasn't difficult to work out that the Time
+
+741
+00:59:26,041 --> 00:59:29,589
+Machine was inside that pedestal.
+
+742
+00:59:29,589 --> 00:59:33,380
+But how had it got there?
+
+743
+00:59:33,380 --> 00:59:40,339
+'I saw the heads of two people dressed in
+orange coming through the bushes towards me.
+
+744
+00:59:40,339 --> 00:59:46,480
+They came and, pointing to the pedestal, I
+tried to make them understand my wish to open
+
+745
+00:59:46,480 --> 00:59:47,660
+it.
+
+746
+00:59:47,660 --> 00:59:52,880
+But at my first move to do this they behaved
+very oddly.
+
+747
+00:59:52,880 --> 00:59:56,250
+I don't know how to describe their faces to
+you.
+
+748
+00:59:56,250 --> 00:59:59,099
+They looked insulted.
+
+749
+00:59:59,099 --> 01:00:05,460
+'I tried a sweet-looking man in white next,
+with exactly the same result.
+
+750
+01:00:05,460 --> 01:00:09,119
+He made me feel ashamed of myself.
+
+751
+01:00:09,119 --> 01:00:14,989
+But as you know, I wanted the Time Machine
+and I tried him again.
+
+752
+01:00:14,989 --> 01:00:18,970
+As he turned away, like the others, I lost
+my temper.
+
+753
+01:00:18,970 --> 01:00:23,900
+In three steps I was after him, took him by
+the loose part of his robe round the neck
+
+754
+01:00:23,900 --> 01:00:26,880
+and began pulling him towards the pedestal.
+
+755
+01:00:26,880 --> 01:00:32,680
+Then I saw the fear on his face and I let
+him go.
+
+756
+01:00:32,680 --> 01:00:35,619
+'But I wasn't beaten yet.
+
+757
+01:00:35,619 --> 01:00:39,240
+I hit the metal panels with my hands.
+
+758
+01:00:39,240 --> 01:00:45,309
+I thought I heard something move inside - to
+be exact, I thought I heard a sound like a
+
+759
+01:00:45,309 --> 01:00:49,200
+laugh - but perhaps I was mistaken.
+
+760
+01:00:49,200 --> 01:00:54,940
+Then I got a big stone from the river and
+hit the metal until I had flattened part of
+
+761
+01:00:54,940 --> 01:00:57,180
+the decoration.
+
+762
+01:00:57,180 --> 01:01:03,890
+The little people could hear the noise a kilometre
+way in all directions, but they did nothing.
+
+763
+01:01:03,890 --> 01:01:10,240
+'I saw a crowd of them on the hillside, looking
+at me in a frightened way.
+
+764
+01:01:10,240 --> 01:01:16,799
+At last, hot and tired, I sat down to watch
+the place.
+
+765
+01:01:16,799 --> 01:01:19,920
+But I was too impatient to watch for long.
+
+766
+01:01:19,920 --> 01:01:25,341
+I could work at a problem for years, but I
+was unable to wait, inactive, for twenty-
+
+767
+01:01:25,341 --> 01:01:26,619
+four hours.
+
+768
+01:01:26,619 --> 01:01:34,000
+'I got up after a time and began walking aimlessly
+through the bushes towards the hill again.
+
+769
+01:01:34,000 --> 01:01:36,619
+"Patience," I said to myself.
+
+770
+01:01:36,619 --> 01:01:42,599
+"If you want your machine again, you must
+leave that pedestal alone.
+
+771
+01:01:42,599 --> 01:01:48,640
+If they intend to take your machine away,
+it won't help if you destroy their metal panels.
+
+772
+01:01:48,640 --> 01:01:53,329
+If they don't, you will get it back when you
+can ask for it.
+
+773
+01:01:53,329 --> 01:01:56,589
+"Face this world.
+
+774
+01:01:56,589 --> 01:02:03,850
+Learn its ways, watch it, be careful of guessing
+its meaning too quickly.
+
+775
+01:02:03,850 --> 01:02:08,530
+In the end you will find an answer to it all."
+
+776
+01:02:08,530 --> 01:02:14,750
+Then suddenly the humour of the situation
+came into my mind: the thought of the years
+
+777
+01:02:14,750 --> 01:02:21,170
+I had spent in study and work to get into
+the future age, and now my impatience to get
+
+778
+01:02:21,170 --> 01:02:22,359
+out of it.
+
+779
+01:02:22,359 --> 01:02:30,329
+I had put myself into the most hopeless situation
+a man could ever imagine.
+
+780
+01:02:30,329 --> 01:02:36,570
+I couldn't help laughing at myself.
+
+781
+01:02:36,570 --> 01:02:37,570
+CHAPTER SEVEN
+
+782
+01:02:37,570 --> 01:02:42,180
+Ghosts
+
+783
+01:02:42,180 --> 01:02:47,260
+'Going through the big palace, it seemed to
+me that the little people were staying away
+
+784
+01:02:47,260 --> 01:02:49,299
+from me.
+
+785
+01:02:49,299 --> 01:02:54,930
+Perhaps it was my imagination, or because
+I had hit the metal panels.
+
+786
+01:02:54,930 --> 01:03:01,630
+I was careful, though, to show no worry and
+not try to catch any of them, and after a
+
+787
+01:03:01,630 --> 01:03:05,680
+day or two the situation got back to normal.
+
+788
+01:03:05,680 --> 01:03:12,420
+'I decided to put any thought of my Time Machine
+and the mystery of the metal doors as much
+
+789
+01:03:12,420 --> 01:03:15,640
+as possible in a corner of my memory.
+
+790
+01:03:15,640 --> 01:03:22,339
+I hoped that in the end, growing knowledge
+would lead me back to them in a natural way.
+
+791
+01:03:22,339 --> 01:03:28,470
+But you can understand why I stayed within
+a circle of a few kilometres around my point
+
+792
+01:03:28,470 --> 01:03:30,180
+of arrival.
+
+793
+01:03:30,180 --> 01:03:36,890
+'As far as I could see, all the world seemed
+to be like the Thames valley.
+
+794
+01:03:36,890 --> 01:03:43,770
+From every hill I saw the same large numbers
+of fine buildings, all very different in material
+
+795
+01:03:43,770 --> 01:03:49,720
+and style, and the same kinds of trees and
+bushes.
+
+796
+01:03:49,720 --> 01:03:55,150
+I soon noticed, though, a number of wells
+in the ground.
+
+797
+01:03:55,150 --> 01:03:59,789
+Several of these, it seemed to me, were very
+deep.
+
+798
+01:03:59,789 --> 01:04:05,849
+One lay by a path up the hill, which I had
+followed during my first walk.
+
+799
+01:04:05,849 --> 01:04:12,700
+Like the others, it had a top made of metal,
+interestingly decorated and protected by a
+
+800
+01:04:12,700 --> 01:04:15,430
+little roof from the rain.
+
+801
+01:04:15,430 --> 01:04:22,770
+'Sitting by the side of these wells, and looking
+down into the darkness, I could see no sign
+
+802
+01:04:22,770 --> 01:04:27,549
+of water or any reflection when I lit a match.
+
+803
+01:04:27,549 --> 01:04:36,839
+But in all of them I heard a certain sound
+like the beating of a big engine.
+
+804
+01:04:36,839 --> 01:04:43,799
+I also discovered, from the flames of my matches,
+that air was going down into them.
+
+805
+01:04:43,799 --> 01:04:51,339
+I threw a piece of paper down into one and,
+instead of falling slowly, it was at once
+
+806
+01:04:51,339 --> 01:04:54,540
+pulled quickly out of sight.
+
+807
+01:04:54,540 --> 01:04:57,589
+I couldn't imagine what these wells were for.
+
+808
+01:04:57,589 --> 01:05:05,210
+'And I must say now that I learned very little
+about many parts of the life of these people.
+
+809
+01:05:05,210 --> 01:05:09,520
+Let me describe my difficulties.
+
+810
+01:05:09,520 --> 01:05:17,049
+I went into several big palaces, but they
+were just living places, great dining-halls
+
+811
+01:05:17,049 --> 01:05:19,650
+and sleeping apartments.
+
+812
+01:05:19,650 --> 01:05:25,980
+I could find no machines of any kind, but
+these people were dressed in fine cloth that
+
+813
+01:05:25,980 --> 01:05:33,550
+didn't seem very old, and their shoes, though
+undecorated, were very well made.
+
+814
+01:05:33,550 --> 01:05:37,799
+'But the people didn't seem to make things
+themselves.
+
+815
+01:05:37,799 --> 01:05:44,790
+There were no shops, no factories, no signs
+that they brought things in from other places.
+
+816
+01:05:44,790 --> 01:05:51,940
+They spent all their time playing gently,
+swimming in the river, falling in love in
+
+817
+01:05:51,940 --> 01:05:57,119
+a half-playful way, eating fruit and sleeping.
+
+818
+01:05:57,119 --> 01:06:01,089
+I couldn't see how or where things were produced.
+
+819
+01:06:01,089 --> 01:06:06,210
+'But something had taken the Time Machine
+into the pedestal.
+
+820
+01:06:06,210 --> 01:06:07,839
+Why?
+
+821
+01:06:07,839 --> 01:06:09,620
+I couldn't imagine.
+
+822
+01:06:09,620 --> 01:06:17,339
+Suppose you found something written in English,
+with here and there some words that were completely
+
+823
+01:06:17,339 --> 01:06:19,270
+unknown to you.
+
+824
+01:06:19,270 --> 01:06:28,420
+Well, on the third day of my visit, that was
+how I felt about the world of 802,701.
+
+825
+01:06:28,420 --> 01:06:35,880
+'That day I made a friend - a kind of friend.
+
+826
+01:06:35,880 --> 01:06:40,330
+As I was watching some of the little people
+playing in a shallow part of the river, one
+
+827
+01:06:40,330 --> 01:06:43,109
+of them was suddenly pulled away by the water.
+
+828
+01:06:43,109 --> 01:06:48,569
+The river there could run quite quickly, but
+not too quickly for a swimmer of normal ability.
+
+829
+01:06:48,569 --> 01:06:55,630
+It will give you an idea, therefore, of the
+weakness of these people, when I tell you
+
+830
+01:06:55,630 --> 01:06:59,690
+that none tried to help the one that was in
+such danger.
+
+831
+01:06:59,690 --> 01:07:04,790
+'When I realised this, I quickly took off
+my clothes and, walking into the water at
+
+832
+01:07:04,790 --> 01:07:10,060
+a place lower down, I caught her and brought
+her safely to land.
+
+833
+01:07:10,060 --> 01:07:16,900
+'She soon began to feel better and I saw that
+she was all right before I left her.
+
+834
+01:07:16,900 --> 01:07:21,609
+I had such a low opinion of her people by
+then that I didn't expect any thanks from
+
+835
+01:07:21,609 --> 01:07:23,289
+her.
+
+836
+01:07:23,289 --> 01:07:26,020
+I was wrong about that, though.
+
+837
+01:07:26,020 --> 01:07:28,630
+'This happened in the morning.
+
+838
+01:07:28,630 --> 01:07:33,900
+In the afternoon I met my little woman as
+I was returning from a long walk, and she
+
+839
+01:07:33,900 --> 01:07:37,990
+greeted me with cries of happiness and gave
+me some flowers.
+
+840
+01:07:37,990 --> 01:07:44,770
+Perhaps because I had been very lonely I did
+my best to show I was happy with the gift.
+
+841
+01:07:44,770 --> 01:07:51,210
+We were soon sitting together and deep in
+a conversation, mainly of smiles.
+
+842
+01:07:51,210 --> 01:07:57,090
+'The woman's friendliness affected me exactly
+as a child's would.
+
+843
+01:07:57,090 --> 01:08:01,119
+We passed each other flowers and she kissed
+my hands.
+
+844
+01:08:01,119 --> 01:08:04,340
+I did the same to hers.
+
+845
+01:08:04,340 --> 01:08:10,059
+Then I tried to talk, and found that her name
+was Weena.
+
+846
+01:08:10,059 --> 01:08:16,469
+That was the beginning of a strange friendship,
+which continued for a week and ended ... as
+
+847
+01:08:16,469 --> 01:08:18,200
+I will tell you!
+
+848
+01:08:18,200 --> 01:08:21,949
+'She was exactly like a child.
+
+849
+01:08:21,949 --> 01:08:25,810
+She wanted to be with me always.
+
+850
+01:08:25,810 --> 01:08:32,429
+She wanted to follow me everywhere, and on
+my next journey around the area I walked fast
+
+851
+01:08:32,429 --> 01:08:35,120
+and tried to leave her behind.
+
+852
+01:08:35,120 --> 01:08:39,219
+She gave up at last, calling after me rather
+sadly.
+
+853
+01:08:39,219 --> 01:08:45,680
+But the problems of the world had to be solved
+and I hadn't, I said to myself, come into
+
+854
+01:08:45,680 --> 01:08:47,850
+the future to start a relationship.
+
+855
+01:08:47,850 --> 01:08:54,520
+'She was, though, a very great comfort.
+
+856
+01:08:54,520 --> 01:09:00,670
+When it was too late, only when it was too
+late, I clearly understood how badly she felt
+
+857
+01:09:00,670 --> 01:09:05,130
+when I left her, and what she meant to me.
+
+858
+01:09:05,130 --> 01:09:12,370
+By seeming fond of me, and by showing in her
+weak way that she cared for me, the little
+
+859
+01:09:12,370 --> 01:09:18,310
+person soon gave my returns to the place of
+the white sphinx almost the feeling of coming
+
+860
+01:09:18,310 --> 01:09:19,310
+home.
+
+861
+01:09:19,310 --> 01:09:23,080
+I used to watch for her when I came over the
+hill.
+
+862
+01:09:23,080 --> 01:09:30,859
+'From her, too, I learned that fear had not
+yet left the world.
+
+863
+01:09:30,859 --> 01:09:37,140
+She was fearless enough in the daylight, but
+she hated the dark shadows.
+
+864
+01:09:37,140 --> 01:09:41,560
+Darkness to her was the one thing to be frightened
+of.
+
+865
+01:09:41,560 --> 01:09:49,509
+It was a very strong emotion, and I started
+thinking and watching.
+
+866
+01:09:49,509 --> 01:09:56,630
+'I discovered then, among other things, that
+these people got together in the great houses
+
+867
+01:09:56,630 --> 01:09:59,670
+after dark and slept in groups.
+
+868
+01:09:59,670 --> 01:10:03,840
+I never found one outside, alone.
+
+869
+01:10:03,840 --> 01:10:08,490
+And if I entered the room without a light,
+I made them very afraid.
+
+870
+01:10:08,490 --> 01:10:16,929
+But I was such a fool that I missed the lesson
+of that fear, and although it made Weena unhappy
+
+871
+01:10:16,929 --> 01:10:19,340
+I slept away from the others.
+
+872
+01:10:19,340 --> 01:10:25,140
+'It worried her greatly, but in the end her
+feelings for me won.
+
+873
+01:10:25,140 --> 01:10:30,890
+For five of the nights of our friendship,
+including the last night of all, she slept
+
+874
+01:10:30,890 --> 01:10:33,750
+with her head on my arm.
+
+875
+01:10:33,750 --> 01:10:37,969
+But my story is running away from me as I
+speak of her.
+
+876
+01:10:37,969 --> 01:10:43,740
+'On the night before I met her I was woken
+very early in the morning.
+
+877
+01:10:43,740 --> 01:10:51,640
+I had slept badly, dreaming that I was under
+water, and that fish were touching my face.
+
+878
+01:10:51,640 --> 01:10:57,920
+I woke suddenly and with the odd feeling that
+a greyish animal had just rushed out of the
+
+879
+01:10:57,920 --> 01:10:59,239
+room.
+
+880
+01:10:59,239 --> 01:11:05,060
+'I tried to go to sleep again, but I felt
+uncomfortable.
+
+881
+01:11:05,060 --> 01:11:10,910
+It was that grey hour when things are just
+appearing from the darkness, but are still
+
+882
+01:11:10,910 --> 01:11:12,900
+unreal.
+
+883
+01:11:12,900 --> 01:11:20,370
+I got up, went down into the great hall and
+out onto the stones in front of the palace.
+
+884
+01:11:20,370 --> 01:11:23,530
+I thought I would go and watch the sun come
+up.
+
+885
+01:11:23,530 --> 01:11:30,401
+'The moon was going down, and the dying moonlight
+and the first light of day were mixed in a
+
+886
+01:11:30,401 --> 01:11:32,969
+pale half-light.
+
+887
+01:11:32,969 --> 01:11:40,530
+The bushes were inky black, the ground a dark
+grey, and up on the hillside I thought I could
+
+888
+01:11:40,530 --> 01:11:45,120
+see ghosts.
+
+889
+01:11:45,120 --> 01:11:53,199
+Three times I saw white figures and twice
+I thought I saw a single white animal running
+
+890
+01:11:53,199 --> 01:11:56,580
+quickly on two legs.
+
+891
+01:11:56,580 --> 01:12:01,040
+'Near the ruins I saw a group of them carrying
+a dark body.
+
+892
+01:12:01,040 --> 01:12:06,760
+They moved quickly and it seemed that they
+disappeared among the bushes.
+
+893
+01:12:06,760 --> 01:12:10,440
+The light was still unclear, you must understand.
+
+894
+01:12:10,440 --> 01:12:19,340
+I was experiencing that cold, uncertain, early-morning
+feeling you may know, and I doubted my eyes.
+
+895
+01:12:19,340 --> 01:12:25,600
+'As the eastern sky grew brighter, and the
+light of day brought stronger colours to the
+
+896
+01:12:25,600 --> 01:12:30,739
+world again, I watched the hillside closely.
+
+897
+01:12:30,739 --> 01:12:34,120
+But I saw no more white figures.
+
+898
+01:12:34,120 --> 01:12:41,560
+I thought about them all morning - or at least
+until I had to get Weena out of the river.
+
+899
+01:12:41,560 --> 01:12:47,850
+I connected them in some way with the white
+animal I had touched in my first mad search
+
+900
+01:12:47,850 --> 01:12:50,929
+for the Time Machine.
+
+901
+01:12:50,929 --> 01:12:57,330
+It was more pleasant to think about Weena,
+but these ghosts would soon take much stronger
+
+902
+01:12:57,330 --> 01:13:00,630
+control of my mind.
+
+903
+01:13:00,630 --> 01:13:05,270
+CHAPTER EIGHT
+
+904
+01:13:05,270 --> 01:13:06,270
+Morlocks
+
+905
+01:13:06,270 --> 01:13:14,270
+'I think I said how much hotter the weather
+of this Golden Age was than our own.
+
+906
+01:13:14,270 --> 01:13:16,330
+I can't explain this.
+
+907
+01:13:16,330 --> 01:13:21,540
+It is usual to think that the sun will continue
+cooling in the future.
+
+908
+01:13:21,540 --> 01:13:28,030
+But people forget that the Earth must also,
+in the end, fall back closer and closer to
+
+909
+01:13:28,030 --> 01:13:29,670
+the sun.
+
+910
+01:13:29,670 --> 01:13:36,040
+'Well, one very hot morning - my fourth, I
+think - as I was trying to get away from the
+
+911
+01:13:36,040 --> 01:13:45,200
+heat and the strong light in a large ruin
+near the great house, a strange thing happened.
+
+912
+01:13:45,200 --> 01:13:52,489
+Climbing among those piles of stones, I found
+a narrow room, whose end and side windows
+
+913
+01:13:52,489 --> 01:13:55,989
+were closed by falling stones.
+
+914
+01:13:55,989 --> 01:14:00,600
+After the light outside, it seemed very dark
+to me.
+
+915
+01:14:00,600 --> 01:14:05,510
+I entered it, feeling my way with my hands.
+
+916
+01:14:05,510 --> 01:14:10,760
+'Suddenly, I stopped and held my breath.
+
+917
+01:14:10,760 --> 01:14:19,280
+A pair of eyes, made bright by the reflection
+of the daylight outside, was watching me out
+
+918
+01:14:19,280 --> 01:14:21,060
+of the darkness.
+
+919
+01:14:21,060 --> 01:14:29,350
+'I felt the old natural fear of wild animals
+as I looked into those angry eyes.
+
+920
+01:14:29,350 --> 01:14:31,590
+I was afraid to turn.
+
+921
+01:14:31,590 --> 01:14:36,410
+Then I thought how safely people appeared
+to be living.
+
+922
+01:14:36,410 --> 01:14:40,030
+And then I remembered their strange terror
+of the dark.
+
+923
+01:14:40,030 --> 01:14:47,480
+'Trying to control my fear, I took a step
+forwards and spoke.
+
+924
+01:14:47,480 --> 01:14:49,760
+My voice was strong but shaking.
+
+925
+01:14:49,760 --> 01:14:56,080
+I put out my hand and touched something soft.
+
+926
+01:14:56,080 --> 01:15:01,650
+'At once the eyes moved to the side and something
+white ran past me.
+
+927
+01:15:01,650 --> 01:15:09,420
+I turned, as my heart beat even faster, and
+saw an odd- looking figure, its head held
+
+928
+01:15:09,420 --> 01:15:15,350
+down in a strange way, running across the
+sunlit space behind me.
+
+929
+01:15:15,350 --> 01:15:22,460
+It ran into a large stone, fell to one side
+and in a moment was hidden in a black shadow
+
+930
+01:15:22,460 --> 01:15:25,660
+under another pile of stones.
+
+931
+01:15:25,660 --> 01:15:32,780
+'It went too fast for me to see clearly, but
+I know it was a dull white and had strange
+
+932
+01:15:32,780 --> 01:15:36,489
+large greyish-red eyes.
+
+933
+01:15:36,489 --> 01:15:41,940
+Also, there was fair hair on its head and
+down its back.
+
+934
+01:15:41,940 --> 01:15:49,670
+I can't say whether it ran on four legs or
+only with its arms held very low.
+
+935
+01:15:49,670 --> 01:15:54,420
+After a few seconds I followed it into the
+second pile of ruins.
+
+936
+01:15:54,420 --> 01:16:02,590
+'I couldn't find it at first, but after some
+time in the deep darkness I saw one of those
+
+937
+01:16:02,590 --> 01:16:10,550
+round well-like openings that I have told
+you about, half-closed by a large fallen stone.
+
+938
+01:16:10,550 --> 01:16:12,950
+A sudden thought came to me.
+
+939
+01:16:12,950 --> 01:16:16,420
+Had the thing disappeared down the well?
+
+940
+01:16:16,420 --> 01:16:28,200
+'I lit a match and, looking down, saw a small
+white moving creature with large bright eyes.
+
+941
+01:16:28,200 --> 01:16:32,230
+It stared at me as it climbed down.
+
+942
+01:16:32,230 --> 01:16:38,250
+Now I saw for the first time a kind of metal
+ladder down the side of the well.
+
+943
+01:16:38,250 --> 01:16:44,660
+Then the light burned my fingers and fell
+out of my hand, going out as it dropped.
+
+944
+01:16:44,660 --> 01:16:49,420
+I lit another but the horrible little creature
+had disappeared.
+
+945
+01:16:49,420 --> 01:16:55,540
+'I don't know how long I sat staring down
+that well.
+
+946
+01:16:55,540 --> 01:17:01,389
+Time passed before I could make myself believe
+that I had seen something human.
+
+947
+01:17:01,389 --> 01:17:08,510
+But slowly I began to understand the truth:
+that humans hadn't stayed as one species,
+
+948
+01:17:08,510 --> 01:17:12,690
+but had become two different animals.
+
+949
+01:17:12,690 --> 01:17:17,719
+My pleasant children of the Upper-world weren't
+alone.
+
+950
+01:17:17,719 --> 01:17:25,560
+'And what, I wondered, was this creature of
+the dark doing in my idea of a perfectly organised
+
+951
+01:17:25,560 --> 01:17:27,530
+society?
+
+952
+01:17:27,530 --> 01:17:33,790
+What was its relationship with the calm laziness
+of the beautiful Upper-world people?
+
+953
+01:17:33,790 --> 01:17:37,420
+And what was hidden down there?
+
+954
+01:17:37,420 --> 01:17:42,000
+I sat on the edge of the well telling myself
+that there was nothing to fear and that I
+
+955
+01:17:42,000 --> 01:17:44,630
+must go down to find the answer.
+
+956
+01:17:44,630 --> 01:17:48,360
+But I was very afraid to go!
+
+957
+01:17:48,360 --> 01:17:53,180
+As I sat there, two of the Upper-world people
+came running across the daylight into the
+
+958
+01:17:53,180 --> 01:17:54,409
+shadow.
+
+959
+01:17:54,409 --> 01:17:59,030
+The male followed the female, throwing flowers
+at her as he ran.
+
+960
+01:17:59,030 --> 01:18:02,790
+'They seemed upset to find me looking down
+the well.
+
+961
+01:18:02,790 --> 01:18:07,290
+I understood that it was bad behaviour to
+look down these holes, because when I pointed
+
+962
+01:18:07,290 --> 01:18:12,510
+to this one and tried to make a question about
+it in their language, they grew even more
+
+963
+01:18:12,510 --> 01:18:15,370
+upset and turned away.
+
+964
+01:18:15,370 --> 01:18:20,730
+But they were interested in my matches and
+I struck some to amuse them.
+
+965
+01:18:20,730 --> 01:18:25,739
+I asked them again about the well, and again
+I failed.
+
+966
+01:18:25,739 --> 01:18:31,739
+So I soon left them, intending to go back
+to Weena and see what she could tell me.
+
+967
+01:18:31,739 --> 01:18:35,719
+'But my mind was already working.
+
+968
+01:18:35,719 --> 01:18:42,250
+I now had an idea of the importance of these
+wells, of the mystery of the ghosts, of the
+
+969
+01:18:42,250 --> 01:18:46,930
+meaning of the metal panels and what had happened
+to the Time Machine!
+
+970
+01:18:46,930 --> 01:18:54,380
+And I also had the beginnings of a solution
+to the economic mystery that had worried me.
+
+971
+01:18:54,380 --> 01:18:57,700
+'Here was my new idea.
+
+972
+01:18:57,700 --> 01:19:03,400
+Clearly, this second human species lived underground.
+
+973
+01:19:03,400 --> 01:19:08,640
+There were three things especially which made
+me think this.
+
+974
+01:19:08,640 --> 01:19:15,430
+First, there was the white skin common to
+most animals that live largely in the dark.
+
+975
+01:19:15,430 --> 01:19:21,770
+Then there were those large eyes, like those
+of a cat.
+
+976
+01:19:21,770 --> 01:19:27,590
+Finally, its confusion in the sunshine, how
+it ran into the stones, the strange way it
+
+977
+01:19:27,590 --> 01:19:35,190
+held its head - all these things made me believe
+that its eyes weren't used to the light.
+
+978
+01:19:35,190 --> 01:19:43,370
+'Under my feet, then, there must be many tunnels,
+where these people lived.
+
+979
+01:19:43,370 --> 01:19:49,260
+The wells, which carried air to them, were
+all along the hillsides - everywhere, in fact,
+
+980
+01:19:49,260 --> 01:19:52,620
+except along the river valley.
+
+981
+01:19:52,620 --> 01:19:57,390
+Their great number showed how many tunnels
+there were.
+
+982
+01:19:57,390 --> 01:20:02,610
+It seemed natural, too, to believe that the
+underground people made things for the comfort
+
+983
+01:20:02,610 --> 01:20:05,040
+of the daylight people.
+
+984
+01:20:05,040 --> 01:20:11,020
+The idea was so sensible that I accepted it
+at once, and then thought about how humans
+
+985
+01:20:11,020 --> 01:20:15,120
+had turned into two species.
+
+986
+01:20:15,120 --> 01:20:20,350
+'Starting with the problems of our own age,
+it seemed clear to me that the widening of
+
+987
+01:20:20,350 --> 01:20:27,469
+the social difference between the worker and
+the manager explained the whole situation.
+
+988
+01:20:27,469 --> 01:20:30,949
+Even now we can see the beginnings of this.
+
+989
+01:20:30,949 --> 01:20:37,620
+We have begun to make use of underground space
+- we have railways, underground workrooms
+
+990
+01:20:37,620 --> 01:20:42,340
+and restaurants, and these are becoming more
+common.
+
+991
+01:20:42,340 --> 01:20:48,250
+It was clear, I thought, that workers had
+begun to go underground into larger and larger
+
+992
+01:20:48,250 --> 01:20:55,720
+factories, spending more and more of their
+time there, until, in the end...
+
+993
+01:20:55,720 --> 01:21:01,989
+'Also, the increasing difference between the
+social classes made marriage between them
+
+994
+01:21:01,989 --> 01:21:04,450
+less and less frequent.
+
+995
+01:21:04,450 --> 01:21:11,010
+So above the ground now were the Haves, looking
+for pleasure and comfort and beauty, and below
+
+996
+01:21:11,010 --> 01:21:17,909
+ground the Have-nots, the workers, changed
+by the demands of their jobs.
+
+997
+01:21:17,909 --> 01:21:24,440
+'When they were there, they had to pay rent,
+and not a little of it, for the air coming
+
+998
+01:21:24,440 --> 01:21:26,480
+to their homes.
+
+999
+01:21:26,480 --> 01:21:28,949
+If they refused, they would die.
+
+1000
+01:21:28,949 --> 01:21:34,250
+If they couldn't live in this way, they would
+also die.
+
+1001
+01:21:34,250 --> 01:21:40,739
+In the end, everyone living underground would
+be used to the conditions of their life, and
+
+1002
+01:21:40,739 --> 01:21:45,080
+as happy in their way as the Upper- world
+people were.
+
+1003
+01:21:45,080 --> 01:21:51,220
+'This, I must warn you, was my explanation
+at the time.
+
+1004
+01:21:51,220 --> 01:21:57,700
+It may be completely wrong but I still think
+it is the best one.
+
+1005
+01:21:57,700 --> 01:22:02,159
+But I think this way of life had worked better
+in the past.
+
+1006
+01:22:02,159 --> 01:22:09,409
+The Upper- world people had become too safe,
+and so had become smaller, weaker and less
+
+1007
+01:22:09,409 --> 01:22:10,610
+intelligent.
+
+1008
+01:22:10,610 --> 01:22:15,409
+'I didn't yet know what had happened to the
+underground people.
+
+1009
+01:22:15,409 --> 01:22:20,770
+But I could imagine that the changes to the
+Morlocks - that, I discovered later, was their
+
+1010
+01:22:20,770 --> 01:22:27,330
+name - were even greater than the changes
+to the Eloi, the ones I already knew.
+
+1011
+01:22:27,330 --> 01:22:31,710
+'Then came worrying doubts.
+
+1012
+01:22:31,710 --> 01:22:35,310
+Why had the Morlocks taken my Time Machine?
+
+1013
+01:22:35,310 --> 01:22:37,480
+I felt sure they had taken it.
+
+1014
+01:22:37,480 --> 01:22:44,650
+Why, too, if the Eloi were in control, could
+they not get my machine back for me?
+
+1015
+01:22:44,650 --> 01:22:48,770
+And why were they so terribly afraid of the
+dark?
+
+1016
+01:22:48,770 --> 01:22:56,139
+As I have said, I questioned Weena about this
+Under-world, but I learned nothing from her.
+
+1017
+01:22:56,139 --> 01:23:02,139
+'At first she didn't understand my questions
+and later she refused to answer them.
+
+1018
+01:23:02,139 --> 01:23:06,199
+The whole subject seemed too unpleasant.
+
+1019
+01:23:06,199 --> 01:23:12,570
+And when I asked her again, perhaps a little
+loudly, she began to cry.
+
+1020
+01:23:12,570 --> 01:23:18,350
+They were the only tears, except my own, that
+I ever saw in that Golden Age.
+
+1021
+01:23:18,350 --> 01:23:24,350
+'When I saw those tears, I stopped worrying
+about the Morlocks.
+
+1022
+01:23:24,350 --> 01:23:32,150
+I lit a match and very soon she was smiling
+again.
+
+1023
+01:23:32,150 --> 01:23:33,870
+CHAPTER NINE
+
+1024
+01:23:33,870 --> 01:23:34,870
+Underground
+
+1025
+01:23:34,870 --> 01:23:45,420
+'It may seem odd to you, but it was two days
+before I could find out more about the Morlocks.
+
+1026
+01:23:45,420 --> 01:23:50,090
+I felt a strange fear of those pale bodies.
+
+1027
+01:23:50,090 --> 01:23:56,631
+They were just the same colour as the things
+one sees in jars in a museum and they were
+
+1028
+01:23:56,631 --> 01:24:00,600
+horribly cold when you touched them.
+
+1029
+01:24:00,600 --> 01:24:04,290
+I knew I could only get to the Time Machine
+by going underground.
+
+1030
+01:24:04,290 --> 01:24:07,189
+But I couldn't do it.
+
+1031
+01:24:07,189 --> 01:24:13,020
+I was so alone, and even the idea of climbing
+down into the darkness of the well frightened
+
+1032
+01:24:13,020 --> 01:24:14,370
+me.
+
+1033
+01:24:14,370 --> 01:24:19,500
+'The next night I did not sleep well.
+
+1034
+01:24:19,500 --> 01:24:21,910
+Probably my health had suffered a little.
+
+1035
+01:24:21,910 --> 01:24:25,489
+I was confused and unhappy.
+
+1036
+01:24:25,489 --> 01:24:31,660
+Once or twice I had a feeling of great fear
+for which I could see no definite reason.
+
+1037
+01:24:31,660 --> 01:24:36,720
+I remember walking noiselessly into the great
+hall where the little people were sleeping
+
+1038
+01:24:36,720 --> 01:24:43,520
+- that night Weena was among them - and feeling
+more comfortable in their company.
+
+1039
+01:24:43,520 --> 01:24:49,550
+I realised that the moon was in its last quarter
+and the nights were growing darker, and that
+
+1040
+01:24:49,550 --> 01:24:55,700
+there might be more appearances of those unpleasant
+creatures from below.
+
+1041
+01:24:55,700 --> 01:25:01,170
+And on both these days I had the restless
+feeling of someone who is trying to escape
+
+1042
+01:25:01,170 --> 01:25:03,239
+a duty.
+
+1043
+01:25:03,239 --> 01:25:12,040
+I felt that I could only get the Time Machine
+back if I understood these underground mysteries.
+
+1044
+01:25:12,040 --> 01:25:18,030
+But I wasn't brave enough to solve the mysteries,
+and I never quite felt safe.
+
+1045
+01:25:18,030 --> 01:25:24,450
+'These worries drove me further and further
+in my walks around the country.
+
+1046
+01:25:24,450 --> 01:25:31,430
+Going south-west towards the higher country,
+I saw, far away, an enormous building.
+
+1047
+01:25:31,430 --> 01:25:39,730
+It was larger than the largest of the palaces
+or ruins I knew, and the front was pale green.
+
+1048
+01:25:39,730 --> 01:25:45,090
+The difference in appearance suggested a difference
+in use, and I thought about going to look
+
+1049
+01:25:45,090 --> 01:25:46,730
+around.
+
+1050
+01:25:46,730 --> 01:25:52,159
+But it was growing late so I decided to wait
+until the following day, and I returned to
+
+1051
+01:25:52,159 --> 01:25:54,290
+Weena's welcome.
+
+1052
+01:25:54,290 --> 01:26:02,100
+'But the next morning I realised that my interest
+in the Green Palace was just helping me to
+
+1053
+01:26:02,100 --> 01:26:05,469
+delay an experience I was afraid of.
+
+1054
+01:26:05,469 --> 01:26:13,199
+I decided that I would go down without wasting
+any more time, and walked in the early morning
+
+1055
+01:26:13,199 --> 01:26:16,290
+towards a well near the ruins.
+
+1056
+01:26:16,290 --> 01:26:22,470
+'Little Weena danced beside me to the well,
+but when she saw me bend over the opening
+
+1057
+01:26:22,470 --> 01:26:25,550
+and look down, she seemed upset.
+
+1058
+01:26:25,550 --> 01:26:31,719
+"Goodbye, little Weena," I said, kissing her,
+and then I began to feel over the edge for
+
+1059
+01:26:31,719 --> 01:26:33,800
+the metal steps.
+
+1060
+01:26:33,800 --> 01:26:37,659
+'At first she watched me with surprise.
+
+1061
+01:26:37,659 --> 01:26:43,830
+Then she gave a most heartbreaking cry and,
+running to me, began to pull at me with her
+
+1062
+01:26:43,830 --> 01:26:45,080
+little hands.
+
+1063
+01:26:45,080 --> 01:26:48,700
+I think her fear made me braver.
+
+1064
+01:26:48,700 --> 01:26:53,670
+I shook her off and in another moment I was
+inside the well.
+
+1065
+01:26:53,670 --> 01:26:59,900
+I saw her frightened face over the top and
+smiled to make her feel better.
+
+1066
+01:26:59,900 --> 01:27:06,070
+'I had to climb down a well perhaps two hundred
+metres deep.
+
+1067
+01:27:06,070 --> 01:27:11,530
+There were metal bars all the way down, but
+these were made for a person much smaller
+
+1068
+01:27:11,530 --> 01:27:16,699
+and lighter than I was and I was quickly tired
+by the climb.
+
+1069
+01:27:16,699 --> 01:27:19,110
+And not simply tired!
+
+1070
+01:27:19,110 --> 01:27:24,130
+One of the bars bent suddenly under my weight
+and almost threw me off into the blackness
+
+1071
+01:27:24,130 --> 01:27:25,600
+below.
+
+1072
+01:27:25,600 --> 01:27:34,130
+For the moment I hung by one hand, and after
+that I didn't dare to rest again.
+
+1073
+01:27:34,130 --> 01:27:42,370
+'Although my arms and back were very painful,
+I continued climbing down as quickly as possible.
+
+1074
+01:27:42,370 --> 01:27:50,640
+Looking up, I saw the opening, a small blue
+circle, where Weena's head was round and black.
+
+1075
+01:27:50,640 --> 01:27:54,650
+The noise of a machine grew louder.
+
+1076
+01:27:54,650 --> 01:28:02,139
+Everything except that little circle above
+was very dark, and when I looked up again
+
+1077
+01:28:02,139 --> 01:28:04,700
+she had disappeared.
+
+1078
+01:28:04,700 --> 01:28:08,880
+'I was in great discomfort and thought of
+going up again.
+
+1079
+01:28:08,880 --> 01:28:12,739
+But I continued to climb down.
+
+1080
+01:28:12,739 --> 01:28:19,570
+At last, with great happiness, I saw, half
+a metre to the right of me, a thin opening
+
+1081
+01:28:19,570 --> 01:28:20,870
+in the wall.
+
+1082
+01:28:20,870 --> 01:28:27,239
+Fulling myself in, I found it was the start
+of a narrow tunnel in which I could lie down
+
+1083
+01:28:27,239 --> 01:28:28,980
+and rest.
+
+1084
+01:28:28,980 --> 01:28:30,760
+It was not too soon.
+
+1085
+01:28:30,760 --> 01:28:38,550
+'I lay there, I don't know how long, until
+I felt a soft hand touching my face.
+
+1086
+01:28:38,550 --> 01:28:43,889
+Quickly getting to my feet in the darkness,
+I pulled out my matches.
+
+1087
+01:28:43,889 --> 01:28:51,770
+I struck one and saw three white figures moving
+quickly back, away from the light.
+
+1088
+01:28:51,770 --> 01:28:58,820
+Their eyes, unusually large from living in
+darkness, were like those of deep-water fish,
+
+1089
+01:28:58,820 --> 01:29:02,080
+and reflected the light in the same way.
+
+1090
+01:29:02,080 --> 01:29:07,750
+I have no doubt they could see me and they
+didn't seem to have any fear of me, only of
+
+1091
+01:29:07,750 --> 01:29:09,000
+the light.
+
+1092
+01:29:09,000 --> 01:29:14,699
+'The thought of running away was still in
+my mind, but I told myself that the job had
+
+1093
+01:29:14,699 --> 01:29:16,460
+to be done.
+
+1094
+01:29:16,460 --> 01:29:21,790
+As I felt my way along the tunnel, the noise
+of machinery grew louder.
+
+1095
+01:29:21,790 --> 01:29:29,130
+Soon I came to a large open space and, striking
+another match, saw that I had entered an enormous
+
+1096
+01:29:29,130 --> 01:29:31,520
+underground room.
+
+1097
+01:29:31,520 --> 01:29:35,460
+It stretched into total darkness beyond my
+light.
+
+1098
+01:29:35,460 --> 01:29:42,840
+'Great shapes like large machines rose out
+of the darkness, and made strange shadows
+
+1099
+01:29:42,840 --> 01:29:47,050
+in which I could see the shapes of Morlocks
+hiding.
+
+1100
+01:29:47,050 --> 01:29:54,520
+The air wasn't very fresh and there was a
+faint smell of fresh blood.
+
+1101
+01:29:54,520 --> 01:30:00,719
+Some way down the central path was a little
+table of white metal, covered with food.
+
+1102
+01:30:00,719 --> 01:30:04,250
+So the Morlocks, at least, were meat-eaters!
+
+1103
+01:30:04,250 --> 01:30:11,350
+'Even at the time, I remember wondering what
+large animal still lived to produce the red
+
+1104
+01:30:11,350 --> 01:30:14,510
+piece of meat that I saw.
+
+1105
+01:30:14,510 --> 01:30:20,760
+Then the match burned down to my fingers and
+fell, a moving red spot in the darkness.
+
+1106
+01:30:20,760 --> 01:30:28,719
+'I have thought since then how very badly-prepared
+I was for such an experience.
+
+1107
+01:30:28,719 --> 01:30:33,369
+When I had started building the Time Machine,
+I had had the stupid idea that the people
+
+1108
+01:30:33,369 --> 01:30:38,390
+of the future would certainly be far ahead
+of us in all their inventions.
+
+1109
+01:30:38,390 --> 01:30:45,790
+I had come without weapons, without medicine,
+without tobacco, even without enough matches.
+
+1110
+01:30:45,790 --> 01:30:51,150
+'I didn't even think of bringing a camera,
+so I couldn't take a picture of that Under-world,
+
+1111
+01:30:51,150 --> 01:30:53,830
+to examine later.
+
+1112
+01:30:53,830 --> 01:31:01,540
+I stood there with only the weapons that nature
+had given me - hands, feet and teeth - and
+
+1113
+01:31:01,540 --> 01:31:05,430
+the four matches that I had left.
+
+1114
+01:31:05,430 --> 01:31:11,139
+I was afraid to push my way in among all this
+machinery in the dark, and then I discovered
+
+1115
+01:31:11,139 --> 01:31:14,190
+that I had almost finished my matches.
+
+1116
+01:31:14,190 --> 01:31:19,030
+I had never thought that there was any need
+to save them and I had wasted almost half
+
+1117
+01:31:19,030 --> 01:31:22,000
+the box surprising the Eloi.
+
+1118
+01:31:22,000 --> 01:31:30,989
+Now I had four left, and while I stood in
+the dark a hand touched mine and cold fingers
+
+1119
+01:31:30,989 --> 01:31:33,719
+began feeling my face.
+
+1120
+01:31:33,719 --> 01:31:40,909
+'I thought I could hear the breathing of a
+crowd of those horrible little creatures around
+
+1121
+01:31:40,909 --> 01:31:42,199
+me.
+
+1122
+01:31:42,199 --> 01:31:48,260
+I felt the box of matches in my hand being
+gently pulled away, and other hands behind
+
+1123
+01:31:48,260 --> 01:31:50,369
+me pulling at my clothes.
+
+1124
+01:31:50,369 --> 01:31:52,640
+I shouted as loudly as I could.
+
+1125
+01:31:52,640 --> 01:31:57,370
+'They jumped back, and then I could feel them
+coming towards me again.
+
+1126
+01:31:57,370 --> 01:32:02,469
+They took hold of me more strongly, whispering
+odd sounds to each other.
+
+1127
+01:32:02,469 --> 01:32:05,780
+I shook violently and shouted again.
+
+1128
+01:32:05,780 --> 01:32:11,290
+This time they weren't so worried, and they
+made a strange laughing noise as they came
+
+1129
+01:32:11,290 --> 01:32:13,699
+back at me.
+
+1130
+01:32:13,699 --> 01:32:17,060
+T was horribly frightened.
+
+1131
+01:32:17,060 --> 01:32:22,369
+I decided to strike another match and escape
+under the protection of its light.
+
+1132
+01:32:22,369 --> 01:32:28,619
+I did so and, keeping the flame burning with
+a piece of paper from my pocket, I moved quickly
+
+1133
+01:32:28,619 --> 01:32:29,739
+into the narrow tunnel.
+
+1134
+01:32:29,739 --> 01:32:36,600
+But I had just entered this when my light
+was blown out, and in the blackness I could
+
+1135
+01:32:36,600 --> 01:32:39,100
+hear the Morlocks hurrying after me.
+
+1136
+01:32:39,100 --> 01:32:45,369
+'In a moment I was held by several hands,
+trying to pull me back.
+
+1137
+01:32:45,369 --> 01:32:48,540
+I struck another light and waved it in their
+faces.
+
+1138
+01:32:48,540 --> 01:32:55,260
+You can't imagine how horribly inhuman they
+looked in their blindness and surprise.
+
+1139
+01:32:55,260 --> 01:32:57,320
+But I didn't stay.
+
+1140
+01:32:57,320 --> 01:33:03,080
+I moved back again and when my second match
+went out, I struck my third.
+
+1141
+01:33:03,080 --> 01:33:06,580
+It had almost burned down when I reached the
+opening into the well.
+
+1142
+01:33:06,580 --> 01:33:11,460
+'I lay down on the edge and felt for the metal
+bars.
+
+1143
+01:33:11,460 --> 01:33:17,190
+As I did so, my feet were held from behind
+and I was violently pulled backwards.
+
+1144
+01:33:17,190 --> 01:33:19,800
+I lit my last match... and it went out.
+
+1145
+01:33:19,800 --> 01:33:26,989
+But I had my hand on the bars now and, kicking
+violently, I got myself free of the hands
+
+1146
+01:33:26,989 --> 01:33:31,850
+of the Morlocks and quickly climbed up the
+well.
+
+1147
+01:33:31,850 --> 01:33:39,010
+They stayed, afraid of the light, all except
+one little one who followed me for some way,
+
+1148
+01:33:39,010 --> 01:33:42,340
+and almost got my shoe as a prize.
+
+1149
+01:33:42,340 --> 01:33:46,530
+'That climb never seemed to end.
+
+1150
+01:33:46,530 --> 01:33:52,580
+In the last eight or ten metres of it, a terrible
+feeling of sickness came over me.
+
+1151
+01:33:52,580 --> 01:33:56,460
+I had the greatest difficulty holding the
+bars.
+
+1152
+01:33:56,460 --> 01:33:59,330
+Several times I thought that I might fall.
+
+1153
+01:33:59,330 --> 01:34:06,760
+At last, though, I got over the top of the
+well, and walked shakily out of the ruin into
+
+1154
+01:34:06,760 --> 01:34:09,130
+the blinding sunlight.
+
+1155
+01:34:09,130 --> 01:34:12,450
+'I fell on my face.
+
+1156
+01:34:12,450 --> 01:34:15,010
+Even the earth felt sweet and clean.
+
+1157
+01:34:15,010 --> 01:34:23,389
+Then I remember Weena kissing my hands and
+ears, and the voices of others among the Eloi.
+
+1158
+01:34:23,389 --> 01:34:31,430
+Then, for a time, I remember nothing.
+
+1159
+01:34:31,430 --> 01:34:33,159
+CHAPTER TEN
+
+1160
+01:34:33,159 --> 01:34:36,480
+A Place to Live
+
+1161
+01:34:36,480 --> 01:34:40,239
+'Now I seemed in a worse position than before.
+
+1162
+01:34:40,239 --> 01:34:46,369
+Until then, except during my night of madness
+over the disappearance of the Time Machine,
+
+1163
+01:34:46,369 --> 01:34:51,639
+I had felt that in the end I would escape.
+
+1164
+01:34:51,639 --> 01:34:55,540
+But that hope was shaken by these new discoveries.
+
+1165
+01:34:55,540 --> 01:35:00,380
+I had been worried by the thought of unknown
+forces which I could beat when I understood
+
+1166
+01:35:00,380 --> 01:35:01,659
+them.
+
+1167
+01:35:01,659 --> 01:35:04,790
+The situation was different now.
+
+1168
+01:35:04,790 --> 01:35:10,650
+There was something sickening about the Morlocks
+- something inhuman.
+
+1169
+01:35:10,650 --> 01:35:17,469
+Before, I had felt like a man who had fallen
+into a hole: my worry was how to get out of
+
+1170
+01:35:17,469 --> 01:35:19,130
+it.
+
+1171
+01:35:19,130 --> 01:35:26,840
+Now I felt like an animal which had been caught,
+whose enemy would come to him soon.
+
+1172
+01:35:26,840 --> 01:35:33,630
+'That enemy was the darkness of the new moon.
+
+1173
+01:35:33,630 --> 01:35:40,940
+Weena had put this fear into my head by some
+things she said, which at first I didn't understand,
+
+1174
+01:35:40,940 --> 01:35:43,969
+about the Dark Nights.
+
+1175
+01:35:43,969 --> 01:35:49,010
+Now I could guess what the coming Dark Nights
+might mean.
+
+1176
+01:35:49,010 --> 01:35:54,870
+The moon was getting smaller and each night
+there was a longer time of darkness.
+
+1177
+01:35:54,870 --> 01:35:59,199
+And I now understood a little of the Eloi's
+fear of the dark.
+
+1178
+01:35:59,199 --> 01:36:04,780
+I wondered what terrible things the Morlocks
+did under the new moon.
+
+1179
+01:36:04,780 --> 01:36:12,610
+'The Eloi had probably been the managers and
+the Morlocks their servants, but that situation
+
+1180
+01:36:12,610 --> 01:36:16,239
+had changed a long time before.
+
+1181
+01:36:16,239 --> 01:36:24,590
+The two species were moving towards, or had
+already arrived at, a completely new relationship.
+
+1182
+01:36:24,590 --> 01:36:30,940
+The Eloi were still allowed to own the world,
+because the Morlocks, underground for so long,
+
+1183
+01:36:30,940 --> 01:36:34,080
+now found the daylight impossible.
+
+1184
+01:36:34,080 --> 01:36:41,060
+And the Morlocks made their clothes, I thought,
+and did other necessary things for them, perhaps
+
+1185
+01:36:41,060 --> 01:36:44,020
+because an old habit of service had continued.
+
+1186
+01:36:44,020 --> 01:36:50,020
+'But clearly, the end of the Eloi's power
+was coming closer.
+
+1187
+01:36:50,020 --> 01:36:56,679
+And suddenly I thought of the meat I had seen
+in the Underworld.
+
+1188
+01:36:56,679 --> 01:36:59,810
+I tried to remember its shape.
+
+1189
+01:36:59,810 --> 01:37:07,100
+I had a feeling it was something familiar,
+but I hadn't recognised it at the time.
+
+1190
+01:37:07,100 --> 01:37:14,090
+'The little people could do nothing about
+their fear, but I was made differently.
+
+1191
+01:37:14,090 --> 01:37:21,790
+I came out of our age, this best time for
+humans, when fear doesn't make us helpless.
+
+1192
+01:37:21,790 --> 01:37:25,310
+I at least could defend myself.
+
+1193
+01:37:25,310 --> 01:37:32,270
+Without further delay I decided to make myself
+weapons and a safe place where I could sleep.
+
+1194
+01:37:32,270 --> 01:37:39,180
+From there, I could face this strange world
+with some of that confidence.
+
+1195
+01:37:39,180 --> 01:37:44,770
+I had been slow to realise what creatures
+could harm me night after night.
+
+1196
+01:37:44,770 --> 01:37:51,330
+I felt I could never sleep again until my
+bed was safe from them.
+
+1197
+01:37:51,330 --> 01:37:56,090
+I shook with fear to think how they had already
+examined me.
+
+1198
+01:37:56,090 --> 01:38:03,410
+'I walked during the afternoon along the valley
+of the Thames, but found nowhere that seemed
+
+1199
+01:38:03,410 --> 01:38:04,679
+safe.
+
+1200
+01:38:04,679 --> 01:38:09,700
+All the buildings and trees seemed easy for
+such good climbers as the Morlocks to get
+
+1201
+01:38:09,700 --> 01:38:14,440
+into, judging by their skill at entering and
+leaving their wells.
+
+1202
+01:38:14,440 --> 01:38:18,139
+Then the Green Palace came into my mind.
+
+1203
+01:38:18,139 --> 01:38:24,739
+In the evening, carrying Weena like a child
+on my shoulders, I went up into the hills
+
+1204
+01:38:24,739 --> 01:38:27,080
+towards the south-west.
+
+1205
+01:38:27,080 --> 01:38:33,070
+The distance, I had thought, was eleven or
+twelve kilometres, but it was probably nearer
+
+1206
+01:38:33,070 --> 01:38:34,070
+thirty.
+
+1207
+01:38:34,070 --> 01:38:41,429
+'I had first seen the place on a wet afternoon
+when things in the distance seemed nearer.
+
+1208
+01:38:41,429 --> 01:38:47,420
+In addition, the heel of one of my shoes was
+loose, so I couldn't walk well.
+
+1209
+01:38:47,420 --> 01:38:53,260
+And it was already long past sunset when I
+came in sight of the palace, dark against
+
+1210
+01:38:53,260 --> 01:38:55,620
+the pale yellow of the sky.
+
+1211
+01:38:55,620 --> 01:39:01,310
+'Weena had been very pleased when I began
+to carry her, but later she wanted me to put
+
+1212
+01:39:01,310 --> 01:39:03,440
+her down.
+
+1213
+01:39:03,440 --> 01:39:10,260
+She ran along by my side, occasionally going
+off to pick flowers to put in my pockets.
+
+1214
+01:39:10,260 --> 01:39:15,040
+Weena had been unsure of the purpose of pockets,
+but had decided that they should be filled
+
+1215
+01:39:15,040 --> 01:39:17,030
+and decorated with flowers.
+
+1216
+01:39:17,030 --> 01:39:19,440
+And that reminds me!
+
+1217
+01:39:19,440 --> 01:39:23,380
+While changing my jacket I found...'
+
+1218
+01:39:23,380 --> 01:39:32,159
+The Time Traveller paused, put his hand into
+his pocket and silently placed two dead flowers
+
+1219
+01:39:32,159 --> 01:39:34,830
+on the little table.
+
+1220
+01:39:34,830 --> 01:39:36,909
+Then he went back to his story.
+
+1221
+01:39:36,909 --> 01:39:43,850
+'As the quiet of evening spread over the world
+and we moved over the top of the hill towards
+
+1222
+01:39:43,850 --> 01:39:50,489
+Wimbledon, Weena grew tired and wanted to
+return to the house of grey stone.
+
+1223
+01:39:50,489 --> 01:39:55,610
+But I pointed to the Green Palace, and tried
+to make her understand that we were looking
+
+1224
+01:39:55,610 --> 01:39:58,739
+for a safe place there.
+
+1225
+01:39:58,739 --> 01:40:02,060
+'You know that quietness that comes before
+dark?
+
+1226
+01:40:02,060 --> 01:40:08,239
+In that calm my senses seemed to sharpen.
+
+1227
+01:40:08,239 --> 01:40:13,251
+I thought that I could almost see the tunnels
+in the ground under my feet - that I could
+
+1228
+01:40:13,251 --> 01:40:19,730
+see the Morlocks going here and there and
+waiting for the dark.
+
+1229
+01:40:19,730 --> 01:40:25,230
+In my excitement I imagined that they would
+see my arrival in their homes as an act of
+
+1230
+01:40:25,230 --> 01:40:27,800
+war.
+
+1231
+01:40:27,800 --> 01:40:32,580
+'So we continued and the evening turned into
+night.
+
+1232
+01:40:32,580 --> 01:40:38,450
+The ground grew difficult to see and the trees
+turned black.
+
+1233
+01:40:38,450 --> 01:40:42,890
+Weena's fears and her tiredness grew.
+
+1234
+01:40:42,890 --> 01:40:46,040
+I took her in my arms and talked to her.
+
+1235
+01:40:46,040 --> 01:40:51,750
+Then, as the darkness grew deeper, she put
+her arms round my neck.
+
+1236
+01:40:51,750 --> 01:40:56,810
+Closing her eyes, she tightly pressed her
+face against my shoulder.
+
+1237
+01:40:56,810 --> 01:41:04,790
+'So we went down a long hillside into a valley,
+and there in the poor light I almost fell
+
+1238
+01:41:04,790 --> 01:41:06,880
+into a little river.
+
+1239
+01:41:06,880 --> 01:41:09,811
+I walked across this and went up the opposite
+side.
+
+1240
+01:41:09,811 --> 01:41:16,560
+I had seen nothing of the Morlocks, but it
+was still early in the night.
+
+1241
+01:41:16,560 --> 01:41:22,720
+The darker hours before the moon came up hadn't
+yet arrived.
+
+1242
+01:41:22,720 --> 01:41:29,830
+'From the top of the next hill I saw a thick
+wood spreading wide and black in front of
+
+1243
+01:41:29,830 --> 01:41:31,260
+me.
+
+1244
+01:41:31,260 --> 01:41:33,680
+I stopped at this.
+
+1245
+01:41:33,680 --> 01:41:39,260
+I could see no end to it, either to the right
+or the left.
+
+1246
+01:41:39,260 --> 01:41:44,520
+Feeling tired - my feet, especially, were
+very painful - I carefully lowered Weena from
+
+1247
+01:41:44,520 --> 01:41:49,940
+my shoulder as I stopped, and sat down on
+the grass.
+
+1248
+01:41:49,940 --> 01:41:54,550
+I could no longer see the Green Palace, and
+I wasn't sure of my direction.
+
+1249
+01:41:54,550 --> 01:42:00,949
+'I looked into the thickness of the wood and
+thought of what it might hide.
+
+1250
+01:42:00,949 --> 01:42:05,179
+In there, we might be out of sight of the
+stars.
+
+1251
+01:42:05,179 --> 01:42:09,409
+Even if there were no other waiting danger,
+there would still be many things to fall over
+
+1252
+01:42:09,409 --> 01:42:11,670
+and walk into.
+
+1253
+01:42:11,670 --> 01:42:17,360
+I was very tired, too, after the excitement
+of the day, so I decided that I wouldn't face
+
+1254
+01:42:17,360 --> 01:42:22,230
+it, but would spend the night on the open
+hill.
+
+1255
+01:42:22,230 --> 01:42:26,949
+'Weena, I was glad to find, was asleep.
+
+1256
+01:42:26,949 --> 01:42:33,440
+I put my jacket round her and sat down beside
+her to wait for the moon to rise.
+
+1257
+01:42:33,440 --> 01:42:41,580
+The hillside was quiet and empty, but from
+the black of the wood came, now and then,
+
+1258
+01:42:41,580 --> 01:42:45,140
+the sound of living things.
+
+1259
+01:42:45,140 --> 01:42:51,369
+Above me the stars shone, because the night
+was very clear, and I felt a sense of friendly
+
+1260
+01:42:51,369 --> 01:42:54,389
+comfort from their lights.
+
+1261
+01:42:54,389 --> 01:43:01,070
+All the familiar old ones had moved in the
+sky, rearranged in new groups during countless
+
+1262
+01:43:01,070 --> 01:43:03,260
+human lifetimes.
+
+1263
+01:43:03,260 --> 01:43:10,719
+'As I looked at all these stars, I suddenly
+felt that my problems were smaller.
+
+1264
+01:43:10,719 --> 01:43:16,739
+I thought of their distance, and their slow
+movements out of the unknown past into the
+
+1265
+01:43:16,739 --> 01:43:18,360
+unknown future.
+
+1266
+01:43:18,360 --> 01:43:27,099
+And in my time travelling forwards, all the
+activity, the traditions, the organisations,
+
+1267
+01:43:27,099 --> 01:43:36,219
+the nations, languages, literature, hopes,
+even the memory of humans as I knew them,
+
+1268
+01:43:36,219 --> 01:43:38,310
+had totally disappeared.
+
+1269
+01:43:38,310 --> 01:43:45,800
+Instead, there were these weak people who
+had forgotten their great history, and the
+
+1270
+01:43:45,800 --> 01:43:50,500
+white Things of which I was so afraid.
+
+1271
+01:43:50,500 --> 01:43:55,840
+'Then I thought of the great fear between
+the two species.
+
+1272
+01:43:55,840 --> 01:43:59,860
+I thought about the meat that I had seen.
+
+1273
+01:43:59,860 --> 01:44:04,340
+And for the first time I understood what it
+might be.
+
+1274
+01:44:04,340 --> 01:44:08,719
+But the thought was too horrible!
+
+1275
+01:44:08,719 --> 01:44:15,580
+I looked at little Weena sleeping beside me,
+her face white under the stars, and put the
+
+1276
+01:44:15,580 --> 01:44:18,140
+thought from my mind.
+
+1277
+01:44:18,140 --> 01:44:25,210
+'Through that long night I kept my mind off
+the Morlocks as well as I could.
+
+1278
+01:44:25,210 --> 01:44:31,420
+I passed the time by trying to find signs
+of the old groups of stars in the sky.
+
+1279
+01:44:31,420 --> 01:44:33,659
+No doubt I slept a little.
+
+1280
+01:44:33,659 --> 01:44:42,010
+Then, as time passed, there came a soft light
+in the eastern sky and the old moon came up,
+
+1281
+01:44:42,010 --> 01:44:46,480
+thin and pointed and white.
+
+1282
+01:44:46,480 --> 01:44:52,889
+And close behind, and stronger, came the light
+from the sun.
+
+1283
+01:44:52,889 --> 01:44:55,020
+'No Morlocks had come near us.
+
+1284
+01:44:55,020 --> 01:44:58,460
+In fact, I had seen none on the hills that
+night.
+
+1285
+01:44:58,460 --> 01:45:06,330
+And in the confidence of the new day it almost
+seemed to me that I had been wrong to be afraid.
+
+1286
+01:45:06,330 --> 01:45:12,139
+I stood up and found my foot with the loose
+heel was painful, so I sat down again, took
+
+1287
+01:45:12,139 --> 01:45:15,119
+off my shoes and threw them away.
+
+1288
+01:45:15,119 --> 01:45:21,510
+'I woke Weena and we went down into the wood,
+now green and pleasant instead of black and
+
+1289
+01:45:21,510 --> 01:45:23,810
+unwelcoming.
+
+1290
+01:45:23,810 --> 01:45:26,670
+We found some fruit there to eat for breakfast.
+
+1291
+01:45:26,670 --> 01:45:30,042
+We soon met other Eloi, laughing and dancing
+in the sunlight.
+
+1292
+01:45:30,042 --> 01:45:38,179
+And then I thought again of the meat that
+I had seen.
+
+1293
+01:45:38,179 --> 01:45:45,170
+I felt sure now what it was and with all my
+heart I pitied them.
+
+1294
+01:45:45,170 --> 01:45:52,580
+'Clearly, at some time in the past, the Morlocks
+hadn't been able to find enough food.
+
+1295
+01:45:52,580 --> 01:45:56,909
+Possibly they had lived on rats and similar
+animals.
+
+1296
+01:45:56,909 --> 01:46:02,880
+Now the Eloi were like fat cows, which the
+Morlocks kept and hunted.
+
+1297
+01:46:02,880 --> 01:46:07,730
+And there was Weena dancing at my side!
+
+1298
+01:46:07,730 --> 01:46:13,240
+'I tried to think more scientifically, and
+less emotionally.
+
+1299
+01:46:13,240 --> 01:46:16,690
+Perhaps this was a punishment for human selfishness.
+
+1300
+01:46:16,690 --> 01:46:20,119
+Some people had been happy to live from the
+work of others.
+
+1301
+01:46:20,119 --> 01:46:26,340
+They had said this was necessary, and in time
+it had become equally necessary for the workers
+
+1302
+01:46:26,340 --> 01:46:27,739
+to eat them.
+
+1303
+01:46:27,739 --> 01:46:31,290
+But this attitude was impossible.
+
+1304
+01:46:31,290 --> 01:46:37,190
+It didn't matter how unintelligent they were,
+the Eloi still looked human.
+
+1305
+01:46:37,190 --> 01:46:42,700
+I understood their situation and I felt their
+fear.
+
+1306
+01:46:42,700 --> 01:46:49,040
+'I had at that time no clear ideas about what
+I should do.
+
+1307
+01:46:49,040 --> 01:46:55,150
+I thought I could find a safe place and make
+myself some weapons out of metal or stone.
+
+1308
+01:46:55,150 --> 01:47:00,849
+Next I hoped to find a way of making fire,
+so I would have the weapon of a torch.
+
+1309
+01:47:00,849 --> 01:47:05,130
+I knew that nothing would work better against
+these Morlocks.
+
+1310
+01:47:05,130 --> 01:47:10,920
+Then I wanted to find a way of breaking open
+the metal panels under the white sphinx.
+
+1311
+01:47:10,920 --> 01:47:18,599
+'I felt that if I could enter those doors
+and carry a light in front of me I would discover
+
+1312
+01:47:18,599 --> 01:47:22,480
+the Time Machine and escape.
+
+1313
+01:47:22,480 --> 01:47:27,420
+I couldn't imagine that the Morlocks were
+strong enough to move it far away.
+
+1314
+01:47:27,420 --> 01:47:31,929
+I had decided to bring Weena with me to our
+own time.
+
+1315
+01:47:31,929 --> 01:47:38,849
+And thinking about plans like these, we walked
+towards the building which I had chosen as
+
+1316
+01:47:38,849 --> 01:47:42,270
+our home.
+
+1317
+01:47:42,270 --> 01:47:44,260
+CHAPTER ELEVEN
+
+1318
+01:47:44,260 --> 01:47:47,699
+The Green Palace
+
+1319
+01:47:47,699 --> 01:47:53,739
+I found the Green Palace, when we came to
+it at about midday, to be empty and falling
+
+1320
+01:47:53,739 --> 01:47:55,750
+into ruin.
+
+1321
+01:47:55,750 --> 01:48:01,290
+The glass in its windows was broken and large
+pieces of green material had fallen off the
+
+1322
+01:48:01,290 --> 01:48:05,220
+walls onto the ground.
+
+1323
+01:48:05,220 --> 01:48:11,409
+It stood high on a grassy hill and, looking
+towards the north-east before I entered it,
+
+1324
+01:48:11,409 --> 01:48:15,969
+I was surprised to see a large river where
+I thought Wandsworth and Battersea had been
+
+1325
+01:48:15,969 --> 01:48:18,099
+in the past.
+
+1326
+01:48:18,099 --> 01:48:25,199
+I thought then of what had happened or might
+be happening to the living things in the sea.
+
+1327
+01:48:25,199 --> 01:48:31,290
+'Along the front of the palace I saw writing
+in an unknown language.
+
+1328
+01:48:31,290 --> 01:48:37,310
+I thought, rather foolishly, that Weena might
+help to understand this, but I only learned
+
+1329
+01:48:37,310 --> 01:48:41,850
+that the idea of writing had never entered
+her head.
+
+1330
+01:48:41,850 --> 01:48:48,560
+She always seemed to me, I imagine, more human
+than she was, perhaps because her love was
+
+1331
+01:48:48,560 --> 01:48:50,699
+so human.
+
+1332
+01:48:50,699 --> 01:48:58,670
+Inside the large door - which was open and
+broken - we found, instead of the usual hall,
+
+1333
+01:48:58,670 --> 01:49:02,340
+a long room lit by many side windows.
+
+1334
+01:49:02,340 --> 01:49:07,429
+At first look I was reminded of a museum.
+
+1335
+01:49:07,429 --> 01:49:14,020
+The floor was thick with dust, and an interesting
+collection of strange objects was covered
+
+1336
+01:49:14,020 --> 01:49:16,140
+in grey dust too.
+
+1337
+01:49:16,140 --> 01:49:22,500
+Then I noticed, in the centre of the room,
+the bones of a large animal.
+
+1338
+01:49:22,500 --> 01:49:28,380
+They lay on the floor in the thick dust, and
+in one place, where the rainwater had come
+
+1339
+01:49:28,380 --> 01:49:32,130
+through the roof, some had almost been destroyed.
+
+1340
+01:49:32,130 --> 01:49:35,869
+'This made me feel sure that I was in a museum.
+
+1341
+01:49:35,869 --> 01:49:43,610
+Going towards the side I found shelves and
+on them I found the old familiar glass cases
+
+1342
+01:49:43,610 --> 01:49:45,710
+of our time.
+
+1343
+01:49:45,710 --> 01:49:52,050
+They had kept the air out; the objects inside
+were still in good condition.
+
+1344
+01:49:52,050 --> 01:49:59,710
+'I continued walking and found another short
+room running across the end of the first.
+
+1345
+01:49:59,710 --> 01:50:06,219
+This appeared to be full of rocks, in which
+I had little interest, so we didn't stop.
+
+1346
+01:50:06,219 --> 01:50:11,400
+The next room appeared to be about natural
+history, but everything had changed so much
+
+1347
+01:50:11,400 --> 01:50:13,179
+that it was unrecognisable.
+
+1348
+01:50:13,179 --> 01:50:20,989
+A few blackened things which had been animals
+many years before, a brown dust of dead plants,
+
+1349
+01:50:20,989 --> 01:50:23,290
+that was all!
+
+1350
+01:50:23,290 --> 01:50:30,780
+I was sorry about that, because I wanted to
+know how people had learned to control nature.
+
+1351
+01:50:30,780 --> 01:50:37,740
+'Then we came to an enormous room, which was
+very badly- lit.
+
+1352
+01:50:37,740 --> 01:50:44,200
+Every few metres, white glass balls hung from
+the ceiling - many of them broken - which
+
+1353
+01:50:44,200 --> 01:50:48,230
+suggested that the place had had electric
+lighting.
+
+1354
+01:50:48,230 --> 01:50:55,090
+On either side of me were large machines,
+all in bad condition and many broken down,
+
+1355
+01:50:55,090 --> 01:50:57,580
+but some still quite complete.
+
+1356
+01:50:57,580 --> 01:51:03,400
+I wanted to stay among these because I could
+only make guesses at what they were for.
+
+1357
+01:51:03,400 --> 01:51:09,140
+I thought that if I could learn to understand
+them, I would have powers that might be useful
+
+1358
+01:51:09,140 --> 01:51:12,550
+against the Morlocks.
+
+1359
+01:51:12,550 --> 01:51:18,250
+'Suddenly Weena came very close to my side,
+so suddenly that she surprised me.
+
+1360
+01:51:18,250 --> 01:51:25,040
+I woke out of my dream and then noticed that
+the floor of the room went downhill.
+
+1361
+01:51:25,040 --> 01:51:32,370
+I had come in at an end that was above ground,
+and had a few tail thin windows.
+
+1362
+01:51:32,370 --> 01:51:38,099
+As you went down the room, the ground came
+up against these windows, until finally there
+
+1363
+01:51:38,099 --> 01:51:41,380
+was only a narrow line of daylight at the
+top.
+
+1364
+01:51:41,380 --> 01:51:47,480
+'I had moved slowly, thinking about the machines,
+and had been too interested in them to notice
+
+1365
+01:51:47,480 --> 01:51:50,139
+that it was getting dark.
+
+1366
+01:51:50,139 --> 01:51:55,579
+Then Weena's increasing nervousness made me
+realise that the room ran down into thick
+
+1367
+01:51:55,579 --> 01:51:57,750
+darkness.
+
+1368
+01:51:57,750 --> 01:52:05,470
+I stopped and, as I looked around me, I saw
+that the dust was thinner there.
+
+1369
+01:52:05,470 --> 01:52:11,199
+Further away towards the darkness, it appeared
+to be broken by a number of small, narrow
+
+1370
+01:52:11,199 --> 01:52:13,170
+footprints.
+
+1371
+01:52:13,170 --> 01:52:18,469
+'I felt that I was wasting my time looking
+at this machinery.
+
+1372
+01:52:18,469 --> 01:52:24,040
+I remembered that it was already late in the
+afternoon and that I still had no weapon,
+
+1373
+01:52:24,040 --> 01:52:28,200
+no safe place and no way of making a fire.
+
+1374
+01:52:28,200 --> 01:52:34,790
+And then down at the far end of the room I
+heard the sound of footsteps and the same
+
+1375
+01:52:34,790 --> 01:52:37,910
+strange noises I had heard down the well.
+
+1376
+01:52:37,910 --> 01:52:40,429
+'I took Weena's hand.
+
+1377
+01:52:40,429 --> 01:52:46,560
+Then, getting a sudden idea, I left her and
+turned to a machine on which there was a long
+
+1378
+01:52:46,560 --> 01:52:48,810
+metal bar.
+
+1379
+01:52:48,810 --> 01:52:54,449
+Climbing up, and taking this in my hands,
+I put all my weight on it sideways.
+
+1380
+01:52:54,449 --> 01:53:00,760
+It broke after a few seconds, and I rejoined
+Weena with a weapon in my hand.
+
+1381
+01:53:00,760 --> 01:53:06,540
+It was heavy enough, I thought, to break the
+head of any Morlock I might meet.
+
+1382
+01:53:06,540 --> 01:53:12,139
+And I wanted very much to kill a Morlock or
+two.
+
+1383
+01:53:12,139 --> 01:53:16,710
+I wanted to go straight down the room and
+kill the ones I heard.
+
+1384
+01:53:16,710 --> 01:53:21,620
+I didn't do this, though, partly because I
+also wanted to stay with Weena - and to get
+
+1385
+01:53:21,620 --> 01:53:23,760
+back to my Time Machine.
+
+1386
+01:53:23,760 --> 01:53:30,420
+'Well, with the metal bar in one hand and
+Weena in the other, I went out of that room
+
+1387
+01:53:30,420 --> 01:53:36,020
+and into another even larger one, which was
+full of old books.
+
+1388
+01:53:36,020 --> 01:53:40,750
+These had fallen to pieces and none of the
+words could be read.
+
+1389
+01:53:40,750 --> 01:53:45,620
+I'm not a great writer, so didn't spend too
+long thinking about this waste of time and
+
+1390
+01:53:45,620 --> 01:53:52,150
+energy, but I did think sadly of my own seventeen
+papers on scientific subjects.
+
+1391
+01:53:52,150 --> 01:53:59,020
+'Then, going up the wide stairs, we came to
+a room that had perhaps been a science room.
+
+1392
+01:53:59,020 --> 01:54:03,980
+And here I had some hopes of finding something
+useful.
+
+1393
+01:54:03,980 --> 01:54:09,960
+Except at one end where the roof had fallen
+down, this room was in good condition.
+
+1394
+01:54:09,960 --> 01:54:13,219
+I went quickly to every unbroken case.
+
+1395
+01:54:13,219 --> 01:54:18,030
+At last, in one of them, I found a box of
+matches.
+
+1396
+01:54:18,030 --> 01:54:20,440
+Very excited, I tried them.
+
+1397
+01:54:20,440 --> 01:54:23,380
+They were dry and perfectly good.
+
+1398
+01:54:23,380 --> 01:54:25,930
+'I turned to Weena.
+
+1399
+01:54:25,930 --> 01:54:32,200
+"Dance," I said to her in her own language,
+because now I really had a weapon against
+
+1400
+01:54:32,200 --> 01:54:35,260
+the horrible creatures that we were afraid
+of.
+
+1401
+01:54:35,260 --> 01:54:43,750
+And so, in that broken-down museum, on the
+thick, soft carpet of dust, to Weena's great
+
+1402
+01:54:43,750 --> 01:54:49,849
+happiness, I danced a slow dance, singing
+a song as well as I could.
+
+1403
+01:54:49,849 --> 01:54:56,360
+Partly the dance was from different countries,
+partly it was my own invention - because I
+
+1404
+01:54:56,360 --> 01:54:59,790
+am naturally inventive, as you know.
+
+1405
+01:54:59,790 --> 01:55:06,380
+'It was strange that this box of matches had
+lasted for so many years, but it was very
+
+1406
+01:55:06,380 --> 01:55:08,460
+fortunate for me.
+
+1407
+01:55:08,460 --> 01:55:15,560
+And I also found something even less likely
+- a jar containing a number of candles.
+
+1408
+01:55:15,560 --> 01:55:21,730
+I broke it open, put these in my pocket and
+left that room very happy.
+
+1409
+01:55:21,730 --> 01:55:27,079
+'I can't tell you all the story of that long
+afternoon.
+
+1410
+01:55:27,079 --> 01:55:32,010
+I would have to think hard to remember what
+I saw in the correct order.
+
+1411
+01:55:32,010 --> 01:55:39,150
+I remember a long room filled with guns, and
+although some were still in good condition,
+
+1412
+01:55:39,150 --> 01:55:42,119
+I could find no bullets.
+
+1413
+01:55:42,119 --> 01:55:49,790
+In another place was a large collection of
+stone and metal gods - Polynesian, Mexican,
+
+1414
+01:55:49,790 --> 01:55:55,139
+Greek, Roman, from every country on Earth,
+I think.
+
+1415
+01:55:55,139 --> 01:56:03,340
+And here I couldn't help writing my name on
+the nose of a stone god from South America
+
+1416
+01:56:03,340 --> 01:56:06,579
+that I really liked.
+
+1417
+01:56:06,579 --> 01:56:11,139
+'As evening came, my interest level fell.
+
+1418
+01:56:11,139 --> 01:56:17,849
+I went through room after room: dusty, silent,
+often ruined.
+
+1419
+01:56:17,849 --> 01:56:23,830
+Some things were just piles of broken material;
+some were in better condition.
+
+1420
+01:56:23,830 --> 01:56:27,460
+In the end we came to a little open square.
+
+1421
+01:56:27,460 --> 01:56:32,579
+It had grass and three fruit trees, so we
+rested there.
+
+1422
+01:56:32,579 --> 01:56:38,560
+'Towards sunset I began to think about our
+situation.
+
+1423
+01:56:38,560 --> 01:56:44,050
+Night was getting closer and my safe hiding
+place still had to be found.
+
+1424
+01:56:44,050 --> 01:56:47,599
+But that worried me very little now.
+
+1425
+01:56:47,599 --> 01:56:54,310
+I had with me, perhaps, the best of all defences
+against the Morlocks - I had matches.
+
+1426
+01:56:54,310 --> 01:56:58,670
+I had the candles in my pocket too, if more
+light were needed.
+
+1427
+01:56:58,670 --> 01:57:05,650
+'It seemed to me that we should spend the
+night in the open, protected by a fire.
+
+1428
+01:57:05,650 --> 01:57:09,449
+In the morning I could try to get the Time
+Machine.
+
+1429
+01:57:09,449 --> 01:57:13,890
+To do that, at that time, I had only my metal
+bar.
+
+1430
+01:57:13,890 --> 01:57:21,190
+But now, with my growing knowledge, I felt
+very differently about those metal panels.
+
+1431
+01:57:21,190 --> 01:57:25,989
+I had never thought they were very strong,
+and I hoped that the metal bar would be heavy
+
+1432
+01:57:25,989 --> 01:57:29,469
+enough to do the job.
+
+1433
+01:57:29,469 --> 01:57:33,869
+CHAPTER TWELVE
+
+1434
+01:57:33,869 --> 01:57:34,869
+Fear of Fire
+
+1435
+01:57:34,869 --> 01:57:42,580
+'When we came out of the palace, the sun hadn't
+completely gone down.
+
+1436
+01:57:42,580 --> 01:57:47,170
+I wanted to get through the woods before it
+was dark, and to reach the white sphinx early
+
+1437
+01:57:47,170 --> 01:57:49,060
+the next morning.
+
+1438
+01:57:49,060 --> 01:57:55,390
+My plan was to go as far as possible that
+night and then build a fire and sleep in the
+
+1439
+01:57:55,390 --> 01:57:57,780
+protection of its light.
+
+1440
+01:57:57,780 --> 01:58:03,870
+So as we went along I collected sticks and
+dry grass, and soon had my arms full.
+
+1441
+01:58:03,870 --> 01:58:11,510
+'Because of this, we walked more slowly than
+I had expected, and also Weena was tired.
+
+1442
+01:58:11,510 --> 01:58:18,280
+And I began to suffer from sleepiness too,
+so it was night before we reached the wood.
+
+1443
+01:58:18,280 --> 01:58:23,610
+On a bushy hill at the edge of it, Weena wanted
+to stop, afraid of the darkness in front of
+
+1444
+01:58:23,610 --> 01:58:24,610
+us.
+
+1445
+01:58:24,610 --> 01:58:33,400
+But a strong feeling of danger, that I failed
+to see as a warning, made me continue.
+
+1446
+01:58:33,400 --> 01:58:40,380
+I had been without sleep for a night and two
+days, and felt ill and bad-tempered.
+
+1447
+01:58:40,380 --> 01:58:45,060
+I felt sleep coming on me, and the Morlocks
+with it.
+
+1448
+01:58:45,060 --> 01:58:52,290
+'Then, among the black bushes behind us, and
+dark against their blackness, I saw three
+
+1449
+01:58:52,290 --> 01:58:56,060
+figures close to the ground.
+
+1450
+01:58:56,060 --> 01:59:00,890
+There was long grass all around us and I didn't
+feel safe from them.
+
+1451
+01:59:00,890 --> 01:59:04,949
+The forest, I thought, was about a kilometre
+across.
+
+1452
+01:59:04,949 --> 01:59:11,540
+If we could get through it to the open hillside,
+that, it seemed to me, was a much safer resting-place.
+
+1453
+01:59:11,540 --> 01:59:19,280
+'I thought that with my matches and my candles
+I could keep my way lit through the woods.
+
+1454
+01:59:19,280 --> 01:59:22,920
+But I knew that I wouldn't be able to hold
+my firewood too.
+
+1455
+01:59:22,920 --> 01:59:28,310
+So, rather unwillingly, I put it down.
+
+1456
+01:59:28,310 --> 01:59:34,690
+Then it came into my head that I would surprise
+the Morlocks behind us by lighting it.
+
+1457
+01:59:34,690 --> 01:59:40,360
+I soon discovered how stupid this was, but
+at the time it seemed a good way of protecting
+
+1458
+01:59:40,360 --> 01:59:42,340
+our backs.
+
+1459
+01:59:42,340 --> 01:59:49,409
+'I don't know if you have ever thought what
+an unusual thing fire must be where there
+
+1460
+01:59:49,409 --> 01:59:53,040
+are no people and where the climate is cool.
+
+1461
+01:59:53,040 --> 01:59:57,719
+The sun's heat is not often strong enough
+to burn plants, even when it shines through
+
+1462
+01:59:57,719 --> 02:00:02,550
+a drop of water, as sometimes happens in hotter
+places.
+
+1463
+02:00:02,550 --> 02:00:08,420
+Lightning may start small fires, but they
+don't usually spread very far.
+
+1464
+02:00:08,420 --> 02:00:14,429
+In this future time, the way to make fire
+had been forgotten in the world.
+
+1465
+02:00:14,429 --> 02:00:20,710
+The red tongues climbing my pile of wood were
+completely new and strange to Weena.
+
+1466
+02:00:20,710 --> 02:00:24,790
+'She wanted to run to them and play with them.
+
+1467
+02:00:24,790 --> 02:00:29,210
+She almost threw herself on the fire, but
+I held her back.
+
+1468
+02:00:29,210 --> 02:00:36,389
+Then I picked her up and, although she fought
+against me, I walked forwards into the wood.
+
+1469
+02:00:36,389 --> 02:00:41,139
+For a short distance the light from my fire
+showed us the way.
+
+1470
+02:00:41,139 --> 02:00:47,020
+Looking back, I could see, through the many
+trees, that from my pile of sticks the fire
+
+1471
+02:00:47,020 --> 02:00:48,719
+had spread to some bushes.
+
+1472
+02:00:48,719 --> 02:00:55,409
+Now a curved red line was coming slowly up
+the grass of the hill.
+
+1473
+02:00:55,409 --> 02:01:01,460
+'I laughed at that, and turned again to the
+dark trees in front of us.
+
+1474
+02:01:01,460 --> 02:01:07,469
+It was very black and Weena held on to me
+in fear, but there was still, as my eyes got
+
+1475
+02:01:07,469 --> 02:01:12,520
+used to the darkness, enough light for me
+to walk around the trees.
+
+1476
+02:01:12,520 --> 02:01:19,300
+Above us it was simply black, except where
+a piece of blue sky shone down on us here
+
+1477
+02:01:19,300 --> 02:01:21,190
+and there.
+
+1478
+02:01:21,190 --> 02:01:26,120
+I struck none of my matches because I had
+no hand free.
+
+1479
+02:01:26,120 --> 02:01:33,330
+With my left arm I carried my little friend;
+in my right hand I had my metal bar.
+
+1480
+02:01:33,330 --> 02:01:42,011
+'For some time I heard nothing except the
+breaking of dry- wood under my feet, the low
+
+1481
+02:01:42,011 --> 02:01:48,380
+sound of the wind above, my own breathing
+and the beat of my heart.
+
+1482
+02:01:48,380 --> 02:01:53,880
+Then I seemed to hear soft footsteps around
+me.
+
+1483
+02:01:53,880 --> 02:01:56,560
+I kept moving.
+
+1484
+02:01:56,560 --> 02:02:02,040
+The footsteps grew louder and then I heard
+the same strange sounds and voices I had heard
+
+1485
+02:02:02,040 --> 02:02:03,560
+in the Under-world.
+
+1486
+02:02:03,560 --> 02:02:09,130
+There seemed to be several of the Morlocks
+and they were getting closer.
+
+1487
+02:02:09,130 --> 02:02:16,640
+In fact, in another minute I felt one of them
+pull at my coat, then something on my arm.
+
+1488
+02:02:16,640 --> 02:02:21,330
+Weena shook violently and then stopped moving.
+
+1489
+02:02:21,330 --> 02:02:22,800
+'It was time for a match.
+
+1490
+02:02:22,800 --> 02:02:26,159
+But to get one I had to put her down.
+
+1491
+02:02:26,159 --> 02:02:32,579
+I did so and, as I searched in my pocket,
+a fight began in the darkness around my knees,
+
+1492
+02:02:32,579 --> 02:02:38,869
+with no sounds from her and some strange bird-like
+noises from the Morlocks.
+
+1493
+02:02:38,869 --> 02:02:44,520
+Soft little hands, too, were moving over my
+coat and back, even touching my neck.
+
+1494
+02:02:44,520 --> 02:02:50,560
+Then the match caught fire and I saw the white
+backs of the Morlocks running away through
+
+1495
+02:02:50,560 --> 02:02:52,290
+the trees.
+
+1496
+02:02:52,290 --> 02:02:57,010
+I quickly took a candle from my pocket and
+prepared to light it.
+
+1497
+02:02:57,010 --> 02:03:01,489
+'Then I looked at Weena.
+
+1498
+02:03:01,489 --> 02:03:08,409
+She was lying with her face to the ground,
+holding my feet and not moving.
+
+1499
+02:03:08,409 --> 02:03:13,260
+With a sudden feeling of fear I bent down
+to her.
+
+1500
+02:03:13,260 --> 02:03:16,580
+She seemed almost unable to breathe.
+
+1501
+02:03:16,580 --> 02:03:24,159
+I lit the candle and placed it on the ground,
+and as the flame grew it chased away the Morlocks
+
+1502
+02:03:24,159 --> 02:03:26,920
+and the shadows.
+
+1503
+02:03:26,920 --> 02:03:29,570
+I bent down and lifted her.
+
+1504
+02:03:29,570 --> 02:03:35,510
+The wood behind us seemed full of the movement
+and voices of the Morlocks.
+
+1505
+02:03:35,510 --> 02:03:38,969
+'She seemed to have fainted.
+
+1506
+02:03:38,969 --> 02:03:43,349
+I put her carefully on my shoulder and stood
+up.
+
+1507
+02:03:43,349 --> 02:03:46,520
+and then there came a horrible thought.
+
+1508
+02:03:46,520 --> 02:03:52,469
+While lighting my match and helping Weena,
+I had turned myself around several times and
+
+1509
+02:03:52,469 --> 02:03:57,800
+now I had no idea which direction to go in.
+
+1510
+02:03:57,800 --> 02:04:00,910
+I might be facing back towards the Green Palace.
+
+1511
+02:04:00,910 --> 02:04:05,090
+'Now I was cold with fear.
+
+1512
+02:04:05,090 --> 02:04:07,200
+I had to think quickly what to do.
+
+1513
+02:04:07,200 --> 02:04:12,020
+I decided to build a fire and stay where we
+were.
+
+1514
+02:04:12,020 --> 02:04:16,250
+I put Weena, still not moving, down against
+a tree.
+
+1515
+02:04:16,250 --> 02:04:22,760
+Very quickly, because my candle was burning
+low, I began collecting sticks and leaves.
+
+1516
+02:04:22,760 --> 02:04:29,570
+Here and there, out of the darkness around
+me, the Morlocks' eyes shone like jewels.
+
+1517
+02:04:29,570 --> 02:04:34,099
+'The candle burned down and went out.
+
+1518
+02:04:34,099 --> 02:04:40,930
+I lit a match and as I did so, I saw two white
+shapes that were moving towards Weena.
+
+1519
+02:04:40,930 --> 02:04:45,190
+When the light shone, they ran quickly to
+get away.
+
+1520
+02:04:45,190 --> 02:04:50,140
+One was so blinded by the light that he came
+straight towards me and I felt a bone break
+
+1521
+02:04:50,140 --> 02:04:52,540
+when I hit him with my hand.
+
+1522
+02:04:52,540 --> 02:04:58,410
+He cried out in pain, walked with difficulty
+for a short distance and fell down.
+
+1523
+02:04:58,410 --> 02:05:03,469
+I lit another candle and continued building
+my fire.
+
+1524
+02:05:03,469 --> 02:05:10,770
+'After some time, I noticed how dry some of
+the leaves were above me; since my arrival
+
+1525
+02:05:10,770 --> 02:05:14,630
+a week before, no rain had fallen.
+
+1526
+02:05:14,630 --> 02:05:20,000
+So instead of looking around among the trees
+for fallen sticks, I began jumping up and
+
+1527
+02:05:20,000 --> 02:05:22,320
+pulling down branches.
+
+1528
+02:05:22,320 --> 02:05:30,430
+Very soon I had a smoky fire of green wood
+and dry sticks, and could put out my candle.
+
+1529
+02:05:30,430 --> 02:05:35,389
+Then I turned to the place where Weena sat
+beside my metal bar.
+
+1530
+02:05:35,389 --> 02:05:41,610
+I did what I could to make her wake up, but
+she seemed almost dead.
+
+1531
+02:05:41,610 --> 02:05:45,370
+I couldn't even decide whether or not she
+was breathing.
+
+1532
+02:05:45,370 --> 02:05:54,469
+'Now the smoke of the fire surrounded me and
+suddenly I felt terribly tired.
+
+1533
+02:05:54,469 --> 02:06:00,699
+My fire wouldn't need any more wood for an
+hour or two, so I sat down.
+
+1534
+02:06:00,699 --> 02:06:05,679
+The wood was full of quiet noises that I couldn't
+understand.
+
+1535
+02:06:05,679 --> 02:06:09,070
+I seemed just to close my eyes for a minute.
+
+1536
+02:06:09,070 --> 02:06:14,640
+But then everything was dark and the Morlocks
+had their hands on me.
+
+1537
+02:06:14,640 --> 02:06:20,020
+'Throwing off their fingers, I quickly felt
+in my pocket for the matchbox and - it had
+
+1538
+02:06:20,020 --> 02:06:21,020
+gone!
+
+1539
+02:06:21,020 --> 02:06:23,570
+Then they took hold of me again.
+
+1540
+02:06:23,570 --> 02:06:26,949
+In a moment I realised what had happened.
+
+1541
+02:06:26,949 --> 02:06:30,579
+I had slept and my fire had gone out.
+
+1542
+02:06:30,579 --> 02:06:33,630
+I felt the fear of death.
+
+1543
+02:06:33,630 --> 02:06:36,610
+The forest seemed full of the smell of burning
+wood.
+
+1544
+02:06:36,610 --> 02:06:43,490
+I was caught by the neck, by the hair, by
+the arms, and pulled down.
+
+1545
+02:06:43,490 --> 02:06:49,199
+It was unbelievably horrible in the darkness
+to feel all these soft creatures lying on
+
+1546
+02:06:49,199 --> 02:06:50,750
+top of me.
+
+1547
+02:06:50,750 --> 02:06:54,389
+There were too many of them, and I fell to
+the ground.
+
+1548
+02:06:54,389 --> 02:06:58,180
+'I felt little teeth biting at my neck.
+
+1549
+02:06:58,180 --> 02:07:04,770
+I turned over and as I did so, my hand touched
+my metal bar.
+
+1550
+02:07:04,770 --> 02:07:06,750
+It gave me strength.
+
+1551
+02:07:06,750 --> 02:07:12,230
+I fought hard to get back on my feet, shaking
+off the human rats.
+
+1552
+02:07:12,230 --> 02:07:17,430
+Holding the bar against my body, I pushed
+where I thought their faces might be.
+
+1553
+02:07:17,430 --> 02:07:23,369
+I could feel the softness of bodies and my
+hits, and for a moment I was free.
+
+1554
+02:07:23,369 --> 02:07:29,199
+'I felt the strange happiness that so often
+seems to come with hard fighting.
+
+1555
+02:07:29,199 --> 02:07:36,409
+I knew that both I and Weena were finished,
+but I decided to make the Morlocks pay for
+
+1556
+02:07:36,409 --> 02:07:37,739
+their meat.
+
+1557
+02:07:37,739 --> 02:07:43,300
+I stood with my back to a tree, moving the
+metal bar from side to side in front of me.
+
+1558
+02:07:43,300 --> 02:07:49,869
+'The whole wood was full of the movement and
+cries of the Morlocks.
+
+1559
+02:07:49,869 --> 02:07:51,159
+A minute passed.
+
+1560
+02:07:51,159 --> 02:07:57,790
+Their voices seemed to rise to a greater level
+of excitement and their movements grew faster.
+
+1561
+02:07:57,790 --> 02:08:00,880
+But no more came within reach.
+
+1562
+02:08:00,880 --> 02:08:04,710
+I stood staring into the blackness.
+
+1563
+02:08:04,710 --> 02:08:09,590
+'Then suddenly hope came.
+
+1564
+02:08:09,590 --> 02:08:11,989
+Were the Morlocks afraid?
+
+1565
+02:08:11,989 --> 02:08:15,900
+And soon after that, I noticed a strange thing.
+
+1566
+02:08:15,900 --> 02:08:19,000
+The darkness seemed to grow lighter.
+
+1567
+02:08:19,000 --> 02:08:24,050
+I began to see the Morlocks around me - three
+half-dead at my feet.
+
+1568
+02:08:24,050 --> 02:08:29,699
+Then I recognised, with great surprise, that
+the others were running from behind me and
+
+1569
+02:08:29,699 --> 02:08:32,500
+away through the wood in front.
+
+1570
+02:08:32,500 --> 02:08:36,460
+And their backs seemed 110 longer white, but
+reddish.
+
+1571
+02:08:36,460 --> 02:08:42,579
+'As I stood there, my mouth open in surprise,
+I saw a little cloud of smoke move across
+
+1572
+02:08:42,579 --> 02:08:46,679
+a small area of starlight between the branches
+and disappear.
+
+1573
+02:08:46,679 --> 02:08:55,080
+And then I understood the smell of burning
+wood and the quiet voices growing now into
+
+1574
+02:08:55,080 --> 02:08:56,610
+a great noise.
+
+1575
+02:08:56,610 --> 02:09:02,460
+I understood the smoke and the reason for
+the Morlocks' speed.
+
+1576
+02:09:02,460 --> 02:09:07,719
+'Stepping out from behind my tree and looking
+back, I saw, through the nearer trees, the
+
+1577
+02:09:07,719 --> 02:09:09,590
+flames of the burning forest.
+
+1578
+02:09:09,590 --> 02:09:13,960
+It was my first fire coming after me.
+
+1579
+02:09:13,960 --> 02:09:17,520
+I looked for Weena, but she was gone.
+
+1580
+02:09:17,520 --> 02:09:23,409
+The sounds of the fire behind me, the crashing
+noise as each new tree caught fire, left little
+
+1581
+02:09:23,409 --> 02:09:25,099
+time to think.
+
+1582
+02:09:25,099 --> 02:09:30,179
+With my metal bar still in my hand, I followed
+in the Morlocks' path.
+
+1583
+02:09:30,179 --> 02:09:32,869
+'It was a hard race.
+
+1584
+02:09:32,869 --> 02:09:38,059
+Once the flames moved forwards so quickly
+on my right as I ran that they got ahead of
+
+1585
+02:09:38,059 --> 02:09:40,619
+me and I had to move away to my left.
+
+1586
+02:09:40,619 --> 02:09:48,429
+But at last I came out of the trees into a
+small open space, and as I did so, a Morlock
+
+1587
+02:09:48,429 --> 02:09:50,290
+rushed towards me.
+
+1588
+02:09:50,290 --> 02:09:54,500
+He ran blindly past me and straight into the
+fire!
+
+1589
+02:09:54,500 --> 02:10:04,170
+'And then I saw the most strange and horrible
+thing, I think, of all that I saw in that
+
+1590
+02:10:04,170 --> 02:10:05,920
+future age.
+
+1591
+02:10:05,920 --> 02:10:11,909
+This whole space was as bright as day with
+the light of the fire.
+
+1592
+02:10:11,909 --> 02:10:17,429
+In the centre was a small hill, surrounded
+by burned bushes.
+
+1593
+02:10:17,429 --> 02:10:23,040
+Beyond that was another arm of the burning
+forest, with yellow tongues of flame already
+
+1594
+02:10:23,040 --> 02:10:29,090
+coming from it, completely surrounding the
+space with a ring of fire.
+
+1595
+02:10:29,090 --> 02:10:35,750
+On the hillside were thirty or forty Morlocks,
+blinded by the light and the heat, running
+
+1596
+02:10:35,750 --> 02:10:38,560
+here and there against each other in their
+fear.
+
+1597
+02:10:38,560 --> 02:10:44,821
+'At first I didn't understand their blindness
+and struck angrily at them with my bar, in
+
+1598
+02:10:44,821 --> 02:10:47,420
+terror, as they came close to me.
+
+1599
+02:10:47,420 --> 02:10:50,699
+I killed one and hurt another.
+
+1600
+02:10:50,699 --> 02:10:55,900
+But when I had watched the movements of one
+of them under the bushes against the red sky,
+
+1601
+02:10:55,900 --> 02:11:02,570
+and heard their cries, I understood their
+total helplessness and pain in the strong
+
+1602
+02:11:02,570 --> 02:11:07,000
+light and I hit no more of them.
+
+1603
+02:11:07,000 --> 02:11:12,660
+'But now and then one ran straight towards
+me, frightening me so much that I got out
+
+1604
+02:11:12,660 --> 02:11:14,260
+of his way.
+
+1605
+02:11:14,260 --> 02:11:19,719
+At one time the flames became a little less
+bright and I was afraid the awful creatures
+
+1606
+02:11:19,719 --> 02:11:21,849
+would be able to see me.
+
+1607
+02:11:21,849 --> 02:11:26,929
+I was even thinking of beginning the fight
+by killing some of them before this happened,
+
+1608
+02:11:26,929 --> 02:11:31,900
+but the fire started up again and I stopped
+myself.
+
+1609
+02:11:31,900 --> 02:11:37,231
+I walked around the hill among them and kept
+out of their way, looking for a sign of Weena.
+
+1610
+02:11:37,231 --> 02:11:40,199
+But Weena was gone.
+
+1611
+02:11:40,199 --> 02:11:48,900
+'At last I sat down on the top of the little
+hill and watched this strange group of blind
+
+1612
+02:11:48,900 --> 02:11:52,579
+creatures feeling their way here and there.
+
+1613
+02:11:52,579 --> 02:12:00,570
+They made inhuman noises to each other, as
+the heat from the fire affected them.
+
+1614
+02:12:00,570 --> 02:12:06,329
+The smoke rushed up and blew across the sky,
+and through the occasional spaces in it, the
+
+1615
+02:12:06,329 --> 02:12:08,410
+little stars shone.
+
+1616
+02:12:08,410 --> 02:12:16,699
+Two or three Morlocks ran into me and I fought
+them off with my hands, shaking as I did so.
+
+1617
+02:12:16,699 --> 02:12:21,949
+'For most of that night I felt that I was
+having a bad dream.
+
+1618
+02:12:21,949 --> 02:12:26,680
+I bit myself and screamed to make myself wake
+up.
+
+1619
+02:12:26,680 --> 02:12:31,610
+I hit the ground with my hands and got up
+and sat down again.
+
+1620
+02:12:31,610 --> 02:12:34,570
+I walked around, and again sat down.
+
+1621
+02:12:34,570 --> 02:12:39,480
+Then I started calling to God to let me wake.
+
+1622
+02:12:39,480 --> 02:12:47,090
+'Three times I saw Morlocks put their heads
+down in great pain and rush into the flames.
+
+1623
+02:12:47,090 --> 02:12:54,510
+But at last, above the dying red of the fire,
+above the great clouds of black smoke and
+
+1624
+02:12:54,510 --> 02:13:01,030
+the whitening and blackening trees, and the
+decreasing numbers of Morlocks, came the white
+
+1625
+02:13:01,030 --> 02:13:03,410
+light of the day.
+
+1626
+02:13:03,410 --> 02:13:08,710
+'I looked again for signs of Weena, but there
+were none.
+
+1627
+02:13:08,710 --> 02:13:14,040
+It was clear that they had left her poor little
+body in the burning forest.
+
+1628
+02:13:14,040 --> 02:13:18,790
+I can't describe how glad I was that it hadn't
+been eaten.
+
+1629
+02:13:18,790 --> 02:13:25,620
+As I thought of that, I wanted to kill the
+helpless Morlocks around me, but I managed
+
+1630
+02:13:25,620 --> 02:13:27,449
+to control myself.
+
+1631
+02:13:27,449 --> 02:13:34,260
+'The hill, as I have said, was a kind of island
+in the forest.
+
+1632
+02:13:34,260 --> 02:13:39,900
+From the top of it, I could now see the Green
+Palace through the thin smoke, and from that
+
+1633
+02:13:39,900 --> 02:13:42,780
+I could work out my direction to the white
+sphinx.
+
+1634
+02:13:42,780 --> 02:13:50,300
+And so, leaving the last of the Morlocks running
+and crying, I tied some grass around my feet
+
+1635
+02:13:50,300 --> 02:13:57,599
+and limped across smoking grass and burnt
+wood, still hot inside, towards the hiding-place
+
+1636
+02:13:57,599 --> 02:13:59,889
+of the Time Machine.
+
+1637
+02:13:59,889 --> 02:14:07,350
+'I walked slowly, because I was very tired
+and my feet were painful.
+
+1638
+02:14:07,350 --> 02:14:10,770
+I was so sorry about the death of little Weena.
+
+1639
+02:14:10,770 --> 02:14:14,710
+It seemed such a terrible thing.
+
+1640
+02:14:14,710 --> 02:14:22,760
+Now, back in my own room, it feels more like
+the sadness of a dream than a real sadness.
+
+1641
+02:14:22,760 --> 02:14:30,790
+But that morning I felt very lonely again
+- terribly alone.
+
+1642
+02:14:30,790 --> 02:14:41,579
+I began to think of this house, of this fireside,
+of some of you, and with these thoughts came
+
+1643
+02:14:41,579 --> 02:14:43,880
+a great need to return.
+
+1644
+02:14:43,880 --> 02:14:53,829
+'But as I walked over the smoking ground under
+the bright morning sky, I made a discovery.
+
+1645
+02:14:53,829 --> 02:14:57,650
+In my trouser pocket there were soil some
+loose matches.
+
+1646
+02:14:57,650 --> 02:15:04,890
+The box had broken open before it was lost.
+
+1647
+02:15:04,890 --> 02:15:05,890
+CHAPTER THIRTEEN
+
+1648
+02:15:05,890 --> 02:15:08,849
+A Fight for the Time Machine
+
+1649
+02:15:08,849 --> 02:15:17,010
+'At about eight or nine in the morning I came
+to the same seat of yellow metal from which
+
+1650
+02:15:17,010 --> 02:15:21,119
+I had looked at the world on the evening of
+my arrival.
+
+1651
+02:15:21,119 --> 02:15:28,739
+I thought of my first ideas about this future
+world on that evening, and I couldn't stop
+
+1652
+02:15:28,739 --> 02:15:31,599
+myself laughing at my confidence.
+
+1653
+02:15:31,599 --> 02:15:38,020
+'I was sad to think how short the dream of
+human intelligence had been.
+
+1654
+02:15:38,020 --> 02:15:43,940
+It had tried to make a comfortable, fair and
+safe society.
+
+1655
+02:15:43,940 --> 02:15:49,040
+It had succeeded - and had then led to this.
+
+1656
+02:15:49,040 --> 02:15:58,320
+We forget the law of nature - that change,
+danger and trouble make us think harder.
+
+1657
+02:15:58,320 --> 02:16:04,360
+Nature never asks the brain to work until
+habit and feeling are- useless.
+
+1658
+02:16:04,360 --> 02:16:11,309
+There is no intelligence where there is no
+change and no need of change.
+
+1659
+02:16:11,309 --> 02:16:19,000
+'So as I see it, the Upper-world people had
+moved towards their weak prettiness, and the
+
+1660
+02:16:19,000 --> 02:16:22,809
+Under-world to hard work.
+
+1661
+02:16:22,809 --> 02:16:30,750
+But it seemed that as time passed, the Upper-world
+had stopped feeding the Under-world.
+
+1662
+02:16:30,750 --> 02:16:35,830
+And when other meat failed them, the people
+of the Under-world had started to eat what
+
+1663
+02:16:35,830 --> 02:16:39,450
+hadn't been allowed before.
+
+1664
+02:16:39,450 --> 02:16:47,439
+That is how I understood the situation in
+my last view of the world of 802,701.
+
+1665
+02:16:47,439 --> 02:16:59,040
+'Although I was unhappy, this seat, the peaceful
+view and the warm sunlight were very pleasant
+
+1666
+02:16:59,040 --> 02:17:04,780
+after the hard work, excitement and terror
+of the past few days.
+
+1667
+02:17:04,780 --> 02:17:13,570
+I was very tired and sleepy, and so I spread
+myself out on the grass and slept.
+
+1668
+02:17:13,570 --> 02:17:21,010
+'I woke up a little before sunset and stretching
+myself, I walked down the hill towards the
+
+1669
+02:17:21,010 --> 02:17:23,160
+white sphinx.
+
+1670
+02:17:23,160 --> 02:17:26,340
+And now a most unexpected thing happened.
+
+1671
+02:17:26,340 --> 02:17:33,040
+As I came to the pedestal, I found that the
+metal doors were open.
+
+1672
+02:17:33,040 --> 02:17:37,380
+I stopped in front of them, not sure about
+entering.
+
+1673
+02:17:37,380 --> 02:17:47,210
+Inside was a small room, and on a higher place
+in the corner of this was the Time Machine.
+
+1674
+02:17:47,210 --> 02:17:49,500
+I had the small levers in my pocket.
+
+1675
+02:17:49,500 --> 02:17:56,809
+So here, after all my thought about breaking
+in, was an easy solution.
+
+1676
+02:17:56,809 --> 02:18:01,030
+I threw my metal bar away, almost sorry not
+to use it.
+
+1677
+02:18:01,030 --> 02:18:05,900
+'A sudden thought came into my head as I bent
+towards the door.
+
+1678
+02:18:05,900 --> 02:18:11,580
+This time, at least, I understood the thinking
+of the Morlocks.
+
+1679
+02:18:11,580 --> 02:18:18,179
+Trying not to laugh, I stepped through the
+door and up to the Time Machine.
+
+1680
+02:18:18,179 --> 02:18:23,349
+I was surprised to find it had been carefully
+oiled and cleaned.
+
+1681
+02:18:23,349 --> 02:18:30,120
+I have thought since then that the Morlocks
+had even partly taken it to pieces while trying
+
+1682
+02:18:30,120 --> 02:18:34,380
+in their slow way to understand it.
+
+1683
+02:18:34,380 --> 02:18:40,910
+'Now as I stood and examined it, finding pleasure
+in just touching it, it happened.
+
+1684
+02:18:40,910 --> 02:18:43,830
+I had expected it.
+
+1685
+02:18:43,830 --> 02:18:49,290
+The metal panels suddenly closed with a loud
+noise.
+
+1686
+02:18:49,290 --> 02:18:54,700
+I was in the dark and couldn't get out.
+
+1687
+02:18:54,700 --> 02:18:57,559
+This is what the Morlocks thought, I was certain.
+
+1688
+02:18:57,559 --> 02:18:59,750
+I smiled.
+
+1689
+02:18:59,750 --> 02:19:07,440
+'I could already hear them laughing softly
+as they came towards me.
+
+1690
+02:19:07,440 --> 02:19:11,490
+Very calmly I tried to strike a match.
+
+1691
+02:19:11,490 --> 02:19:17,399
+I only had to fix the levers and leave then
+like a ghost.
+
+1692
+02:19:17,399 --> 02:19:19,870
+But i had forgotten one little thing.
+
+1693
+02:19:19,870 --> 02:19:24,500
+Those matches could only be lit by striking
+them against the box.
+
+1694
+02:19:24,500 --> 02:19:28,650
+'You can imagine how all my calm disappeared.
+
+1695
+02:19:28,650 --> 02:19:30,810
+The little creatures were close to me.
+
+1696
+02:19:30,810 --> 02:19:32,340
+One touched me.
+
+1697
+02:19:32,340 --> 02:19:36,639
+I struck at them with the levers and began
+to get into the seat of the machine.
+
+1698
+02:19:36,639 --> 02:19:40,910
+Then one hand touched me and then another.
+
+1699
+02:19:40,910 --> 02:19:46,250
+After that I simply had to fight against their
+fingers for my levers and at the same time
+
+1700
+02:19:46,250 --> 02:19:48,640
+feel for the places where these fitted.
+
+1701
+02:19:48,640 --> 02:19:52,899
+'One lever, in fact, almost got away from
+me.
+
+1702
+02:19:52,899 --> 02:19:58,760
+As it left my hand, I had to hit in the dark
+with my head - I could hear the Morlocks head
+
+1703
+02:19:58,760 --> 02:20:00,920
+ring - to get it back.
+
+1704
+02:20:00,920 --> 02:20:05,430
+This was an even more dangerous fight than
+the fight in the forest, I think.
+
+1705
+02:20:05,430 --> 02:20:10,150
+'But at last the lever was fixed and I pulled
+it.
+
+1706
+02:20:10,150 --> 02:20:13,580
+The little hands fell away from me.
+
+1707
+02:20:13,580 --> 02:20:21,690
+The darkness soon changed to the same grey
+light that I have already described.
+
+1708
+02:20:21,690 --> 02:20:25,850
+CHAPTER FOURTEEN
+
+1709
+02:20:25,850 --> 02:20:27,261
+The Death of the World
+
+1710
+02:20:27,261 --> 02:20:36,860
+'I have already told you of the sickness and
+confusion that comes with time travelling.
+
+1711
+02:20:36,860 --> 02:20:41,110
+And this time I wasn't sitting safely in the
+seat.
+
+1712
+02:20:41,110 --> 02:20:46,710
+For some time I held onto the machine as it
+moved from side to side, not thinking about
+
+1713
+02:20:46,710 --> 02:20:48,280
+my journey.
+
+1714
+02:20:48,280 --> 02:20:55,020
+'When I looked at the dials again I was very
+surprised to find where I had arrived.
+
+1715
+02:20:55,020 --> 02:21:01,960
+One dial shows days, another thousands of
+days, another millions of days, and another
+
+1716
+02:21:01,960 --> 02:21:03,720
+thousands of millions.
+
+1717
+02:21:03,720 --> 02:21:10,370
+Instead of pushing the levers backwards, I
+had pulled them forwards, and when I looked
+
+1718
+02:21:10,370 --> 02:21:16,320
+at the dials I found that the thousands hand
+was moving round as fast as the seconds hand
+
+1719
+02:21:16,320 --> 02:21:19,149
+of a watch - into the future.
+
+1720
+02:21:19,149 --> 02:21:25,590
+'As I continued travelling, the appearance
+of things changed in a strange way.
+
+1721
+02:21:25,590 --> 02:21:30,320
+First the greyness grew darker.
+
+1722
+02:21:30,320 --> 02:21:35,160
+Then the times of each day and night grew
+longer and longer.
+
+1723
+02:21:35,160 --> 02:21:41,450
+At first this seemed strange because I was
+still travelling at high speed.
+
+1724
+02:21:41,450 --> 02:21:49,230
+But then I understood that the world had slowed
+down, and now each movement of the sun across
+
+1725
+02:21:49,230 --> 02:21:53,819
+the sky lasted for years.
+
+1726
+02:21:53,819 --> 02:21:59,170
+'At last an unchanging half-light covered
+the world.
+
+1727
+02:21:59,170 --> 02:22:06,830
+The sun's line of light had disappeared, because
+it simply came up and went down in the west
+
+1728
+02:22:06,830 --> 02:22:10,190
+and grew wider and redder.
+
+1729
+02:22:10,190 --> 02:22:13,319
+The moon had totally disappeared.
+
+1730
+02:22:13,319 --> 02:22:18,820
+The movement of the stars had grown slower
+and slower.
+
+1731
+02:22:18,820 --> 02:22:27,490
+Finally, some time before I stopped, a large,
+red sun stopped moving.
+
+1732
+02:22:27,490 --> 02:22:34,190
+At one time it had become brighter for a short
+time, but it quickly lost its light again.
+
+1733
+02:22:34,190 --> 02:22:42,840
+'I understood that the Earth had stopped turning
+and was resting with one side facing the sun,
+
+1734
+02:22:42,840 --> 02:22:46,620
+just as in our own time the moon faces the
+Earth.
+
+1735
+02:22:46,620 --> 02:22:54,050
+Very nervously, because I remembered my first
+fall, I began to slow the machine down.
+
+1736
+02:22:54,050 --> 02:23:02,580
+The hands on the dials moved slower and slower
+until the thousands dial seemed to stop and
+
+1737
+02:23:02,580 --> 02:23:05,450
+the daily one could be seen again.
+
+1738
+02:23:05,450 --> 02:23:10,640
+I slowed down more, until I could begin to
+see an empty beach.
+
+1739
+02:23:10,640 --> 02:23:18,109
+'I stopped very gently and sat in the Time
+Machine, looking round.
+
+1740
+02:23:18,109 --> 02:23:22,580
+The sky was no longer blue.
+
+1741
+02:23:22,580 --> 02:23:30,200
+To the north-east it was inky black, and out
+of the darkness the pale white stars shone
+
+1742
+02:23:30,200 --> 02:23:32,990
+clearly and brightly.
+
+1743
+02:23:32,990 --> 02:23:40,660
+Overhead it was deep red and starless, and
+to the south-east it grew brighter to the
+
+1744
+02:23:40,660 --> 02:23:45,380
+point where half of the sun could be seen
+above the line of the land.
+
+1745
+02:23:45,380 --> 02:23:51,790
+The rocks around me were of a dull reddish
+colour.
+
+1746
+02:23:51,790 --> 02:23:56,920
+Some very green plants covered every part
+of their south-eastern side, and these were
+
+1747
+02:23:56,920 --> 02:23:59,510
+the only living things that I could see.
+
+1748
+02:23:59,510 --> 02:24:03,580
+'The machine was standing on a beach.
+
+1749
+02:24:03,580 --> 02:24:05,500
+The sea was to the south-west.
+
+1750
+02:24:05,500 --> 02:24:10,290
+There were no waves, because there was no
+wind.
+
+1751
+02:24:10,290 --> 02:24:16,040
+The sea moved very slowly up and down like
+gentle breathing.
+
+1752
+02:24:16,040 --> 02:24:22,220
+And along the edge of the water was a thick
+line of salt - pink against the brightly-coloured
+
+1753
+02:24:22,220 --> 02:24:24,380
+sky.
+
+1754
+02:24:24,380 --> 02:24:28,359
+I noticed that I was breathing very fist.
+
+1755
+02:24:28,359 --> 02:24:33,279
+This reminded me of my only experience of
+climbing mountains, and I knew that the air
+
+1756
+02:24:33,279 --> 02:24:36,510
+was thinner than it is now.
+
+1757
+02:24:36,510 --> 02:24:44,370
+'Far away up the empty beach I heard a scream
+and saw a thing like an enormous insect go
+
+1758
+02:24:44,370 --> 02:24:47,200
+flying up into the sky.
+
+1759
+02:24:47,200 --> 02:24:52,540
+It circled and disappeared over some low hills
+beyond.
+
+1760
+02:24:52,540 --> 02:25:01,010
+The sound of its voice was so sad that I shook
+and sat myself more safely on the machine.
+
+1761
+02:25:01,010 --> 02:25:09,070
+'Looking round me again, I saw that, quite
+near, a large red rock - I had thought it
+
+1762
+02:25:09,070 --> 02:25:13,500
+was a rock - was moving slowly towards me.
+
+1763
+02:25:13,500 --> 02:25:20,600
+Then I saw that the thing was really a large
+crab-like creature.
+
+1764
+02:25:20,600 --> 02:25:29,620
+Can you imagine a crab as large as that table,
+with its many legs moving slowly and uncertainly
+
+1765
+02:25:29,620 --> 02:25:31,890
+and its eyes looking at you?
+
+1766
+02:25:31,890 --> 02:25:38,480
+'As I stared at this horrible creature, I
+felt something on my face.
+
+1767
+02:25:38,480 --> 02:25:43,500
+I tried to brush it away with my hand, but
+in a moment it returned and almost immediately
+
+1768
+02:25:43,500 --> 02:25:45,779
+I felt another by my ear.
+
+1769
+02:25:45,779 --> 02:25:50,010
+I struck at this and found something like
+a long string.
+
+1770
+02:25:50,010 --> 02:25:52,050
+It was pulled quickly out of my hand.
+
+1771
+02:25:52,050 --> 02:25:59,420
+With a great feeling of fear, I turned and
+saw that another enormous crab was standing
+
+1772
+02:25:59,420 --> 02:26:01,370
+just behind me.
+
+1773
+02:26:01,370 --> 02:26:06,580
+Its horrible eyes were moving, its mouth was
+open with hunger and it was going to attack
+
+1774
+02:26:06,580 --> 02:26:07,580
+me.
+
+1775
+02:26:07,580 --> 02:26:14,840
+'In a moment my hand was on the lever and
+I had put a month between myself and these
+
+1776
+02:26:14,840 --> 02:26:17,120
+creatures.
+
+1777
+02:26:17,120 --> 02:26:23,370
+But I was still on the same beach and I saw
+them clearly now when I stopped.
+
+1778
+02:26:23,370 --> 02:26:28,750
+Large numbers of them seemed to be moving
+here and there, in the dull light, among the
+
+1779
+02:26:28,750 --> 02:26:31,149
+strong green plants.
+
+1780
+02:26:31,149 --> 02:26:40,790
+'I can't make you understand the feeling of
+great emptiness that hung over the world.
+
+1781
+02:26:40,790 --> 02:26:50,680
+The red eastern sky, the darkness to the north,
+the salt Dead Sea, the thin air, all had a
+
+1782
+02:26:50,680 --> 02:26:53,210
+horrible effect.
+
+1783
+02:26:53,210 --> 02:27:01,540
+I moved a hundred years further into the future,
+and there was the same red sun - a little
+
+1784
+02:27:01,540 --> 02:27:10,540
+larger, a little darker - the same dying sea,
+the same cold air, and the same crowd of crabs
+
+1785
+02:27:10,540 --> 02:27:15,910
+moving slowly in and out of the green plants
+and the red rocks.
+
+1786
+02:27:15,910 --> 02:27:23,240
+And in the west I saw a curved pale line like
+a large new moon.
+
+1787
+02:27:23,240 --> 02:27:31,260
+'So I travelled, stopping now and again, in
+great steps of a thousand years or more, wanting
+
+1788
+02:27:31,260 --> 02:27:35,180
+to know what happened to the Earth.
+
+1789
+02:27:35,180 --> 02:27:44,080
+I watched, with a strange interest, the sun
+grow larger and duller in the western sky,
+
+1790
+02:27:44,080 --> 02:27:47,740
+and the life of the old Earth die away.
+
+1791
+02:27:47,740 --> 02:27:57,189
+At last, more than thirty million years from
+now, the enormous red sun covered almost a
+
+1792
+02:27:57,189 --> 02:27:59,590
+tenth of the darkening sky.
+
+1793
+02:27:59,590 --> 02:28:04,840
+'Then I stopped again and the hundreds of
+crabs had disappeared.
+
+1794
+02:28:04,840 --> 02:28:11,430
+Now the red beach, except for its green plants,
+seemed lifeless.
+
+1795
+02:28:11,430 --> 02:28:18,279
+A strong cold attacked me and snow fell from
+time to time.
+
+1796
+02:28:18,279 --> 02:28:23,760
+There was ice along the edge of the sea, with
+large pieces further out, but most of that
+
+1797
+02:28:23,760 --> 02:28:29,311
+salt ocean - all bloody under the sky - was
+still unfrozen.
+
+1798
+02:28:29,311 --> 02:28:37,170
+'I looked around me to see if any animals
+were still alive, but I saw nothing moving,
+
+1799
+02:28:37,170 --> 02:28:42,450
+on the land or in the sky or sea.
+
+1800
+02:28:42,450 --> 02:28:48,910
+A low island of sand had appeared in the sea
+and the water had moved back from the beach.
+
+1801
+02:28:48,910 --> 02:28:56,470
+I thought I saw a black object moving around
+on this, but it stopped moving when I looked
+
+1802
+02:28:56,470 --> 02:29:01,060
+at it, and I decided that it was just a rock.
+
+1803
+02:29:01,060 --> 02:29:04,330
+The stars in the sky were very bright.
+
+1804
+02:29:04,330 --> 02:29:11,220
+'Suddenly I noticed that the shape of the
+sun in the west had changed and that something
+
+1805
+02:29:11,220 --> 02:29:14,630
+was moving into its circle.
+
+1806
+02:29:14,630 --> 02:29:21,500
+For a minute, perhaps, I stared in shock at
+this and then I realised that either the moon
+
+1807
+02:29:21,500 --> 02:29:25,490
+or Mercury was passing across the sun.
+
+1808
+02:29:25,490 --> 02:29:33,310
+'It became darker and darker, a cold wind
+began to blow from the east and the snow fell
+
+1809
+02:29:33,310 --> 02:29:36,200
+more and more heavily.
+
+1810
+02:29:36,200 --> 02:29:41,850
+Except for these lifeless sounds the world
+was silent.
+
+1811
+02:29:41,850 --> 02:29:43,880
+Silent?
+
+1812
+02:29:43,880 --> 02:29:48,080
+It would be hard to describe the quietness
+of it all.
+
+1813
+02:29:48,080 --> 02:29:58,420
+All the everyday sounds of people, and of
+sheep, birds and insects - all that had ended.
+
+1814
+02:29:58,420 --> 02:30:04,490
+As the darkness grew, the snow fell more heavily
+and it turned colder.
+
+1815
+02:30:04,490 --> 02:30:07,520
+The soft wind grew stronger.
+
+1816
+02:30:07,520 --> 02:30:12,920
+In another moment only the pale stars could
+be seen.
+
+1817
+02:30:12,920 --> 02:30:17,189
+Everything else was darkness.
+
+1818
+02:30:17,189 --> 02:30:20,830
+The sky was completely black.
+
+1819
+02:30:20,830 --> 02:30:25,660
+'This great darkness was horrible to me.
+
+1820
+02:30:25,660 --> 02:30:29,330
+I shook, and began to feel very sick.
+
+1821
+02:30:29,330 --> 02:30:35,399
+Then, like a red-hot curve in the sky, the
+edge of the sun appeared.
+
+1822
+02:30:35,399 --> 02:30:38,240
+I got off the machine to recover.
+
+1823
+02:30:38,240 --> 02:30:41,970
+I felt unable to face the return journey.
+
+1824
+02:30:41,970 --> 02:30:50,700
+As I stood there, I saw again the moving thing
+on the island - there was no mistake now that
+
+1825
+02:30:50,700 --> 02:30:56,200
+it was a moving thing - against the red water
+of the sea.
+
+1826
+02:30:56,200 --> 02:31:05,000
+It was round, the size of a football perhaps,
+and long arms hung down from it.
+
+1827
+02:31:05,000 --> 02:31:07,990
+'Then I felt that I was fainting.
+
+1828
+02:31:07,990 --> 02:31:14,880
+But a terrible fear of lying helpless in that
+awful half-darkness gave me strength while
+
+1829
+02:31:14,880 --> 02:31:20,601
+I climbed back into the seat.
+
+1830
+02:31:20,601 --> 02:31:23,270
+CHAPTER FIFTEEN
+
+1831
+02:31:23,270 --> 02:31:24,270
+Coming Home
+
+1832
+02:31:24,270 --> 02:31:29,170
+'So I came back.
+
+1833
+02:31:29,170 --> 02:31:31,120
+I think I fainted in the machine.
+
+1834
+02:31:31,120 --> 02:31:38,950
+When I felt better the change from day to
+night had started again, the sun was golden
+
+1835
+02:31:38,950 --> 02:31:41,450
+and the sky was blue.
+
+1836
+02:31:41,450 --> 02:31:44,340
+I breathed more freely.
+
+1837
+02:31:44,340 --> 02:31:47,910
+The shape of the land moved here and there.
+
+1838
+02:31:47,910 --> 02:31:53,850
+At last I saw again the shadows of houses,
+the signs of humans.
+
+1839
+02:31:53,850 --> 02:32:00,529
+These, too, changed and passed, and others
+came.
+
+1840
+02:32:00,529 --> 02:32:06,180
+Soon I began to recognise our own smaller
+and familiar buildings, and the hand of the
+
+1841
+02:32:06,180 --> 02:32:10,630
+thousands dial returned to its starting point.
+
+1842
+02:32:10,630 --> 02:32:16,360
+Then the old walls of the laboratory came
+round me.
+
+1843
+02:32:16,360 --> 02:32:20,880
+Very gently now, I slowed the machine down.
+
+1844
+02:32:20,880 --> 02:32:28,540
+'I think I have told you that when I started,
+before my speed became very high, Mrs Watchett,
+
+1845
+02:32:28,540 --> 02:32:31,990
+my cook, had walked across the room.
+
+1846
+02:32:31,990 --> 02:32:36,610
+She moved, as it seemed to me, very quickly.
+
+1847
+02:32:36,610 --> 02:32:43,540
+As I returned, I passed again across that
+minute and now all her movements appeared
+
+1848
+02:32:43,540 --> 02:32:49,380
+to be the exact opposite of the ones she had
+made before.
+
+1849
+02:32:49,380 --> 02:32:57,380
+And just before that, I seemed to see you,
+Hillyer, for a moment.'
+
+1850
+02:32:57,380 --> 02:33:00,240
+The Time Traveller looked at me as he spoke.
+
+1851
+02:33:00,240 --> 02:33:09,170
+'Then I stopped the machine, got off" it very
+shakily and sat down on my chair.
+
+1852
+02:33:09,170 --> 02:33:13,390
+For several minutes I shook violently.
+
+1853
+02:33:13,390 --> 02:33:16,210
+Then I became calmer.
+
+1854
+02:33:16,210 --> 02:33:21,700
+Around me was my old laboratory again, exactly
+as it had been.
+
+1855
+02:33:21,700 --> 02:33:24,810
+But not exactly!
+
+1856
+02:33:24,810 --> 02:33:29,390
+The machine had started from the south-east
+corner.
+
+1857
+02:33:29,390 --> 02:33:33,240
+It had stopped again in the north-west.
+
+1858
+02:33:33,240 --> 02:33:42,830
+This gives you the exact distance from my
+little lawn to the pedestal of the white sphinx
+
+1859
+02:33:42,830 --> 02:33:45,830
+into which the Morlocks had carried it.
+
+1860
+02:33:45,830 --> 02:33:51,610
+'For a time my brain went dead.
+
+1861
+02:33:51,610 --> 02:33:58,380
+Then I got up and came through here, limping
+because my heel was still painful.
+
+1862
+02:33:58,380 --> 02:34:02,340
+I saw the newspaper on the table by the door.
+
+1863
+02:34:02,340 --> 02:34:09,000
+I found the date really was today and, looking
+at the clock, I saw that the time was almost
+
+1864
+02:34:09,000 --> 02:34:11,450
+eight o'clock.
+
+1865
+02:34:11,450 --> 02:34:15,660
+I heard your voices and the sound of plates.
+
+1866
+02:34:15,660 --> 02:34:21,270
+I smelled well-cooked meat and opened the
+door to the dining- room.
+
+1867
+02:34:21,270 --> 02:34:25,920
+You know the rest.'
+
+1868
+02:34:25,920 --> 02:34:27,960
+He looked at the Medical Man.
+
+1869
+02:34:27,960 --> 02:34:29,200
+'No.
+
+1870
+02:34:29,200 --> 02:34:34,000
+I can't expect you to believe it.
+
+1871
+02:34:34,000 --> 02:34:38,540
+Accept it as a lie - or as a guess at the
+future.
+
+1872
+02:34:38,540 --> 02:34:41,740
+Say I dreamed it in the laboratory.
+
+1873
+02:34:41,740 --> 02:34:48,580
+But as a story, what do you think of it?'
+
+1874
+02:34:48,580 --> 02:34:55,580
+He picked up his pipe and began, in his usual
+way, to play with it in his hands.
+
+1875
+02:34:55,580 --> 02:35:00,189
+I took my eyes off his face and looked around
+at the others.
+
+1876
+02:35:00,189 --> 02:35:04,660
+The Medical Man was staring at our host.
+
+1877
+02:35:04,660 --> 02:35:10,330
+The Editor was looking hard at the end of
+his cigarette - his sixth.
+
+1878
+02:35:10,330 --> 02:35:14,850
+The Journalist searched in his pocket for
+his watch.
+
+1879
+02:35:14,850 --> 02:35:20,660
+The others, as I remember, did not move.
+
+1880
+02:35:20,660 --> 02:35:22,570
+The Editor stood up and shook his head.
+
+1881
+02:35:22,570 --> 02:35:28,210
+'What a pity that you are not a writer of
+stories!' he said, putting his hand on the
+
+1882
+02:35:28,210 --> 02:35:30,630
+Time Traveller's shoulder.
+
+1883
+02:35:30,630 --> 02:35:33,170
+'You don't believe it?'
+
+1884
+02:35:33,170 --> 02:35:34,189
+'Well-'
+
+1885
+02:35:34,189 --> 02:35:37,120
+'I thought not.'
+
+1886
+02:35:37,120 --> 02:35:40,170
+The Time Traveller turned to us.
+
+1887
+02:35:40,170 --> 02:35:43,620
+'Where are the matches?' he said.
+
+1888
+02:35:43,620 --> 02:35:47,880
+He lit his pipe, blowing smoke.
+
+1889
+02:35:47,880 --> 02:35:52,450
+'To tell you the truth, I can't really believe
+it myself...
+
+1890
+02:35:52,450 --> 02:35:55,740
+But...'
+
+1891
+02:35:55,740 --> 02:36:03,779
+His eye fell with a questioning look on the
+dead white flowers on the little table.
+
+1892
+02:36:03,779 --> 02:36:08,530
+Then he turned over the hand holding his pipe.
+
+1893
+02:36:08,530 --> 02:36:12,790
+I saw he was looking at some red marks.
+
+1894
+02:36:12,790 --> 02:36:18,040
+The Medical Man rose, came to the lamp and
+examined the flowers.
+
+1895
+02:36:18,040 --> 02:36:22,890
+'This one is odd,' he said.
+
+1896
+02:36:22,890 --> 02:36:27,830
+The Psychologist bent forwards to see, holding
+out his hand for one of them.
+
+1897
+02:36:27,830 --> 02:36:35,040
+'It's strange,' said the Medical Man, 'but
+I certainly don't know what type of flowers
+
+1898
+02:36:35,040 --> 02:36:36,340
+these are.
+
+1899
+02:36:36,340 --> 02:36:39,710
+Can I have them?'
+
+1900
+02:36:39,710 --> 02:36:42,690
+The Time Traveller thought for a few seconds.
+
+1901
+02:36:42,690 --> 02:36:45,560
+Then he suddenly said,' Certainly not.'
+
+1902
+02:36:45,560 --> 02:36:50,360
+'Where did you really get them?' said the
+Medical Man.
+
+1903
+02:36:50,360 --> 02:36:53,380
+The Time Traveller put his hand to his head.
+
+1904
+02:36:53,380 --> 02:36:56,810
+I thought he was trying to remember something.
+
+1905
+02:36:56,810 --> 02:37:02,950
+'They were put into my pocket by Weena.'
+
+1906
+02:37:02,950 --> 02:37:06,410
+He stared round the room.
+
+1907
+02:37:06,410 --> 02:37:09,540
+'I'm beginning to forget it all.
+
+1908
+02:37:09,540 --> 02:37:16,370
+Did I ever make a Time Machine, or a model
+of a Time Machine?
+
+1909
+02:37:16,370 --> 02:37:18,610
+Or is it only a dream?
+
+1910
+02:37:18,610 --> 02:37:21,220
+I must look at that machine.
+
+1911
+02:37:21,220 --> 02:37:23,300
+If there is one!'
+
+1912
+02:37:23,300 --> 02:37:27,200
+He picked up the lamp quickly and carried
+it through the door.
+
+1913
+02:37:27,200 --> 02:37:29,180
+We followed him.
+
+1914
+02:37:29,180 --> 02:37:36,770
+There in the lamplight was the machine, with
+brown spots and mud on it, bits of grass on
+
+1915
+02:37:36,770 --> 02:37:40,420
+the lower parts and one side bent.
+
+1916
+02:37:40,420 --> 02:37:46,990
+The Time Traveller put the lamp down on the
+table and touched the damaged side.
+
+1917
+02:37:46,990 --> 02:37:50,880
+'It's all right now,' he said.
+
+1918
+02:37:50,880 --> 02:37:53,570
+'My story was true.
+
+1919
+02:37:53,570 --> 02:37:58,600
+I am sorry I brought you out here in the cold.'
+
+1920
+02:37:58,600 --> 02:38:05,319
+He picked up the lamp and in total silence
+we returned to the smoking room.
+
+1921
+02:38:05,319 --> 02:38:11,160
+He came into the hall with us and helped the
+Editor on with his coat.
+
+1922
+02:38:11,160 --> 02:38:16,680
+The Medical Man looked into his face and,
+after a few seconds, told him he was suffering
+
+1923
+02:38:16,680 --> 02:38:18,771
+from too much work.
+
+1924
+02:38:18,771 --> 02:38:22,540
+The Time Traveller laughed loudly.
+
+1925
+02:38:22,540 --> 02:38:28,970
+I remember him standing at the open door,
+shouting good night.
+
+1926
+02:38:28,970 --> 02:38:32,040
+I walked some distance with the Editor.
+
+1927
+02:38:32,040 --> 02:38:36,680
+He thought the story was 'a colourful lie'.
+
+1928
+02:38:36,680 --> 02:38:40,240
+I was unable to make up my mind.
+
+1929
+02:38:40,240 --> 02:38:47,490
+It was so strange, and the telling was so
+believable and serious.
+
+1930
+02:38:47,490 --> 02:38:50,590
+I lay awake most of the night thinking about
+it.
+
+1931
+02:38:50,590 --> 02:38:56,950
+The next day, I went to see the Time Traveller
+again.
+
+1932
+02:38:56,950 --> 02:38:59,970
+I was told he was in the laboratory.
+
+1933
+02:38:59,970 --> 02:39:04,220
+I went there but it was empty.
+
+1934
+02:39:04,220 --> 02:39:11,290
+I stared for a minute at the Time Machine
+and put out a hand and touched the lever.
+
+1935
+02:39:11,290 --> 02:39:15,859
+It shook like a branch in the wind.
+
+1936
+02:39:15,859 --> 02:39:23,661
+Its movements surprised me greatly, and I
+had a strange memory of childhood days, when
+
+1937
+02:39:23,661 --> 02:39:25,680
+I was not allowed to touch things.
+
+1938
+02:39:25,680 --> 02:39:31,620
+I went back into the smoking room and found
+the Time Traveller there.
+
+1939
+02:39:31,620 --> 02:39:36,580
+He had a small camera under one arm and a
+bag under the other.
+
+1940
+02:39:36,580 --> 02:39:38,040
+He laughed when he saw me.
+
+1941
+02:39:38,040 --> 02:39:42,570
+'I'm very busy,' he said,' with that thing
+in there.'
+
+1942
+02:39:42,570 --> 02:39:45,340
+'But is it not a joke?'
+
+1943
+02:39:45,340 --> 02:39:46,340
+I said.
+
+1944
+02:39:46,340 --> 02:39:51,850
+'Do you really travel through time?'
+
+1945
+02:39:51,850 --> 02:39:54,940
+'Really and truly I do.'
+
+1946
+02:39:54,940 --> 02:39:58,160
+And he looked straight into my eyes.
+
+1947
+02:39:58,160 --> 02:40:01,500
+'I only want half an hour,' he said.
+
+1948
+02:40:01,500 --> 02:40:04,260
+'I know why you came and it is very good of
+you.
+
+1949
+02:40:04,260 --> 02:40:06,630
+There are some magazines here.
+
+1950
+02:40:06,630 --> 02:40:11,090
+If you will stay for lunch I shall prove this
+time-travelling to you completely.
+
+1951
+02:40:11,090 --> 02:40:16,330
+I shall even bring back some things for you
+to look at.
+
+1952
+02:40:16,330 --> 02:40:19,950
+Will you forgive me if I leave you now?'
+
+1953
+02:40:19,950 --> 02:40:28,170
+I agreed, not really understanding the full
+meaning of his words, and he left the room.
+
+1954
+02:40:28,170 --> 02:40:36,750
+I heard the door of the laboratory shut, sat
+down in a chair and picked up the daily paper.
+
+1955
+02:40:36,750 --> 02:40:38,270
+What was he going to do before lunch-time?
+
+1956
+02:40:38,270 --> 02:40:46,600
+Then suddenly I was reminded by an advertisement
+that I had promised to meet a friend at two.
+
+1957
+02:40:46,600 --> 02:40:50,859
+I looked at my watch and saw that there was
+just enough time.
+
+1958
+02:40:50,859 --> 02:40:54,540
+I got up and went to tell the Time Traveller.
+
+1959
+02:40:54,540 --> 02:41:02,380
+As I took hold of the handle of the laboratory
+door I heard a shout, then strange noises.
+
+1960
+02:41:02,380 --> 02:41:09,700
+A sudden wind blew round me as I opened the
+door, and from inside came the sound of broken
+
+1961
+02:41:09,700 --> 02:41:13,069
+glass falling on the floor.
+
+1962
+02:41:13,069 --> 02:41:18,450
+The Time Traveller was not there.
+
+1963
+02:41:18,450 --> 02:41:25,610
+I seemed to see a ghostly, unclear figure
+sitting in a moving machine for a moment,
+
+1964
+02:41:25,610 --> 02:41:28,780
+but all of this disappeared.
+
+1965
+02:41:28,780 --> 02:41:32,150
+The Time Machine had gone.
+
+1966
+02:41:32,150 --> 02:41:35,800
+The window was broken.
+
+1967
+02:41:35,800 --> 02:41:40,020
+I was surprised and unable to understand.
+
+1968
+02:41:40,020 --> 02:41:46,380
+As I stood staring, the door into the garden
+opened and a servant appeared.
+
+1969
+02:41:46,380 --> 02:41:47,870
+We looked at each other.
+
+1970
+02:41:47,870 --> 02:41:51,069
+Then ideas began to come.
+
+1971
+02:41:51,069 --> 02:41:55,280
+'Has Mr gone out that way?'
+
+1972
+02:41:55,280 --> 02:41:56,280
+I said.
+
+1973
+02:41:56,280 --> 02:41:57,950
+'No, sir.
+
+1974
+02:41:57,950 --> 02:42:01,040
+No one has come out this way.'
+
+1975
+02:42:01,040 --> 02:42:04,350
+And then I understood.
+
+1976
+02:42:04,350 --> 02:42:14,160
+I stayed there, waiting for the Time Traveller;
+waiting for the second, perhaps stranger story,
+
+1977
+02:42:14,160 --> 02:42:17,870
+and the objects and photographs he would bring
+with him.
+
+1978
+02:42:17,870 --> 02:42:23,050
+But I am beginning to fear that I must wait
+a lifetime.
+
+1979
+02:42:23,050 --> 02:42:30,700
+The Time Traveller disappeared three years
+ago.
+
+1980
+02:42:30,700 --> 02:42:35,330
+And as everyone knows now, he has never returned.
+

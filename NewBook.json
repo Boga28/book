@@ -2,6 +2,20 @@
 
 {"meditasyonlar":[
  
+ 
+ {"id":"229",
+"baslik":"Time Machine",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://english-e-reader.net/covers/Time_Machine-H_G_Wells.jpg",
+"kategori":"6",
+"yazar":"H. G. Wells",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Time_Machine.m4a",
+"hardWord":"Text Analysis: Unique words: 1713 Total words: 19902\n\n\tHard words: greynes circled, bush, colourful, starles unfreeze, prettines protecting, purposeles noiselessly, tempered, matchbox, strengthened, unwillingly, shakily, fireside, workroo lamplight",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Time_Machine.epub",
+"storyAcıklama":"Story starts with the time traveler telling his friends he has invited to dinner that the mathematics he is about to explain is much different from the usual ideas. The book is written from one of the guests’ viewpoint. He goes on explaining that time is the fourth dimension. He uses the readings of a barometer over a period of time to show it is not measuring length, width, or depth. Next, the time traveler shows them a model of a time machine that took him two years to make. He claims that as soon as he presses the lever, the time machine will disappear into the future. He presses the lever shortly thereafter, and the machine does disappear…",
+"tag":"fiction science-fiction  time-travelling  fantasy",
+"views":"26757"},
+ 
   {"id":"228",
 "baslik":"The Invisible Man",
 "aciklama":"B2 Intermediate+",

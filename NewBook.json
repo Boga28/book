@@ -2,6 +2,19 @@
 
 {"meditasyonlar":[
  
+  {"id":"234",
+"baslik":"Heidi",
+"aciklama":"A1 Starter",
+"thumbnail":"https://english-e-reader.net/covers/Heidi-Johanna_Spyri.jpg",
+"kategori":"2",
+"yazar":"Johanna Spyri",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Heidi.m4a",
+"hardWord":"Text Analysis: Unique words: 667 Total words: 4791\n\n\tHard words: sleepwalking, liked, answered, moved, passed, bringing, carried, hayloft, picked, shouted, pushing, explained, held, turned, meow, owned, caught, remembered, becoming, decided, helped, traveled, pulled, opened, filled, stopped, rudely, wearing, dusky, destroyed",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Heidi.epub",
+"storyAcıklama":"Heidi is a little girl. She lives in the Alps with her old grandfather. They are very different. Heidi is kind, sweet and open. She can light up life around with her presence. Her grandfather is very strict. Heidi's mother died long ago. In early childhood the girl lived with her aunt Dete. Once Dete found a new job in the city. So she left the girl with her grandfather when Heidi was only six. And this meeting changes the lives of both of them. Everything is different now. The old man takes care of his small granddaughter. The grandfather loves Heidi but he doesn't show it. The local people are very surprised to see this. They always saw him as a grumpy annoying man. But the old man turns out to be very kind.",
+"tag":"non-fiction  family  children  nature  love",
+"views":"2667"},
+ 
  
  {"id":"233",
 "baslik":"The Glorious Pacific Way",

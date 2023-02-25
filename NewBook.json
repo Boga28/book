@@ -2,6 +2,19 @@
 
 {"meditasyonlar":[
  
+ {"id":"235",
+"baslik":"Northanger Abbey",
+"aciklama":"C1 Advanced",
+"thumbnail":"https://english-e-reader.net/covers/Northanger_Abbey-Jane_Austen.jpg",
+"kategori":"8",
+"yazar":"Jane Austen",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Northanger_Abbey.m4a",
+"hardWord":"Text Analysis: Unique words: 2480 Total words: 30824\n\n\tHard words: pearl, basing, securing, blamed, unfolded, inventing, judged, ungraceful, civilised, allen, excused, ungenerou inconstant, hosting, dismissed, achieved, bush, inconveniently, solved, teased, discouraged, squeezed, honour, cheque, lord",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Northanger_Abbey.epub",
+"storyAcıklama":"People with a luxuriant imagination have a funny life. They have read a lot of books and expect to meet the same interesting secrets and events in reality. Our main character is this type of personality. Catherine Morland enjoys reading the gothic novels and the horror stories. She is pretty but not a beauty. She isnt stupid but very naive. Catherine is only seventeen. She came from a small village to visit her relatives. It seems that her dream will come true. Catherine hopes to get into many exciting situations just like described in books. Balls, receptions, theaters, new acquaintances and an invitation to the abbey are a perfect background for her own fantasy. Catherine is so fascinated that she can nott notice what is going on in front of her face.",
+"tag":"novel classic  love-story  society  filmed",
+"views":"17681"},
+ 
   {"id":"234",
 "baslik":"Heidi",
 "aciklama":"A1 Starter",

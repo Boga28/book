@@ -2,6 +2,11 @@
 
 {"meditasyonlar":[
  
+   {"id": "239",
+"baslik": "Alexander the Great",
+"subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id239_Alexander_the_Great.srt",
+"sesdosyasi": "https://github.com/Boga28/Audio/raw/main/Stories/Alexander_the_Great.m4a"},
+ 
  {"id":"238",
 "baslik":"Netty Sargent and the House",
 "aciklama":"A2 Elementary",

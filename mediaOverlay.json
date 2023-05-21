@@ -1,17 +1,9 @@
 {"mediaOverlay": [
   
-   {"id":"239",
-"baslik":"Alexander the Great",
-"aciklama":"B2 Intermediate+",
-"thumbnail":"https://english-e-reader.net/covers/Alexander_the_Great-Beddall_Fiona.jpg",
-"kategori":"6",
-"yazar":"Beddall Fiona",
-"sesdosyasi":"https://github.com/Boga28/Audio/raw/main/Stories/Alexander_the_Great.m4a",
-"hardWord":"Text Analysis: Unique words: 1821 Total words: 14432\n\n\tHard words: rockface, starred, queen, bactrian, hector, armour, theban, scythian, thracian, reconquer, footed, edged, jewellery, gordian, undefended, ptolemaic, phoenician, warhorse, loyally, acropoli babylonian, sandstor athenian, defence, nobleman, communicating, spartan, unguarded, conquered",
-"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Alexander_the_Great.epub",
-"storyAcıklama":"Alexander the Great is the greatest conqueror of all time. His father was king Philip II and his mother was Olympias, the daughter of king Neoptolemus I of Epirus. When Alexander was 13, Aristotle became his tutor. The philosopher awakened the idea of greatness, power and intellectual rigor in his pupil. Aristotle taught him how to demonstrate the force moderately and consciously. Alexander treated his teacher with admiration and respect. He often said that he owed life to his father and a decent life to Aristotle. Achilles – the hero of the Trojan War was the ideal for Alexander. Alexander had no equal rivals in all competitions. When he was a boy, he tamed a wild horse named Bucephalus, who later served him in many battles.",
-"tag":"biography historical  notables  Greece  dream",
-"views":"28559"},
+{"id": "239",
+"baslik": "Alexander the Great",
+"subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id239_Alexander_the_Great.srt",
+"sesdosyasi": "https://github.com/Boga28/Audio/raw/main/Stories/Alexander_the_Great.m4a"},
   
    {"id": "238",
 "baslik": "Netty Sargent and the House",

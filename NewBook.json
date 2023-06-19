@@ -1,6 +1,19 @@
 
 
 {"meditasyonlar":[
+
+  {"id":"240",
+"baslik":"The Man Who Would Be King",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/The_Man_Who_Would_Be_King-Rudyard_Kipling.jpg",
+"kategori":"3",
+"yazar":"Rudyard Kipling",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Man_Who_Would_Be_King.m4a",
+"hardWord":"Text Analysis: Unique words: 934 Total words: 5567\n\n\tHard words: pretending, pushed, queen, blamed, attacked, refused, shuffled, nailed, passed, staying, cleaned, carried, worked, chasing, unloaded, sunk, bengali, establishing, kept, described, tumbled, shouted, freemason, held, realized, putting, bengal, telegraph, westerly, understood",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Man_Who_Would_Be_King.epub",
+"storyAcıklama":"Many years ago the main character worked in India. He worked as a journalist there. Back then, India was a wild and dangerous country. It was a place where people lived by laws that nobody could understand. You could be and then suddenly become rich. A person could be a beggar and then become a rich prince. Many people came from England to try to find wealth in this unusual country. And now the story begins. During that time, the main character was not rich. But he was not poor. Once he was traveling by train. He was in third class. It was uncomfortable. There were no cushions on the seat. The cabin was hot. But he met an interesting companion. Their casual conversation was the beginning of an adventure.",
+"tag":"short-story adventure  India  king",
+"views":"3397"},
  
  {"id":"239",
 "baslik":"Alexander the Great",

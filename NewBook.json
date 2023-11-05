@@ -2,6 +2,19 @@
 
 {"meditasyonlar":[
 
+     {"id":"245",
+"baslik":"The Merchant of Venice",
+"aciklama":"C2 unabridged",
+"thumbnail":"https://github.com/Boga28/book/raw/master/pics/The_Merchant_of_Venice.jpg",
+"kategori":"9",
+"yazar":"William Shakespeare",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Merchant_of_Venice.m4a",
+"hardWord":"Text Analysis: Unique words: 2983 Total words: 21981\n\n\tHard words: wearies, want-wit, ado, tossing, portly, burghers, pageants, overpeer, traffickers, curtsy, plucking, peering, maps, ports, ague, sandy, burial, vessels, scatter, species, bag-piper, jest, alabaster...",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Merchant_of_Venice.epub",
+"storyAcıklama":"The Merchant of Venice is a play written by William Shakespeare and published in the year 1600.\nBassanio, despite belonging to the nobility, is completely poor, so he asks his friend and rich merchant Antonio for money to make the rich Portia fall in love. Antonio at that time does not have cash, so he decides to borrow the money from a Jewish loan shark named Shylock. The loan shark agrees only on the condition that, in the event of default, Antonio must allow himself to be cut a pound of flesh from the body part Shylock chooses.\nBassanio finally manages to marry Portia, but not before passing a test at the will of her father.\nAntonio suffers a misfortune: his merchant ships sink and he cannot pay the debt. Shylock claims the agreed upon pound of meat, choosing the part closest to the heart. This is taken to a trial presided over by the Doge of Venice, attended by Portia disguised as a lawyer... and they demand one condition: she can't spill any blood, only meat. Shylock desists from his claim but is not satisfied...",
+"tag":"Fiction    Plays",
+"views":"59.458"},
+
     {"id":"244",
 "baslik":"The Legend of the Unicorn",
 "aciklama":"A1 Starter",

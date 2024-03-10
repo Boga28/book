@@ -1,6 +1,19 @@
 
 
 {"meditasyonlar":[
+        
+        {"id":"251",
+"baslik":"Love Story",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/Love_Story-Erich_Segal.jpg",
+"kategori":"4",
+"yazar":"Erich Segal",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Love_Story.m4a",
+"hardWord":"Text Analysis: Unique words: 1171 Total words: 13408\n\n\tHard words: pushed, refused, parents, discussed, liked, answered, grey, moved, passed, reaching, cleaned, studying, carried, discovered, worked, sixtieth, ahhhh, footballer, unlovely, cheque, picked, kept, stole, shouted, explained, letting, undressed, held, realized, touched",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/Love_Story.epub",
+"storyAcıklama":"What can people say about young girl, if she died at the age of twenty-five? People usually say the girl was a nice person. They can also add that the girl was very clever: she loved classical music. The protagonist of this book studied at Harvard a year before the events described. Once he was sitting in the library of a nearby university. It was really quiet and he didn't see a single familiar face. Still that was fine with him. There were many books he needed to study. The exam was about to start, and he approached two girls who worked in the library. One of them was tall and beautiful. Her friend was low, with big glasses. He went to the second girl and asked to bring him the right book. She smiled and asked why he did not look for it in the Harvard library. After all, there were more books there.",
+"tag":"romance  family  university  school  music  writer  sport  fight  play  football  business  love  doctor  musical  work  short  island  marriage  house  adult  children  show  cooking  holiday  office  secret  health",
+"views":"7539"},
 
         {"id":"250",
 "baslik":"The Fir Tree",

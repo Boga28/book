@@ -2,6 +2,19 @@
 
 {"meditasyonlar":[
 
+          {"id":"254",
+"baslik":"The Speckled Band",
+"aciklama":"A2 Elementary",
+"thumbnail":"https://english-e-reader.net/covers/The_Speckled_Band-Conan_Doyle.jpg",
+"kategori":"3",
+"yazar":"Conan Doyle",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Speckled_Band.m4a",
+"hardWord":"Text Analysis: Unique words: 433 Total words: 2072\n\n\tHard words: speckled, gypsy, air-vent, whistle",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Speckled_Band.epub",
+"storyAcıklama":"A girl named Helen Stoner asked Sherlock Holmes for help. She lived in an old estate near the village, along with her stepfather Dr. Grimesby Roylott who used to be a doctor when he lived in India. Two years ago she lost her sister Julia. She died two weeks before her wedding, under mysterious circumstances. Before his death, for several nights in the house she heard a strange whistling that very frightened her. The night Julie died, Helen had heard similar sounds. On her deathbed, Julia shouted : It was a speckled band! Now Helen temporarily moved to her sister's room because her one is being repaired. At the first night Helen heard a strange whistling again and panicked.",
+"tag":"detective  investigation  fiction  mystery",
+"views":"292440"},
+          
           {"id":"253",
 "baslik":"Dragonheart",
 "aciklama":"A2 Elementary",

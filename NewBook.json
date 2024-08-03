@@ -2,6 +2,19 @@
 
 {"meditasyonlar":[
 
+           {"id":"256",
+"baslik":"The Godfather",
+"aciklama":"B2 Intermediate+",
+"thumbnail":"https://github.com/Boga28/book/blob/master/pics/The_Godfather.png?raw=true",
+"kategori":"6",
+"yazar":"Mario Puzo",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Godfather.m4a",
+"hardWord":"Text Analysis: Unique words: 1423 Total words: 13928\n\n\tHard words: jewellery, godson, moodily, tollbooth, hothead, favour, buttonhole, nightshirt, squeezing, eyed, racehorse, august, fatherly, fashioned, brotherly,sicilian, filming, walled, godfather, lowering, betrayed, moustache, spoil busily",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Godfather.epub",
+"storyAcıklama":"The young Michael Corleone was always a black sheep among the powerful members of his family. He did not fight in the streets of New York and was not involved in the Second World War. He was educated at the University, not by mobsters on the streets. He never recognized and did not use his father's authority, and he certainly did not want to follow footsteps of his influential father. But then, his father - Vito Corleone was almost killed by other gangsters... someone had to replace Don Vito. Perhaps only Michael was able to avenge his father. Only Michael could maintain his family and return it in a dominant position among crime syndicates in New York. How effective the new approach to his father's life work would be? What sacrifices have to be done, to save his legacy, to save the lives of relatives and to avoid unnecessary victims.",
+"tag":"crime classic  family  filmed  fight  surviving",
+"views":"54970"},
+
           {"id":"255",
 "baslik":"After the Funeral",
 "aciklama":"B2 Intermediate+",

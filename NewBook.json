@@ -2,7 +2,19 @@
 
 {"meditasyonlar":[
 
-
+    {"id":"261",
+"baslik":"The Virgin and the Gipsy",
+"aciklama":"B1 Pre-Intermediate",
+"thumbnail":"https://english-e-reader.net/covers/The_Virgin_and_the_Gipsy-D_H_Lawrence.jpg",
+"kategori":"4",
+"yazar":"D. H. Lawrence",
+"sesdosyasi":"https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Virgin_and_the_Gipsy.m4a",
+"hardWord":"Text Analysis: Unique words: 1224 Total words: 12644\n\n\tHard words: stopping, sounded, pushed, snapping, divorcing, liked, grey, faced, harbour, moved, passed, struck, worked, pretended, staring, rushed, swept, picked, lit, shouted, pushing, held, loveless, realized, touched, pulling, turned, returned, eyed, drowned",
+"storyUrl":"https://github.com/Boga28/book/raw/master/Epubs/The_Virgin_and_the_Gipsy.epub",
+"storyAcıklama":"Lucille and Yvette are sisters. When girls were small, a great misfortune happened to them. Their mother left the family. Cynthia was tired of living with her husband. So she ran away with a young man. The girls' father was a vicar. He was a handsome man and a good husband. All the neighbors could not understand why Cynthia chose that poor guy. The girls did not know either. They thought they were not good enough and therefore the mother did not love them. Their father got a new job, and the family moved to the house of the priest. There they began a new life. The mother of their father began to live with them. The girls' grandmother was glad that Cynthia had run away. Now she ruled everything. The old woman liked such power very much and she was afraid of Cynthia's return.",
+"tag":" family  love  house  future  school  marriage  children  secret  missing  holiday  show  dream  play  cooking  divorce  couple  friendship  accident  work",
+"views":"1028"},
+   
    {"id":"260",
 "baslik":"Tristan and Isolde",
 "aciklama":"A2 Elementary",

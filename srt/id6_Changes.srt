@@ -1,1113 +1,1061 @@
 1
-00:00:01,300 --> 00:00:10,490
+00:00:04,560 --> 00:00:10,080
 Time: the present Place: Sheffield, England
 
 2
-00:00:10,490 --> 00:00:14,080
+00:00:12,240 --> 00:00:14,080
 Everybody knew about the comet.
 
 3
-00:00:14,080 --> 00:00:17,730
+00:00:14,640 --> 00:00:16,320
 It was in all the newspapers.
 
 4
-00:00:17,730 --> 00:00:22,970
-When it finally passed close to the Earth,
-it lit up the sky for three nights.
+00:00:17,440 --> 00:00:22,560
+When it finally passed close to the 
+Earth, it lit up the sky for three nights.
 
 5
-00:00:22,970 --> 00:00:24,730
+00:00:23,440 --> 00:00:24,720
 It was beautiful.
 
 6
-00:00:24,730 --> 00:00:30,829
-People who were not usually interested in
-looking beyond their television screens took
+00:00:25,840 --> 00:00:30,080
+People who were not usually interested in 
+looking beyond their television screens  
 
 7
-00:00:30,829 --> 00:00:33,610
-at least one look outside.
+00:00:30,640 --> 00:00:32,880
+took at least one look outside.
 
 8
-00:00:33,610 --> 00:00:35,850
+00:00:34,000 --> 00:00:35,840
 Even people like Darren.
 
 9
-00:00:35,850 --> 00:00:41,789
-Darren was looking in the bathroom mirror
-at the spots on his face.
+00:00:37,440 --> 00:00:41,120
+Darren was looking in the bathroom 
+mirror at the spots on his face.
 
 10
-00:00:41,789 --> 00:00:44,871
+00:00:42,080 --> 00:00:43,840
 They were near his nose.
 
 11
-00:00:44,871 --> 00:00:48,920
-His mum always said he got spots because he
-ate too many sweets.
+00:00:44,560 --> 00:00:48,400
+His mum always said he got spots 
+because he ate too many sweets.
 
 12
-00:00:48,920 --> 00:00:51,039
+00:00:49,200 --> 00:00:50,880
 But he hated sweets.
 
 13
-00:00:51,039 --> 00:00:53,679
+00:00:50,880 --> 00:00:52,640
 And he never ate chocolate.
 
 14
-00:00:53,679 --> 00:00:58,360
-His mum loved chocolate and she never got
-spots.
+00:00:53,600 --> 00:00:58,160
+His mum loved chocolate and she never got spots.
 
 15
-00:00:58,360 --> 00:01:00,760
+00:00:58,160 --> 00:00:59,440
 It wasn't fair.
 
 16
-00:01:00,760 --> 00:01:07,010
-Darren was just going to examine his biggest
-spot when his mum called out.
+00:01:01,040 --> 00:01:06,080
+Darren was just going to examine his 
+biggest spot when his mum called out.
 
 17
-00:01:07,010 --> 00:01:08,010
-'Darren!
+00:01:07,280 --> 00:01:09,840
+'Darren! Darren, look at this!'
 
 18
-00:01:08,010 --> 00:01:11,230
-Darren, look at this!'
-
-19
-00:01:11,230 --> 00:01:12,920
+00:01:10,880 --> 00:01:11,760
 'Aw, Mum.
 
-20
-00:01:12,920 --> 00:01:14,610
+19
+00:01:12,480 --> 00:01:13,120
 I'm busy!'
 
+20
+00:01:14,720 --> 00:01:17,920
+But Darren's mum refused to take no for an answer.
+
 21
-00:01:14,610 --> 00:01:19,180
-But Darren's mum refused to take no for an
-answer.
+00:01:18,960 --> 00:01:22,240
+She knew her thirteen-year-old 
+son liked science fiction.
 
 22
-00:01:19,180 --> 00:01:22,720
-She knew her thirteen-year-old son liked science
-fiction.
-
-23
-00:01:22,720 --> 00:01:26,930
+00:01:23,120 --> 00:01:26,320
 A bit of science fact would do him no harm.
 
+23
+00:01:27,280 --> 00:01:30,320
+This sort of thing didn't 
+happen every day, after all.
+
 24
-00:01:26,930 --> 00:01:31,450
-This sort of thing didn't happen every day,
-after all.
+00:01:31,280 --> 00:01:35,120
+They said that this comet was 
+only going to pass the Earth once.
 
 25
-00:01:31,450 --> 00:01:36,140
-They said that this comet was only going to
-pass the Earth once.
-
-26
-00:01:36,140 --> 00:01:38,470
+00:01:35,920 --> 00:01:37,760
 She didn't want Darren to miss it.
 
-27
-00:01:38,470 --> 00:01:42,300
+26
+00:01:38,880 --> 00:01:41,200
 'Darren Miller, come down right now!'
 
-28
-00:01:42,300 --> 00:01:47,850
-When Darren got downstairs, the door to the
-garden was open.
+27
+00:01:42,960 --> 00:01:46,560
+When Darren got downstairs, the 
+door to the garden was open.
 
-29
-00:01:47,850 --> 00:01:50,040
+28
+00:01:47,600 --> 00:01:49,920
 He could see both his parents outside.
 
-30
-00:01:50,040 --> 00:01:55,360
-They were looking up, their faces lit by a
-gentle light.
+29
+00:01:50,640 --> 00:01:54,240
+They were looking up, their 
+faces lit by a gentle light.
 
-31
-00:01:55,360 --> 00:01:58,240
+30
+00:01:55,120 --> 00:01:57,120
 He went out and stood next to them.
 
-32
-00:01:58,240 --> 00:02:01,160
+31
+00:01:57,920 --> 00:01:59,520
 Then he, too, looked up.
 
-33
-00:02:01,160 --> 00:02:04,440
+32
+00:02:00,880 --> 00:02:03,680
 It was, indeed, a lovely thing to see.
 
-34
-00:02:04,440 --> 00:02:07,840
+33
+00:02:04,800 --> 00:02:06,880
 Darren was pleased his mum had called him.
 
-35
-00:02:07,840 --> 00:02:11,200
+34
+00:02:07,680 --> 00:02:10,320
 The sky was full of beautiful, coloured light.
 
+35
+00:02:10,960 --> 00:02:16,240
+It made Darren think of Christmas lights and all 
+the bright colours he loved when he was younger.
+
 36
-00:02:11,200 --> 00:02:15,840
-It made Darren think of Christmas lights and
-all the bright colours he loved when he was
+00:02:17,200 --> 00:02:21,840
+It was so beautiful that he 
+almost forgot about his spots.
 
 37
-00:02:15,840 --> 00:02:17,480
-younger.
-
-38
-00:02:17,480 --> 00:02:23,190
-It was so beautiful that he almost forgot
-about his spots.
-
-39
-00:02:23,190 --> 00:02:29,510
-The next day all of the newspapers were full
+00:02:22,960 --> 00:02:28,160
+The next day all of the newspapers were full 
 of pictures and stories about the comet.
 
+38
+00:02:29,200 --> 00:02:31,920
+Some of the newspapers were 
+quite excited about it,  
+
+39
+00:02:32,560 --> 00:02:35,840
+because the comet had passed 
+very close to the Earth.
+
 40
-00:02:29,510 --> 00:02:34,310
-Some of the newspapers were quite excited
-about it, because the comet had passed very
+00:02:36,640 --> 00:02:40,640
+'Comet nearly hits Earth!' said 
+one headline in a newspaper.
 
 41
-00:02:34,310 --> 00:02:35,920
-close to the Earth.
-
-42
-00:02:35,920 --> 00:02:41,580
-'Comet nearly hits Earth!' said one headline
-in a newspaper.
-
-43
-00:02:41,580 --> 00:02:44,819
+00:02:41,760 --> 00:02:44,480
 'Earth escapes comet!' said another.
 
+42
+00:02:45,680 --> 00:02:49,840
+Most of the newspaper reports also 
+mentioned the beauty of the comet.
+
+43
+00:02:50,720 --> 00:02:54,640
+They all said how lucky we were 
+to see such a wonderful thing.
+
 44
-00:02:44,819 --> 00:02:50,910
-Most of the newspaper reports also mentioned
-the beauty of the comet.
+00:02:56,400 --> 00:02:59,440
+Of course, there were the usual pessimists  
 
 45
-00:02:50,910 --> 00:02:55,300
-They all said how lucky we were to see such
-a wonderful thing.
+00:02:59,440 --> 00:03:04,320
+who said that the comet would put 
+something nasty into the air we breathe.
 
 46
-00:02:55,300 --> 00:03:01,480
-Of course, there were the usual pessimists
-who said that the comet would put something
+00:03:04,320 --> 00:03:08,320
+Others said the comet was a sign 
+that the end of the Earth was coming.
 
 47
-00:03:01,480 --> 00:03:04,200
-nasty into the air we breathe.
+00:03:09,120 --> 00:03:12,640
+However, most people took 
+no notice of these warnings.
 
 48
-00:03:04,200 --> 00:03:09,260
-Others said the comet was a sign that the
-end of the Earth was coming.
-
-49
-00:03:09,260 --> 00:03:13,360
-However, most people took no notice of these
-warnings.
-
-50
-00:03:13,360 --> 00:03:16,290
+00:03:13,600 --> 00:03:15,360
 Life went on as usual.
 
+49
+00:03:16,960 --> 00:03:21,040
+Life for Darren meant getting ready 
+for school again after the holidays.
+
+50
+00:03:22,160 --> 00:03:26,240
+Comets were nice but now he had more 
+important things to think about.
+
 51
-00:03:16,290 --> 00:03:21,310
-Life for Darren meant getting ready for school
-again after the holidays.
+00:03:27,040 --> 00:03:32,000
+He had to make himself look 
+good for the beautiful Vanessa.
 
 52
-00:03:21,310 --> 00:03:26,580
-Comets were nice but now he had more important
-things to think about.
-
-53
-00:03:26,580 --> 00:03:32,490
-He had to make himself look good for the beautiful
-Vanessa.
-
-54
-00:03:32,490 --> 00:03:37,599
-Darrens school was just an ordinary school
+00:03:32,000 --> 00:03:36,640
+Darrens school was just an ordinary school 
 in the city of Sheffield in England.
 
-55
-00:03:37,599 --> 00:03:40,100
-It was no better than any other school in
-Sheffield.
+53
+00:03:37,360 --> 00:03:40,080
+It was no better than any 
+other school in Sheffield.
 
-56
-00:03:40,100 --> 00:03:44,860
+54
+00:03:40,800 --> 00:03:42,880
 But it did have Vanessa.
 
-57
-00:03:44,860 --> 00:03:49,660
-Vanessa was a brown-haired, brown-eyed girl
-in the same year as Darren.
+55
+00:03:44,400 --> 00:03:48,640
+Vanessa was a brown-haired, brown-eyed 
+girl in the same year as Darren.
 
-58
-00:03:49,660 --> 00:03:51,610
+56
+00:03:49,440 --> 00:03:51,360
 She had smiled at Darren once.
 
-59
-00:03:51,610 --> 00:03:53,120
+57
+00:03:51,360 --> 00:03:52,480
 He remembered it well.
 
+58
+00:03:53,520 --> 00:03:56,240
+It had happened in the last 
+week before the holidays.
+
+59
+00:03:57,360 --> 00:04:00,240
+He had let her go in front of 
+him in the queue for lunch.
+
 60
-00:03:53,120 --> 00:03:56,880
-It had happened in the last week before the
-holidays.
+00:04:01,120 --> 00:04:05,760
+She hadn't said 'thank you,' but 
+she had given him a little smile.
 
 61
-00:03:56,880 --> 00:04:01,349
-He had let her go in front of him in the queue
-for lunch.
-
-62
-00:04:01,349 --> 00:04:06,739
-She hadn't said 'thank you,' but she had given
-him a little smile.
-
-63
-00:04:06,739 --> 00:04:10,800
+00:04:06,480 --> 00:04:08,960
 It had showed her perfect white teeth.
 
-64
-00:04:10,800 --> 00:04:13,720
+62
+00:04:10,560 --> 00:04:12,880
 He had been too nervous to speak to her.
 
-65
-00:04:13,720 --> 00:04:15,520
+63
+00:04:13,520 --> 00:04:15,040
 He just couldn't do it.
 
-66
-00:04:15,520 --> 00:04:20,579
-It would be easier, he felt, to grow wings
-and fly up to the ceiling.
+64
+00:04:15,840 --> 00:04:20,160
+It would be easier, he felt, to grow 
+wings and fly up to the ceiling.
 
-67
-00:04:20,579 --> 00:04:24,259
+65
+00:04:21,280 --> 00:04:22,960
 This time he would be ready.
 
+66
+00:04:24,000 --> 00:04:28,080
+He would put on lots of deodorant 
+to make himself smell nice.
+
+67
+00:04:28,080 --> 00:04:33,360
+He wanted to have another look at his 
+spots and, just maybe, have a shave.
+
 68
-00:04:24,259 --> 00:04:28,319
-He would put on lots of deodorant to make
-himself smell nice.
+00:04:34,560 --> 00:04:35,920
+The night before  
 
 69
-00:04:28,319 --> 00:04:34,740
-He wanted to have another look at his spots
-and, just maybe, have a shave.
+00:04:35,920 --> 00:04:41,840
+he had felt something above his mouth that 
+might be the first hairs of a moustache.
 
 70
-00:04:34,740 --> 00:04:40,960
-The night before he had felt something above
-his mouth that might be the first hairs of
+00:04:42,480 --> 00:04:46,320
+He made sure he got to the bathroom 
+before everyone else that morning.
 
 71
-00:04:40,960 --> 00:04:41,990
-a moustache.
+00:04:47,040 --> 00:04:49,600
+He wanted to have a close look at those spots...
 
 72
-00:04:41,990 --> 00:04:47,219
-He made sure he got to the bathroom before
-everyone else that morning.
-
-73
-00:04:47,219 --> 00:04:52,080
-He wanted to have a close look at those spots...
+00:04:50,400 --> 00:04:52,080
 and his new moustache.
 
+73
+00:04:53,280 --> 00:04:58,320
+'Darren, will you be in there for 
+a long time?' It was Darren's mum.
+
 74
-00:04:52,080 --> 00:04:57,389
-'Darren, will you be in there for a long time?'
-
-75
-00:04:57,389 --> 00:04:58,559
-It was Darren's mum.
-
-76
-00:04:58,559 --> 00:05:02,960
+00:04:59,280 --> 00:05:01,200
 'Your father wants to use the bathroom.'
 
-77
-00:05:02,960 --> 00:05:06,600
-Darren knew his dad always spent ages in the
-bathroom.
+75
+00:05:02,560 --> 00:05:05,840
+Darren knew his dad always 
+spent ages in the bathroom.
 
-78
-00:05:06,600 --> 00:05:09,939
+76
+00:05:06,480 --> 00:05:10,320
 Well, his dad could wait today, for a change.
 
-79
-00:05:09,939 --> 00:05:13,840
+77
+00:05:10,320 --> 00:05:13,200
 'I'll be out soon, Mum,' said Darren.
 
-80
-00:05:13,840 --> 00:05:16,349
+78
+00:05:14,080 --> 00:05:15,200
 But he was lying.
 
-81
-00:05:16,349 --> 00:05:19,370
+79
+00:05:16,080 --> 00:05:18,960
 He wanted to look good and smell good.
 
-82
-00:05:19,370 --> 00:05:21,529
+80
+00:05:19,520 --> 00:05:21,040
 It could take a long time.
 
-83
-00:05:21,529 --> 00:05:26,960
+81
+00:05:22,400 --> 00:05:25,840
 His new deodorant smelled very good this morning.
 
+82
+00:05:26,720 --> 00:05:30,400
+He suddenly noticed all the 
+different smells that went into it.
+
+83
+00:05:31,200 --> 00:05:36,640
+There were flowers, spices - lots of 
+things he had never smelled before.
+
 84
-00:05:26,960 --> 00:05:31,039
-He suddenly noticed all the different smells
-that went into it.
-
-85
-00:05:31,039 --> 00:05:37,910
-There were flowers, spices - lots of things
-he had never smelled before.
-
-86
-00:05:37,910 --> 00:05:41,210
+00:05:37,600 --> 00:05:39,680
 His nose felt a bit wet too.
 
+85
+00:05:40,880 --> 00:05:45,280
+Was he getting a cold? Probably not, 
+if he could smell things so well.
+
+86
+00:05:46,400 --> 00:05:49,600
+Darren walked over to the 
+mirror and looked at his face.
+
 87
-00:05:41,210 --> 00:05:42,470
-Was he getting a cold?
-
-88
-00:05:42,470 --> 00:05:46,180
-Probably not, if he could smell things so
-well.
-
-89
-00:05:46,180 --> 00:05:50,789
-Darren walked over to the mirror and looked
-at his face.
-
-90
-00:05:50,789 --> 00:05:54,360
+00:05:50,480 --> 00:05:52,880
 His face looked worse than ever!
 
-91
-00:05:54,360 --> 00:05:56,509
+88
+00:05:54,080 --> 00:05:56,240
 His nose was wet and shiny.
 
-92
-00:05:56,509 --> 00:06:01,029
+89
+00:05:56,960 --> 00:05:59,920
 It was moving a lot, like an animal's nose.
 
-93
-00:06:01,029 --> 00:06:03,819
+90
+00:06:00,800 --> 00:06:03,440
 It looked like a rabbit smelling its breakfast.
 
-94
-00:06:03,819 --> 00:06:07,810
+91
+00:06:04,240 --> 00:06:06,720
 But this wasn't the most shocking thing.
 
-95
-00:06:07,810 --> 00:06:11,339
+92
+00:06:07,520 --> 00:06:10,880
 His top lip had long, thick hairs on it.
 
-96
-00:06:11,339 --> 00:06:14,270
+93
+00:06:11,520 --> 00:06:14,000
 They were like the hairs on an animal's nose.
 
-97
-00:06:14,270 --> 00:06:18,090
+94
+00:06:14,880 --> 00:06:17,120
 They were like the whiskers of a rabbit!
 
-98
-00:06:18,090 --> 00:06:20,930
+95
+00:06:18,160 --> 00:06:19,840
 Darren screamed.
 
-99
-00:06:20,930 --> 00:06:25,569
+96
+00:06:21,440 --> 00:06:25,520
 Time: the present Place: Singapore
 
-100
-00:06:25,569 --> 00:06:30,639
+97
+00:06:27,200 --> 00:06:30,480
 Julie Ong had been fourteen for three weeks.
 
-101
-00:06:30,639 --> 00:06:35,529
+98
+00:06:31,440 --> 00:06:33,840
 A lot of her friends were fourteen too.
 
+99
+00:06:35,360 --> 00:06:38,240
+They all agreed that a young 
+woman should watch her weight.
+
+100
+00:06:39,120 --> 00:06:43,120
+It was especially important 
+not to eat sweets and cakes.
+
+101
+00:06:44,160 --> 00:06:47,840
+Julie hadn't eaten a cake or a piece 
+of chocolate since her birthday.
+
 102
-00:06:35,529 --> 00:06:38,689
-They all agreed that a young woman should
-watch her weight.
+00:06:48,800 --> 00:06:53,120
+But there were still no signs that her 
+parents saw Julie as a young woman.
 
 103
-00:06:38,689 --> 00:06:44,569
-It was especially important not to eat sweets
-and cakes.
-
-104
-00:06:44,569 --> 00:06:48,089
-Julie hadn't eaten a cake or a piece of chocolate
-since her birthday.
-
-105
-00:06:48,089 --> 00:06:54,199
-But there were still no signs that her parents
-saw Julie as a young woman.
-
-106
-00:06:54,199 --> 00:06:57,219
+00:06:54,080 --> 00:06:56,480
 To them, she was still a child.
 
-107
-00:06:57,219 --> 00:07:01,039
-Then there was the strange thing with the
-comet.
+104
+00:06:57,760 --> 00:07:00,080
+Then there was the strange thing with the comet.
 
-108
-00:07:01,039 --> 00:07:03,159
+105
+00:07:00,640 --> 00:07:02,400
 Everybody was talking about it.
 
-109
-00:07:03,159 --> 00:07:07,389
-Julies English teacher gave her class homework
-about it.
+106
+00:07:03,520 --> 00:07:06,720
+Julies English teacher gave 
+her class homework about it.
 
-110
-00:07:07,389 --> 00:07:11,360
+107
+00:07:07,920 --> 00:07:10,400
 They had to describe the comet in a poem.
 
+108
+00:07:11,120 --> 00:07:19,360
+It was so unfair! The comet had been quite 
+beautiful, but writing about it was no fun at all.
+
+109
+00:07:20,480 --> 00:07:24,080
+Julie decided to take a break 
+from her Sunday morning homework.
+
+110
+00:07:24,880 --> 00:07:29,840
+Instead of writing she would comb 
+her long black hair in the mirror.
+
 111
-00:07:11,360 --> 00:07:13,899
-It was so unfair!
+00:07:30,560 --> 00:07:33,280
+It was more interesting than 
+writing a poem, at least.
 
 112
-00:07:13,899 --> 00:07:20,009
-The comet had been quite beautiful, but writing
-about it was no fun at all.
+00:07:34,080 --> 00:07:36,960
+Her parents wouldn't notice 
+that she was wasting time.
 
 113
-00:07:20,009 --> 00:07:25,100
-Julie decided to take a break from her Sunday
-morning homework.
+00:07:38,000 --> 00:07:41,840
+She could hear them at the other end 
+of the house talking about the comet.
 
 114
-00:07:25,100 --> 00:07:30,819
-Instead of writing she would comb her long
-black hair in the mirror.
+00:07:42,960 --> 00:07:46,240
+They weren't talking loudly, 
+but she could still hear them.
 
 115
-00:07:30,819 --> 00:07:34,069
-It was more interesting than writing a poem,
-at least.
-
-116
-00:07:34,069 --> 00:07:38,249
-Her parents wouldn't notice that she was wasting
-time.
-
-117
-00:07:38,249 --> 00:07:42,089
-She could hear them at the other end of the
-house talking about the comet.
-
-118
-00:07:42,089 --> 00:07:46,580
-They weren't talking loudly, but she could
-still hear them.
-
-119
-00:07:46,580 --> 00:07:49,809
+00:07:46,960 --> 00:07:48,800
 Her hearing wasn't normally that good.
 
-120
-00:07:49,809 --> 00:07:51,759
+116
+00:07:49,600 --> 00:07:50,720
 It was very odd.
 
-121
-00:07:51,759 --> 00:07:58,219
-Julie picked up her hairbrush - her favourite
-pink one - and walked towards her bedroom
+117
+00:07:52,320 --> 00:07:58,400
+Julie picked up her hairbrush - her favourite 
+pink one - and walked towards her bedroom mirror.
 
-122
-00:07:58,219 --> 00:07:59,219
-mirror.
+118
+00:07:59,440 --> 00:08:04,320
+But when she looked at herself, she 
+immediately noticed something strange.
 
-123
-00:07:59,219 --> 00:08:04,469
-But when she looked at herself, she immediately
-noticed something strange.
+119
+00:08:05,280 --> 00:08:09,680
+There were two things rising 
+up and out from her hair.
 
-124
-00:08:04,469 --> 00:08:10,800
-There were two things rising up and out from
-her hair.
-
-125
-00:08:10,800 --> 00:08:13,280
+120
+00:08:10,560 --> 00:08:12,800
 They were on both sides of her head.
 
-126
-00:08:13,280 --> 00:08:19,960
-Julie pushed back her hair and saw that the
-two things were her ears.
+121
+00:08:13,920 --> 00:08:19,760
+Julie pushed back her hair and saw 
+that the two things were her ears.
 
-127
-00:08:19,960 --> 00:08:29,949
-They were now pointed at the top, like an
+122
+00:08:20,960 --> 00:08:26,560
+They were now pointed at the top, like an 
 animal's ears, and they were bigger too.
 
-128
-00:08:29,949 --> 00:08:31,419
+123
+00:08:27,680 --> 00:08:28,480
 Much bigger.
 
-129
-00:08:31,419 --> 00:08:32,899
+124
+00:08:29,680 --> 00:08:31,120
 Julie fainted.
 
-130
-00:08:32,899 --> 00:08:37,440
-Darrens new whiskers grew even longer over
-the next week.
+125
+00:08:32,720 --> 00:08:36,800
+Darrens new whiskers grew even 
+longer over the next week.
 
-131
-00:08:37,440 --> 00:08:42,419
-His nose became much, much better at smelling
-things too.
+126
+00:08:37,760 --> 00:08:41,680
+His nose became much, much 
+better at smelling things too.
 
-132
-00:08:42,419 --> 00:08:47,930
-He could smell almost anything from a long
-distance away now.
+127
+00:08:42,800 --> 00:08:46,640
+He could smell almost anything 
+from a long distance away now.
 
-133
-00:08:47,930 --> 00:08:52,069
+128
+00:08:47,680 --> 00:08:51,280
 His dad had his own smell, so had his mum.
 
-134
-00:08:52,069 --> 00:08:54,920
+129
+00:08:52,240 --> 00:08:53,840
 Everybody had their own smell.
 
-135
-00:08:54,920 --> 00:09:00,510
-Having a good nose was useful and Darren liked
-it.
+130
+00:08:55,600 --> 00:08:59,280
+Having a good nose was useful and Darren liked it.
 
-136
-00:09:00,510 --> 00:09:05,460
-He liked his whiskers too, and he couldn't
-really shave them off.
+131
+00:09:00,320 --> 00:09:04,560
+He liked his whiskers too, and he 
+couldn't really shave them off.
 
-137
-00:09:05,460 --> 00:09:08,029
+132
+00:09:05,200 --> 00:09:07,840
 It would hurt, he was sure, if he tried.
 
-138
-00:09:08,029 --> 00:09:12,180
+133
+00:09:08,880 --> 00:09:11,120
 Anyway, he was getting used to them.
 
-139
-00:09:12,180 --> 00:09:19,610
-In Singapore, Julie Ong discovered that her
-hearing had become extremely good.
+134
+00:09:12,720 --> 00:09:18,480
+In Singapore, Julie Ong discovered that 
+her hearing had become extremely good.
 
-140
-00:09:19,610 --> 00:09:23,410
+135
+00:09:19,360 --> 00:09:21,840
 She could hear almost everything.
 
-141
-00:09:23,410 --> 00:09:29,800
-Darren didn't know it yet, but the beautiful
+136
+00:09:22,960 --> 00:09:28,720
+Darren didn't know it yet, but the beautiful 
 Vanessa had now grown long teeth like a cat's.
 
-142
-00:09:29,800 --> 00:09:31,990
+137
+00:09:29,600 --> 00:09:30,880
 She had whiskers too.
 
-143
-00:09:31,990 --> 00:09:36,230
-And suddenly she seemed to enjoy eating a
-lot of fish.
+138
+00:09:31,760 --> 00:09:35,840
+And suddenly she seemed to 
+enjoy eating a lot of fish.
 
-144
-00:09:36,230 --> 00:09:42,069
+139
+00:09:36,800 --> 00:09:40,640
 Darren, Julie and Vanessa were not alone.
 
-145
-00:09:42,069 --> 00:09:46,370
-Sudden changes were happening all over the
-world.
+140
+00:09:42,400 --> 00:09:45,760
+Sudden changes were happening all over the world.
 
-146
-00:09:46,370 --> 00:09:52,529
-Many young people between the ages of twelve
-and eighteen had developed the special strength
+141
+00:09:46,800 --> 00:09:49,840
+Many young people between the 
+ages of twelve and eighteen  
 
-147
-00:09:52,529 --> 00:09:55,110
-of some kind of animal.
+142
+00:09:50,560 --> 00:09:53,680
+had developed the special 
+strength of some kind of animal.
 
-148
-00:09:55,110 --> 00:10:01,340
-Sometimes it wasn't immediately obvious - like
-having the fantastic eyesight of a hunting
+143
+00:09:54,800 --> 00:10:01,280
+Sometimes it wasn't immediately obvious - like 
+having the fantastic eyesight of a hunting bird.
 
-149
-00:10:01,340 --> 00:10:02,340
-bird.
-
-150
-00:10:02,340 --> 00:10:06,310
+144
+00:10:02,240 --> 00:10:04,880
 But often the changes were obvious.
 
+145
+00:10:06,000 --> 00:10:10,000
+Some had grown long tails and they 
+could hold on to things with them.
+
+146
+00:10:11,280 --> 00:10:16,320
+Some had webbed skin on their hands 
+and feet so that they could swim fast.
+
+147
+00:10:17,440 --> 00:10:23,600
+Some had the strength of a bull; 
+others could run as fast as a horse.
+
+148
+00:10:24,640 --> 00:10:29,440
+They all looked human still, but 
+in some way they had changed.
+
+149
+00:10:30,480 --> 00:10:34,160
+Of course, adults everywhere 
+were extremely worried.
+
+150
+00:10:34,960 --> 00:10:39,280
+Why had their children changed? 
+What had produced the changes?  
+
 151
-00:10:06,310 --> 00:10:11,620
-Some had grown long tails and they could hold
-on to things with them.
-
-152
-00:10:11,620 --> 00:10:17,830
-Some had webbed skin on their hands and feet
-so that they could swim fast.
-
-153
-00:10:17,830 --> 00:10:24,829
-Some had the strength of a bull; others could
-run as fast as a horse.
-
-154
-00:10:24,829 --> 00:10:30,360
-They all looked human still, but in some way
-they had changed.
-
-155
-00:10:30,360 --> 00:10:35,170
-Of course, adults everywhere were extremely
-worried.
-
-156
-00:10:35,170 --> 00:10:37,790
-Why had their children changed?
-
-157
-00:10:37,790 --> 00:10:40,290
-What had produced the changes?
-
-158
-00:10:40,290 --> 00:10:43,180
+00:10:40,000 --> 00:10:42,240
 What could they do to help their children?
 
-159
-00:10:43,180 --> 00:10:48,550
-Darren discovered that his amazing nose had
-many advantages too.
+152
+00:10:43,760 --> 00:10:47,920
+Darren discovered that his amazing 
+nose had many advantages too.
 
-160
-00:10:48,550 --> 00:10:54,960
-He found that he could tell what mood people
-were in just by their smell - even if they
+153
+00:10:48,960 --> 00:10:52,240
+He found that he could tell 
+what mood people were in  
 
-161
-00:10:54,960 --> 00:10:57,950
-were trying to hide it.
+154
+00:10:52,240 --> 00:10:56,160
+just by their smell - even if 
+they were trying to hide it.
 
-162
-00:10:57,950 --> 00:10:59,529
+155
+00:10:57,520 --> 00:10:59,920
 That was useful.
 
+156
+00:10:59,920 --> 00:11:03,600
+This new sense of smell was 
+useful in other ways too.
+
+157
+00:11:04,720 --> 00:11:09,120
+If he lost something, he could 
+always find it by using his nose.
+
+158
+00:11:10,080 --> 00:11:14,400
+He helped his mum buy the freshest 
+and tastiest food in the supermarket.
+
+159
+00:11:15,520 --> 00:11:18,800
+He now used deodorant which 
+didn't have a strong smell.
+
+160
+00:11:19,760 --> 00:11:22,880
+His new nose didn't like strong smells any more.
+
+161
+00:11:24,400 --> 00:11:27,840
+'You'd better not get too 
+used to it,' said his dad.
+
+162
+00:11:28,480 --> 00:11:31,520
+'Some day soon we'll be able to 
+get you back the way you were.'
+
 163
-00:10:59,529 --> 00:11:04,290
-This new sense of smell was useful in other
-ways too.
-
-164
-00:11:04,290 --> 00:11:10,339
-If he lost something, he could always find
-it by using his nose.
-
-165
-00:11:10,339 --> 00:11:15,770
-He helped his mum buy the freshest and tastiest
-food in the supermarket.
-
-166
-00:11:15,770 --> 00:11:19,300
-He now used deodorant which didn't have a
-strong smell.
-
-167
-00:11:19,300 --> 00:11:23,820
-His new nose didn't like strong smells any
-more.
-
-168
-00:11:23,820 --> 00:11:28,360
-'You'd better not get too used to it,' said
-his dad.
-
-169
-00:11:28,360 --> 00:11:32,550
-'Some day soon we'll be able to get you back
-the way you were.'
-
-170
-00:11:32,550 --> 00:11:35,810
+00:11:33,120 --> 00:11:35,200
 'Maybe, Dad,' Darren said.
 
-171
-00:11:35,810 --> 00:11:40,720
-'But what if I don't want to go back to the
-way I was?'
+164
+00:11:36,080 --> 00:11:38,640
+'But what if I don't want to 
+go back to the way I was?'
 
-172
-00:11:40,720 --> 00:11:43,660
+165
+00:11:40,240 --> 00:11:42,240
 Darrens father didn't say anything.
 
-173
-00:11:43,660 --> 00:11:48,740
-Like many other parents, he didn't understand
+166
+00:11:43,360 --> 00:11:48,000
+Like many other parents, he didn't understand 
 how his son could like the changes.
 
-174
-00:11:48,740 --> 00:11:54,259
-He wanted the old Darren back - the Darren
-without the whiskers and the amazing sense
+167
+00:11:48,560 --> 00:11:55,920
+He wanted the old Darren back - the Darren without 
+the whiskers and the amazing sense of smell.
 
-175
-00:11:54,259 --> 00:11:56,240
-of smell.
+168
+00:11:55,920 --> 00:11:58,560
+And why had some young people changed  
 
-176
-00:11:56,240 --> 00:12:00,680
-And why had some young people changed while
-others hadn't?
+169
+00:11:58,560 --> 00:12:03,680
+while others hadn't? That was the question 
+every adult in the world was asking.
 
-177
-00:12:00,680 --> 00:12:05,730
-That was the question every adult in the world
-was asking.
+170
+00:12:05,360 --> 00:12:08,480
+Some adults blamed the children 
+themselves for the changes.
 
-178
-00:12:05,730 --> 00:12:09,509
-Some adults blamed the children themselves
-for the changes.
+171
+00:12:09,280 --> 00:12:14,960
+They said they watched too much TV or ate the 
+wrong things or didn't behave in the right way.
 
-179
-00:12:09,509 --> 00:12:14,899
-They said they watched too much TV or ate
-the wrong things or didn't behave in the right
-
-180
-00:12:14,899 --> 00:12:16,920
-way.
-
-181
-00:12:16,920 --> 00:12:19,129
+172
+00:12:16,560 --> 00:12:18,560
 Most people blamed the comet.
 
-182
-00:12:19,129 --> 00:12:23,260
-'Comet causes horrible teenage changes!'
+173
+00:12:19,760 --> 00:12:22,400
+'Comet causes horrible teenage changes!'  
 
-183
-00:12:23,260 --> 00:12:27,199
-was the kind of headline found on the front
-page of many newspapers.
+174
+00:12:22,960 --> 00:12:26,720
+was the kind of headline found on 
+the front page of many newspapers.
 
-184
-00:12:27,199 --> 00:12:30,540
+175
+00:12:27,520 --> 00:12:29,200
 They all had similar stories.
 
-185
-00:12:30,540 --> 00:12:36,120
-Everybody was saying that it must have been
-the comet - what else could it have been?
+176
+00:12:30,160 --> 00:12:34,960
+Everybody was saying that it must have 
+been the comet - what else could it have  
 
-186
-00:12:36,120 --> 00:12:43,089
-The comet had, in some strange way, affected
-the bodies of some teenagers.
+177
+00:12:34,960 --> 00:12:42,000
+been? The comet had, in some strange way, 
+affected the bodies of some teenagers.
 
-187
-00:12:43,089 --> 00:12:48,459
-'I don't think the changes are horrible!'
-said Julie to her friends.
+178
+00:12:43,760 --> 00:12:48,080
+'I don't think the changes are 
+horrible!' said Julie to her friends.
 
-188
-00:12:48,459 --> 00:12:52,060
+179
+00:12:48,960 --> 00:12:51,840
 'I think my new hearing is very useful.
 
-189
-00:12:52,060 --> 00:12:57,519
+180
+00:12:52,720 --> 00:12:55,440
 I think my ears are rather beautiful too!'
 
-190
-00:12:57,519 --> 00:12:59,540
+181
+00:12:57,200 --> 00:12:59,200
 Some of Julie's friends agreed with her.
 
-191
-00:12:59,540 --> 00:13:02,720
+182
+00:12:59,920 --> 00:13:02,480
 'I like my new wings,' said one.
 
-192
-00:13:02,720 --> 00:13:10,209
-'I can change colour like a chameleon - isn't
-that cool?' said another.
+183
+00:13:03,360 --> 00:13:08,480
+'I can change colour like a chameleon 
+- isn't that cool?' said another.
 
-193
-00:13:10,209 --> 00:13:14,470
-Teenagers everywhere were comparing their
-changes.
+184
+00:13:09,520 --> 00:13:12,560
+Teenagers everywhere were comparing their changes.
 
-194
-00:13:14,470 --> 00:13:19,269
-Some were stronger, others were faster, others
-could jump higher.
+185
+00:13:14,160 --> 00:13:19,840
+Some were stronger, others were 
+faster, others could jump higher.
 
-195
-00:13:19,269 --> 00:13:25,980
-But no matter what changes happened, they
-were still teenagers.
+186
+00:13:19,840 --> 00:13:24,240
+But no matter what changes 
+happened, they were still teenagers.
 
-196
-00:13:25,980 --> 00:13:30,130
+187
+00:13:25,680 --> 00:13:28,560
 But then something strange happened.
 
-197
-00:13:30,130 --> 00:13:34,110
+188
+00:13:29,840 --> 00:13:32,560
 Some teenagers began to return to normal.
 
-198
-00:13:34,110 --> 00:13:38,880
-Some eventually lost all sign of their changes
+189
+00:13:33,760 --> 00:13:39,200
+Some eventually lost all sign of their changes 
 and went back to what they had been before.
 
-199
-00:13:38,880 --> 00:13:39,880
+190
+00:13:40,320 --> 00:13:40,880
 But why?
 
-200
-00:13:39,880 --> 00:13:45,829
+191
+00:13:42,400 --> 00:13:45,200
 The answer came almost by accident.
 
-201
-00:13:45,829 --> 00:13:51,470
-A teen called Danny was given a job in an
-advertisement.
+192
+00:13:46,960 --> 00:13:50,800
+A teen called Danny was given 
+a job in an advertisement.
 
-202
-00:13:51,470 --> 00:13:54,889
+193
+00:13:52,080 --> 00:13:54,320
 Danny had wings and he could fly.
 
-203
-00:13:54,889 --> 00:14:03,250
-In the advertisement, Danny had to fly over
-a childrens party and give out chocolate biscuits.
+194
+00:13:55,680 --> 00:14:01,840
+In the advertisement, Danny had to fly over a 
+childrens party and give out chocolate biscuits.
 
-204
-00:14:03,250 --> 00:14:08,240
-Danny hated chocolate biscuits, but he had
-to eat some during the advertisement.
+195
+00:14:03,040 --> 00:14:08,240
+Danny hated chocolate biscuits, but he 
+had to eat some during the advertisement.
 
-205
-00:14:08,240 --> 00:14:14,459
-It was after he ate his second biscuit that
-something started happening.
+196
+00:14:09,440 --> 00:14:13,760
+It was after he ate his second biscuit 
+that something started happening.
 
-206
-00:14:14,459 --> 00:14:18,480
+197
+00:14:14,880 --> 00:14:17,120
 His wings started to get smaller.
 
-207
-00:14:18,480 --> 00:14:20,749
+198
+00:14:18,000 --> 00:14:20,640
 Soon they disappeared completely.
 
-208
-00:14:20,749 --> 00:14:25,069
+199
+00:14:21,520 --> 00:14:23,040
 He couldn't fly any more.
 
-209
-00:14:25,069 --> 00:14:28,629
+200
+00:14:24,160 --> 00:14:27,120
 Danny was a 'normal' teenager again.
 
-210
-00:14:28,629 --> 00:14:32,089
+201
+00:14:28,400 --> 00:14:29,840
 Why had it happened?
 
-211
-00:14:32,089 --> 00:14:33,089
+202
+00:14:30,880 --> 00:14:32,080
 It was the chocolate.
 
-212
-00:14:33,089 --> 00:14:35,270
+203
+00:14:32,640 --> 00:14:33,520
 It had to be.
 
-213
-00:14:35,270 --> 00:14:39,439
-Scientists tested the effect of chocolate
-on other teenagers.
+204
+00:14:34,800 --> 00:14:38,800
+Scientists tested the effect of 
+chocolate on other teenagers.
 
-214
-00:14:39,439 --> 00:14:45,040
-They discovered that if the teenagers ate
-a few things with chocolate in them, they
+205
+00:14:39,680 --> 00:14:44,720
+They discovered that if the teenagers 
+ate a few things with chocolate in them,  
 
-215
-00:14:45,040 --> 00:14:47,259
-went back to normal.
+206
+00:14:44,720 --> 00:14:46,160
+they went back to normal.
 
-216
-00:14:47,259 --> 00:14:51,690
-The world now knew why some children hadn't
-been affected by the comet.
+207
+00:14:47,040 --> 00:14:51,280
+The world now knew why some children 
+hadn't been affected by the comet.
 
-217
-00:14:51,690 --> 00:14:54,769
+208
+00:14:52,080 --> 00:14:53,680
 The mystery was solved.
 
-218
-00:14:54,769 --> 00:14:59,860
-The comet had only changed teenagers who didn't
-eat chocolate!
+209
+00:14:54,800 --> 00:14:59,120
+The comet had only changed 
+teenagers who didn't eat chocolate!
 
-219
-00:14:59,860 --> 00:15:05,350
-'I don't like chocolate, you know that,' Darren
-told his parents.
+210
+00:15:00,240 --> 00:15:05,200
+'I don't like chocolate, you know 
+that,' Darren told his parents.
 
-220
-00:15:05,350 --> 00:15:07,850
+211
+00:15:05,840 --> 00:15:07,200
 'I've never liked it.'
 
-221
-00:15:07,850 --> 00:15:14,220
-'But all you have to do is eat a bit and you'll
-go back to normal!' said Dad.
+212
+00:15:08,480 --> 00:15:13,280
+'But all you have to do is eat a bit 
+and you'll go back to normal!' said Dad.
 
-222
-00:15:14,220 --> 00:15:18,529
+213
+00:15:14,000 --> 00:15:16,320
 'You want to be normal again, don't you, Darren?'
 
-223
-00:15:18,529 --> 00:15:20,910
+214
+00:15:18,080 --> 00:15:19,760
 Darren thought about Vanessa.
 
-224
-00:15:20,910 --> 00:15:24,209
+215
+00:15:20,720 --> 00:15:22,640
 He liked her new cat looks.
 
-225
-00:15:24,209 --> 00:15:27,610
-Vanessa had found Darrens changes attractive
-too.
+216
+00:15:23,760 --> 00:15:26,560
+Vanessa had found Darrens changes attractive too.
 
-226
-00:15:27,610 --> 00:15:30,440
+217
+00:15:27,360 --> 00:15:29,520
 She had spoken to him quite a lot lately.
 
-227
-00:15:30,440 --> 00:15:36,879
-'If you mean do I want to be like most of
-my friends, then yes.
+218
+00:15:31,040 --> 00:15:35,680
+'If you mean do I want to be like 
+most of my friends, then yes.
 
-228
-00:15:36,879 --> 00:15:41,500
-But some of my friends have changed and we
-like the changes.
+219
+00:15:36,560 --> 00:15:40,400
+But some of my friends have 
+changed and we like the changes.
 
-229
-00:15:41,500 --> 00:15:43,559
-Why should I want to go back?
-
-230
-00:15:43,559 --> 00:15:48,199
+220
+00:15:41,280 --> 00:15:46,080
+Why should I want to go back? 
 Anyway, I hate chocolate.'
 
-231
-00:15:48,199 --> 00:15:52,019
+221
+00:15:47,920 --> 00:15:50,560
 His parents couldn't make him change his mind.
 
-232
-00:15:52,019 --> 00:15:56,310
-Maybe if his friends agreed to change back,
-Darren would too.
+222
+00:15:51,840 --> 00:15:55,600
+Maybe if his friends agreed to 
+change back, Darren would too.
 
-233
-00:15:56,310 --> 00:16:00,230
+223
+00:15:57,200 --> 00:15:59,520
 But that wasn't as easy as it seemed.
 
-234
-00:16:00,230 --> 00:16:05,089
+224
+00:16:00,400 --> 00:16:03,120
 A lot of teenagers felt the same way as Darren.
 
-235
-00:16:05,089 --> 00:16:10,790
-Some adults accepted their new teenagers because
-the changes were useful in daily life.
+225
+00:16:04,800 --> 00:16:10,240
+Some adults accepted their new teenagers 
+because the changes were useful in daily life.
 
-236
-00:16:10,790 --> 00:16:15,939
-If you were faster and stronger, for example,
-you could work better.
+226
+00:16:11,120 --> 00:16:15,120
+If you were faster and stronger, 
+for example, you could work better.
 
-237
-00:16:15,939 --> 00:16:21,370
-But most adults expected that their teenagers
-would want to return to how they had been
+227
+00:16:16,400 --> 00:16:21,840
+But most adults expected that their teenagers 
+would want to return to how they had been before.
 
-238
-00:16:21,370 --> 00:16:22,370
-before.
-
-239
-00:16:22,370 --> 00:16:24,350
+228
+00:16:22,640 --> 00:16:23,600
 Many of them did.
 
-240
-00:16:24,350 --> 00:16:29,990
-But a lot of teenagers simply didn't care
-what the adults wanted.
+229
+00:16:25,280 --> 00:16:29,440
+But a lot of teenagers simply 
+didn't care what the adults wanted.
 
-241
-00:16:29,990 --> 00:16:34,230
+230
+00:16:30,320 --> 00:16:32,400
 They refused to eat the chocolate.
 
-242
-00:16:34,230 --> 00:16:38,809
-In Singapore, Julie Ong finally ate some chocolate.
+231
+00:16:34,000 --> 00:16:38,000
+In Singapore, Julie Ong 
+finally ate some chocolate.
 
-243
-00:16:38,809 --> 00:16:43,130
+232
+00:16:39,120 --> 00:16:41,840
 Soon, her beautiful big ears were gone.
 
-244
-00:16:43,130 --> 00:16:46,220
+233
+00:16:42,880 --> 00:16:45,200
 She often remembered them and was sad.
 
-245
-00:16:46,220 --> 00:16:53,240
-In Sheffield, Darren Miller was using his
-nose to enjoy the sweet smell of the carrots
+234
+00:16:46,800 --> 00:16:50,560
+In Sheffield, Darren Miller was using his nose  
 
-246
-00:16:53,240 --> 00:16:55,880
-growing in Vanessa's garden.
+235
+00:16:50,560 --> 00:16:54,960
+to enjoy the sweet smell of the 
+carrots growing in Vanessa's garden.
 
-247
-00:16:55,880 --> 00:17:01,970
-Vanessa watched him happily as she ate a fish
-on top of the garden wall.
-
-248
-00:17:01,970 --> 00:17:02,159
-- THE END -
-
+236
+00:16:56,160 --> 00:17:02,480
+Vanessa watched him happily as she 
+ate a fish on top of the garden wall.

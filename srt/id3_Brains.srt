@@ -5,7 +5,7 @@ BRAINS
 2
 00:00:05,840 --> 00:00:11,840
 The small monkey carefully completed the 
-last piece of the one-hundred-piece puzzle.  
+last piece of the one-hundred-piece puzzle.
 
 3
 00:00:12,960 --> 00:00:16,400
@@ -18,790 +18,1079 @@ they made a copy of Sunflowers, a 
 picture by the famous painter, Van Gogh.
 
 5
-00:00:24,080 --> 00:00:32,400
-'Well done, Max!' said a young woman in a white 
-coat. 'It only took you twenty minutes this  
+00:00:24,080 --> 00:00:28,480
+'Well done, Max!' said a 
+young woman in a white coat.
 
 6
-00:00:32,400 --> 00:00:39,680
-time - that's much better than the last time 
-you tried it. Have a bite of lovely banana.'
+00:00:29,600 --> 00:00:34,160
+'It only took you twenty 
+minutes this time - that's  
 
 7
-00:00:41,760 --> 00:00:50,400
-The woman reached for the fruit from a bowl close 
-by and gave it to the monkey. Max ate it happily.  
+00:00:34,160 --> 00:00:36,640
+much better than the last time you tried it.
 
 8
-00:00:51,920 --> 00:01:01,680
-The woman's name was Gina Capaldi and she was 
-twenty-six years old. She was studying for a Ph.D.  
+00:00:37,440 --> 00:00:39,680
+Have a bite of lovely banana.'
 
 9
-00:01:02,320 --> 00:01:12,800
-at a university in Rome. She was hoping to become 
-a Doctor of Science. Her ideas had already caused  
+00:00:41,760 --> 00:00:47,600
+The woman reached for the fruit from a 
+bowl close by and gave it to the monkey.
 
 10
-00:01:12,800 --> 00:01:20,320
-much excitement. Now her work was almost 
-finished. Great things were expected of her.
+00:00:48,800 --> 00:00:50,400
+Max ate it happily.
 
 11
-00:01:22,640 --> 00:01:28,720
-As Gina prepared the monkey's next 
-drug, Max played with his Rubik cube.  
+00:00:51,920 --> 00:00:57,840
+The woman's name was Gina Capaldi 
+and she was twenty-six years old.
 
 12
-00:01:30,160 --> 00:01:37,440
-The Rubik cube was one of Max's favourite 
-puzzles. He enjoyed turning around the  
+00:00:59,120 --> 00:01:01,680
+She was studying for a Ph.D.
 
 13
-00:01:37,440 --> 00:01:43,520
-sides of the cube in his hands so that each 
-of the six sides was a different colour.  
+00:01:02,320 --> 00:01:04,240
+at a university in Rome.
 
 14
-00:01:44,880 --> 00:01:50,560
-Gina looked over at him and was pleased. 
-He was getting better every day.
+00:01:05,520 --> 00:01:08,560
+She was hoping to become a Doctor of Science.
 
 15
+00:01:10,160 --> 00:01:13,840
+Her ideas had already caused much excitement.
+
+16
+00:01:15,040 --> 00:01:17,120
+Now her work was almost finished.
+
+17
+00:01:18,080 --> 00:01:20,320
+Great things were expected of her.
+
+18
+00:01:22,640 --> 00:01:28,720
+As Gina prepared the monkey's next 
+drug, Max played with his Rubik cube.
+
+19
+00:01:30,160 --> 00:01:34,000
+The Rubik cube was one of Max's favourite puzzles.
+
+20
+00:01:35,120 --> 00:01:39,200
+He enjoyed turning around the 
+sides of the cube in his hands  
+
+21
+00:01:39,840 --> 00:01:43,520
+so that each of the six 
+sides was a different colour.
+
+22
+00:01:44,880 --> 00:01:47,360
+Gina looked over at him and was pleased.
+
+23
+00:01:48,240 --> 00:01:50,560
+He was getting better every day.
+
+24
 00:01:52,320 --> 00:01:56,240
 Max completed the Rubik cube in five minutes.
 
-16
-00:02:00,160 --> 00:02:10,400
-Mr Dimitri sat behind a big desk in a large office 
-in a huge building in New York. On the front of  
-
-17
-00:02:10,400 --> 00:02:21,280
-his desk was a sign in gold letters which read: 
-Mr Theodore Dimitri. On his door there was a much  
-
-18
-00:02:21,280 --> 00:02:30,320
-bigger sign which read: President of the Centre 
-for Science and Business Development (CSBD).
-
-19
-00:02:32,320 --> 00:02:40,320
-Mr Dimitri was middle-aged and wore a 
-large dark-grey suit. He smoked a thick  
-
-20
-00:02:40,320 --> 00:02:45,520
-expensive cigar. The smoke 
-from his cigar filled the room.
-
-21
-00:02:47,040 --> 00:02:54,080
-Today he was going to see his most promising 
-new scientists. They were all studying for  
-
-22
-00:02:54,080 --> 00:03:01,760
-Ph.D.s so that they could become Doctors of 
-Science. They had to give him their new ideas  
-
-23
-00:03:01,760 --> 00:03:13,680
-if they wanted money from the CSBD. Mr Dimitri 
-did this every year. If he liked their work, CSBD  
-
-24
-00:03:13,680 --> 00:03:19,920
-would give them lots of money to develop it. 
-That was the way to make money in the future.
-
 25
-00:03:21,280 --> 00:03:29,920
-And Mr Dimitri was good at making money. But 
-if he didn't like the work of these scientists,  
+00:02:00,160 --> 00:02:08,400
+Mr Dimitri sat behind a big desk in a large 
+office in a huge building in New York.
 
 26
-00:03:29,920 --> 00:03:34,080
-or if he didn't like them, he 
-didn't have to give them a cent.  
+00:02:09,600 --> 00:02:17,600
+On the front of his desk was a sign in gold 
+letters which read: Mr Theodore Dimitri.
 
 27
+00:02:19,040 --> 00:02:22,160
+On his door there was a much bigger sign  
+
+28
+00:02:22,160 --> 00:02:30,320
+which read: President of the Centre for 
+Science and Business Development (CSBD).
+
+29
+00:02:32,320 --> 00:02:37,520
+Mr Dimitri was middle-aged and 
+wore a large dark-grey suit.
+
+30
+00:02:38,800 --> 00:02:41,840
+He smoked a thick expensive cigar.
+
+31
+00:02:42,720 --> 00:02:45,520
+The smoke from his cigar filled the room.
+
+32
+00:02:47,040 --> 00:02:51,440
+Today he was going to see his 
+most promising new scientists.
+
+33
+00:02:52,560 --> 00:02:58,000
+They were all studying for Ph.D.s so that 
+they could become Doctors of Science.
+
+34
+00:02:59,040 --> 00:03:04,800
+They had to give him their new ideas 
+if they wanted money from the CSBD.
+
+35
+00:03:06,160 --> 00:03:08,720
+Mr Dimitri did this every year.
+
+36
+00:03:09,760 --> 00:03:16,240
+If he liked their work, CSBD would 
+give them lots of money to develop it.
+
+37
+00:03:17,280 --> 00:03:19,920
+That was the way to make money in the future.
+
+38
+00:03:21,280 --> 00:03:24,960
+And Mr Dimitri was good at making money.
+
+39
+00:03:26,400 --> 00:03:29,920
+But if he didn't like the 
+work of these scientists,  
+
+40
+00:03:29,920 --> 00:03:34,080
+or if he didn't like them, he 
+didn't have to give them a cent.
+
+41
 00:03:35,440 --> 00:03:40,560
 'After all,' Mr Dimitri 
 thought, 'Business is business.'
 
-28
+42
 00:03:42,640 --> 00:03:45,840
 Miss Epstein, his secretary, came into his office.
 
-29
+43
 00:03:47,440 --> 00:03:52,000
 'Miss Capaldi to see you, 
 Mr Dimitri, sir,' she said.
 
-30
+44
 00:03:53,280 --> 00:04:00,320
 'Send her in, Miss Epstein,' said Mr Dimitri 
 in a voice which was cold and business-like.
 
-31
-00:04:02,400 --> 00:04:10,320
-Gina Capaldi stood in her best suit and shoes 
-in front of the big desk. She wanted to look  
+45
+00:04:02,400 --> 00:04:08,240
+Gina Capaldi stood in her best suit 
+and shoes in front of the big desk.
 
-32
-00:04:10,320 --> 00:04:19,520
-her best before Mr Dimitri. In her bag was all the 
-information needed about her work. She felt ready.
+46
+00:04:09,360 --> 00:04:12,240
+She wanted to look her best before Mr Dimitri.
 
-33
-00:04:21,920 --> 00:04:27,840
-'Do sit down, Miss Capaldi. I've 
-heard so many good things about you,'  
+47
+00:04:13,440 --> 00:04:17,440
+In her bag was all the 
+information needed about her work.
 
-34
+48
+00:04:18,400 --> 00:04:19,520
+She felt ready.
+
+49
+00:04:21,920 --> 00:04:24,320
+'Do sit down, Miss Capaldi.
+
+50
+00:04:24,880 --> 00:04:27,840
+I've heard so many good things about you,'  
+
+51
 00:04:29,120 --> 00:04:34,480
 said Mr Dimitri in a voice that 
 now sounded friendly and welcoming.
 
-35
-00:04:36,000 --> 00:04:45,600
-'Thank you, Mr Dimitri,' said Gina. She sat down 
-in front of the big desk. Then Miss Epstein seemed  
+52
+00:04:36,000 --> 00:04:38,960
+'Thank you, Mr Dimitri,' said Gina.
 
-36
-00:04:45,600 --> 00:04:52,560
-to appear out of nowhere with coffee and biscuits. 
+53
+00:04:40,160 --> 00:04:42,560
+She sat down in front of the big desk.
+
+54
+00:04:43,840 --> 00:04:49,040
+Then Miss Epstein seemed to appear out 
+of nowhere with coffee and biscuits.
+
+55
+00:04:49,920 --> 00:04:52,560
 She put them on the desk and was gone again.
 
-37
+56
 00:04:54,400 --> 00:05:01,440
 'Allow me,' said Mr Dimitri, as he put his 
 cigar down for a moment and poured the coffee.
 
-38
-00:05:02,960 --> 00:05:09,840
-Gina took her coffee and left the biscuits. 
-She didn't feel like eating. She was nervous.  
+57
+00:05:02,960 --> 00:05:05,760
+Gina took her coffee and left the biscuits.
 
-39
-00:05:11,280 --> 00:05:17,920
-Mr Dimitri smiled at her with teeth 
-that were large and white. Perfect  
+58
+00:05:06,800 --> 00:05:08,320
+She didn't feel like eating.
 
-40
-00:05:17,920 --> 00:05:24,800
-teeth. His cigar found its way back 
-to his mouth. The smoke rose up.
+59
+00:05:09,040 --> 00:05:09,840
+She was nervous.
 
-41
-00:05:26,240 --> 00:05:31,840
-'Tell me, Gina... may I call you Gina?' he asked.
+60
+00:05:11,280 --> 00:05:16,000
+Mr Dimitri smiled at her with 
+teeth that were large and white.
 
-42
+61
+00:05:17,200 --> 00:05:18,240
+Perfect teeth.
+
+62
+00:05:19,280 --> 00:05:22,240
+His cigar found its way back to his mouth.
+
+63
+00:05:23,040 --> 00:05:24,800
+The smoke rose up.
+
+64
+00:05:26,240 --> 00:05:27,360
+'Tell me, Gina...
+
+65
+00:05:28,880 --> 00:05:31,840
+may I call you Gina?' he asked.
+
+66
 00:05:32,880 --> 00:05:36,160
 'Of course, Mr Dimitri,' she answered.
 
-43
-00:05:37,440 --> 00:05:46,800
-Mr Dimitri continued. 'Tell me about your latest 
-work; I've heard very interesting things about it,  
+67
+00:05:37,440 --> 00:05:39,120
+Mr Dimitri continued.
 
-44
+68
+00:05:40,160 --> 00:05:46,800
+'Tell me about your latest work; I've 
+heard very interesting things about it,  
+
+69
 00:05:46,800 --> 00:05:52,400
 but I would like you to explain it 
 clearly to a simple man such as myself.'
 
-45
-00:05:54,000 --> 00:06:03,120
-Gina knew that Theodore Dimitri was far from being 
-simple. You don't get to be the head of CSBD,  
+70
+00:05:54,000 --> 00:05:59,200
+Gina knew that Theodore Dimitri 
+was far from being simple.
 
-46
+71
+00:06:00,320 --> 00:06:03,120
+You don't get to be the head of CSBD,  
+
+72
 00:06:03,840 --> 00:06:08,080
 the biggest organisation of its 
-kind, if you aren't very clever.  
+kind, if you aren't very clever.
 
-47
+73
 00:06:09,280 --> 00:06:12,720
 She knew his decision could change her life.
 
-48
+74
 00:06:14,320 --> 00:06:20,480
 Gina began: 'I've discovered a 
 drug which raises intelligence.'
 
-49
-00:06:21,840 --> 00:06:32,160
-'Hold on, Gina!' said Mr pimitri. 'You mean to 
-say you've found a way of making people smarter?'
+75
+00:06:21,840 --> 00:06:25,920
+'Hold on, Gina!' said Mr pimitri.
 
-50
-00:06:33,520 --> 00:06:41,760
-'Yes,' Gina answered. 'And without any 
-harmful side effects as far as I can tell .
+76
+00:06:26,800 --> 00:06:32,160
+'You mean to say you've found a 
+way of making people smarter?'
 
-51
+77
+00:06:33,520 --> 00:06:35,520
+'Yes,' Gina answered.
+
+78
+00:06:36,320 --> 00:06:41,760
+'And without any harmful side 
+effects as far as I can tell .
+
+79
 00:06:41,760 --> 00:06:48,160
 'As far as you can tell?' Mr 
 Dimitri said, his eyebrows raised.
 
-52
+80
 00:06:49,600 --> 00:06:57,760
 'I mean,' said Gina, 'the work has not been 
-used on people - I've only worked on animals.  
+used on people - I've only worked on animals.
 
-53
+81
 00:06:58,400 --> 00:06:59,600
 Especially Max.'
 
-54
+82
 00:07:01,040 --> 00:07:03,760
 'Max?' asked Mr Dimitri.
 
-55
+83
 00:07:05,280 --> 00:07:09,440
 'Sorry - Max is a monkey,' Gina explained.
 
-56
-00:07:10,480 --> 00:07:18,240
-'A monkey...' said Mr Dimitri but his voice 
-sounded less friendly than it had before.
+84
+00:07:10,480 --> 00:07:11,280
+'A monkey...'
 
-57
-00:07:19,760 --> 00:07:28,160
-Gina knew she had to persuade him somehow. 
-'Max has done really well - it's quite amazing.  
+85
+00:07:12,480 --> 00:07:18,240
+said Mr Dimitri but his voice sounded 
+less friendly than it had before.
 
-58
-00:07:29,040 --> 00:07:36,800
-He now has the intelligence of an eight-year-old 
-human child. He can do many things...'
+86
+00:07:19,760 --> 00:07:22,800
+Gina knew she had to persuade him somehow.
 
-59
-00:07:38,880 --> 00:07:47,520
-'You want money for a performing monkey?' 
-said Mr Dimitri. He sounded a little annoyed.  
+87
+00:07:24,320 --> 00:07:28,160
+'Max has done really well - it's quite amazing.
 
-60
+88
+00:07:29,040 --> 00:07:33,760
+He now has the intelligence of 
+an eight-year-old human child.
+
+89
+00:07:34,880 --> 00:07:36,800
+He can do many things...'
+
+90
+00:07:38,880 --> 00:07:44,720
+'You want money for a performing 
+monkey?' said Mr Dimitri.
+
+91
+00:07:45,600 --> 00:07:47,520
+He sounded a little annoyed.
+
+92
 00:07:48,640 --> 00:07:54,480
 'I can go to any cheap show to 
-see smart monkeys doing tricks.  
+see smart monkeys doing tricks.
 
-61
+93
 00:07:55,120 --> 00:07:58,720
 And I don't have to pay a 
 lot of money for it, either.'
 
-62
+94
 00:08:00,240 --> 00:08:07,920
 'Mr Dimitri,' Gina said as she reached 
-for her bag, 'I have a video of Max.  
+for her bag, 'I have a video of Max.
 
-63
+95
 00:08:09,120 --> 00:08:12,560
 I think you should see it 
 before you make any decisions.'
 
-64
+96
 00:08:14,400 --> 00:08:21,040
 'Oh, you do?' His voice was 
 lower - not a good sign.
 
-65
-00:08:22,640 --> 00:08:31,120
-'Yes,' said Gina. 'If you would allow me. I'm sure 
-you'll be as excited as I am once you've seen it.'  
+97
+00:08:22,640 --> 00:08:24,480
+'Yes,' said Gina.
 
-66
-00:08:32,960 --> 00:08:39,840
-Gina did not want to give up without a fight. 
+98
+00:08:25,280 --> 00:08:26,560
+'If you would allow me.
+
+99
+00:08:27,440 --> 00:08:31,120
+I'm sure you'll be as excited 
+as I am once you've seen it.'
+
+100
+00:08:32,960 --> 00:08:35,760
+Gina did not want to give up without a fight.
+
+101
+00:08:36,640 --> 00:08:39,840
 Her future depended on Mr Dimitri's decision.
 
-67
+102
 00:08:42,000 --> 00:08:46,960
 'Let's see what you've got,' 
 he said in his low voice.
 
-68
+103
 00:08:49,040 --> 00:08:52,080
 The video showed Max three years earlier,  
 
-69
+104
 00:08:52,640 --> 00:08:58,240
 before Gina had begun to work on him 
-when he was still a normal monkey.  
+when he was still a normal monkey.
 
-70
+105
 00:08:59,760 --> 00:09:07,840
 Then, three months after her work had begun, Max 
-was seen drawing simple pictures with a pencil.  
+was seen drawing simple pictures with a pencil.
 
-71
-00:09:09,040 --> 00:09:19,040
-After a year he was spelling out simple words. 
-After two years he could add and take away  
+106
+00:09:09,040 --> 00:09:13,040
+After a year he was spelling out simple words.
 
-72
-00:09:19,040 --> 00:09:27,920
-simple numbers. After three years he could 
-read, write and do basic mathematics.  
+107
+00:09:14,560 --> 00:09:20,080
+After two years he could add 
+and take away simple numbers.
 
-73
-00:09:29,120 --> 00:09:37,120
-He also understood everything Gina said to 
-him. Max had come to see Gina as his mother  
+108
+00:09:21,600 --> 00:09:27,920
+After three years he could read, 
+write and do basic mathematics.
 
-74
-00:09:37,120 --> 00:09:45,120
-and he loved her. The video finished with Max 
-putting his arms around Gina while Gin" laughed.
+109
+00:09:29,120 --> 00:09:32,720
+He also understood everything Gina said to him.
 
-75
-00:09:46,560 --> 00:09:54,160
-'That's one smart monkey. Can you make 
-him any smarter?' Mr Dimitri asked.
+110
+00:09:33,760 --> 00:09:38,000
+Max had come to see Gina as 
+his mother and he loved her.
 
-76
-00:09:55,280 --> 00:09:58,960
-Gina knew he was interested. She was pleased.
+111
+00:09:39,680 --> 00:09:45,120
+The video finished with Max putting his 
+arms around Gina while Gin" laughed.
 
-77
+112
+00:09:46,560 --> 00:09:49,840
+'That's one smart monkey.
+
+113
+00:09:49,840 --> 00:09:54,160
+Can you make him any smarter?' Mr Dimitri asked.
+
+114
+00:09:55,280 --> 00:09:57,200
+Gina knew he was interested.
+
+115
+00:09:58,000 --> 00:09:58,960
+She was pleased.
+
+116
 00:10:00,400 --> 00:10:04,800
 'Max can be as intelligent as we 
 want to make him, Mf Dimitri,'  
 
-78
+117
 00:10:05,520 --> 00:10:10,400
 she said, trying not to show her 
 pleasure in whac she had achieved.
 
-79
-00:10:12,080 --> 00:10:23,760
-'Yes,' he said. 'But could that monkey be made to 
-be as smart as a man?'(Or a woman, thought Gina)
+118
+00:10:12,080 --> 00:10:14,080
+'Yes,' he said.
 
-80
+119
+00:10:15,040 --> 00:10:23,760
+'But could that monkey be made to be as 
+smart as a man?'(Or a woman, thought Gina)
+
+120
 00:10:25,600 --> 00:10:33,520
 'As I said, Mr Dimitri,' said Gina, 'we 
 can make him as intelligent as we want to.'
 
-81
+121
 00:10:35,200 --> 00:10:43,920
 'You mean,' asked Mr Dimitri, 'that that 
 monkey could get to be smarter than I am?'
 
-82
+122
 00:10:45,440 --> 00:10:51,600
 'I suppose it is possible - there's no 
-reason why not, as far as I can tell.  
+reason why not, as far as I can tell.
 
-83
+123
 00:10:52,560 --> 00:10:59,920
 Although, of course, Max is a long 
 way from that just now,' Gina said.
 
-84
+124
 00:10:59,920 --> 00:11:04,960
 'But you're working on it, 
 right?' Mr Dimitri asked.
 
-85
-00:11:06,640 --> 00:11:13,840
-'Well, er... yes.' Gina was less confident now.
+125
+00:11:06,640 --> 00:11:07,760
+'Well, er...
 
-86
+126
+00:11:09,280 --> 00:11:09,600
+yes.'
+
+127
+00:11:11,200 --> 00:11:13,840
+Gina was less confident now.
+
+128
 00:11:14,400 --> 00:11:20,880
 'And what if you worked on a human being 
 - could you make them smarter?' he asked.
 
-87
+129
 00:11:21,840 --> 00:11:25,440
 Gina answered: 'I think so, Mr Dimitri.'
 
-88
-00:11:27,360 --> 00:11:32,320
-Mr Dimitri narrowed his eyes. 'You only think so?'
+130
+00:11:27,360 --> 00:11:29,520
+Mr Dimitri narrowed his eyes.
 
-89
+131
+00:11:30,560 --> 00:11:32,320
+'You only think so?'
+
+132
 00:11:34,080 --> 00:11:41,840
 'Well,' said Gina, 'the brains of a monkey 
 and a man are built in much the same way,  
 
-90
+133
 00:11:42,400 --> 00:11:44,400
 so I'm almost certain.'
 
-91
-00:11:46,400 --> 00:11:54,240
-'Almost certain. Hmm...' Mr Dimitri 
-looked out of the window, down at  
+134
+00:11:46,400 --> 00:11:47,840
+'Almost certain.
 
-92
-00:11:54,240 --> 00:12:01,600
-the streets of the busy city far below them. 
+135
+00:11:49,960 --> 00:11:50,960
+Hmm...'
+
+136
+00:11:50,960 --> 00:11:56,880
+Mr Dimitri looked out of the window, down at 
+the streets of the busy city far below them.
+
+137
+00:11:58,160 --> 00:12:01,600
 His cigar smoke rose lazily to the ceiling.
 
-93
-00:12:03,520 --> 00:12:11,360
-Gina's hopes of money and success - and her 
-Ph.D. - depended largely on the decision  
+138
+00:12:03,520 --> 00:12:08,000
+Gina's hopes of money and success - and her Ph.D.
 
-94
-00:12:11,360 --> 00:12:12,800
-Mr Dimitri would make.
+139
+00:12:08,000 --> 00:12:12,800
+- depended largely on the 
+decision Mr Dimitri would make.
 
-95
-00:12:14,960 --> 00:12:19,920
-'Tell me, Miss Capaldi...' said Mr Dimitri.
+140
+00:12:14,960 --> 00:12:17,440
+'Tell me, Miss Capaldi...'
 
-96
-00:12:21,600 --> 00:12:27,920
-Gina noticed he had stopped using 
-her first name. This looked bad.
+141
+00:12:18,560 --> 00:12:19,920
+said Mr Dimitri.
 
-97
-00:12:28,760 --> 00:12:35,440
-'... have you ever taken this stuff 
-yourself to increase your own intelligence?'  
+142
+00:12:21,600 --> 00:12:25,680
+Gina noticed he had stopped using her first name.
 
-98
+143
+00:12:26,880 --> 00:12:27,920
+This looked bad.
+
+144
+00:12:28,760 --> 00:12:29,760
+'...
+
+145
+00:12:29,760 --> 00:12:35,440
+have you ever taken this stuff yourself 
+to increase your own intelligence?'  
+
+146
 00:12:37,600 --> 00:12:41,280
 Widi that, he turned to look 
 out of the window again.
 
-99
-00:12:43,040 --> 00:12:50,800
-'Of course not, Mr Dimitri,' Gina said to the 
-back of his head. 'But if you think I should...'
+147
+00:12:43,040 --> 00:12:47,920
+'Of course not, Mr Dimitri,' Gina 
+said to the back of his head.
 
-100
+148
+00:12:49,040 --> 00:12:50,800
+'But if you think I should...'
+
+149
 00:12:51,600 --> 00:12:51,840
 'NO!'
 
-101
-00:12:53,440 --> 00:13:00,720
-Mr Dimitri had turned suddenly from the window 
-as he said this. The speed of his action  
+150
+00:12:53,440 --> 00:12:57,840
+Mr Dimitri had turned suddenly 
+from the window as he said this.
 
-102
-00:13:00,720 --> 00:13:10,560
-surprised her because he was such a large man. His 
-eyes were wide and looked angry. Gina was scared.
+151
+00:12:59,200 --> 00:13:04,160
+The speed of his action surprised 
+her because he was such a large man.
 
-103
-00:13:10,560 --> 00:13:17,600
-'Miss Capaldi,' Mr Dimitri 
-said, lowering his voice,  
+152
+00:13:05,280 --> 00:13:08,320
+His eyes were wide and looked angry.
 
-104
-00:13:18,800 --> 00:13:28,480
-'your work has been very good. In fact, it has 
-been excellent and you have my congratulations.  
+153
+00:13:09,520 --> 00:13:10,560
+Gina was scared.
 
-105
-00:13:30,080 --> 00:13:37,520
-Unfortunately, I must ask you to 
-stop what you are doing. At "once.'
+154
+00:13:10,560 --> 00:13:21,680
+'Miss Capaldi,' Mr Dimitri said, lowering 
+his voice, 'your work has been very good.
 
-106
+155
+00:13:22,640 --> 00:13:28,480
+In fact, it has been excellent 
+and you have my congratulations.
+
+156
+00:13:30,080 --> 00:13:35,760
+Unfortunately, I must ask you 
+to stop what you are doing.
+
+157
+00:13:36,800 --> 00:13:37,520
+At "once.'
+
+158
 00:13:39,360 --> 00:13:45,920
 Gina's mouth suddenly felt very dry and 
 she felt the hairs on her head rise up.
 
-107
-00:13:47,440 --> 00:13:56,720
-'But Mr Dimitri,' she said, 'I've 
-done so much... all my work, my Ph.D!'
+159
+00:13:47,440 --> 00:13:52,560
+'But Mr Dimitri,' she said, 'I've done so much...
 
-108
-00:13:58,240 --> 00:14:04,720
-'Who is going to believe you if they wonder 
-for one moment if you took some of this  
+160
+00:13:54,000 --> 00:13:56,720
+all my work, my Ph.D!'
 
-109
-00:14:04,720 --> 00:14:14,400
-stuff yourself?' Mr Dimitri's voice softened. 
-'They would say that anybody could get a Ph.D.  
+161
+00:13:58,240 --> 00:14:02,000
+'Who is going to believe you if they wonder for  
 
-110
-00:14:14,960 --> 00:14:19,120
-with your wonder drug to help 
-them. And they'd be right.'
+162
+00:14:02,000 --> 00:14:09,280
+one moment if you took some of this stuff 
+yourself?' Mr Dimitri's voice softened.
 
-111
-00:14:20,640 --> 00:14:26,320
-'But I never... I mean... I wouldn't 
-dream of doing such a thing!'  
+163
+00:14:10,720 --> 00:14:14,400
+'They would say that anybody could get a Ph.D.
 
-112
-00:14:27,200 --> 00:14:32,000
-said Gina. She tried not to show 
-the disappointment she felt.
+164
+00:14:14,960 --> 00:14:17,280
+with your wonder drug to help them.
 
-113
-00:14:33,040 --> 00:14:40,480
-'Wouldn't you?' said Mr Dimitri. 'There 
-are many people that would take this stuff.  
+165
+00:14:18,000 --> 00:14:19,120
+And they'd be right.'
 
-114
+166
+00:14:20,640 --> 00:14:21,520
+'But I never...
+
+167
+00:14:22,640 --> 00:14:22,960
+I mean...
+
+168
+00:14:23,680 --> 00:14:27,920
+I wouldn't dream of doing 
+such a thing!' said Gina.
+
+169
+00:14:28,880 --> 00:14:32,000
+She tried not to show the disappointment she felt.
+
+170
+00:14:33,040 --> 00:14:36,000
+'Wouldn't you?' said Mr Dimitri.
+
+171
+00:14:37,120 --> 00:14:40,480
+'There are many people that would take this stuff.
+
+172
 00:14:41,440 --> 00:14:44,960
 And many that would think that you had, too.'
 
-115
+173
 00:14:46,720 --> 00:14:49,440
 Gina looked alarmed, but said nothing.
 
-116
-00:14:50,880 --> 00:15:01,360
-'Yes,' he continued, 'it's a sad fact but a true 
-one. Many people would think that you had taken  
+174
+00:14:50,880 --> 00:14:57,920
+'Yes,' he continued, 'it's 
+a sad fact but a true one.
 
-117
-00:15:01,360 --> 00:15:10,160
-your own drug to make yourself smarter. They 
-would see you as being no different to those  
+175
+00:14:57,920 --> 00:15:04,800
+Many people would think that you had taken 
+your own drug to make yourself smarter.
 
-118
-00:15:10,160 --> 00:15:18,480
-athletes who take stuff they're not supposed to 
-take. It might make them do better but it's not  
+176
+00:15:06,000 --> 00:15:10,160
+They would see you as being no different to those  
 
-119
-00:15:18,480 --> 00:15:28,880
-honest, is it, Miss Capaldi? And it's no 
-different for CSBD - we do not want people  
+177
+00:15:10,160 --> 00:15:13,600
+athletes who take stuff 
+they're not supposed to take.
 
-120
-00:15:28,880 --> 00:15:37,040
-to think that we are anything other than 
-a completely honest organisation. If they  
+178
+00:15:14,880 --> 00:15:21,360
+It might make them do better but 
+it's not honest, is it, Miss Capaldi?  
 
-121
-00:15:37,040 --> 00:15:43,760
-ever thought we had anything to do with such 
-behaviour they would never trust us again!'
+179
+00:15:22,560 --> 00:15:29,440
+And it's no different for CSBD 
+- we do not want people to think  
 
-122
-00:15:45,120 --> 00:15:55,040
-'But I promise you... my work has all been done 
-honestly,' said Gina. 'I never took anything!'
+180
+00:15:29,440 --> 00:15:35,600
+that we are anything other than 
+a completely honest organisation.
 
-123
+181
+00:15:36,560 --> 00:15:43,760
+If they ever thought we had anything to do with 
+such behaviour they would never trust us again!'
+
+182
+00:15:45,120 --> 00:15:46,640
+'But I promise you...
+
+183
+00:15:47,760 --> 00:15:52,640
+my work has all been done honestly,' said Gina.
+
+184
+00:15:53,280 --> 00:15:55,040
+'I never took anything!'
+
+185
 00:15:56,320 --> 00:16:02,000
 'But,' said Mr Dimitri as he 
 looked straight at Gina's eyes,  
 
-124
+186
 00:16:03,200 --> 00:16:07,840
 'you would if I asked you to, wouldn't you?'
 
-125
+187
 00:16:09,920 --> 00:16:16,000
 Gina knew it was true, so she said 
 nothing and looked at the floor.
 
-126
+188
 00:16:18,320 --> 00:16:24,160
 Mr Dimitri turned his great weight towards 
 her and put his hand on her shoulder.
 
-127
-00:16:25,680 --> 00:16:35,360
-'I understand how much you want to succeed, Miss 
-Capaldi. Don't worry... I'm going to talk to the  
+189
+00:16:25,680 --> 00:16:30,560
+'I understand how much you 
+want to succeed, Miss Capaldi.
 
-128
-00:16:35,360 --> 00:16:44,080
-people at your university - I think you should 
-have a Ph.D. for the work you've done so far...'
+190
+00:16:31,520 --> 00:16:32,160
+Don't worry...
 
-129
+191
+00:16:33,680 --> 00:16:41,520
+I'm going to talk to the people at your 
+university - I think you should have a Ph.D.
+
+192
+00:16:42,080 --> 00:16:44,080
+for the work you've done so far...'
+
+193
 00:16:46,240 --> 00:16:47,760
 Gina raised her eyes.
 
-130
-00:16:49,120 --> 00:16:58,160
-'Yes, Miss Capaldi, I believe in your 
-honesty and believe you are a brilliant  
+194
+00:16:49,120 --> 00:16:59,280
+'Yes, Miss Capaldi, I believe in your honesty 
+and believe you are a brilliant young scientist.
 
-131
-00:16:58,160 --> 00:17:04,800
-young scientist. I would very much 
-like you to continue to work for us...'
+195
+00:17:00,480 --> 00:17:04,800
+I would very much like you to 
+continue to work for us...'
 
-132
-00:17:06,480 --> 00:17:11,320
-Gina shut her eyes. She was tod happy to speak.
+196
+00:17:06,480 --> 00:17:08,000
+Gina shut her eyes.
 
-133
-00:17:11,320 --> 00:17:17,840
-'... but in a different area,' Mr Dimitri added.
+197
+00:17:08,880 --> 00:17:11,320
+She was tod happy to speak.
 
-134
-00:17:18,720 --> 00:17:24,080
-Gina opened her eyes. She could 
-hardly believe what she had heard.
+198
+00:17:11,320 --> 00:17:12,320
+'...
 
-135
+199
+00:17:12,320 --> 00:17:17,840
+but in a different area,' Mr Dimitri added.
+
+200
+00:17:18,720 --> 00:17:20,320
+Gina opened her eyes.
+
+201
+00:17:21,440 --> 00:17:24,080
+She could hardly believe what she had heard.
+
+202
 00:17:25,600 --> 00:17:29,520
 'But what about my work?' she asked.
 
-136
-00:17:30,720 --> 00:17:41,120
+203
+00:17:30,720 --> 00:17:39,680
 'You may carry on if you wish,' said Mr Dimitri, 
-'but you will have no money from us if you do. And  
+'but you will have no money from us if you do.
 
-137
-00:17:41,120 --> 00:17:50,560
-I think I can say that nobody else will help you 
-if I have anything to say about it - and I will.'
+204
+00:17:40,720 --> 00:17:46,800
+And I think I can say that 
+nobody else will help you if  
 
-138
-00:17:52,880 --> 00:18:00,800
-Gina felt bad about losing her work. But 
-she had been offered a job - and her Ph.D.
+205
+00:17:46,800 --> 00:17:50,560
+I have anything to say about it - and I will.'
 
-139
-00:18:02,720 --> 00:18:06,320
-'If you leave all your work with us, Miss Capaldi,  
+206
+00:17:52,880 --> 00:17:55,680
+Gina felt bad about losing her work.
 
-140
-00:18:07,120 --> 00:18:15,760
-we'll make sure that it is properly taken 
-care of. After all, y^u have made a discovery  
+207
+00:17:56,560 --> 00:18:00,800
+But she had been offered a job - and her Ph.D.
 
-141
-00:18:15,760 --> 00:18:23,600
-which could change the world someday. And 
-you can be sure that we will recognise you  
+208
+00:18:02,720 --> 00:18:11,200
+'If you leave all your work with us, Miss Capaldi, 
+we'll make sure that it is properly taken care of.
 
-142
-00:18:23,600 --> 00:18:31,120
-as the person behind it all when the time 
-comes. But it could take a long time.
+209
+00:18:12,240 --> 00:18:18,560
+After all, y^u have made a discovery 
+which could change the world someday.
 
-143
-00:18:32,880 --> 00:18:40,080
-'But right now we would like to use 
-your clever brain to the full in doing  
+210
+00:18:19,600 --> 00:18:27,840
+And you can be sure that we will recognise you 
+as the person behind it all when the time comes.
 
-144
-00:18:40,080 --> 00:18:49,440
-important work for us. And, of course, you will 
-be safe in the knowledge that you have the CSBD  
+211
+00:18:28,480 --> 00:18:31,120
+But it could take a long time.
 
-145
-00:18:49,440 --> 00:19:00,000
-behind you. You will never be short of money 
-again. So why not join us, Gina? What do you say?'
+212
+00:18:32,880 --> 00:18:41,840
+'But right now we would like to use your clever 
+brain to the full in doing important work for us.
 
-146
+213
+00:18:42,640 --> 00:18:50,160
+And, of course, you will be safe in the 
+knowledge that you have the CSBD behind you.
+
+214
+00:18:51,280 --> 00:18:54,400
+You will never be short of money again.
+
+215
+00:18:55,520 --> 00:19:00,000
+So why not join us, Gina? What do you say?'
+
+216
 00:19:02,000 --> 00:19:04,960
 Gina felt surprisingly good about the offer.
 
-147
+217
 00:19:06,480 --> 00:19:11,040
 And I'll get recognition for my work?' Gina asked.
 
-148
+218
 00:19:12,160 --> 00:19:15,200
 'Definitely' said Mr Dimitri.
 
-149
+219
 00:19:16,800 --> 00:19:19,520
 'Mr Dimitri, I accept!'
 
-150
+220
 00:19:21,440 --> 00:19:28,080
 There were smiles and goodbyes and, soon 
 after, a happy Gina Capaldi left the room.
 
-151
-00:19:29,840 --> 00:19:39,200
-Mr Dimitri sat down, lit another cigar and watched 
-the smoke rise up to the ceiling before it finally  
+221
+00:19:29,840 --> 00:19:33,680
+Mr Dimitri sat down, lit another cigar  
 
-152
-00:19:39,200 --> 00:19:49,120
-disappeared. He knew that business was not good 
-when people asked too many questions. If people  
+222
+00:19:34,320 --> 00:19:39,920
+and watched the smoke rise up to the 
+ceiling before it finally disappeared.
 
-153
-00:19:49,120 --> 00:19:57,360
-were made to be too smart they would do just that. 
-And once they didn't get the answers they wanted,  
+223
+00:19:41,520 --> 00:19:46,960
+He knew that business was not good 
+when people asked too many questions.
 
-154
-00:19:58,160 --> 00:20:05,840
-they might not buy things. And if they didn't 
-buy things there would be no money to be made.
+224
+00:19:48,480 --> 00:19:53,200
+If people were made to be too 
+smart they would do just that.
 
-155
-00:20:06,960 --> 00:20:11,280
-No-one would like that. No-one at all.
+225
+00:19:54,480 --> 00:19:59,840
+And once they didn't get the answers 
+they wanted, they might not buy things.
 
-156
+226
+00:20:00,800 --> 00:20:05,840
+And if they didn't buy things 
+there would be no money to be made.
+
+227
+00:20:06,960 --> 00:20:08,720
+No-one would like that.
+
+228
+00:20:09,920 --> 00:20:11,280
+No-one at all.
+
+229
 00:20:14,160 --> 00:20:19,840
 Miss Capaldi's work would be put 
-away somewhere nice and safe.  
+away somewhere nice and safe.
 
-157
-00:20:20,640 --> 00:20:28,320
-Somewhere secret. Along with all the 
-other dangerous ideas. Like the car  
+230
+00:20:20,640 --> 00:20:21,840
+Somewhere secret.
 
-158
-00:20:28,320 --> 00:20:36,960
-that ran on water, or the shoes that never 
-wore out, or the battery that never stopped.
+231
+00:20:22,720 --> 00:20:25,920
+Along with all the other dangerous ideas.
 
-159
-00:20:39,200 --> 00:20:48,080
-But he was glad to have Miss Capaldi. She was 
-bright. He ought to give her something to do.  
+232
+00:20:26,880 --> 00:20:36,960
+Like the car that ran on water, or the shoes that 
+never wore out, or the battery that never stopped.
 
-160
-00:20:48,080 --> 00:20:53,600
-Something that would make a lot of 
-money. He picked up his telephone.
+233
+00:20:39,200 --> 00:20:41,600
+But he was glad to have Miss Capaldi.
 
-161
-00:20:55,440 --> 00:21:02,000
-'Miss Epstein... See that Miss Capaldi 
-is sent to the biological science  
+234
+00:20:42,720 --> 00:20:43,920
+She was bright.
 
-162
-00:21:02,000 --> 00:21:10,640
-centre. I want her to be a part of that 
-three-legged chicken plan. She can do it,  
+235
+00:20:44,960 --> 00:20:48,080
+He ought to give her something to do.
 
-163
-00:21:10,640 --> 00:21:18,240
-if anybody can. She's one smart 
-lady. Oh, and Miss Epstein...'
+236
+00:20:48,080 --> 00:20:50,640
+Something that would make a lot of money.
 
-164
+237
+00:20:52,160 --> 00:20:53,600
+He picked up his telephone.
+
+238
+00:20:55,440 --> 00:20:56,480
+'Miss Epstein...
+
+239
+00:20:57,840 --> 00:21:02,400
+See that Miss Capaldi is sent to 
+the biological science centre.
+
+240
+00:21:03,440 --> 00:21:08,400
+I want her to be a part of 
+that three-legged chicken plan.
+
+241
+00:21:09,360 --> 00:21:11,920
+She can do it, if anybody can.
+
+242
+00:21:12,880 --> 00:21:15,840
+She's one smart lady.
+
+243
+00:21:16,400 --> 00:21:18,240
+Oh, and Miss Epstein...'
+
+244
 00:21:19,440 --> 00:21:22,720
 'Yes, Mr Dimitri?' said Miss Epstein.
 
-165
-00:21:23,760 --> 00:21:31,760
-'I want you to see that a dangerous animal from 
-one of our centres is killed. It's a monkey.  
+245
+00:21:23,760 --> 00:21:30,160
+'I want you to see that a dangerous 
+animal from one of our centres is killed.
 
-166
+246
+00:21:30,960 --> 00:21:31,760
+It's a monkey.
+
+247
 00:21:32,720 --> 00:21:43,840
 His name is Max.'
- 
- 
- 
- 
- 
- 
-
-167
-00:21:46,760 --> 00:21:48,141
-- THE END -
-

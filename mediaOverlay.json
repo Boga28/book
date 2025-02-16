@@ -1,18 +1,21 @@
 {"mediaOverlay": [
 
-
-                      {"id": "261",
+          {"id": "262",
+"baslik": "Animal Farm",
+"subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/srt/id262_Animal_Farm-George_Orwell.srt",
+"sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Animal_Farm-George_Orwell.m4a"},
+  
+          {"id": "261",
 "baslik": "The Virgin and the Gipsy",
 "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/srt/id261_The_Virgin_and_the_Gipsy.srt",
 "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Virgin_and_the_Gipsy.m4a"},
 
-  
-                      {"id": "260",
+          {"id": "260",
 "baslik": "Tristan and Isolde",
 "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/srt/id260_Tristan_and_Isolde.srt",
 "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Tristan_and_Isolde.m4a"},
 
-                    {"id": "259",
+          {"id": "259",
 "baslik": "John Lennon",
 "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/srt/id259_John_Lennon.srt",
 "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/John_Lennon.m4a"},

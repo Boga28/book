@@ -173,7 +173,7 @@ I may say that I understand the nature of life on this earth as well as any anim
 
 37
 00:05:15,200 --> 00:05:19,560
-It is about this that I wish to speak to you. "
+It is about this that I wish to speak to you."
 
 38
 00:05:19,560 --> 00:05:25,480
@@ -434,7 +434,7 @@ All men are enemies.
 
 94
 00:11:26,160 --> 00:11:29,000
-All animals are comrades. "
+All animals are comrades."
 
 95
 00:11:29,000 --> 00:11:32,840
@@ -469,7 +469,7 @@ Let us put it to the vote.
 
 102
 00:12:06,040 --> 00:12:10,600
-I propose this question to the meeting: Are rats comrades? "
+I propose this question to the meeting: Are rats comrades?"
 
 103
 00:12:10,600 --> 00:12:17,560
@@ -815,7 +815,7 @@ Besides, you do not need sugar.
 
 177
 00:19:57,760 --> 00:20:00,360
-You will have all the oats and hay you want. "
+You will have all the oats and hay you want."
 
 178
 00:20:00,360 --> 00:20:05,440
@@ -1287,7 +1287,7 @@ ones at once began to learn the Commandments by heart.
 277
 00:31:28,960 --> 00:31:36,280
 Let us make it a point of honour to get in the harvest more quickly
-than Jones and his men could do. "
+than Jones and his men could do."
 
 278
 00:31:36,280 --> 00:31:45,720
@@ -1345,7 +1345,7 @@ Forward, comrades!
 
 290
 00:32:46,560 --> 00:32:47,920
-The hay is waiting. "
+The hay is waiting."
 
 291
 00:32:47,920 --> 00:32:58,480
@@ -1776,7 +1776,7 @@ It should therefore be regarded as a leg.
 379
 00:43:36,160 --> 00:43:41,760
 The distinguishing mark of man is the HAND, the instrument with
-which he does all his mischief. "
+which he does all his mischief."
 
 380
 00:43:41,760 --> 00:43:52,480
@@ -1922,7 +1922,7 @@ Yes, Jones would come back!
 411
 00:46:19,440 --> 00:46:32,600
 Surely, comrades," cried Squealer almost pleadingly, skipping from side to side and
-whisking his tail, "surely there is no one among you who wants to see Jones come back? "
+whisking his tail, "surely there is no one among you who wants to see Jones come back?"
 
 412
 00:46:32,600 --> 00:46:39,160
@@ -2269,7 +2269,7 @@ I forgot that I was wearing iron shoes.
 
 484
 00:55:52,320 --> 00:55:56,120
-Who will believe that I did not do this on purpose? "
+Who will believe that I did not do this on purpose?"
 
 485
 00:55:56,120 --> 00:56:02,040
@@ -2278,7 +2278,7 @@ the blood was still dripping.
 
 486
 00:56:02,040 --> 00:56:06,480
-"War is war. The only good human being is a dead one. "
+"War is war. The only good human being is a dead one."
 
 487
 00:56:06,480 --> 00:56:15,320
@@ -2416,7 +2416,7 @@ was talking to you and you were allowing him to stroke your nose.
 
 515
 00:59:28,720 --> 00:59:30,640
-What does that mean, Mollie? "
+What does that mean, Mollie?"
 
 516
 00:59:30,640 --> 00:59:40,640
@@ -2426,7 +2426,7 @@ to prance about and paw the ground.
 517
 00:59:40,640 --> 00:59:45,800
 "Mollie! Look me in the face. Do you give me your word of honour
-that that man was not stroking your nose? "
+that that man was not stroking your nose?"
 
 518
 00:59:45,800 --> 00:59:56,880
@@ -2962,7 +2962,7 @@ then where should we be?
 629
 01:13:49,120 --> 01:13:57,520
 Suppose you had decided to follow Snowball, with his moonshine of
-windmills Snowball, who, as we now know, was no better than a criminal? "
+windmills Snowball, who, as we now know, was no better than a criminal?"
 
 630
 01:13:57,520 --> 01:14:01,920
@@ -3596,7 +3596,7 @@ You would not have us too tired to carry out our duties?
 
 762
 01:30:39,120 --> 01:30:43,000
-Surely none of you wishes to see Jones back? "
+Surely none of you wishes to see Jones back?"
 
 763
 01:30:43,000 --> 01:30:50,440
@@ -4215,7 +4215,7 @@ To my mind this explains a great deal, comrades.
 893
 01:45:02,440 --> 01:45:10,400
 Did we not see for ourselves how he attempted fortunately without
-success to get us defeated and destroyed at the Battle of the Cowshed? "
+success to get us defeated and destroyed at the Battle of the Cowshed?"
 
 894
 01:45:10,400 --> 01:45:12,760
@@ -4256,7 +4256,7 @@ and with a hard effort managed to formulate his thoughts.
 902
 01:45:59,080 --> 01:46:09,840
 "Snowball fought bravely at the Battle of the Cowshed. I saw him myself.
-Did we not give him ' Animal Hero, first Class,' immediately afterwards? "
+Did we not give him ' Animal Hero, first Class,' immediately afterwards?"
 
 903
 01:46:09,840 --> 01:46:12,040
@@ -4265,7 +4265,7 @@ Did we not give him ' Animal Hero, first Class,' immediately afterwards? "
 904
 01:46:12,040 --> 01:46:19,760
 For we know now it is all written down in the secret documents that
-we have found that in reality he was trying to lure us to our doom. "
+we have found that in reality he was trying to lure us to our doom."
 
 905
 01:46:19,760 --> 01:46:23,640
@@ -4710,7 +4710,7 @@ But that society has now been established.
 
 999
 01:58:00,360 --> 01:58:03,720
-Clearly this song has no longer any purpose. "
+Clearly this song has no longer any purpose."
 
 1000
 01:58:03,720 --> 01:58:21,560
@@ -6214,7 +6214,7 @@ Clover dropped to her knees at his side.
 
 1317
 02:36:31,240 --> 02:36:35,480
-"Boxer!" she cried, "how are you? "
+"Boxer!" she cried, "how are you?"
 
 1318
 02:36:35,480 --> 02:36:39,360
@@ -6244,7 +6244,7 @@ To tell you the truth, I had been looking forward to my retirement.
 1324
 02:36:57,640 --> 02:37:07,200
 And perhaps, as Benjamin is growing old too, they will let him
-retire at the same time and be a companion to me. "
+retire at the same time and be a companion to me."
 
 1325
 02:37:07,200 --> 02:37:10,760
@@ -6509,7 +6509,7 @@ which drew the van to stop.
 
 1382
 02:41:57,680 --> 02:41:59,920
-"Don't take your own brother to his death! "
+"Don't take your own brother to his death!"
 
 1383
 02:41:59,920 --> 02:42:05,960
@@ -6578,7 +6578,7 @@ Napoleon is always right.'
 
 1398
 02:43:11,400 --> 02:43:16,680
-Those were his very last words, comrades. "
+Those were his very last words, comrades."
 
 1399
 02:43:16,680 --> 02:43:18,280
@@ -7127,8 +7127,8 @@ But it appears to me that that wall looks different.
 
 1516
 02:57:10,520 --> 02:57:16,400
-Are the Seven Commandments the same as they used to be, Benjamin?
-"
+Are the Seven Commandments the same as they used to be, Benjamin?"
+
 
 1517
 02:57:16,400 --> 02:57:23,840
@@ -7474,8 +7474,8 @@ Fill your glasses to the brim.
 
 1588
 03:05:57,520 --> 03:06:04,600
-Gentlemen, here is my toast: To the prosperity of The Manor Farm!
-"
+Gentlemen, here is my toast: To the prosperity of The Manor Farm!"
+
 
 1589
 03:06:04,600 --> 03:06:10,000

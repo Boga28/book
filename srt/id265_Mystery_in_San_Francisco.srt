@@ -126,2680 +126,2549 @@ His parents had a grocery store and he helped them on weekends.
 
 
 30
-00:01:35,000 --> 00:01:36,240
-'Hi, Brian.
+00:01:35,000 --> 00:01:39,600
+'Hi, Brian. Did you finish your English homework?' said Jim.
 
 31
-00:01:36,240 --> 00:01:39,600
-Did you finish your English homework?' said Jim.
-
-32
 00:01:39,600 --> 00:01:43,240
 'Yes, I did, but Shakespeare wasn't easy.
 
-33
+32
 00:01:43,240 --> 00:01:46,720
 Look, there's Susan,' said Brian.
 
-34
+33
 00:01:46,720 --> 00:01:48,840
 'Hi, guys,' said Susan.
 
-35
+34
 00:01:48,840 --> 00:01:51,920
 Susan Hardy was a pretty African-American girl.
 
-36
+35
 00:01:51,920 --> 00:01:54,680
 She was a good friend of both boys.
 
-37
+36
 00:01:54,680 --> 00:01:57,200
 She was also a very good student.
 
-38
+37
 00:01:57,200 --> 00:02:02,480
 She had a part-time job as a babysitter for the children of her
 neighbors, the Moreno family.
 
-39
+38
 00:02:02,480 --> 00:02:05,240
 Her brother Tom was twenty years old.
 
-40
+39
 00:02:05,240 --> 00:02:11,680
 He was a biology student at San Francisco University and played
 on the university football team.
 
-41
+40
 00:02:11,680 --> 00:02:14,920
 'Are you ready for the math test?' asked Susan.
 
-42
+41
 00:02:14,920 --> 00:02:19,440
 'I studied all afternoon yesterday, but I'm not ready,' said
 Brian.
 
-43
+42
 00:02:19,440 --> 00:02:20,680
 'I'm not either.
 
-44
+43
 00:02:20,680 --> 00:02:22,760
 I didn't look at my notes,' said Jim.
 
-45
+44
 00:02:22,760 --> 00:02:24,880
 The bus came and they got on.
 
-46
+45
 00:02:24,880 --> 00:02:27,640
 They saw their school friends and started talking.
 
-47
+46
 00:02:27,640 --> 00:02:31,000
 The bus was always crowded, but the bus ride was fun.
 
-48
+47
 00:02:31,000 --> 00:02:36,640
 When they got near Galileo High School they could smell the chocolate
 from the chocolate factory nearby.
 
-49
+48
 00:02:36,640 --> 00:02:39,040
 They loved the smell of the chocolate.
 
-50
+49
 00:02:39,040 --> 00:02:40,640
 It made them hungry.
 
-51
+50
 00:02:40,640 --> 00:02:42,640
 The math test was difficult.
 
-52
+51
 00:02:42,640 --> 00:02:46,000
 The students were happy when it was finally lunchtime.
 
-53
+52
 00:02:46,000 --> 00:02:49,320
 hey all went to the big school cafeteria.
 
-54
+53
 00:02:49,320 --> 00:02:52,920
 'Why is math so difficult?' said Jim.
 
-55
+54
 00:02:52,920 --> 00:02:56,280
 'I think Mrs Miller makes the test difficult.'
 
-56
+55
 00:02:56,280 --> 00:03:00,160
 'Don't worry about the test and eat your lunch,' said Brian.
 
-57
+56
 00:03:00,160 --> 00:03:03,920
 In the afternoon they had a long science lesson.
 
-58
+57
 00:03:03,920 --> 00:03:06,080
 It was very interesting.
 
-59
+58
 00:03:06,080 --> 00:03:08,560
 They studied chemistry in the school laboratory.
 
-60
+59
 00:03:08,560 --> 00:03:13,680
 They often did experiments with their chemistry teacher, Mr Woods.
 
 
-61
+60
 00:03:13,680 --> 00:03:16,120
 They liked Mr Woods.
 
-62
+61
 00:03:16,120 --> 00:03:18,600
 At a quarter past three the school bell rang.
 
-63
+62
 00:03:18,600 --> 00:03:21,480
 It was time to go home and it was Friday.
 
-64
+63
 00:03:21,480 --> 00:03:24,560
 'What are you doing this weekend?' asked Brian.
 
-65
+64
 00:03:24,560 --> 00:03:27,440
 'I'm working at the supermarket tomorrow,' said Jim.
 
-66
+65
 00:03:27,440 --> 00:03:30,880
 'But on Sunday I'm coming to see your basketball game.'
 
-67
+66
 00:03:30,880 --> 00:03:33,200
 'I hope we win,' said Brian.
 
-68
+67
 00:03:33,200 --> 00:03:37,000
 'I'm working tomorrow as well, at my parents' grocery store.
 
-69
+68
 00:03:37,000 --> 00:03:39,240
 It's always a busy day.
 
-70
+69
 00:03:39,240 --> 00:03:41,560
 But I'm free tomorrow night.'
 
-71
+70
 00:03:41,560 --> 00:03:46,760
 'Well, I'm babysitting for the Moreno children all weekend,'
 said Susan.
 
-72
+71
 00:03:46,760 --> 00:03:50,880
 'Do you want to go to the movies tomorrow night, Jim?' asked
 Brian.
 
-73
+72
 00:03:50,880 --> 00:03:54,920
 'Yes, that's a great idea,' said Jim.
 
-74
+73
 00:03:54,920 --> 00:03:55,640
 'I'll phone you.'
 
-75
+74
 00:03:55,640 --> 00:03:57,240
 CHAPTER TWO
 
-76
+75
 00:03:57,240 --> 00:03:59,800
 The Face at the Window
 
-77
+76
 00:03:59,800 --> 00:04:03,320
 Jim walked slowly up Telegraph Hill.
 
-78
+77
 00:04:03,320 --> 00:04:07,040
 It was a foggy afternoon in February.
 
-79
+78
 00:04:07,040 --> 00:04:09,640
 Every day Jim walked in front of an old mansion.
 
-80
+79
 00:04:09,640 --> 00:04:14,480
 It was a mysterious wooden building with a big garden and a fence
 around it.
 
-81
+80
 00:04:14,480 --> 00:04:18,280
 Jim often looked at it and thought, 'What's inside?
 
-82
+81
 00:04:18,280 --> 00:04:19,880
 Why doesn't anyone live here?'
 
-83
+82
 00:04:19,880 --> 00:04:23,040
 That afternoon he stopped in front of the gate.
 
-84
+83
 00:04:23,040 --> 00:04:25,760
 He looked at the garden and the trees.
 
-85
+84
 00:04:25,760 --> 00:04:28,160
 What a strange place.
 
-86
+85
 00:04:28,160 --> 00:04:29,960
 No one took care of it.
 
-87
+86
 00:04:29,960 --> 00:04:32,120
 Then he looked up at the old mansion.
 
-88
+87
 00:04:32,120 --> 00:04:34,760
 He looked at the window on the second floor.
 
-89
+88
 00:04:34,760 --> 00:04:36,640
 There was a face behind it.
 
-90
+89
 00:04:36,640 --> 00:04:38,000
 He felt cold.
 
-91
+90
 00:04:38,000 --> 00:04:41,280
 It was the face of a little girl with long, dark hair.
 
-92
+91
 00:04:41,280 --> 00:04:43,960
 But no one lived in that mansion.
 
-93
+92
 00:04:43,960 --> 00:04:45,520
 Who was it?
 
-94
+93
 00:04:45,520 --> 00:04:46,400
 A ghost?
 
-95
+94
 00:04:46,400 --> 00:04:50,640
 Jim didn't believe in ghosts, but who was the girl at the window?
 
 
-96
+95
 00:04:50,640 --> 00:04:52,120
 She looked down at him.
 
-97
+96
 00:04:52,120 --> 00:04:54,200
 He continued looking at the window.
 
-98
+97
 00:04:54,200 --> 00:04:56,840
 Suddenly the face of the girl disappeared.
 
-99
+98
 00:04:56,840 --> 00:05:00,000
 Jim could not see well because it was very foggy.
 
-100
+99
 00:05:00,000 --> 00:05:02,040
 He decided to go home quickly.
 
-101
+100
 00:05:02,040 --> 00:05:04,880
 He walked in the door and into the living room.
 
-102
+101
 00:05:04,880 --> 00:05:07,720
 He saw his grandfather in the corner of the room.
 
-103
+102
 00:05:07,720 --> 00:05:11,760
 'Grandpa!' he cried 'I saw a ghost!'
 
-104
+103
 00:05:11,760 --> 00:05:14,880
 'What did you say?' asked his grandfather with a smile.
 
-105
+104
 00:05:14,880 --> 00:05:18,440
 'I saw the face of a little girl at the window of the old mansion.
 
 
-106
+105
 00:05:18,440 --> 00:05:22,040
 No one lives there, but I saw a girl.
 
-107
+106
 00:05:22,040 --> 00:05:23,480
 She looked at me!'
 
+107
+00:05:23,480 --> 00:05:26,960
+'Are you sure, Jim? It' s a very foggy afternoon.
+
 108
-00:05:23,480 --> 00:05:24,960
-'Are you sure, Jim?
-
-109
-00:05:24,960 --> 00:05:26,960
-It's a very foggy afternoon.
-
-110
 00:05:26,960 --> 00:05:30,240
 Did you see her clearly?
 
-111
+109
 00:05:30,240 --> 00:05:32,280
 No one lives in the old Stewart mansion.
 
-112
+110
 00:05:32,280 --> 00:05:34,320
 It's about one hundred years old.
 
-113
+111
 00:05:34,320 --> 00:05:38,760
 There's a strange story about it, but I don't think there are
 any ghosts.'
 
-114
+112
 00:05:38,760 --> 00:05:41,720
 'What story? Please tell me!'
 
-115
+113
 00:05:41,720 --> 00:05:42,720
 said Jim.
 
-116
+114
 00:05:42,720 --> 00:05:47,560
 'Well, Mr Stewart was a very rich, but very strange man.
 
-117
+115
 00:05:47,560 --> 00:05:51,200
 He was very interested in science and experiments.
 
-118
+116
 00:05:51,200 --> 00:05:53,040
 He had a lot of enemies.
 
-119
+117
 00:05:53,040 --> 00:05:56,720
 People thought his experiments were mysterious and sinister.
 
-120
+118
 00:05:56,720 --> 00:06:00,600
 His wife and daughter died in a mysterious accident.
 
-121
+119
 00:06:00,600 --> 00:06:02,560
 It was terrible.
 
-122
+120
 00:06:02,560 --> 00:06:06,320
 He left San Francisco and returned to New York.'
 
-123
+121
 00:06:06,320 --> 00:06:09,760
 'I saw a face, grandpa - I did!' said Jim.
 
-124
+122
 00:06:09,760 --> 00:06:13,880
 'But, Jim, you don't believe in ghosts,' said his grandfather.
 
 
-125
+123
 00:06:13,880 --> 00:06:17,240
 'You're right - but I saw that girl's face,' said Jim.
 
-126
+124
 00:06:17,240 --> 00:06:21,840
 'Maybe it was your imagination,' said his grandfather kindly.
 
 
-127
+125
 00:06:21,840 --> 00:06:24,720
 Jim went to his room and turned on the radio.
 
-128
+126
 00:06:24,720 --> 00:06:28,080
 He listened to some songs and then started doing his homework.
 
 
-129
+127
 00:06:28,080 --> 00:06:31,600
 The next day Jim went to work at the supermarket.
 
-130
+128
 00:06:31,600 --> 00:06:33,400
 It was a busy day.
 
-131
+129
 00:06:33,400 --> 00:06:36,960
 A strange man with long hair and a silver earring came in.
 
-132
+130
 00:06:36,960 --> 00:06:38,480
 His clothes were old.
 
-133
+131
 00:06:38,480 --> 00:06:42,600
 Customers were usually friendly but this man was not.
 
-134
+132
 00:06:42,600 --> 00:06:45,840
 He had an angry expression, paid quickly and left.
 
-135
+133
 00:06:45,840 --> 00:06:47,960
 There was something strange about him.
 
-136
+134
 00:06:47,960 --> 00:06:50,920
 When Jim went home that evening he phoned Brian.
 
-137
-00:06:50,920 --> 00:06:51,760
-'Hi.
+135
+00:06:50,920 --> 00:06:53,760
+'Hi. How was your day?'
 
-138
-00:06:51,760 --> 00:06:53,760
-How was your day?'
-
-139
+136
 00:06:53,760 --> 00:06:55,960
 'Very busy,' said Brian.
 
-140
+137
 00:06:55,960 --> 00:06:57,800
 'Yes, mine too.
 
-141
+138
 00:06:57,800 --> 00:07:03,040
 Do you want to see that new science fiction movie on at The Big
 Screen movie theater?
 
-142
+139
 00:07:03,040 --> 00:07:07,040
 We can meet at 7 p.m. in front of the park,' said Jim.
 
-143
-00:07:07,040 --> 00:07:08,000
-'OK.
+140
+00:07:07,040 --> 00:07:11,840
+'OK. I' ll see you then,' said Brian, 'at Washington Square.'
 
-144
-00:07:08,000 --> 00:07:11,840
-I'll see you then,' said Brian, 'at Washington Square.'
 
-145
+141
 00:07:11,840 --> 00:07:13,200
 'Don't be late.'
 
-146
+142
 00:07:13,200 --> 00:07:16,600
 Jim left the house and started walking to the park.
 
-147
+143
 00:07:16,600 --> 00:07:20,080
 He stopped in front of the gate of the old Stewart mansion again.
 
 
-148
+144
 00:07:20,080 --> 00:07:22,000
 There was no one at the window.
 
-149
+145
 00:07:22,000 --> 00:07:23,720
 He stayed there a few minutes.
 
-150
+146
 00:07:23,720 --> 00:07:29,600
 It was windy and the big trees in the garden made strange noises.
 
 
-151
+147
 00:07:29,600 --> 00:07:31,120
 He looked at his watch.
 
-152
+148
 00:07:31,120 --> 00:07:33,360
 It was nearly seven o'clock.
 
-153
+149
 00:07:33,360 --> 00:07:35,520
 He was late to meet Brian.
 
-154
+150
 00:07:35,520 --> 00:07:37,040
 CHAPTER THREE
 
-155
+151
 00:07:37,040 --> 00:07:38,480
 The Stewart Mansion
 
-156
+152
 00:07:38,480 --> 00:07:43,400
 After the movies the two boys went to eat an ice-cream at Pier
 39.
 
-157
+153
 00:07:43,400 --> 00:07:45,240
 It was a beautiful night.
 
-158
+154
 00:07:45,240 --> 00:07:49,520
 They stopped and looked at Alcatraz Island in the middle of San
 Francisco Bay.
 
-159
+155
 00:07:49,520 --> 00:07:52,400
 Jim told Brian about the face at the window.
 
-160
+156
 00:07:52,400 --> 00:07:54,520
 'What?' said Brian.
 
-161
+157
 00:07:54,520 --> 00:07:55,840
 'I don't believe it.
 
-162
+158
 00:07:55,840 --> 00:07:58,200
 I want to come with you next week.
 
-163
+159
 00:07:58,200 --> 00:07:59,960
 I want to see her too.'
 
-164
-00:07:59,960 --> 00:08:00,840
-'Really?
+160
+00:07:59,960 --> 00:08:04,600
+'Really? That' s great!' said Jim.
 
-165
-00:08:00,840 --> 00:08:04,600
-That's great!' said Jim.
-
-166
+161
 00:08:04,600 --> 00:08:06,960
 'It's a strange place.
 
-167
+162
 00:08:06,960 --> 00:08:09,560
 I'm always a little afraid when I go alone.
 
-168
+163
 00:08:09,560 --> 00:08:11,280
 Let's go together soon.'
 
-169
+164
 00:08:11,280 --> 00:08:15,960
 On Monday after school the two friends met Susan at the bus stop.
 
 
-170
+165
 00:08:15,960 --> 00:08:17,560
 They got on the bus.
 
-171
+166
 00:08:17,560 --> 00:08:20,240
 'Where are you going?' Susan asked.
 
-172
+167
 00:08:20,240 --> 00:08:23,320
 'Can you keep a secret?' asked Jim.
 
-173
-00:08:23,320 --> 00:08:24,280
-'Why?
+168
+00:08:23,320 --> 00:08:27,040
+'Why? Do you have a secret?' asked Susan.
 
-174
-00:08:24,280 --> 00:08:27,040
-Do you have a secret?' asked Susan.
-
-175
+169
 00:08:27,040 --> 00:08:30,200
 'Yes, I do,' said Jim.
 
-176
+170
 00:08:30,200 --> 00:08:34,040
 'Is it about Jenny Lee's new boyfriend?' asked Susan.
 
-177
+171
 00:08:34,040 --> 00:08:37,400
 Jenny was a very popular girl in their class.
 
-178
+172
 00:08:37,400 --> 00:08:40,640
 Susan hoped Jenny Lee's new boyfriend wasn't Jim.
 
-179
+173
 00:08:40,640 --> 00:08:44,040
 He told her about the Stewart mansion and about the face at the
 window.
 
-180
+174
 00:08:44,040 --> 00:08:51,200
 Then he told his friends his grandfather's story about the mansion,
 the scientist and the mysterious accident.
 
-181
+175
 00:08:51,200 --> 00:08:53,840
 'Scary!' said Susan.
 
-182
-00:08:53,840 --> 00:08:55,840
-'Old mansions always have ghosts.
+176
+00:08:53,840 --> 00:08:57,320
+'Old mansions always have ghosts. Can I come with you?'
 
-183
-00:08:55,840 --> 00:08:57,320
-Can I come with you?'
-
-184
+177
 00:08:57,320 --> 00:09:01,560
 Jim smiled at her and said, Of course, but promise not to tell
 anyone.'
 
-185
+178
 00:09:01,560 --> 00:09:04,200
 Jim was happy that Susan wanted to come.
 
-186
+179
 00:09:04,200 --> 00:09:05,800
 Susan was pretty.
 
-187
+180
 00:09:05,800 --> 00:09:08,840
 'Hey, come on, it's our stop,' said Brian.
 
-188
+181
 00:09:08,840 --> 00:09:10,280
 'Let's get off.'
 
-189
+182
 00:09:10,280 --> 00:09:14,600
 It was 4.30 p.m. and it was a cold, sunny afternoon.
 
-190
+183
 00:09:14,600 --> 00:09:17,400
 The three friends walked up Telegraph Hill.
 
-191
+184
 00:09:17,400 --> 00:09:21,840
 When they arrived at the Stewart mansion they stopped in front
 of the old gate.
 
-192
+185
 00:09:21,840 --> 00:09:24,960
 'What a strange place,' said Susan.
 
-193
+186
 00:09:24,960 --> 00:09:27,720
 'It's cool!' said Brian.
 
-194
+187
 00:09:27,720 --> 00:09:31,000
 They looked at the window on the second floor but they saw nothing.
 
 
-195
+188
 00:09:31,000 --> 00:09:33,680
 They started talking and looking around.
 
-196
+189
 00:09:33,680 --> 00:09:37,920
 'Hey, do you smell anything strange?' said Susan.
 
-197
+190
 00:09:37,920 --> 00:09:39,960
 They stopped and smelled the air.
 
-198
+191
 00:09:39,960 --> 00:09:42,480
 There was a very bad smell in the air.
 
-199
+192
 00:09:42,480 --> 00:09:45,200
 'What is that smell?' asked Brian.
 
-200
+193
 00:09:45,200 --> 00:09:47,040
 'I don't know.
 
-201
+194
 00:09:47,040 --> 00:09:50,840
 It smells like rotten eggs!' said Jim.
 
-202
+195
 00:09:50,840 --> 00:09:56,280
 'Yes, that's true. But where is it coming from?' asked Brian.
 
 
-203
+196
 00:09:56,280 --> 00:09:58,560
 Susan and Br an looked at Jim.
 
-204
+197
 00:09:58,560 --> 00:10:01,280
 Then they looked at the window on the second floor again.
 
-205
+198
 00:10:01,280 --> 00:10:05,000
 'Are you sure you saw a face, Jim?' asked Susan.
 
-206
+199
 00:10:05,000 --> 00:10:06,840
 Jim didn't know what to say.
 
-207
+200
 00:10:06,840 --> 00:10:09,120
 There was no one at the window now.
 
-208
+201
 00:10:09,120 --> 00:10:14,000
 'This is a scary place but I don't see any ghosts,' said Brian.
 
 
-209
+202
 00:10:14,000 --> 00:10:16,920
 'This smell is terrible,' said Susan.
 
-210
+203
 00:10:16,920 --> 00:10:19,400
 'Let's go home and forget about the ghost.
 
-211
+204
 00:10:19,400 --> 00:10:22,120
 It was probably your imagination, Jim.
 
-212
+205
 00:10:22,120 --> 00:10:23,960
 'Look!' cried Jim.
 
-213
+206
 00:10:23,960 --> 00:10:26,320
 'There's yellow smoke over there.'
 
-214
+207
 00:10:26,320 --> 00:10:31,320
 Near the bottom window of the mansion they saw strange yellow
 smoke in the air.
 
-215
-00:10:31,320 --> 00:10:32,320
-'Wow!
+208
+00:10:31,320 --> 00:10:35,000
+'Wow! You' re right,' said Susan.
 
-216
-00:10:32,320 --> 00:10:35,000
-You're right,' said Susan.
-
-217
+209
 00:10:35,000 --> 00:10:37,920
 'What's happening here?' said Brian.
 
-218
-00:10:37,920 --> 00:10:39,960
-'It smells like a dead body.
+210
+00:10:37,920 --> 00:10:42,520
+'It smells like a dead body. Maybe there' s a dead body in the
+mansion!
 
-219
-00:10:39,960 --> 00:10:42,520
-Maybe there's a dead body in the mansion!
-
-220
+211
 00:10:42,520 --> 00:10:46,040
 Maybe this is a secret cemetery,' said Jim.
 
-221
+212
 00:10:46,040 --> 00:10:48,200
 Brian's face became white.
 
-222
+213
 00:10:48,200 --> 00:10:50,360
 The three friends looked at each other.
 
-223
+214
 00:10:50,360 --> 00:10:53,760
 'A secret cemetery?' they said softly.
 
-224
+215
 00:10:53,760 --> 00:10:57,440
 They were curious but terrified at the same time.
 
-225
+216
 00:10:57,440 --> 00:10:59,240
 No one knew what to say.
 
-226
+217
 00:10:59,240 --> 00:11:01,800
 'Oh, please let's go home.
 
-227
+218
 00:11:01,800 --> 00:11:05,480
 This place frightens me,' said Susan.
 
-228
+219
 00:11:05,480 --> 00:11:09,080
 'There's something strange happening here,' said Brian.
 
-229
+220
 00:11:09,080 --> 00:11:14,280
 They agreed to leave, and went to Jim's house to listen to his
 new CDs.
 
-230
+221
 00:11:14,280 --> 00:11:17,440
 They sat in Jim's room and talked about the mansion.
 
-231
+222
 00:11:17,440 --> 00:11:23,600
 Then Susan suddenly said, 'Hey, there's the big Chinese New Year
 parade this Saturday night.
 
-232
+223
 00:11:23,600 --> 00:11:25,920
 I'm taking the Moreno children.'
 
-233
+224
 00:11:25,920 --> 00:11:29,000
 'It's always lots of fun,' said Jim.
 
-234
+225
 00:11:29,000 --> 00:11:30,280
 'I'm going to go.'
 
-235
+226
 00:11:30,280 --> 00:11:32,200
 'Me too,' said Brian.
 
-236
+227
 00:11:32,200 --> 00:11:33,160
 CHAPTER FOUR
 
-237
+228
 00:11:33,160 --> 00:11:34,440
 Chinese New Year
 
-238
+229
 00:11:34,440 --> 00:11:36,960
 This was the Year of the Dragon.
 
-239
+230
 00:11:36,960 --> 00:11:40,160
 The Chinese believe that the dragon brings good luck.
 
-240
+231
 00:11:40,160 --> 00:11:44,360
 The Chinese New Year Parade is a very big event in San Francisco.
 
 
-241
+232
 00:11:44,360 --> 00:11:50,960
 It always takes place on a Saturday night between January 21
 and February 19.
 
-242
+233
 00:11:50,960 --> 00:11:53,640
 The date depends on the position of the moon.
 
-243
+234
 00:11:53,640 --> 00:11:57,000
 Thousands of people go to see the parade every year.
 
-244
+235
 00:11:57,000 --> 00:12:04,400
 There are many beautiful costumes, Chinese music and Grant Avenue
 is decorated with colorful lanterns.
 
-245
+236
 00:12:04,400 --> 00:12:07,400
 A long paper dragon moves along Grant Avenue.
 
-246
+237
 00:12:07,400 --> 00:12:10,320
 There are firecrackers and lots of noise.
 
-247
+238
 00:12:10,320 --> 00:12:13,760
 Jim and Brian took the cable car to Grant Avenue.
 
-248
+239
 00:12:13,760 --> 00:12:16,400
 It was always fun to ride the cable car.
 
-249
+240
 00:12:16,400 --> 00:12:20,000
 Susan and their high school friends were at the parade.
 
-250
+241
 00:12:20,000 --> 00:12:22,600
 Jenny Lee was there with her new boyfriend.
 
-251
+242
 00:12:22,600 --> 00:12:26,160
 He was the captain of the football team and he was handsome.
 
-252
+243
 00:12:26,160 --> 00:12:28,760
 There was a big crowd everywhere.
 
-253
+244
 00:12:28,760 --> 00:12:34,600
 Suddenly, on the other side of the street Jim saw the face of
 the little girl at the window in the crowd.
 
-254
+245
 00:12:34,600 --> 00:12:36,720
 Jim told Brian.
 
-255
+246
 00:12:36,720 --> 00:12:39,520
 'Let's follow her,' said Brian.
 
-256
+247
 00:12:39,520 --> 00:12:43,240
 It was difficult to move because there were lots of people everywhere.
 
 
-257
+248
 00:12:43,240 --> 00:12:46,560
 Then the big paper dragon appeared in the parade.
 
-258
+249
 00:12:46,560 --> 00:12:50,000
 The little girl suddenly disappeared behind the long dragon.
 
-259
+250
 00:12:50,000 --> 00:12:53,600
 'How can anyone disappear so quickly?' said Jim.
 
-260
+251
 00:12:53,600 --> 00:12:56,080
 They went back to watch the parade.
 
-261
+252
 00:12:56,080 --> 00:12:58,560
 'Maybe she is a ghost,' he thought.
 
-262
+253
 00:12:58,560 --> 00:13:00,280
 The weekend passed quickly.
 
-263
+254
 00:13:00,280 --> 00:13:03,080
 It was Monday morning and they were at school.
 
-264
+255
 00:13:03,080 --> 00:13:05,800
 Brian and Jim told Susan about the girl.
 
-265
+256
 00:13:05,800 --> 00:13:09,320
 Now she wanted to explore the Stewart mansion too.
 
-266
+257
 00:13:09,320 --> 00:13:11,360
 They made plans during lunch.
 
-267
+258
 00:13:11,360 --> 00:13:13,360
 'Let's go this evening after dinner.
 
-268
+259
 00:13:13,360 --> 00:13:18,240
 Remember to bring a flashlight and wear dark clothes,' said Jim.
 
 
-269
+260
 00:13:18,240 --> 00:13:20,080
 They were very excited.
 
-270
+261
 00:13:20,080 --> 00:13:24,120
 When school finished at 3:15 p.m. they ran out.
 
-271
+262
 00:13:24,120 --> 00:13:26,040
 They wanted to go home quickly.
 
-272
+263
 00:13:26,040 --> 00:13:30,520
 At about 7 p.m. they met in front of Jim's house on Telegraph
 Hill.
 
-273
+264
 00:13:30,520 --> 00:13:34,040
 When they arrived at the Stewart mansion everything was dark.
 
 
-274
+265
 00:13:34,040 --> 00:13:36,320
 It was a foggy, windy night.
 
-275
+266
 00:13:36,320 --> 00:13:40,320
 They looked at the window on the second floor, but there was
 no one there.
 
-276
+267
 00:13:40,320 --> 00:13:43,480
 They climbed over the fence and went into the garden.
 
-277
+268
 00:13:43,480 --> 00:13:46,160
 The tall trees moved in the wind.
 
-278
+269
 00:13:46,160 --> 00:13:49,440
 'I don't smell anything this time,' said Susan.
 
-279
+270
 00:13:49,440 --> 00:13:51,680
 'Me neither,' agreed Jim.
 
-280
+271
 00:13:51,680 --> 00:13:55,040
 'And now what do we do?' asked Brian.
 
-281
+272
 00:13:55,040 --> 00:13:57,600
 'I don't know,' said Jim.
 
-282
+273
 00:13:57,600 --> 00:13:59,080
 Let's look inside.
 
-283
+274
 00:13:59,080 --> 00:14:01,840
 here are windows near the ground, said Susan.
 
-284
+275
 00:14:01,840 --> 00:14:05,160
 'And let's remember to be very quiet,' she whispered.
 
-285
+276
 00:14:05,160 --> 00:14:07,240
 'OK,' said Jim.
 
-286
+277
 00:14:07,240 --> 00:14:10,400
 The three friends went to a window and looked inside.
 
-287
+278
 00:14:10,400 --> 00:14:12,360
 The glass was old and dirty.
 
-288
+279
 00:14:12,360 --> 00:14:14,800
 Brian turned on his flashlight and looked.
 
-289
+280
 00:14:14,800 --> 00:14:18,080
 There was a small room with an old desk and some chairs.
 
-290
+281
 00:14:18,080 --> 00:14:21,880
 'This was probably the study,' said Brian.
 
-291
+282
 00:14:21,880 --> 00:14:24,160
 Susan turned on her flashlight.
 
-292
+283
 00:14:24,160 --> 00:14:27,400
 'Look at the newspaper on the desk,' said Susan.
 
-293
+284
 00:14:27,400 --> 00:14:31,520
 'I can't see well, but it I think it's yesterday's newspaper.
 
 
-294
+285
 00:14:31,520 --> 00:14:35,560
 Look at the headline: 'Water scarce in San Francisco.'
 
-295
+286
 00:14:35,560 --> 00:14:37,880
 'But no one lives here,' said Jim.
 
-296
+287
 00:14:37,880 --> 00:14:42,800
 They looked inside another window and saw a big room with old
 furniture.
 
-297
+288
 00:14:42,800 --> 00:14:44,400
 It looked like the living room.
 
-298
+289
 00:14:44,400 --> 00:14:49,640
 On the wall there was a big painting of a man, a woman and a
 little girl.
 
-299
+290
 00:14:49,640 --> 00:14:54,520
 'Look, that's probably a painting of the Stewart family,' said
 Susan.
 
-300
+291
 00:14:54,520 --> 00:14:58,240
 'Yes, before the mysterious accident,' said Jim.
 
-301
-00:14:58,240 --> 00:15:00,960
-'And the little girl has long, dark hair.
+292
+00:14:58,240 --> 00:15:04,360
+'And the little girl has long, dark hair. She looks like the
+girl at the window,' said Susan.
 
-302
-00:15:00,960 --> 00:15:04,360
-She looks like the girl at the window,' said Susan.
-
-303
+293
 00:15:04,360 --> 00:15:08,040
 'But we saw the little girl at the parade,' said Brian.
 
-304
+294
 00:15:08,040 --> 00:15:09,840
 'How can she be a ghost?'
 
-305
+295
 00:15:09,840 --> 00:15:15,040
 'Remember, she disappeared behind the dragon very quickly,' said
 Jim.
 
-306
+296
 00:15:15,040 --> 00:15:17,560
 They went to the other side of the mansion.
 
-307
+297
 00:15:17,560 --> 00:15:20,520
 There was a broken window near the bottom of the house.
 
-308
+298
 00:15:20,520 --> 00:15:21,960
 They looked inside.
 
-309
+299
 00:15:21,960 --> 00:15:24,080
 They saw a big dark basement.
 
-310
+300
 00:15:24,080 --> 00:15:25,560
 No one was there.
 
-311
+301
 00:15:25,560 --> 00:15:28,800
 Then Jim turned on his flashlight too.
 
-312
+302
 00:15:28,800 --> 00:15:32,480
 In the basement they saw some long tables.
 
-313
+303
 00:15:32,480 --> 00:15:37,040
 There were test tubes, glass bottles and other laboratory equipment.
 
 
-314
+304
 00:15:37,040 --> 00:15:40,640
 'This looks like our chemistry lab,' said Jim.
 
-315
+305
 00:15:40,640 --> 00:15:43,640
 'Maybe someone is using it,' said Susan.
 
-316
+306
 00:15:43,640 --> 00:15:44,920
 'But why?'
 
-317
+307
 00:15:44,920 --> 00:15:49,880
 'Maybe someone is experimenting... with something secret,' said
 Brian.
 
-318
+308
 00:15:49,880 --> 00:15:53,760
 'I don't like this place,' said Susan.
 
-319
-00:15:53,760 --> 00:15:55,880
-'It gives me a bad feeling.
+309
+00:15:53,760 --> 00:15:58,360
+'It gives me a bad feeling. ' Are you scared?' asked Brian.
 
-320
-00:15:55,880 --> 00:15:58,360
-'Are you scared?' asked Brian.
-
-321
+310
 00:15:58,360 --> 00:16:02,800
 'No, I want to come back again, but in the daytime,' said Susan.
 
 
-322
+311
 00:16:02,800 --> 00:16:04,680
 'OK,' said Jim.
 
-323
+312
 00:16:04,680 --> 00:16:06,000
 'Let's go then.'
 
-324
+313
 00:16:06,000 --> 00:16:07,120
 Crash!
 
-325
+314
 00:16:07,120 --> 00:16:09,120
 There was a loud noise.
 
-326
+315
 00:16:09,120 --> 00:16:11,760
 It came from one of the rooms upstairs.
 
-327
+316
 00:16:11,760 --> 00:16:14,240
 'What was that?' cried Susan.
 
-328
+317
 00:16:14,240 --> 00:16:15,760
 'We're not alone here.
 
-329
+318
 00:16:15,760 --> 00:16:19,360
 Someone or something is here,' said Jim.
 
-330
+319
 00:16:19,360 --> 00:16:21,920
 'Let's get out of here!' said Brian.
 
-331
+320
 00:16:21,920 --> 00:16:23,960
 They started running to the fence.
 
-332
+321
 00:16:23,960 --> 00:16:29,760
 They ran under the trees and suddenly heard a strange sound from
 the branches above their heads.
 
-333
+322
 00:16:29,760 --> 00:16:30,880
 They looked up.
 
-334
+323
 00:16:30,880 --> 00:16:32,960
 'Eek!' cried Susan.
 
-335
+324
 00:16:32,960 --> 00:16:34,160
 'Bats!'
 
-336
+325
 00:16:34,160 --> 00:16:36,840
 They climbed over the fence quickly and ran away.
 
-337
+326
 00:16:36,840 --> 00:16:38,160
 CHAPTER FIVE
 
-338
+327
 00:16:38,160 --> 00:16:39,760
 A Mysterious Magician
 
-339
+328
 00:16:39,760 --> 00:16:42,000
 Jim heard the voice of a child in the fog.
 
-340
-00:16:42,000 --> 00:16:43,000
-'Help!
+329
+00:16:42,000 --> 00:16:43,840
+'Help! Help!'
 
-341
-00:16:43,000 --> 00:16:43,840
-Help!'
-
-342
+330
 00:16:43,840 --> 00:16:47,760
 It was a cold night Jim stood in front of the Stewart mansion.
 
 
-343
+331
 00:16:47,760 --> 00:16:49,760
 There was fog everywhere.
 
-344
+332
 00:16:49,760 --> 00:16:52,600
 The voice came from inside the mansion.
 
-345
+333
 00:16:52,600 --> 00:16:54,160
 He didn't know what to do.
 
-346
+334
 00:16:54,160 --> 00:16:58,360
 He wanted to help the child, but he also wanted to run away.
 
-347
+335
 00:16:58,360 --> 00:17:01,480
 Suddenly he felt a hand on his arm.
 
-348
+336
 00:17:01,480 --> 00:17:04,120
 For a moment his heart stopped.
 
-349
+337
 00:17:04,120 --> 00:17:05,920
 He could not turn around.
 
-350
+338
 00:17:05,920 --> 00:17:07,560
 He was too scared.
 
-351
+339
 00:17:07,560 --> 00:17:11,160
 An angry voice behind him said, 'What do you want?'
 
-352
+340
 00:17:11,160 --> 00:17:13,200
 Jim turned around slowly.
 
-353
+341
 00:17:13,200 --> 00:17:17,000
 He saw a big mar with long, dark hair and angry eyes.
 
-354
+342
 00:17:17,000 --> 00:17:20,880
 'It's the same man I saw at the supermarket two weeks ago,' he
 thought.
 
-355
+343
 00:17:20,880 --> 00:17:23,040
 He was about fifty years old.
 
-356
+344
 00:17:23,040 --> 00:17:26,360
 He had a silver tooth and it shone in the dark.
 
-357
+345
 00:17:26,360 --> 00:17:28,560
 He also had a silver earring.
 
-358
+346
 00:17:28,560 --> 00:17:29,960
 He was awful.
 
-359
+347
 00:17:29,960 --> 00:17:32,600
 'Well, what do you want here?'
 
-360
+348
 00:17:32,600 --> 00:17:37,240
 Jim looked at him and said, 'Noth... nothing...
 
-361
+349
 00:17:37,240 --> 00:17:38,760
 Who are you?'
 
-362
+350
 00:17:38,760 --> 00:17:40,680
 'Don't ask questions.
 
-363
+351
 00:17:40,680 --> 00:17:42,360
 Stay away from here.
 
-364
+352
 00:17:42,360 --> 00:17:44,120
 I'm a dangerous man.
 
-365
+353
 00:17:44,120 --> 00:17:47,560
 I eliminate problems and you're a problem.
 
-366
+354
 00:17:47,560 --> 00:17:48,840
 Go away now.'
 
-367
+355
 00:17:48,840 --> 00:17:51,920
 He pushed Jim to the ground and disappeared in the fog.
 
-368
+356
 00:17:51,920 --> 00:17:53,280
 Jim woke up.
 
-369
+357
 00:17:53,280 --> 00:17:54,760
 He was scared.
 
-370
-00:17:54,760 --> 00:17:55,920
-'Phew!
+358
+00:17:54,760 --> 00:17:59,080
+'Phew! It was only a dream,' he thought.
 
-371
-00:17:55,920 --> 00:17:59,080
-It was only a dream,' he thought.
-
-372
+359
 00:17:59,080 --> 00:18:01,040
 He looked at his alarm clock.
 
-373
+360
 00:18:01,040 --> 00:18:02,760
 It was 3 a.m.
 
-374
+361
 00:18:02,760 --> 00:18:08,080
 The next day Jim, Brian and Susan went back to the mansion in
 the afternoon.
 
-375
+362
 00:18:08,080 --> 00:18:10,280
 They went to the basement window.
 
-376
+363
 00:18:10,280 --> 00:18:11,880
 No one was there.
 
-377
+364
 00:18:11,880 --> 00:18:14,920
 But there was a big black book on one of the tables.
 
-378
-00:18:14,920 --> 00:18:18,040
-'Someone was here last night or this morning.
+365
+00:18:14,920 --> 00:18:19,720
+'Someone was here last night or this morning. There' s a book
+on the table.
 
-379
-00:18:18,040 --> 00:18:19,720
-There's a book on the table.
-
-380
+366
 00:18:19,720 --> 00:18:22,160
 It wasn't here last night,' said Jim.
 
-381
+367
 00:18:22,160 --> 00:18:24,400
 'You're right!' said Brian.
 
-382
+368
 00:18:24,400 --> 00:18:28,000
 'And who has the keys to the mansion?' asked Susan.
 
-383
+369
 00:18:28,000 --> 00:18:30,640
 'That's a good question,' said Brian.
 
-384
+370
 00:18:30,640 --> 00:18:33,840
 The days passed and something else happened.
 
-385
+371
 00:18:33,840 --> 00:18:38,480
 The grass in Washington Square was green again and there were
 flowers!
 
-386
+372
 00:18:38,480 --> 00:18:41,320
 Everyone in the neighborhood was surprised and happy.
 
-387
+373
 00:18:41,320 --> 00:18:43,800
 Jim talked with his grandfather about this.
 
-388
+374
 00:18:43,800 --> 00:18:46,120
 'Grandpa, it's amazing.
 
-389
+375
 00:18:46,120 --> 00:18:48,720
 Washington Square is beautiful again.
 
-390
+376
 00:18:48,720 --> 00:18:51,400
 The grass and the flowers are growing.
 
-391
+377
 00:18:51,400 --> 00:18:52,720
 But how?
 
-392
+378
 00:18:52,720 --> 00:18:54,080
 There's no rain.
 
-393
+379
 00:18:54,080 --> 00:18:58,560
 How can grass and flowers grow without water?' said Jim.
 
-394
+380
 00:18:58,560 --> 00:18:59,560
 'You're right.
 
-395
+381
 00:18:59,560 --> 00:19:01,000
 It's strange.
 
-396
+382
 00:19:01,000 --> 00:19:04,680
 There's no rain but the grass is growing,' said Grandpa.
 
-397
+383
 00:19:04,680 --> 00:19:07,480
 'There's an article in today's newspaper about it.'
 
-398
+384
 00:19:07,480 --> 00:19:09,160
 Jim started reading.
 
-399
+385
 00:19:09,160 --> 00:19:11,800
 Washington Square: who is the magician?
 
-400
+386
 00:19:11,800 --> 00:19:15,480
 The grass and flowers are growing again in Washington Square.
 
 
-401
+387
 00:19:15,480 --> 00:19:19,400
 The square was dry for months but now it is beautiful and green.
 
 
-402
+388
 00:19:19,400 --> 00:19:29,720
 The organizer of the Jazz Festival, Mike Murphy, says, 'I thought it wasn't possible to have the
 Jazz Festival this year, but now it's beautiful and we can have the festival as we always do.
 
-403
+389
 00:19:29,720 --> 00:19:32,960
 Artists from all over California are coming this year.'
 
-404
+390
 00:19:32,960 --> 00:19:36,880
 Some people believe something mysterious is happening in Washington
 Square.
 
-405
+391
 00:19:36,880 --> 00:19:38,480
 One person said.
 
-406
+392
 00:19:38,480 --> 00:19:43,160
 'There's no rain, but the grass and the flowers are growing.
 
-407
+393
 00:19:43,160 --> 00:19:47,320
 I don't believe in magic, but it's very strange.'
 
-408
+394
 00:19:47,320 --> 00:19:48,840
 Who is the magician?
 
-409
+395
 00:19:48,840 --> 00:19:53,720
 Mr Magician, can you bring San Francisco some rain too?
 
-410
+396
 00:19:53,720 --> 00:19:55,400
 CHAPTER SIX
 
-411
+397
 00:19:55,400 --> 00:19:56,200
 The Game
 
-412
+398
 00:19:56,200 --> 00:20:00,480
 One afternoon Susan took the Moreno children to Washington Square.
 
 
-413
+399
 00:20:00,480 --> 00:20:02,680
 They played in the small playground.
 
-414
+400
 00:20:02,680 --> 00:20:04,600
 Then they went to the duck pond.
 
-415
+401
 00:20:04,600 --> 00:20:07,280
 The children liked feeding the ducks in the pond.
 
-416
+402
 00:20:07,280 --> 00:20:09,360
 But the ducks were not hungry.
 
-417
+403
 00:20:09,360 --> 00:20:14,280
 'Susie, why aren't the ducks eating the bread?' asked little
 Sally Moreno.
 
-418
+404
 00:20:14,280 --> 00:20:15,320
 'I don't know.
 
-419
+405
 00:20:15,320 --> 00:20:16,760
 It's strange.
 
-420
+406
 00:20:16,760 --> 00:20:18,280
 They're usually hungry.
 
-421
+407
 00:20:18,280 --> 00:20:22,160
 The fish aren't hungry either, said Susan.
 
-422
+408
 00:20:22,160 --> 00:20:25,760
 'Well, it's half past five and it's time to go home.'
 
-423
+409
 00:20:25,760 --> 00:20:30,720
 The next morning there was a big crowd at Washington Square.
 
-424
+410
 00:20:30,720 --> 00:20:35,200
 Jim, Brian and Susan were there with many other people.
 
-425
+411
 00:20:35,200 --> 00:20:37,440
 Everyone was at the duck pond.
 
-426
+412
 00:20:37,440 --> 00:20:40,840
 Some of the ducks were dead and others were sick.
 
-427
+413
 00:20:40,840 --> 00:20:42,840
 Lots of fish were dead too.
 
-428
+414
 00:20:42,840 --> 00:20:45,760
 'This is terrible,' said Susan.
 
-429
+415
 00:20:45,760 --> 00:20:49,000
 'Someone poisoned those poor ducks,' said Jim.
 
-430
+416
 00:20:49,000 --> 00:20:52,680
 At that moment the bus came and the students got on.
 
-431
+417
 00:20:52,680 --> 00:20:56,640
 On the bus everyone continued talking about the ducks.
 
-432
+418
 00:20:56,640 --> 00:20:59,920
 Early the next morning Jim's grandfather bought the newspaper.
 
 
-433
+419
 00:20:59,920 --> 00:21:02,920
 During breakfast this is what they read:
 
-434
+420
 00:21:02,920 --> 00:21:05,680
 Dead ducks at popular City Square
 
-435
+421
 00:21:05,680 --> 00:21:10,800
 Eight ducks and many fish were found dead in the pond in Washington
 Square yesterday morning.
 
-436
+422
 00:21:10,800 --> 00:21:14,360
 Only last week people came to see the Jazz Festival.
 
-437
+423
 00:21:14,360 --> 00:21:15,960
 It was a great success.
 
-438
+424
 00:21:15,960 --> 00:21:22,040
 A scientist analyzed the grass and the water in the pond, and
 found a high quantity of a new chemical.
 
-439
+425
 00:21:22,040 --> 00:21:27,240
 'The new chemical is similar to Greenex, but it is more toxic.
 
 
-440
+426
 00:21:27,240 --> 00:21:30,480
 Greenex was a popular fertilizer twenty years ago.
 
-441
+427
 00:21:30,480 --> 00:21:34,560
 It is illegal to use it today,' the scientist said.
 
-442
+428
 00:21:34,560 --> 00:21:38,920
 The volunteer organization Helping Hands is now looking after
 the sick ducks.
 
-443
+429
 00:21:38,920 --> 00:21:44,400
 Volunteers can call this number: 392-0369.
 
-444
+430
 00:21:44,400 --> 00:21:48,520
 The San Francisco Police Department are investigating the case.
 
 
-445
+431
 00:21:48,520 --> 00:21:51,400
 'Wow!' exclaimed Jim.
 
-446
-00:21:51,400 --> 00:21:56,960
+432
+00:21:51,400 --> 00:22:00,440
 'This mysterious new chemical is responsible for the green grass.
+So someone created a new fertilizer and it' s toxic.'
 
-
-447
-00:21:56,960 --> 00:22:00,440
-So someone created a new fertilizer and it's toxic.'
-
-448
+433
 00:22:00,440 --> 00:22:04,320
 'What irresponsible people,' said Jim's grandfather.
 
-449
-00:22:04,320 --> 00:22:05,760
-'Think of the children.
+434
+00:22:04,320 --> 00:22:07,920
+'Think of the children. They play in Washington Square.'
 
-450
-00:22:05,760 --> 00:22:07,920
-They play in Washington Square.'
-
-451
+435
 00:22:07,920 --> 00:22:11,480
 On Thursday evening Jim and Brian were at Susan's house.
 
-452
-00:22:11,480 --> 00:22:14,800
-'This fertilizer thing is so strange.
+436
+00:22:11,480 --> 00:22:18,080
+'This fertilizer thing is so strange. Maybe it' s a mad scientist,'
+said Brian.
 
-453
-00:22:14,800 --> 00:22:18,080
-Maybe it's a mad scientist,' said Brian.
-
-454
+437
 00:22:18,080 --> 00:22:22,200
 'Maybe they can make a lot of money with this new fertilizer,'
 said Jim.
 
-455
-00:22:22,200 --> 00:22:24,080
-'Yes, a lot of money.
+438
+00:22:22,200 --> 00:22:27,320
+'Yes, a lot of money. And they' ll poison all the animals,' said
+Brian.
 
-456
-00:22:24,080 --> 00:22:27,320
-And they'll poison all the animals,' said Brian.
-
-457
+439
 00:22:27,320 --> 00:22:32,920
 Susan was quiet for a few minutes, then she said, 'I want to
 solve this mystery.
 
-458
+440
 00:22:32,920 --> 00:22:38,640
 I think there's a connection between the Stewart mansion and
 this fertilizer, but I don't I know...'
 
-459
+441
 00:22:38,640 --> 00:22:43,200
 On Friday evening Susan went to see her brother's football game.
 
 
-460
+442
 00:22:43,200 --> 00:22:47,160
 It was San Francisco University versus Monterey University.
 
-461
+443
 00:22:47,160 --> 00:22:49,000
 Tom was a good player.
 
-462
+444
 00:22:49,000 --> 00:22:51,560
 The stadium was almost full.
 
-463
+445
 00:22:51,560 --> 00:22:54,000
 Susan found a good seat to watch the game.
 
-464
+446
 00:22:54,000 --> 00:22:55,920
 Susan liked football games.
 
-465
+447
 00:22:55,920 --> 00:22:58,680
 She always went to watch her brother play.
 
-466
+448
 00:22:58,680 --> 00:23:02,400
 It was a cold night and she put her hands in her pockets.
 
-467
+449
 00:23:02,400 --> 00:23:05,720
 'I'm glad I have a warm jacket,' she thought.
 
-468
+450
 00:23:05,720 --> 00:23:07,840
 Then she looked at her watch.
 
-469
+451
 00:23:07,840 --> 00:23:09,760
 It was almost half past eight.
 
-470
+452
 00:23:09,760 --> 00:23:12,480
 It was time for the big game to start.
 
-471
+453
 00:23:12,480 --> 00:23:14,120
 She was excited.
 
-472
+454
 00:23:14,120 --> 00:23:18,480
 Suddenly two people behind her started talking about Washington
 Square.
 
-473
+455
 00:23:18,480 --> 00:23:23,120
 But she could not hear all of their conversation because there
 was lots of noise.
 
-474
+456
 00:23:23,120 --> 00:23:24,680
 She listened carefully.
 
-475
+457
 00:23:24,680 --> 00:23:29,360
 '...can't test anymore ... not now...' said one young woman.
 
-476
+458
 00:23:29,360 --> 00:23:31,800
 '...too dangerous...' said the other.
 
-477
+459
 00:23:31,800 --> 00:23:34,920
 'These people know something,' thought Susan.
 
-478
+460
 00:23:34,920 --> 00:23:38,320
 She continued listening but she did not look at them.
 
-479
+461
 00:23:38,320 --> 00:23:43,880
 '...it's illegal... but the experiment... almost finished...'
 said one voice.
 
-480
+462
 00:23:43,880 --> 00:23:48,560
 '...alright... on Lombard Street...' said the other voice.
 
-481
+463
 00:23:48,560 --> 00:23:50,240
 'Lombard Street!
 
-482
+464
 00:23:50,240 --> 00:23:53,840
 The Stewart mansion is on Lombard Street.
 
-483
+465
 00:23:53,840 --> 00:23:59,480
 So there is a connection between the mansion and Washington Square,'
 Susan thought.
 
-484
+466
 00:23:59,480 --> 00:24:01,160
 Suddenly she understood.
 
-485
+467
 00:24:01,160 --> 00:24:04,480
 'I must tell Jim and Brian,' she thought.
 
-486
+468
 00:24:04,480 --> 00:24:07,120
 She was very excited and looked at her watch.
 
-487
+469
 00:24:07,120 --> 00:24:11,280
 The game finished on time and San Francisco University won.
 
-488
+470
 00:24:11,280 --> 00:24:13,520
 After the game she phoned Jim.
 
-489
+471
 00:24:13,520 --> 00:24:17,120
 She told him about the conversation between the two young women.
 
 
-490
+472
 00:24:17,120 --> 00:24:19,320
 'You're a great detective Susan.
 
-491
+473
 00:24:19,320 --> 00:24:20,480
 You're right.
 
-492
+474
 00:24:20,480 --> 00:24:23,800
 It's that secret laboratory,' said Jim.
 
-493
+475
 00:24:23,800 --> 00:24:26,880
 'Let's tell police immediately,' said Susan.
 
-494
+476
 00:24:26,880 --> 00:24:29,840
 'Yes, that's the right thing to do.
 
-495
+477
 00:24:29,840 --> 00:24:31,600
 Tomorrow's Saturday.
 
-496
+478
 00:24:31,600 --> 00:24:38,440
 Let's meet early in the morning,' said Jim, 'I'll call the supermarket
 and tell them I can't work.'
 
-497
+479
 00:24:38,440 --> 00:24:40,560
 'OK,' said Susan.
 
-498
+480
 00:24:40,560 --> 00:24:42,320
 I'll call Brian now.'
 
-499
+481
 00:24:42,320 --> 00:24:45,880
 'It was lucky I went to Tom's football game,' she thought.
 
-500
+482
 00:24:45,880 --> 00:24:47,200
 CHAPTER SEVEN
 
-501
+483
 00:24:47,200 --> 00:24:48,360
 The Police Station
 
-502
+484
 00:24:48,360 --> 00:24:53,360
 On Saturday morning Jim, Brian and Susan went to Chinatown Police
 Station.
 
-503
+485
 00:24:53,360 --> 00:24:57,120
 'Good afternoon,' Brian said to the policeman at the door.
 
-504
+486
 00:24:57,120 --> 00:25:00,080
 'What can I do for you?' asked the policeman.
 
-505
+487
 00:25:00,080 --> 00:25:03,280
 'We want to report something,' said Brian.
 
-506
-00:25:03,280 --> 00:25:06,880
-'Come to my office and sit down, said the policeman.
+488
+00:25:03,280 --> 00:25:08,560
+'Come to my office and sit down, said the policeman. ' I'm Sergeant
+Chan.'
 
-507
-00:25:06,880 --> 00:25:08,560
-'I'm Sergeant Chan.'
-
-508
+489
 00:25:08,560 --> 00:25:11,400
 They explained everything to Sergeant Chan.
 
-509
+490
 00:25:11,400 --> 00:25:14,480
 He was interested and a little surprised.
 
-510
+491
 00:25:14,480 --> 00:25:18,440
 'Why were you at the Stewart mansion?' asked Sergeant Chan.
 
-511
+492
 00:25:18,440 --> 00:25:22,760
 'One day I saw the face of a little girl at the window,' said
 Jim.
 
-512
+493
 00:25:22,760 --> 00:25:26,400
 'I told my friends and we wanted to explore it.'
 
-513
+494
 00:25:26,400 --> 00:25:31,600
 'Did you see anyone inside this 'secret lab?' asked Sergeant
 Chan.
 
-514
+495
 00:25:31,600 --> 00:25:34,760
 'No, we didn't,' said Jim.
 
-515
+496
 00:25:34,760 --> 00:25:37,680
 'I understand,' said Sergeant Chan.
 
-516
-00:25:37,680 --> 00:25:40,840
-'The mansion is very close to Washington Square.
+497
+00:25:37,680 --> 00:25:46,280
+'The mansion is very close to Washington Square. Perhaps you discovered
+something interesting that night. I' ll send some officers to investigate.
 
-517
-00:25:40,840 --> 00:25:43,920
-Perhaps you discovered something interesting that night.
-
-518
-00:25:43,920 --> 00:25:46,280
-I'll send some officers to investigate.
-
-519
+498
 00:25:46,280 --> 00:25:48,160
 I want you to come too.
 
-520
+499
 00:25:48,160 --> 00:25:50,200
 You know where the laboratory is.
 
-521
+500
 00:25:50,200 --> 00:25:51,480
 I'll phone you'
 
-522
+501
 00:25:51,480 --> 00:25:53,440
 'Yes, Sergeant,' answered Jim.
 
-523
+502
 00:25:53,440 --> 00:25:56,400
 In the afternoon the phone rang at Jim's house.
 
-524
-00:25:56,400 --> 00:26:00,560
+503
+00:25:56,400 --> 00:26:02,600
 'Hello, this is Sergeant Chan of the San Francisco Police Department.
-
-
-525
-00:26:00,560 --> 00:26:02,600
 May I speak to Jim Reilly?'
 
-526
-00:26:02,600 --> 00:26:04,480
-'This is Jim Reilly.
+504
+00:26:02,600 --> 00:26:06,080
+'This is Jim Reilly. Hello Sergeant Chan.'
 
-527
-00:26:04,480 --> 00:26:06,080
-Hello Sergeant Chan.'
-
-528
-00:26:06,080 --> 00:26:10,200
+505
+00:26:06,080 --> 00:26:12,960
 'Jim, my officers and I are going to investigate the Stewart
-mansion.
+mansion. Can we meet you at 5 o' clock this afternoon?'
 
-529
-00:26:10,200 --> 00:26:12,960
-Can we meet you at 5 o'clock this afternoon?'
+506
+00:26:12,960 --> 00:26:18,760
+'Of course. Let' s meet in front of my house at 325 Lombard Street.
 
-530
-00:26:12,960 --> 00:26:14,200
-'Of course.
 
-531
-00:26:14,200 --> 00:26:18,760
-Let's meet in front of my house at 325 Lombard Street.
-
-532
+507
 00:26:18,760 --> 00:26:21,480
 Then we can go together,' said Jim.
 
-533
-00:26:21,480 --> 00:26:24,200
-'You and your friends wait outside your house.
+508
+00:26:21,480 --> 00:26:27,640
+'You and your friends wait outside your house. We' ll go in a
+police car, said Sergeant Chan.
 
-534
-00:26:24,200 --> 00:26:27,640
-We'll go in a police car, said Sergeant Chan.
-
-535
+509
 00:26:27,640 --> 00:26:29,680
 'We'll see you at 5 o'clock then.
 
-536
+510
 00:26:29,680 --> 00:26:30,600
 Goodbye.'
 
-537
+511
 00:26:30,600 --> 00:26:32,040
 Jim was excited.
 
-538
+512
 00:26:32,040 --> 00:26:34,680
 He told his grandfather about the phone call.
 
-539
+513
 00:26:34,680 --> 00:26:37,200
 'I'm very proud of you and your friends.
 
-540
+514
 00:26:37,200 --> 00:26:40,480
 You're doing the right thing,' said his grandfather.
 
-541
+515
 00:26:40,480 --> 00:26:43,080
 He smiled, but he was worried.
 
-542
+516
 00:26:43,080 --> 00:26:44,480
 'Thanks, grandpa.'
 
-543
+517
 00:26:44,480 --> 00:26:46,880
 Jim called Brian and Susan.
 
-544
-00:26:46,880 --> 00:26:49,040
-'Meet me outside my house.
+518
+00:26:46,880 --> 00:26:52,360
+'Meet me outside my house. The police are going to drive us to
+the mansion.'
 
-545
-00:26:49,040 --> 00:26:52,360
-The police are going to drive us to the mansion.'
-
-546
+519
 00:26:52,360 --> 00:26:53,960
 It was 5 p.m.
 
-547
+520
 00:26:53,960 --> 00:26:57,000
 Jim saw two police cars in front of his house.
 
-548
+521
 00:26:57,000 --> 00:27:00,960
 He and his friends got into the police car with Sergeant Chan.
 
 
-549
-00:27:00,960 --> 00:27:02,240
-'Good evening.
+522
+00:27:00,960 --> 00:27:05,880
+'Good evening. This is Sergeant Lopez,' said Sergeant Chan.
 
-550
-00:27:02,240 --> 00:27:05,880
-This is Sergeant Lopez,' said Sergeant Chan.
-
-551
+523
 00:27:05,880 --> 00:27:09,920
 'Pleased to meet you, sir,' said Jim, Brian and Susan.
 
-552
-00:27:09,920 --> 00:27:11,960
-'Now this is our plan.
+524
+00:27:09,920 --> 00:27:15,640
+'Now this is our plan. We' ll drive to the mansion and my officers
+and I will go in.
 
-553
-00:27:11,960 --> 00:27:15,640
-We'll drive to the mansion and my officers and I will go in.
-
-554
+525
 00:27:15,640 --> 00:27:18,760
 Jim, you will show us the basement window.
 
-555
+526
 00:27:18,760 --> 00:27:21,760
 After that you must stay outside the mansion.
 
-556
+527
 00:27:21,760 --> 00:27:25,120
 Only the police will enter because it can be dangerous.
 
-557
+528
 00:27:25,120 --> 00:27:26,480
 Do you understand?'
 
-558
+529
 00:27:26,480 --> 00:27:31,760
 'Yes I do sir, I'll wait outside with my friends,' said Jim.
 
-559
+530
 00:27:31,760 --> 00:27:34,840
 The police car drove up Telegraph Hill.
 
-560
+531
 00:27:34,840 --> 00:27:41,920
 When they arrived in front of the Stewart mansion, Jim, Sergeant
 Chan and Sergeant Lopez got out of the car.
 
-561
+532
 00:27:41,920 --> 00:27:44,600
 Three policemen got out of the second car.
 
-562
+533
 00:27:44,600 --> 00:27:46,480
 The five men followed Jim.
 
-563
+534
 00:27:46,480 --> 00:27:48,440
 He took them to the gate.
 
-564
+535
 00:27:48,440 --> 00:27:50,280
 The policeman looked around.
 
-565
+536
 00:27:50,280 --> 00:27:55,920
 'You go around the back of the house and we'll go around the
 front,' said Sergeant Chan to the other policemen.
 
-566
+537
 00:27:55,920 --> 00:28:00,000
 'Where did you see this laboratory?' Sergeant Chan asked Jim.
 
 
-567
+538
 00:28:00,000 --> 00:28:03,120
 'Over there by the window,' replied Jim.
 
-568
+539
 00:28:03,120 --> 00:28:06,000
 They saw yellow smoke near the basement window.
 
-569
+540
 00:28:06,000 --> 00:28:08,920
 There was a bad smell like before.
 
-570
+541
 00:28:08,920 --> 00:28:12,680
 'That's the smell of sulphur,' said Sergeant Chan.
 
-571
+542
 00:28:12,680 --> 00:28:14,400
 'And it's very strong.'
 
-572
+543
 00:28:14,400 --> 00:28:17,520
 He opened the gate and went in.
 
-573
+544
 00:28:17,520 --> 00:28:19,560
 The other policemen followed him.
 
-574
+545
 00:28:19,560 --> 00:28:22,400
 Jim remained outside with his friends and waited.
 
-575
+546
 00:28:22,400 --> 00:28:23,880
 CHAPTER EIGHT
 
-576
+547
 00:28:23,880 --> 00:28:25,480
 The Secret Formula
 
-577
+548
 00:28:25,480 --> 00:28:30,240
 There were four young people in the laboratory, two women and
 two men.
 
-578
+549
 00:28:30,240 --> 00:28:34,960
 They were in their early twenties and they were very busy with
 an experiment.
 
-579
+550
 00:28:34,960 --> 00:28:36,880
 They stood around the long table.
 
-580
+551
 00:28:36,880 --> 00:28:39,680
 One woman wrote something in the big black book.
 
-581
+552
 00:28:39,680 --> 00:28:42,240
 The other three worked with the test tubes.
 
-582
+553
 00:28:42,240 --> 00:28:45,080
 There was a portable computer on a small desk.
 
-583
+554
 00:28:45,080 --> 00:28:48,400
 Near the desk there was a little girl.
 
-584
+555
 00:28:48,400 --> 00:28:52,000
 The little girl was with the man with long hair and a silver
 earring.
 
-585
+556
 00:28:52,000 --> 00:28:56,200
 Sergeant Chan looked inside the basement window and saw people
 in the laboratory.
 
-586
-00:28:56,200 --> 00:28:58,000
-'Jim Reilly was right.
+557
+00:28:56,200 --> 00:29:04,040
+'Jim Reilly was right. There is an illegal laboratory here. Let'
+s go in!' said Sergeant Chan to his men.
 
-587
-00:28:58,000 --> 00:29:00,480
-There is an illegal laboratory here.
-
-588
-00:29:00,480 --> 00:29:04,040
-Let's go in!' said Sergeant Chan to his men.
-
-589
+558
 00:29:04,040 --> 00:29:07,640
 The police broke the front door and went into the mansion.
 
-590
+559
 00:29:07,640 --> 00:29:10,680
 They immediately went to the basement.
 
-591
-00:29:10,680 --> 00:29:14,560
-'This is the San Francisco Police Department!
+560
+00:29:10,680 --> 00:29:18,400
+'This is the San Francisco Police Department! Put your hands
+over your heads,' Sergeant Lopez cried.
 
-592
-00:29:14,560 --> 00:29:18,400
-Put your hands over your heads,' Sergeant Lopez cried.
+561
+00:29:18,400 --> 00:29:23,320
+'You have the right to remain silent. Anything you say can be
+used against you...'
 
-593
-00:29:18,400 --> 00:29:20,560
-'You have the right to remain silent.
-
-594
-00:29:20,560 --> 00:29:23,320
-Anything you say can be used against you...'
-
-595
+562
 00:29:23,320 --> 00:29:26,440
 The young people were surprised and angry.
 
-596
+563
 00:29:26,440 --> 00:29:29,520
 'Oh, no!' cried one young man.
 
-597
+564
 00:29:29,520 --> 00:29:33,560
 He and his friend ran to another door but the police stopped
 them.
 
-598
-00:29:33,560 --> 00:29:36,440
-'Who are you and what are you doing here?
+565
+00:29:33,560 --> 00:29:40,600
+'Who are you and what are you doing here? Do you know you are
+on private property?' said Sergeant Chan.
 
-599
-00:29:36,440 --> 00:29:40,600
-Do you know you are on private property?' said Sergeant Chan.
-
-
-600
+566
 00:29:40,600 --> 00:29:42,560
 One of the young women spoke.
 
-601
+567
 00:29:42,560 --> 00:29:44,440
 She was very nervous.
 
-602
-00:29:44,440 --> 00:29:46,400
-'My name is Barbara Dell.
+568
+00:29:44,440 --> 00:29:48,080
+'My name is Barbara Dell. We aren' t criminals.
 
-603
-00:29:46,400 --> 00:29:48,080
-We aren't criminals.
-
-604
+569
 00:29:48,080 --> 00:29:52,360
 We're students at San Francisco University in the Department
 of Chemistry.'
 
-605
+570
 00:29:52,360 --> 00:29:57,120
 'Who's that man? He doesn't look like a student,' said Sergeant
 Chan.
 
-606
+571
 00:29:57,120 --> 00:29:59,000
 'He's Ben Bradley.
 
-607
+572
 00:29:59,000 --> 00:30:04,160
 He has the key to the mansion because his grandfather was a gardener
 here many years ago.
 
-608
+573
 00:30:04,160 --> 00:30:06,080
 Now Ben doesn't have a home.
 
-609
+574
 00:30:06,080 --> 00:30:09,440
 He sleeps here at night.' said Barbara Dell.
 
-610
+575
 00:30:09,440 --> 00:30:12,680
 'Oh, shut up!' said Ben Bradley angrily.
 
-611
+576
 00:30:12,680 --> 00:30:15,720
 'Be quiet!' said Sergeant Chan.
 
-612
+577
 00:30:15,720 --> 00:30:18,560
 'Now continue your story.'
 
-613
+578
 00:30:18,560 --> 00:30:22,360
 'Don't tell them anything, Barbara!' cried one of the young men.
 
 
-614
+579
 00:30:22,360 --> 00:30:24,480
 'The formula is our secret.'
 
-615
+580
 00:30:24,480 --> 00:30:27,360
 'I want to tell the truth,' said Barbara.
 
-616
+581
 00:30:27,360 --> 00:30:30,240
 'We discovered a new molecule at the university.
 
-617
+582
 00:30:30,240 --> 00:30:34,880
 With this molecule we created a new formula for a powerful fertilizer.
 
 
-618
+583
 00:30:34,880 --> 00:30:37,760
 People can use this fertilizer without water.
 
-619
+584
 00:30:37,760 --> 00:30:40,280
 We knew that no one lived in this mansion.
 
-620
+585
 00:30:40,280 --> 00:30:46,680
 And we knew that there was an old laboratory in the basement
 because Mr Stewart was a scientist.
 
-621
+586
 00:30:46,680 --> 00:30:49,040
 We wanted to keep this a secret because...'
 
-622
+587
 00:30:49,040 --> 00:30:52,800
 'Because you wanted to sell it to a company and make a lot of
 money.
 
-623
+588
 00:30:52,800 --> 00:30:56,160
 And you tested the fertilizer in Washington Square.
 
-624
+589
 00:30:56,160 --> 00:30:59,200
 You polluted the water of the duck pond.
 
-625
+590
 00:30:59,200 --> 00:31:01,440
 You killed the ducks and the fish.
 
-626
+591
 00:31:01,440 --> 00:31:04,680
 Your new fertilizer is toxic and very dangerous.
 
-627
+592
 00:31:04,680 --> 00:31:07,880
 Do you know that children play in the park near the duck pond?'
 
 
-628
+593
 00:31:07,880 --> 00:31:10,400
 asked Sergeant Chan angrily.
 
-629
+594
 00:31:10,400 --> 00:31:15,520
 'We didn't want to pollute the water in the pond or the grass
 in the park,' said one of the young men.
 
-630
+595
 00:31:15,520 --> 00:31:18,360
 'We just wanted to test the new fertilizer.'
 
-631
-00:31:18,360 --> 00:31:21,400
-'And you decided to test it in a public park!
+596
+00:31:18,360 --> 00:31:24,640
+'And you decided to test it in a public park! Didn' t you think
+about the people and the wildlife?
 
-632
-00:31:21,400 --> 00:31:24,640
-Didn't you think about the people and the wildlife?
-
-633
+597
 00:31:24,640 --> 00:31:28,760
 You four must come with us to the Police Station,' said Sergeant
 Chan.
 
-634
+598
 00:31:28,760 --> 00:31:32,680
 'We will also take all the chemicals you are using in this laboratory.'
 
 
-635
+599
 00:31:32,680 --> 00:31:36,600
 The little girl at the desk was scared and started crying.
 
-636
+600
 00:31:36,600 --> 00:31:38,560
 She ran to Barbara Dell.
 
-637
+601
 00:31:38,560 --> 00:31:41,520
 'Who is she?' asked Sergeant Lopez.
 
-638
+602
 00:31:41,520 --> 00:31:43,360
 'She's my little sister.
 
-639
+603
 00:31:43,360 --> 00:31:46,200
 I bring her here sometimes,' said Barbara.
 
-640
+604
 00:31:46,200 --> 00:31:51,680
 Then the policemen, the university students and Ben Bradley came
 out of the mansion.
 
-641
+605
 00:31:51,680 --> 00:31:54,720
 Jim, Brian and Susan were outside.
 
-642
+606
 00:31:54,720 --> 00:31:58,120
 When Jim saw Ben Bradley he was very surprised.
 
-643
+607
 00:31:58,120 --> 00:32:01,800
 'It's the man from the supermarket,' he thought.
 
-644
+608
 00:32:01,800 --> 00:32:03,520
 The little girl looked at Jim.
 
-645
+609
 00:32:03,520 --> 00:32:05,280
 'Well, she's not a ghost.
 
-646
+610
 00:32:05,280 --> 00:32:06,880
 She's real,' he thought.
 
-647
+611
 00:32:06,880 --> 00:32:13,280
 Sergeant Chan smiled at Jim, Brian and Susan and said, 'You helped
 us a lot.
 
-648
+612
 00:32:13,280 --> 00:32:14,480
 Thank you.
 
-649
+613
 00:32:14,480 --> 00:32:18,480
 Come to the Police Station tomorrow and I'll explain everything.
 
 
-650
+614
 00:32:18,480 --> 00:32:19,760
 Thank you again.'
 
-651
+615
 00:32:19,760 --> 00:32:22,280
 The police cars drove away.
 
-652
+616
 00:32:22,280 --> 00:32:27,200
 The next day the three friends went to talk to Sergeant Chan.
 
 
-653
+617
 00:32:27,200 --> 00:32:31,520
 'Those university students were very intelligent,' said Jim.
 
-654
+618
 00:32:31,520 --> 00:32:33,880
 'They created a new formula.'
 
-655
+619
 00:32:33,880 --> 00:32:37,480
 'Yes, but they were also very irresponsible.
 
-656
+620
 00:32:37,480 --> 00:32:40,840
 We found many illegal chemicals in that basement.
 
-657
+621
 00:32:40,840 --> 00:32:43,600
 Those chemicals are very toxic.
 
-658
+622
 00:32:43,600 --> 00:32:46,640
 Now we must close Washington Square for a few weeks.
 
-659
+623
 00:32:46,640 --> 00:32:51,240
 There will be a lot of work for our chemical experts,' said Sergeant
 Chan.
 
-660
+624
 00:32:51,240 --> 00:32:55,040
 'What will happen to the university students?' asked Susan.
 
-661
+625
 00:32:55,040 --> 00:32:57,960
 'There will be a trial,' said Sergeant Chan.
 
-662
+626
 00:32:57,960 --> 00:32:59,360
 'They could go to prison.'
 
-663
+627
 00:32:59,360 --> 00:33:02,400
 'How are the other ducks?' asked Br an.
 
-664
-00:33:02,400 --> 00:33:05,320
-'The volunteers at Helping Hands are looking after them.
+628
+00:33:02,400 --> 00:33:08,360
+'The volunteers at Helping Hands are looking after them. They're
+feeling better,' said Sergeant Chan.
 
-665
-00:33:05,320 --> 00:33:08,360
-They're feeling better,' said Sergeant Chan.
-
-666
+629
 00:33:08,360 --> 00:33:11,800
 Jim, Brian and Susan left the police station.
 
-667
+630
 00:33:11,800 --> 00:33:13,440
 They were all happy.
 
-668
+631
 00:33:13,440 --> 00:33:16,920
 'Pizza for everyone tonight,' said Jim
 
-669
+632
 00:33:16,920 --> 00:33:19,080
 'Great idea,' said Brain.
 
-670
+633
 00:33:19,080 --> 00:33:23,720
 'Let's go to Nico's Pizza Place on Washington Square,' said Susan.
 
 
-671
+634
 00:33:23,720 --> 00:33:25,720
 Jim and Brian looked worried.
 
-672
+635
 00:33:25,720 --> 00:33:29,941
 'Don't worry, I'm only joking,' said Susan laughing.

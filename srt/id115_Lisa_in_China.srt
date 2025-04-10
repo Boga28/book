@@ -1,2027 +1,1379 @@
 1
-00:00:00,570 --> 00:00:05,790
+00:00:00,000 --> 00:00:02,640
 CHAPTER ONE
-It is Monday afternoon and Lisa is in her
 
 2
-00:00:05,790 --> 00:00:10,570
-bedroom, talking on the phone with her friend
-Ellie.
+00:00:02,680 --> 00:00:16,120
+It is Monday afternoon and Lisa is in her bedroom, talking
+on the phone with her friend Ellie.
 
 3
-00:00:10,570 --> 00:00:14,440
-Lisa is holding an official-looking envelope
-in her hand.
+00:00:16,160 --> 00:00:22,600
+Lisa is holding an official-looking envelope in her hand.
 
 4
-00:00:14,440 --> 00:00:19,430
-"It is from the Young Reporters Association,"
-Lisa tells her friend.
+00:00:22,600 --> 00:00:36,200
+"It is from the Young Reporters Association," Lisa tells her
+friend.
 
 5
-00:00:19,430 --> 00:00:20,500
-"I wonder...
+00:00:36,200 --> 00:00:39,880
+"I wonder... what is it about?"
 
 6
-00:00:20,500 --> 00:00:22,150
-what is it about?"
+00:00:39,880 --> 00:00:45,360
+"Go on then, what are you waiting for?" asks Ellie.
 
 7
-00:00:22,150 --> 00:00:25,920
-"Go on then, what are you waiting for?" asks
-Ellie.
-
-8
-00:00:25,920 --> 00:00:29,830
+00:00:45,360 --> 00:00:54,960
 "Open it right away, I'm so excited!"
 
-9
-00:00:29,830 --> 00:00:38,890
+8
+00:00:54,960 --> 00:01:04,480
 Lisa opens the letter and reads aloud:
 
-10
-00:00:38,890 --> 00:00:40,620
+9
+00:01:04,480 --> 00:01:06,280
 Dear Liza,
 
+10
+00:01:06,280 --> 00:01:30,320
+We are very happy to inform you that the young Reporters Association has randomly selected you to participate in the
+1st International Photo Convention with your photographs.
+
 11
-00:00:40,620 --> 00:00:46,010
-We are very happy to inform you that the young
-Reporters Association has randomly selected
+00:01:30,320 --> 00:01:39,240
+The convention will take place on 27-31July, in Beijing.
 
 12
-00:00:46,010 --> 00:00:52,590
-you to participate in the 1st International
-Photo Convention with your photographs.
+00:01:39,240 --> 00:01:50,520
+You will also have another six days for sightseeing on a
+train-tour with Hu Tian, one of our Chinese members.
 
 13
-00:00:52,590 --> 00:00:58,170
-The convention will take place on 27-31July,
-in Beijing.
+00:01:50,520 --> 00:02:01,000
+The young Reporters Association will plan and pay for the
+whole trip.
 
 14
-00:00:58,170 --> 00:01:05,410
-You will also have another six days for sightseeing
-on a train-tour with Hu Tian, one of our Chinese
-
-15
-00:01:05,410 --> 00:01:06,410
-members.
-
-16
-00:01:06,410 --> 00:01:10,930
-The young Reporters Association will plan
-and pay for the whole trip.
-
-17
-00:01:10,930 --> 00:01:13,430
+00:02:01,000 --> 00:02:03,040
 So, pack your bags, Lisa.
 
-18
-00:01:13,430 --> 00:01:16,360
+15
+00:02:03,040 --> 00:02:06,240
 You are going to China!
 
-19
-00:01:16,360 --> 00:01:17,470
+16
+00:02:06,240 --> 00:02:07,840
 Yiao Ming
 
-20
-00:01:17,470 --> 00:01:20,170
+17
+00:02:07,840 --> 00:02:13,440
 General Secretary of the Young Reporters Association
 
+18
+00:02:13,480 --> 00:02:22,520
+"They want to send me to China! I can't believe my luck!"
+she exclaims.
+
+19
+00:02:22,520 --> 00:02:32,640
+"I have never been to China before. What an interesting
+place to go!"
+
+20
+00:02:32,640 --> 00:02:39,720
+"Lisa! That's great news!" exclaims Ellie.
+
 21
-00:01:20,170 --> 00:01:22,790
-"They want to send me to China!
+00:02:39,720 --> 00:02:42,200
+"I know!" answers Lisa.
 
 22
-00:01:22,790 --> 00:01:25,070
-I can't believe my luck!"
+00:02:42,200 --> 00:02:53,360
+"I have never been to China, but it has always been one of
+my dreams," she says.
 
 23
-00:01:25,070 --> 00:01:26,070
-she exclaims.
+00:02:53,360 --> 00:03:04,080
+"Yes, it's an amazing opportunity for you," says Ellie.
 
 24
-00:01:26,070 --> 00:01:28,880
-"I have never been to China before.
+00:03:04,080 --> 00:03:25,960
+"And, when you get back, you could write a report about your
+trip for the school on-line newspaper. What do you think?"
 
 25
-00:01:28,880 --> 00:01:30,940
-What an interesting place to go!"
-
-26
-00:01:30,940 --> 00:01:31,940
-"Lisa!
-
-27
-00:01:31,940 --> 00:01:33,619
-That's great news!"
-
-28
-00:01:33,619 --> 00:01:34,770
-exclaims Ellie.
-
-29
-00:01:34,770 --> 00:01:35,930
-"I know!"
-
-30
-00:01:35,930 --> 00:01:37,090
-answers Lisa.
-
-31
-00:01:37,090 --> 00:01:42,850
-"I have never been to China, but it has always
-been one of my dreams," she says.
-
-32
-00:01:42,850 --> 00:01:48,079
-"Yes, it's an amazing opportunity for you,"
-says Ellie.
-
-33
-00:01:48,079 --> 00:01:52,820
-"And, when you get back, you could write a
-report about your trip for the school on-line
-
-34
-00:01:52,820 --> 00:01:54,120
-newspaper.
-
-35
-00:01:54,120 --> 00:01:55,120
-What do you think?"
-
-36
-00:01:55,120 --> 00:01:58,159
+00:03:25,960 --> 00:03:28,600
 "Oh, Ellie," laughs Lisa.
 
-37
-00:01:58,159 --> 00:01:59,360
-"OK.
+26
+00:03:28,600 --> 00:03:38,360
+"OK. You never seem to forget your position at the paper, do
+you?"
 
-38
-00:01:59,360 --> 00:02:02,270
-You never seem to forget your position at
-the paper, do you?"
+27
+00:03:38,360 --> 00:03:47,320
+"Well, I'm not the editor for nothing," the girl laughs
+back.
 
-39
-00:02:02,270 --> 00:02:06,560
-"Well, I'm not the editor for nothing," the
-girl laughs back.
-
-40
-00:02:06,560 --> 00:02:08,950
+28
+00:03:47,320 --> 00:03:51,320
 "Let's hang up now," she adds.
 
-41
-00:02:08,950 --> 00:02:13,250
-"You have to do some research before the trip,
-don't you think?"
+29
+00:03:51,320 --> 00:04:03,880
+"You have to do some research before the trip, don't you
+think?"
 
-42
-00:02:13,250 --> 00:02:15,190
+30
+00:04:03,920 --> 00:04:06,920
 "You're right," says Lisa.
 
-43
-00:02:15,190 --> 00:02:20,560
+31
+00:04:06,920 --> 00:04:09,320
 "China, here I come!"
 
-44
-00:02:20,560 --> 00:02:26,050
+32
+00:04:09,320 --> 00:04:11,520
 CHAPTER TWO
-After a long flight, Lisa finally arrives
 
-45
-00:02:26,050 --> 00:02:28,050
-in Beijing.
+33
+00:04:11,600 --> 00:04:21,280
+After a long flight, Lisa finally arrives in Beijing.
 
-46
-00:02:28,050 --> 00:02:32,110
-At the airport, a young man is waiting for
-her.
+34
+00:04:21,280 --> 00:04:26,240
+At the airport, a young man is waiting for her.
 
-47
-00:02:32,110 --> 00:02:38,070
-He is holding a sign reading "Lisa, YRA."
+35
+00:04:26,240 --> 00:04:39,320
+He is holding a sign reading "Lisa, YRA." Lisa goes towards
+him and the man greets her warmly.
 
-48
-00:02:38,070 --> 00:02:41,970
-Lisa goes towards him and the man greets her
-warmly.
+36
+00:04:39,320 --> 00:04:45,560
+"Nice to meet you, Lisa," he says and introduces himself.
 
-49
-00:02:41,970 --> 00:02:46,500
-"Nice to meet you, Lisa," he says and introduces
-himself.
+37
+00:04:45,600 --> 00:05:10,120
+"I am Hu Tian and I work for a local teen magazine here in Beijing. I will be your guide in China!" he says as he takes
+her suitcase.
 
-50
-00:02:46,500 --> 00:02:51,820
-"I am Hu Tian and I work for a local teen
-magazine here in Beijing.
-
-51
-00:02:51,820 --> 00:02:57,510
-I will be your guide in China!" he says as
-he takes her suitcase.
-
-52
-00:02:57,510 --> 00:03:00,420
+38
+00:05:10,120 --> 00:05:13,560
 Lisa is relieved.
 
-53
-00:03:00,420 --> 00:03:08,500
-Everything is so strange to her here and there
-are so many people everywhere!
+39
+00:05:13,560 --> 00:05:27,600
+Everything is so strange to her here and there are so many
+people everywhere!
 
-54
-00:03:08,500 --> 00:03:13,640
+40
+00:05:27,600 --> 00:05:33,680
 Hu Tian takes Lisa to her hotel by taxi.
 
-55
-00:03:13,640 --> 00:03:20,020
-"You must be tired after your long trip,"
-he says when they arrive.
+41
+00:05:33,680 --> 00:05:40,280
+"You must be tired after your long trip," he says when they
+arrive.
 
-56
-00:03:20,020 --> 00:03:23,850
-"Have some rest, and we'll meet again in the
-afternoon.
-
-57
-00:03:23,850 --> 00:03:26,570
+42
+00:05:40,280 --> 00:05:56,440
+"Have some rest, and we'll meet again in the afternoon.
 Then, you can have a taste of China."
 
-58
-00:03:26,570 --> 00:03:30,760
+43
+00:05:56,440 --> 00:06:02,000
 Lisa smiles as she goes to her hotel room.
 
-59
-00:03:30,760 --> 00:03:35,210
+44
+00:06:02,000 --> 00:06:08,400
 "I wonder what he meant," she thinks to herself.
 
-60
-00:03:35,210 --> 00:03:36,530
-"Oh, well...
+45
+00:06:08,400 --> 00:06:22,960
+"Oh, well... I guess I'll find out in a few hours," she says
+and falls asleep right away.
 
-61
-00:03:36,530 --> 00:03:42,630
-I guess I'll find out in a few hours," she
-says and falls asleep right away.
-
-62
-00:03:42,630 --> 00:03:46,810
+46
+00:06:22,960 --> 00:06:28,400
 After her nap, Lisa feels like a new person.
 
-63
-00:03:46,810 --> 00:03:51,310
-She meets up with Hu Tian and his sister,
-Mei.
+47
+00:06:28,400 --> 00:06:36,640
+She meets up with Hu Tian and his sister, Mei.
 
-64
-00:03:51,310 --> 00:03:54,870
-The two take her to a restaurant in the Old
-City.
+48
+00:06:36,640 --> 00:06:45,680
+The two take her to a restaurant in the Old City.
 
-65
-00:03:54,870 --> 00:03:58,810
-"So that's what you meant with 'a taste of
-China!'
+49
+00:06:45,680 --> 00:06:55,320
+"So that's what you meant with 'a taste of China!' Lisa
+exclaims.
 
-66
-00:03:58,810 --> 00:04:00,510
-Lisa exclaims.
+50
+00:06:55,320 --> 00:07:02,920
+"Yes," smiles Hu Tian. "You're going to enjoy a traditional
+Beijing dinner."
 
-67
-00:04:00,510 --> 00:04:02,620
-"Yes," smiles Hu Tian.
+51
+00:07:02,920 --> 00:07:12,120
+Lisa remembers the delicious Chinese food in New York and is
+excited to try some authentic Chinese cuisine.
 
-68
-00:04:02,620 --> 00:04:06,340
-"You're going to enjoy a traditional Beijing
-dinner."
-
-69
-00:04:06,340 --> 00:04:12,880
-Lisa remembers the delicious Chinese food
-in New York and is excited to try some authentic
-
-70
-00:04:12,880 --> 00:04:15,120
-Chinese cuisine.
-
-71
-00:04:15,120 --> 00:04:17,650
+52
+00:07:12,120 --> 00:07:18,440
 Maybe it will be even tastier.
 
-72
-00:04:17,650 --> 00:04:23,330
-At the restaurant, Lisa sees a round piece
-of glass in the centre of the table.
+53
+00:07:18,440 --> 00:07:29,320
+At the restaurant, Lisa sees a round piece of glass in the
+centre of the table.
 
-73
-00:04:23,330 --> 00:04:24,530
-"I know!"
+54
+00:07:29,320 --> 00:07:36,880
+"I know!" shouts Lisa.
 
-74
-00:04:24,530 --> 00:04:25,730
-shouts Lisa.
+55
+00:07:36,880 --> 00:08:14,160
+"It's a rotating tray! The waiter puts all of the dishes on the tray so that the people at the table can turn it and try
+each of the different kinds of food," she says with a smile.
 
-75
-00:04:25,730 --> 00:04:28,440
-"It's a rotating tray!
+56
+00:08:14,160 --> 00:08:25,080
+"It is customary to try a little bit of everything. It is also polite to always leave the last bite on the plate,"
+says Mei.
 
-76
-00:04:28,440 --> 00:04:33,760
-The waiter puts all of the dishes on the tray
-so that the people at the table can turn it
+57
+00:08:25,080 --> 00:08:38,200
+When the waiter comes to the table, they order traditional
+tea and several different dishes.
 
-77
-00:04:33,760 --> 00:04:37,940
-and try each of the different kinds of food,"
-she says with a smile.
+58
+00:08:38,200 --> 00:08:45,960
+"We ordered Peking Duck, it's a famous dish here," explains
+Mei.
 
-78
-00:04:37,940 --> 00:04:41,560
-"It is customary to try a little bit of everything.
+59
+00:08:45,960 --> 00:08:58,640
+The cook then brings the roast duck and cuts it in front of
+them.
 
-79
-00:04:41,560 --> 00:04:48,540
-It is also polite to always leave the last
-bite on the plate," says Mei.
+60
+00:08:58,640 --> 00:09:08,960
+A waiter also brings different dishes to eat along with the
+duck.
 
-80
-00:04:48,540 --> 00:04:54,130
-When the waiter comes to the table, they order
-traditional tea and several different dishes.
-
-81
-00:04:54,130 --> 00:05:00,380
-"We ordered Peking Duck, it's a famous dish
-here," explains Mei.
-
-82
-00:05:00,380 --> 00:05:05,310
-The cook then brings the roast duck and cuts
-it in front of them.
-
-83
-00:05:05,310 --> 00:05:10,120
-A waiter also brings different dishes to eat
-along with the duck.
-
-84
-00:05:10,120 --> 00:05:11,420
+61
+00:09:08,960 --> 00:09:10,200
 Lisa is impressed.
 
-85
-00:05:11,420 --> 00:05:14,420
-"What are all these little bowls?"
+62
+00:09:10,200 --> 00:09:14,320
+"What are all these little bowls?" asks Lisa.
 
-86
-00:05:14,420 --> 00:05:15,470
-asks Lisa.
+63
+00:09:14,320 --> 00:09:25,760
+"There are pancakes in this one and vegetables and three
+different kinds of sauces."
 
-87
-00:05:15,470 --> 00:05:20,890
-"There are pancakes in this one and vegetables
-and three different kinds of sauces."
-
-88
-00:05:20,890 --> 00:05:23,260
+64
+00:09:25,760 --> 00:09:28,360
 Hu Tian and Mei laugh.
 
-89
-00:05:23,260 --> 00:05:28,060
-"Let me show you how to eat Peking Duck" says
-Mei.
+65
+00:09:28,360 --> 00:09:35,560
+"Let me show you how to eat Peking Duck" says Mei.
 
-90
-00:05:28,060 --> 00:05:30,080
-"First, you take a pancake.
+66
+00:09:35,560 --> 00:09:48,680
+"First, you take a pancake. Then, you put some sauce and
+some vegetables on your pancake."
 
-91
-00:05:30,080 --> 00:05:33,940
-Then, you put some sauce and some vegetables
-on your pancake."
-
-92
-00:05:33,940 --> 00:05:36,330
+67
+00:09:48,680 --> 00:09:53,000
 "Ok, I got that," says Lisa.
 
-93
-00:05:36,330 --> 00:05:38,830
+68
+00:09:53,000 --> 00:09:56,000
 "This is fun, actually."
 
-94
-00:05:38,830 --> 00:05:42,970
-"Now put some duck in the pancake and wrap
-it.
+69
+00:09:56,000 --> 00:10:07,400
+"Now put some duck in the pancake and wrap it. Enjoy!" says
+Mei, smiling to the girl.
 
-95
-00:05:42,970 --> 00:05:46,570
-Enjoy!" says Mei, smiling to the girl.
-
-96
-00:05:46,570 --> 00:05:49,720
+70
+00:10:07,400 --> 00:10:10,120
 "Mmmm, delicious," says Lisa.
 
-97
-00:05:49,720 --> 00:05:52,680
+71
+00:10:10,120 --> 00:10:13,840
 "No wonder it's so famous!"
 
-98
-00:05:52,680 --> 00:05:57,960
-They take turns turning the tray and tasting
-the different kinds of food.
+72
+00:10:13,840 --> 00:10:25,760
+They take turns turning the tray and tasting the different
+kinds of food.
 
-99
-00:05:57,960 --> 00:06:00,890
+73
+00:10:25,760 --> 00:10:32,880
 Hu Tian and Mei are eating with chopsticks.
 
-100
-00:06:00,890 --> 00:06:04,260
-"Is it difficult to eat with chopsticks?"
+74
+00:10:32,880 --> 00:10:40,000
+"Is it difficult to eat with chopsticks?" asks Lisa.
 
-101
-00:06:04,260 --> 00:06:05,530
-asks Lisa.
+75
+00:10:40,000 --> 00:10:52,400
+"No, not really," says Hu Tian and Mei offers to teach her.
 
-102
-00:06:05,530 --> 00:06:10,920
-"No, not really," says Hu Tian and Mei offers
-to teach her.
+76
+00:10:52,440 --> 00:11:00,960
+"I've never learnt so much at a dinner table before!" Lisa
+says with a giggle.
 
-103
-00:06:10,920 --> 00:06:14,750
-"I've never learnt so much at a dinner table
-before!"
-
-104
-00:06:14,750 --> 00:06:16,830
-Lisa says with a giggle.
-
-105
-00:06:16,830 --> 00:06:24,990
+77
+00:11:00,960 --> 00:11:05,160
 It is a fun evening of new experiences.
 
-106
-00:06:24,990 --> 00:06:29,780
+78
+00:11:05,160 --> 00:11:08,120
 CHAPTER THREE
+
+79
+00:11:08,120 --> 00:11:14,000
 The next day is very busy.
 
-107
-00:06:29,780 --> 00:06:36,050
-Lisa spends almost all morning at the Photo
-Convention, presenting her work and talking
+80
+00:11:14,040 --> 00:11:26,280
+Lisa spends almost all morning at the Photo Convention,
+presenting her work and talking to lots of people.
 
-108
-00:06:36,050 --> 00:06:37,530
-to lots of people.
+81
+00:11:26,320 --> 00:11:32,880
+Then, she and Hu Tian meet with Mei and they go to Tiananmen
+Square.
 
-109
-00:06:37,530 --> 00:06:43,690
-Then, she and Hu Tian meet with Mei and they
-go to Tiananmen Square.
+82
+00:11:32,920 --> 00:11:42,400
+"Wow, this square is huge! It is much larger than any other
+square I have ever been to!" Lisa exclaims.
 
-110
-00:06:43,690 --> 00:06:49,150
-"Wow, this square is huge!
-
-111
-00:06:49,150 --> 00:06:52,940
-It is much larger than any other square I
-have ever been to!"
-
-112
-00:06:52,940 --> 00:06:54,400
-Lisa exclaims.
-
-113
-00:06:54,400 --> 00:06:59,500
-"This, my dear, is the largest city square
-in the world!"
-
-114
-00:06:59,500 --> 00:07:00,919
+83
+00:11:42,400 --> 00:11:50,120
+"This, my dear, is the largest city square in the world!"
 boasts Hu Tian.
 
-115
-00:07:00,919 --> 00:07:03,110
+84
+00:11:50,120 --> 00:11:52,240
 "One million people can fit here!"
 
-116
-00:07:03,110 --> 00:07:06,900
-"And who's that in the picture over there?"
-asks Lisa.
+85
+00:11:52,240 --> 00:12:03,360
+"And who's that in the picture over there?" asks Lisa.
 
-117
-00:07:06,900 --> 00:07:14,510
-"It's Mao Zedong, the founder of the People's
-Republic of China," explains Hu Tian.
+86
+00:12:03,360 --> 00:12:15,360
+"It's Mao Zedong, the founder of the People's Republic of
+China," explains Hu Tian.
 
-118
-00:07:14,510 --> 00:07:21,720
-Next, the three friends take a tour of the
-Forbidden City.
+87
+00:12:15,360 --> 00:12:21,320
+Next, the three friends take a tour of the Forbidden City.
 
-119
-00:07:21,720 --> 00:07:25,919
-Lisa is impressed by the artwork and history
-she discovers there.
+88
+00:12:21,320 --> 00:12:27,560
+Lisa is impressed by the artwork and history she discovers
+there.
 
-120
-00:07:25,919 --> 00:07:30,760
-"The Forbidden City is about 600 years old.
+89
+00:12:27,560 --> 00:13:04,120
+"The Forbidden City is about 600 years old. It used to be the Chinese Emperor's palace. You see, in Chinese history
+there were no kings or queens, we had emperors and empresses. Now the place is a huge museum, 'The Palace Museum.' Common people could not enter the Forbidden City; that is why they called it Forbidden," says Hu Tian.
 
-121
-00:07:30,760 --> 00:07:34,120
-It used to be the Chinese Emperor's palace.
+90
+00:13:04,120 --> 00:13:11,200
+Lisa and her friends are now in The Hall of Supreme Harmony.
 
-122
-00:07:34,120 --> 00:07:40,360
-You see, in Chinese history there were no
-kings or queens, we had emperors and empresses.
-
-123
-00:07:40,360 --> 00:07:46,199
-Now the place is a huge museum, 'The Palace
-Museum.'
-
-124
-00:07:46,199 --> 00:07:51,730
-Common people could not enter the Forbidden
-City; that is why they called it Forbidden,"
-
-125
-00:07:51,730 --> 00:07:53,139
-says Hu Tian.
-
-126
-00:07:53,139 --> 00:07:57,389
-Lisa and her friends are now in The Hall of
-Supreme Harmony.
-
-127
-00:07:57,389 --> 00:08:01,830
+91
+00:13:11,240 --> 00:13:21,120
 "The Emperor's throne is here," says Mei.
 
-128
-00:08:01,830 --> 00:08:03,949
+92
+00:13:21,120 --> 00:13:23,200
 Lisa looks around.
 
-129
-00:08:03,949 --> 00:08:06,800
+93
+00:13:23,200 --> 00:13:28,680
 There are dragons everywhere.
 
-130
-00:08:06,800 --> 00:08:10,050
+94
+00:13:28,720 --> 00:13:34,360
 Lisa is impressed and asks Mei about it.
 
-131
-00:08:10,050 --> 00:08:15,510
-"The dragon is a symbol of power, strength
-and good luck," Mei explains.
+95
+00:13:34,360 --> 00:13:43,560
+"The dragon is a symbol of power, strength and good luck,"
+Mei explains.
 
-132
-00:08:15,510 --> 00:08:18,770
+96
+00:13:43,560 --> 00:13:53,240
 "It was also the symbol of the Emperor himself."
 
-133
-00:08:18,770 --> 00:08:27,300
-"In the Hall of Supreme Harmony, experts counted
-13,844 dragons!"
+97
+00:13:53,240 --> 00:14:12,360
+"In the Hall of Supreme Harmony, experts counted 13,844
+dragons!" adds Hu Tian.
 
-134
-00:08:27,300 --> 00:08:29,600
-adds Hu Tian.
+98
+00:14:12,360 --> 00:14:25,240
+As they walk towards the exit, Lisa hears Hu Tian's voice.
 
-135
-00:08:29,600 --> 00:08:33,870
-As they walk towards the exit, Lisa hears
-Hu Tian's voice.
-
-136
-00:08:33,870 --> 00:08:37,190
+99
+00:14:25,240 --> 00:14:29,920
 "Come on, Lisa," Hu Tian shouts.
 
-137
-00:08:37,190 --> 00:08:39,130
-"I'm hungry.
+100
+00:14:29,920 --> 00:14:33,760
+"I'm hungry. Let's have some lunch!"
 
-138
-00:08:39,130 --> 00:08:40,400
-Let's have some lunch!"
+101
+00:14:33,760 --> 00:14:36,960
+"That sounds great!" Lisa replies.
 
-139
-00:08:40,400 --> 00:08:42,830
-"That sounds great!"
+102
+00:14:36,960 --> 00:14:46,240
+"Where shall we eat?" she asks as they walk towards the
+exit.
 
-140
-00:08:42,830 --> 00:08:43,830
-Lisa replies.
+103
+00:14:46,240 --> 00:15:08,800
+"I know! Let's have a picnic near Tiananmen Square. We can buy some sandwiches over there," Hu Tian suggests, pointing
+to a shop across the street.
 
-141
-00:08:43,830 --> 00:08:45,880
-"Where shall we eat?"
+104
+00:15:08,800 --> 00:15:22,680
+They sit down on a bench and have a lovely picnic in the
+warm sun.
 
-142
-00:08:45,880 --> 00:08:48,510
-she asks as they walk towards the exit.
-
-143
-00:08:48,510 --> 00:08:49,910
-"I know!
-
-144
-00:08:49,910 --> 00:08:53,950
-Let's have a picnic near Tiananmen Square.
-
-145
-00:08:53,950 --> 00:08:59,650
-We can buy some sandwiches over there," Hu
-Tian suggests, pointing to a shop across the
-
-146
-00:08:59,650 --> 00:09:02,910
+105
+00:15:22,680 --> 00:15:28,160
+Lisa is admiring a very large, modern building across the
 street.
 
-147
-00:09:02,910 --> 00:09:08,350
-They sit down on a bench and have a lovely
-picnic in the warm sun.
-
-148
-00:09:08,350 --> 00:09:12,810
-Lisa is admiring a very large, modern building
-across the street.
-
-149
-00:09:12,810 --> 00:09:16,060
+106
+00:15:28,160 --> 00:15:32,880
 "That is a beautiful building," says Lisa.
 
-150
-00:09:16,060 --> 00:09:19,480
+107
+00:15:32,880 --> 00:15:39,560
 "It looks like a giant egg, doesn't it?"
 
-151
-00:09:19,480 --> 00:09:21,740
+108
+00:15:39,560 --> 00:15:42,960
 "You're right, Lisa," says Mei.
 
-152
-00:09:21,740 --> 00:09:27,880
-"It is the National Center for the Performing
-Arts, but the local people just call it 'The
+109
+00:15:42,960 --> 00:15:55,800
+"It is the National Center for the Performing Arts, but the local people just call it 'The Egg.' Concerts, operas and
+plays take place there."
 
-153
-00:09:27,880 --> 00:09:28,880
-Egg.'
+110
+00:15:55,840 --> 00:16:04,440
+After lunch, they go to the Olympic Green, the most modern
+part of Beijing.
 
-154
-00:09:28,880 --> 00:09:33,070
-Concerts, operas and plays take place there."
+111
+00:16:04,440 --> 00:16:11,120
+"Wow! Look at all those buildings!" Lisa exclaims.
 
-155
-00:09:33,070 --> 00:09:38,330
-After lunch, they go to the Olympic Green,
-the most modern part of Beijing.
-
-156
-00:09:38,330 --> 00:09:39,550
-"Wow!
-
-157
-00:09:39,550 --> 00:09:41,510
-Look at all those buildings!"
-
-158
-00:09:41,510 --> 00:09:42,660
-Lisa exclaims.
-
-159
-00:09:42,660 --> 00:09:45,410
+112
+00:16:11,120 --> 00:16:14,360
 "That one looks like an ice cube."
 
-160
-00:09:45,410 --> 00:09:48,710
-"Yes, it's a very interesting building.
+113
+00:16:14,360 --> 00:16:33,520
+"Yes, it's a very interesting building. That's the National Aquatics Center. It housed the swimming and diving
+competitions of the Summer Olympic Games in 2008," replies Hu Tian.
 
-161
-00:09:48,710 --> 00:09:51,190
-That's the National Aquatics Center.
+114
+00:16:33,520 --> 00:16:45,160
+"See that one over there?" says Mei, pointing at a very strange structure, "That's the National Stadium, the Bird's
+Nest. Can you see why?"
 
-162
-00:09:51,190 --> 00:09:57,830
-It housed the swimming and diving competitions
-of the Summer Olympic Games in 2008," replies
+115
+00:16:45,200 --> 00:16:51,840
+"Of course, it's like a gigantic bird's nest!" Lisa replies.
 
-163
-00:09:57,830 --> 00:09:58,830
-Hu Tian.
+116
+00:16:51,840 --> 00:16:57,400
+"China has certainly changed a lot since the times of the
+emperors in the Forbidden City!"
 
-164
-00:09:58,830 --> 00:10:05,550
-"See that one over there?" says Mei, pointing
-at a very strange structure, "That's the National
-
-165
-00:10:05,550 --> 00:10:08,110
-Stadium, the Bird's Nest.
-
-166
-00:10:08,110 --> 00:10:09,260
-Can you see why?"
-
-167
-00:10:09,260 --> 00:10:13,140
-"Of course, it's like a gigantic bird's nest!"
-
-168
-00:10:13,140 --> 00:10:14,390
-Lisa replies.
-
-169
-00:10:14,390 --> 00:10:26,260
-"China has certainly changed a lot since the
-times of the emperors in the Forbidden City!"
-
-170
-00:10:26,260 --> 00:10:31,920
+117
+00:16:57,440 --> 00:16:59,160
 CHAPTER FOUR
-For Lisa's last day in Beijing, Hu Tian and
 
-171
-00:10:31,920 --> 00:10:34,920
-Mei have a special surprise for her.
+118
+00:16:59,240 --> 00:17:05,240
+For Lisa's last day in Beijing, Hu Tian and Mei have a
+special surprise for her.
 
-172
-00:10:34,920 --> 00:10:37,880
-They decide to take their friend on a short
-trip.
+119
+00:17:05,240 --> 00:17:10,480
+They decide to take their friend on a short trip.
 
-173
-00:10:37,880 --> 00:10:42,070
-"Where are we going?" asks Lisa at the bus
-station.
+120
+00:17:10,480 --> 00:17:13,840
+"Where are we going?" asks Lisa at the bus station.
 
-174
-00:10:42,070 --> 00:10:43,880
-"We can't tell you.
+121
+00:17:13,840 --> 00:17:19,840
+"We can't tell you. It's a surprise," says Hu Tian with a
+grin.
 
-175
-00:10:43,880 --> 00:10:47,390
-It's a surprise," says Hu Tian with a grin.
+122
+00:17:19,840 --> 00:17:24,160
+"Yes, you'll see when we get there," says Mei with a giggle.
 
-176
-00:10:47,390 --> 00:10:52,080
-"Yes, you'll see when we get there," says
-Mei with a giggle.
-
-177
-00:10:52,080 --> 00:10:58,340
+123
+00:17:24,160 --> 00:17:26,760
 "Now, let's get on the bus."
 
-178
-00:10:58,340 --> 00:11:01,930
+124
+00:17:26,760 --> 00:17:29,920
 The scenery changes outside the bus window.
 
-179
-00:11:01,930 --> 00:11:07,790
-The tall skyscrapers and cars of the city
-soon give way to smaller buildings and fewer
+125
+00:17:29,960 --> 00:17:49,240
+The tall skyscrapers and cars of the city soon give way to smaller buildings and fewer cars, until there are only
+endless golden fields.
 
-180
-00:11:07,790 --> 00:11:12,470
-cars, until there are only endless golden
-fields.
+126
+00:17:49,240 --> 00:17:52,240
+"Where we are going?" Lisa wonders.
 
-181
-00:11:12,470 --> 00:11:15,010
-"Where we are going?"
+127
+00:17:52,240 --> 00:18:02,400
+Then, she looks outside the window and suddenly realises.
 
-182
-00:11:15,010 --> 00:11:16,490
-Lisa wonders.
+128
+00:18:02,440 --> 00:18:11,840
+"Wow! The Great Wall of China! One of the greatest wonders
+of the world!" she exclaims.
 
-183
-00:11:16,490 --> 00:11:21,170
-Then, she looks outside the window and suddenly
-realises.
+129
+00:18:11,840 --> 00:18:17,800
+"How long is it, anyway?" she asks her friends.
 
-184
-00:11:21,170 --> 00:11:22,320
-"Wow!
+130
+00:18:17,800 --> 00:18:35,480
+"The Great Wall of China is 8,851.8 km or 5,500 miles long,"
+Hu Tian says proudly.
 
-185
-00:11:22,320 --> 00:11:23,590
-The Great Wall of China!
-
-186
-00:11:23,590 --> 00:11:27,270
-One of the greatest wonders of the world!"
-
-187
-00:11:27,270 --> 00:11:28,270
-she exclaims.
-
-188
-00:11:28,270 --> 00:11:30,610
-"How long is it, anyway?"
-
-189
-00:11:30,610 --> 00:11:32,279
-she asks her friends.
-
-190
-00:11:32,279 --> 00:11:43,770
-"The Great Wall of China is 8,851.8 km or
-5,500 miles long," Hu Tian says proudly.
-
-191
-00:11:43,770 --> 00:11:47,930
+131
+00:18:35,480 --> 00:18:44,000
 "And it's more than 2,000 years old!" he continues.
 
-192
-00:11:47,930 --> 00:11:56,870
-"The Emperor Qin Shihuang of the Qin Dynasty
-started the Wall around 221BC," adds Mei.
+132
+00:18:44,000 --> 00:18:57,040
+"The Emperor Qin Shihuang of the Qin Dynasty started the
+Wall around 221BC," adds Mei.
 
-193
-00:11:56,870 --> 00:12:02,940
-"But work continued during the Han and until
-the Ming Dynasty in the 14th century," she
+133
+00:18:57,040 --> 00:19:05,200
+"But work continued during the Han and until the Ming
+Dynasty in the 14th century," she says.
 
-194
-00:12:02,940 --> 00:12:03,940
-says.
+134
+00:19:05,200 --> 00:19:14,400
+"Thousands, if not millions, of people worked day and night
+to finish the Wall."
 
-195
-00:12:03,940 --> 00:12:09,839
-"Thousands, if not millions, of people worked
-day and night to finish the Wall."
+135
+00:19:14,400 --> 00:19:22,560
+"It's very impressive," says Lisa as the three walk to the
+closest part of the Great Wall.
 
-196
-00:12:09,839 --> 00:12:17,860
-"It's very impressive," says Lisa as the three
-walk to the closest part of the Great Wall.
-
-197
-00:12:17,860 --> 00:12:19,550
+136
+00:19:22,560 --> 00:19:24,920
 It is on a steep hill.
 
-198
-00:12:19,550 --> 00:12:27,100
-"This is a beautiful walk, but it is harder
-than it looks," Lisa says, stopping to catch
+137
+00:19:25,000 --> 00:19:36,680
+"This is a beautiful walk, but it is harder than it looks,"
+Lisa says, stopping to catch her breath.
 
-199
-00:12:27,100 --> 00:12:28,270
-her breath.
-
-200
-00:12:28,270 --> 00:12:30,550
+138
+00:19:36,680 --> 00:19:39,280
 "Don't worry," Hu Tian replies.
 
-201
-00:12:30,550 --> 00:12:32,850
+139
+00:19:39,280 --> 00:19:42,280
 "You will be able to relax later."
 
-202
-00:12:32,850 --> 00:12:34,660
-"What do you mean?"
+140
+00:19:42,280 --> 00:19:43,800
+"What do you mean?" she asks.
 
-203
-00:12:34,660 --> 00:12:35,660
-she asks.
-
-204
-00:12:35,660 --> 00:12:39,339
+141
+00:19:43,800 --> 00:19:51,080
 "It's another surprise," Hu Tian says, smiling.
 
-205
-00:12:39,339 --> 00:12:41,580
-"A whole day of surprises!
+142
+00:19:51,080 --> 00:20:07,640
+"A whole day of surprises! This is so much fun! You two are great!" Lisa says as she takes photos of her new friends and
+the Great Wall.
 
-206
-00:12:41,580 --> 00:12:43,660
-This is so much fun!
-
-207
-00:12:43,660 --> 00:12:45,850
-You two are great!"
-
-208
-00:12:45,850 --> 00:12:51,089
-Lisa says as she takes photos of her new friends
-and the Great Wall.
-
-209
-00:12:51,089 --> 00:12:56,149
+143
+00:20:07,640 --> 00:20:11,400
 "Now say 'cheese'!"
 
-210
-00:12:56,149 --> 00:13:00,080
-A little later, Hu Tian and Mei look at Lisa
-and smile.
+144
+00:20:11,400 --> 00:20:18,880
+A little later, Hu Tian and Mei look at Lisa and smile.
 
-211
-00:13:00,080 --> 00:13:04,459
-"It is time to show you a different China,"
-says Hu Tian.
+145
+00:20:18,880 --> 00:20:27,120
+"It is time to show you a different China," says Hu Tian.
 
-212
-00:13:04,459 --> 00:13:09,520
-"I have no idea what you're talking about,
-but I'm sure it's going to be another great
+146
+00:20:27,120 --> 00:20:39,560
+"I have no idea what you're talking about, but I'm sure it's going to be another great experience," Lisa says, smiling
+back.
 
-213
-00:13:09,520 --> 00:13:19,320
-experience," Lisa says, smiling back.
+147
+00:20:39,560 --> 00:20:47,800
+Another bus takes them beyond the fields until they reach a
+small farming village.
 
-214
-00:13:19,320 --> 00:13:26,410
-Another bus takes them beyond the fields until
-they reach a small farming village.
-
-215
-00:13:26,410 --> 00:13:30,279
+148
+00:20:47,800 --> 00:20:53,360
 They get off and see an elderly man and woman.
 
-216
-00:13:30,279 --> 00:13:35,230
-"Ni hao," they greet the three friends in
-Chinese.
+149
+00:20:53,360 --> 00:21:01,880
+"Ni hao," they greet the three friends in Chinese.
 
-217
-00:13:35,230 --> 00:13:39,480
-"Hello," says Lisa and then turns to Hu Tian
-and Mei.
+150
+00:21:01,880 --> 00:21:11,680
+"Hello," says Lisa and then turns to Hu Tian and Mei.
 
-218
-00:13:39,480 --> 00:13:42,870
+151
+00:21:11,720 --> 00:21:17,440
 "They are our aunt and uncle," says Mei.
 
-219
-00:13:42,870 --> 00:13:46,490
-"They don't speak English but they are very
-friendly."
+152
+00:21:17,440 --> 00:21:21,080
+"They don't speak English but they are very friendly."
 
-220
-00:13:46,490 --> 00:13:53,120
-Then they all walk down a small road with
-gates and walls on all sides.
+153
+00:21:21,080 --> 00:21:27,800
+Then they all walk down a small road with gates and walls on
+all sides.
 
-221
-00:13:53,120 --> 00:13:54,990
+154
+00:21:27,800 --> 00:21:32,000
 They enter one of the gateways.
 
-222
-00:13:54,990 --> 00:13:58,350
-"This is our aunt and uncle's house.
+155
+00:21:32,040 --> 00:21:40,200
+"This is our aunt and uncle's house. It is very
+traditional," says Mei.
 
-223
-00:13:58,350 --> 00:14:04,260
-It is very traditional," says Mei.
-
-224
-00:14:04,260 --> 00:14:08,760
+156
+00:21:40,200 --> 00:21:45,040
 Next, they all sit down and have tea together.
 
-225
-00:14:08,760 --> 00:14:13,790
-"Tea is very important in Chinese culture,"
-explains Mei.
+157
+00:21:45,040 --> 00:21:48,920
+"Tea is very important in Chinese culture," explains Mei.
 
-226
-00:14:13,790 --> 00:14:18,640
-"Chinese people drink a lot of tea, and we
-also celebrate a number of occasions with
+158
+00:21:48,920 --> 00:21:56,920
+"Chinese people drink a lot of tea, and we also celebrate a
+number of occasions with tea ceremonies."
 
-227
-00:14:18,640 --> 00:14:19,890
-tea ceremonies."
-
-228
-00:14:19,890 --> 00:14:22,760
+159
+00:21:56,920 --> 00:22:00,160
 "Oh, good," smiles Lisa.
 
-229
-00:14:22,760 --> 00:14:26,700
+160
+00:22:00,160 --> 00:22:05,720
 "I love tea, it's my favourite drink!"
 
-230
-00:14:26,700 --> 00:14:32,580
-On their way back a few hours later, Lisa
-remarks: "It was so exciting to see what life
+161
+00:22:05,720 --> 00:22:21,080
+On their way back a few hours later, Lisa remarks: "It was so exciting to see what life is like for people in the
+countryside. It is very different from the busy Beijing life."
 
-231
-00:14:32,580 --> 00:14:34,480
-is like for people in the countryside.
+162
+00:22:21,120 --> 00:22:33,360
+"Well, a lot of Chinese still live in villages like that,
+not cities," explains Hu Tian.
 
-232
-00:14:34,480 --> 00:14:38,589
-It is very different from the busy Beijing
-life."
-
-233
-00:14:38,589 --> 00:14:45,050
-"Well, a lot of Chinese still live in villages
-like that, not cities," explains Hu Tian.
-
-234
-00:14:45,050 --> 00:14:47,800
+163
+00:22:33,360 --> 00:22:37,680
 "What do you think of life in the village?"
 
-235
-00:14:47,800 --> 00:14:53,330
-"Hmm... the village is quieter and the countryside
-around it is very beautiful.
+164
+00:22:37,680 --> 00:22:54,520
+"Hmm... the village is quieter and the countryside around it is very beautiful. However, there is more technology in the
+city and more things to do than in the village," says Lisa thoughtfully.
 
-236
-00:14:53,330 --> 00:14:59,171
-However, there is more technology in the city
-and more things to do than in the village,"
+165
+00:22:54,520 --> 00:23:06,160
+"I guess that city life and village life are both nice, but
+in different ways."
 
-237
-00:14:59,171 --> 00:15:00,480
-says Lisa thoughtfully.
-
-238
-00:15:00,480 --> 00:15:11,480
-"I guess that city life and village life are
-both nice, but in different ways."
-
-239
-00:15:11,480 --> 00:15:16,760
+166
+00:23:06,160 --> 00:23:09,600
 CHAPTER FIVE
-The next stop on Lisa's trip is even more
 
-240
-00:15:16,760 --> 00:15:18,840
-interesting.
+167
+00:23:09,640 --> 00:23:12,640
+The next stop on Lisa's trip is even more interesting.
 
-241
-00:15:18,840 --> 00:15:24,170
-After getting a good night's sleep on the
-train from Beijing to Xi'an, Lisa, Mei and
+168
+00:23:12,640 --> 00:23:37,520
+After getting a good night's sleep on the train from Beijing to Xi'an, Lisa, Mei and Hu Tian go to see the Terracotta
+Army.
 
-242
-00:15:24,170 --> 00:15:28,240
-Hu Tian go to see the Terracotta Army.
-
-243
-00:15:28,240 --> 00:15:31,190
+169
+00:23:37,520 --> 00:23:44,520
 They take a guided tour of the ancient site.
 
-244
-00:15:31,190 --> 00:15:37,940
-"The Terracotta Soldiers' purpose was to protect
-Qin Shi Huang, the first Emperor of China,
+170
+00:23:44,560 --> 00:24:11,680
+"The Terracotta Soldiers' purpose was to protect Qin Shi Huang, the first Emperor of China, after his death. His tomb
+has about eight thousand clay soldiers surrounding it. It is a truly amazing sight," says the guide.
 
-245
-00:15:37,940 --> 00:15:39,560
-after his death.
+171
+00:24:11,680 --> 00:24:20,520
+"I've seen nothing like this before," whispers Lisa into
+Mei's ear.
 
-246
-00:15:39,560 --> 00:15:43,930
-His tomb has about eight thousand clay soldiers
-surrounding it.
-
-247
-00:15:43,930 --> 00:15:47,690
-It is a truly amazing sight," says the guide.
-
-248
-00:15:47,690 --> 00:15:52,660
-"I've seen nothing like this before," whispers
-Lisa into Mei's ear.
-
-249
-00:15:52,660 --> 00:15:56,220
+172
+00:24:20,520 --> 00:24:25,680
 "They look alike, but they are all different."
 
-250
-00:15:56,220 --> 00:16:00,529
-"Each soldier's face is unique," the guide
-continues.
+173
+00:24:25,720 --> 00:24:31,520
+"Each soldier's face is unique," the guide continues.
 
-251
-00:16:00,529 --> 00:16:07,400
-"The soldiers are as tall as real people and
-they had swords, knives, crossbows and other
+174
+00:24:31,520 --> 00:25:46,280
+"The soldiers are as tall as real people and they had swords, knives, crossbows and other weapons. Surprisingly,
+all these were as sharp as new! According to their roles, the height of the soldiers varies; the tallest are the generals and you'll also find officials, warriors, chariots, horses, even acrobats and musicians. Some of them have missing parts and others are still in the dirt. However, some of the soldiers are in Very good shape and seem new, as you can see," says the guide.
 
-252
-00:16:07,400 --> 00:16:08,779
-weapons.
+175
+00:25:46,280 --> 00:26:02,280
+"I wonder how many people had to work to make this army,"
+Lisa whispers, and the guide hears her.
 
-253
-00:16:08,779 --> 00:16:13,210
-Surprisingly, all these were as sharp as new!
+176
+00:26:02,280 --> 00:26:22,600
+"According to Sima Qian, an ancient historian, more than 700,000 workers worked on the emperor's tomb for about 38
+years," he explains.
 
-254
-00:16:13,210 --> 00:16:18,709
-According to their roles, the height of the
-soldiers varies; the tallest are the generals
+177
+00:26:22,640 --> 00:26:26,880
+"Wow! Amazing!" exclaims Lisa.
 
-255
-00:16:18,709 --> 00:16:27,680
-and you'll also find officials, warriors,
-chariots, horses, even acrobats and musicians.
-
-256
-00:16:27,680 --> 00:16:31,820
-Some of them have missing parts and others
-are still in the dirt.
-
-257
-00:16:31,820 --> 00:16:37,340
-However, some of the soldiers are in Very
-good shape and seem new, as you can see,"
-
-258
-00:16:37,340 --> 00:16:38,340
-says the guide.
-
-259
-00:16:38,340 --> 00:16:44,790
-"I wonder how many people had to work to make
-this army," Lisa whispers, and the guide hears
-
-260
-00:16:44,790 --> 00:16:45,790
-her.
-
-261
-00:16:45,790 --> 00:16:52,700
-"According to Sima Qian, an ancient historian,
-more than 700,000 workers worked on the emperor's
-
-262
-00:16:52,700 --> 00:16:56,880
-tomb for about 38 years," he explains.
-
-263
-00:16:56,880 --> 00:16:58,000
-"Wow!
-
-264
-00:16:58,000 --> 00:16:59,120
-Amazing!"
-
-265
-00:16:59,120 --> 00:17:00,140
-exclaims Lisa.
-
-266
-00:17:00,140 --> 00:17:03,070
+178
+00:26:26,880 --> 00:26:32,560
 "But where is the tomb?"
 
-267
-00:17:03,070 --> 00:17:06,069
-"Ah, the tomb is still a mystery," adds the
-guide.
+179
+00:26:32,560 --> 00:26:38,480
+"Ah, the tomb is still a mystery," adds the guide.
 
-268
-00:17:06,069 --> 00:17:10,720
-"Archaeologists have found the tomb, but they
-have not opened it yet."
+180
+00:26:38,480 --> 00:26:49,920
+"Archaeologists have found the tomb, but they have not
+opened it yet."
 
-269
-00:17:10,720 --> 00:17:11,720
-"No?
+181
+00:26:49,920 --> 00:26:54,200
+"No? Why not?" asks Lisa.
 
-270
-00:17:11,720 --> 00:17:14,499
-Why not?" asks Lisa.
-
-271
-00:17:14,499 --> 00:17:17,980
+182
+00:26:54,200 --> 00:27:00,760
 "Surely, there will be lots of treasures inside!"
 
-272
-00:17:17,980 --> 00:17:23,049
-"Well," says the man, "that's what Sima Qian's
-book says.
+183
+00:27:00,760 --> 00:27:18,840
+"Well," says the man, "that's what Sima Qian's book says. But archaeologists are worried that they might damage the
+valuable objects inside the tomb."
 
-273
-00:17:23,049 --> 00:17:28,549
-But archaeologists are worried that they might
-damage the valuable objects inside the tomb."
-
-274
-00:17:28,549 --> 00:17:30,590
+184
+00:27:18,840 --> 00:27:22,640
 "I see," says Lisa.
 
-275
-00:17:30,590 --> 00:17:34,140
+185
+00:27:22,640 --> 00:27:28,080
 "There is something else too," adds Hu Tian.
 
-276
-00:17:34,140 --> 00:17:37,530
-"There are traps inside the tomb.
+186
+00:27:28,080 --> 00:27:44,760
+"There are traps inside the tomb. Dangerous traps, to prevent tomb raiders from stealing the treasures inside. At
+least, that's what the legend says..."
 
-277
-00:17:37,530 --> 00:17:43,470
-Dangerous traps, to prevent tomb raiders from
-stealing the treasures inside.
+187
+00:27:44,800 --> 00:27:56,280
+"Oh, it's such an interesting story! I guess we'll have to
+wait and see!" Lisa smiles.
 
-278
-00:17:43,470 --> 00:17:46,350
-At least, that's what the legend says..."
+188
+00:27:56,280 --> 00:28:06,800
+"With or without the treasures from the Emperor's tomb, this
+place is fantastic!"
 
-279
-00:17:46,350 --> 00:17:49,259
-"Oh, it's such an interesting story!
-
-280
-00:17:49,259 --> 00:17:51,489
-I guess we'll have to wait and see!"
-
-281
-00:17:51,489 --> 00:17:52,659
-Lisa smiles.
-
-282
-00:17:52,659 --> 00:18:02,720
-"With or without the treasures from the Emperor's
-tomb, this place is fantastic!"
-
-283
-00:18:02,720 --> 00:18:08,730
+189
+00:28:06,840 --> 00:28:09,720
 CHAPTER SIX
-The next day, Lisa, Mei and Hu Tian go to
 
-284
-00:18:08,730 --> 00:18:12,840
-Shanghai on another overnight train.
+190
+00:28:09,760 --> 00:28:25,440
+The next day, Lisa, Mei and Hu Tian go to Shanghai on
+another overnight train.
 
-285
-00:18:12,840 --> 00:18:17,649
-The first place to visit is an area called
-the Bund.
+191
+00:28:25,440 --> 00:28:32,120
+The first place to visit is an area called the Bund.
 
-286
-00:18:17,649 --> 00:18:24,720
-It's a lively place by the Huangpu River,
-full of beautiful historical buildings.
+192
+00:28:32,160 --> 00:28:43,400
+It's a lively place by the Huangpu River, full of beautiful
+historical buildings.
 
-287
-00:18:24,720 --> 00:18:31,240
-They walk down a street called Nanjing Road,
-the main street of the Bund, and have lunch
+193
+00:28:43,440 --> 00:29:03,120
+They walk down a street called Nanjing Road, the main street
+of the Bund, and have lunch at a restaurant.
 
-288
-00:18:31,240 --> 00:18:33,510
-at a restaurant.
+194
+00:29:03,120 --> 00:29:10,240
+Lisa tries Shanghai crispy chicken and she finds it
+delicious.
 
-289
-00:18:33,510 --> 00:18:38,919
-Lisa tries Shanghai crispy chicken and she
-finds it delicious.
+195
+00:29:10,240 --> 00:29:36,080
+"I'm really getting used to using chopsticks. It's actually
+a lot of fun!" Lisa says, excitedly.
 
-290
-00:18:38,919 --> 00:18:42,240
-"I'm really getting used to using chopsticks.
+196
+00:29:36,080 --> 00:29:53,920
+After lunch, they walk a few blocks to the Yu Garden, in
+Shanghai's Old City.
 
-291
-00:18:42,240 --> 00:18:44,399
-It's actually a lot of fun!"
+197
+00:29:53,920 --> 00:30:06,880
+It is a traditional Chinese garden with beautiful, old
+buildings called pagodas.
 
-292
-00:18:44,399 --> 00:18:47,720
-Lisa says, excitedly.
+198
+00:30:06,880 --> 00:30:11,920
+It is very large and they take their time exploring it.
 
-293
-00:18:47,720 --> 00:18:55,970
-After lunch, they walk a few blocks to the
-Yu Garden, in Shanghai's Old City.
+199
+00:30:11,960 --> 00:30:19,240
+There are various trees and rocks and small ponds with
+bridges.
 
-294
-00:18:55,970 --> 00:19:01,859
-It is a traditional Chinese garden with beautiful,
-old buildings called pagodas.
+200
+00:30:19,240 --> 00:30:30,560
+Ducks and fish are swimming in the water and there are
+dragons on the walls.
 
-295
-00:19:01,859 --> 00:19:06,940
-It is very large and they take their time
-exploring it.
+201
+00:30:30,560 --> 00:30:51,240
+"The trees, plants and flowers are so pretty! And it's so
+peaceful here!" Lisa admires.
 
-296
-00:19:06,940 --> 00:19:12,309
-There are various trees and rocks and small
-ponds with bridges.
+202
+00:30:51,240 --> 00:31:11,240
+"It is the perfect place to walk around, it makes you feel
+you are at one with nature."
 
-297
-00:19:12,309 --> 00:19:17,139
-Ducks and fish are swimming in the water and
-there are dragons on the walls.
+203
+00:31:11,320 --> 00:31:34,360
+"Well, that is exactly what the Chinese garden is about,"
+says Mei.
 
-298
-00:19:17,139 --> 00:19:21,019
-"The trees, plants and flowers are so pretty!
+204
+00:31:34,360 --> 00:31:58,680
+"Here one can escape from the busy daily routine and have
+some time to themselves."
 
-299
-00:19:21,019 --> 00:19:23,539
-And it's so peaceful here!"
+205
+00:31:58,720 --> 00:32:12,680
+After a pleasant walk through the Yu Garden, Mei and Hu Tian
+take Lisa to the Yu Market right outside.
 
-300
-00:19:23,539 --> 00:19:24,559
-Lisa admires.
+206
+00:32:12,680 --> 00:32:22,600
+"The Yu Market is so noisy and busy with people!" Lisa
+exclaims.
 
-301
-00:19:24,559 --> 00:19:30,899
-"It is the perfect place to walk around, it
-makes you feel you are at one with nature."
+207
+00:32:22,600 --> 00:32:28,400
+"It suddenly feels like we're in a different city."
 
-302
-00:19:30,899 --> 00:19:36,850
-"Well, that is exactly what the Chinese garden
-is about," says Mei.
-
-303
-00:19:36,850 --> 00:19:43,149
-"Here one can escape from the busy daily routine
-and have some time to themselves."
-
-304
-00:19:43,149 --> 00:19:49,220
-After a pleasant walk through the Yu Garden,
-Mei and Hu Tian take Lisa to the Yu Market
-
-305
-00:19:49,220 --> 00:19:51,899
-right outside.
-
-306
-00:19:51,899 --> 00:19:57,570
-"The Yu Market is so noisy and busy with people!"
-
-307
-00:19:57,570 --> 00:19:58,770
-Lisa exclaims.
-
-308
-00:19:58,770 --> 00:20:02,419
-"It suddenly feels like we're in a different
-city."
-
-309
-00:20:02,419 --> 00:20:05,509
+208
+00:32:28,400 --> 00:32:32,360
 "Of course it's noisy," says Mei.
 
-310
-00:20:05,509 --> 00:20:09,340
+209
+00:32:32,360 --> 00:32:36,720
 "Shanghai has the largest population in China."
 
-311
-00:20:09,340 --> 00:20:16,279
-Lisa has fun choosing a few traditional gifts:
-a pearl necklace for her mother, chopsticks
+210
+00:32:36,720 --> 00:32:55,280
+Lisa has fun choosing a few traditional gifts: a pearl necklace for her mother, chopsticks for all her family and a
+beautiful silk dress for herself.
 
-312
-00:20:16,279 --> 00:20:20,549
-for all her family and a beautiful silk dress
-for herself.
+211
+00:32:55,360 --> 00:33:09,240
+Then she asks Mei: "I want to get something special for my
+friend, Ellie. What do you suggest?"
 
-313
-00:20:20,549 --> 00:20:26,700
-Then she asks Mei: "I want to get something
-special for my friend, Ellie.
-
-314
-00:20:26,700 --> 00:20:28,700
-What do you suggest?"
-
-315
-00:20:28,700 --> 00:20:31,759
+212
+00:33:09,240 --> 00:33:17,200
 Mei points to some Chinese silk scarves.
 
-316
-00:20:31,759 --> 00:20:34,440
-"How about one of those?
+213
+00:33:17,200 --> 00:33:25,120
+"How about one of those? Chinese silk is famous worldwide!"
 
-317
-00:20:34,440 --> 00:20:36,480
-Chinese silk is famous worldwide!"
+214
+00:33:25,160 --> 00:33:34,920
+"Great, Ellie will love it!" Lisa says enthusiastically as
+she buys the scarf.
 
-318
-00:20:36,480 --> 00:20:39,919
-"Great, Ellie will love it!"
-
-319
-00:20:39,919 --> 00:20:49,239
-Lisa says enthusiastically as she buys the
-scarf.
-
-320
-00:20:49,239 --> 00:20:54,570
+215
+00:33:34,920 --> 00:33:37,080
 CHAPTER SEVEN
-When Lisa wakes up the next day, she looks
 
-321
-00:20:54,570 --> 00:20:57,779
-out of the window and sees that it is raining.
+216
+00:33:37,120 --> 00:33:45,320
+When Lisa wakes up the next day, she looks out of the window
+and sees that it is raining.
 
-322
-00:20:57,779 --> 00:21:00,789
+217
+00:33:45,320 --> 00:33:47,920
 "Oh no!" says Lisa, disappointed.
 
-323
-00:21:00,789 --> 00:21:03,980
-"What are we going to do now?
+218
+00:33:47,920 --> 00:33:54,200
+"What are we going to do now? We can't see much of Shanghai
+in the rain."
 
-324
-00:21:03,980 --> 00:21:06,649
-We can't see much of Shanghai in the rain."
+219
+00:33:54,200 --> 00:34:04,960
+"Don't worry, Lisa," Hu Tian says, "We can still see a lot
+today. We just need to go above the rain."
 
-325
-00:21:06,649 --> 00:21:11,950
-"Don't worry, Lisa," Hu Tian says, "We can
-still see a lot today.
+220
+00:34:05,000 --> 00:34:14,120
+"I don't know what you mean by that, but I'm happy to follow
+you on another surprise tour," says Lisa.
 
-326
-00:21:11,950 --> 00:21:13,539
-We just need to go above the rain."
+221
+00:34:14,120 --> 00:34:22,800
+First, they take Lisa to the Shanghai World Financial
+Centre.
 
-327
-00:21:13,539 --> 00:21:19,009
-"I don't know what you mean by that, but I'm
-happy to follow you on another surprise tour,"
-
-328
-00:21:19,009 --> 00:21:20,080
-says Lisa.
-
-329
-00:21:20,080 --> 00:21:25,600
-First, they take Lisa to the Shanghai World
-Financial Centre.
-
-330
-00:21:25,600 --> 00:21:30,830
+222
+00:34:22,800 --> 00:34:32,520
 It's a 492 metres tall building with 101 floors!
 
-331
-00:21:30,830 --> 00:21:36,289
-"We'll go to the third observation deck on
-the 100th floor," says Hu Tian.
+223
+00:34:32,520 --> 00:34:44,800
+"We'll go to the third observation deck on the 100th floor,"
+says Hu Tian.
 
-332
-00:21:36,289 --> 00:21:38,679
+224
+00:34:44,800 --> 00:34:52,360
 "I hope you're not afraid of heights!"
 
-333
-00:21:38,679 --> 00:21:45,710
-"No, of course not," says Lisa and smiles
-as she remembers her New York experience.
-
-334
-00:21:45,710 --> 00:21:52,019
-Once they get to the observation deck, Lisa
-takes a look around and says, "It is fantastic
-
-335
-00:21:52,019 --> 00:21:53,169
-up here!
-
-336
-00:21:53,169 --> 00:21:55,970
-We are even higher than the clouds.
-
-337
-00:21:55,970 --> 00:21:58,270
-We really are above the rain."
-
-338
-00:21:58,270 --> 00:22:06,639
-"We are 474 metres, 1,555 feet above the ground,"
-explains Mei.
-
-339
-00:22:06,639 --> 00:22:09,470
-"Have a look at the view, it's amazing!"
-
-340
-00:22:09,470 --> 00:22:12,669
-"What's that building over there?
-
-341
-00:22:12,669 --> 00:22:15,909
-It's very interesting," Lisa points out of
-the window.
-
-342
-00:22:15,909 --> 00:22:18,840
-"That's the Oriental Pearl TV Tower.
-
-343
-00:22:18,840 --> 00:22:24,230
-We're going to visit it next," says Hu Tian.
-
-344
-00:22:24,230 --> 00:22:30,159
-When they arrive at the Oriental Pearl TV
-Tower they visit the rotating restaurant.
-
-345
-00:22:30,159 --> 00:22:36,899
-It stands 267 meters, or 876 feet, above Shanghai.
-
-346
-00:22:36,899 --> 00:22:39,149
-"This place is great!
-
-347
-00:22:39,149 --> 00:22:47,419
-Hey look, I can see the SWFC from here!" says
-Lisa, looking out of the large windows.
-
-348
-00:22:47,419 --> 00:22:50,600
-"The rain stopped," says Mei.
-
-349
-00:22:50,600 --> 00:22:55,509
-Suddenly, a rainbow appears in the sky.
-
-350
-00:22:55,509 --> 00:22:56,509
-"Wow!"
-
-351
-00:22:56,509 --> 00:22:57,509
-admires Lisa.
-
-352
-00:22:57,509 --> 00:22:59,570
-"How wonderful!"
-
-353
-00:22:59,570 --> 00:23:06,779
-She has a great day in the Shanghai sky.
-
-354
-00:23:06,779 --> 00:23:11,210
-CHAPTER EIGHT
-After taking the last train ride of their
-
-355
-00:23:11,210 --> 00:23:16,119
-trip, Lisa, Hu Tian and Mei arrive in Hong
-Kong.
-
-356
-00:23:16,119 --> 00:23:22,360
-"I can already tell that Hong Kong is different
-from any of the other places we've been to.
-
-357
-00:23:22,360 --> 00:23:27,619
-The cars are driving on the left side of the
-road," Lisa says, during their taxi ride to
-
-358
-00:23:27,619 --> 00:23:28,619
-the hotel.
-
-359
-00:23:28,619 --> 00:23:32,230
-"That's not the only difference," Mei tells
-Lisa.
-
-360
-00:23:32,230 --> 00:23:34,440
-"The people here speak Cantonese.
-
-361
-00:23:34,440 --> 00:23:39,240
-It is different from Mandarin Chinese, but
-they also have much in common."
-
-362
-00:23:39,240 --> 00:23:42,889
-"Tell me some more about Hong Kong," asks
-Lisa.
-
-363
-00:23:42,889 --> 00:23:45,220
-"I don't really know much."
-
-364
-00:23:45,220 --> 00:23:50,869
-"Well, it is one of the most populated places
-in the world, with an amazing culture.
-
-365
-00:23:50,869 --> 00:23:53,679
-Hong Kong's landscape is also unique.
-
-366
-00:23:53,679 --> 00:23:59,370
-There are hills and tall mountains, parks
-and nature reserves, and there are about 200
-
-367
-00:23:59,370 --> 00:24:00,700
-offshore islands.
-
-368
-00:24:00,700 --> 00:24:03,249
-Visitors have a lot to do here.
-
-369
-00:24:03,249 --> 00:24:05,429
-Just wait and see!"
-
-370
-00:24:05,429 --> 00:24:08,710
-Mei says.
-
-371
-00:24:08,710 --> 00:24:14,200
-After leaving their luggage in their hotel
-rooms, they head to the Peak Tram.
-
-372
-00:24:14,200 --> 00:24:21,570
-It takes them up to The Peak, the top of one
-of the nearby mountains, 396 metres above
-
-373
-00:24:21,570 --> 00:24:23,309
-sea level.
-
-374
-00:24:23,309 --> 00:24:26,739
-The view from the top of the Peak Tower is
-breathtaking.
-
-375
-00:24:26,739 --> 00:24:31,609
-"Hong Kong's skyline is very impressive, as
-you can see.
-
-376
-00:24:31,609 --> 00:24:38,610
-There are more than 7, 600 skyscrapers, but
-that's not what makes the place so special,"
-
-377
-00:24:38,610 --> 00:24:39,919
-Mei says.
-
-378
-00:24:39,919 --> 00:24:40,919
-"Yes.
-
-379
-00:24:40,919 --> 00:24:44,989
-It is a great mixture of amazing buildings
-and beautiful landscape.
-
-380
-00:24:44,989 --> 00:24:47,700
-The view is fantastic from up here!"
-
-381
-00:24:47,700 --> 00:24:49,600
-replies Lisa, enthusiastically.
-
-382
-00:24:49,600 --> 00:24:55,489
-"Let me take your photo, the light is wonderful
-right now," she tells her friends as she reaches
-
-383
-00:24:55,489 --> 00:24:57,460
-in her pocket for her camera.
-
-384
-00:24:57,460 --> 00:25:09,299
-"This picture will be suitable for the next
-Photo Convention," she says and smiles.
-
-385
-00:25:09,299 --> 00:25:15,270
-CHAPTER NINE
-Lisa looks out of her window at the Hong Kong
-
-386
-00:25:15,270 --> 00:25:16,330
-skyline.
-
-387
-00:25:16,330 --> 00:25:20,929
-The place looks magical at night, with millions
-of lights shining.
-
-388
-00:25:20,929 --> 00:25:26,010
-"It's my last night in China," Lisa keeps
-thinking.
-
-389
-00:25:26,010 --> 00:25:30,019
-She feels a bit sad about it, but she is also
-a little homesick.
-
-390
-00:25:30,019 --> 00:25:36,620
-"I'm sure tomorrow will be a day to remember,"
-she thinks and goes to sleep.
-
-391
-00:25:36,620 --> 00:25:44,150
-The next morning, the three young people go
-to a place called Aberdeen, on a nearby island.
-
-392
-00:25:44,150 --> 00:25:49,399
-On the way there, they pass by a park in Kowloon
-City.
-
-393
-00:25:49,399 --> 00:25:55,940
-Lisa notices a large group of people who are
-all standing in the park, in strange positions.
-
-394
-00:25:55,940 --> 00:25:59,929
-"What are they doing?" she asks curiously.
-
-395
-00:25:59,929 --> 00:26:06,070
-"They're practising Tai Chi, an ancient Chinese
-martial art," explains Hu Tian.
-
-396
-00:26:06,070 --> 00:26:07,070
-"Really?
-
-397
-00:26:07,070 --> 00:26:10,299
-Can we get off of the bus and watch for a
-while?"
-
-398
-00:26:10,299 --> 00:26:11,409
-Lisa asks.
-
-399
-00:26:11,409 --> 00:26:16,259
-"Of course," replies Mei.
-
-400
-00:26:16,259 --> 00:26:24,460
-"People who practise Tai Chi do a series of
-warrior movements very slowly, concentrating
-
-401
-00:26:24,460 --> 00:26:26,070
-on their bodies.
-
-402
-00:26:26,070 --> 00:26:30,609
-It helps them stay healthy," Hu Tian tells
-Lisa.
-
-403
-00:26:30,609 --> 00:26:32,340
-"How interesting!"
-
-404
-00:26:32,340 --> 00:26:33,340
-Lisa says.
-
-405
-00:26:33,340 --> 00:26:36,940
-"Would you like to try?" asks a woman.
-
-406
-00:26:36,940 --> 00:26:41,029
-"The class is free, and it's only an hour
-long."
-
-407
-00:26:41,029 --> 00:26:42,389
-Lisa is thrilled.
-
-408
-00:26:42,389 --> 00:26:46,009
-"Mei, can you take some pictures of me practising?
-
-409
-00:26:46,009 --> 00:26:53,099
-I want to show them to Ellie when I get back."
-
-410
-00:26:53,099 --> 00:26:57,090
-Next Lisa and her friends take the bus to
-Ocean Park in Aberdeen.
-
-411
-00:26:57,090 --> 00:27:02,210
-"It's a huge place with lots of attractions,"
-explains Mei.
-
-412
-00:27:02,210 --> 00:27:04,889
-"We're going to take you to see the giant
-pandas."
-
-413
-00:27:04,889 --> 00:27:07,399
-"Wow!
-
-414
-00:27:07,399 --> 00:27:14,960
-They're so big!"
-
-415
-00:27:14,960 --> 00:27:19,370
-exclaims Lisa when she sees the animals in
-the Giant Panda Habitat.
-
-416
-00:27:19,370 --> 00:27:21,380
-"But they're cute!"
-
-417
-00:27:21,380 --> 00:27:29,399
-"Pandas are in great danger; only 1,000 to
-3,000 remain in the wild," says Hu Tian.
-
-418
-00:27:29,399 --> 00:27:34,200
-"How about a visit to Aqua City next?" asks
+225
+00:34:52,360 --> 00:35:06,280
+"No, of course not," says Lisa and smiles as she remembers
+her New York experience.
+
+226
+00:35:06,280 --> 00:35:24,320
+Once they get to the observation deck, Lisa takes a look around and says, "It is fantastic up here! We are even
+higher than the clouds. We really are above the rain."
+
+227
+00:35:24,320 --> 00:35:35,920
+"We are 474 metres, 1,555 feet above the ground," explains
 Mei.
 
-419
-00:27:34,200 --> 00:27:40,510
+228
+00:35:35,920 --> 00:35:42,040
+"Have a look at the view, it's amazing!"
+
+229
+00:35:42,040 --> 00:35:52,560
+"What's that building over there? It's very interesting,"
+Lisa points out of the window.
+
+230
+00:35:52,560 --> 00:36:00,200
+"That's the Oriental Pearl TV Tower. We're going to visit it
+next," says Hu Tian.
+
+231
+00:36:00,200 --> 00:36:10,640
+When they arrive at the Oriental Pearl TV Tower they visit
+the rotating restaurant.
+
+232
+00:36:10,640 --> 00:36:23,280
+It stands 267 meters, or 876 feet, above Shanghai.
+
+233
+00:36:23,280 --> 00:36:47,360
+"This place is great! Hey look, I can see the SWFC from
+here!" says Lisa, looking out of the large windows.
+
+234
+00:36:47,360 --> 00:36:50,880
+"The rain stopped," says Mei.
+
+235
+00:36:50,880 --> 00:36:55,760
+Suddenly, a rainbow appears in the sky.
+
+236
+00:36:55,760 --> 00:36:59,400
+"Wow!" admires Lisa.
+
+237
+00:36:59,400 --> 00:37:03,600
+"How wonderful!"
+
+238
+00:37:03,600 --> 00:37:09,160
+She has a great day in the Shanghai sky.
+
+239
+00:37:09,160 --> 00:37:10,800
+CHAPTER EIGHT
+
+240
+00:37:10,880 --> 00:37:20,120
+After taking the last train ride of their trip, Lisa, Hu
+Tian and Mei arrive in Hong Kong.
+
+241
+00:37:20,120 --> 00:37:36,440
+"I can already tell that Hong Kong is different from any of the other places we've been to. The cars are driving on the
+left side of the road," Lisa says, during their taxi ride to the hotel.
+
+242
+00:37:36,480 --> 00:37:41,000
+"That's not the only difference," Mei tells Lisa.
+
+243
+00:37:41,000 --> 00:37:52,880
+"The people here speak Cantonese. It is different from
+Mandarin Chinese, but they also have much in common."
+
+244
+00:37:52,880 --> 00:37:56,200
+"Tell me some more about Hong Kong," asks Lisa.
+
+245
+00:37:56,200 --> 00:37:58,160
+"I don't really know much."
+
+246
+00:37:58,160 --> 00:38:37,760
+"Well, it is one of the most populated places in the world, with an amazing culture. Hong Kong's landscape is also
+unique. There are hills and tall mountains, parks and nature reserves, and there are about 200 offshore islands. Visitors have a lot to do here. Just wait and see!" Mei says.
+
+247
+00:38:37,760 --> 00:38:45,280
+After leaving their luggage in their hotel rooms, they head
+to the Peak Tram.
+
+248
+00:38:45,320 --> 00:38:57,720
+It takes them up to The Peak, the top of one of the nearby
+mountains, 396 metres above sea level.
+
+249
+00:38:57,720 --> 00:39:02,000
+The view from the top of the Peak Tower is breathtaking.
+
+250
+00:39:02,080 --> 00:39:29,160
+"Hong Kong's skyline is very impressive, as you can see. There are more than 7, 600 skyscrapers, but that's not what
+makes the place so special," Mei says.
+
+251
+00:39:29,160 --> 00:39:56,520
+"Yes. It is a great mixture of amazing buildings and beautiful landscape. The view is fantastic from up here!"
+replies Lisa, enthusiastically.
+
+252
+00:39:56,520 --> 00:40:20,120
+"Let me take your photo, the light is wonderful right now," she tells her friends as she reaches in her pocket for her
+camera.
+
+253
+00:40:20,160 --> 00:40:34,560
+"This picture will be suitable for the next Photo
+Convention," she says and smiles.
+
+254
+00:40:34,560 --> 00:40:39,160
+CHAPTER NINE
+
+255
+00:40:39,240 --> 00:40:47,000
+Lisa looks out of her window at the Hong Kong skyline.
+
+256
+00:40:47,000 --> 00:40:53,280
+The place looks magical at night, with millions of lights
+shining.
+
+257
+00:40:53,280 --> 00:40:57,760
+"It's my last night in China," Lisa keeps thinking.
+
+258
+00:40:57,760 --> 00:41:06,960
+She feels a bit sad about it, but she is also a little
+homesick.
+
+259
+00:41:07,000 --> 00:41:19,200
+"I'm sure tomorrow will be a day to remember," she thinks
+and goes to sleep.
+
+260
+00:41:19,200 --> 00:41:32,720
+The next morning, the three young people go to a place
+called Aberdeen, on a nearby island.
+
+261
+00:41:32,720 --> 00:41:37,920
+On the way there, they pass by a park in Kowloon City.
+
+262
+00:41:37,920 --> 00:41:49,600
+Lisa notices a large group of people who are all standing in
+the park, in strange positions.
+
+263
+00:41:49,600 --> 00:41:54,320
+"What are they doing?" she asks curiously.
+
+264
+00:41:54,320 --> 00:42:03,480
+"They're practising Tai Chi, an ancient Chinese martial
+art," explains Hu Tian.
+
+265
+00:42:03,480 --> 00:42:14,720
+"Really? Can we get off of the bus and watch for a while?"
+Lisa asks.
+
+266
+00:42:14,720 --> 00:42:18,440
+"Of course," replies Mei.
+
+267
+00:42:18,440 --> 00:42:44,000
+"People who practise Tai Chi do a series of warrior movements very slowly, concentrating on their bodies. It
+helps them stay healthy," Hu Tian tells Lisa.
+
+268
+00:42:44,000 --> 00:42:46,440
+"How interesting!" Lisa says.
+
+269
+00:42:46,440 --> 00:42:53,400
+"Would you like to try?" asks a woman.
+
+270
+00:42:53,400 --> 00:42:58,800
+"The class is free, and it's only an hour long."
+
+271
+00:42:58,800 --> 00:43:00,520
+Lisa is thrilled.
+
+272
+00:43:00,520 --> 00:43:13,760
+"Mei, can you take some pictures of me practising? I want to
+show them to Ellie when I get back."
+
+273
+00:43:13,760 --> 00:43:24,680
+Next Lisa and her friends take the bus to Ocean Park in
+Aberdeen.
+
+274
+00:43:24,680 --> 00:43:32,480
+"It's a huge place with lots of attractions," explains Mei.
+
+275
+00:43:32,480 --> 00:43:38,800
+"We're going to take you to see the giant pandas."
+
+276
+00:43:38,840 --> 00:44:00,200
+"Wow! They're so big!" exclaims Lisa when she sees the
+animals in the Giant Panda Habitat.
+
+277
+00:44:00,200 --> 00:44:03,040
+"But they're cute!"
+
+278
+00:44:03,080 --> 00:44:27,960
+"Pandas are in great danger; only 1,000 to 3,000 remain in
+the wild," says Hu Tian.
+
+279
+00:44:27,960 --> 00:44:39,880
+"How about a visit to Aqua City next?" asks Mei.
+
+280
+00:44:39,880 --> 00:44:49,880
 "That sounds great," Lisa agrees.
 
-420
-00:27:40,510 --> 00:27:41,539
+281
+00:44:49,880 --> 00:44:50,760
 She's right.
 
-421
-00:27:41,539 --> 00:27:48,389
-Thousands of colourful fish and other sea
-animals, make their visit unforgettable.
+282
+00:44:50,760 --> 00:45:02,440
+Thousands of colourful fish and other sea animals, make
+their visit unforgettable.
 
-422
-00:27:48,389 --> 00:27:50,499
+283
+00:45:02,440 --> 00:45:06,760
 Lisa keeps taking pictures.
 
-423
-00:27:50,499 --> 00:27:56,669
-"It will make a great article for the school
-newspaper," she thinks to herself.
+284
+00:45:06,760 --> 00:45:16,400
+"It will make a great article for the school newspaper," she
+thinks to herself.
 
-424
-00:27:56,669 --> 00:28:05,279
+285
+00:45:16,400 --> 00:45:19,040
 "Ellie will be thrilled."
 
-425
-00:28:05,279 --> 00:28:11,119
+286
+00:45:19,040 --> 00:45:20,680
 CHAPTER TEN
-The three of them are tired, but their visit
 
-426
-00:28:11,119 --> 00:28:14,140
-to Aberdeen hasn't finished yet.
+287
+00:45:20,760 --> 00:45:29,200
+The three of them are tired, but their visit to Aberdeen
+hasn't finished yet.
 
-427
-00:28:14,140 --> 00:28:20,480
-Hu Tian and Mei take Lisa to the famous floating
-village on Aberdeen harbour.
+288
+00:45:29,320 --> 00:45:36,840
+Hu Tian and Mei take Lisa to the famous floating village on
+Aberdeen harbour.
 
-428
-00:28:20,480 --> 00:28:24,330
-They call it 'floating' because it is a village
-of boats.
+289
+00:45:36,880 --> 00:45:42,520
+They call it 'floating' because it is a village of boats.
 
-429
-00:28:24,330 --> 00:28:26,049
-"This is incredible!
+290
+00:45:42,520 --> 00:45:50,160
+"This is incredible! There are so many boats that I can't
+even see the water," exclaims Lisa.
 
-430
-00:28:26,049 --> 00:28:31,940
-There are so many boats that I can't even
-see the water," exclaims Lisa.
+291
+00:45:50,160 --> 00:46:05,320
+"All these people live on their boats; their lives depend on fishing and the sea. The 'boat people' of Hong Kong have
+lived this way for centuries," Mei explains.
 
-431
-00:28:31,940 --> 00:28:37,759
-"All these people live on their boats; their
-lives depend on fishing and the sea.
+292
+00:46:05,320 --> 00:46:17,720
+"Now," smiles Hu Tian, "since it is our last dinner
+together, it must be special."
 
-432
-00:28:37,759 --> 00:28:43,570
-The 'boat people' of Hong Kong have lived
-this way for centuries," Mei explains.
+293
+00:46:17,800 --> 00:46:26,400
+So, they go to the Jumbo Kingdom, a famous floating
+restaurant.
 
-433
-00:28:43,570 --> 00:28:50,070
-"Now," smiles Hu Tian, "since it is our last
-dinner together, it must be special."
+294
+00:46:26,440 --> 00:46:32,720
+"Give me a minute," says Lisa and disappears for a while.
 
-434
-00:28:50,070 --> 00:28:54,629
-So, they go to the Jumbo Kingdom, a famous
-floating restaurant.
+295
+00:46:32,720 --> 00:46:42,480
+When she comes back, she's wearing her Chinese red silk
+dress.
 
-435
-00:28:54,629 --> 00:29:00,409
-"Give me a minute," says Lisa and disappears
-for a while.
+296
+00:46:42,520 --> 00:46:48,360
+"I bought it for a special occasion," she says.
 
-436
-00:29:00,409 --> 00:29:04,599
-When she comes back, she's wearing her Chinese
-red silk dress.
-
-437
-00:29:04,599 --> 00:29:08,419
-"I bought it for a special occasion," she
-says.
-
-438
-00:29:08,419 --> 00:29:10,869
+297
+00:46:48,360 --> 00:46:52,000
 "Well, it is a special occasion."
 
-439
-00:29:10,869 --> 00:29:16,359
-Mei gives her a big hug and they sit down
-to enjoy their dinner.
+298
+00:46:52,040 --> 00:46:58,920
+Mei gives her a big hug and they sit down to enjoy their
+dinner.
 
-440
-00:29:16,359 --> 00:29:25,659
-The lights of the floating village make the
-place look magical.
+299
+00:46:58,920 --> 00:47:05,560
+The lights of the floating village make the place look
+magical.
 
-441
-00:29:25,659 --> 00:29:31,830
-The next day, the time has come for Lisa to
-say goodbye to her Chinese friends and board
+300
+00:47:05,560 --> 00:47:25,640
+The next day, the time has come for Lisa to say goodbye to
+her Chinese friends and board the plane back home.
 
-442
-00:29:31,830 --> 00:29:33,389
-the plane back home.
+301
+00:47:25,640 --> 00:47:52,520
+"I am sad to leave, but I will come back to China some day. Now I have an extra reason... I have good friends to visit
+here," she says to Hu Tian and Mei, with a smile.
 
-443
-00:29:33,389 --> 00:29:38,359
-"I am sad to leave, but I will come back to
-China some day.
+302
+00:47:52,520 --> 00:48:02,640
+"We must stay in touch. Promise?" asks Mei.
 
-444
-00:29:38,359 --> 00:29:40,029
-Now I have an extra reason...
+303
+00:48:02,680 --> 00:48:14,920
+"I promise," says Lisa, "And you must come and visit me some
+day, too!"
 
-445
-00:29:40,029 --> 00:29:44,960
-I have good friends to visit here," she says
-to Hu Tian and Mei, with a smile.
+304
+00:48:14,920 --> 00:48:24,320
+As she sits down in her seat, she thinks about her visit to
+China.
 
-446
-00:29:44,960 --> 00:29:47,080
-"We must stay in touch.
+305
+00:48:24,320 --> 00:48:31,160
+The people, the food, the sights... everything was
+incredible!
 
-447
-00:29:47,080 --> 00:29:48,080
-Promise?"
+306
+00:48:31,160 --> 00:48:40,800
+"Well," she thinks and a big smile appears on her face.
 
-448
-00:29:48,080 --> 00:29:49,190
-asks Mei.
-
-449
-00:29:49,190 --> 00:29:56,940
-"I promise," says Lisa, "And you must come
-and visit me some day, too!"
-
-450
-00:29:56,940 --> 00:30:02,080
-As she sits down in her seat, she thinks about
-her visit to China.
-
-451
-00:30:02,080 --> 00:30:05,179
-The people, the food, the sights...
-
-452
-00:30:05,179 --> 00:30:07,259
-everything was incredible!
-
-453
-00:30:07,259 --> 00:30:12,320
-"Well," she thinks and a big smile appears
-on her face.
-
-454
-00:30:12,320 --> 00:30:16,320
-"I wouldn't trade this experience for all
-the tea in China!"
-
-455
-00:30:16,320 --> 00:30:16,389
-- THE END -
+307
+00:48:40,800 --> 00:48:51,600
+"I wouldn't trade this experience for all the tea in China!"
 

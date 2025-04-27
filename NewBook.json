@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "268",
+      "baslik": "Batman Begins",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://github.com/Boga28/book/blob/master/pics/Batman_Begins-Goyer_David.jpg?raw=true",
+      "kategori": "4",
+      "yazar": "Goyer David",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Batman_Begins.m4a",
+      "hardWord": "Text Analysis: Unique words: 807 Total words: 6896\n\n\tHard words: worktable, workroo lying, antidote, cupboard, railway, luckily, asylu blonde, sergeant, icy, lazy, goodbye, frighten, ja waiter, excite, bang, clever, fantastic, mobile, chill, builder, mentally, stea sword",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/Batman_Begins.epub",
+      "storyAcıklama": "It's a fantastic story of the most popular superhero Batman. Bruce Wayne was born in a rich and famous family in Gotham City in the USA. He hated the bats after he had fallen into the well where they attacked him. When he was a little boy, his parents were killed by the robber in front of him. A big suffering and a mental trauma were added to his phobia. Everything left a great scar on his soul. He blamed himself in his parents' death. He had been travelling the world looking for the answers. Desire for revenge and justice tormented him. Fate led him to Ducard from the League of Shadows. Ducard taught him the martial arts and helped to overcome his phobia of bats. Bruce Wayne came back to Gotham with the aim to restore order in his hometown. Now he knows how to use his fears in his favour.",
+      "tag": "fantasy comics  filmed  superhero",
+      "views": "44403"
+    },
+    {
       "id": "267",
       "baslik": "Dante's Peak",
       "aciklama": "B1 Pre-Intermediate",

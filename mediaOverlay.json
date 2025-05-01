@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "269",
+      "baslik": "The Aladdin and the Wonderful Lamp",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id269_The_Aladdin_and_the_Wonderful_Lamp.srt",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Aladdin_and_the_Wonderful_Lamp.m4a"
+    },
+    {
       "id": "268",
       "baslik": "Batman Begins",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id268_Batman_Begins.srt",

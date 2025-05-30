@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "270",
+      "baslik": " The Thames Murderer",
+      "aciklama": "B2 Intermediate+",
+      "thumbnail": "https://english-e-reader.net/covers/The_Thames_Murderer-Allsworth_Anne.jpg",
+      "kategori": "6",
+      "yazar": "Allsworth Anne",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Thames_Murderer.m4a",
+      "hardWord": "Text Analysis: Unique words: 1781 Total words: 12246\n\n\tHard words: pearl, notified, alerted, heatwave, unfolded, dumped, panelling, slammed, labelled, savour, leafed, snooping, appraising, priced, pleadingly, bush, colourful, brushed, fumbling, mumbled, murmured, averted, choked, adored, cheque, peachy",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/The_Thames_Murderer.epub",
+      "storyAcıklama": "On that day a young woman was walking with her dog on the bank of the river Thames. She was in deep thoughts about the future holidays with her husband. Suddenly something broke her dormancy. The dog was barking desperately at a swimming female corpse. The police inspector James Hudson discovered, that the dead woman had been the second victim of a serial maniac. The first one was killed four weeks ago, when the moon was full. The murderer sent to the police the weapon of his crime – a belt from the dress, which he used to strangle the girl. He also sent a note with a sign \"Jack the Skipper\". In that note he was laughing at the helpless policemen. The hard case is waiting for the inspector Hudson. First he has to find out the connection between the two victims.",
+      "tag": "detective investigation  murder  Thames",
+      "views": "24410"
+    },
+    {
       "id": "269",
       "baslik": "The Aladdin and the Wonderful Lamp",
       "aciklama": "A2 Elementary",

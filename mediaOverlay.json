@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "271",
+      "baslik": "The Right Team",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id271_The_Right_Team.srt",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Right_Team.m4a"
+    },
+    {
       "id": "270",
       "baslik": "The Thames Murderer",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id270_The_Thames_Murderer.srt",

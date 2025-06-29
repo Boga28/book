@@ -15,11 +15,11 @@ THE HARE AND THE TORTOISE
 The Hare ran across a field as fast as he could.
 
 5
-00:00:19,280 --> 00:00:23,720
+00:00:19,280 --> 00:00:23,640
 All the animals agreed that yes the Hare was very fast.
 
 6
-00:00:23,720 --> 00:00:26,680
+00:00:23,640 --> 00:00:26,680
 The Hare ran back.
 
 7
@@ -43,11 +43,11 @@ The Hare ran back.
 "Anybody think they could beat me?"
 
 12
-00:00:41,480 --> 00:00:42,800
+00:00:41,480 --> 00:00:42,840
 None of the animals spoke.
 
 13
-00:00:42,800 --> 00:00:45,160
+00:00:42,840 --> 00:00:45,160
 "See," said the Hare.
 
 14
@@ -162,15 +162,15 @@ one to touch the tree is the winner."
 "I'm ready," said the Tortoise.
 
 40
-00:02:59,000 --> 00:03:07,600
+00:02:59,000 --> 00:03:06,360
 "Ready, steady...go!" said the Fox and the race began.
 
 41
-00:03:07,600 --> 00:03:13,240
+00:03:06,360 --> 00:03:13,280
 The Hare roared off then stopped and looked back.
 
 42
-00:03:13,240 --> 00:03:16,200
+00:03:13,280 --> 00:03:16,200
 The Tortoise was still crossing the starting line.
 
 43
@@ -203,17 +203,17 @@ The Hare lay down in the sun and fell asleep.
 The Tortoise kept going.
 
 50
-00:03:49,680 --> 00:03:59,320
+00:03:49,680 --> 00:03:59,360
 Slowly, steadily he moved across the field and by evening
 time he was getting close to the finishing tree.
 
 51
-00:03:59,360 --> 00:04:05,040
+00:03:59,400 --> 00:04:05,080
 Still the Hare slept on and now the animals started to get
 excited.
 
 52
-00:04:05,040 --> 00:04:09,760
+00:04:05,120 --> 00:04:09,760
 "You know what? I think he might win," said a Rabbit.
 
 53
@@ -225,12 +225,12 @@ excited.
 "The Tortoise might actually win."
 
 55
-00:04:16,520 --> 00:04:24,360
+00:04:16,520 --> 00:04:24,800
 The animals started to get excited and as the Tortoise got
 close to the finishing tree they started to cheer.
 
 56
-00:04:24,360 --> 00:04:28,280
+00:04:24,800 --> 00:04:28,280
 "Come on Tortoise," they shouted.
 
 57
@@ -242,21 +242,21 @@ close to the finishing tree they started to cheer.
 But the noise of the cheering crowd woke up the Hare.
 
 59
-00:04:37,520 --> 00:04:44,080
+00:04:37,520 --> 00:04:43,960
 He looked across the field, saw the Tortoise about to reach
 the tree and in a flash he was running.
 
 60
-00:04:44,080 --> 00:04:55,000
+00:04:44,000 --> 00:04:55,000
 The Tortoise heard the Hare thundering up behind him but he
 kept going...and going...and suddenly he was there.
 
 61
-00:04:55,000 --> 00:05:00,840
+00:04:55,000 --> 00:05:00,800
 Just in time the Tortoise touched the tree with his nose.
 
 62
-00:05:00,880 --> 00:05:01,880
+00:05:00,840 --> 00:05:01,880
 He'd done it.
 
 63
@@ -276,12 +276,12 @@ The Tortoise had beaten the Hare fair and square.
 "Not fair," said the Hare.
 
 67
-00:05:18,760 --> 00:05:24,160
+00:05:18,760 --> 00:05:24,200
 "I was asleep. We have to run the race again. It's not
 fair."
 
 68
-00:05:24,200 --> 00:05:27,520
+00:05:24,240 --> 00:05:27,520
 But no-one was listening to the Hare.
 
 69
@@ -341,19 +341,19 @@ rest.
 dear."
 
 82
-00:06:48,040 --> 00:06:50,840
+00:06:48,040 --> 00:06:50,800
 The little frog hesitated.
 
 83
-00:06:50,840 --> 00:06:51,880
+00:06:50,800 --> 00:06:51,880
 "Can I have some then?"
 
 84
-00:06:51,880 --> 00:06:53,960
+00:06:51,880 --> 00:06:54,960
 "No, Stanley," she said.
 
 85
-00:06:53,960 --> 00:07:04,280
+00:06:54,960 --> 00:07:04,280
 "You're not a tadpole any more. Go and find your own slugs -
 and stop jiggling about, you're giving me a headache."
 
@@ -379,17 +379,17 @@ The little frog thought about it.
 "Exactly!" said his mother.
 
 91
-00:07:28,160 --> 00:07:37,160
+00:07:28,160 --> 00:07:37,120
 "You don't get a jelly-belly like mine by exercising. I get all the exercise I need chewing. Now, what's all the fuss
 about?"
 
 92
-00:07:37,160 --> 00:07:43,840
+00:07:37,120 --> 00:07:42,480
 "It's an Ox! And it's really gross and his shoes have split
 down the middle."
 
 93
-00:07:43,840 --> 00:07:50,080
+00:07:42,480 --> 00:07:50,080
 "There are no such things as monsters, Stanley, and no
 creature in the pond is bigger than me."
 
@@ -412,20 +412,20 @@ The damp hollow she sat in was home to a good assortment of
 slugs.
 
 98
-00:08:10,240 --> 00:08:13,080
+00:08:10,240 --> 00:08:11,720
 But she had eaten too many of them.
 
 99
-00:08:13,080 --> 00:08:17,880
+00:08:11,720 --> 00:08:17,880
 The big jelly-belly she was so proud of made it difficult to
 get about.
 
 100
-00:08:17,880 --> 00:08:21,880
+00:08:17,880 --> 00:08:21,920
 Now she could only half-hop, and flop, and then stop.
 
 101
-00:08:21,920 --> 00:08:28,880
+00:08:21,960 --> 00:08:28,880
 Hop, flop and stop, until she was all tired out and could go
 no further.
 
@@ -465,11 +465,11 @@ So she sucked in more air, and sucked in more air, and
 sucked in more air.
 
 110
-00:09:05,240 --> 00:09:07,520
+00:09:05,240 --> 00:09:07,560
 "No, mum – it's still bigger…"
 
 111
-00:09:07,560 --> 00:09:21,840
+00:09:07,600 --> 00:09:21,840
 So she took in another breath, and …and…she shot into the air like an escaped balloon that zips around the room making
 rude noises because you let go of the end.
 
@@ -639,15 +639,15 @@ said the Fox.
 good singers..."
 
 149
-00:13:10,320 --> 00:13:11,240
+00:13:10,320 --> 00:13:11,320
 The Crow nodded.
 
 150
-00:13:11,240 --> 00:13:16,600
+00:13:11,360 --> 00:13:16,560
 "And I bet you're the best singer out of all the crows."
 
 151
-00:13:16,600 --> 00:13:18,040
+00:13:16,560 --> 00:13:18,040
 The Crow nodded again.
 
 152
@@ -669,11 +669,11 @@ The Crow's mind was racing as the Fox started to walk away.
 lark...or nightingale..."
 
 156
-00:13:49,840 --> 00:13:52,400
+00:13:49,840 --> 00:13:52,960
 The crow thought to himself.
 
 157
-00:13:52,400 --> 00:14:07,080
+00:13:52,960 --> 00:14:07,080
 "The Fox is right. I'm a wonderful singer. Much better than those boring nightingales...and larks...very over-rated...I
 shall sing. I shall sing for the Fox right now."
 
@@ -696,11 +696,11 @@ The Fox licked his lips.
 breakfast."
 
 162
-00:14:25,960 --> 00:14:29,760
+00:14:25,960 --> 00:14:29,680
 "But you said you loved to hear a crow sing."
 
 163
-00:14:29,760 --> 00:14:47,280
+00:14:29,680 --> 00:14:47,280
 "Never believe what people tell you when they're trying to steal your cheese," said the Fox...and he winked at the crow
 as he gobbled up the last little bit.
 
@@ -709,12 +709,12 @@ as he gobbled up the last little bit.
 THE MONKEY AS KING
 
 165
-00:14:50,320 --> 00:15:02,040
+00:14:50,320 --> 00:15:01,920
 There was a huge competition in the Indian jungle – and the
 prize was – "To be King of the Beasts!"
 
 166
-00:15:02,040 --> 00:15:03,920
+00:15:01,920 --> 00:15:03,920
 It was very exciting!
 
 167
@@ -732,11 +732,11 @@ Each animal got to say their piece on a big stage while the
 other animals judged.
 
 170
-00:15:22,520 --> 00:15:24,880
+00:15:22,520 --> 00:15:24,840
 The first up on stage was Fox.
 
 171
-00:15:24,920 --> 00:15:27,840
+00:15:24,880 --> 00:15:27,840
 Fox was a very clever animal.
 
 172
@@ -745,12 +745,12 @@ He spoke very well about the rights of the people and the duties of the King; bu
 "fiscal" and "jurisdiction" that most of the animals got bored and fell asleep.
 
 173
-00:15:41,560 --> 00:16:03,880
+00:15:41,560 --> 00:16:04,160
 "And," said Fox, "never forget that there are many new traps
 around in the jungle. Traps laid by Man to catch animals! Of course, there never was a trap made that could catch a fox. So this is my promise to you. If I am made King, I will educate each and every animal in avoiding these traps. Thank you."
 
 174
-00:16:03,920 --> 00:16:07,960
+00:16:04,200 --> 00:16:07,960
 Fox went off the stage and was met by Monkey.
 
 175
@@ -767,16 +767,16 @@ made!" said Monkey.
 "Yes – very clever you are," Monkey carried on.
 
 178
-00:16:21,000 --> 00:16:25,200
+00:16:21,000 --> 00:16:25,240
 "But that is not what the animals want in a king. Watch
 this!"
 
 179
-00:16:25,200 --> 00:16:27,720
+00:16:25,240 --> 00:16:27,680
 And he bounded on to the stage.
 
 180
-00:16:27,720 --> 00:16:30,520
+00:16:27,680 --> 00:16:30,520
 "Thank you! Thank you!" he shouted.
 
 181
@@ -809,15 +809,15 @@ And what faces he pulled!
 Monkey was funny.
 
 188
-00:17:01,680 --> 00:17:05,720
+00:17:01,680 --> 00:17:05,840
 The audience laughed and roared and held their sides.
 
 189
-00:17:05,760 --> 00:17:09,600
+00:17:05,880 --> 00:17:09,560
 And that is how Monkey became King of the Beasts.
 
 190
-00:17:09,600 --> 00:17:16,160
+00:17:09,560 --> 00:17:16,160
 "Oooh-ooh-ooh! Well, Fox!" he smirked, as he paraded up and
 down in his gold crown.
 
@@ -839,11 +839,11 @@ The next day, Fox saw Monkey lolling around in his throne
 with his golden crown upon his head.
 
 195
-00:17:30,200 --> 00:17:33,080
+00:17:30,200 --> 00:17:33,120
 "No hard feelings…Sire," he said.
 
 196
-00:17:33,080 --> 00:17:38,560
+00:17:33,120 --> 00:17:38,560
 "You won, fair and square. And I want to give you a present
 fit for a clever king."
 
@@ -869,12 +869,12 @@ So Monkey and Fox set off into the forest together.
 getting excited.
 
 202
-00:17:56,960 --> 00:18:04,160
+00:17:56,960 --> 00:18:04,200
 "There it is, Sire," said sly Fox, pointing at a big, ripe
 banana on the jungle floor.
 
 203
-00:18:04,160 --> 00:18:07,880
+00:18:04,200 --> 00:18:07,880
 "YUM YUM!" cried Monkey, and dived off to pick it up.
 
 204
@@ -895,11 +895,11 @@ confusion.
 At last they found him.
 
 208
-00:18:22,960 --> 00:18:25,280
+00:18:22,960 --> 00:18:27,200
 He was sitting – in a TRAP!
 
 209
-00:18:25,280 --> 00:18:29,400
+00:18:27,200 --> 00:18:29,400
 Monkey held out his arms through the bars.
 
 210
@@ -954,28 +954,28 @@ They looked at Monkey.
 "You are a very foolish monkey," said Fox.
 
 222
-00:19:14,760 --> 00:19:29,160
+00:19:14,760 --> 00:19:29,120
 "I will get you out of the trap, but you must give up your crown. The King of the Beasts should be an animal that is
 smarter than to fall into traps. Don't you think?"
 
 223
-00:19:29,160 --> 00:19:38,200
+00:19:29,120 --> 00:19:38,200
 And all the other animals agreed.
 
 224
-00:19:38,200 --> 00:19:44,760
+00:19:38,200 --> 00:19:44,520
 THE BUNDLE OF STICKS
 
 225
-00:19:44,760 --> 00:19:47,280
+00:19:44,520 --> 00:19:47,280
 Mrs Mckenzie had six strong sons.
 
 226
-00:19:47,280 --> 00:19:52,280
+00:19:47,280 --> 00:19:52,320
 They were Peter, Paul and Patrick, Philip, Frankie and Fred.
 
 227
-00:19:52,320 --> 00:19:57,880
+00:19:52,360 --> 00:19:57,880
 The only trouble was they couldn't stop arguing with each
 other!
 
@@ -993,12 +993,12 @@ strong sons could do that?
 "No – over here!" said Patrick.
 
 231
-00:20:09,960 --> 00:20:19,000
+00:20:09,960 --> 00:20:19,040
 And each of the six strong sons grabbed a spade and started
 digging different holes in different parts of the garden!
 
 232
-00:20:19,000 --> 00:20:22,000
+00:20:19,040 --> 00:20:22,000
 "That's no use at all," she sighed.
 
 233
@@ -1016,11 +1016,11 @@ They leapt into the boat and sat down facing the front and
 picked up oars.
 
 236
-00:20:36,320 --> 00:20:39,600
+00:20:36,320 --> 00:20:39,640
 "No we will!" shouted Patrick and Philip.
 
 237
-00:20:39,600 --> 00:20:43,200
+00:20:39,640 --> 00:20:43,200
 And they sat down facing backwards and picked up the oars.
 
 238
@@ -1312,11 +1312,11 @@ When Lions narrow their eyes and murmur silkily, they are at
 their most dangerous.
 
 306
-00:26:11,200 --> 00:26:13,400
+00:26:11,200 --> 00:26:13,960
 But the Gnat wasn't worried.
 
 307
-00:26:13,400 --> 00:26:15,720
+00:26:13,960 --> 00:26:15,720
 He opened his tiny mouth and yawned.
 
 308
@@ -1325,11 +1325,11 @@ He opened his tiny mouth and yawned.
 outwit you anytime."
 
 309
-00:26:20,000 --> 00:26:22,800
+00:26:20,000 --> 00:26:23,720
 The Lion snorted.
 
 310
-00:26:22,800 --> 00:26:26,600
+00:26:23,720 --> 00:26:26,600
 "Ha!" he said.
 
 311
@@ -1362,7 +1362,7 @@ The Gnat jumped out of the way.
 Humming a little tune he began buzzing round the Lions head.
 
 318
-00:26:53,280 --> 00:26:56,160
+00:26:53,280 --> 00:26:56,200
 "Zzzz, Zzzz, Zzzz,
 
 319
@@ -1416,11 +1416,11 @@ He acted quickly.
 He flew straight up the lions nose!
 
 331
-00:27:31,320 --> 00:27:32,880
+00:27:31,320 --> 00:27:33,520
 And began to bite.
 
 332
-00:27:32,880 --> 00:27:38,840
+00:27:33,520 --> 00:27:38,840
 Roaring with pain the Lion shook his head.
 
 333
@@ -1452,7 +1452,7 @@ The Lion's nose began to swell.
 He could hardly breath.
 
 340
-00:27:59,480 --> 00:28:02,400
+00:27:59,600 --> 00:28:02,400
 "Say it," said the Gnat.
 
 341
@@ -1524,11 +1524,11 @@ threads.
 When he did, it was too late.
 
 357
-00:29:09,600 --> 00:29:13,920
+00:29:09,600 --> 00:29:13,960
 "Hello, Gnat," said the Spider.
 
 358
-00:29:13,920 --> 00:29:17,720
+00:29:13,960 --> 00:29:17,720
 The Gnat tried to fly away, but he was stuck.
 
 359
@@ -1537,19 +1537,19 @@ The Gnat tried to fly away, but he was stuck.
 Beasts."
 
 360
-00:29:24,080 --> 00:29:28,480
+00:29:24,080 --> 00:29:30,360
 "We'll see about that," said the Spider.
 
 361
-00:29:28,480 --> 00:29:33,960
+00:29:30,360 --> 00:29:33,960
 And he ate the Gnat for his supper.
 
 362
-00:29:33,960 --> 00:29:39,440
+00:29:33,960 --> 00:29:40,160
 THE NORTH WIND AND THE SUN
 
 363
-00:29:39,440 --> 00:29:58,440
+00:29:40,160 --> 00:29:58,440
 It was a fine but very cold winter's day as the Sun shone
 down on the snow-covered earth below.
 
@@ -1577,12 +1577,12 @@ nearly blew the Sun along with it.
 They won't know what's hit them…"
 
 369
-00:30:31,040 --> 00:30:38,360
+00:30:31,040 --> 00:30:38,640
 The Wind blew and blew – it blew so hard that the ship's
 sails ripped apart.
 
 370
-00:30:38,440 --> 00:30:48,840
+00:30:38,720 --> 00:30:48,840
 All the Sun could do was watch as the sailors shivered in
 the icy blast, shook their fists and cried out in anger.
 
@@ -1600,12 +1600,12 @@ the icy blast, shook their fists and cried out in anger.
 Wind.
 
 374
-00:31:00,920 --> 00:31:10,800
+00:31:00,920 --> 00:31:10,760
 "You sit in the sky and do nothing except shine, but I am
 full of force and energy."
 
 375
-00:31:10,840 --> 00:31:12,720
+00:31:10,800 --> 00:31:12,720
 "Hmmm…" said the Sun, looking thoughtful.
 
 376
@@ -1630,7 +1630,7 @@ the stronger."
 The Wind looked where the Sun was pointing.
 
 381
-00:31:33,200 --> 00:31:37,440
+00:31:33,160 --> 00:31:37,440
 A young man was walking along a windy road through the
 mountains.
 
@@ -1706,16 +1706,16 @@ On the white earth below the air was becoming warmer.
 The Wind watched in awe as the snow began to melt.
 
 398
-00:32:55,600 --> 00:33:02,120
+00:32:55,600 --> 00:33:01,720
 Icicles were dripping and even the thick ice on the lakes
 was starting to thaw and crack.
 
 399
-00:33:02,120 --> 00:33:06,120
+00:33:01,720 --> 00:33:06,080
 The man looked round in wonder at the melting landscape.
 
 400
-00:33:06,120 --> 00:33:12,840
+00:33:06,080 --> 00:33:12,840
 It had been such a long, cold winter that it was a joy to
 feel the warmth of the Sun on his face.
 
@@ -1728,12 +1728,12 @@ He undid his top button, then a second…
 "What a lovely day it's turning out to be," the man thought.
 
 403
-00:33:21,880 --> 00:33:34,320
+00:33:21,880 --> 00:33:34,560
 "It's too warm for this heavy winter coat. Everything is so bright and beautiful, I just want to enjoy the Sun and rest
 a while – I might even have a little nap."
 
 404
-00:33:34,320 --> 00:33:42,840
+00:33:34,560 --> 00:33:42,840
 The Wind was beside itself with annoyance as the man sat
 under the shade of a large rock and took off his coat.
 
@@ -1757,12 +1757,12 @@ The sailors on the broken ships were cheering and waving up
 at the Sun.
 
 409
-00:34:11,160 --> 00:34:18,240
+00:34:11,160 --> 00:34:18,200
 "Now they can mend their sails – and I shall carry on
 shining until their ships can sail again," said the Sun.
 
 410
-00:34:18,240 --> 00:34:25,560
+00:34:18,200 --> 00:34:25,560
 Down below on the Earth, the young man looked up at the Sun
 as if he had heard him speak.
 
@@ -1781,7 +1781,7 @@ One hot day at the end of summer a fox trotted along the dusty path to a farm, l
 sniffing the air, as foxes do.
 
 414
-00:35:11,560 --> 00:35:20,880
+00:35:11,560 --> 00:35:20,920
 It was getting late, and after a long day the sun looked a little red in the face and had dropped out of sight behind a
 bush.
 
@@ -1790,11 +1790,11 @@ bush.
 It was the time of day that the fox liked best.
 
 416
-00:35:25,360 --> 00:35:27,600
+00:35:25,360 --> 00:35:27,640
 The farmer's work was finished.
 
 417
-00:35:27,640 --> 00:35:32,320
+00:35:27,680 --> 00:35:32,320
 He had taken off his muddy boots and gone inside for tea.
 
 418
@@ -1838,7 +1838,7 @@ The farmer locked in the hens at night, and the rabbits and geese, and he shooed
 the middle of the duck pond so that the clever fox could not get them.
 
 426
-00:36:42,000 --> 00:36:44,640
+00:36:41,960 --> 00:36:44,640
 He knew the fox hated swimming.
 
 427
@@ -1922,16 +1922,16 @@ And the fox walked slowly along the dusty path back to his den with his nose in 
 as hungry, disappointed foxes do.
 
 445
-00:38:30,760 --> 00:38:44,680
+00:38:30,760 --> 00:38:38,600
 Sometimes, when we can't get what we want, we pretend we
 never wanted it anyway.
 
 446
-00:38:44,680 --> 00:38:52,600
+00:38:38,600 --> 00:38:52,320
 THE DOG, THE COCKEREL AND THE FOX
 
 447
-00:38:52,600 --> 00:39:01,240
+00:38:52,320 --> 00:39:01,240
 Dog lived in the farmyard and it was her job to let everyone
 know when someone was at the gate.
 
@@ -1977,12 +1977,12 @@ The big wide world was wide indeed…with sky at the top and hills underneath an
 forever.
 
 457
-00:39:54,840 --> 00:40:03,360
+00:39:54,840 --> 00:40:03,040
 The two friends journeyed along the path, then, just as the
 sun slipped behind the hills they came to a wood.
 
 458
-00:40:03,400 --> 00:40:07,960
+00:40:03,080 --> 00:40:07,960
 "It'll be dark soon," said Cockerel.
 
 459
@@ -2040,12 +2040,12 @@ branch anyway, not unless you cock-a-doodle-doo."
 "Goodnight, Dog!"
 
 471
-00:41:10,600 --> 00:41:17,640
+00:41:10,600 --> 00:41:17,680
 "Goodnight, Cockerel - and remember not to cock-a-doodle-doo
 in the morning, or the fox might hear you!"
 
 472
-00:41:17,640 --> 00:41:20,400
+00:41:17,680 --> 00:41:20,400
 Cockerel slept happily after that.
 
 473
@@ -2100,17 +2100,17 @@ Fox.
 Cockerel sighed, "Come on up then," he said slyly.
 
 485
-00:42:25,040 --> 00:42:31,600
+00:42:25,040 --> 00:42:31,480
 "Go round to the door at the bottom of the tree and my
 porter will let you in!"
 
 486
-00:42:31,600 --> 00:42:38,120
+00:42:31,480 --> 00:42:38,160
 Fox grinned to himself a sneaky grin…a thread of drool hung
 from his chin.
 
 487
-00:42:38,120 --> 00:42:44,000
+00:42:38,160 --> 00:42:44,000
 He went to the hollow in the tree…where Dog was waiting
 patiently.
 
@@ -2251,12 +2251,12 @@ The miller thought he'd better do as they said.
 So the son climbed down and helped his father clamber up.
 
 520
-00:45:12,560 --> 00:45:17,800
+00:45:12,560 --> 00:45:18,600
 "Ee-aw!" grumbled the donkey, as the miller landed on his
 back.
 
 521
-00:45:17,800 --> 00:45:22,920
+00:45:18,600 --> 00:45:22,920
 "What a lump. Worse than a sack of potatoes."
 
 522
@@ -2282,11 +2282,11 @@ The miller pulled on the donkey's halter.
 "Whoa!" he said.
 
 527
-00:45:40,280 --> 00:45:42,560
+00:45:40,280 --> 00:45:42,600
 "Let the ladies through first."
 
 528
-00:45:42,560 --> 00:45:50,040
+00:45:42,600 --> 00:45:50,040
 "Cor, look at that poor boy," one of the girls said, seeing
 the son lead the donkey, his father on top.
 
@@ -2328,11 +2328,11 @@ crawled slowly along the road, head drooping.
 "And one of them so big!" said her friend.
 
 538
-00:46:31,720 --> 00:46:34,640
+00:46:31,720 --> 00:46:34,000
 "They should be carrying it!"
 
 539
-00:46:34,640 --> 00:46:39,480
+00:46:34,000 --> 00:46:39,480
 "Yes, they are right," thought the miller, and climbed down.
 
 540
@@ -2341,69 +2341,69 @@ crawled slowly along the road, head drooping.
 donkey's legs to a pole, the donkey slung between them.
 
 541
-00:46:49,680 --> 00:47:07,360
+00:46:49,680 --> 00:47:10,200
 "Now they know what it's like to be a donkey - carrying great loads all day," he thought as the miller and his son
 stumbled down the street.
 
 542
-00:47:07,360 --> 00:47:10,760
+00:47:10,200 --> 00:47:16,480
 The townspeople had never seen such a sight before.
 
 543
-00:47:10,800 --> 00:47:13,200
+00:47:16,520 --> 00:47:18,040
 They ran out of their houses to watch.
 
 544
-00:47:13,200 --> 00:47:14,760
+00:47:18,040 --> 00:47:20,640
 "Don't they look silly", they laughed.
 
 545
-00:47:14,800 --> 00:47:18,400
+00:47:20,680 --> 00:47:25,880
 The donkey hated to be laughed at.
 
 546
-00:47:18,800 --> 00:47:25,560
+00:47:25,920 --> 00:47:31,120
 He pushed and he pulled, trying to free himself.
 
 547
-00:47:25,600 --> 00:47:30,560
+00:47:31,160 --> 00:47:33,880
 Slowly the ropes that bound him began to loosen.
 
 548
-00:47:30,600 --> 00:47:33,960
+00:47:33,920 --> 00:47:39,160
 "One – more – heave," he gasped as they stumbled up to the
 bridge.
 
 549
-00:47:34,000 --> 00:47:36,120
+00:47:39,200 --> 00:47:43,720
 And with a final tug and a kick he was free.
 
 550
-00:47:36,120 --> 00:47:39,720
+00:47:43,720 --> 00:47:45,200
 Over the bridge he tumbled.
 
 551
-00:47:39,720 --> 00:47:42,800
+00:47:45,200 --> 00:47:47,560
 Down, down, down he fell.
 
 552
-00:47:42,880 --> 00:47:43,400
+00:47:47,560 --> 00:47:48,960
 Splash!
 
 553
-00:47:43,440 --> 00:47:45,640
+00:47:49,000 --> 00:47:50,080
 Into the river below.
 
 554
-00:47:45,640 --> 00:47:49,280
+00:47:50,080 --> 00:47:52,280
 He thrashed and he brayed.
 
 555
-00:47:49,280 --> 00:47:52,720
+00:47:52,280 --> 00:47:53,480
 But there was nothing he could do.
 
 556
-00:47:52,720 --> 00:47:54,880
+00:47:53,480 --> 00:47:54,880
 "Ee-aw. Ee-aw," he cried.
 
 557
@@ -2578,12 +2578,12 @@ Wolf grinned an unpleasant grin that showed all his teeth.
 of a long pointed claw.
 
 594
-00:52:14,720 --> 00:52:24,560
+00:52:14,720 --> 00:52:27,240
 "Yes, I had a good look at them a moment ago when my head
 was in your mouth," said the trusting Heron.
 
 595
-00:52:24,560 --> 00:52:33,640
+00:52:27,240 --> 00:52:33,640
 "Well, snarled Wolf, "I didn't bite your head off, did I?"
 
 596
@@ -2644,7 +2644,7 @@ So he put it on.
 It covered him from head to foot.
 
 609
-00:53:53,880 --> 00:53:58,520
+00:53:53,840 --> 00:53:58,520
 The donkey found a pool and looked at his reflection.
 
 610
@@ -2693,7 +2693,7 @@ in a curtsy.
 voice.
 
 620
-00:54:53,240 --> 00:54:56,160
+00:54:53,240 --> 00:54:56,200
 "Won't you join me in a stroll?"
 
 621
@@ -2714,11 +2714,11 @@ The donkey smiled to himself.
 He saw a hippo in the river.
 
 625
-00:55:11,360 --> 00:55:14,800
+00:55:11,360 --> 00:55:15,000
 The hippo bowed his head when he saw the donkey.
 
 626
-00:55:14,800 --> 00:55:19,960
+00:55:15,040 --> 00:55:19,960
 "Your Majesty," he said, in hushed tones.
 
 627
@@ -2834,7 +2834,7 @@ He grabbed the lion's mane and pulled.
 The lion costume came off in his hands.
 
 654
-00:56:57,760 --> 00:57:00,880
+00:56:57,760 --> 00:57:00,960
 The donkey stood there, trembling.
 
 655
@@ -2858,23 +2858,23 @@ And so did the hippo.
 "If only I had kept my mouth shut," thought the donkey.
 
 660
-00:57:17,760 --> 00:57:20,840
+00:57:17,760 --> 00:57:20,800
 The other animals put their arms round him.
 
 661
-00:57:20,840 --> 00:57:26,720
+00:57:20,800 --> 00:57:26,760
 "Don't worry," they said, "we like you just as you are."
 
 662
-00:57:26,800 --> 00:57:36,600
+00:57:26,800 --> 00:57:36,520
 And they all hurried away before the real lion came along.
 
 663
-00:57:36,640 --> 00:57:43,640
+00:57:36,560 --> 00:57:43,680
 THE ANT AND THE GRASSHOPPER
 
 664
-00:57:43,640 --> 00:57:52,360
+00:57:43,680 --> 00:57:52,360
 One hot summer's day a Grasshopper sat on a blade of grass
 enjoying the sunshine.
 
@@ -2946,12 +2946,12 @@ Got stuff to do."
 "Stuff?" said the Grasshopper.
 
 681
-00:58:46,800 --> 00:58:52,520
+00:58:46,800 --> 00:58:52,760
 "What stuff have you got to do on a lovely sunny morning
 like this?"
 
 682
-00:58:52,520 --> 00:58:58,080
+00:58:52,760 --> 00:58:58,080
 "Gotta get this food shifted," said the Ant.
 
 683
@@ -3006,11 +3006,11 @@ winter. It's summer now. Why worry about the winter?"
 what we Ants do."
 
 695
-01:00:01,560 --> 01:00:06,520
+01:00:01,560 --> 01:00:06,760
 "It's not what Grasshoppers do," said the Grasshopper.
 
 696
-01:00:06,520 --> 01:00:19,120
+01:00:06,760 --> 01:00:19,120
 "We Grasshoppers know how to enjoy the summer. Eat...sleep...make some cool music...It's a fine life. We
 Grasshoppers know how to live, see."
 
@@ -3058,15 +3058,15 @@ like this talking to Ants."
 shouted the grasshopper.
 
 707
-01:01:12,480 --> 01:01:15,080
+01:01:12,480 --> 01:01:15,120
 It was winter.
 
 708
-01:01:15,120 --> 01:01:17,080
+01:01:15,160 --> 01:01:16,840
 The Grasshopper was cold.
 
 709
-01:01:17,120 --> 01:01:19,040
+01:01:16,840 --> 01:01:19,040
 Too cold to hop.
 
 710
@@ -3074,11 +3074,11 @@ Too cold to hop.
 Too cold to make his music.
 
 711
-01:01:24,680 --> 01:01:26,480
+01:01:24,680 --> 01:01:26,840
 And he was hungry.
 
 712
-01:01:26,480 --> 01:01:28,760
+01:01:26,840 --> 01:01:28,760
 He'd spent all day looking for something to eat.
 
 713
@@ -3102,32 +3102,32 @@ Suddenly he saw the Ant.
 "Cold," isn't it," said the Grasshopper.
 
 718
-01:01:38,800 --> 01:01:42,840
+01:01:38,800 --> 01:01:42,440
 "Nice and warm in our nest," said the Ant.
 
 719
-01:01:42,840 --> 01:01:49,880
+01:01:42,440 --> 01:01:47,080
 "Not so much to eat now is there," said the Grasshopper
 
 720
-01:01:49,880 --> 01:01:56,800
+01:01:47,080 --> 01:01:53,440
 "We've got plenty," said the Ant. "Our store rooms are full
 of seeds and corn.
 
 721
-01:01:56,800 --> 01:01:58,680
+01:01:53,440 --> 01:01:55,920
 Got loads of food.
 
 722
-01:01:58,680 --> 01:02:02,200
+01:01:55,920 --> 01:01:59,440
 Enough to see us safely through to Spring."
 
 723
-01:02:02,200 --> 01:02:14,000
+01:01:59,440 --> 01:02:02,440
 "Loads of food, eh?" said the Grasshopper.
 
 724
-01:02:14,000 --> 01:02:24,840
+01:02:02,440 --> 01:02:24,840
 "Look...mate...I don't suppose I could...? I don't suppose
 you'd be able to give me...?"
 
@@ -3137,11 +3137,11 @@ you'd be able to give me...?"
 Ant," said the Ant.
 
 726
-01:02:29,280 --> 01:02:33,760
+01:02:29,280 --> 01:02:33,840
 "I didn't mean that," said the Grasshopper.
 
 727
-01:02:33,760 --> 01:02:41,880
+01:02:33,840 --> 01:02:41,880
 "That was just a joke. Oh come on. Just a couple of ears of
 corn. You can spare it. I've got nothing."
 
@@ -3184,16 +3184,16 @@ Just then a swan flew over the garden and landed gracefully
 on the King's lake.
 
 736
-01:03:27,440 --> 01:03:31,520
+01:03:27,440 --> 01:03:30,560
 "No," said the Queen.
 
 737
-01:03:31,560 --> 01:03:38,240
+01:03:30,600 --> 01:03:38,280
 "I think the swan with its long neck and silky white wings
 is the most beautiful bird in the world."
 
 738
-01:03:38,240 --> 01:03:40,480
+01:03:38,280 --> 01:03:40,480
 "Peacock!" said the King
 
 739
@@ -3201,11 +3201,11 @@ is the most beautiful bird in the world."
 "Wrong" said the Queen.
 
 740
-01:03:43,200 --> 01:03:45,560
+01:03:43,200 --> 01:03:45,600
 "Swan!"
 
 741
-01:03:45,560 --> 01:03:53,200
+01:03:45,600 --> 01:03:53,200
 The King didn't like being told he was wrong so he decided
 to hold a competition.
 
@@ -3258,12 +3258,12 @@ jackdaws aren't beautiful."
 "I might be in with a chance."
 
 753
-01:04:56,320 --> 01:05:08,080
+01:04:56,320 --> 01:05:06,480
 "Don't make me laugh. Look at yourself. Your feathers are all grey and black, your beak's too long for your head and
 you look like you haven't had a bath in a month.
 
 754
-01:05:08,080 --> 01:05:22,600
+01:05:06,480 --> 01:05:22,600
 You're a scruffy little jackdaw like us. We're clever and cunning and cheeky but none of us is ever going to win a
 beauty competition."
 
@@ -3272,500 +3272,500 @@ beauty competition."
 The young Jackdaw was upset.
 
 756
-01:05:24,520 --> 01:05:26,280
+01:05:24,520 --> 01:05:27,160
 "Right," he said.
 
 757
-01:05:26,280 --> 01:05:28,280
+01:05:27,160 --> 01:05:29,560
 "I'll show "em."
 
 758
-01:05:28,280 --> 01:05:35,880
+01:05:29,560 --> 01:05:47,000
 Next day the young jackdaw flew to the King's garden where he found two long green and blue peacock feathers lying in
 the grass.
 
 759
-01:05:35,880 --> 01:05:41,560
+01:05:47,000 --> 01:05:51,640
 He picked them up in his beak and carried them back to his
 nest.
 
 760
-01:05:41,600 --> 01:05:48,600
+01:05:51,680 --> 01:05:58,720
 Then, down by the King's lake, he found three beautiful
 white swan's feathers and carried them off too.
 
 761
-01:05:48,600 --> 01:05:55,400
+01:05:58,720 --> 01:06:07,480
 Soon he had lots of brightly coloured feathers from all
 sorts of birds and he started to work.
 
 762
-01:05:55,400 --> 01:06:05,640
+01:06:07,480 --> 01:06:15,840
 First he stuck bright red and green parrot feathers onto his
 wings.
 
 763
-01:06:05,920 --> 01:06:10,080
+01:06:16,160 --> 01:06:20,640
 Then on his tail he tied the beautiful long peacock
 feathers.
 
 764
-01:06:10,080 --> 01:06:23,840
+01:06:20,640 --> 01:06:35,520
 For his head he made a hat from the silky white feathers of the swan and when his outfit was finished he looked at
 himself and said, "Who's scruffy now?"
 
 765
-01:06:23,840 --> 01:06:31,440
+01:06:35,520 --> 01:06:41,000
 On the day of the competition the King and Queen and their
 friends sat in the garden as the birds paraded past.
 
 766
-01:06:31,880 --> 01:06:39,120
+01:06:41,000 --> 01:06:49,280
 Last to appear was a strange brightly-coloured bird that
 no-one had ever seen before.
 
 767
-01:06:39,120 --> 01:06:41,120
+01:06:49,280 --> 01:06:50,880
 "What on earth is that?" said the King
 
 768
-01:06:41,120 --> 01:06:48,480
+01:06:50,880 --> 01:06:56,120
 "I don't know," said the Queen, "I've never seen anything
 like it before but it's very very beautiful."
 
 769
-01:06:48,480 --> 01:06:50,160
+01:06:56,160 --> 01:07:00,240
 "Yes it is," said the King.
 
 770
-01:06:50,160 --> 01:06:59,560
+01:07:00,240 --> 01:07:07,960
 "Yes I am," said the young jackdaw walking up and down in
 front of the crowd and showing off his fine colours.
 
 771
-01:06:59,560 --> 01:07:02,520
+01:07:07,960 --> 01:07:11,160
 There was no doubt about it.
 
 772
-01:07:02,520 --> 01:07:04,280
+01:07:11,160 --> 01:07:15,240
 The King announced that this new bird was the winner.
 
 773
-01:07:04,320 --> 01:07:14,240
+01:07:15,280 --> 01:07:34,800
 The peacock and the swan both looked very cross as the young
 jackdaw bowed to the cheering crowd.
 
 774
-01:07:14,240 --> 01:07:17,160
+01:07:34,800 --> 01:07:37,440
 Then something terrible happened.
 
 775
-01:07:17,160 --> 01:07:17,600
+01:07:37,480 --> 01:07:38,200
 His hat fell off.
 
 776
-01:07:17,600 --> 01:07:19,240
+01:07:38,200 --> 01:07:40,320
 "Just a minute," said the swan.
 
 777
-01:07:19,240 --> 01:07:31,080
+01:07:40,320 --> 01:07:42,920
 "Aren't those my feathers?"
 
 778
-01:07:31,080 --> 01:07:36,960
+01:07:42,920 --> 01:07:47,480
 "And those wings," said the parrot looking closely at the
 jackdaw.
 
 779
-01:07:36,960 --> 01:07:39,400
+01:07:47,520 --> 01:07:53,280
 "Didn't they used to belong to me?"
 
 780
-01:07:39,400 --> 01:07:41,600
+01:07:53,280 --> 01:07:58,280
 "And that tail," said the peacock.
 
 781
-01:07:41,600 --> 01:07:43,120
+01:07:58,280 --> 01:08:02,360
 "I'd know that tail anywhere."
 
 782
-01:07:43,120 --> 01:07:53,120
+01:08:02,360 --> 01:08:11,680
 Soon the young jackdaw was surrounded by birds pecking at
 his beautiful costume.
 
 783
-01:07:53,120 --> 01:07:59,720
+01:08:11,680 --> 01:08:16,880
 They pulled away their lovely coloured feathers until his
 costume had all gone.
 
 784
-01:07:59,720 --> 01:08:02,840
+01:08:16,880 --> 01:08:21,720
 "It's just a jackdaw," said the King.
 
 785
-01:08:04,040 --> 01:08:08,360
+01:08:21,760 --> 01:08:29,440
 "A scruffy little jackdaw," said the Queen.
 
 786
-01:08:08,360 --> 01:08:11,200
+01:08:29,440 --> 01:08:34,000
 The young jackdaw walked back to his nest very slowly.
 
 787
-01:08:11,240 --> 01:08:15,440
+01:08:34,120 --> 01:08:39,880
 "I just wanted to be special," he said.
 
 788
-01:08:15,440 --> 01:08:22,840
+01:08:39,880 --> 01:08:49,480
 "You don't become special just by putting on fine clothes,"
 said the Chief Jackdaw.
 
 789
-01:08:22,880 --> 01:08:27,640
+01:08:49,480 --> 01:08:54,800
 "I know that. I know that now," said the young jackdaw.
 
 790
-01:08:27,640 --> 01:08:31,400
+01:08:54,800 --> 01:09:00,280
 But the other jackdaws weren't listening to him.
 
 791
-01:08:31,480 --> 01:08:36,800
+01:09:00,320 --> 01:09:04,640
 They'd already flown away and left him all alone.
 
 792
-01:08:36,800 --> 01:08:38,560
+01:09:04,640 --> 01:09:06,240
 THE FROGS WHO WANTED A KING
 
 793
-01:08:38,560 --> 01:08:42,760
+01:09:06,240 --> 01:09:11,720
 The Frogs should have been happy.
 
 794
-01:08:42,760 --> 01:08:51,480
+01:09:11,720 --> 01:09:22,080
 It was summer, they had plenty to eat and nothing much to do
 except mess about in the cool clear water of their pool.
 
 795
-01:08:51,480 --> 01:08:54,600
+01:09:22,080 --> 01:09:25,600
 They should have been very happy indeed...but they weren't.
 
 796
-01:08:54,600 --> 01:08:59,160
+01:09:25,640 --> 01:09:33,120
 "Being a frog's a bit boring actually," said a frog.
 
 797
-01:08:59,160 --> 01:09:07,680
+01:09:33,120 --> 01:09:40,800
 "Yeah. It's just eating and swimming basically," said
 another.
 
 798
-01:09:07,680 --> 01:09:13,320
+01:09:40,800 --> 01:09:47,600
 "What's the point? Why are we here? Why can't life be more
 exciting?"
 
 799
-01:09:13,320 --> 01:09:15,360
+01:09:47,600 --> 01:09:50,520
 "If only we had a leader," said a fat bullfrog.
 
 800
-01:09:15,360 --> 01:09:21,440
+01:09:50,520 --> 01:09:58,680
 "If we had a leader he'd tell us what to do."
 
 801
-01:09:21,440 --> 01:09:22,200
+01:09:58,680 --> 01:10:01,280
 "That's right," said another Frog.
 
 802
-01:09:22,200 --> 01:09:28,520
+01:10:01,280 --> 01:10:14,200
 "If we had a leader he'd organise... parties and...plays
 and... picnics and errr...
 
 803
-01:09:28,560 --> 01:09:38,160
+01:10:14,240 --> 01:10:23,040
 "Of course what we really need... ...in an ideal world,"
 said the bullfrog, "is a King."
 
 804
-01:09:38,160 --> 01:09:40,120
+01:10:23,040 --> 01:10:23,920
 The frogs all gasped.
 
 805
-01:09:40,920 --> 01:09:43,600
+01:10:23,960 --> 01:10:24,920
 A king!
 
 806
-01:09:43,600 --> 01:09:43,880
+01:10:24,920 --> 01:10:25,240
 Imagine!
 
 807
-01:09:43,880 --> 01:09:51,240
+01:10:25,240 --> 01:10:32,000
 Their very own king with a crown on his head, giving orders
 and telling them all what to do.
 
 808
-01:09:51,240 --> 01:09:58,880
+01:10:32,000 --> 01:10:37,960
 "So how do we get a king?" said the little frog.
 
 809
-01:09:58,880 --> 01:10:05,120
+01:10:37,960 --> 01:10:44,840
 "To get a King," said the bullfrog, "you need to go to the
 top."
 
 810
-01:10:05,120 --> 01:10:11,040
+01:10:44,840 --> 01:10:47,520
 The Frogs knew what the bullfrog meant.
 
 811
-01:10:11,080 --> 01:10:16,000
+01:10:47,560 --> 01:10:50,640
 The king of all the gods was called Jupiter.
 
 812
-01:10:16,000 --> 01:10:25,080
+01:10:50,640 --> 01:10:54,560
 If you needed to go to the top you couldn't go any higher
 than Jupiter.
 
 813
-01:10:25,080 --> 01:10:35,280
+01:10:54,560 --> 01:11:02,080
 Later that afternoon the frogs watched as the bullfrog then
 climbed up onto a rock and cleared his throat.
 
 814
-01:10:35,320 --> 01:10:39,720
+01:11:02,120 --> 01:11:05,960
 "Excuse me," he shouted in his loudest voice.
 
 815
-01:10:39,720 --> 01:10:48,800
+01:11:05,960 --> 01:11:11,120
 "Excuse me, Jupiter... ...we were wondering if we could have
 a King? Please," said the bullfrog.
 
 816
-01:10:48,800 --> 01:11:00,800
+01:11:11,120 --> 01:11:25,360
 Jupiter was very busy and didn't want to be bothered but he knew that if he didn't give those frogs something they'd
 keep croaking on and on and on...so he said:
 
 817
-01:11:00,800 --> 01:11:06,160
+01:11:25,360 --> 01:11:34,320
 "Alright! Enough! You want a King? Well have this one!"
 
 818
-01:11:06,160 --> 01:11:07,520
+01:11:34,320 --> 01:11:36,960
 Into the pond fell a huge log of wood.
 
 819
-01:11:07,520 --> 01:11:10,560
+01:11:36,960 --> 01:11:41,800
 "Wow!" said the little frog.
 
 820
-01:11:10,560 --> 01:11:12,840
+01:11:41,800 --> 01:11:45,800
 "Look how big our King is!"
 
 821
-01:11:12,840 --> 01:11:14,560
+01:11:45,800 --> 01:11:48,120
 "He's enormous," said the bullfrog.
 
 822
-01:11:14,560 --> 01:11:26,320
+01:11:48,120 --> 01:11:59,400
 All day the frogs swam around their enormous King and waited
 for him to speak but the new King didn't say a word.
 
 823
-01:11:26,320 --> 01:11:34,240
+01:11:59,400 --> 01:12:14,800
 "He's a bit quiet in't he?" said the little frog "...for a
 King."
 
 824
-01:11:34,240 --> 01:11:35,600
+01:12:14,800 --> 01:12:16,880
 "Yeah," they all agreed.
 
 825
-01:11:35,600 --> 01:11:37,040
+01:12:16,880 --> 01:12:18,760
 "He's a bit quiet."
 
 826
-01:11:37,040 --> 01:11:41,560
+01:12:18,760 --> 01:12:22,240
 Days went past and the new king never said a word.
 
 827
-01:11:41,560 --> 01:11:56,880
+01:12:22,240 --> 01:12:32,520
 In fact he didn't even move and after a while the frogs stopped thinking of him as a king and started using him as a
 diving platform and sunbathing area.
 
 828
-01:11:56,880 --> 01:12:03,760
+01:12:32,520 --> 01:12:39,440
 "I don't think this King is much good to be honest," said
 one of the younger frogs.
 
 829
-01:12:03,760 --> 01:12:15,120
+01:12:39,440 --> 01:12:41,400
 "Yes," said somebody else.
 
 830
-01:12:15,120 --> 01:12:24,200
+01:12:41,400 --> 01:12:49,240
 "Tell Jupiter that frogs deserve a proper king who'll move
 about and be powerful and strong and frightening and..."
 
 831
-01:12:24,200 --> 01:12:31,480
+01:12:49,240 --> 01:12:53,840
 Now Jupiter was listening to all this and these noisy
 ungrateful frogs were making him very angry indeed.
 
 832
-01:12:31,480 --> 01:12:32,360
+01:12:53,840 --> 01:12:55,680
 He lifted his right hand.
 
 833
-01:12:32,360 --> 01:12:37,400
+01:12:55,680 --> 01:13:00,600
 "You want a frightening king do you frogs?" he said.
 
 834
-01:12:37,400 --> 01:12:39,440
+01:13:00,600 --> 01:13:04,120
 "Well try this one for size."
 
 835
-01:12:39,440 --> 01:12:46,840
+01:13:04,120 --> 01:13:09,800
 From out of the sky came a huge white stork, the biggest
 bird they'd ever seen.
 
 836
-01:12:46,840 --> 01:12:50,800
+01:13:09,840 --> 01:13:14,480
 The frogs ran in terror as the stork started gobbling them
 up in his huge beak.
 
 837
-01:12:50,800 --> 01:12:55,200
+01:13:14,520 --> 01:13:18,360
 "Please, Lord Jupiter," said the bullfrog.
 
 838
-01:12:55,200 --> 01:12:59,960
+01:13:18,360 --> 01:13:22,560
 "Save us. Take away this terrible King."
 
 839
-01:13:00,000 --> 01:13:03,400
+01:13:22,600 --> 01:13:24,560
 "Do you see now?" said Jupiter.
 
 840
-01:13:03,400 --> 01:13:06,840
+01:13:24,560 --> 01:13:28,120
 "Better to have no king at all than a cruel one. "
 
 841
-01:13:06,840 --> 01:13:10,040
+01:13:28,120 --> 01:13:30,320
 But the frogs weren't listening... ...they'd all
 disappeared.
 
 842
-01:13:10,040 --> 01:13:11,160
+01:13:30,320 --> 01:13:31,080
 THE CAT AND THE MICE
 
 843
-01:13:11,160 --> 01:13:12,640
+01:13:31,080 --> 01:13:34,240
 On the kitchen table was a smelly cheese.
 
 844
-01:13:12,640 --> 01:13:13,920
+01:13:34,240 --> 01:13:36,560
 The smell wafted through the kitchen.
 
 845
-01:13:13,920 --> 01:13:16,600
+01:13:36,560 --> 01:13:39,200
 The smell spiralled down the hole in the skirting board.
 
 846
-01:13:16,600 --> 01:13:18,840
+01:13:39,200 --> 01:13:42,200
 The smell drifted into the noses of three little mice.
 
 847
-01:13:18,840 --> 01:13:24,280
+01:13:42,200 --> 01:13:47,080
 "I love ch...ch...cheese!" whined Mini-Mouse, hungrily.
 
 848
-01:13:24,280 --> 01:13:26,920
+01:13:47,080 --> 01:13:49,400
 "So do I!" squeaked Mildred-Mouse.
 
 849
-01:13:26,920 --> 01:13:36,720
+01:13:49,400 --> 01:13:55,600
 Mighty-Mouse narrowed his eyes, "Mission required to steal
 cheese!" he said.
 
 850
-01:13:36,720 --> 01:13:38,840
+01:13:55,600 --> 01:13:56,840
 In the kitchen lived a cat.
 
 851
-01:13:38,840 --> 01:13:45,680
+01:13:56,840 --> 01:14:03,080
 "I'm a Terrible-Tiger-Cat!" said the cat, prowling across
 the floor.
 
 852
-01:13:45,720 --> 01:13:52,160
+01:14:03,120 --> 01:14:10,640
 And this Terrible-Tiger-Cat had the important job of
 guarding the cheese from pesky mice.
 
 853
-01:13:52,160 --> 01:13:57,680
+01:14:10,640 --> 01:14:15,640
 Under the skirting boards, the smell of cheese was too much
 for the mice.
 
 854
-01:13:57,680 --> 01:14:00,080
+01:14:15,640 --> 01:14:17,320
 "Right!" said Mighty-Mouse.
 
 855
-01:14:00,080 --> 01:14:15,800
+01:14:17,320 --> 01:14:29,680
 "Right," said Mighty-Mouse, "Mini-Mouse you go on my right side, Mildred-Mouse goes on my left and we'll rush out,
 steal the cheese and get back quick. OK?"
 
 856
-01:14:15,840 --> 01:14:19,920
+01:14:29,680 --> 01:14:33,160
 "What makes you think this plan will work?" said
 Mildred-Mouse.
 
 857
-01:14:19,920 --> 01:14:24,080
+01:14:33,160 --> 01:14:38,040
 "Trust me!" said Mighty-Mouse confidently.
 
 858
-01:14:24,120 --> 01:14:29,520
+01:14:38,080 --> 01:14:42,920
 "We have the element of surprise! Let's GO!"
 
 859
-01:14:29,520 --> 01:14:33,240
+01:14:42,920 --> 01:14:47,880
 Under the kitchen table sat the Terrible-Tiger-Cat.
 
 860
-01:14:33,240 --> 01:14:38,920
+01:14:47,880 --> 01:14:52,920
 He watched as three little mice shot out of the hole in the
 skirting board.
 
 861
-01:14:38,920 --> 01:14:42,920
+01:14:52,960 --> 01:14:55,920
 "Mice? I'll catch "em!
 
 862
-01:14:42,920 --> 01:14:44,840
+01:14:55,920 --> 01:14:57,360
 I'll snatch "em!"
 
 863
-01:14:44,840 --> 01:14:52,400
+01:14:57,360 --> 01:15:02,640
 The Terrible-Tiger-Cat opened his terrible mouth and showed
 his terrible teeth.
 
 864
-01:14:52,440 --> 01:14:58,240
+01:15:02,640 --> 01:15:04,600
 "Wait for me!" yelled Mighty-Mouse.
 
 865
-01:14:58,240 --> 01:15:03,440
+01:15:04,600 --> 01:15:08,760
 In the hole under the skirting boards, three little mice
 panted for breath.
 
 866
-01:15:03,480 --> 01:15:08,200
+01:15:08,800 --> 01:15:11,440
 "N...n...now what?" asked Mini-Mouse.
 
 867
-01:15:08,200 --> 01:15:13,720
+01:15:11,440 --> 01:15:14,560
 "NOW," said Mildred-Mouse, with grim determination.
 
 868
-01:15:13,720 --> 01:15:16,160
+01:15:14,560 --> 01:15:16,160
 "We forget the cheese! We don't need it!"
 
 869
@@ -3816,16 +3816,16 @@ Terrible-Tiger-Cat looked at his fur.
 His fur was grey also.
 
 880
-01:16:07,960 --> 01:16:11,280
+01:16:07,960 --> 01:16:11,480
 "Now," he said thoughtfully.
 
 881
-01:16:11,280 --> 01:16:23,960
+01:16:11,480 --> 01:16:23,960
 "If I take this sack down from the wall… and if I climb up and hang myself there instead…I would look like a sack and
 not like a cat! Clever, eh?"
 
 882
-01:16:23,960 --> 01:16:29,760
+01:16:23,960 --> 01:16:29,800
 So Terrible-Tiger-Cat hung himself from the wall and waited.
 
 883
@@ -3884,11 +3884,11 @@ old sack!"
 "C...c...cat!" stuttered Mini-Mouse.
 
 896
-01:17:34,840 --> 01:17:38,120
+01:17:34,840 --> 01:17:39,080
 "Abandon plan!" said Mighty-Mouse.
 
 897
-01:17:38,120 --> 01:17:43,680
+01:17:39,080 --> 01:17:43,680
 "Come on!" laughed Mildred, "Let's get back to the
 mousehole."
 
@@ -3909,184 +3909,184 @@ And there was silence in the kitchen.
 THE LION AND THE MOUSE
 
 902
-01:17:56,600 --> 01:18:03,920
+01:17:56,600 --> 01:18:01,720
 A Mouse was scurrying through the forest when he saw a Lion
 sleeping under a tree.
 
 903
-01:18:03,920 --> 01:18:08,960
+01:18:01,720 --> 01:18:05,120
 The Mouse stopped and said to the Lion.
 
 904
-01:18:08,960 --> 01:18:12,120
+01:18:05,120 --> 01:18:08,720
 "You may be very big but I'm not scared of you."
 
 905
-01:18:12,120 --> 01:18:19,320
+01:18:08,720 --> 01:18:14,600
 The Mouse climbed up the Lion's tail and sat down on its
 back leg.
 
 906
-01:18:19,360 --> 01:18:26,440
+01:18:14,640 --> 01:18:22,920
 "Oh no, Mr Lion, you don't frighten me one little bit."
 
 907
-01:18:26,440 --> 01:18:39,240
+01:18:22,920 --> 01:18:31,200
 Still the Lion didn't move so the Mouse walked along the
 Lion's side and climbed up towards his head.
 
 908
-01:18:39,280 --> 01:18:51,400
+01:18:31,200 --> 01:18:39,240
 "All the animals in the forest are scared of you, Mr Lion, but not us mice "cos mice are the bravest creatures in the
 world."
 
 909
-01:18:51,400 --> 01:18:57,560
+01:18:39,240 --> 01:18:49,120
 Again the Lion didn't move so the mouse climbed up the lions
 face and shouted in his ear.
 
 910
-01:18:57,560 --> 01:19:03,240
+01:18:49,120 --> 01:18:56,240
 "Why should we be scared of lazy lions who spend all day
 snoring under trees?"
 
 911
-01:19:03,240 --> 01:19:14,560
+01:18:56,240 --> 01:19:06,440
 The Mouse was enjoying himself and feeling very brave when he noticed that the Lion's eye was open and looking straight
 at him.
 
 912
-01:19:14,560 --> 01:19:24,000
+01:19:06,440 --> 01:19:10,960
 Quick as a flash the Lion grabbed the little Mouse in his
 paw.
 
 913
-01:19:24,000 --> 01:19:28,000
+01:19:11,000 --> 01:19:15,240
 "What were you saying?" said the Lion.
 
 914
-01:19:28,000 --> 01:19:30,400
+01:19:15,240 --> 01:19:16,480
 "Nothing," said the little Mouse.
 
 915
-01:19:30,400 --> 01:19:36,280
+01:19:16,480 --> 01:19:20,200
 "Something about brave mice and lazy lions"
 
 916
-01:19:36,280 --> 01:19:41,360
+01:19:20,200 --> 01:19:23,640
 "That wasn't me," said the Mouse.
 
 917
-01:19:41,360 --> 01:19:43,880
+01:19:23,640 --> 01:19:27,560
 "I'd never say that. I think lions are..."
 
 918
-01:19:43,880 --> 01:19:46,160
+01:19:27,560 --> 01:19:30,040
 "Quiet," said the Lion.
 
 919
-01:19:46,160 --> 01:19:51,560
+01:19:30,040 --> 01:19:35,680
 "I'm going to eat you. What do you think about that? "
 
 920
-01:19:51,760 --> 01:19:55,400
+01:19:35,720 --> 01:19:41,360
 "Don't think that's a good idea," said the Mouse.
 
 921
-01:19:55,400 --> 01:19:58,640
+01:19:41,360 --> 01:19:43,640
 "Why's that?" said the Lion.
 
 922
-01:19:58,640 --> 01:19:59,880
+01:19:43,640 --> 01:19:44,880
 "Because..."
 
 923
-01:19:59,880 --> 01:20:01,320
+01:19:44,920 --> 01:19:47,560
 "Because what?" said the Lion.
 
 924
-01:20:01,320 --> 01:20:05,680
+01:19:47,560 --> 01:19:55,520
 "Because..." And suddenly an idea flashed into the Mouse's
 tiny head.
 
 925
-01:20:05,680 --> 01:20:07,760
+01:19:55,520 --> 01:19:58,080
 "Because one day I could help you."
 
 926
-01:20:07,760 --> 01:20:10,680
+01:19:58,080 --> 01:19:59,440
 The Lion roared with laughter.
 
 927
-01:20:10,680 --> 01:20:15,520
+01:19:59,440 --> 01:20:04,720
 "You? How could a tiny Mouse help a huge Lion like me..?"
 
 928
-01:20:15,520 --> 01:20:17,440
+01:20:04,720 --> 01:20:05,720
 "I don't know," said the Mouse.
 
 929
-01:20:17,440 --> 01:20:18,440
+01:20:05,720 --> 01:20:06,840
 "Maybe I could..."
 
 930
-01:20:18,440 --> 01:20:21,120
+01:20:06,840 --> 01:20:09,240
 "Yes?" said the Lion.
 
 931
-01:20:21,120 --> 01:20:23,280
+01:20:09,240 --> 01:20:11,000
 "Maybe I could..."
 
 932
-01:20:23,280 --> 01:20:25,560
+01:20:11,000 --> 01:20:11,960
 "Yes?"
 
 933
-01:20:25,560 --> 01:20:30,200
+01:20:11,960 --> 01:20:17,600
 The Mouse couldn't think of a single way in which a tiny
 Mouse could help a Lion.
 
 934
-01:20:30,200 --> 01:20:32,960
+01:20:17,600 --> 01:20:21,760
 He shut his eyes and waited to be eaten.
 
 935
-01:20:32,960 --> 01:20:35,120
+01:20:21,760 --> 01:20:24,840
 But the Lion didn't eat the Mouse.
 
 936
-01:20:35,160 --> 01:20:40,040
+01:20:24,920 --> 01:20:29,280
 He just laughed and gently put the Mouse down on the ground.
 
 937
-01:20:40,040 --> 01:20:43,800
+01:20:29,280 --> 01:20:34,640
 "That's the funniest thing I've ever heard," said the Lion.
 
 938
-01:20:43,800 --> 01:20:58,160
+01:20:34,640 --> 01:20:52,440
 "A tiny Mouse helping a huge Lion like me. I'm not going to eat you after all, little Mouse. You're too funny to eat.
 I'm going to let you go."
 
 939
-01:20:58,160 --> 01:21:00,080
+01:20:52,440 --> 01:20:56,280
 "Oh, thank you," said the mouse.
 
 940
-01:21:00,120 --> 01:21:08,200
+01:20:56,280 --> 01:21:04,720
 "I think that's a very wise decision. I meant what I said. I
 will help you Mr Lion. One day. Just you wait and see."
 
 941
-01:21:08,240 --> 01:21:14,560
+01:21:04,800 --> 01:21:11,280
 The Lion laughed again: "Off you go little one," he roared,
 "before I die laughing."
 
 942
-01:21:14,640 --> 01:21:16,520
+01:21:11,480 --> 01:21:14,000
 The Mouse ran away feeling very lucky.
 
 943
-01:21:16,520 --> 01:21:22,720
+01:21:14,000 --> 01:21:22,720
 But the very next day he was scurrying through the forest
 when he heard more roaring.
 
@@ -4171,7 +4171,7 @@ In a village far, far away there once lived a pretty little
 songbird.
 
 962
-01:23:15,960 --> 01:23:21,400
+01:23:15,920 --> 01:23:21,400
 She was in fact a very grumpy, bad-tempered little songbird.
 
 963
@@ -4203,17 +4203,17 @@ She would sing of the fields and the flowers, of the wind
 ruffling her feathers and the sun warming her wings.
 
 969
-01:24:16,160 --> 01:24:21,880
+01:24:16,160 --> 01:24:21,840
 She would sing of the sound of waterfalls and cool mountain
 streams tinkling and splashing over pebbles.
 
 970
-01:24:21,880 --> 01:24:27,440
+01:24:21,840 --> 01:24:27,400
 It was a magical song that you wished to hear from the first
 light of dawn till last thing at night…
 
 971
-01:24:27,480 --> 01:24:31,720
+01:24:27,400 --> 01:24:31,720
 But that is something our little songbird…never…ever…did.
 
 972
@@ -4293,12 +4293,12 @@ other birds in the forest?"
 "Oh I have a clever plan," tweeted the bird.
 
 988
-01:26:48,360 --> 01:27:00,040
+01:26:48,360 --> 01:27:00,000
 "You see, the last time I sang during the day a trapper caught me in his nets and locked me in this cage. So I'll
 not make that mistake again!"
 
 989
-01:27:00,080 --> 01:27:12,280
+01:27:00,040 --> 01:27:12,280
 But the Bat replied, "Well it's no use your doing that now when you're a prisoner. If only you'd done that before you
 were caught, you might still have been free."
 
@@ -4369,28 +4369,28 @@ back again, the rather tired Fox had to admit he was
 trapped.
 
 1005
-01:28:44,120 --> 01:28:48,520
+01:28:44,120 --> 01:28:48,560
 "I never thought I'd end up down here," he sighed.
 
 1006
-01:28:48,520 --> 01:28:59,680
+01:28:48,560 --> 01:28:59,680
 "No more racing in the sunlight and chasing shadows for me!" And a rather sad Fox floated quietly in a patch of water
 that reflected the sky.
 
 1007
-01:28:59,680 --> 01:29:05,120
+01:28:59,680 --> 01:29:05,240
 Just then a goat's head appeared over the edge of the well.
 
 1008
-01:29:05,120 --> 01:29:07,920
+01:29:05,240 --> 01:29:07,920
 "Hello," she bleated.
 
 1009
-01:29:07,960 --> 01:29:12,000
+01:29:07,960 --> 01:29:12,320
 "I thought I heard a voice. What are you doing?"
 
 1010
-01:29:12,000 --> 01:29:16,360
+01:29:12,320 --> 01:29:16,360
 "Hello," said the rather quick-thinking Fox.
 
 1011
@@ -4413,11 +4413,11 @@ Then drank and drank and drank.
 hardest to reach the water.
 
 1015
-01:29:51,880 --> 01:29:54,160
+01:29:51,880 --> 01:29:54,120
 "Would you like some?"
 
 1016
-01:29:54,160 --> 01:29:57,440
+01:29:54,120 --> 01:29:57,440
 "Yes, please," said the Goat.
 
 1017
@@ -4434,11 +4434,11 @@ here so there's room for two."
 "I've just eaten thistles!" And in she leapt.
 
 1020
-01:30:11,440 --> 01:30:19,640
+01:30:11,440 --> 01:30:19,680
 "Slurp, gargle, gulp," went the goat.
 
 1021
-01:30:19,640 --> 01:30:36,440
+01:30:19,680 --> 01:30:36,440
 "This water is perfect – cool and sweet and delicious. Thank
 you for letting me share it. Now I'll be off, there are lots of thistles waiting to be munched." Then the Goat looked up and frowned.
 
@@ -4475,11 +4475,11 @@ well.
 Then he shook his coat.
 
 1029
-01:31:18,880 --> 01:31:23,120
+01:31:18,880 --> 01:31:23,080
 Water flew off him and the warm sunlight made his fur steam.
 
 1030
-01:31:23,120 --> 01:31:30,880
+01:31:23,080 --> 01:31:30,880
 "Hello sky!" he cried and chased his tail before running off
 across the wide, green field.
 
@@ -4606,11 +4606,11 @@ me. Is there anything that frightens you?"
 The hippopotamus was bathing in the river.
 
 1060
-01:33:45,480 --> 01:33:49,240
+01:33:45,480 --> 01:33:50,080
 He blew a stream of bubbles out of his nose.
 
 1061
-01:33:49,240 --> 01:33:53,960
+01:33:50,080 --> 01:33:53,960
 "Nothing frightens me," he said.
 
 1062
@@ -4638,16 +4638,16 @@ A crocodile was sunbathing near by.
 The crocodile thought for a moment.
 
 1068
-01:34:17,800 --> 01:34:20,840
+01:34:17,800 --> 01:34:20,680
 "Jam sandwiches!" he answered.
 
 1069
-01:34:20,840 --> 01:34:30,440
+01:34:20,680 --> 01:34:32,600
 The Lion thought this was a strange thing for the crocodile
 to be afraid about, but he didn't argue.
 
 1070
-01:34:30,440 --> 01:34:36,760
+01:34:32,600 --> 01:34:36,760
 Just then an elephant lumbered out of the forest.
 
 1071
@@ -4690,20 +4690,20 @@ elephant's ears would come off.
 mine," said the Elephant.
 
 1080
-01:35:28,600 --> 01:35:36,480
+01:35:28,600 --> 01:35:36,240
 So the Lion told the Elephant all about how afraid he was of
 the crowing of the cock.
 
 1081
-01:35:36,480 --> 01:35:41,840
+01:35:36,240 --> 01:35:41,840
 "I sympathise with you, Lion," said the Elephant.
 
 1082
-01:35:41,840 --> 01:35:45,800
+01:35:41,840 --> 01:35:45,200
 And he gave his head another massive shake.
 
 1083
-01:35:45,800 --> 01:35:49,200
+01:35:45,200 --> 01:35:49,200
 "Do you see a small insect buzzing around?" he continued.
 
 1084
@@ -4712,12 +4712,12 @@ The Lion could just make out a gnat near the Elephant's
 head.
 
 1085
-01:35:55,160 --> 01:36:04,040
+01:35:55,160 --> 01:36:04,080
 "If that insect flies inside my ears," continued the
 Elephant, "I am positive I am done for."
 
 1086
-01:36:04,040 --> 01:36:06,440
+01:36:04,080 --> 01:36:06,440
 "You mean you are afraid of a tiny gnat?" queried the Lion.
 
 1087
@@ -4825,69 +4825,69 @@ road, just by the crossing.
 A car drove over it and cracked the walnut open.
 
 1110
-01:38:36,320 --> 01:38:45,840
+01:38:36,320 --> 01:38:43,880
 When the traffic lights turned red and the traffic stopped
 Mr Crow hopped into the road and pecked up the tasty nut.
 
 1111
-01:38:45,840 --> 01:38:57,360
+01:38:43,880 --> 01:38:52,200
 "Go, go Mr Crow, you're so clever don't you know!" chirped
 the Sparrow Sisters.
 
 1112
-01:38:57,360 --> 01:39:02,760
+01:38:52,200 --> 01:38:58,960
 Then one day Mr Crow came across a problem he thought he
 couldn't solve.
 
 1113
-01:39:02,760 --> 01:39:12,200
+01:38:58,960 --> 01:39:07,440
 The weather had been hot and dry for weeks and all the water
 had dried up in the pond.
 
 1114
-01:39:12,200 --> 01:39:15,000
+01:39:07,440 --> 01:39:11,640
 Mr Crow was very thirsty.
 
 1115
-01:39:15,000 --> 01:39:20,440
+01:39:11,640 --> 01:39:20,440
 He flew for miles looking for water but wherever he went the
 streams and ponds were dry.
 
 1116
-01:39:20,440 --> 01:39:27,160
+01:39:20,440 --> 01:39:25,840
 Then, as he was flying by a farm house, he noticed a pitcher
 in the garden.
 
 1117
-01:39:27,200 --> 01:39:30,400
+01:39:25,880 --> 01:39:28,920
 "Maybe that pitcher will have water in it," he thought.
 
 1118
-01:39:30,400 --> 01:39:32,760
+01:39:28,920 --> 01:39:30,520
 So he flew down to look.
 
 1119
-01:39:32,800 --> 01:39:38,160
+01:39:30,560 --> 01:39:37,200
 There was a little bit of water at the bottom, not much, but
 enough for a crow.
 
 1120
-01:39:38,160 --> 01:39:45,480
+01:39:37,240 --> 01:39:45,480
 Mr Crow put his beak in eagerly…but the pitcher was tall and
 the water was shallow and his beak couldn't reach.
 
 1121
-01:39:45,520 --> 01:39:49,520
+01:39:45,520 --> 01:39:49,480
 "I can see the water, but I can't drink it!" he said to
 himself.
 
 1122
-01:39:49,520 --> 01:39:54,120
+01:39:49,480 --> 01:39:54,280
 "And without the water I will die of thirst. This is a
 problem!"
 
 1123
-01:39:54,120 --> 01:40:08,240
+01:39:54,280 --> 01:40:08,240
 Mr Crow settled his feathers and thought for a while…and as he was thinking, his black beady eyes spotted a small
 stone…"Hmm," he thought, "I wonder if that stone can help me solve my problem?"
 
@@ -4939,25 +4939,25 @@ A rather large bird was wandering round the wood, looking a
 bit lost.
 
 1134
-01:41:38,200 --> 01:41:46,280
+01:41:38,200 --> 01:41:47,400
 It had long legs, a long thin neck and a very long bill for eating, that clattered away as it searched for nice things
 to eat.
 
 1135
-01:41:46,320 --> 01:41:53,640
+01:41:47,400 --> 01:41:53,600
 "Hey there, big bird!" cried the little birds in the trees
 above.
 
 1136
-01:41:53,680 --> 01:41:57,400
+01:41:53,640 --> 01:41:57,400
 "You're new round these parts, aren't you?"
 
 1137
-01:41:57,440 --> 01:41:59,520
+01:41:57,440 --> 01:41:59,560
 "Indeed I am," replied Stork.
 
 1138
-01:41:59,520 --> 01:42:02,240
+01:41:59,560 --> 01:42:02,240
 "And I'd like to make some friends."
 
 1139
@@ -4966,11 +4966,11 @@ above.
 bush.
 
 1140
-01:42:09,240 --> 01:42:14,080
+01:42:09,240 --> 01:42:13,760
 Out slunk Fox with his shiny red coat and soft paws.
 
 1141
-01:42:14,160 --> 01:42:21,240
+01:42:13,840 --> 01:42:21,240
 "Oooo, we wouldn't make friends with old Foxy if we were
 you," chorused the birds.
 
@@ -4996,21 +4996,21 @@ known each other forever…
 "What do you like to eat, Stork?" asked Fox.
 
 1147
-01:42:46,040 --> 01:42:51,480
+01:42:46,040 --> 01:42:51,520
 "Frogs, fish, insects and earthworms are my favourites,"
 replied Stork.
 
 1148
-01:42:51,480 --> 01:42:57,640
+01:42:51,520 --> 01:42:57,640
 "Mine too – oh, leaving aside frogs," said Fox.
 
 1149
-01:42:57,640 --> 01:43:04,440
+01:42:57,640 --> 01:43:04,400
 "I eat nuts and berries too – and I'm very partial to the
 occasional little bird."
 
 1150
-01:43:04,440 --> 01:43:10,480
+01:43:04,400 --> 01:43:10,480
 "Boo, hiss!" cried the birds from above.
 
 1151
@@ -5031,11 +5031,11 @@ Stork?"
 "Thank you, Fox, I'd love to!"
 
 1155
-01:43:28,680 --> 01:43:33,640
+01:43:28,680 --> 01:43:33,280
 That night, Stork flew over to Fox's house.
 
 1156
-01:43:33,680 --> 01:43:39,480
+01:43:33,320 --> 01:43:39,480
 "Come in!" cried Fox as he showed Stork into the dining
 room.
 
@@ -5062,11 +5062,11 @@ Fox meanwhile was already licking his bowl clean.
 "Oh, dear, is there a problem?" he asked with a smirk.
 
 1162
-01:44:19,360 --> 01:44:21,320
+01:44:19,360 --> 01:44:21,280
 "Not at all," replied Stork.
 
 1163
-01:44:21,320 --> 01:44:31,040
+01:44:21,280 --> 01:44:31,040
 "It's just – well, I had rather a large tea before I came
 and my tummy's full."
 
@@ -5080,52 +5080,52 @@ and my tummy's full."
 suggested Stork.
 
 1166
-01:44:42,360 --> 01:44:49,720
+01:44:42,360 --> 01:44:52,160
 "I shall look forward to it," replied Fox.
 
 1167
-01:44:49,720 --> 01:44:53,360
+01:44:52,160 --> 01:44:54,320
 Stork flew home that night with a heavy heart.
 
 1168
-01:44:53,400 --> 01:44:57,000
+01:44:54,440 --> 01:44:59,080
 "We warned you, we warned you!" chorused the birds.
 
 1169
-01:44:57,000 --> 01:45:01,520
+01:44:59,080 --> 01:45:04,560
 "I know, my so-called friend tricked me," replied Stork.
 
 1170
-01:45:01,520 --> 01:45:02,560
+01:45:04,560 --> 01:45:07,520
 "But I may yet have the last laugh."
 
 1171
-01:45:02,560 --> 01:45:05,520
+01:45:07,520 --> 01:45:13,160
 The next day, Fox set off for Stork's house.
 
 1172
-01:45:05,520 --> 01:45:10,520
+01:45:13,160 --> 01:45:18,440
 "Shame on you!" cried the birds as he slunk under their
 tree.
 
 1173
-01:45:10,520 --> 01:45:14,760
+01:45:18,440 --> 01:45:22,920
 "Stork can take a joke," Fox replied.
 
 1174
-01:45:14,760 --> 01:45:18,480
+01:45:22,920 --> 01:45:26,960
 "And after all, she's invited me over for tea."
 
 1175
-01:45:18,520 --> 01:45:22,880
+01:45:26,960 --> 01:45:28,720
 "Hee, hee!" sniggered the birds.
 
 1176
-01:45:22,880 --> 01:45:26,760
+01:45:28,720 --> 01:45:30,520
 "Come in!" said Stork to Fox.
 
 1177
-01:45:26,760 --> 01:45:36,800
+01:45:30,520 --> 01:45:36,800
 "I've cooked roast rabbit on a bed of grass with berry and
 nut sauce.
 
@@ -5167,11 +5167,11 @@ cries.
 were watching on the window sill.
 
 1186
-01:46:52,560 --> 01:46:55,440
+01:46:52,560 --> 01:46:55,400
 For once, Fox couldn't answer back.
 
 1187
-01:46:55,440 --> 01:46:59,320
+01:46:55,400 --> 01:46:59,320
 "I'll pull it off with my wings," offered Stork kindly.
 
 1188
@@ -5184,12 +5184,12 @@ you," said Fox sheepishly.
 "Never mind," said Stork.
 
 1190
-01:47:07,800 --> 01:47:13,920
+01:47:07,800 --> 01:47:14,320
 "I've got plenty of food in the kitchen. This time we'll have it on proper plates – and our little feathered friends
 can have some too."
 
 1191
-01:47:13,920 --> 01:47:16,280
+01:47:14,320 --> 01:47:16,280
 "Wee, hee!" cried the birds.
 
 1192
@@ -5244,7 +5244,7 @@ His friend was just as scared as he was.
 But didn't want his friend to know.
 
 1204
-01:48:04,400 --> 01:48:07,680
+01:48:04,400 --> 01:48:07,560
 So he laughed.
 
 1205
@@ -5253,19 +5253,19 @@ So he laughed.
 once – and he ran away."
 
 1206
-01:48:14,400 --> 01:48:19,280
+01:48:14,400 --> 01:48:19,160
 The other man felt ashamed of himself.
 
 1207
-01:48:19,320 --> 01:48:25,760
+01:48:19,200 --> 01:48:25,760
 I am a coward, but he is brave, he thought.
 
 1208
-01:48:25,760 --> 01:48:29,520
+01:48:25,760 --> 01:48:29,480
 "Then we'll go on," he said.
 
 1209
-01:48:29,520 --> 01:48:30,360
+01:48:29,480 --> 01:48:30,360
 It was very dark in that forest.
 
 1210
@@ -5299,45 +5299,45 @@ the bear.
 off."
 
 1217
-01:48:53,880 --> 01:48:56,320
+01:48:53,880 --> 01:48:56,720
 All of a sudden there was an enormous crash.
 
 1218
-01:48:56,320 --> 01:48:57,840
+01:48:56,720 --> 01:49:00,240
 And out of the bushes lumbered - a bear.
 
 1219
-01:48:57,840 --> 01:49:00,640
+01:49:00,240 --> 01:49:03,880
 The men had never seen such a huge bear.
 
 1220
-01:49:00,680 --> 01:49:03,600
+01:49:03,880 --> 01:49:07,040
 When it saw the men it licked its lips.
 
 1221
-01:49:03,600 --> 01:49:07,640
+01:49:07,040 --> 01:49:13,200
 "At last!" it said, standing up on its hind legs and
 growling.
 
 1222
-01:49:07,640 --> 01:49:09,280
+01:49:13,240 --> 01:49:14,520
 "Dinner!"
 
 1223
-01:49:09,280 --> 01:49:16,080
+01:49:14,520 --> 01:49:23,480
 With a cry of fright, the friend ran to the nearest tree and
 hauled himself up onto a branch.
 
 1224
-01:49:16,120 --> 01:49:23,880
+01:49:23,520 --> 01:49:28,640
 "Aren't you going to fight it?" the man cried.
 
 1225
-01:49:23,880 --> 01:49:30,120
+01:49:28,640 --> 01:49:31,320
 "Fight it! You must be mad," said his friend.
 
 1226
-01:49:30,120 --> 01:49:38,000
+01:49:31,320 --> 01:49:38,000
 "It will kill us." The man ran up to the tree where his
 friend crouched, trembling.
 
@@ -5367,17 +5367,17 @@ The bear was so close now he could have stretched out a hand
 and touched it.
 
 1233
-01:49:58,600 --> 01:50:10,760
+01:49:58,600 --> 01:50:07,520
 "If I try to run it will run faster. If I fight it, it will
 kill me. It is bigger and stronger than me."
 
 1234
-01:50:10,800 --> 01:50:14,160
+01:50:07,560 --> 01:50:14,120
 He flung himself to the ground and lay there, as still as he
 could.
 
 1235
-01:50:14,160 --> 01:50:22,720
+01:50:14,120 --> 01:50:22,720
 "Perhaps it will leave me alone," he thought, "if it thinks
 I am dead."
 
@@ -5407,11 +5407,11 @@ It bent down, so close that the man could feel its fur brush
 his cheek.
 
 1242
-01:50:45,280 --> 01:50:47,760
+01:50:45,280 --> 01:50:47,600
 Then it put out a paw and prodded him.
 
 1243
-01:50:47,760 --> 01:50:50,480
+01:50:47,600 --> 01:50:50,480
 The man lay still, his heart pounding.
 
 1244
@@ -5441,20 +5441,20 @@ He didn't look at his friend.
 He was very angry with him.
 
 1250
-01:51:21,920 --> 01:51:37,320
+01:51:21,920 --> 01:51:37,360
 He had pretended to be brave, but he was a coward.
 
 1251
-01:51:37,360 --> 01:51:40,800
+01:51:37,400 --> 01:51:40,880
 He had left him to face the bear on his own.
 
 1252
-01:51:40,800 --> 01:51:46,120
+01:51:40,880 --> 01:51:46,720
 "I saw the bear whisper in your ear," the friend said
 climbing down from the tree.
 
 1253
-01:51:46,120 --> 01:51:48,560
+01:51:46,720 --> 01:51:48,560
 "What did he say?"
 
 1254
@@ -5463,20 +5463,20 @@ climbing down from the tree.
 other to make his own way home.
 
 1255
-01:51:56,880 --> 01:51:58,760
+01:51:56,880 --> 01:51:58,800
 THE GOOSE THAT LAID THE GOLDEN EGGS
 
 1256
-01:51:58,760 --> 01:52:00,640
+01:51:58,800 --> 01:52:00,640
 There once was a very poor farmer.
 
 1257
-01:52:00,640 --> 01:52:11,960
+01:52:00,640 --> 01:52:12,040
 So poor he lived in an old tumble-down pigsty in the middle of nowhere with only acorns and the odd goose egg to eat and
 a bale of straw for his bed.
 
 1258
-01:52:11,960 --> 01:52:14,400
+01:52:12,040 --> 01:52:14,400
 His name was Attacus Greeb.
 
 1259
@@ -5493,11 +5493,11 @@ and he'd owned land as far as the eye could see.
 But Attacus Greeb was a lazy man.
 
 1262
-01:52:30,080 --> 01:52:31,680
+01:52:30,080 --> 01:52:31,480
 He didn't like work.
 
 1263
-01:52:31,680 --> 01:52:33,920
+01:52:31,480 --> 01:52:33,920
 "I'm far too good to be milking cows," he said.
 
 1264
@@ -5506,12 +5506,12 @@ He didn't like work.
 heaps of silver and gold."
 
 1265
-01:52:41,040 --> 01:52:47,120
+01:52:41,040 --> 01:52:46,400
 So over the years, instead of working for a living he'd
 simply sold off his possessions.
 
 1266
-01:52:47,160 --> 01:52:59,600
+01:52:46,440 --> 01:52:59,600
 He'd sold almost everything his father had given him - his house, his land, his horses, his pigs, his cattle and all he
 was left with was one single goose who lived with him.
 
@@ -5535,21 +5535,21 @@ feathers will fetch me a fair few guineas." And off he went to sleep.
 The next morning Attacus Greeb awoke to a glittering dawn.
 
 1271
-01:53:30,040 --> 01:53:35,880
+01:53:30,040 --> 01:53:34,240
 It was so light and bright he had to shield his eyes.
 
 1272
-01:53:35,920 --> 01:53:47,640
+01:53:34,240 --> 01:53:41,440
 But it wasn't the sunlight shining, he could hardly believe
 what he saw, it was a gigantic, glorious…Golden Egg!
 
 1273
-01:53:47,680 --> 01:53:55,840
+01:53:41,480 --> 01:53:53,760
 "You clever girl! Ha! H!a Ho! Ho! We'll be rich! Rich beyond
 our dreams!"
 
 1274
-01:53:55,840 --> 01:54:05,440
+01:53:53,760 --> 01:54:05,440
 So off he went to market pushing the egg in an old wheelbarrow… and back he came with a barrowful of meat to
 cook, chicken feed for his goose and a huge bag of coins.
 
@@ -5616,11 +5616,11 @@ just where he belonged!
 Those who have plenty want more and so lose all they have.
 
 1288
-01:56:01,200 --> 01:56:04,120
+01:56:01,200 --> 01:56:04,040
 THE KID AND THE WOLF
 
 1289
-01:56:04,120 --> 01:56:22,640
+01:56:04,040 --> 01:56:22,640
 Once there was a billy goat kid who lived with his mother on
 a farm.
 
@@ -5638,7 +5638,7 @@ And each evening they were driven home again.
 At the edge of the field was a wood.
 
 1293
-01:56:32,360 --> 01:56:40,480
+01:56:32,320 --> 01:56:40,480
 The grass grew thick and sweet there because the goats never
 went near it.
 
@@ -5651,12 +5651,12 @@ The kid looked at it longingly.
 "Don't go there," the other goats warned him.
 
 1296
-01:56:47,120 --> 01:56:54,160
+01:56:47,120 --> 01:56:54,120
 "A big bad wolf lives in that wood." "Yes, mind you stay
 close by me," said his mother.
 
 1297
-01:56:54,160 --> 01:56:58,400
+01:56:54,120 --> 01:56:58,400
 At first the kid did stay close by his mother.
 
 1298
@@ -5778,11 +5778,11 @@ smiled.
 And with a single bound he was out of the wood.
 
 1326
-01:58:47,240 --> 01:58:50,800
+01:58:47,240 --> 01:58:50,760
 The kid tried to run away, but the wolf put out a paw.
 
 1327
-01:58:50,800 --> 01:58:53,560
+01:58:50,760 --> 01:58:53,560
 "Whoa!" he growled.
 
 1328
@@ -5794,11 +5794,11 @@ The kid tried to run away, but the wolf put out a paw.
 He smacked his lips.
 
 1330
-01:58:58,280 --> 01:59:05,080
+01:58:58,280 --> 01:59:04,720
 "If only I had listened to Mother," thought the kid.
 
 1331
-01:59:05,080 --> 01:59:13,000
+01:59:04,720 --> 01:59:13,000
 "What shall I do? How can I stop the wolf from eating me?
 Help! Help!" He bleated, as loudly as he could.
 
@@ -5807,7 +5807,7 @@ Help! Help!" He bleated, as loudly as he could.
 But the dogs and goats couldn't hear him.
 
 1333
-01:59:16,280 --> 01:59:20,440
+01:59:16,320 --> 01:59:20,440
 The wolf growled, showing sharp yellow teeth.
 
 1334
@@ -5815,12 +5815,12 @@ The wolf growled, showing sharp yellow teeth.
 Then the kid had an idea.
 
 1335
-01:59:22,720 --> 01:59:31,920
+01:59:22,720 --> 01:59:32,040
 "If I can get the wolf to sing, maybe Mother will hear him
 and save me," he thought.
 
 1336
-01:59:31,920 --> 01:59:34,760
+01:59:32,040 --> 01:59:34,760
 "Mr Wolf," he squeaked.
 
 1337
@@ -5837,7 +5837,7 @@ The wolf considered.
 "Why not?" he thought.
 
 1340
-01:59:45,800 --> 01:59:49,720
+01:59:45,800 --> 01:59:49,760
 "A little music before dinner."
 
 1341
@@ -5864,16 +5864,16 @@ wonderful time.
 "Oh wolf, he gasped. "How beautifully you sing."
 
 1346
-02:00:19,400 --> 02:00:24,520
+02:00:19,400 --> 02:00:24,560
 "You really think so?" simpered the Wolf, and howled even
 louder.
 
 1347
-02:00:24,520 --> 02:00:31,280
+02:00:24,560 --> 02:00:31,280
 No one had ever told him he sang beautifully before.
 
 1348
-02:00:31,280 --> 02:00:36,200
+02:00:31,280 --> 02:00:36,240
 Down the lane the dogs and goats also heard the wolf.
 
 1349
@@ -5897,7 +5897,7 @@ The dogs tore back into the field barking loudly.
 The wolf turned his head and saw them.
 
 1354
-02:00:53,440 --> 02:00:59,560
+02:00:53,400 --> 02:00:59,560
 He leapt for the trees just as one of the dogs was about to
 seize his tail.
 
@@ -5948,12 +5948,12 @@ He settled himself in his den, put on his poorly face and
 let out a sorrowful growl.
 
 1365
-02:02:31,880 --> 02:02:43,840
+02:02:31,880 --> 02:02:43,880
 "Oh woe is me, oh woe is me, I'm feeling sick as sick can
 be!" he groaned.
 
 1366
-02:02:43,840 --> 02:02:47,120
+02:02:43,880 --> 02:02:47,120
 Bird came flitting by…
 
 1367
@@ -5976,30 +5976,30 @@ Then Lion nabbed her – grrr, grrr, snap…and put her in his
 dinner sack.
 
 1371
-02:03:15,680 --> 02:03:24,320
+02:03:15,680 --> 02:03:24,280
 "Bird's aren't very filling," said Lion, "let's see what
 else I can catch."
 
 1372
-02:03:24,320 --> 02:03:30,920
+02:03:24,280 --> 02:03:30,920
 He put on his poorly face again and let out another
 sorrowful growl.
 
 1373
-02:03:30,960 --> 02:03:40,240
+02:03:30,960 --> 02:03:39,480
 "Oh woe is me, oh woe is me, I'm feeling sick as sick can
 be!"
 
 1374
-02:03:40,240 --> 02:03:44,160
+02:03:39,480 --> 02:03:44,160
 Monkey jumped down from a tree to help.
 
 1375
-02:03:44,160 --> 02:03:47,440
+02:03:44,160 --> 02:03:47,480
 "What's wrong with you Lion?" he asked.
 
 1376
-02:03:47,440 --> 02:03:51,360
+02:03:47,480 --> 02:03:51,360
 "I feel weak and wobbly!" Lion fibbed.
 
 1377
@@ -6017,12 +6017,12 @@ Then Lion nabbed him – grrr snap… and put him in his dinner
 sack.
 
 1380
-02:04:07,560 --> 02:04:21,120
+02:04:07,560 --> 02:04:20,520
 "There isn't much meat on a monkey," grizzled Lion, "I'll have to keep trying. I need one more creature…something
 bigger I hope."
 
 1381
-02:04:21,120 --> 02:04:23,120
+02:04:20,520 --> 02:04:23,120
 He let out another sad roar.
 
 1382
@@ -6039,11 +6039,11 @@ den.
 "I think I might have a thorn in my throat," grizzled Lion.
 
 1385
-02:04:42,480 --> 02:04:45,320
+02:04:42,480 --> 02:04:45,280
 "Maybe you can pull it out."
 
 1386
-02:04:45,320 --> 02:04:54,760
+02:04:45,280 --> 02:04:54,760
 Fox looked at all the footprints outside Lion's den - they
 were leading inside, but they didn't come out again.
 
@@ -6099,12 +6099,12 @@ husband one day. High above the nest a great eagle was
 soaring.
 
 1398
-02:06:38,760 --> 02:06:57,560
+02:06:38,760 --> 02:06:57,520
 "Oh isn't he magnificent," she sighed watching him circle and swoop. She leant over the nest to take a better look.
 Perched next to her was her husband who
 
 1399
-02:06:57,560 --> 02:07:01,840
+02:06:57,520 --> 02:07:01,840
 pushed back his shades and looked out to see what the fuss
 was all about.
 
@@ -6122,7 +6122,7 @@ him!"
 The nest was full of things he'd collected.
 
 1403
-02:07:10,400 --> 02:07:13,320
+02:07:10,400 --> 02:07:13,360
 Rings, bottle tops, feathers.
 
 1404
@@ -6173,11 +6173,11 @@ The lamb bleated and struggled.
 But it was no use.
 
 1415
-02:07:59,200 --> 02:08:03,640
+02:07:59,200 --> 02:08:03,680
 The eagle had him firmly gripped in his talons.
 
 1416
-02:08:03,680 --> 02:08:11,800
+02:08:03,720 --> 02:08:11,800
 Up and up he flew again, higher and higher, the lamb
 swinging from his claws.
 
@@ -6230,12 +6230,12 @@ He dropped down again and tugged a bit harder.
 But he couldn't budge the ram.
 
 1428
-02:09:07,600 --> 02:09:23,960
+02:09:07,600 --> 02:09:24,000
 Up and down the jackdaw jumped, furiously flapping his wings
 and tugging at the ram's woolly coat.
 
 1429
-02:09:24,000 --> 02:09:27,480
+02:09:24,040 --> 02:09:27,480
 But he couldn't lift the ram.
 
 1430
@@ -6270,17 +6270,17 @@ scissors to clip his wings.
 flock."
 
 1437
-02:10:08,280 --> 02:10:14,640
+02:10:08,280 --> 02:10:14,480
 When he got home that night the shepherd put the jackdaw
 down on the table.
 
 1438
-02:10:14,640 --> 02:10:18,400
+02:10:14,520 --> 02:10:18,360
 "Come and see what I've brought you," he said to his
 children.
 
 1439
-02:10:18,400 --> 02:10:21,120
+02:10:18,360 --> 02:10:21,120
 The children crowded round the table.
 
 1440
@@ -6305,11 +6305,11 @@ He gave the jackdaw a stern look.
 The jackdaw hung his head.
 
 1445
-02:10:40,680 --> 02:10:48,240
+02:10:40,680 --> 02:10:48,200
 Up in the jackdaw's nest, his wife stretched out happily.
 
 1446
-02:10:48,240 --> 02:10:52,320
+02:10:48,200 --> 02:10:52,320
 "I've seen the last of him," she said.
 
 1447
@@ -6332,11 +6332,11 @@ He spent his time spying on the sheep in Farmer Foggarty's
 field… and thinking of wily ways to catch them.
 
 1451
-02:11:35,960 --> 02:11:39,600
+02:11:35,960 --> 02:11:39,640
 But his wily ways never seemed to work.
 
 1452
-02:11:39,640 --> 02:11:55,400
+02:11:39,680 --> 02:11:55,400
 One time he'd waited behind a rock for hours just so he could pounce on a juicy sheep…but when he heard the sound of
 hooves and he leapt out of his hiding place…it was not a sheep he pounced on… …but an angry bull.
 
@@ -6356,12 +6356,12 @@ Ha, he thought, I will borrow Auntie Marge's rug and disguise myself as a sheep,
 Farmer Foggarty's sheep pen; and once I'm in there, gnash, gobble, gnash, gobble…I will have my sheepie supper!
 
 1456
-02:12:33,160 --> 02:12:42,960
+02:12:33,160 --> 02:12:43,000
 As soon as he arrived home with the sheepskin rug he dressed
 himself up and then practised talking in Sheep language.
 
 1457
-02:12:42,960 --> 02:12:55,520
+02:12:43,000 --> 02:12:55,520
 It was tricky at first, baaa…grrr! baaa…grrrr… but he soon
 got the hang of it.
 
@@ -6427,12 +6427,12 @@ into their pen and in went Mr Wolf as well.
 His disguise had worked.
 
 1472
-02:14:02,480 --> 02:14:13,840
+02:14:02,480 --> 02:14:13,680
 Oh yeah, oh yeah, I'm going to get me some juicy sheep! said
 Mr Wolf to himself.
 
 1473
-02:14:13,880 --> 02:14:18,760
+02:14:13,720 --> 02:14:18,760
 Mummy, said one of the lambs, that sheep smells a bit funny!
 
 1474
@@ -6509,7 +6509,7 @@ the day and cold during the night.
 They eat dry leaves and thistles and bits of twig.
 
 1490
-02:16:04,000 --> 02:16:05,520
+02:16:03,960 --> 02:16:05,520
 Sometimes they go hungry.
 
 1491
@@ -6619,7 +6619,7 @@ But the goatherd didn't look after his own goats.
 He turned them out in the snow and gave them less to eat.
 
 1515
-02:18:22,320 --> 02:18:26,600
+02:18:22,320 --> 02:18:26,560
 He no longer brushed and polished and combed them.
 
 1516
@@ -6743,7 +6743,7 @@ sadly.
 They had to agree.
 
 1544
-02:20:22,920 --> 02:20:24,200
+02:20:22,960 --> 02:20:24,200
 THE DOG IN THE MANGER
 
 1545
@@ -6771,12 +6771,12 @@ He looked around for somewhere to snooze.
 The barn was shady and quiet.
 
 1551
-02:20:53,760 --> 02:20:59,920
+02:20:53,760 --> 02:21:00,000
 And in the barn there was a manger, and it was full of hay
 to feed the cows.
 
 1552
-02:20:59,920 --> 02:21:01,360
+02:21:00,000 --> 02:21:01,360
 Ah, yes!
 
 1553
@@ -6809,7 +6809,7 @@ to allow his wives to go into the barn first.
 in at the head of the herd.
 
 1559
-02:21:44,280 --> 02:21:51,120
+02:21:44,320 --> 02:21:51,120
 "You are such a gentleman! A nice munch of cool hay would be
 very nice – OH!"
 
@@ -6822,12 +6822,12 @@ She stopped when she saw Dog.
 All the cows stopped when they saw Dog.
 
 1562
-02:21:56,840 --> 02:22:02,280
+02:21:56,840 --> 02:22:02,240
 Dog didn't open his eyes, but his ears pricked up like
 satellite dishes.
 
 1563
-02:22:02,320 --> 02:22:09,600
+02:22:02,280 --> 02:22:09,600
 "Oh dear, said Queenie-cow, as Bull came up beside her.
 "There appears to be a dog in the manger!"
 
@@ -6873,21 +6873,21 @@ hay! I say! I say, Dog! What are you doing in our manger?"
 "I have never been spoken to in that way!"
 
 1574
-02:22:45,120 --> 02:22:48,280
+02:22:45,120 --> 02:22:47,760
 "Hrmph!" snorted Bull.
 
 1575
-02:22:48,320 --> 02:22:59,160
+02:22:47,800 --> 02:22:59,160
 "I must ask you to not speak to my wife that way. She's very
 delicate, you know! My dear," he said to Queenie-cow, "Leave this to me!"
 
 1576
-02:22:59,160 --> 02:23:09,360
+02:22:59,160 --> 02:23:09,320
 "Sir!" he continued, lowering his head and displaying his
 very fine horns, "I must ask you to leave the manger NOW!"
 
 1577
-02:23:09,360 --> 02:23:12,400
+02:23:09,320 --> 02:23:12,400
 "Or else?" asked Dog.
 
 1578
@@ -6905,11 +6905,11 @@ Bull looked at the fierce dog and backed away in sudden
 confusion.
 
 1581
-02:23:26,160 --> 02:23:30,600
+02:23:26,160 --> 02:23:30,680
 "Alright! Alright! K..K..Keep your hair on!"
 
 1582
-02:23:30,600 --> 02:23:33,640
+02:23:30,720 --> 02:23:33,640
 "Attack him!" Queenie-cow encouraged.
 
 1583
@@ -6948,11 +6948,11 @@ smartly and wandering out of the door.
 the barn door.
 
 1591
-02:24:08,280 --> 02:24:13,400
+02:24:08,280 --> 02:24:13,440
 "Daft!" snorted Dog, turning around three times in the hay.
 
 1592
-02:24:13,440 --> 02:24:22,320
+02:24:13,520 --> 02:24:22,320
 "Dippy!" decided Dog, curling himself into a nest of hay
 with a groan of contentment and shutting his eyes.
 
@@ -6961,20 +6961,20 @@ with a groan of contentment and shutting his eyes.
 "DOG!" roared a man's voice.
 
 1594
-02:24:26,480 --> 02:24:29,360
+02:24:26,480 --> 02:24:29,320
 Farmer John stormed furiously in through the barn door.
 
 1595
-02:24:29,360 --> 02:24:31,600
+02:24:29,320 --> 02:24:31,600
 "DOG!" he shouted angrily.
 
 1596
-02:24:31,600 --> 02:24:49,440
+02:24:31,600 --> 02:24:49,360
 "Get out of that manger at once, you selfish animal! There are silly cows milling everywhere they shouldn't be! I've
 got cows in my kitchen! I've got cows in my car! And I've got a Bull hiding under my bed! Stop being a dog in a manger and go and round up the sheep!"
 
 1597
-02:24:49,480 --> 02:24:56,800
+02:24:49,400 --> 02:24:56,800
 Dog jumped down from the hay and skulked out of the barn
 with his tail between his legs.
 
@@ -7076,11 +7076,11 @@ Then Androcles heard a voice.
 "That's him. Quickly...tie him up."
 
 1619
-02:27:34,200 --> 02:27:37,120
+02:27:34,200 --> 02:27:37,200
 Androcles knew that voice.
 
 1620
-02:27:37,120 --> 02:27:38,200
+02:27:37,200 --> 02:27:38,200
 It was his master.
 
 1621
@@ -7088,7 +7088,7 @@ It was his master.
 Six men grabbed Androcles and tied him up with ropes.
 
 1622
-02:27:42,040 --> 02:27:45,560
+02:27:42,080 --> 02:27:45,560
 "Thought you would escape did you?" said the master.
 
 1623
@@ -7133,12 +7133,12 @@ The crowd clapped and cheered as the guards pushed Androcles
 into the cage and slammed the door shut.
 
 1632
-02:28:45,480 --> 02:28:52,840
+02:28:45,480 --> 02:28:52,800
 Everyone went very still as the lion leapt towards
 Androcles.
 
 1633
-02:28:52,840 --> 02:28:55,640
+02:28:52,800 --> 02:28:55,640
 But then something odd happened.
 
 1634
@@ -7170,7 +7170,7 @@ But the lion just purred and licked the slave's face.
 At first the crowd were angry.
 
 1641
-02:29:21,760 --> 02:29:25,040
+02:29:21,720 --> 02:29:25,040
 This wasn't supposed to happen.
 
 1642
@@ -7258,11 +7258,11 @@ He barked at the children and bit their legs when they rode
 their bikes.
 
 1660
-02:31:40,040 --> 02:31:42,720
+02:31:40,040 --> 02:31:42,680
 "Bad dog!" cried the children.
 
 1661
-02:31:42,720 --> 02:31:50,160
+02:31:42,680 --> 02:31:50,160
 He pulled up all the flowers outside the kitchen door, dug five holes in the lawn and did his business in the farmer's
 hat.
 
@@ -7299,12 +7299,12 @@ The other dogs had to wait, licking their mouths until Bad
 Dog had finished eating.
 
 1669
-02:32:29,680 --> 02:32:45,160
+02:32:29,680 --> 02:32:45,200
 When he had eaten all the meat and the gravy, and all the dog biscuits from the bowls, all that was left was dry bread
 and carrots and broccoli, and lots of other things that farmers eat but dogs don't.
 
 1670
-02:32:45,160 --> 02:32:48,280
+02:32:45,200 --> 02:32:48,280
 But then one day he went too far.
 
 1671
@@ -7321,16 +7321,16 @@ on and ran off with it.
 "Bad Dog," screamed the farmer, running after him.
 
 1674
-02:33:03,560 --> 02:33:06,840
+02:33:03,560 --> 02:33:07,560
 "Come back with that meat now, or you'll never come back
 again!"
 
 1675
-02:33:06,880 --> 02:33:08,280
+02:33:07,600 --> 02:33:09,400
 Bad Dog took no notice.
 
 1676
-02:33:08,320 --> 02:33:16,000
+02:33:09,440 --> 02:33:16,000
 This was a whole big bone with the meat still on, not
 scraps, and he wanted it more than anything.
 
@@ -7339,25 +7339,25 @@ scraps, and he wanted it more than anything.
 So Bad Dog ran away with it.
 
 1678
-02:33:18,480 --> 02:33:24,760
+02:33:18,480 --> 02:33:25,120
 He ran for a long time until at last he came to a little
 bridge.
 
 1679
-02:33:24,800 --> 02:33:29,120
+02:33:25,160 --> 02:33:29,120
 This would be a good place to stop and eat his stolen
 dinner.
 
 1680
-02:33:29,160 --> 02:33:31,720
+02:33:29,160 --> 02:33:31,680
 He looked over the side of the bridge.
 
 1681
-02:33:31,720 --> 02:33:33,840
+02:33:31,680 --> 02:33:34,000
 And had such a shock!
 
 1682
-02:33:33,840 --> 02:33:38,800
+02:33:34,000 --> 02:33:38,840
 Below him in the still water was another dog.
 
 1683
@@ -7401,12 +7401,12 @@ Bad Dog felt sad.
 He had lost everything that was important.
 
 1692
-02:34:23,200 --> 02:34:41,200
+02:34:23,200 --> 02:34:41,320
 "From now on," he said to himself, "I shall try and be better. I shall be good instead of bad and nice instead of
 nasty. Then one day... ...everyone will love me again."
 
 1693
-02:34:41,200 --> 02:34:43,600
+02:34:41,320 --> 02:34:43,600
 And that is what happened.
 
 1694
@@ -7487,11 +7487,11 @@ They parade along in a very high-minded fashion with their
 noses in the air.
 
 1712
-02:36:03,560 --> 02:36:06,760
+02:36:03,560 --> 02:36:06,800
 Or they would do if they had noses.
 
 1713
-02:36:06,800 --> 02:36:08,520
+02:36:06,840 --> 02:36:08,520
 They have long beaks instead.
 
 1714
@@ -7509,7 +7509,7 @@ And although the heron walks along the grassy river bank on his especially long 
 he has a spare.
 
 1717
-02:36:29,920 --> 02:36:36,880
+02:36:29,960 --> 02:36:36,880
 There is one good thing to be said of herons: they have
 great patience.
 
@@ -7557,11 +7557,11 @@ Then one day he came to the river later than usual.
 The others had already finished for the day.
 
 1728
-02:37:16,720 --> 02:37:19,440
+02:37:16,720 --> 02:37:19,400
 The otter was curled up on the grassy bank.
 
 1729
-02:37:19,440 --> 02:37:22,040
+02:37:19,400 --> 02:37:22,040
 The water vole was cleaning his fur.
 
 1730
@@ -7698,11 +7698,11 @@ legs and my shell is really heavy.
 I'm so slow I always get there last."
 
 1760
-02:40:12,560 --> 02:40:18,160
+02:40:12,560 --> 02:40:18,120
 "Never mind, Tod," squeaked his friend, Milly Mouse.
 
 1761
-02:40:18,160 --> 02:40:21,400
+02:40:18,120 --> 02:40:21,400
 "Look, I've saved you a nice piece of lettuce."
 
 1762
@@ -7715,11 +7715,11 @@ light breeze way up high.
 "I wish I could fly like that eagle," he sighed.
 
 1764
-02:40:34,120 --> 02:40:38,840
+02:40:34,120 --> 02:40:38,760
 "Just imagine how fast and free I would be!"
 
 1765
-02:40:38,840 --> 02:40:47,160
+02:40:38,760 --> 02:40:47,160
 The next day, Tod poked his head from his shell – and nearly
 jumped out of it in surprise.
 
@@ -7755,7 +7755,7 @@ your wish. I shall teach you to fly in the sky."
 "Yes, anything," replied Tod.
 
 1773
-02:41:22,840 --> 02:41:30,320
+02:41:22,840 --> 02:41:30,280
 Tod gasped with excitement as the Eagle carried him high
 into the sky.
 
@@ -7784,16 +7784,16 @@ so I'd like that little mouse you were talking too."
 protested Tod.
 
 1779
-02:42:08,160 --> 02:42:13,040
+02:42:08,160 --> 02:42:13,080
 "But you promised to give me whatever I wanted," said the
 Eagle.
 
 1780
-02:42:13,040 --> 02:42:18,080
+02:42:13,080 --> 02:42:18,440
 "Er, yes I know - but not Milly, pleeeease…" pleaded Tod.
 
 1781
-02:42:18,200 --> 02:42:21,320
+02:42:18,560 --> 02:42:21,320
 There was a horrible silence.
 
 1782
@@ -7805,11 +7805,11 @@ Todd shivered in the cold wind and looked down.
 It was an awfully long way to the ground…
 
 1784
-02:42:28,240 --> 02:42:31,520
+02:42:28,240 --> 02:42:31,480
 "Very well then," said the Eagle.
 
 1785
-02:42:31,520 --> 02:42:40,200
+02:42:31,480 --> 02:42:40,200
 "You wanted to fly – so let's see how you manage by
 yourself." And with that, she shook Tod off her back.
 
@@ -7843,12 +7843,12 @@ Down he dropped like a very heavy stone.
 ground's getting very close…very fast…!"
 
 1793
-02:43:19,000 --> 02:43:26,480
+02:43:19,000 --> 02:43:26,600
 As the garden rushed up to meet him, Tod shut his eyes…then
 ever so slowly…opened them again…
 
 1794
-02:43:26,520 --> 02:43:33,120
+02:43:26,640 --> 02:43:33,120
 He had landed in a giant pile of lettuce leaves.
 
 1795
@@ -7924,12 +7924,12 @@ He handed Country Mouse his gloves and bag, looked down his long nose and said, 
 cousin… no chandeliers, no Persian rugs… no velvet cushion to rest upon?"
 
 1810
-02:46:10,680 --> 02:46:20,080
+02:46:10,680 --> 02:46:20,120
 Country Mouse smiled, he was very fond of Town Mouse and he ignored his snooty remarks - he knew that he didn't mean to
 be rude.
 
 1811
-02:46:20,080 --> 02:46:30,320
+02:46:20,120 --> 02:46:30,320
 "Come and sit down, dear cousin. You must be tired and hungry from your journey," he said pulling out a little
 acorn stool for him to sit on.
 
@@ -7947,11 +7947,11 @@ Country Mouse smiled again and served up the hot soup and
 barleyseed bread.
 
 1815
-02:46:46,560 --> 02:46:50,880
+02:46:46,560 --> 02:46:50,920
 "What is this food?" scoffed Town Mouse.
 
 1816
-02:46:50,880 --> 02:46:53,720
+02:46:50,920 --> 02:46:53,720
 "No caviar, no steak tartare?
 
 1817
@@ -8011,12 +8011,12 @@ Country Mouse.
 "Yes…oh and the Humans"…
 
 1829
-02:48:35,480 --> 02:48:44,760
+02:48:35,480 --> 02:48:44,840
 And just at that moment the door burst open and in marched a
 team of kitchen staff with brooms and mops.
 
 1830
-02:48:44,760 --> 02:48:53,360
+02:48:44,840 --> 02:48:53,360
 "WHAT EEZ ZEES?!" shouted the French Chef…"MEESES! Quick
 hoover zem up!"
 
@@ -8048,16 +8048,16 @@ shoulder.
 high life!"
 
 1837
-02:49:35,120 --> 02:49:36,880
+02:49:35,120 --> 02:49:36,920
 BELLING THE CAT
 
 1838
-02:49:36,880 --> 02:50:01,720
+02:49:36,920 --> 02:50:01,720
 The mice who lived on a farm were very happy because the farmer's cat which was supposed to hunt and kill mice was
 old and lazy and spent most of his time sleeping in the sunshine.
 
 1839
-02:50:01,760 --> 02:50:08,240
+02:50:01,720 --> 02:50:08,240
 "Can't be bothered with catching mice any more," said the
 old cat.
 
@@ -8076,12 +8076,12 @@ plenty to eat...until one day an awful thing happened.
 The farmer came into the farmyard carrying a wooden box.
 
 1843
-02:50:33,680 --> 02:50:47,520
+02:50:33,680 --> 02:50:46,360
 He put it on the floor and...out of the box walked a cat; a
 new young cat with black sleek fur and long sharp claws.
 
 1844
-02:50:47,520 --> 02:50:52,120
+02:50:46,360 --> 02:50:52,120
 The cat looked around the farmyard and she sniffed the air.
 
 1845
@@ -8140,20 +8140,20 @@ there didn't seem to be quite so many of them.
 face.
 
 1858
-02:52:02,160 --> 02:52:09,560
+02:52:02,160 --> 02:52:09,640
 Each night more mice disappeared… and the new cat seemed to
 be getting fatter.
 
 1859
-02:52:09,560 --> 02:52:11,760
+02:52:09,640 --> 02:52:11,760
 Soon the mice were really scared.
 
 1860
-02:52:11,800 --> 02:52:15,560
+02:52:11,800 --> 02:52:15,600
 Finally the old mouse called a meeting.
 
 1861
-02:52:15,560 --> 02:52:18,680
+02:52:15,600 --> 02:52:18,680
 "We have to do something," he said.
 
 1862
@@ -8252,12 +8252,12 @@ it."
 THE TOO FAT FOX
 
 1884
-02:54:12,680 --> 02:54:36,920
+02:54:12,680 --> 02:54:38,280
 A bitter wind blew the last leaves from the trees as Fox
 made his way across the fields in search of food.
 
 1885
-02:54:36,920 --> 02:54:46,160
+02:54:38,280 --> 02:54:46,160
 The lake had been frozen for weeks and the livestock were
 tucked up safe and warm in the farmer's winter barns.
 
@@ -8326,12 +8326,12 @@ And it seemed to be coming from the hollow of the very tree
 he sat against.
 
 1899
-02:57:14,800 --> 02:57:23,080
+02:57:14,800 --> 02:57:23,120
 And because he was so very starved and thin – our TOO THIN
 MR FOX was able to slip easily through into the hole.
 
 1900
-02:57:23,080 --> 02:57:25,640
+02:57:23,120 --> 02:57:25,640
 And what did he find inside?
 
 1901
@@ -8355,12 +8355,12 @@ That's right!
 He gobbled it all up, lickity-quick.
 
 1906
-02:57:36,960 --> 02:57:49,280
+02:57:36,960 --> 02:57:49,600
 And he felt very full indeed…SO full in fact that our TOO THIN FOX had become TOO FAT FOX in a matter of ten minutes
 flat!
 
 1907
-02:57:49,360 --> 02:57:52,840
+02:57:49,800 --> 02:57:52,840
 Too fat in fact to fit back through the hole.
 
 1908
@@ -8442,11 +8442,11 @@ Nobody even noticed the Rat.
 "Over here. Rat. See."
 
 1926
-02:59:32,760 --> 02:59:34,200
+02:59:32,760 --> 02:59:34,160
 Nothing happened.
 
 1927
-02:59:34,200 --> 02:59:38,640
+02:59:34,160 --> 02:59:38,640
 The people were all too busy looking up the road.
 
 1928
@@ -8479,15 +8479,15 @@ cat rode the King.
 "Just look at the size of that elephant!"
 
 1935
-03:00:04,640 --> 03:00:08,640
+03:00:04,640 --> 03:00:08,600
 "Never mind the elephant," said the Rat.
 
 1936
-03:00:08,640 --> 03:00:12,000
+03:00:08,600 --> 03:00:11,960
 "What about me. Look at me. I'm a scary rat."
 
 1937
-03:00:12,000 --> 03:00:16,880
+03:00:11,960 --> 03:00:16,880
 "Yes look at its wonderful long trunk," said a woman.
 
 1938
@@ -8503,7 +8503,7 @@ cat rode the King.
 "And its huge ears," said a little girl.
 
 1941
-03:00:26,160 --> 03:00:31,720
+03:00:26,160 --> 03:00:31,760
 "I've got ears," said the Rat, jumping up and down.
 
 1942
@@ -8613,12 +8613,12 @@ the Cat.
 the terrified Rat back down on the ground.
 
 1966
-03:02:53,520 --> 03:03:00,480
+03:02:53,520 --> 03:03:00,400
 The Rat was shaking and looked so small and scared that
 people weren't at all frightened of him.
 
 1967
-03:03:00,520 --> 03:03:02,600
+03:03:00,440 --> 03:03:02,600
 "What is it?" said a man.
 
 1968
@@ -8635,11 +8635,11 @@ As he slunk away the Rat heard the Cat say "A rat and an elephant may be the sam
 the same size. You remember that...Mr Rat."
 
 1971
-03:03:26,120 --> 03:03:30,880
+03:03:26,120 --> 03:03:30,800
 And the Rat did remember that.
 
 1972
-03:03:30,880 --> 03:03:32,800
+03:03:30,800 --> 03:03:32,800
 For ever.
 
 1973
@@ -8651,12 +8651,12 @@ THE ANT AND THE DOVE
 It was another hot, dry day in the forest…
 
 1975
-03:03:52,040 --> 03:04:03,800
+03:03:52,040 --> 03:04:03,840
 Ant had been wandering over crinkly, dry leaves for days in
 search of a nice, cool drink…
 
 1976
-03:04:03,840 --> 03:04:14,880
+03:04:03,880 --> 03:04:14,880
 "All I need is a drop of rain falling from a leaf – or a tiny pool of dew on a flower petal – or even a muddy
 puddle…" he thought.
 
@@ -8670,7 +8670,7 @@ dried up.
 "I'm so thirsty, that I have no choice," Ant sighed at last.
 
 1979
-03:04:26,960 --> 03:04:30,120
+03:04:26,960 --> 03:04:29,920
 "I shall have to go in search of the Roaring River."
 
 1980
@@ -8705,12 +8705,12 @@ He plodded on and on through the trees, until finally, he
 heard rushing water ahead…
 
 1987
-03:05:02,360 --> 03:05:10,240
+03:05:02,360 --> 03:05:10,200
 Before him lay the Roaring River – as vast as a sea, or so
 it seemed to tiny Ant.
 
 1988
-03:05:10,240 --> 03:05:16,720
+03:05:10,200 --> 03:05:16,720
 The fast flowing waters looked frightening – but Ant was too
 thirsty to feel fear…
 
@@ -8766,15 +8766,15 @@ Dove.
 blow the leaf to the river bank," she cooed.
 
 2000
-03:06:17,640 --> 03:06:20,160
+03:06:17,640 --> 03:06:19,320
 Sure enough, the leaf carried Ant to safety.
 
 2001
-03:06:20,160 --> 03:06:25,360
+03:06:19,320 --> 03:06:25,400
 He looked up – but the Dove had disappeared.
 
 2002
-03:06:25,360 --> 03:06:30,720
+03:06:25,400 --> 03:06:30,720
 "I can't leave without thanking her," he thought.
 
 2003
@@ -8836,11 +8836,11 @@ Ant was horrified.
 giants of men?"
 
 2016
-03:07:35,040 --> 03:07:37,960
+03:07:35,040 --> 03:07:38,320
 Ant looked up as he heard the flapping of wings.
 
 2017
-03:07:37,960 --> 03:07:43,360
+03:07:38,320 --> 03:07:43,360
 The Dove had returned and was about to land on the sticky
 branch…!
 
@@ -8859,26 +8859,26 @@ So he jumped onto the men's feet – and bit as hard as he
 could…time and time again…
 
 2021
-03:07:57,480 --> 03:08:02,800
+03:07:57,480 --> 03:08:03,280
 "Yow!!!" they cried out in pain and took to their heels
 through the forest.
 
 2022
-03:08:02,800 --> 03:08:10,760
+03:08:03,280 --> 03:08:10,760
 "Thank you for saving me from a life in a cage," cooed the
 Dove to Ant.
 
 2023
-03:08:10,760 --> 03:08:17,440
+03:08:10,760 --> 03:08:17,600
 "And thank you for saving me from the giant wave," replied
 Ant.
 
 2024
-03:08:17,440 --> 03:08:19,560
+03:08:17,600 --> 03:08:19,600
 THE BOY WHO CRIED WOLF
 
 2025
-03:08:19,560 --> 03:08:31,160
+03:08:19,600 --> 03:08:31,160
 A young boy got a job with a shepherd.
 
 2026
@@ -9018,12 +9018,12 @@ Soon he could hear the sound of men running up the hill.
 he'd done.
 
 2058
-03:11:07,200 --> 03:11:14,960
+03:11:07,200 --> 03:11:14,640
 The boy felt so proud and pleased with himself that he
 almost forgot that he'd made the whole thing up.
 
 2059
-03:11:14,960 --> 03:11:17,880
+03:11:14,640 --> 03:11:17,880
 A few days later he was bored again.
 
 2060

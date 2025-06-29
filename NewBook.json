@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "272",
+      "baslik": "Aesop's Fables",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://github.com/Boga28/book/blob/master/pics/Aesops_Fables_Aesop.jpg?raw=true",
+      "kategori": "4",
+      "yazar": "Aesop",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Aesops_Fables.m4a",
+      "hardWord": "Text Analysis: Unique words: 2824 Total words: 24126\n\n\t Hard words: extraordinary, determination, opportunity, hippopotamus, reassuringly, comfortable, furiously, invisible, competition, absolutely, definitely, frantically, obviously, rhinoceros, actually, inherited, excitedly, disappointed, astonishment, confidently, occasional, celebrated, hesitated, spectacular, impossible, somersaulted, thermometer, everybody, exercises, anybody, separated, delicately, miserably, educated, jurisdiction, unusual, bolognese, terrifying, exercising, delusional, ridiculous, magnificent, watering, barleyseed, realized, forgetting, emperor, exciting, sunbathing, sensitive",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/Aesops_Fables.epub",
+      "storyAcıklama": "As children, our first experience of the magic of talking animals, the conflict between good and evil, the battle of wits between the cunning and the innocent most probably came from Aesop's Fables. These delightful, pithy and brief narratives are simple, easy to understand and convey their message in a memorable and charming fashion. Aesop's Fables by Aesop consists of about 600 tales, some well-loved and familiar, others less known but just as entertaining and educative and help us map the perimeters of our moral universe. Fables have existed almost since the dawn of time. They hark back to a time when humans and animals lived in harmony and mutual respect. We humans could learn a great deal from the uncomplicated justice and the commonsense values of the animal kingdom. Animals are endowed with immutable personal traits like foxes being cunning, donkeys being patient, lions being proud and wolves being cruel. There is very little biographical information about Aesop. He is reputed to have been born a slave in Samos in ancient Greece in about 600 BC. He earned his liberty through his learning and wit and went on to become a respected diplomat and traveler. Ancient Greek philosophers like Aristotle, historians like Plutarch and Herodotus mention Aesop's fables in their works. Today, these immortal fables have come down to us, as fresh and pristine as they were when they were first told. Aesop's fables were known at the time of Socrates in the 5th century BC, when they were recounted in oral form. However, they were systematically compiled sometime in 300 BC by a Greek philosopher Demetrius Phalereus. The fables gradually vanished from popular literature till the 14th century AD when they re-surfaced in Byzantine Constantinople. Since then, they traversed with traders and diplomats to Europe and then to the rest of the world. Generations of children have enjoyed old favorites like The Ant and the Grasshopper, The Bear and Two Travelers, The Hare and the Tortoise, The Hen who laid Golden Eggs, The Thirsty Crow, The Lion and the Mouse and many others found in this volume along with less familiar ones. Their charm lies in their simplicity and the plain, straightforward way in which they deliver universal values of honesty, compassion and justice and teach us to shun pride, greed, envy and other negative qualities. They provide an enduring foundation for inculcating values and ethics in children and are at the same time, amusing and entertaining.",
+      "tag": "Historical Fiction, said, fox, lion, one, mouse, little, like, day, could, thought",
+      "views": "53718"
+    },
+    {
       "id": "271",
       "baslik": "The Right Team",
       "aciklama": "A1 Starter",

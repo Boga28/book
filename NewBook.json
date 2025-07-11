@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "273",
+      "baslik": "Book Of Dragons",
+      "aciklama": "B2 Intermediate+",
+      "thumbnail": "https://github.com/Boga28/book/blob/master/pics/Book_Of_Dragons_Cover.jpg?raw=true",
+      "kategori": "6",
+      "yazar": "E. Nesbit",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Book_Of_Dragons.m4a",
+      "hardWord": "Text Analysis: Unique words: 3782 Total words: 41698\n\n\t Hard words: hippopotamuses, geological, disagreeable, determination, experimenter, artificially, unfortunately, disobedient, uncomfortable, mysteriously, disobedience, opportunity, revolutionist, multiplication, hippopotamus, immediately, argumentative, electricity, considerable, testimonial, anniversary, deliverance, exhibition, machinery, adventurous, zoological, miserably, embroidery, discovering, infirmary, blackberrying, corporation, singularly, expedition, amiable, inquiring, respectable, motheaten, retirement, thermometer, geography, personally, manticora, actually, impossible, untruthfulness, conveniently, experiment, occupation, deliverers",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/Aesops_Fables.epub",
+      "storyAcıklama": "Dragons — of all sorts — make for marvelous fun, and this collection of madcap tales is filled with them. Some of the legendary monsters are funny and mischievous, others are downright frightening, and a number of them are wild and unpredictable. There's a dragon made of ice, another that takes refuge in the General Post Office, a scaly creature that carries off the largest elephant in a zoo, and even a dragon whose gentle purring comforts a tiny tot. And who challenges these amazing creatures? Why, daring heroes, of course, as well as a wicked prince, and even an entire soccer team — which, unfortunately, meets its fate with a fire-breathing brute that flies out of the pages of an enchanted book. E. (Edith) Nesbit (1858–1924) was one of the pioneers of fantasy fiction for children. Her classic novels — such as The Railway Children and Five Children and It — have remained popular for more than a century.",
+      "tag": "Fantasy   Dragons   Classics    Fiction   Short Stories   Childrens   Middle Grade  Fairy Tales   Young Adult",
+      "views": "28394"
+    },
+    {
       "id": "272",
       "baslik": "Aesop's Fables",
       "aciklama": "B1 Pre-Intermediate",

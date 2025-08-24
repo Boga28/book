@@ -1,2258 +1,2258 @@
 1
-00:00:00,000 --> 00:00:08,560
-CHAPTER ONE
+00:00:00,000 --> 00:00:02,080
+ONE
 
 2
-00:00:08,560 --> 00:00:14,280
+00:00:02,080 --> 00:00:03,640
 The stranger
 
 3
-00:00:14,280 --> 00:00:21,080
+00:00:03,640 --> 00:00:09,360
 I don't usually pick up hitch-hikers, but this one was
 different.
 
 4
-00:00:21,080 --> 00:00:34,880
+00:00:09,360 --> 00:00:20,360
 He wasn't young, like the others, and he didn't have a bag, or a girlfriend, or a sign with "London" or "Lancaster" on
 it.
 
 5
-00:00:34,880 --> 00:00:43,600
+00:00:20,360 --> 00:00:28,000
 He just stood there, beside the road, with his hand out,
 waiting.
 
 6
-00:00:43,600 --> 00:00:52,080
+00:00:28,000 --> 00:00:35,120
 He was a man about forty years old, in a grey suit and red
 tie.
 
 7
-00:00:52,080 --> 00:00:57,400
+00:00:35,120 --> 00:00:38,080
 He was just watching the cars and waiting.
 
 8
-00:00:57,400 --> 00:01:00,640
+00:00:38,080 --> 00:00:40,720
 He was watching me while I slowed down.
 
 9
-00:01:00,640 --> 00:01:02,760
+00:00:40,720 --> 00:00:42,600
 I remember his eyes.
 
 10
-00:01:02,760 --> 00:01:09,320
+00:00:42,600 --> 00:00:46,960
 Very pale blue eyes, staring at me through thin gold
 glasses.
 
 11
-00:01:09,320 --> 00:01:12,840
+00:00:46,960 --> 00:00:48,840
 They looked surprised.
 
 12
-00:01:12,840 --> 00:01:20,721
+00:00:48,840 --> 00:00:54,600
 Perhaps I was something strange, something not quite real to
 him.
 
 13
-00:01:20,721 --> 00:01:24,201
+00:00:54,600 --> 00:00:57,080
 Or perhaps he just had bad eyes.
 
 14
-00:01:24,201 --> 00:01:28,321
+00:00:57,080 --> 00:01:00,720
 Perhaps he couldn't see very well.
 
 15
-00:01:28,321 --> 00:01:32,401
+00:01:00,720 --> 00:01:03,800
 I stopped the car and opened the window.
 
 16
-00:01:32,401 --> 00:01:36,241
+00:01:03,800 --> 00:01:06,320
 "Where are you going?" I asked.
 
 17
-00:01:36,241 --> 00:01:40,521
+00:01:06,320 --> 00:01:09,080
 "I'm going into town," he said.
 
 18
-00:01:40,521 --> 00:01:46,481
+00:01:09,080 --> 00:01:14,600
 "Into Lancaster. Could you give me a lift, please?"
 
 19
-00:01:46,481 --> 00:01:49,601
+00:01:14,600 --> 00:01:16,400
 "Yes, OK," I said.
 
 20
-00:01:49,601 --> 00:01:54,001
+00:01:16,400 --> 00:01:20,800
 "I'm going that way. Jump in."
 
 21
-00:01:54,001 --> 00:01:59,161
+00:01:20,800 --> 00:01:23,920
 He got in and sat down beside me.
 
 22
-00:01:59,161 --> 00:02:02,721
+00:01:23,920 --> 00:01:26,200
 "Thank you very much," he said.
 
 23
-00:02:02,721 --> 00:02:07,961
+00:01:26,200 --> 00:01:28,120
 "It's very kind of you."
 
 24
-00:02:07,961 --> 00:02:10,361
+00:01:28,120 --> 00:01:30,640
 "That's all right," I said.
 
 25
-00:02:10,361 --> 00:02:12,921
+00:01:30,640 --> 00:01:32,360
 "It's my pleasure."
 
 26
-00:02:12,921 --> 00:02:19,561
+00:01:32,360 --> 00:01:36,681
 I started the car and thought about the words he had used.
 
 27
-00:02:19,561 --> 00:02:22,601
+00:01:36,681 --> 00:01:39,641
 There was something strange about them.
 
 28
-00:02:22,601 --> 00:02:26,761
+00:01:39,641 --> 00:01:42,561
 Hitchhikers don't usually speak like that.
 
 29
-00:02:26,761 --> 00:02:36,601
+00:01:42,561 --> 00:01:50,521
 They usually say something like "Are you going to Lancaster?
 Oh good, thanks a lot".
 
 30
-00:02:36,601 --> 00:02:41,201
+00:01:50,521 --> 00:01:53,281
 He spoke politely, like an older man.
 
 31
-00:02:41,201 --> 00:02:44,321
+00:01:53,281 --> 00:01:55,801
 But this man wasn't very old.
 
 32
-00:02:44,321 --> 00:02:47,641
+00:01:55,801 --> 00:01:58,401
 "Perhaps he's foreign," I thought.
 
 33
-00:02:47,641 --> 00:02:52,801
+00:01:58,401 --> 00:02:02,161
 I looked at him, and noticed something else.
 
 34
-00:02:52,801 --> 00:02:58,281
+00:02:02,161 --> 00:02:06,801
 "Could you put your seat-belt on, please?" I said.
 
 35
-00:02:58,281 --> 00:03:00,161
+00:02:06,801 --> 00:02:07,761
 He looked at me.
 
 36
-00:03:00,161 --> 00:03:03,241
+00:02:07,761 --> 00:02:10,841
 "I'm all right," he said.
 
 37
-00:03:03,241 --> 00:03:12,801
+00:02:10,841 --> 00:02:17,881
 "I don't like seat-belts very much. I feel like a prisoner
 in the car."
 
 38
-00:03:12,801 --> 00:03:22,321
+00:02:17,881 --> 00:02:26,081
 "It's the law, you know. And I'm a police sergeant, so I
 think you should wear one in my car."
 
 39
-00:03:22,321 --> 00:03:40,321
+00:02:26,081 --> 00:02:38,561
 "Oh, yes. I'm so sorry. The law. Yes... yes, I forgot." He looked around him, but for a moment he couldn't find the
 seat-belt.
 
 40
-00:03:40,321 --> 00:03:45,522
+00:02:38,561 --> 00:02:43,361
 "It's there, behind you," I said.
 
 41
-00:03:45,522 --> 00:03:53,042
+00:02:43,361 --> 00:02:48,401
 "You do it like this." I helped him to put on the seat-belt.
 
 42
-00:03:53,042 --> 00:03:57,322
+00:02:48,401 --> 00:02:50,961
 "Yes, thank you," he said.
 
 43
-00:03:57,322 --> 00:04:03,562
+00:02:50,961 --> 00:02:55,881
 "I'm terribly sorry. I never remember these things."
 
 44
-00:04:03,562 --> 00:04:08,122
+00:02:55,881 --> 00:02:57,721
 "Oh, really," I said.
 
 45
-00:04:08,122 --> 00:04:11,202
+00:02:57,721 --> 00:03:00,041
 "Why? Don't you have a car?"
 
 46
-00:04:11,202 --> 00:04:32,482
+00:03:00,041 --> 00:03:16,041
 "No. Not now. I don't like them. I did have one once, but that was a long time ago..." For a moment I thought he would
 continue, but then he stopped talking and stared quietly out of the window.
 
 47
-00:04:32,482 --> 00:04:35,082
+00:03:16,041 --> 00:03:18,281
 I looked at him again.
 
 48
-00:04:35,082 --> 00:04:43,602
+00:03:18,281 --> 00:03:24,441
 I'm a police officer, so it's my job to look at people and
 to think carefully about them.
 
 49
-00:04:43,602 --> 00:04:49,962
+00:03:24,441 --> 00:03:28,561
 I was sure there was something strange about this man.
 
 50
-00:04:49,962 --> 00:04:56,002
+00:03:28,561 --> 00:03:34,601
 His hair – nobody has their hair cut quite like that now.
 
 51
-00:04:56,002 --> 00:05:05,722
+00:03:34,601 --> 00:03:43,561
 And that suit – it was quite clean, quite new, but the
 trousers and lapels were wider than they usually are...
 
 52
-00:05:05,722 --> 00:05:11,482
+00:03:43,561 --> 00:03:46,881
 Where had I seen a suit like that before?
 
 53
-00:05:11,482 --> 00:05:15,282
+00:03:46,881 --> 00:03:49,401
 "Do you live near here?" I asked.
 
 54
-00:05:15,282 --> 00:05:20,682
+00:03:49,401 --> 00:03:52,561
 I was still wondering about him.
 
 55
-00:05:20,682 --> 00:05:21,922
+00:03:52,561 --> 00:03:54,241
 Was he a foreigner?
 
 56
-00:05:21,922 --> 00:05:23,402
+00:03:54,241 --> 00:03:56,241
 He smiled at me.
 
 57
-00:05:23,402 --> 00:05:30,962
+00:03:56,241 --> 00:04:02,681
 "I live in Lancaster. In the centre of the town, in fact."
 
 58
-00:05:30,962 --> 00:05:34,722
+00:04:02,681 --> 00:04:05,081
 I was listening carefully.
 
 59
-00:05:34,722 --> 00:05:39,562
+00:04:05,081 --> 00:04:08,561
 "He speaks very good English," I thought.
 
 60
-00:05:39,562 --> 00:05:56,082
+00:04:08,561 --> 00:04:22,201
 "He speaks in the local way. I don't think he is a foreigner. But that face! It's the middle of summer now, and
 we've had a lot of sun this year. Why is he so pale?"
 
 61
-00:05:56,082 --> 00:06:01,282
+00:04:22,201 --> 00:04:26,361
 "What sort of job do you do?" I asked.
 
 62
-00:06:01,282 --> 00:06:04,882
+00:04:26,361 --> 00:04:28,481
 He smiled at me again.
 
 63
-00:06:04,882 --> 00:06:09,522
+00:04:28,481 --> 00:04:33,121
 "Oh, I don't have a job at the moment," he said.
 
 64
-00:06:09,522 --> 00:06:15,083
+00:04:33,121 --> 00:04:38,121
 "That's why I don't have a car now, you see."
 
 65
-00:06:15,083 --> 00:06:20,923
+00:04:38,121 --> 00:04:43,882
 "You haven't driven for a long time, then?" I said.
 
 66
-00:06:20,923 --> 00:06:22,283
+00:04:43,882 --> 00:04:45,202
 He looked at me again.
 
 67
-00:06:22,283 --> 00:06:27,603
+00:04:45,202 --> 00:04:48,722
 That same quiet, surprised look.
 
 68
-00:06:27,603 --> 00:06:31,603
+00:04:48,722 --> 00:04:51,962
 "No, I haven't," he said.
 
 69
-00:06:31,603 --> 00:06:34,763
+00:04:51,962 --> 00:04:55,162
 "Not for a long time."
 
 70
-00:06:34,763 --> 00:06:37,843
+00:04:55,162 --> 00:04:57,482
 I smiled at him.
 
 71
-00:06:37,843 --> 00:06:41,283
+00:04:57,482 --> 00:05:01,002
 "I thought you hadn't," I said.
 
 72
-00:06:41,283 --> 00:06:50,523
+00:05:01,002 --> 00:05:08,802
 "You've had to wear seat-belts in a car for many years.
 Sorry," I continued.
 
 73
-00:06:50,523 --> 00:06:57,443
+00:05:08,802 --> 00:05:14,282
 "It's my job. Police officers always play at detectives!"
 
 74
-00:06:57,443 --> 00:07:00,163
+00:05:14,282 --> 00:05:17,242
 "Yes, I see," he said.
 
 75
-00:07:00,163 --> 00:07:06,643
+00:05:17,242 --> 00:05:18,922
 He smiled.
 
 76
-00:07:06,643 --> 00:07:21,883
+00:05:18,922 --> 00:05:27,442
 A quiet, polite smile was on his mouth, but those pale eyes
 were still and empty.
 
 77
-00:07:21,883 --> 00:07:29,883
+00:05:27,442 --> 00:05:33,322
 Then for a moment I stopped thinking about him because there
 was a lot of traffic on the road.
 
 78
-00:07:29,883 --> 00:07:40,083
+00:05:33,322 --> 00:05:42,202
 Cars were moving very slowly, and I saw a policeman in
 front, with several police cars and flashing blue lights.
 
 79
-00:07:40,083 --> 00:07:46,923
+00:05:42,202 --> 00:05:48,442
 I knew the policeman, so I stopped the car beside him.
 
 80
-00:07:46,923 --> 00:07:51,683
+00:05:48,442 --> 00:05:51,962
 "What's the matter, John?" I asked.
 
 81
-00:07:51,683 --> 00:07:55,443
+00:05:51,962 --> 00:05:53,962
 "It's an accident, Sue," he said.
 
 82
-00:07:55,443 --> 00:08:02,803
+00:05:53,962 --> 00:06:00,282
 "One car stopped suddenly, and another car went into the
 back of it."
 
 83
-00:08:02,803 --> 00:08:05,763
+00:06:00,282 --> 00:06:02,562
 "Anyone hurt?"
 
 84
-00:08:05,763 --> 00:08:12,123
+00:06:02,562 --> 00:06:06,642
 Three people, I think, but they don't look too bad.
 
 85
-00:08:12,123 --> 00:08:17,083
+00:06:06,642 --> 00:06:10,562
 The ambulance will be here soon."
 
 86
-00:08:17,083 --> 00:08:25,923
+00:06:10,562 --> 00:06:16,562
 "Do you need any help?" I wasn't in uniform, but I had to
 ask.
 
 87
-00:08:25,923 --> 00:08:33,123
+00:06:16,562 --> 00:06:21,322
 He thought for a moment, and I heard the sound of the
 ambulance.
 
 88
-00:08:33,123 --> 00:08:38,083
+00:06:21,322 --> 00:06:24,242
 It was coming towards us.
 
 89
-00:08:38,083 --> 00:08:56,404
+00:06:24,242 --> 00:06:40,282
 "Well, it looks quite nasty, but we'll be OK when the ambulance comes, Sue. There are two police cars here
 already. But you can ask the sergeant over there, if you like. He'll know."
 
 90
-00:08:56,404 --> 00:09:04,764
+00:06:40,282 --> 00:06:47,002
 "All right, John, thanks." I drove on slowly to the
 accident.
 
 91
-00:09:04,764 --> 00:09:14,004
+00:06:47,002 --> 00:06:55,202
 There was glass all over the road, and the two damaged cars
 were by the side of the road on the left.
 
 92
-00:09:14,004 --> 00:09:21,404
+00:06:55,202 --> 00:07:01,522
 It seemed that one car had hit the back of the other, and
 pushed it off the road.
 
 93
-00:09:21,404 --> 00:09:28,044
+00:07:01,522 --> 00:07:04,642
 A young girl was sitting at the side of the road with a
 policeman.
 
 94
-00:09:28,044 --> 00:09:31,444
+00:07:04,642 --> 00:07:06,962
 Her face was covered in blood.
 
 95
-00:09:31,444 --> 00:09:41,484
+00:07:06,962 --> 00:07:13,962
 A man was lying on the ground beside the second car, and
 another policeman was kneeling beside him.
 
 96
-00:09:41,484 --> 00:09:49,004
+00:07:13,962 --> 00:07:19,882
 The sergeant was talking to the driver of the first car, who
 was still in his seat.
 
 97
-00:09:49,004 --> 00:09:51,204
-CHAPTER TWO
+00:07:19,882 --> 00:07:21,442
+TWO
 
 98
-00:09:51,644 --> 00:09:53,684
+00:07:21,442 --> 00:07:23,522
 An accident
 
 99
-00:09:53,684 --> 00:09:58,884
+00:07:23,522 --> 00:07:28,482
 I parked the car, got out, and went over to the man on the
 ground.
 
 100
-00:09:58,884 --> 00:10:06,764
+00:07:28,482 --> 00:07:31,682
 "Is there anything I can do?" I asked the policeman.
 
 101
-00:10:06,764 --> 00:10:14,684
+00:07:31,682 --> 00:07:37,002
 He looked up, surprised, and then he recognized me.
 
 102
-00:10:14,684 --> 00:10:35,484
+00:07:37,002 --> 00:07:49,643
 "Oh, it's you, Sue. I think he's OK. He's breathing, and his
 heart's fine. But I don't like the look of that leg."
 
 103
-00:10:35,484 --> 00:10:47,084
+00:07:49,643 --> 00:07:54,203
 One of the man's legs was broken in two places.
 
 104
-00:10:47,084 --> 00:10:52,244
+00:07:54,203 --> 00:07:57,323
 It looked like there were two knees.
 
 105
-00:10:52,244 --> 00:11:01,364
+00:07:57,323 --> 00:08:03,323
 He was breathing, but his eyes were closed, and his face was
 very white.
 
 106
-00:11:01,364 --> 00:11:08,445
+00:08:03,323 --> 00:08:07,723
 "Can you go and help Chris with the little girl?" he said.
 
 107
-00:11:08,445 --> 00:11:13,925
+00:08:07,723 --> 00:08:09,443
 "I think this man is her father."
 
 108
-00:11:13,925 --> 00:11:16,325
+00:08:09,443 --> 00:08:11,523
 I looked at the little girl.
 
 109
-00:11:16,325 --> 00:11:21,605
+00:08:11,523 --> 00:08:15,403
 She was trying to walk, but she seemed confused.
 
 110
-00:11:21,605 --> 00:11:26,685
+00:08:15,403 --> 00:08:19,403
 The policeman was holding her arm.
 
 111
-00:11:26,685 --> 00:11:32,925
+00:08:19,403 --> 00:08:23,523
 I went over and knelt in front of her.
 
 112
-00:11:32,925 --> 00:11:36,445
+00:08:23,523 --> 00:08:26,523
 There was blood all over her face.
 
 113
-00:11:36,445 --> 00:11:40,605
+00:08:26,523 --> 00:08:29,283
 I couldn't see her eyes very well.
 
 114
-00:11:40,605 --> 00:11:43,445
+00:08:29,283 --> 00:08:31,683
 "Hello," I said.
 
 115
-00:11:43,445 --> 00:11:51,525
+00:08:31,683 --> 00:08:37,843
 "My name's Sue. I'm a police officer. Can you see me?"
 
 116
-00:11:51,525 --> 00:11:56,405
+00:08:37,843 --> 00:08:42,683
 She wiped her face with her hand, and nodded.
 
 117
-00:11:56,405 --> 00:11:59,205
+00:08:42,683 --> 00:08:44,883
 "Good," I said.
 
 118
-00:11:59,205 --> 00:12:02,525
+00:08:44,883 --> 00:08:46,443
 "What's your name?"
 
 119
-00:12:02,525 --> 00:12:05,125
+00:08:46,443 --> 00:08:47,403
 "Kate."
 
 120
-00:12:05,125 --> 00:12:06,205
+00:08:47,403 --> 00:08:47,963
 Kate.
 
 121
-00:12:06,205 --> 00:12:07,165
+00:08:47,963 --> 00:08:48,203
 OK.
 
 122
-00:12:07,165 --> 00:12:12,125
+00:08:48,203 --> 00:08:51,083
 Kate, you heard that sound just now, didn't you?
 
 123
-00:12:12,125 --> 00:12:16,005
+00:08:51,083 --> 00:08:53,803
 That was the ambulance.
 
 124
-00:12:16,005 --> 00:12:30,925
+00:08:53,803 --> 00:09:03,683
 This policeman, Chris, and I are going to take you over to the ambulance, and then the ambulance men will take you to
 the hospital and look after you.
 
 125
-00:12:30,925 --> 00:12:35,805
+00:09:03,683 --> 00:09:07,443
 You're going to be all right."
 
 126
-00:12:35,805 --> 00:12:39,205
+00:09:07,443 --> 00:09:09,843
 "But what about my daddy?"
 
 127
-00:12:39,205 --> 00:12:46,805
+00:09:09,843 --> 00:09:15,843
 "He'll come with you in the ambulance. He's going to be all
 right, too."
 
 128
-00:12:46,805 --> 00:12:53,245
+00:09:15,843 --> 00:09:20,963
 I held one of the girl's arms, and Chris held the other.
 
 129
-00:12:53,245 --> 00:13:07,725
+00:09:20,963 --> 00:09:32,283
 We took the little girl over to the ambulance and sat talking with her while the ambulance men lifted her father
 and the other driver into the ambulance.
 
 130
-00:13:07,725 --> 00:13:14,325
+00:09:32,283 --> 00:09:34,963
 When the ambulance had gone, I spoke to the sergeant for a
 few minutes.
 
 131
-00:13:14,325 --> 00:13:19,165
+00:09:34,963 --> 00:09:38,763
 "What happened?" I asked.
 
 132
-00:13:19,165 --> 00:13:22,645
+00:09:38,763 --> 00:09:41,803
 "I don't know yet," he said.
 
 133
-00:13:22,645 --> 00:14:06,966
+00:09:41,803 --> 00:10:12,603
 "I think the first car stopped suddenly, but I can't think why. Still, that's something that we'll have to find out.
 It's a funny place for an accident. I can only remember one here before - about twenty years ago, I think it was. That was a nasty one, too. A young man was killed - run over by a car. I remember that a little child was hurt then, too."
 
 134
-00:14:06,966 --> 00:14:10,646
+00:10:12,603 --> 00:10:15,563
 "What happened then?"
 
 135
-00:14:10,646 --> 00:14:23,726
+00:10:15,563 --> 00:10:20,043
 "He shook his head. "I can't remember now.
 
 136
-00:14:23,726 --> 00:14:39,406
+00:10:20,043 --> 00:10:27,483
 Anyway, this one'll be your job in the morning - I'm on
 holiday next week, remember?
 
 137
-00:14:39,406 --> 00:14:42,446
+00:10:27,483 --> 00:10:30,403
 Thanks for your help."
 
 138
-00:14:42,446 --> 00:14:49,086
+00:10:30,403 --> 00:10:34,723
 On the way back to the car, I could see one of the
 policemen.
 
 139
-00:14:49,086 --> 00:14:54,766
+00:10:34,723 --> 00:10:39,763
 He was picking up the little girl's doll from the side of
 the road.
 
 140
-00:14:54,766 --> 00:14:57,686
+00:10:39,763 --> 00:10:44,323
 He walked over and put it in the police car.
 
 141
-00:14:57,686 --> 00:15:00,526
-CHAPTER THREE
+00:10:44,323 --> 00:10:45,003
+THREE
 
 142
-00:15:00,966 --> 00:15:03,966
+00:10:45,443 --> 00:10:47,363
 A frightened passenger
 
 143
-00:15:03,966 --> 00:15:09,446
+00:10:47,363 --> 00:10:51,884
 When I got back into the car, the hitch-hiker was still
 there.
 
 144
-00:15:09,446 --> 00:15:17,126
+00:10:51,884 --> 00:10:57,764
 He did look very strange - for a moment, I thought he was
 crying.
 
 145
-00:15:17,126 --> 00:15:27,046
+00:10:57,764 --> 00:11:05,444
 "I'm sorry," he said, "but I hate accidents. Were... were
 they badly hurt?"
 
 146
-00:15:27,046 --> 00:15:29,446
+00:11:05,444 --> 00:11:08,284
 I looked at him quickly.
 
 147
-00:15:29,446 --> 00:15:32,166
+00:11:08,284 --> 00:11:10,924
 His face was very pale.
 
 148
-00:15:32,166 --> 00:15:36,086
+00:11:10,924 --> 00:11:13,764
 And... were his hands shaking?
 
 149
-00:15:36,086 --> 00:15:39,846
+00:11:13,764 --> 00:11:16,084
 "Quite badly," I said.
 
 150
-00:15:39,846 --> 00:15:50,646
+00:11:16,084 --> 00:11:23,724
 "One had a broken leg, and the young girl had a lot of glass
 in her face. But I think they'll live."
 
 151
-00:15:50,646 --> 00:16:03,647
+00:11:23,724 --> 00:11:32,204
 "Oh, good. I... I'm sorry I didn't get out, but you see... I
 hate seeing blood."
 
 152
-00:16:03,647 --> 00:16:04,087
+00:11:32,204 --> 00:11:33,404
 I smiled.
 
 153
-00:16:04,087 --> 00:16:05,807
+00:11:33,404 --> 00:11:35,324
 That's all right.
 
 154
-00:16:05,807 --> 00:16:13,607
+00:11:35,324 --> 00:11:41,124
 I don't like it either, but I'm a police officer - it's my
 job."
 
 155
-00:16:13,607 --> 00:16:19,647
+00:11:41,124 --> 00:11:44,964
 "Yes. I suppose you see a lot of accidents?"
 
 156
-00:16:19,647 --> 00:16:43,807
+00:11:44,964 --> 00:12:03,484
 "Quite a lot, yes. But it's funny, I've never seen one here before. The road's very straight and it was clear of
 traffic, and it's not dark or anything. A car stopped suddenly, and another car hit it. It's very strange."
 
 157
-00:16:43,807 --> 00:16:48,967
+00:12:03,484 --> 00:12:09,044
 For a moment my passenger didn't answer.
 
 158
-00:16:48,967 --> 00:16:56,767
+00:12:09,044 --> 00:12:15,884
 He just looked straight in front of him, the grey eyes in
 the pale face staring at the road and the traffic.
 
 159
-00:16:56,767 --> 00:17:00,887
+00:12:15,884 --> 00:12:18,924
 Then he said, very quietly:
 
 160
-00:17:00,887 --> 00:17:11,727
+00:12:18,924 --> 00:12:27,164
 "Cars do terrible things, don't they? I hate cars. I hate
 them!"
 
 161
-00:17:11,727 --> 00:17:13,447
+00:12:27,164 --> 00:12:28,484
 I didn't say anything for a minute.
 
 162
-00:17:13,447 --> 00:17:19,447
+00:12:28,484 --> 00:12:31,924
 Then I asked him if he had a family in Lancaster.
 
 163
-00:17:19,447 --> 00:17:30,407
+00:12:31,924 --> 00:12:41,364
 "Yes, I have one son. He's at the University, you know. I'd
 been there just now, before you picked me up."
 
 164
-00:17:30,407 --> 00:17:35,727
+00:12:41,364 --> 00:12:45,884
 "Oh, really? Does he like it there?"
 
 165
-00:17:35,727 --> 00:17:51,647
+00:12:45,884 --> 00:12:55,764
 "Yes, I think so. Yes, he likes it very much." He smiled at
 me - the same grey, pale smile.
 
 166
-00:17:51,647 --> 00:18:19,727
+00:12:55,764 --> 00:13:13,684
 "But I still have to look after him, you know. He does silly
 things, and gets into lots of trouble. He needs me, you know - I'm sure he'd have an accident if I didn't keep an eye on him all the time."
 
 167
-00:18:19,727 --> 00:18:27,687
+00:13:13,684 --> 00:13:17,524
 That was a very strange thing to say about a son at
 university.
 
 168
-00:18:27,687 --> 00:18:38,768
+00:13:17,524 --> 00:13:24,404
 My sister is at the University too, but I don't think my
 father knows what she's doing every day.
 
 169
-00:18:38,768 --> 00:18:53,328
+00:13:24,404 --> 00:13:34,324
 I don't think he wants to know - and I'm quite sure she
 doesn't want her father "keeping an eye" on her all the
 time!
 
 170
-00:18:53,328 --> 00:19:00,928
+00:13:34,324 --> 00:13:39,844
 But before I could say anything else, we had reached the
 centre of the town.
 
 171
-00:19:00,928 --> 00:19:06,688
+00:13:39,844 --> 00:13:43,044
 I stopped the car outside the cemetery.
 
 172
-00:19:06,688 --> 00:19:14,848
+00:13:43,044 --> 00:13:48,124
 "If you want the centre of the town, this is the best
 place," I said.
 
 173
-00:19:14,848 --> 00:19:21,208
+00:13:48,124 --> 00:13:52,244
 "I'm driving home after this."
 
 174
-00:19:21,208 --> 00:19:29,488
+00:13:52,244 --> 00:13:57,565
 "This is perfect." He opened the door carefully and got out.
 
 175
-00:19:29,488 --> 00:19:33,128
+00:13:57,565 --> 00:13:59,485
 Thank you very much.
 
 176
-00:19:33,128 --> 00:19:35,368
+00:13:59,485 --> 00:14:01,565
 You're very kind."
 
 177
-00:19:35,368 --> 00:19:48,368
+00:14:01,565 --> 00:14:12,085
 "My pleasure." I watched him walk away, a short, pale man in
 that strange, old-fashioned suit.
 
 178
-00:19:48,368 --> 00:19:55,608
+00:14:12,085 --> 00:14:16,045
 Then I drove out into the traffic and forgot about him.
 
 179
-00:19:55,608 --> 00:19:57,128
-CHAPTER FOUR
+00:14:16,045 --> 00:14:17,285
+FOUR
 
 180
-00:19:58,968 --> 00:19:59,768
+00:14:18,045 --> 00:14:18,525
 Where's the body?
 
 181
-00:19:59,768 --> 00:20:08,528
+00:14:18,525 --> 00:14:24,845
 Next morning, I found the reports of the car accident on my
 desk.
 
 182
-00:20:08,528 --> 00:20:17,648
+00:14:24,845 --> 00:14:29,845
 There were photographs of the two cars after the crash, and
 a plan of the area.
 
 183
-00:20:17,648 --> 00:20:18,928
+00:14:29,845 --> 00:14:30,885
 The two cars had been drawn on the plan.
 
 184
-00:20:18,928 --> 00:20:23,648
+00:14:30,885 --> 00:14:34,165
 The police had also spoken to two students.
 
 185
-00:20:23,648 --> 00:20:36,328
+00:14:34,165 --> 00:14:38,365
 They had been walking beside the road at the time of the
 accident.
 
 186
-00:20:36,328 --> 00:20:51,648
+00:14:38,365 --> 00:14:44,525
 The students had both seen the first car swerve suddenly in
 front of the second car and then stop, for no reason.
 
 187
-00:20:51,648 --> 00:21:01,929
+00:14:44,525 --> 00:14:50,085
 But the police hadn't spoken to the drivers of the two cars
 because they were too ill.
 
 188
-00:21:01,929 --> 00:21:07,449
+00:14:50,085 --> 00:14:53,165
 So I had to go to the hospital to talk to them.
 
 189
-00:21:07,449 --> 00:21:11,689
+00:14:53,165 --> 00:14:57,885
 PC Brian Jones came with me.
 
 190
-00:21:11,689 --> 00:21:25,209
+00:14:57,885 --> 00:15:05,525
 The doctors said we couldn't talk to the driver of the second car or the little girl, so we went to see the driver
 of the first car.
 
 191
-00:21:25,209 --> 00:21:28,849
+00:15:05,525 --> 00:15:06,125
 He was sitting up in bed.
 
 192
-00:21:28,849 --> 00:21:41,329
+00:15:06,125 --> 00:15:11,565
 He could talk now, but he had hurt his neck quite badly
 because the car had stopped very quickly.
 
 193
-00:21:41,329 --> 00:21:47,969
+00:15:11,565 --> 00:15:15,765
 But it seemed that he didn't want to say much.
 
 194
-00:21:47,969 --> 00:21:56,449
+00:15:15,765 --> 00:15:18,605
 "Good morning, Mr Jackson," I said.
 
 195
-00:21:56,449 --> 00:22:02,649
+00:15:18,605 --> 00:15:23,325
 "I'm a police sergeant. The doctor tells me you're feeling
 much better this morning."
 
 196
-00:22:02,649 --> 00:22:06,209
+00:15:23,325 --> 00:15:24,525
 "A bit," he said.
 
 197
-00:22:06,209 --> 00:22:18,649
+00:15:24,525 --> 00:15:30,405
 "But I still can't move my neck. If you want to talk to me,
 sit on the end of the bed, and then I can see you."
 
 198
-00:22:18,649 --> 00:22:24,169
+00:15:30,405 --> 00:15:35,245
 I sat on the end of the bed and looked at him.
 
 199
-00:22:24,169 --> 00:22:34,929
+00:15:35,245 --> 00:15:44,685
 He was about thirty years old, with a thin, brown face, a
 small moustache, and dark hair.
 
 200
-00:22:34,929 --> 00:22:42,369
+00:15:44,685 --> 00:15:52,405
 He looked very unhappy, and his eyes always looked away from
 me when he spoke.
 
 201
-00:22:42,369 --> 00:22:50,689
+00:15:52,405 --> 00:15:58,565
 "I suppose you want to know about the accident?" he asked.
 
 202
-00:22:50,689 --> 00:23:05,489
+00:15:58,565 --> 00:16:02,365
 "That's right, Mr Jackson. Can you remember anything about
 it?"
 
 203
-00:23:05,489 --> 00:23:44,970
+00:16:02,365 --> 00:16:27,965
 "Remember it? Yes, of course I can. I've been thinking about it all night. But it wasn't my fault, honestly. You must
 believe me! I was driving along quite slowly - about forty-five miles an hour, I think, or maybe fifty, but no more, really. Anyway, there's no special speed limit on that road, is there?"
 
 204
-00:23:44,970 --> 00:23:52,930
+00:16:27,965 --> 00:16:33,965
 "Only the limit for normal roads. You can go up to sixty
 miles an hour."
 
 205
-00:23:52,930 --> 00:24:18,130
+00:16:33,965 --> 00:16:53,085
 "Well, I wasn't driving as fast as that. I was driving quite slowly, the road was clear, and I hadn't been drinking. In
 fact, I never drink and drive, never - I'm sure the doctors tested that, didn't they, Officer?"
 
 206
-00:24:18,130 --> 00:24:20,210
+00:16:53,085 --> 00:16:55,485
 I looked at my notes.
 
 207
-00:24:20,210 --> 00:24:30,130
+00:16:55,485 --> 00:17:02,926
 "Yes, I think so. It doesn't say anything here about
 alcohol, Mr Jackson."
 
 208
-00:24:30,130 --> 00:24:49,010
+00:17:02,926 --> 00:17:19,166
 "So it couldn't be my fault, could it? I mean, I was going at a normal speed, slowly even, on a sunny day, and I hadn't
 been drinking, and then there he was! Right in front of me!"
 
 209
-00:24:49,010 --> 00:24:50,650
+00:17:19,166 --> 00:17:20,806
 I felt confused.
 
 210
-00:24:50,650 --> 00:25:01,210
+00:17:20,806 --> 00:17:29,406
 "I'm sorry, Mr Jackson, I don't understand. Who was in front
 of you?"
 
 211
-00:25:01,210 --> 00:25:03,810
+00:17:29,406 --> 00:17:31,366
 He stared at me strangely.
 
 212
-00:25:03,810 --> 00:25:11,490
+00:17:31,366 --> 00:17:37,126
 "Well, the man, of course. The man who was killed."
 
 213
-00:25:11,490 --> 00:25:15,890
+00:17:37,126 --> 00:17:40,726
 Now I was really confused.
 
 214
-00:25:15,890 --> 00:25:38,010
+00:17:40,726 --> 00:17:57,726
 "What? I'm sorry, Mr Jackson, but no one was killed. The people in the other car were hurt, but they're both alive.
 One has a broken leg, I think, and the little girl hurt her face, but that's all."
 
 215
-00:25:38,010 --> 00:25:41,650
+00:17:57,726 --> 00:18:00,046
 "Which car?" asked Mr Jackson.
 
 216
-00:25:41,650 --> 00:25:45,930
+00:18:00,046 --> 00:18:02,886
 "The car that hit you from behind."
 
 217
-00:25:45,930 --> 00:25:49,970
+00:18:02,886 --> 00:18:05,966
 Now Mr Jackson looked confused.
 
 218
-00:25:49,970 --> 00:25:58,091
+00:18:05,966 --> 00:18:13,246
 He looked even more unhappy, and his face went white, as
 white as the bandage round his neck.
 
 219
-00:25:58,091 --> 00:26:06,011
+00:18:13,246 --> 00:18:20,206
 "Do you mean... are you telling me that a car hit me from
 behind, Officer?"
 
 220
-00:26:06,011 --> 00:26:09,051
+00:18:20,206 --> 00:18:22,046
 "Yes."
 
 221
-00:26:09,051 --> 00:26:26,371
+00:18:22,046 --> 00:18:24,446
 He put his hands to his neck.
 
 222
-00:26:26,371 --> 00:26:32,091
+00:18:24,446 --> 00:18:29,686
 He had been trying to shake his head but he couldn't.
 
 223
-00:26:32,091 --> 00:26:35,411
+00:18:29,686 --> 00:18:33,566
 "I don't remember that," he said.
 
 224
-00:26:35,411 --> 00:26:42,371
+00:18:33,566 --> 00:18:39,566
 "You don't remember anything about a car that hit you from
 behind?"
 
 225
-00:26:42,371 --> 00:26:59,691
+00:18:39,566 --> 00:18:52,566
 "No, nothing. And you say there were two people in it? A man and a girl? Oh, how terrible." He began to cry, and took a
 handkerchief from the table beside his bed.
 
 226
-00:26:59,691 --> 00:27:02,571
+00:18:52,566 --> 00:18:55,006
 I thought carefully.
 
 227
-00:27:02,571 --> 00:27:24,091
+00:18:55,006 --> 00:19:13,246
 "Let's start from the beginning, Mr Jackson. You say you were driving along slowly, about forty-five miles an hour.
 Is that right? Then what happened? Think carefully, and tell me slowly."
 
 228
-00:27:24,091 --> 00:27:33,051
+00:19:13,246 --> 00:19:20,526
 He put the handkerchief down, and stared at me, his eyes big
 and wide.
 
 229
-00:27:33,051 --> 00:27:59,651
+00:19:20,526 --> 00:19:42,646
 "Well, then I saw him, that's all. A man. He was running across the road in front of me. He didn't look where he was
 going, or anything. He was just - there - suddenly. I tried to stop, but it was too late. Poor man - I couldn't miss him!"
 
 230
-00:27:59,651 --> 00:28:03,091
+00:19:42,646 --> 00:19:44,846
 I waited until he had finished.
 
 231
-00:28:03,091 --> 00:28:10,811
+00:19:44,846 --> 00:19:47,646
 The nurse gave him a drink of water.
 
 232
-00:28:10,811 --> 00:28:13,251
+00:19:47,646 --> 00:19:50,086
 Then I asked, quietly:
 
 233
-00:28:13,251 --> 00:28:22,371
+00:19:50,086 --> 00:19:57,646
 "Mr Jackson, do you remember anything about this man? I
 mean, what did he look like?"
 
 234
-00:28:22,371 --> 00:28:26,252
+00:19:57,646 --> 00:20:00,886
 He looked at me strangely.
 
 235
-00:28:26,252 --> 00:29:29,372
+00:20:00,886 --> 00:20:32,087
 "Well, I didn't have much time, did I? I suppose he was about forty or fifty years old, in a suit or something, I
 don't know. His face was very white - I suppose that was because he was frightened. I think he had glasses on, and there was something red - perhaps it was a tie, or maybe it was the blood, I don't know. But why does it matter? You've got the body, haven't you? You know who he is."
 
 236
-00:29:29,372 --> 00:29:31,972
+00:20:32,087 --> 00:20:34,407
 I looked at PC Jones.
 
 237
-00:29:31,972 --> 00:29:40,372
+00:20:34,407 --> 00:20:41,687
 This man's crazy," I thought. "Perhaps he has hurt his head,
 too."
 
 238
-00:29:40,372 --> 00:29:44,452
+00:20:41,687 --> 00:20:44,127
 I felt sorry for him.
 
 239
-00:29:44,452 --> 00:29:48,852
+00:20:44,127 --> 00:20:45,927
 I spoke very slowly and carefully.
 
 240
-00:29:48,852 --> 00:29:54,452
+00:20:45,927 --> 00:20:49,247
 I tried to make my voice as kind as I could.
 
 241
-00:29:54,452 --> 00:30:14,292
+00:20:49,247 --> 00:21:02,207
 "Mr Jackson, we haven't found a body. No one was killed in the accident. You didn't hit anyone. You just stopped your
 car suddenly, and the car behind ran into you, that's all."
 
 242
-00:30:14,292 --> 00:30:20,732
+00:21:02,207 --> 00:21:05,447
 "But... does that mean you're going to prosecute me?" he
 asked.
 
 243
-00:30:20,732 --> 00:30:27,212
+00:21:05,447 --> 00:21:09,767
 "I'm not sure yet, Mr Jackson," I said.
 
 244
-00:30:27,212 --> 00:30:45,012
+00:21:09,767 --> 00:21:23,687
 "We haven't finished our investigations. But I'm afraid the police usually prosecute people for dangerous driving if
 they stop suddenly for no reason."
 
 245
-00:30:45,012 --> 00:31:23,173
+00:21:23,687 --> 00:21:54,887
 "But you can't do that! I'd lose my job! I'm a salesman. I drive hundreds of miles every week, and nobody can work for
 our company if they have been prosecuted for dangerous driving. That's why I never drink and drive - never! And I never stop without a good reason! There was a man there, in front of me - I told you! I saw him as clearly as I can see you now!"
 
 246
-00:31:23,173 --> 00:31:28,733
+00:21:54,887 --> 00:21:59,847
 "Well, I'm sorry, Mr Jackson," I said.
 
 247
-00:31:28,733 --> 00:31:41,493
+00:21:59,847 --> 00:22:09,447
 "But there was a serious accident, and at the moment it
 seems it was your fault. That's all I can say for now."
 
 248
-00:31:41,493 --> 00:31:43,693
-CHAPTER FIVE
+00:22:09,447 --> 00:22:10,807
+FIVE
 
 249
-00:31:43,693 --> 00:31:46,933
+00:22:10,807 --> 00:22:13,607
 The doctor explains
 
 250
-00:31:46,933 --> 00:31:51,133
+00:22:13,607 --> 00:22:17,567
 Outside the room, the nurse stopped us.
 
 251
-00:31:51,133 --> 00:31:57,893
+00:22:17,567 --> 00:22:22,527
 "Could you both wait in here a moment, please?" she said.
 
 252
-00:31:57,893 --> 00:32:04,693
+00:22:22,527 --> 00:22:27,327
 "I think the doctor would like to speak to you."
 
 253
-00:32:04,693 --> 00:32:14,173
+00:22:27,327 --> 00:22:34,767
 We heard the nurse talking to the doctor outside the room
 for two or three minutes, and then the doctor came in.
 
 254
-00:32:14,173 --> 00:32:17,493
+00:22:34,767 --> 00:22:37,727
 She smiled at me.
 
 255
-00:32:17,493 --> 00:32:21,613
+00:22:37,727 --> 00:22:41,327
 "Good morning, Sergeant Fraser," she said to me.
 
 256
-00:32:21,613 --> 00:32:27,653
+00:22:41,327 --> 00:22:45,727
 "You've been talking to Mr Jackson, haven't you?"
 
 257
-00:32:27,653 --> 00:32:30,173
+00:22:45,727 --> 00:22:47,647
 "Yes," I said.
 
 258
-00:32:30,173 --> 00:32:36,493
+00:22:47,647 --> 00:22:50,287
 "Poor man - he's not very happy, I'm afraid."
 
 259
-00:32:36,493 --> 00:32:46,573
+00:22:50,287 --> 00:22:53,527
 "No, of course not," said the doctor.
 
 260
-00:32:46,573 --> 00:33:12,733
+00:22:53,527 --> 00:23:12,647
 "Well, it was a nasty accident, wasn't it? And he's hurt his neck quite badly. But the rest of him is OK. He should be
 out of hospital in a few days."
 
 261
-00:33:12,733 --> 00:33:23,214
+00:23:12,647 --> 00:23:17,768
 "Yes." I looked at the doctor carefully.
 
 262
-00:33:23,214 --> 00:33:59,574
+00:23:17,768 --> 00:23:49,608
 "Doctor, are you sure that he hasn't hurt anything else? His head, perhaps? You see, I don't think he remembers the
 accident very well. He thinks he killed somebody who walked in front of the car, but he didn't. Nobody was killed, nobody walked in front of the car. And he doesn't remember the second car at all."
 
 263
-00:33:59,574 --> 00:34:02,934
+00:23:49,608 --> 00:23:52,448
 "Yes, I know," she said.
 
 264
-00:34:02,934 --> 00:34:34,734
+00:23:52,448 --> 00:24:21,728
 "I wanted to talk to you about that. Of course, people do forget accidents. That's normal. They often don't remember
 anything about them. So I'm not surprised that he doesn't remember the second car. But it's very unusual to remember something that didn't happen." She stopped for a moment, and looked at me thoughtfully.
 
 265
-00:34:34,734 --> 00:35:17,254
+00:24:21,728 --> 00:25:01,328
 "So I thought... perhaps I shouldn't say this, but I thought you should know. Last night this man had a small problem
 with his heart, a very unusual problem. For a few minutes it beat very slowly, it nearly stopped, and then it started again. And people who have a heart problem like that aren't usually allowed to drive, you know, because they might become ill for a couple of minutes, and then of course a car would stop suddenly."
 
 266
-00:35:17,254 --> 00:35:21,894
+00:25:01,328 --> 00:25:03,848
 "I see," I said.
 
 267
-00:35:21,894 --> 00:35:30,734
+00:25:03,848 --> 00:25:10,648
 "So you think that perhaps he had a small heart attack
 yesterday, too?"
 
 268
-00:35:30,734 --> 00:35:34,214
+00:25:10,648 --> 00:25:13,968
 "I don't know," she said.
 
 269
-00:35:34,214 --> 00:35:49,415
+00:25:13,968 --> 00:25:25,688
 "Maybe he had the attack because of the accident. I haven't seen his doctor's records, so I don't know if he has ever
 had this problem before."
 
 270
-00:35:49,415 --> 00:35:50,935
+00:25:25,688 --> 00:25:28,568
 "I see," I said.
 
 271
-00:35:50,935 --> 00:35:56,415
+00:25:28,568 --> 00:25:32,648
 "Well, thank you, Doctor. That's very helpful."
 
 272
-00:35:56,415 --> 00:35:58,015
-CHAPTER SIX
+00:25:32,648 --> 00:25:33,928
+SIX
 
 273
-00:35:59,335 --> 00:36:00,895
+00:25:34,728 --> 00:25:36,128
 A good explanation
 
 274
-00:36:00,895 --> 00:36:09,655
+00:25:36,128 --> 00:25:43,568
 "That explains it then," said Brian Jones, as we drove back
 to the police station.
 
 275
-00:36:09,655 --> 00:36:15,375
+00:25:43,568 --> 00:25:46,928
 There wasn't a man in front of his car, and he knows it.
 
 276
-00:36:15,375 --> 00:36:26,015
+00:25:46,928 --> 00:25:56,328
 I mean, if the man did have this heart problem, then he
 couldn't have a job as a salesman, could he?
 
 277
-00:36:26,015 --> 00:36:31,695
+00:25:56,328 --> 00:26:01,528
 He wouldn't have a driving license, and he'd lose his job.
 
 278
-00:36:31,695 --> 00:36:36,655
+00:26:01,528 --> 00:26:06,288
 And he's very afraid of losing his job, isn't he?
 
 279
-00:36:36,655 --> 00:36:39,615
+00:26:06,288 --> 00:26:08,088
 He told us that."
 
 280
-00:36:39,615 --> 00:36:42,175
+00:26:08,088 --> 00:26:09,288
 "Yes," I said.
 
 281
-00:36:42,175 --> 00:36:47,535
+00:26:09,288 --> 00:26:13,808
 "But that doesn't explain his story, does it?"
 
 282
-00:36:47,535 --> 00:36:53,575
+00:26:13,808 --> 00:26:18,288
 "Well, yes, maybe it does, Sergeant," he said.
 
 283
-00:36:53,575 --> 00:38:14,615
+00:26:18,288 --> 00:27:22,929
 "Look at it this way. Perhaps this man had a problem with his heart several years ago, and then he got better, so he
 got his driving license back. His job and his driving license are very important to him, so he always drives very, very carefully. He never drinks and drives or does anything silly. And why is he so very, very careful? Because he's always afraid that one day his heart problem will come back, and then he'll lose his license, his job, and everything. Then yesterday it did come back, and so he had this accident. But he wants us to believe that it wasn't his fault, so he has invented a story about a man who ran in front of the car. Only it isn't a very good story, that's all, because there wasn't a man, and there isn't a body."
 
 284
-00:38:14,615 --> 00:38:17,616
+00:27:22,929 --> 00:27:26,329
 Brian Jones smiled at me.
 
 285
-00:38:17,616 --> 00:38:22,856
+00:27:26,329 --> 00:27:31,489
 He is a young, clever policeman, and he was very pleased
 with himself.
 
 286
-00:38:22,856 --> 00:38:28,696
+00:27:31,489 --> 00:27:34,849
 It was a good explanation, too.
 
 287
-00:38:28,696 --> 00:38:31,896
+00:27:34,849 --> 00:27:37,729
 I couldn't see anything wrong with it.
 
 288
-00:38:31,896 --> 00:38:39,376
+00:27:37,729 --> 00:27:42,409
 Back at the police station, I checked everything carefully.
 
 289
-00:38:39,376 --> 00:38:48,296
+00:27:42,409 --> 00:27:50,329
 But no one had found a body, no one had seen a man who ran
 across the road.
 
 290
-00:38:48,296 --> 00:38:56,656
+00:27:50,329 --> 00:27:56,689
 I looked at the front of Mr Jackson's car carefully with one
 of the police scientists.
 
 291
-00:38:56,656 --> 00:39:02,456
+00:27:56,689 --> 00:27:58,889
 There were no marks on it at all.
 
 292
-00:39:02,456 --> 00:39:07,576
+00:27:58,889 --> 00:28:04,809
 Only the back of his car was damaged, where the car behind
 had hit it.
 
 293
-00:39:07,576 --> 00:39:11,416
+00:28:04,809 --> 00:28:08,249
 Either Mr Jackson was mad, or he was lying.
 
 294
-00:39:11,416 --> 00:39:20,296
+00:28:08,249 --> 00:28:13,649
 But I felt sad, and a little angry, too.
 
 295
-00:39:20,296 --> 00:39:30,936
+00:28:13,649 --> 00:28:17,489
 The doctor at the hospital had been very helpful, but why
 had she told us about Mr Jackson's heart problem?
 
 296
-00:39:30,936 --> 00:39:32,936
+00:28:17,489 --> 00:28:18,609
 That was wrong.
 
 297
-00:39:32,936 --> 00:39:39,176
+00:28:18,609 --> 00:28:24,489
 I wouldn't want my doctor to tell people about me when I was
 ill.
 
 298
-00:39:39,176 --> 00:39:48,136
+00:28:24,489 --> 00:28:31,209
 Mr Jackson's story was crazy, but I really think that he
 believed it.
 
 299
-00:39:48,136 --> 00:39:54,976
+00:28:31,209 --> 00:28:37,969
 In my job, you know when people are lying - and I thought Mr
 Jackson was telling the truth.
 
 300
-00:39:54,976 --> 00:40:02,056
-CHAPTER SEVEN
+00:28:37,969 --> 00:28:39,129
+SEVEN
 
 301
-00:40:02,936 --> 00:40:11,256
+00:28:39,889 --> 00:28:40,969
 Simon
 
 302
-00:40:11,256 --> 00:40:18,456
+00:28:40,969 --> 00:28:47,129
 I talked about it with my boyfriend, Simon, at dinner that
 night.
 
 303
-00:40:18,456 --> 00:40:23,456
+00:28:47,129 --> 00:28:52,129
 Simon is a reporter, so he has to be very careful.
 
 304
-00:40:23,456 --> 00:40:30,616
+00:28:52,129 --> 00:28:56,249
 He must never write about anything I tell him in his
 newspaper.
 
 305
-00:40:30,616 --> 00:40:34,176
+00:28:56,249 --> 00:28:58,969
 If he did, I would lose my job.
 
 306
-00:40:34,176 --> 00:40:41,016
+00:28:58,969 --> 00:29:03,449
 But we still talk about things, and sometimes it is very
 useful.
 
 307
-00:40:41,016 --> 00:40:47,897
+00:29:03,449 --> 00:29:07,889
 I told him about the accident, and Mr Jackson's story.
 
 308
-00:40:47,897 --> 00:40:50,937
+00:29:07,889 --> 00:29:10,169
 He looked at me thoughtfully.
 
 309
-00:40:50,937 --> 00:41:00,057
+00:29:10,169 --> 00:29:17,609
 "It's a strange place for an accident, isn't it?" he said.
 
 310
-00:41:00,057 --> 00:41:04,297
+00:29:17,609 --> 00:29:21,569
 "The road's very straight there."
 
 311
-00:41:04,297 --> 00:41:07,577
+00:29:21,569 --> 00:29:24,369
 "That's right," I said.
 
 312
-00:41:07,577 --> 00:41:14,417
+00:29:24,369 --> 00:29:30,490
 "No one ever stops there. I only stopped because I..."
 
 313
-00:41:14,417 --> 00:41:19,857
+00:29:30,490 --> 00:29:35,970
 For a moment I stopped talking, my fork in my hand.
 
 314
-00:41:19,857 --> 00:41:26,537
+00:29:35,970 --> 00:29:40,450
 "Sue? Sue, what's the matter?" Simon said.
 
 315
-00:41:26,537 --> 00:41:36,217
+00:29:40,450 --> 00:29:49,890
 "Simon, that's it! I've remembered the thing that worries me
 about all this! The hitch-hiker!"
 
 316
-00:41:36,217 --> 00:41:37,457
+00:29:49,890 --> 00:29:51,130
 "What?"
 
 317
-00:41:37,457 --> 00:41:53,737
+00:29:51,130 --> 00:30:01,290
 "The hitch-hiker! The man Jackson described - pale face,
 suit, glasses, red tie. There was a man like that in my
 car!"
 
 318
-00:41:53,737 --> 00:42:01,897
+00:30:01,290 --> 00:30:07,330
 Quickly I told Simon about the man that I had picked up
 before I saw the accident.
 
 319
-00:42:01,897 --> 00:42:18,057
+00:30:07,330 --> 00:30:19,850
 "Yes, but he wasn't dead, Sue - he was in your car, quite safe. And you picked him up a long way away from the
 accident."
 
 320
-00:42:18,057 --> 00:42:52,777
+00:30:19,850 --> 00:30:35,290
 "Not very far away - about half a kilometre, perhaps. The traffic was moving very slowly - because of the accident.
 Maybe he walked there. It's possible."
 
 321
-00:42:52,777 --> 00:43:08,817
+00:30:35,290 --> 00:30:47,970
 "You mean, perhaps the hitch-hiker was walking across the road, and Jackson saw him, stopped his car, and then the
 other car hit Jackson's car?"
 
 322
-00:43:08,817 --> 00:43:27,338
+00:30:47,970 --> 00:30:59,530
 "Yes, that's right! And then the hitch-hiker ran on down the road, and then I picked him up! Simon, I have to find that
 man!"
 
 323
-00:43:27,338 --> 00:43:30,538
+00:30:59,530 --> 00:31:01,410
 Simon looked thoughtful.
 
 324
-00:43:30,538 --> 00:43:54,498
+00:31:01,410 --> 00:31:18,010
 "Yes, but wait a minute, Sue. Why would the hitch-hiker cross the road there? There's nothing there. And anyway, if
 he was walking towards you, he was walking away from town, not towards it!"
 
 325
-00:43:54,498 --> 00:43:57,818
+00:31:18,010 --> 00:31:18,930
 I shook my head.
 
 326
-00:43:57,818 --> 00:44:38,418
+00:31:18,930 --> 00:31:48,530
 "I don't know. But I want to find him. He said he lived in Lancaster. And another thing, Simon. One of the older police
 sergeants said there had once been an accident on that road before - something about a child, I think it was - about twenty years ago, maybe more. Can you check in your old newspapers and find out about it? I think it may help."
 
 327
-00:44:38,418 --> 00:44:41,298
+00:31:48,530 --> 00:31:50,570
 Simon groaned.
 
 328
-00:44:41,298 --> 00:44:51,018
+00:31:50,570 --> 00:31:57,850
 "You want me to check the records for a little thing like
 that? Do you know how long that takes?"
 
 329
-00:44:51,018 --> 00:44:52,578
+00:31:57,850 --> 00:31:59,370
 I smiled at him.
 
 330
-00:44:52,578 --> 00:44:59,778
+00:31:59,370 --> 00:32:04,850
 "But you'll do it for me, won't you Simon?" I said.
 
 331
-00:44:59,778 --> 00:45:01,098
+00:32:04,850 --> 00:32:06,450
 "Please."
 
 332
-00:45:01,098 --> 00:45:03,498
-CHAPTER EIGHT
+00:32:06,450 --> 00:32:06,610
+EIGHT
 
 333
-00:45:03,698 --> 00:45:05,978
+00:32:07,490 --> 00:32:09,450
 Flowers on a grave
 
 334
-00:45:05,978 --> 00:45:14,298
+00:32:09,450 --> 00:32:15,930
 It took Simon a long time, but he found the newspaper story
 in the end.
 
 335
-00:45:14,298 --> 00:45:23,258
+00:32:15,930 --> 00:32:23,090
 We met for lunch in the park in the middle of town, and he
 took it out of his pocket.
 
 336
-00:45:23,258 --> 00:45:37,658
+00:32:23,090 --> 00:32:31,810
 He showed it to me and I read it carefully - a small yellow piece of paper, a newspaper story about a road accident
 eighteen years ago.
 
 337
-00:45:37,658 --> 00:45:40,939
+00:32:31,810 --> 00:32:34,411
 FATHER KILLED IN ROAD CRASH
 
 338
-00:45:40,939 --> 00:45:44,659
+00:32:34,411 --> 00:32:36,011
 Son saved by brave dad
 
 339
-00:45:44,659 --> 00:45:54,699
+00:32:36,011 --> 00:32:43,251
 A man was hit by a car and killed in an accident on the main
 road outside Lancaster yesterday.
 
 340
-00:45:54,699 --> 00:46:06,779
+00:32:43,251 --> 00:32:50,891
 Police said the man, twenty-five-year-old Mr David Holland,
 ran straight in front of the car.
 
 341
-00:46:06,779 --> 00:46:15,499
+00:32:50,891 --> 00:32:57,931
 The car driver had no time to stop, and Mr Holland was
 killed immediately.
 
 342
-00:46:15,499 --> 00:46:21,939
+00:32:57,931 --> 00:33:03,211
 A three-year-old boy, Mr Holland's son Michael, was found by
 the side of the road, crying.
 
 343
-00:46:21,939 --> 00:46:38,379
+00:33:03,211 --> 00:33:06,491
 A woman, Mrs Helen Steadman, was walking with her dog by the
 side of the road.
 
 344
-00:46:38,379 --> 00:46:47,019
+00:33:06,491 --> 00:33:14,411
 Mrs Steadman said that Mr Holland had been driving towards
 Lancaster with his son.
 
 345
-00:46:47,019 --> 00:46:56,059
+00:33:14,411 --> 00:33:23,451
 Just before the accident he had stopped his car by the side
 of the road, and both of them had got out.
 
 346
-00:46:56,059 --> 00:47:04,659
+00:33:23,451 --> 00:33:30,451
 "I think perhaps the little boy wanted to go to the toilet,"
 Mrs Steadman said.
 
 347
-00:47:04,659 --> 00:47:54,899
+00:33:30,451 --> 00:34:01,691
 "But before his father could stop him, he ran straight out across the road, in front of the traffic. Mr Holland ran
 after him, and managed to pick up the little boy and throw him to the side of the road. But then a car hit the father. It wasn't the driver's, fault - the little boy ran straight out into the road without looking, and his father ran out after him. Then I ran to catch the little boy before he could go back into the road again."
 
 348
-00:47:54,899 --> 00:48:00,939
+00:34:01,691 --> 00:34:06,331
 The police said that Mr Holland was dead when they arrived.
 
 349
-00:48:00,939 --> 00:48:06,539
+00:34:06,331 --> 00:34:10,051
 He will be buried in Lancaster cemetery on Tuesday.
 
 350
-00:48:06,539 --> 00:48:17,180
+00:34:10,051 --> 00:34:16,011
 The little boy's mother died a year ago, so he will live
 with his grandparents in Carnforth,
 
 351
-00:48:17,180 --> 00:48:27,580
+00:34:16,011 --> 00:34:23,371
 This is the first accident that anyone can remember on this
 part of the road.
 
 352
-00:48:27,580 --> 00:48:32,940
+00:34:23,371 --> 00:34:27,811
 The road is very straight there and is usually very safe.
 
 353
-00:48:32,940 --> 00:48:38,140
+00:34:27,811 --> 00:34:30,251
 The police do not think the car driver was driving fast.
 
 354
-00:48:38,140 --> 00:48:45,140
+00:34:30,251 --> 00:34:35,251
 I put down the old yellow piece of paper and thought for a
 minute.
 
 355
-00:48:45,140 --> 00:48:56,260
+00:34:35,251 --> 00:34:42,051
 Eighteen years ago a man had run in front of a car and been
 killed, on the same part of the road.
 
 356
-00:48:56,260 --> 00:49:22,500
+00:34:42,051 --> 00:35:00,651
 And yesterday, there had been another accident, and the driver of the first car - Mr Jackson - was quite sure that
 he had seen a man who had run out in front of him, and was also sure that he had hit him in exactly the same way.
 
 357
-00:49:22,500 --> 00:49:27,420
+00:35:00,651 --> 00:35:05,611
 "It's interesting, isn't it?" Simon said.
 
 358
-00:49:27,420 --> 00:49:38,420
+00:35:05,611 --> 00:35:11,531
 "But it doesn't help much, does it? Have you found your
 hitch-hiker yet?"
 
 359
-00:49:38,420 --> 00:49:41,700
+00:35:11,531 --> 00:35:14,531
 "No," I said.
 
 360
-00:49:41,700 --> 00:49:59,300
+00:35:14,531 --> 00:35:27,171
 "I've checked all our police records, and we have no records of anyone who looks like him. And of course he didn't tell
 me his name."
 
 361
-00:49:59,300 --> 00:50:03,860
+00:35:27,171 --> 00:35:29,731
 "I see," said Simon strangely.
 
 362
-00:50:03,860 --> 00:50:10,260
+00:35:29,731 --> 00:35:33,771
 "There is one other interesting thing that I haven't told
 you."
 
 363
-00:50:10,260 --> 00:50:13,260
+00:35:33,771 --> 00:35:36,331
 "Oh? What's that?"
 
 364
-00:50:13,260 --> 00:51:06,501
+00:35:36,331 --> 00:36:17,652
 "Well, every day I walk through the cemetery on my way to work. I know the place quite well - sometimes I sit and have
 my sandwiches there at lunchtime. And so I notice the other people who come there - the people who put flowers on the graves and eat their lunch there. Sometimes I even read the gravestones, you know. I often wonder about them. What were the people like? How long did they live? It's very interesting."
 
 365
-00:51:06,501 --> 00:51:15,541
+00:36:17,652 --> 00:36:24,012
 "In your lunch hour? How strange!" I said.
 
 366
-00:51:15,541 --> 00:52:36,341
+00:36:24,012 --> 00:37:05,732
 "Do you think so? I like it. It's quiet and peaceful there, so I can think and read. Anyway, there's one grave there
 that always has flowers on it. A young man comes to put them there. He's a student, I think. And when I read this newspaper story, I knew I'd seen the name Holland somewhere before. At first I couldn't remember the place that I'd seen it. Then I remembered - it's the name on this gravestone: David Holland! I checked this morning because I wanted to be certain. And the date on the stone was the same too, 1978. It's the same man who was killed in the accident!"
 
 367
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "So?" I asked.
 
 368
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "What's surprising about that? It isn't surprising that he was buried there. He came from Lancaster. And I suppose that
 the young man who brings the flowers is his son. That would be normal, wouldn't it?"
 
 369
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Maybe," he said.
 
 370
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But not every day, not after eighteen years. Anyway, the cemetery is just over there. Why don't we go and have a
 look? We can go that way back to the car."
 
 371
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "OK, if you like. I didn't know that you were so interested
 in gravestones, Simon."
 
 372
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 We got up and walked quietly through the park and into the
 cemetery.
 
 373
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 It was a nice, sunny summer afternoon.
 
 374
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Neither of us wanted to hurry back to work.
 
 375
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "There it is, look." Simon pointed, and I saw a grave just
 like all the others.
 
 376
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 There were a few red flowers on it.
 
 377
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 We walked towards it, but then a young man came past us on
 the path.
 
 378
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He knelt down beside the grave.
 
 379
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He took the old flowers away, and put some fresh ones beside
 it.
 
 380
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 We stopped a few metres away, and watched.
 
 381
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The young man stayed very quietly beside the grave for
 several minutes.
 
 382
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I could see his mouth moving.
 
 383
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 It seemed that he was talking to someone.
 
 384
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "He's praying, Simon," I said.
 
 385
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Come on, let's go. We shouldn't stand and watch him."
 
 386
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "OK," he said, and we moved slowly away.
 
 387
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But don't you think it's strange?" he asked, while we were
 getting into the car.
 
 388
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I mean, his father has been dead for about twenty years, and this young man comes here nearly every day, with fresh
 flowers, and prays beside the grave."
 
 389
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Yes, I suppose it is," I said.
 
 390
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But that's his business, not ours. And it doesn't help me
 with this accident. Come on, let's go."
 
 391
-00:52:36,341 --> 00:52:36,341
-CHAPTER NINE
+00:37:05,732 --> 00:37:05,732
+NINE
 
 392
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 An unhappy man
 
 393
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Liter that afternoon I had to meet Mr Jackson.
 
 394
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I didn't want to, but I had to.
 
 395
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He came into my office unhappily, and sat down in front of
 me.
 
 396
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He still had a bandage around his neck.
 
 397
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Good afternoon, Mr Jackson," I said.
 
 398
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I'm sorry, but I have investigated this accident very carefully now, and I will have to prosecute you for
 dangerous driving."
 
 399
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 His face went white, and I could see his hands begin to
 shake.
 
 400
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But... I'll lose my job," he said.
 
 401
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "You know that, don't you?"
 
 402
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Yes," I said.
 
 403
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I understand that, and I'm very sorry. But your car swerved and stopped suddenly for no reason, and two people were
 badly hurt in the other car. They were lucky. You nearly killed them."
 
 404
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But what about the man?" he shouted.
 
 405
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I told you, I saw a man! He crossed the road in front of
 me! I'm not crazy, you know - I saw him!"
 
 406
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I know," I said.
 
 407
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "And I think you believe it yourself. But we've looked for that man, and we can't find him. Two students saw the
 accident from the side of the road, you know, but they didn't see a man who crossed the road either. I'm sorry, Mr Jackson, but nobody else saw this man - only you. Perhaps your doctor can explain it, but I can't."
 
 408
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 His hands were shaking even more now, and for a moment he
 couldn't speak.
 
 409
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Perhaps he's going to have a heart attack now, I thought,
 here in this room.
 
 410
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 After a moment he stood up and walked to the door.
 
 411
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 At the door he turned and stared at me.
 
 412
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "You..." he began.
 
 413
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "You're wrong! I'm not mad, you know, and I'm not ill either! You wait! One day you'll see something like this,
 and no one will believe you either. Then you'll know how I feel!"
 
 414
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He walked out, shutting the door loudly behind him.
 
 415
-00:52:36,341 --> 00:52:36,341
-CHAPTER TEN
+00:37:05,732 --> 00:37:05,732
+TEN
 
 416
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The return
 
 417
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 That Saturday, I had to go to the University.
 
 418
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 My younger sister, Elisabeth, had just finished her studies,
 and she was getting her degree.
 
 419
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 My parents had come to watch, and we were all going out for
 a meal afterwards.
 
 420
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I put on a nice dress after work and went to the University.
 
 421
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 When I got there, we sat and watched and listened, and then
 everyone had tea outside on the grass.
 
 422
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 It was a funny day: all the students were wearing good clothes, instead of their normal jeans and T-shirts, and
 they all took their parents round to meet their friends and their friends" parents. Everyone was standing there, talking to strangers and feeling a little embarrassed.
 
 423
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I was just getting myself another cup of tea when I saw him. He was standing there with a cup of tea in his hand, and a
 silly smile on his face - the hitch-hiker!
 
 424
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I stood quite still and watched him. He was standing in a group with two young men - students - and two older people.
 They talked and smiled for a few minutes, and then the hitch-hiker and one of the students moved away and began to talk to another family group.
 
 425
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "That student is his son!"
 
 426
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I thought.
 
 427
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "And I know him, too! He's the young man we saw in the
 cemetery!"
 
 428
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The hitch-hiker was still very pale and he was still wearing
 that old-fashioned suit.
 
 429
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I noticed another strange thing, too - none of the other
 parents talked to him.
 
 430
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 In fact, one man nearly walked straight into him.
 
 431
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 But I didn't think much about that, then.
 
 432
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I knew that I had to talk to him - perhaps he could help me
 about the accident, even now.
 
 433
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I smiled, and walked towards him.
 
 434
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Hello," I said.
 
 435
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I didn't think that I'd see you again!"
 
 436
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He turned quickly, and for a moment I was sure he was
 afraid.
 
 437
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Or perhaps I was the first person who had spoken to him that
 afternoon.
 
 438
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 But then he smiled too.
 
 439
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "How nice," he said.
 
 440
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "You're the lady who gave me a lift into town a week ago,
 aren't you?"
 
 441
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 So he remembered me, too.
 
 442
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 That was interesting.
 
 443
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He looked worried.
 
 444
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But you're a policewoman, aren't you? So you can't be a student, and you're not old enough to be a parent. So why
 are you here? Has there been a crime?"
 
 445
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "No," I said.
 
 446
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "My sister's getting her degree, that's all. Is this your
 son?"
 
 447
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Yes," he said.
 
 448
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Michael, come and meet my policewoman friend. She gave me a
 lift in her car the other day."
 
 449
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Michael smiled and shook my hand, but I thought he looked a
 little nervous.
 
 450
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "That... er... that was very kind of you," he said.
 
 451
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "My father doesn't have a car, and he's always missing the bus. He never manages to catch the bus if I don't take him
 to the bus-stop myself."
 
 452
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I didn't know what to say.
 
 453
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "If he's the young man we saw in the cemetery," I thought,
 "then his father's dead! But he says this man is his
 father!"
 
 454
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The father smiled again."
 
 455
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 These young people!" he said. They think they know everything. But really it's my son who's always getting into
 trouble. I have to look after him all the time, you know."
 
 456
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 People were beginning to go home.
 
 457
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I remembered that the hitch-hiker didn't have a car.
 
 458
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Can I give you another lift back into town?" I asked.
 
 459
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Yes, please," he said.
 
 460
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "That would be very kind. I... I'm getting old, you know. I
 get tired when I see too many people."
 
 461
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The son smiled, and left us.
 
 462
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 We walked to the car.
 
 463
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I didn't speak much.
 
 464
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I was thinking hard.
 
 465
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 What questions should I ask?
 
 466
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The hitch-hiker got into the car and smiled at me.
 
 467
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I hope we won't see another accident," he said.
 
 468
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I hate accidents. All my life, I've been afraid of cars. I'm so glad that Michael isn't going to work near cars or
 roads. He's got a job in a bookshop, you know, and he'll be able to walk to work. You can't be farther away from cars than that."
 
 469
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Yes," I said.
 
 470
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 It didn't sound very exciting to me.
 
 471
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Is this job in Lancaster?"
 
 472
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Oh, yes, of course." The man smiled his thin, pale smile.
 
 473
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "He doesn't want to work anywhere else. He comes to see me
 every day, you know."
 
 474
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "When I met you the other day, where had you been?" I asked.
 
 475
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "With Michael, of course," he said.
 
 476
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "At the University."
 
 477
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "How did you get there?"
 
 478
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I walked. It was a nice day."
 
 479
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Did you cross the road about ten minutes before you met
 me?" I asked.
 
 480
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Did you walk in front of a car, perhaps?"
 
 481
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He looked surprised and unhappy.
 
 482
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "No... no, of course I didn't."
 
 483
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Are you sure? Quite sure? Because the driver of one of the
 cars saw you, you know."
 
 484
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Saw me? What do you mean?"
 
 485
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "One of the drivers in that accident saw a man, just like you, who walked straight across the road in front of him.
 That's why he swerved and stopped. He thought he'd killed you!"
 
 486
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 The man's fingers were playing nervously with the seat-belt,
 and his face was whiter than ever.
 
 487
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "Oh, no. That isn't true. I was very careful, and anyway,
 nobody can see me when..."
 
 488
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "So you did cross the road?" We were near the centre of the
 town now, just outside the cemetery.
 
 489
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I stopped the car and turned to look at the man more
 closely.
 
 490
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "I think you'd better come back to the police station with
 me. I've got a few more questions to ask, Mr..."
 
 491
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 But then I remembered.
 
 492
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I still didn't know his name.
 
 493
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "It's... er... David. David Holland," he said.
 
 494
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He was still playing nervously with the seat-belt while he
 spoke.
 
 495
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "But I'm afraid I can't come to the police station. Thank
 you for the lift. I must go now. Goodbye."
 
 496
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I tried to stop him, but he was going already.
 
 497
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Going in a way that was not normal at all.
 
 498
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 He had not opened the door, but his leg and half of his body
 were already halfway through it.
 
 499
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I couldn't speak, I was too surprised.
 
 500
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 And as I watched, the other parts of his body - that thin, pale body in the strange, old-fashioned clothes - went
 through the door as well.
 
 501
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 Through the door, right through the steel car door.
 
 502
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 And then he walked quickly away, and walked straight through
 the closed metal gate into the cemetery.
 
 503
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I didn't see where he went.
 
 504
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I was too shocked to move.
 
 505
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 When at last I got out of the car, and walked into the
 cemetery, he was not there.
 
 506
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 But there were fresh flowers on the grave under the
 gravestone that said:
 
 507
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 David Holland
 
 508
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 1953-1978
 
 509
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 "He gave his life for his son"
 
 510
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I stood by the grave and thought for a long time.
 
 511
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 But I'm only an ordinary policewoman.
 
 512
-00:52:36,341 --> 00:52:36,341
+00:37:05,732 --> 00:37:05,732
 I can't arrest dead people, or people who aren't there.
 
 513
-00:52:36,341 --> 00:52:36,381
+00:37:05,732 --> 00:37:05,772
 I remembered the things poor Mr Jackson had said to me when he left my office, and I wondered what on earth I was going
 to do now.
 

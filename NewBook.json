@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "276",
+      "baslik": "The Hitch Hiker",
+      "aciklama": "B2 Intermediate+",
+      "thumbnail": "https://english-e-reader.net/covers/The_Hitch_Hiker-Tim_Vicary.jpg",
+      "kategori": "6",
+      "yazar": "Tim Vicary",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Hitch_Hiker.m4a",
+      "hardWord": "Text Analysis: Unique words: 766 Total words: 6296\n\n\tHard words: policewoman, hitchhiker, bookshop, whit,gravestone, moustache, lying, lapel, swerve, lunchtime, liter, hitch, thoughtfully, hiker, managed, bandage, losing, handkerchief, groan, trouser strangely, sergeant, loudly, thoughtful, afterward confused, sixty",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/The_Hitch_Hiker.epub",
+      "storyAcıklama": "A man was standing on the road and waiting for somebody to pick him up. He did not look like a usual hitchhiker, so Sue Fraser decided to give him a lift. Usually she does not pick up anybody, but today she stopped. There was something very strange about his appearance and behavior. While they were going, they saw a huge car crash. Sue worked in the police and she had to help. A driver, who was the cause of the accident, explained to her everything. A man had run to the road and the driver had to stop. A car behind hit him and the driver with his daughter were injured. The culprit said he had shot down a man. But the police didn't find the body. They thought the driver was crazy or his head was very injured. However, twenty years ago there was the same situation on that place.",
+      "tag": "detective accident  inspector  mystery",
+      "views": "17461"
+    },
+    {
       "id": "275",
       "baslik": "The Story of Troy",
       "aciklama": "B1+ Intermediate",

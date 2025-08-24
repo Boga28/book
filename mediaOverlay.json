@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "276",
+      "baslik": "The Hitch Hiker",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id276_The_Hitch_Hiker.srt",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/The_Hitch_Hiker.m4a"
+    },
+    {
       "id": "275",
       "baslik": "The Story of Troy",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id275_The_Story_of_Troy.srt",

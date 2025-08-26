@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "277",
+      "baslik": "Claws",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id277_Claws.srt",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Claws.m4a"
+    },
+    {
       "id": "276",
       "baslik": "The Hitch Hiker",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/master/srt/id276_The_Hitch_Hiker.srt",

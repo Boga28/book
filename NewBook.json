@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
-      {
+    {
+      "id": "278",
+      "baslik": "Trail by Sorcery",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://github.com/Boga28/book/blob/master/pics/Trial_by_Sorcery_Cover.jpg?raw=true",
+      "kategori": "4",
+      "yazar": "Richard Fierce",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Trial_by_Sorcery.m4a",
+      "hardWord": "Text Analysis: Unique words: 3439 Total words: 34370\n\n\t Hard words: involuntarily, responsibility, continuously, temporarily, inexplicable, inevitable, unfortunately, immediately, intermittently, anticipated, uncomfortable, exaggerated, incredulously, excommunicate, indeterminate, alphabetical, inappropriate, appreciation, unintentional, imagination, administrators, personality, inexorably, telepathically, curiosity, opportunity, horizontally, unnecessary, apologizing, illuminated, unexplainable, momentarily, occasionally, investigated, eventually, inexplicably, unsurprisingly, excruciating, erroneously, unmistakable, communication, uneducated, violently, reputation, hesitated, incorrectly, usually, surprisingly, evaluate, identity",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/Trial_by_Sorcery.epub",
+      "storyAcıklama": "Eldwin wants to follow in his father's footsteps and become a Dragon Guard, but not for the glory. With his family dead and their lands dying, the opportunity to join the dragon rider school is all he has. But before Eldwin can bond with a dragon and guard the skies, he must pass three tests to prove his worth.\n\nCompassion, magical aptitude, and armed combat.",
+      "tag": "Fantasy",
+      "views": "12783"
+    },
+    {
       "id": "277",
       "baslik": "Claws",
       "aciklama": "B1 Pre-Intermediate",

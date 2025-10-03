@@ -222,6 +222,226 @@
       "pronunciation": "/ˈɡriːf ˌstrɪkən/",
       "synonyms": ["heartbroken", "devastated", "sorrowful"],
       "category": "emotion"
+    },
+    "moustache": {
+      "variants": ["mustache"],
+      "partOfSpeech": "noun",
+      "definition": "hair growing on the upper lip",
+      "exampleSentence": "He stroked his long moustache thoughtfully.",
+      "difficulty": "B1",
+      "pronunciation": "/məˈstɑːʃ/",
+      "synonyms": [],
+      "category": "appearance"
+    },
+    "goulash": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a highly seasoned Hungarian stew of meat and vegetables",
+      "exampleSentence": "She served traditional beef goulash for dinner.",
+      "difficulty": "B2",
+      "pronunciation": "/ˈɡuːlæʃ/",
+      "synonyms": ["stew"],
+      "category": "food"
+    },
+    "receptionist": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a person employed to receive and assist visitors",
+      "exampleSentence": "The receptionist greeted guests at the hotel.",
+      "difficulty": "B1",
+      "pronunciation": "/rɪˈsepʃənɪst/",
+      "synonyms": [],
+      "category": "profession"
+    },
+    "barman": {
+      "variants": ["bartender", "barkeeper"],
+      "partOfSpeech": "noun",
+      "definition": "a person who serves drinks at a bar",
+      "exampleSentence": "The barman mixed a perfect cocktail.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈbɑːmən/",
+      "synonyms": ["bartender", "barkeeper"],
+      "category": "profession"
+    },
+    "enquiry": {
+      "variants": ["inquiry"],
+      "partOfSpeech": "noun",
+      "definition": "an act of asking for information; an official investigation",
+      "exampleSentence": "She made an enquiry about train times.",
+      "difficulty": "B2",
+      "pronunciation": "/ɪnˈkwaɪəri/",
+      "synonyms": ["inquiry", "question", "investigation"],
+      "category": "action"
+    },
+    "surrender": {
+      "variants": [],
+      "partOfSpeech": "verb",
+      "definition": "to stop resisting and submit to another's authority",
+      "exampleSentence": "The army had to surrender after the battle.",
+      "difficulty": "B2",
+      "pronunciation": "/səˈrendə/",
+      "synonyms": ["yield", "submit", "capitulate"],
+      "category": "action"
+    },
+    "interfere": {
+      "variants": [],
+      "partOfSpeech": "verb",
+      "definition": "to prevent something from being done properly; to become involved in a situation without being asked",
+      "exampleSentence": "Don't interfere with their plans.",
+      "difficulty": "B2",
+      "pronunciation": "/ˌɪntəˈfɪə/",
+      "synonyms": ["meddle", "intrude", "intervene"],
+      "category": "action"
+    },
+    "mugged": {
+      "variants": ["mug"],
+      "partOfSpeech": "verb",
+      "definition": "to attack and rob someone in a public place",
+      "exampleSentence": "He was mugged on his way home.",
+      "difficulty": "B2",
+      "pronunciation": "/mʌɡd/",
+      "synonyms": ["robbed", "attacked"],
+      "category": "crime"
+    },
+    "crossbow": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a weapon consisting of a bow fixed crosswise on a wooden stock",
+      "exampleSentence": "The medieval soldier used a crossbow.",
+      "difficulty": "B2",
+      "pronunciation": "/ˈkrɒsbəʊ/",
+      "synonyms": [],
+      "category": "weapon"
+    },
+    "swan": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a large waterbird with a long neck",
+      "exampleSentence": "The white swan glided across the lake.",
+      "difficulty": "A2",
+      "pronunciation": "/swɒn/",
+      "synonyms": [],
+      "category": "animal"
+    },
+    "wizard": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a man who has magical powers; an expert or genius",
+      "exampleSentence": "The wizard cast a powerful spell.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈwɪzəd/",
+      "synonyms": ["sorcerer", "magician", "expert"],
+      "category": "fantasy"
+    },
+    "bouquet": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "an attractively arranged bunch of flowers",
+      "exampleSentence": "He gave her a bouquet of roses.",
+      "difficulty": "B1",
+      "pronunciation": "/buˈkeɪ/",
+      "synonyms": ["bunch", "arrangement"],
+      "category": "object"
+    },
+    "carriage": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a wheeled vehicle for passengers, typically drawn by horses",
+      "exampleSentence": "The royal carriage arrived at the palace.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈkærɪdʒ/",
+      "synonyms": ["coach", "wagon"],
+      "category": "transportation"
+    },
+    "owl": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a bird of prey with large eyes and a hooked beak, active at night",
+      "exampleSentence": "An owl hooted in the darkness.",
+      "difficulty": "A2",
+      "pronunciation": "/aʊl/",
+      "synonyms": [],
+      "category": "animal"
+    },
+    "castle": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a large fortified building or group of buildings",
+      "exampleSentence": "The ancient castle stood on a hill.",
+      "difficulty": "A2",
+      "pronunciation": "/ˈkɑːsl/",
+      "synonyms": ["fortress", "stronghold", "palace"],
+      "category": "place"
+    },
+    "superwoman": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a woman with exceptional strength or ability",
+      "exampleSentence": "She's a superwoman - she manages work and family perfectly.",
+      "difficulty": "B2",
+      "pronunciation": "/ˈsuːpəˌwʊmən/",
+      "synonyms": [],
+      "category": "person"
+    },
+    "houseboat": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a boat that is or can be used as a dwelling",
+      "exampleSentence": "They lived on a houseboat on the river.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈhaʊsbəʊt/",
+      "synonyms": [],
+      "category": "place"
+    },
+    "scotch": {
+      "variants": ["Scotch"],
+      "partOfSpeech": "noun",
+      "definition": "whisky distilled in Scotland",
+      "exampleSentence": "He ordered a glass of scotch on the rocks.",
+      "difficulty": "B2",
+      "pronunciation": "/skɒtʃ/",
+      "synonyms": ["whisky"],
+      "category": "drink"
+    },
+    "overcoat": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a long warm coat worn over other clothing",
+      "exampleSentence": "He put on his overcoat before going out in the cold.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈəʊvəkəʊt/",
+      "synonyms": ["coat", "topcoat"],
+      "category": "clothing"
+    },
+    "august": {
+      "variants": ["August"],
+      "partOfSpeech": "adjective/noun",
+      "definition": "respected and impressive; or the eighth month of the year",
+      "exampleSentence": "The august leader commanded great respect.",
+      "difficulty": "B2",
+      "pronunciation": "/ɔːˈɡʌst/",
+      "synonyms": ["impressive", "majestic", "venerable"],
+      "category": "descriptive"
+    },
+    "sunshine": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "direct sunlight; a source of warmth and happiness",
+      "exampleSentence": "The sunshine brightened the room.",
+      "difficulty": "A2",
+      "pronunciation": "/ˈsʌnʃaɪn/",
+      "synonyms": ["sunlight"],
+      "category": "weather"
+    },
+    "cinema": {
+      "variants": ["movie theater"],
+      "partOfSpeech": "noun",
+      "definition": "a theater where movies are shown",
+      "exampleSentence": "We went to the cinema to watch a film.",
+      "difficulty": "A2",
+      "pronunciation": "/ˈsɪnəmə/",
+      "synonyms": ["movie theater", "picture house"],
+      "category": "place"
     }
   }
 }

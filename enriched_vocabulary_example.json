@@ -1,0 +1,176 @@
+{
+  "vocabularyEnrichmentFormat": {
+    "description": "Enhanced vocabulary structure for hardWord field",
+    "structure": {
+      "textAnalysis": {
+        "uniqueWords": "number",
+        "totalWords": "number"
+      },
+      "vocabulary": [
+        {
+          "word": "standardized form (lowercase, singular)",
+          "variants": ["alternative forms like A.M./a.m./am"],
+          "partOfSpeech": "noun/verb/adjective/adverb/etc",
+          "definition": "clear meaning in context",
+          "exampleSentence": "usage example from the text",
+          "difficulty": "A1/A2/B1/B2/C1/C2",
+          "pronunciation": "IPA or simplified",
+          "synonyms": ["similar words"],
+          "category": "time/place/emotion/action/etc"
+        }
+      ]
+    }
+  },
+  
+  "exampleEnrichedEntry": {
+    "id": "198",
+    "baslik": "The Canterville Ghost",
+    "aciklama": "B1 Pre-Intermediate",
+    "hardWord": {
+      "textAnalysis": {
+        "uniqueWords": 680,
+        "totalWords": 4175
+      },
+      "vocabulary": [
+        {
+          "word": "anarchist",
+          "variants": ["anarchis"],
+          "partOfSpeech": "noun",
+          "definition": "a person who believes in or advocates anarchism",
+          "exampleSentence": "The anarchist wanted to overthrow the government.",
+          "difficulty": "C1",
+          "pronunciation": "/ˈænəkɪst/",
+          "synonyms": ["rebel", "revolutionary"],
+          "category": "politics"
+        },
+        {
+          "word": "cheque",
+          "variants": ["check"],
+          "partOfSpeech": "noun",
+          "definition": "a written order to a bank to pay money",
+          "exampleSentence": "He wrote a cheque for the rent.",
+          "difficulty": "B1",
+          "pronunciation": "/tʃek/",
+          "synonyms": ["check", "bank draft"],
+          "category": "finance"
+        },
+        {
+          "word": "lord",
+          "variants": ["Lord"],
+          "partOfSpeech": "noun",
+          "definition": "a man of noble rank or high office",
+          "exampleSentence": "The lord of the manor lived in the castle.",
+          "difficulty": "B1",
+          "pronunciation": "/lɔːd/",
+          "synonyms": ["nobleman", "peer"],
+          "category": "social-status"
+        },
+        {
+          "word": "telepathy",
+          "variants": [],
+          "partOfSpeech": "noun",
+          "definition": "communication of thoughts or ideas by means other than the known senses",
+          "exampleSentence": "She seemed to read his mind through telepathy.",
+          "difficulty": "C1",
+          "pronunciation": "/təˈlepəθi/",
+          "synonyms": ["mind reading", "thought transference"],
+          "category": "paranormal"
+        },
+        {
+          "word": "shilling",
+          "variants": [],
+          "partOfSpeech": "noun",
+          "definition": "a former British coin worth one twentieth of a pound",
+          "exampleSentence": "It cost five shillings in those days.",
+          "difficulty": "B2",
+          "pronunciation": "/ˈʃɪlɪŋ/",
+          "synonyms": ["bob"],
+          "category": "money"
+        },
+        {
+          "word": "toxicology",
+          "variants": [],
+          "partOfSpeech": "noun",
+          "definition": "the branch of science concerned with the nature, effects, and detection of poisons",
+          "exampleSentence": "The toxicology report revealed the cause of death.",
+          "difficulty": "C2",
+          "pronunciation": "/ˌtɒksɪˈkɒlədʒi/",
+          "synonyms": [],
+          "category": "science"
+        },
+        {
+          "word": "fiancee",
+          "variants": ["fiancée", "fiancé"],
+          "partOfSpeech": "noun",
+          "definition": "a woman engaged to be married",
+          "exampleSentence": "He introduced his fiancee to his parents.",
+          "difficulty": "B2",
+          "pronunciation": "/fiˈɑːnseɪ/",
+          "synonyms": ["bride-to-be", "betrothed"],
+          "category": "relationships"
+        }
+      ]
+    }
+  },
+  
+  "timeWordStandardization": {
+    "description": "Standardized forms for time-related words",
+    "examples": {
+      "a.m.": {
+        "standard": "a.m.",
+        "variants": ["A.M.", "am", "AM"],
+        "definition": "ante meridiem - before noon",
+        "usage": "Use lowercase 'a.m.' with periods"
+      },
+      "p.m.": {
+        "standard": "p.m.",
+        "variants": ["P.M.", "pm", "PM"],
+        "definition": "post meridiem - after noon",
+        "usage": "Use lowercase 'p.m.' with periods"
+      },
+      "o'clock": {
+        "standard": "o'clock",
+        "variants": ["oclock", "o clock"],
+        "definition": "used to specify the hour",
+        "usage": "Use with apostrophe: o'clock"
+      }
+    }
+  },
+  
+  "commonWordStandardization": {
+    "description": "Rules for standardizing common word variations",
+    "rules": [
+      {
+        "rule": "Use American English spelling by default",
+        "examples": {
+          "color": ["colour"],
+          "favor": ["favour"],
+          "theater": ["theatre"]
+        }
+      },
+      {
+        "rule": "Use lowercase for common words unless proper noun",
+        "examples": {
+          "queen": ["Queen"],
+          "lord": ["Lord"],
+          "king": ["King"]
+        }
+      },
+      {
+        "rule": "Use singular form as standard",
+        "examples": {
+          "cat": ["cats"],
+          "dog": ["dogs"],
+          "child": ["children"]
+        }
+      },
+      {
+        "rule": "Use base form for verbs",
+        "examples": {
+          "run": ["running", "ran", "runs"],
+          "go": ["going", "went", "goes"]
+        }
+      }
+    ]
+  }
+}

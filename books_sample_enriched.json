@@ -1,0 +1,186 @@
+{
+  "meditasyonlar": [
+    {
+      "id": "198",
+      "baslik": "The Canterville Ghost",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://english-e-reader.net/covers/The_Canterville_Ghost-Oscar_Wilde.jpg",
+      "kategori": "4",
+      "yazar": "Oscar Wilde",
+      "sesdosyasi": "https://github.com/Boga28/Audio/raw/main/Stories/The_Canterville_Ghost.mp3",
+      "hardWord": {
+        "textAnalysis": {
+          "uniqueWords": 680,
+          "totalWords": 4175
+        },
+        "vocabulary": [
+          {
+            "word": "anarchist",
+            "variants": [
+              "anarchis"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "a person who believes in or tries to bring about anarchy; someone who rebels against any authority, established order, or ruling power",
+            "exampleSentence": "The anarchist refused to follow government rules.",
+            "difficulty": "C1",
+            "pronunciation": "/ˈænəkɪst/",
+            "synonyms": [
+              "rebel",
+              "revolutionary",
+              "insurgent"
+            ],
+            "category": "politics"
+          },
+          {
+            "word": "cheque",
+            "variants": [
+              "check"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "a written order to a bank to pay a stated sum from the drawer's account",
+            "exampleSentence": "He wrote a cheque for one hundred dollars.",
+            "difficulty": "B1",
+            "pronunciation": "/tʃek/",
+            "synonyms": [
+              "check",
+              "bank draft",
+              "money order"
+            ],
+            "category": "finance"
+          },
+          {
+            "word": "lord",
+            "variants": [
+              "Lord"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "a man of noble rank or high office; a feudal superior; a master",
+            "exampleSentence": "The lord of the manor lived in a grand castle.",
+            "difficulty": "B1",
+            "pronunciation": "/lɔːrd/",
+            "synonyms": [
+              "nobleman",
+              "peer",
+              "aristocrat",
+              "master"
+            ],
+            "category": "social-status"
+          },
+          {
+            "word": "painless",
+            "variants": [
+              "painles"
+            ],
+            "partOfSpeech": "adjective",
+            "definition": "not causing or involving pain; easy and simple",
+            "exampleSentence": "The dentist promised a painless procedure.",
+            "difficulty": "B1",
+            "pronunciation": "/ˈpeɪnləs/",
+            "synonyms": [
+              "pain-free",
+              "easy",
+              "effortless"
+            ],
+            "category": "descriptive"
+          },
+          {
+            "word": "telepathy",
+            "variants": [],
+            "partOfSpeech": "noun",
+            "definition": "the supposed communication of thoughts or ideas by means other than the known senses",
+            "exampleSentence": "She seemed to know what I was thinking through telepathy.",
+            "difficulty": "B2",
+            "pronunciation": "/təˈlepəθi/",
+            "synonyms": [
+              "mind reading",
+              "thought transference",
+              "ESP"
+            ],
+            "category": "paranormal"
+          },
+          {
+            "word": "shilling",
+            "variants": [
+              "bob"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "a former British coin worth one twentieth of a pound or twelve pence",
+            "exampleSentence": "The book cost two shillings and sixpence.",
+            "difficulty": "B1",
+            "pronunciation": "/ˈʃɪlɪŋ/",
+            "synonyms": [
+              "bob"
+            ],
+            "category": "money"
+          },
+          {
+            "word": "duchess",
+            "variants": [
+              "duches"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "the wife or widow of a duke; a woman holding a rank equivalent to duke in her own right",
+            "exampleSentence": "The duchess attended the royal ball.",
+            "difficulty": "B2",
+            "pronunciation": "/ˈdʌtʃɪs/",
+            "synonyms": [],
+            "category": "social-status"
+          },
+          {
+            "word": "headless",
+            "variants": [
+              "headles"
+            ],
+            "partOfSpeech": "adjective",
+            "definition": "without a head; lacking a leader or direction",
+            "exampleSentence": "The headless horseman rode through the night.",
+            "difficulty": "B1",
+            "pronunciation": "/ˈhedləs/",
+            "synonyms": [
+              "decapitated",
+              "leaderless"
+            ],
+            "category": "descriptive"
+          },
+          {
+            "word": "fiancée",
+            "variants": [
+              "fiancee",
+              "fiancé"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "a woman engaged to be married",
+            "exampleSentence": "He introduced his fiancée to his family.",
+            "difficulty": "B2",
+            "pronunciation": "/fiˈɑːnseɪ/",
+            "synonyms": [
+              "bride-to-be",
+              "betrothed"
+            ],
+            "category": "relationships"
+          },
+          {
+            "word": "aquarium",
+            "variants": [
+              "aquariu"
+            ],
+            "partOfSpeech": "noun",
+            "definition": "a transparent tank of water in which fish and other water creatures and plants are kept",
+            "exampleSentence": "We visited the aquarium to see tropical fish.",
+            "difficulty": "A2",
+            "pronunciation": "/əˈkweəriəm/",
+            "synonyms": [
+              "fish tank"
+            ],
+            "category": "place"
+          }
+        ]
+      },
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/App-Promote-2.epub",
+      "storyAcıklama": "A ghost story by Oscar Wilde.",
+      "tag": "short-story horror ghost",
+      "views": "20517",
+      "hardWordLegacy": "Text Analysis: Unique words: 680 Total words: 4175\n\n\tHard words: anarchis, cheque, lord, painles, telepathy, shilling, duches, headles, fiancee, aquariu"
+    }
+  ]
+}

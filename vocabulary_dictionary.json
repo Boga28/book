@@ -1,0 +1,227 @@
+{
+  "description": "Comprehensive vocabulary dictionary for enriching hardWord entries",
+  "note": "This dictionary provides detailed information for common difficult words found in the books",
+  
+  "words": {
+    "anarchist": {
+      "variants": ["anarchis"],
+      "partOfSpeech": "noun",
+      "definition": "a person who believes in or tries to bring about anarchy; someone who rebels against any authority, established order, or ruling power",
+      "exampleSentence": "The anarchist refused to follow government rules.",
+      "difficulty": "C1",
+      "pronunciation": "/ˈænəkɪst/",
+      "synonyms": ["rebel", "revolutionary", "insurgent"],
+      "category": "politics"
+    },
+    "cheque": {
+      "variants": ["check"],
+      "partOfSpeech": "noun",
+      "definition": "a written order to a bank to pay a stated sum from the drawer's account",
+      "exampleSentence": "He wrote a cheque for one hundred dollars.",
+      "difficulty": "B1",
+      "pronunciation": "/tʃek/",
+      "synonyms": ["check", "bank draft", "money order"],
+      "category": "finance"
+    },
+    "lord": {
+      "variants": ["Lord"],
+      "partOfSpeech": "noun",
+      "definition": "a man of noble rank or high office; a feudal superior; a master",
+      "exampleSentence": "The lord of the manor lived in a grand castle.",
+      "difficulty": "B1",
+      "pronunciation": "/lɔːrd/",
+      "synonyms": ["nobleman", "peer", "aristocrat", "master"],
+      "category": "social-status"
+    },
+    "telepathy": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "the supposed communication of thoughts or ideas by means other than the known senses",
+      "exampleSentence": "She seemed to know what I was thinking through telepathy.",
+      "difficulty": "B2",
+      "pronunciation": "/təˈlepəθi/",
+      "synonyms": ["mind reading", "thought transference", "ESP"],
+      "category": "paranormal"
+    },
+    "shilling": {
+      "variants": ["bob"],
+      "partOfSpeech": "noun",
+      "definition": "a former British coin worth one twentieth of a pound or twelve pence",
+      "exampleSentence": "The book cost two shillings and sixpence.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈʃɪlɪŋ/",
+      "synonyms": ["bob"],
+      "category": "money"
+    },
+    "toxicology": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "the branch of science concerned with the nature, effects, and detection of poisons",
+      "exampleSentence": "The toxicology report showed traces of arsenic.",
+      "difficulty": "C2",
+      "pronunciation": "/ˌtɒksɪˈkɒlədʒi/",
+      "synonyms": [],
+      "category": "science"
+    },
+    "duchess": {
+      "variants": ["duches"],
+      "partOfSpeech": "noun",
+      "definition": "the wife or widow of a duke; a woman holding a rank equivalent to duke in her own right",
+      "exampleSentence": "The duchess attended the royal ball.",
+      "difficulty": "B2",
+      "pronunciation": "/ˈdʌtʃɪs/",
+      "synonyms": [],
+      "category": "social-status"
+    },
+    "headless": {
+      "variants": ["headles"],
+      "partOfSpeech": "adjective",
+      "definition": "without a head; lacking a leader or direction",
+      "exampleSentence": "The headless horseman rode through the night.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈhedləs/",
+      "synonyms": ["decapitated", "leaderless"],
+      "category": "descriptive"
+    },
+    "painless": {
+      "variants": ["painles"],
+      "partOfSpeech": "adjective",
+      "definition": "not causing or involving pain; easy and simple",
+      "exampleSentence": "The dentist promised a painless procedure.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈpeɪnləs/",
+      "synonyms": ["pain-free", "easy", "effortless"],
+      "category": "descriptive"
+    },
+    "aquarium": {
+      "variants": ["aquariu"],
+      "partOfSpeech": "noun",
+      "definition": "a transparent tank of water in which fish and other water creatures and plants are kept",
+      "exampleSentence": "We visited the aquarium to see tropical fish.",
+      "difficulty": "A2",
+      "pronunciation": "/əˈkweəriəm/",
+      "synonyms": ["fish tank"],
+      "category": "place"
+    },
+    "ballroom": {
+      "variants": ["ballroo"],
+      "partOfSpeech": "noun",
+      "definition": "a large room for formal dancing",
+      "exampleSentence": "The couple danced in the grand ballroom.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈbɔːlruːm/",
+      "synonyms": ["dance hall"],
+      "category": "place"
+    },
+    "jealous": {
+      "variants": ["jealou"],
+      "partOfSpeech": "adjective",
+      "definition": "feeling or showing envy of someone or their achievements and advantages",
+      "exampleSentence": "She was jealous of her sister's success.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈdʒeləs/",
+      "synonyms": ["envious", "resentful", "covetous"],
+      "category": "emotion"
+    },
+    "fiancée": {
+      "variants": ["fiancee", "fiancé"],
+      "partOfSpeech": "noun",
+      "definition": "a woman engaged to be married",
+      "exampleSentence": "He introduced his fiancée to his family.",
+      "difficulty": "B2",
+      "pronunciation": "/fiˈɑːnseɪ/",
+      "synonyms": ["bride-to-be", "betrothed"],
+      "category": "relationships"
+    },
+    "doppelganger": {
+      "variants": ["doppelgänger"],
+      "partOfSpeech": "noun",
+      "definition": "an apparition or double of a living person; a look-alike",
+      "exampleSentence": "I saw my doppelganger walking down the street.",
+      "difficulty": "C1",
+      "pronunciation": "/ˈdɒpəlˌɡæŋə/",
+      "synonyms": ["double", "twin", "look-alike"],
+      "category": "paranormal"
+    },
+    "a.m.": {
+      "variants": ["A.M.", "am", "AM"],
+      "partOfSpeech": "adverb",
+      "definition": "ante meridiem - before noon (used to specify time between midnight and noon)",
+      "exampleSentence": "The meeting starts at 9 a.m.",
+      "difficulty": "A1",
+      "pronunciation": "/ˌeɪ ˈem/",
+      "synonyms": ["morning"],
+      "category": "time"
+    },
+    "p.m.": {
+      "variants": ["P.M.", "pm", "PM"],
+      "partOfSpeech": "adverb",
+      "definition": "post meridiem - after noon (used to specify time between noon and midnight)",
+      "exampleSentence": "The store closes at 6 p.m.",
+      "difficulty": "A1",
+      "pronunciation": "/ˌpiː ˈem/",
+      "synonyms": ["afternoon", "evening"],
+      "category": "time"
+    },
+    "o'clock": {
+      "variants": ["oclock", "o clock"],
+      "partOfSpeech": "adverb",
+      "definition": "used to specify the exact hour",
+      "exampleSentence": "Dinner is at seven o'clock.",
+      "difficulty": "A1",
+      "pronunciation": "/əˈklɒk/",
+      "synonyms": [],
+      "category": "time"
+    },
+    "queen": {
+      "variants": ["Queen"],
+      "partOfSpeech": "noun",
+      "definition": "a female monarch; the wife of a king",
+      "exampleSentence": "The queen ruled the kingdom wisely.",
+      "difficulty": "A2",
+      "pronunciation": "/kwiːn/",
+      "synonyms": ["monarch", "sovereign", "ruler"],
+      "category": "social-status"
+    },
+    "detective": {
+      "variants": [],
+      "partOfSpeech": "noun",
+      "definition": "a person, especially a police officer, whose occupation is to investigate crimes",
+      "exampleSentence": "The detective solved the mystery.",
+      "difficulty": "B1",
+      "pronunciation": "/dɪˈtektɪv/",
+      "synonyms": ["investigator", "sleuth", "inspector"],
+      "category": "profession"
+    },
+    "casualties": {
+      "variants": ["casualtie"],
+      "partOfSpeech": "noun",
+      "definition": "people killed or injured in a war or accident",
+      "exampleSentence": "The war resulted in many casualties.",
+      "difficulty": "B2",
+      "pronunciation": "/ˈkæʒuəltiz/",
+      "synonyms": ["victims", "fatalities"],
+      "category": "war"
+    },
+    "newlyweds": {
+      "variants": ["newlywed"],
+      "partOfSpeech": "noun",
+      "definition": "a recently married person",
+      "exampleSentence": "The newlyweds went on their honeymoon.",
+      "difficulty": "B1",
+      "pronunciation": "/ˈnjuːliwedz/",
+      "synonyms": ["newly married couple"],
+      "category": "relationships"
+    },
+    "grief-stricken": {
+      "variants": [],
+      "partOfSpeech": "adjective",
+      "definition": "overwhelmed with deep sorrow",
+      "exampleSentence": "The grief-stricken family mourned their loss.",
+      "difficulty": "B2",
+      "pronunciation": "/ˈɡriːf ˌstrɪkən/",
+      "synonyms": ["heartbroken", "devastated", "sorrowful"],
+      "category": "emotion"
+    }
+  }
+}

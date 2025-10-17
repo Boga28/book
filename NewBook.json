@@ -3896,8 +3896,8 @@
   "kategori": [
     {
       "id": "1",
-      "categoryName": "Mixed Books,Recently Added,A1 Starter,A2 Elementary,B1 Pre-Intermediate,B1+ Intermediate,B2 Intermediate+,B2+ Upper-Intermediate,C1 Advanced,C2 Unabridged",
-      "categoryCode": "0,1,2,3,4,5,6,7,8,9",
+      "categoryName": "Recently Added,Mixed Books,A1 Starter,A2 Elementary,B1 Pre-Intermediate,B1+ Intermediate,B2 Intermediate+,B2+ Upper-Intermediate,C1 Advanced,C2 Unabridged",
+      "categoryCode": "1,0,2,3,4,5,6,7,8,9",
       "categoryImage": "https://github.com/Boga28/book/raw/master/image/1.jpg,https://github.com/Boga28/book/raw/master/image/2.jpg,https://github.com/Boga28/book/raw/master/image/3.jpg,https://github.com/Boga28/book/raw/master/image/4.jpg,https://github.com/Boga28/book/raw/master/image/5.jpg,https://github.com/Boga28/book/raw/master/image/6.jpg,https://github.com/Boga28/book/raw/master/image/7.jpg,https://github.com/Boga28/book/raw/master/image/8.jpg,https://github.com/Boga28/book/raw/master/image/9.jpg,https://github.com/Boga28/book/raw/master/image/10.jpg"
     }
   ],

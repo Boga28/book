@@ -1,549 +1,549 @@
 1
-00:00:00,000 --> 00:00:04,960
+00:00:00,000 --> 00:00:05,040
 Ali Baba and the Forty Thieves
 
 2
-00:00:04,960 --> 00:00:08,720
+00:00:05,040 --> 00:00:08,480
 by Antoine Galland
 
 3
-00:00:08,720 --> 00:00:11,240
+00:00:08,480 --> 00:00:11,480
 OPEN SESAME
 
 4
-00:00:11,240 --> 00:00:14,920
+00:00:11,480 --> 00:00:14,960
 Ali Baba was a woodcutter.
 
 5
-00:00:14,920 --> 00:00:20,040
+00:00:14,960 --> 00:00:19,920
 He was from Persia, in the Middle East.
 
 6
-00:00:20,040 --> 00:00:29,801
+00:00:19,920 --> 00:00:29,521
 One day he was at work in the woods when he saw forty men on
 forty black horses.
 
 7
-00:00:29,801 --> 00:00:33,761
+00:00:29,521 --> 00:00:33,401
 They stopped near a huge rock.
 
 8
-00:00:33,761 --> 00:00:41,681
+00:00:33,401 --> 00:00:40,721
 They had forty big, heavy, brown sacks on their backs.
 
 9
-00:00:41,681 --> 00:00:47,761
+00:00:40,721 --> 00:00:47,281
 Ali Baba watched the men as they got off their horses.
 
 10
-00:00:47,761 --> 00:00:59,641
+00:00:47,281 --> 00:00:58,601
 A tall man walked to the rock and said "Open Sesame." Ali
 Baba looked and looked again...
 
 11
-00:00:59,641 --> 00:01:04,841
+00:00:58,601 --> 00:01:03,361
 Something amazing happened... the rock opened!
 
 12
-00:01:04,841 --> 00:01:08,681
+00:01:03,361 --> 00:01:07,081
 Behind the rock was a cave.
 
 13
-00:01:08,681 --> 00:01:14,401
+00:01:07,081 --> 00:01:12,441
 The forty men went into the cave with their sacks.
 
 14
-00:01:14,401 --> 00:01:22,482
+00:01:12,441 --> 00:01:20,722
 Later, when the men came out of the cave, they didn't have
 their sacks.
 
 15
-00:01:22,482 --> 00:01:30,962
+00:01:20,722 --> 00:01:28,882
 "Close Sesame," said the tall man, and the rock closed!
 
 16
-00:01:30,962 --> 00:01:36,762
+00:01:28,882 --> 00:01:34,882
 The forty men got on their horses and went away.
 
 17
-00:01:36,762 --> 00:01:39,802
+00:01:34,882 --> 00:01:37,922
 Ali Baba went to the rock.
 
 18
-00:01:39,802 --> 00:01:43,562
+00:01:37,922 --> 00:01:41,642
 "Open Sesame," he said.
 
 19
-00:01:43,562 --> 00:01:52,802
+00:01:41,642 --> 00:01:50,802
 The rock opened... and inside the cave there were hundreds
 of sacks and wooden boxes.
 
 20
-00:01:52,802 --> 00:01:58,962
+00:01:50,802 --> 00:01:56,722
 Ali Baba opened a sack and... it was full of diamonds!
 
 21
-00:01:58,962 --> 00:02:06,202
+00:01:56,722 --> 00:02:03,642
 He opened another sack and... it was full of gold coins!
 
 22
-00:02:06,202 --> 00:02:11,523
+00:02:03,642 --> 00:02:09,003
 He opened a box and... it was full of silver!
 
 23
-00:02:11,523 --> 00:02:19,123
+00:02:09,003 --> 00:02:16,323
 He opened another box and... it was full of beautiful
 jewels!
 
 24
-00:02:19,123 --> 00:02:23,763
+00:02:16,323 --> 00:02:19,883
 "These forty men are thieves," thought Ali.
 
 25
-00:02:23,763 --> 00:02:30,643
+00:02:19,883 --> 00:02:27,723
 "I'm going to take some of these coins home for my wife!"
 
 26
-00:02:30,643 --> 00:02:37,203
+00:02:27,723 --> 00:02:34,683
 He put some gold coins into his bag and went out of the
 cave.
 
 27
-00:02:37,203 --> 00:02:40,443
+00:02:34,683 --> 00:02:37,923
 "Close Sesame," he said.
 
 28
-00:02:40,443 --> 00:02:43,843
+00:02:37,923 --> 00:02:41,363
 The rock closed and he went home.
 
 29
-00:02:43,843 --> 00:02:48,803
+00:02:41,363 --> 00:02:46,283
 Ali Baba's wife, Nasreen, was in the kitchen.
 
 30
-00:02:48,803 --> 00:02:57,123
+00:02:46,283 --> 00:02:55,083
 Ali Baba told her about the forty thieves and the treasure
 in the cave.
 
 31
-00:02:57,123 --> 00:03:02,284
+00:02:55,083 --> 00:03:00,524
 "This is wonderful news," said Nasreen.
 
 32
-00:03:02,284 --> 00:03:09,884
+00:03:00,524 --> 00:03:08,284
 "Can we take more money and buy a new house and new
 clothes?"
 
 33
-00:03:09,884 --> 00:03:15,764
+00:03:08,284 --> 00:03:13,844
 "Yes, but we mustn't tell anyone," said Ali.
 
 34
-00:03:15,764 --> 00:03:21,084
+00:03:13,844 --> 00:03:19,284
 "The forty thieves are very dangerous men."
 
 35
-00:03:21,084 --> 00:03:27,284
+00:03:19,284 --> 00:03:25,724
 Ali's brother, Cassim, was outside the kitchen.
 
 36
-00:03:27,284 --> 00:03:29,524
+00:03:25,724 --> 00:03:27,804
 He opened the door.
 
 37
-00:03:29,524 --> 00:03:35,364
+00:03:27,804 --> 00:03:33,644
 "Tell me where the cave is!" he shouted.
 
 38
-00:03:35,364 --> 00:03:43,084
+00:03:33,644 --> 00:03:41,124
 "You must tell me or I'm going to go and look for it
 myself!"
 
 39
-00:03:43,084 --> 00:03:49,404
+00:03:41,124 --> 00:03:47,724
 "No! Don't do that!" said Ali.
 
 40
-00:03:49,404 --> 00:04:05,405
+00:03:47,724 --> 00:04:03,245
 "Go into the woods. There's a huge rock near the big baobab tree. The rock opens when you say "Open Sesame" and closes
 when you say "Close Sesame".
 
 41
-00:04:05,405 --> 00:04:15,885
+00:04:03,245 --> 00:04:13,525
 Cassim went to the rock. "Open Sesame," he said. He went
 into the cave and the rock closed.
 
 42
-00:04:15,885 --> 00:04:24,325
+00:04:13,525 --> 00:04:22,285
 "This is amazing," thought Cassim. "Gold, silver...
 beautiful jewels!"
 
 43
-00:04:24,325 --> 00:04:31,685
+00:04:22,285 --> 00:04:29,685
 He had three big sacks with him and filled them with gold
 and silver and jewels.
 
 44
-00:04:31,685 --> 00:04:40,205
+00:04:29,685 --> 00:04:38,285
 He stood in front of the rock and said "Open Wheat", but the
 rock didn't open!
 
 45
-00:04:40,205 --> 00:04:46,606
+00:04:38,285 --> 00:04:44,126
 He said "Open Corn," but the rock didn't open!
 
 46
-00:04:46,606 --> 00:04:51,926
+00:04:44,126 --> 00:04:49,166
 "Oh! What is the right word?" he thought.
 
 47
-00:04:51,926 --> 00:04:53,486
+00:04:49,166 --> 00:04:50,846
 Cassim was angry.
 
 48
-00:04:53,486 --> 00:04:57,606
+00:04:50,846 --> 00:04:54,366
 He couldn't remember the word!
 
 49
-00:04:57,606 --> 00:05:02,566
+00:04:54,366 --> 00:04:59,406
 He sat down to think, but suddenly he heard horses.
 
 50
-00:05:02,566 --> 00:05:06,326
+00:04:59,406 --> 00:05:03,446
 The forty thieves were outside the cave!
 
 51
-00:05:06,326 --> 00:05:06,966
+00:05:03,446 --> 00:05:04,086
 Look!
 
 52
-00:05:06,966 --> 00:05:08,766
+00:05:04,086 --> 00:05:05,846
 A horse!
 
 53
-00:05:08,766 --> 00:05:11,526
+00:05:05,846 --> 00:05:08,886
 Someone's in our cave!
 
 54
-00:05:11,526 --> 00:05:18,606
+00:05:08,886 --> 00:05:15,526
 "He can't have our treasure! He must die!" said the tall
 man.
 
 55
-00:05:18,606 --> 00:05:25,206
+00:05:15,526 --> 00:05:21,726
 The next morning Cassim's wife, Zhila, went to Ali Baba.
 
 56
-00:05:25,206 --> 00:05:34,526
+00:05:21,726 --> 00:05:30,726
 "Cassim didn't come home last night! Do you know where he
 is?" she asked.
 
 57
-00:05:34,526 --> 00:05:38,767
+00:05:30,726 --> 00:05:34,807
 Ali told Zhila about the cave.
 
 58
-00:05:38,767 --> 00:05:49,447
+00:05:34,807 --> 00:05:45,487
 "Please go to the cave! The thieves are dangerous men.
 They'll kill him!" she said.
 
 59
-00:05:49,447 --> 00:05:52,367
+00:05:45,487 --> 00:05:48,567
 Ali went to the rock.
 
 60
-00:05:52,367 --> 00:05:56,407
+00:05:48,567 --> 00:05:52,967
 It was closed but he heard a noise.
 
 61
-00:05:56,407 --> 00:06:00,847
+00:05:52,967 --> 00:05:57,207
 "Cassim, are you there?" he said.
 
 62
-00:06:00,847 --> 00:06:06,727
+00:05:57,207 --> 00:06:03,767
 "Yes, yes... I'm here. Help me! I'm hurt."
 
 63
-00:06:06,727 --> 00:06:15,487
+00:06:03,767 --> 00:06:12,207
 "Open Sesame," said Ali Baba and the rock opened.
 
 64
-00:06:15,487 --> 00:06:20,527
+00:06:12,207 --> 00:06:17,087
 Cassim was on the floor... he couldn't walk!
 
 65
-00:06:20,527 --> 00:06:27,007
+00:06:17,087 --> 00:06:23,288
 "The thieves said I must die but I didn't die!" he said.
 
 66
-00:06:27,007 --> 00:06:37,768
+00:06:23,288 --> 00:06:33,768
 "You didn't die but you're hurt! Let's go home now and the
 doctor can come to the house later tonight."
 
 67
-00:06:37,768 --> 00:06:43,368
+00:06:33,768 --> 00:06:39,008
 The next afternoon the thieves went back to the cave.
 
 68
-00:06:43,368 --> 00:06:49,688
+00:06:39,008 --> 00:06:45,048
 "He isn't here!" said the tall man.
 
 69
-00:06:49,688 --> 00:06:59,768
+00:06:45,048 --> 00:06:54,808
 "We must find him. He was hurt! We must find the doctor who
 helped him!"
 
 70
-00:06:59,768 --> 00:07:04,408
+00:06:54,808 --> 00:06:59,088
 The tall man found the doctor's house.
 
 71
-00:07:04,408 --> 00:07:06,368
+00:06:59,088 --> 00:07:01,368
 He was angry.
 
 72
-00:07:06,368 --> 00:07:14,688
+00:07:01,368 --> 00:07:10,008
 "Where's the man you helped yesterday? Where's his house?"
 he asked.
 
 73
-00:07:14,688 --> 00:07:18,208
+00:07:10,008 --> 00:07:13,449
 "I don't know," said the doctor.
 
 74
-00:07:18,208 --> 00:07:23,329
+00:07:13,449 --> 00:07:18,569
 "It was dark and I couldn't see the road or the houses."
 
 75
-00:07:23,329 --> 00:07:29,329
+00:07:18,569 --> 00:07:26,929
 "Then take me to the house tonight when it's dark," said the
 tall man.
 
 76
-00:07:29,329 --> 00:07:42,569
+00:07:26,929 --> 00:07:38,569
 The, doctor took the tall man to Ali's house later that
 night and the tall man painted a white cross on the door.
 
 77
-00:07:42,569 --> 00:07:49,569
+00:07:38,569 --> 00:07:45,489
 "Now I know where Cassim and his family live," he thought.
 
 78
-00:07:49,569 --> 00:07:56,089
+00:07:45,489 --> 00:07:51,329
 "They must all die! And I've got a plan!"
 
 79
-00:07:56,089 --> 00:08:04,409
+00:07:51,329 --> 00:07:59,169
 The tall man went to the market and bought thirty-nine big
 oil pots.
 
 80
-00:08:04,409 --> 00:08:11,810
+00:07:59,169 --> 00:08:06,730
 "Put the pots on your horses then hide inside them" he told
 the thieves.
 
 81
-00:08:11,810 --> 00:08:23,410
+00:08:06,730 --> 00:08:17,770
 "I'm going to Ali Baba's house and you'll be in the pots.
 We'll kill them all tonight when they are asleep!"
 
 82
-00:08:23,410 --> 00:08:27,130
+00:08:17,770 --> 00:08:21,930
 That evening he went to Ali Baba's house.
 
 83
-00:08:27,130 --> 00:08:42,010
+00:08:21,930 --> 00:08:35,050
 "Good evening. I'm an oil merchant from India and I'm very tired," he said "Have you got a room where I can sleep and a
 place for my horses?"
 
 84
-00:08:42,010 --> 00:08:47,850
+00:08:35,050 --> 00:08:40,930
 "Of course! Welcome to my home," said Ali.
 
 85
-00:08:47,850 --> 00:08:52,010
+00:08:40,930 --> 00:08:45,090
 Zhila was in the kitchen with Nasreen.
 
 86
-00:08:52,010 --> 00:08:57,650
+00:08:45,090 --> 00:08:50,970
 "That man isn't Indian; he's Persian," said Zhila.
 
 87
-00:08:57,650 --> 00:09:05,931
+00:08:50,970 --> 00:08:58,611
 "I don't like him. Let's go and look at the pots on his
 horses."
 
 88
-00:09:05,931 --> 00:09:10,251
+00:08:58,611 --> 00:09:03,011
 They went out of the house into the garden.
 
 89
-00:09:10,251 --> 00:09:16,851
+00:09:03,011 --> 00:09:09,731
 There were lots of stars in the sky and everything was very
 quiet.
 
 90
-00:09:16,851 --> 00:09:26,131
+00:09:09,731 --> 00:09:18,051
 Suddenly they heard a man's voice: "When are we going to
 kill Cassim and AliBaba and their wives?"
 
 91
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "When they're asleep," said another voice.
 
 92
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The women looked at the pots on the horses.
 
 93
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 Thirty-nine pots in their garden... thirty-nine men in the
 pots, and one man in the house...
 
 94
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The Forty Thieves!
 
 95
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Quickly!" said Zhila.
 
 96
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Open the gate."
 
 97
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 Nasreen opened the gate.
 
 98
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Shoo, shoo, go away! Shoo, shoo, go away!" they shouted at
 the horses.
 
 99
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The horses ran out of the garden.
 
 100
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 They ran and they ran and they ran.
 
 101
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 They ran into the desert and never came back.
 
 102
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The tall man went into the garden when everyone was
 sleeping.
 
 103
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 His horses weren't there!
 
 104
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 His pots weren't there!
 
 105
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 His men weren't there!
 
 106
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 He ran out of the garden, he ran into the desert, but he
 couldn't see his horses or his men.
 
 107
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 He ran and he ran and he ran and he never came back.
 
 108
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 In the morning Cassim and Ali Baba woke up early and went
 into the garden.
 
 109
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "This is very strange," said Ali.
 
 110
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The oil merchant isn't here, and his horses aren't here!
 
 111
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 Where are they?"
 
 112
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "You men are very silly," said Nasreen.
 
 113
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Yes, very silly," said Zhila.
 
 114
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "The oil merchant from India wasn't an oil merchant from
 India."
 
 115
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "No," said Nasreen.
 
 116
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "He was the leader of the forty thieves!"
 
 117
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Where are the forty thieves now?" said Cassim.
 
 118
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "They ran into the desert, and let's hope they'll never come
 back!" said Zhila.
 
 119
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Tomorrow you can go and get the treasure and we'll give
 some to everyone in the village!"
 
 120
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The next day Cassim and Ali Baba went back to the rock with
 ten grey donkeys.
 
 121
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Open Wheat," said Cassim.
 
 122
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "No, silly! Don't you remember? It's not Wheat. It's
 Sesame!" said Ali Baba.
 
 123
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Of course, the word is "Sesame". Open Sesame," said Cassim.
 
 124
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 The rock opened and they put all the wooden boxes and sacks
 of treasure on the donkeys.
 
 125
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 Then they went back to the village and gave the treasure to
 the poor villagers.
 
 126
-00:09:26,131 --> 00:09:26,131
+00:09:18,051 --> 00:09:18,051
 "Thank you, Nasreen and Zhila" said the villagers.
 
 127
-00:09:26,131 --> 00:09:26,171
+00:09:18,051 --> 00:09:18,091
 "You're very clever women!"
 

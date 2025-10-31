@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "280",
+      "baslik": "Emil and the Detectives",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/srt/id280_Emil_and_the_Detectives.srt",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Emil_and_the_Detectives.m4a"
+    },
+    {
       "id": "279",
       "baslik": "Ali Baba and the Forty Thieves",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/srt/id279_Ali_Baba_and_the_Forty_Thieves.srt",

@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "280",
+      "baslik": "Emil and the Detectives",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://english-e-reader.net/covers/Emil_and_the_Detectives-Kastner_Erich.jpg",
+      "kategori": "4",
+      "yazar": "Kastner Erich",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/main/Stories/Emil_and_the_Detectives.m4a",
+      "hardWord": "Text Analysis: Unique words: 949 Total words: 11364\n\n\tHard words: washroo postman, schoolboy, shelve, tra doorman, lying, typing, prick, doorbell, ringing, gateway, careles tidy, losing, wisely, railway, fin, cinema, hopeles seventy, eighty, fingerprint, rude, grandson, noisy, carriage, sew, reported, sensible",
+      "storyUrl": "https://github.com/Boga28/book/raw/master/Epubs/Emil_and_the_Detectives.epub",
+      "storyAcıklama": "It's an exciting story for children from the German author Erich Kastner. He loved children very much and always wanted to become a teacher. But hard times for Germany at the beginning of the XX century changed his plans. He became a children's author and had a great success. Erich Kastner understood the inner world of a child and reminded the adults, that they were the children too. That's why his books are so popular. The writer believed in human kindness, honesty and integrity and included all these things into his works. This book is about Emil Fischer. He is a schoolboy and lives with his mother in the village. Once his mother gave him a lot of money for his grandma. She asked him to pass it to granny when he would arrive at the city. It's Emil's first trip and he's nervous. He tried to hide this money in his pocket. After he had woken up, he discovered the absence of the sum. Now he has to get granny's money back.",
+      "tag": "detective  children  adventure  investigation",
+      "views": "25234"
+    },
+    {
       "id": "279",
       "baslik": "Ali Baba and the Forty Thieves",
       "aciklama": "A2 Elementary",

@@ -1,1760 +1,1360 @@
 1
-00:00:00,080 --> 00:00:00,880
+00:00:00,219 --> 00:00:01,100
 CHAPTER ONE
 
 2
-00:00:03,120 --> 00:00:04,000
+00:00:03,240 --> 00:00:04,119
 The Nursery
 
 3
-00:00:05,920 --> 00:00:12,320
-Wendy, John and Michael Darling 
-live in a lovely house in London.
+00:00:06,039 --> 00:00:12,579
+Wendy, John and Michael Darling live in a lovely house in London.
 
 4
-00:00:13,280 --> 00:00:15,920
+00:00:13,500 --> 00:00:16,059
 They have got a big, sunny nursery.
 
 5
-00:00:16,640 --> 00:00:20,560
-There are colourful pictures 
-and a big clock on the wall.
+00:00:16,940 --> 00:00:20,939
+There are colourful pictures and a big clock on the wall.
 
 6
-00:00:21,760 --> 00:00:23,680
+00:00:22,020 --> 00:00:24,000
 There are toys here and there.
 
 7
-00:00:24,960 --> 00:00:27,120
+00:00:25,219 --> 00:00:27,319
 The Darlings are a happy family.
 
 8
-00:00:28,480 --> 00:00:33,760
-Mr Darling and Mrs Darling 
-love their children very much.
+00:00:28,719 --> 00:00:34,159
+Mr Darling and Mrs Darling love their children very much.
 
 9
-00:00:35,280 --> 00:00:44,320
-Wendy is the first child, John is 
-the second and Michael is the third.
+00:00:35,540 --> 00:00:43,139
+Wendy is the first child, John is the second and Michael is the third.
 
 10
-00:00:44,320 --> 00:00:49,760
-The children's nanny is called Nana 
-and she is a big Newfoundland dog!  
+00:00:44,599 --> 00:00:50,000
+The children's nanny is called Nana and she is a big Newfoundland dog!
 
 11
-00:00:50,800 --> 00:00:55,360
-Her kennel is in the nursery 
-and she is a wonderful nanny.
+00:00:51,099 --> 00:00:55,579
+Her kennel is in the nursery and she is a wonderful nanny.
 
 12
-00:00:55,920 --> 00:00:59,280
+00:00:56,219 --> 00:00:59,759
 She loves the children and the children love her.
 
 13
-00:01:00,880 --> 00:01:05,680
-One evening Mr and Mrs Darling 
-want to go to a dinner party.
+00:01:01,119 --> 00:01:05,919
+One evening Mr and Mrs Darling want to go to a dinner party.
 
 14
-00:01:06,320 --> 00:01:08,160
+00:01:06,559 --> 00:01:08,439
 They have their best clothes on.
 
 15
-00:01:09,600 --> 00:01:14,320
-'Nana, it's time to put the 
-children to bed,' says Mrs Darling.
+00:01:09,779 --> 00:01:14,599
+"Nana, it's time to put the children to bed," says Mrs Darling.
 
 16
-00:01:15,040 --> 00:01:16,560
+00:01:15,279 --> 00:01:16,839
 Nana goes to the bathroom.
 
 17
-00:01:19,200 --> 00:01:22,080
+00:01:19,519 --> 00:01:24,139
 She turns on the hot water for Michael's bath.
 
 18
-00:01:23,840 --> 00:01:26,880
-She puts her paw in the water 
-to check the temperature.
+00:01:24,199 --> 00:01:27,119
+She puts her paw in the water to check the temperature.
 
 19
-00:01:27,600 --> 00:01:28,800
+00:01:27,860 --> 00:01:29,119
 It's perfect!
 
 20
-00:01:30,000 --> 00:01:34,080
-'I don't want to have a 
-bath!' says little Michael.
+00:01:30,220 --> 00:01:33,839
+"I don't want to have a bath!" says little Michael.
 
 21
-00:01:34,080 --> 00:01:38,560
+00:01:34,559 --> 00:01:38,859
 But Nana is a firm nanny and Michael has his bath.
 
 22
-00:01:39,520 --> 00:01:42,320
+00:01:40,000 --> 00:01:42,619
 Then Nana gives the children their pyjamas.
 
 23
-00:01:43,200 --> 00:01:44,640
+00:01:43,459 --> 00:01:44,899
 Now they are ready for bed.
 
 24
-00:01:46,320 --> 00:01:49,840
+00:01:46,579 --> 00:01:50,179
 Mrs Darling comes into the nursery and smiles.
 
 25
-00:01:50,640 --> 00:01:54,240
-'Good work, Nana! I see the 
-children are ready for bed.'
+00:01:50,839 --> 00:01:56,839
+"Good work, Nana! I see the children are ready for bed." Nana wags her big tail.
 
 26
-00:01:55,040 --> 00:01:56,560
-Nana wags her big tail.
-
-27
-00:01:58,240 --> 00:02:00,000
+00:01:58,500 --> 00:02:00,299
 Suddenly there is a noise.
 
-28
-00:02:00,800 --> 00:02:04,480
-Mrs Darling sees a young boy 
-outside the nursery window.
+27
+00:02:01,079 --> 00:02:04,698
+Mrs Darling sees a young boy outside the nursery window.
 
-29
-00:02:05,280 --> 00:02:07,840
+28
+00:02:05,598 --> 00:02:07,238
 She is very surprised.
 
-30
-00:02:09,600 --> 00:02:14,000
+29
+00:02:09,879 --> 00:02:14,218
 Nana barks and shuts the window quickly.
 
-31
-00:02:14,720 --> 00:02:17,520
+30
+00:02:15,038 --> 00:02:17,818
 The boy's shadow falls on the floor.
 
-32
-00:02:18,640 --> 00:02:20,240
+31
+00:02:18,959 --> 00:02:20,618
 The young boy flies away.
 
+32
+00:02:21,898 --> 00:02:24,258
+"Who's there?" asks Mrs Darling.
+
 33
-00:02:21,600 --> 00:02:24,080
-'Who's there?' asks Mrs Darling.
+00:02:25,118 --> 00:02:29,818
+She opens the window and looks outside, but she sees nothing.
 
 34
-00:02:24,800 --> 00:02:29,600
-She opens the window and looks 
-outside, but she sees nothing.
+00:02:30,838 --> 00:02:39,458
+Then she sees the boy's shadow on the floor and says, "Poor boy, this is his shadow. Let's put it in the drawer."
 
 35
-00:02:30,560 --> 00:02:37,200
-Then she sees the boy's shadow on the floor 
-and says, 'Poor boy, this is his shadow.
-
-36
-00:02:37,840 --> 00:02:39,120
-Let's put it in the drawer.'
-
-37
-00:02:40,720 --> 00:02:42,160
+00:02:40,999 --> 00:02:42,418
 The children are in bed.
 
-38
-00:02:43,280 --> 00:02:45,600
+36
+00:02:43,558 --> 00:02:45,898
 Mr Darling takes Nana to the garden.
 
+37
+00:02:46,639 --> 00:02:50,678
+Then he goes to the sitting room and waits for Mrs Darling.
+
+38
+00:02:52,158 --> 00:02:59,578
+Mrs Darling sings to the children and kisses them.
+
 39
-00:02:46,400 --> 00:02:50,400
-Then he goes to the sitting 
-room and waits for Mrs Darling.
-
-40
-00:02:51,920 --> 00:02:54,160
-Mrs Darling sings to the children  
-
-41
-00:02:58,400 --> 00:02:59,360
-and kisses them.
-
-42
-00:03:02,160 --> 00:03:03,840
+00:03:02,479 --> 00:03:03,958
 She is a perfect mother.
 
-43
-00:03:04,800 --> 00:03:07,200
+40
+00:03:05,118 --> 00:03:07,398
 Soon the three children are sleeping.
 
-44
-00:03:07,920 --> 00:03:10,480
+41
+00:03:08,238 --> 00:03:10,758
 Mr and Mrs Darling go to their bedroom.
 
-45
-00:03:11,440 --> 00:03:17,840
-They put on their coats 
-and go to the dinner party.
+42
+00:03:11,719 --> 00:03:15,058
+They put on their coats and go to the dinner party.
 
-46
-00:03:19,200 --> 00:03:20,080
+43
+00:03:19,438 --> 00:03:20,438
 CHAPTER TWO
 
-47
-00:03:21,680 --> 00:03:22,480
+44
+00:03:21,978 --> 00:03:23,058
 The Shadow
 
-48
-00:03:24,400 --> 00:03:27,200
+45
+00:03:24,698 --> 00:03:28,338
 The children are sleeping and dreaming.
 
-49
-00:03:28,080 --> 00:03:31,840
+46
+00:03:28,398 --> 00:03:30,918
 Suddenly the window opens.
 
-50
-00:03:33,120 --> 00:03:38,400
-A small ball of light enters 
-the nursery and flies around.
+47
+00:03:33,499 --> 00:03:39,598
+A small ball of light enters the nursery and flies around.
 
-51
-00:03:39,360 --> 00:03:42,800
+48
+00:03:39,658 --> 00:03:43,118
 It is a lovely fairy called Tinker Bell.
 
-52
-00:03:43,680 --> 00:03:45,840
+49
+00:03:43,959 --> 00:03:46,778
 She is looking for something.
 
+50
+00:03:47,018 --> 00:03:56,018
+After a moment a young boy enters the nursery and says, "Tink, where are you? Please find my shadow."
+
+51
+00:03:56,959 --> 00:04:00,717
+Tinker Bell finds his shadow in the drawer and gives it to him.
+
+52
+00:04:01,757 --> 00:04:05,997
+"Now I can stick the shadow to my feet with some soap," he thinks.
+
 53
-00:03:46,640 --> 00:03:51,200
-After a moment a young boy 
-enters the nursery and says,  
-
-54
-00:03:52,000 --> 00:03:55,760
-'Tink, where are you? Please find my shadow.'
-
-55
-00:03:56,640 --> 00:04:00,480
-Tinker Bell finds his shadow in 
-the drawer and gives it to him.
-
-56
-00:04:01,520 --> 00:04:05,680
-'Now I can stick the shadow to my 
-feet with some soap,' he thinks.
-
-57
-00:04:06,400 --> 00:04:09,840
+00:04:06,657 --> 00:04:10,117
 He tries and tries again, but he can't.
 
-58
-00:04:10,400 --> 00:04:13,840
+54
+00:04:10,697 --> 00:04:13,977
 He is very confused and starts crying.
 
-59
-00:04:15,280 --> 00:04:20,000
-Wendy wakes up and sees the 
-boy but she is not afraid.
+55
+00:04:15,537 --> 00:04:20,217
+Wendy wakes up and sees the boy but she is not afraid.
 
-60
-00:04:20,640 --> 00:04:22,800
+56
+00:04:20,918 --> 00:04:23,117
 His clothes are made of leaves.
 
+57
+00:04:24,317 --> 00:04:28,237
+"Little boy, why are you crying?" Wendy asks.
+
+58
+00:04:29,017 --> 00:04:33,278
+The boy takes off his cap and asks, "What's your name?"
+
+59
+00:04:34,357 --> 00:04:38,397
+"Wendy Moira Angela Darling. What's yours?"
+
+60
+00:04:39,177 --> 00:04:39,938
+"Peter Pan."
+
 61
-00:04:24,080 --> 00:04:27,840
-'Little boy, why are you crying?' Wendy asks.
+00:04:40,438 --> 00:04:41,437
+"Is that all?"
 
 62
-00:04:28,720 --> 00:04:33,040
-The boy takes off his cap 
-and asks, 'What's your name?'
+00:04:42,177 --> 00:04:44,117
+"Yes!" says Peter.
 
 63
-00:04:34,160 --> 00:04:37,280
-'Wendy Moira Angela Darling.
+00:04:44,477 --> 00:04:48,837
+Then he thinks, "My name is very, very short."
 
 64
-00:04:37,280 --> 00:04:38,080
-What's yours?'
+00:04:49,997 --> 00:04:54,778
+Wendy looks at his shadow and asks, "Can I help you with your shadow?"
 
 65
-00:04:38,960 --> 00:04:39,680
-'Peter Pan.'
+00:04:55,717 --> 00:04:57,617
+"Yes, please!" says Peter.
 
 66
-00:04:40,240 --> 00:04:42,000
-'Is that all?'
+00:04:58,418 --> 00:05:02,598
+Wendy gets her sewing basket and sews on Peter's shadow.
 
 67
-00:04:42,000 --> 00:04:44,240
-'Yes!' says Peter.
+00:05:03,537 --> 00:05:09,037
+After a few minutes she says, "Finished! Now you have your shadow again."
 
 68
-00:04:44,240 --> 00:04:48,560
-Then he thinks, 'My name is very, very short.'
-
-69
-00:04:49,760 --> 00:04:54,640
-Wendy looks at his shadow and asks, 
-'Can I help you with your shadow?'
-
-70
-00:04:55,520 --> 00:04:57,440
-'Yes, please!' says Peter.
-
-71
-00:04:58,160 --> 00:05:02,400
-Wendy gets her sewing basket 
-and sews on Peter's shadow.
-
-72
-00:05:03,200 --> 00:05:08,800
-After a few minutes she says, 'Finished! 
-Now you have your shadow again.'
-
-73
-00:05:09,440 --> 00:05:12,800
+00:05:09,717 --> 00:05:13,017
 Peter looks at the floor and sees his shadow.
 
-74
-00:05:16,160 --> 00:05:23,840
+69
+00:05:16,498 --> 00:05:19,918
 He is very happy and dances around the room.
 
-75
-00:05:26,960 --> 00:05:30,000
-'Oh, Wendy, you are wonderful!' says Peter.
+70
+00:05:27,197 --> 00:05:30,257
+"Oh, Wendy, you are wonderful!" says Peter.
 
-76
-00:05:30,560 --> 00:05:33,760
-'Do you really think so?' asks Wendy.
+71
+00:05:30,797 --> 00:05:33,957
+"Do you really think so?" asks Wendy.
 
-77
-00:05:34,480 --> 00:05:36,000
-'Yes,' says Peter.
+72
+00:05:34,717 --> 00:05:36,357
+"Yes," says Peter.
 
-78
-00:05:37,040 --> 00:05:40,560
+73
+00:05:37,278 --> 00:05:40,837
 Wendy smiles and gives Peter a kiss on the cheek.
 
-79
-00:05:41,920 --> 00:05:43,680
-'Oh!' says Peter.
+74
+00:05:42,117 --> 00:05:43,797
+"Oh!" says Peter.
 
-80
-00:05:43,680 --> 00:05:44,400
-'How nice!'
+75
+00:05:43,877 --> 00:05:44,797
+"How nice!"
 
-81
-00:05:45,760 --> 00:05:48,400
-'How old are you, Peter?' asks Wendy.
+76
+00:05:45,997 --> 00:05:48,557
+"How old are you, Peter?" asks Wendy.
 
-82
-00:05:49,440 --> 00:05:51,840
-'I don't know, but I am young.
+77
+00:05:49,657 --> 00:05:57,357
+"I don't know, but I am young. I don't want to grow up. I always want to be a boy and have fun."
 
-83
-00:05:52,560 --> 00:05:53,840
-I don't want to grow up.
-
-84
-00:05:54,560 --> 00:05:57,040
-I always want to be a boy and have fun.'
-
-85
-00:05:58,160 --> 00:06:06,240
+78
+00:05:58,437 --> 00:06:00,756
 Peter looks around the room for his fairy.
 
-86
-00:06:06,240 --> 00:06:08,720
+79
+00:06:06,516 --> 00:06:09,016
 He hears a noise and looks in a drawer.
 
-87
-00:06:09,680 --> 00:06:11,040
+80
+00:06:09,936 --> 00:06:11,356
 Tinker Bell flies out.
 
-88
-00:06:11,760 --> 00:06:16,560
-Wendy is delighted to see a 
-fairy, but Tinker Bell is afraid.
+81
+00:06:12,036 --> 00:06:16,856
+Wendy is delighted to see a fairy, but Tinker Bell is afraid.
 
-89
-00:06:17,200 --> 00:06:19,840
+82
+00:06:17,516 --> 00:06:19,477
 She hides behind the big clock.
 
+83
+00:06:24,217 --> 00:06:26,916
+"Where do you live, Peter?" asks Wendy.
+
+84
+00:06:27,896 --> 00:06:31,836
+"I live in Neverland with the Lost Boys," says Peter.
+
+85
+00:06:32,557 --> 00:06:37,596
+"Neverland? The Lost Boys? Who are they?" asks Wendy.
+
+86
+00:06:38,536 --> 00:06:59,897
+"The Lost Boys haven't got a mother or father. They are alone in the world and they live in Neverland. I am their Captain. In Neverland we fight the pirates. We also swim in the lagoon with the beautiful mermaids. Fairies live in the trees in the forest. The fairies are my friends," says Peter.
+
+87
+00:07:00,877 --> 00:07:03,396
+"Oh, what fun!" says Wendy.
+
+88
+00:07:04,436 --> 00:07:11,236
+"I must go back now. I must tell the Lost Boys a story. They love stories," says Peter.
+
+89
+00:07:11,277 --> 00:07:15,396
+"Don't go away! I know a lot of stories," says Wendy.
+
 90
-00:06:24,080 --> 00:06:26,720
-'Where do you live, Peter?' asks Wendy.
+00:07:16,376 --> 00:07:24,856
+"Then come with me, Wendy. You can tell us stories. We all want a mother. Please come," says Peter.
 
 91
-00:06:27,680 --> 00:06:31,600
-'I live in Neverland with 
-the Lost Boys,' says Peter.
+00:07:24,917 --> 00:07:27,396
+"But I can't fly," says Wendy.
 
 92
-00:06:32,320 --> 00:06:37,360
-'Neverland? The Lost Boys? 
-Who are they?' asks Wendy.
+00:07:28,396 --> 00:07:30,877
+"I can teach you to fly," says Peter.
 
 93
-00:06:38,240 --> 00:06:40,960
-'The Lost Boys haven't got a mother or father.
+00:07:31,696 --> 00:07:34,396
+"Can you teach John and Michael to fly too?"
 
 94
-00:06:41,520 --> 00:06:44,160
-They are alone in the world 
-and they live in Neverland.
+00:07:35,216 --> 00:07:37,196
+"Yes, of course," says Peter.
 
 95
-00:06:44,960 --> 00:06:46,160
-I am their Captain.
+00:07:37,936 --> 00:07:46,296
+"John! Michael! Wake up! This is Peter Pan. He's from Neverland. It's a beautiful place," says Wendy.
 
 96
-00:06:47,040 --> 00:06:49,360
-In Neverland we fight the pirates.
-
-97
-00:06:50,320 --> 00:06:53,440
-We also swim in the lagoon 
-with the beautiful mermaids.
-
-98
-00:06:54,400 --> 00:06:56,160
-Fairies live in the trees in the forest.
-
-99
-00:06:57,120 --> 00:06:59,680
-The fairies are my friends,' says Peter.
-
-100
-00:07:00,640 --> 00:07:03,200
-'Oh, what fun!' says Wendy.
-
-101
-00:07:04,160 --> 00:07:05,280
-'I must go back now.
-
-102
-00:07:05,920 --> 00:07:07,840
-I must tell the Lost Boys a story.
-
-103
-00:07:08,560 --> 00:07:11,040
-They love stories,' says Peter.
-
-104
-00:07:11,040 --> 00:07:16,160
-'Don't go away! I know a 
-lot of stories,' says Wendy.
-
-105
-00:07:16,160 --> 00:07:17,600
-'Then come with me, Wendy.
-
-106
-00:07:18,160 --> 00:07:20,400
-You can tell us stories.
-
-107
-00:07:20,400 --> 00:07:22,240
-We all want a mother.
-
-108
-00:07:22,240 --> 00:07:23,840
-Please come,' says Peter.
-
-109
-00:07:24,640 --> 00:07:27,200
-'But I can't fly,' says Wendy.
-
-110
-00:07:28,080 --> 00:07:30,640
-'I can teach you to fly,' says Peter.
-
-111
-00:07:31,520 --> 00:07:33,920
-'Can you teach John and Michael to fly too?'
-
-112
-00:07:34,960 --> 00:07:36,960
-'Yes, of course,' says Peter.
-
-113
-00:07:37,760 --> 00:07:41,440
-'John! Michael! Wake up! This is Peter Pan.
-
-114
-00:07:41,440 --> 00:07:42,480
-He's from Neverland.
-
-115
-00:07:43,440 --> 00:07:46,080
-It's a beautiful place,' says Wendy.
-
-116
-00:07:47,200 --> 00:07:50,480
+00:07:47,496 --> 00:07:50,316
 John and Michael are very surprised.
 
-117
-00:07:50,480 --> 00:07:51,920
-'We can go there with him.
+97
+00:07:50,696 --> 00:07:56,456
+"We can go there with him. But first we must learn to fly," Wendy says.
 
-118
-00:07:52,560 --> 00:07:56,000
-But first we must learn to fly,' Wendy says.
-
-119
-00:07:57,680 --> 00:08:01,520
+98
+00:07:57,917 --> 00:08:01,775
 Wendy, John and Michael are very excited.
 
-120
-00:08:02,080 --> 00:08:06,080
-They try to fly but fall on 
-the beds and on the floor.
+99
+00:08:02,355 --> 00:08:06,415
+They try to fly but fall on the beds and on the floor.
 
-121
-00:08:07,120 --> 00:08:09,200
-'No, no,' says Peter.
+100
+00:08:07,296 --> 00:08:09,076
+"No, no," says Peter.
 
-122
-00:08:09,200 --> 00:08:12,000
-'Here is some fairy dust.'
+101
+00:08:09,415 --> 00:08:14,736
+"Here is some fairy dust." He puts some fairy dust on their shoulders.
 
-123
-00:08:12,000 --> 00:08:14,480
-He puts some fairy dust on their shoulders.
+102
+00:08:16,135 --> 00:08:18,175
+"Now try again," says Peter.
 
-124
-00:08:15,920 --> 00:08:17,920
-'Now try again,' says Peter.
+103
+00:08:18,935 --> 00:08:22,175
+"Look, I can fly!" says Wendy.
 
-125
-00:08:18,800 --> 00:08:21,920
-'Look, I can fly!' says Wendy.
+104
+00:08:22,736 --> 00:08:24,935
+"I can too," says John.
 
-126
-00:08:22,480 --> 00:08:24,560
-'I can too,' says John.
+105
+00:08:25,576 --> 00:08:28,175
+"Me too," says little Michael.
 
-127
-00:08:25,360 --> 00:08:27,920
-'Me too,' says little Michael.
+106
+00:08:28,895 --> 00:08:32,516
+"Tink, show us the way to Neverland," says Peter.
 
-128
-00:08:28,640 --> 00:08:32,240
-'Tink, show us the way to Neverland,' says Peter.
+107
+00:08:33,496 --> 00:08:37,575
+They follow Tinker Bell and fly out of the nursery window.
 
-129
-00:08:33,200 --> 00:08:37,360
-They follow Tinker Bell and 
-fly out of the nursery window.
-
-130
-00:08:38,240 --> 00:08:41,760
+108
+00:08:38,475 --> 00:08:42,135
 In the garden Nana looks at the sky and barks.
 
-131
-00:08:45,520 --> 00:08:49,360
+109
+00:08:45,775 --> 00:08:49,095
 Mr and Mrs Darling return from the dinner party.
 
-132
-00:08:49,360 --> 00:08:53,840
+110
+00:08:49,656 --> 00:08:52,655
 They go into the nursery, but it is empty!
 
-133
-00:08:57,040 --> 00:08:58,000
+111
+00:08:57,295 --> 00:08:58,215
 CHAPTER THREE
 
-134
-00:08:58,960 --> 00:08:59,920
+112
+00:08:59,255 --> 00:09:00,295
 The Neverland
 
-135
-00:09:02,240 --> 00:09:11,600
-Wendy, John and Michael fly over cities, 
-towns, mountains, forests and seas.
+113
+00:09:02,475 --> 00:09:11,975
+Wendy, John and Michael fly over cities, towns, mountains, forests and seas.
 
-136
-00:09:12,560 --> 00:09:15,920
+114
+00:09:12,816 --> 00:09:16,215
 Finally they see an island in the sea below them.
 
-137
-00:09:17,200 --> 00:09:19,840
-'Look, that's Neverland,' says Peter.
+115
+00:09:17,375 --> 00:09:20,115
+"Look, that's Neverland," says Peter.
 
-138
-00:09:20,480 --> 00:09:22,880
-'Neverland!' say the children.
+116
+00:09:20,716 --> 00:09:23,216
+"Neverland!" say the children.
 
-139
-00:09:24,160 --> 00:09:30,960
-In Neverland the Lost Boys live in the 
-forest in a secret underground home.
+117
+00:09:24,396 --> 00:09:31,275
+In Neverland the Lost Boys live in the forest in a secret underground home.
 
-140
-00:09:31,840 --> 00:09:41,440
-There are six Lost Boys: Slightly Soiled, 
-Tootles, Nibs, Curly and the Twins.
+118
+00:09:32,115 --> 00:09:41,755
+There are six Lost Boys: Slightly Soiled, Tootles, Nibs, Curly and the Twins.
 
-141
-00:09:42,160 --> 00:09:43,760
+119
+00:09:42,475 --> 00:09:44,075
 They are waiting for Peter.
 
-142
-00:09:45,280 --> 00:09:48,320
+120
+00:09:45,555 --> 00:09:48,635
 Suddenly they hear the voices of the pirates.
 
-143
-00:09:49,200 --> 00:09:50,880
+121
+00:09:49,455 --> 00:09:51,255
 Nibs is very brave.
 
-144
-00:09:51,600 --> 00:09:57,040
-He goes out, hides behind a 
-tree and looks around him.
+122
+00:09:51,856 --> 00:09:57,275
+He goes out, hides behind a tree and looks around him.
 
-145
-00:09:58,160 --> 00:10:00,400
+123
+00:09:58,415 --> 00:10:00,674
 He sees the horrible pirates.
 
-146
-00:10:00,960 --> 00:10:02,800
+124
+00:10:01,234 --> 00:10:03,074
 They are walking in the forest.
 
-147
-00:10:03,440 --> 00:10:05,680
+125
+00:10:03,755 --> 00:10:05,954
 They are big and ugly.
 
-148
-00:10:06,720 --> 00:10:09,680
+126
+00:10:06,994 --> 00:10:09,954
 Their pirate ship is the Jolly Roger.
 
-149
-00:10:11,840 --> 00:10:14,880
-The pirates' captain is James Hook.
+127
+00:10:12,094 --> 00:10:58,854
+The pirates" captain is James Hook. He is a cruel pirate and a very bad man. He's got black eyes, black hair and a black beard. He hates Peter Pan. He's only got one arm. The other is a hook! In the past Peter Pan cut off Captain Hook's right arm during a fight. A crocodile ate the arm. Now the crocodile follows Captain Hook everywhere because he wants to eat him. The crocodile has an alarm clock in its stomach! Captain Hook can always hear it.
 
-150
-00:10:15,600 --> 00:10:19,520
-He is a cruel pirate and a very bad man.
+128
+00:10:59,714 --> 00:11:02,615
+"I know the Lost Boys live in this forest.
 
-151
-00:10:20,480 --> 00:10:25,840
-He's got black eyes, black hair and a black beard.
+129
+00:11:03,115 --> 00:11:06,554
+We must find them and Peter Pan!" says Captain Hook.
 
-152
-00:10:26,720 --> 00:10:28,560
-He hates Peter Pan.
+130
+00:11:07,074 --> 00:11:08,794
+"Tick, tock, tick, tock!"
 
-153
-00:10:29,360 --> 00:10:32,000
-He's only got one arm.
+131
+00:11:09,154 --> 00:11:11,734
+Captain Hook hears the alarm clock.
 
-154
-00:10:32,000 --> 00:10:40,640
-The other is a hook! In the past Peter Pan cut 
-off Captain Hook's right arm during a fight.
+132
+00:11:11,974 --> 00:11:16,355
+"Oh, no, the crocodile is coming to eat me!" says Captain Hook.
 
-155
-00:10:41,520 --> 00:10:43,680
-A crocodile ate the arm.
-
-156
-00:10:44,800 --> 00:10:50,720
-Now the crocodile follows Captain Hook 
-everywhere because he wants to eat him.
-
-157
-00:10:51,840 --> 00:10:54,880
-The crocodile has an alarm clock in its stomach!
-
-158
-00:10:55,760 --> 00:10:58,560
-Captain Hook can always hear it.
-
-159
-00:10:59,440 --> 00:11:02,800
-'I know the Lost Boys live in this forest.
-
-160
-00:11:02,800 --> 00:11:06,240
-We must find them and Peter 
-Pan!' says Captain Hook.
-
-161
-00:11:06,240 --> 00:11:11,840
-'Tick, tock, tick, tock!' Captain 
-Hook hears the alarm clock.
-
-162
-00:11:11,840 --> 00:11:16,560
-'Oh, no, the crocodile is coming 
-to eat me!' says Captain Hook.
-
-163
-00:11:16,560 --> 00:11:19,760
+133
+00:11:16,855 --> 00:11:20,054
 He runs away and the pirates follow him.
 
-164
-00:11:21,280 --> 00:11:24,640
+134
+00:11:21,554 --> 00:11:24,914
 Soon some Indians arrive in the forest.
 
-165
-00:11:25,360 --> 00:11:28,000
+135
+00:11:25,614 --> 00:11:28,214
 They are looking for the pirates.
 
-166
-00:11:28,000 --> 00:11:29,760
+136
+00:11:28,275 --> 00:11:30,054
 The pirates are their enemy.
 
-167
-00:11:30,880 --> 00:11:32,720
+137
+00:11:31,175 --> 00:11:33,034
 Tiger Lily is their leader.
 
-168
-00:11:33,680 --> 00:11:36,720
+138
+00:11:33,974 --> 00:11:37,074
 She is the beautiful daughter of the Indian chief.
 
-169
-00:11:37,600 --> 00:11:39,440
+139
+00:11:37,934 --> 00:11:40,714
 She loves Peter Pan.
 
-170
-00:11:40,480 --> 00:11:42,720
+140
+00:11:40,775 --> 00:11:43,194
 Tinker Bell and Wendy love him too.
 
-171
-00:11:44,160 --> 00:11:49,360
-The Indians go away and the Lost 
-Boys return to play in the forest.
+141
+00:11:44,474 --> 00:11:51,214
+The Indians go away and the Lost Boys return to play in the forest.
 
-172
-00:11:51,040 --> 00:11:59,120
-Then Nibs looks at the sky and says, 'Look, 
-there is a lovely white bird in the sky.'
+142
+00:11:51,275 --> 00:11:59,454
+Then Nibs looks at the sky and says, "Look, there is a lovely white bird in the sky."
 
-173
-00:12:00,000 --> 00:12:03,840
-'Is it really a bird?' the Lost Boys ask.
+143
+00:11:59,554 --> 00:12:04,094
+"Is it really a bird?" the Lost Boys ask.
 
-174
-00:12:04,880 --> 00:12:08,880
-Tinker Bell says, 'Yes, yes, it's a bird.
+144
+00:12:05,154 --> 00:12:16,033
+Tinker Bell says, "Yes, yes, it's a bird. It's a Wendy bird. You must shoot it!" Sometimes Tink is a bad fairy.
 
-175
-00:12:08,880 --> 00:12:09,840
-It's a Wendy bird.
-
-176
-00:12:10,720 --> 00:12:15,840
-You must shoot it!' Sometimes Tink is a bad fairy.
-
-177
-00:12:16,400 --> 00:12:20,000
+145
+00:12:16,713 --> 00:12:20,213
 She knows it is Wendy, but she doesn't like her.
 
-178
-00:12:21,920 --> 00:12:26,080
+146
+00:12:22,193 --> 00:12:26,273
 Nibs takes his bow and arrow and shoots Wendy.
 
-179
-00:12:27,040 --> 00:12:29,280
+147
+00:12:27,253 --> 00:12:29,613
 Poor Wendy falls to the ground.
 
-180
-00:12:30,160 --> 00:12:36,160
-The Lost Boys see Wendy and say, 'She's 
-not a bird! She's a lovely girl.'
+148
+00:12:30,453 --> 00:12:36,553
+The Lost Boys see Wendy and say, "She's not a bird! She's a lovely girl."
 
-181
-00:12:37,440 --> 00:12:42,880
-Peter flies down with John and 
-Michael and asks, 'Where is Wendy?'
+149
+00:12:37,693 --> 00:12:43,173
+Peter flies down with John and Michael and asks, "Where is Wendy?"
 
-182
-00:12:43,600 --> 00:12:46,000
-Tootles says, 'Here she is.'
+150
+00:12:43,873 --> 00:12:46,393
+Tootles says, "Here she is."
 
-183
-00:12:47,520 --> 00:12:51,680
-Peter goes over to her and asks, 'Wendy,  
+151
+00:12:47,793 --> 00:12:57,594
+Peter goes over to her and asks, "Wendy, are you all right?" Wendy slowly opens her eyes and smiles.
 
-184
-00:12:51,680 --> 00:12:57,280
-are you all right?' Wendy slowly 
-opens her eyes and smiles.
+152
+00:12:58,633 --> 00:13:01,734
+"Yes, but I'm very tired," she says.
 
-185
-00:12:58,480 --> 00:13:01,360
-'Yes, but I'm very tired,' she says.
-
-186
-00:13:02,800 --> 00:13:04,560
+153
+00:13:03,074 --> 00:13:04,873
 The Lost Boys are sorry.
 
-187
-00:13:05,280 --> 00:13:07,600
+154
+00:13:05,553 --> 00:13:07,893
 They decide to build her a little house.
 
-188
-00:13:08,560 --> 00:13:14,640
-When the house is ready Wendy says, 
-'What a lovely little house! Thank you.'
+155
+00:13:08,833 --> 00:13:14,993
+When the house is ready Wendy says, "What a lovely little house! Thank you."
 
-189
-00:13:15,280 --> 00:13:22,240
-'Can you be our mother now? Can you tell us 
-bedtime stories before we go to bed?' asks Nibs.
+156
+00:13:15,493 --> 00:13:22,513
+"Can you be our mother now? Can you tell us bedtime stories before we go to bed?" asks Nibs.
 
-190
-00:13:23,200 --> 00:13:25,120
-'Of course,' says Wendy.
+157
+00:13:23,414 --> 00:13:25,373
+"Of course," says Wendy.
 
-191
-00:13:26,080 --> 00:13:29,360
-'Come in and I can tell you 
-the story of Cinderella.'
+158
+00:13:26,273 --> 00:13:29,533
+"Come in and I can tell you the story of Cinderella."
 
-192
-00:13:30,320 --> 00:13:34,640
+159
+00:13:30,573 --> 00:13:34,873
 They enter, sit down and listen to Wendy's story.
 
-193
-00:13:35,280 --> 00:13:37,120
+160
+00:13:35,573 --> 00:13:37,433
 It is a wonderful story.
 
-194
-00:13:38,000 --> 00:13:40,800
+161
+00:13:38,274 --> 00:13:41,073
 Peter Pan is outside the house with his sword.
 
-195
-00:13:41,600 --> 00:13:47,840
+162
+00:13:41,914 --> 00:13:49,833
 He wants to protect Wendy and the Lost Boys.
 
-196
-00:13:49,680 --> 00:13:50,560
+163
+00:13:49,893 --> 00:13:50,873
 CHAPTER FOUR
 
-197
-00:13:51,280 --> 00:13:53,040
+164
+00:13:51,533 --> 00:13:55,414
 The Mermaid's Lagoon
 
-198
-00:13:57,200 --> 00:14:06,800
-One summer evening Peter, Wendy, John, Michael 
-and the Lost Boys go to the Mermaid's Lagoon.
+165
+00:13:57,533 --> 00:14:07,092
+One summer evening Peter, Wendy, John, Michael and the Lost Boys go to the Mermaid's Lagoon.
 
-199
-00:14:07,920 --> 00:14:12,240
-Beautiful mermaids live here 
-and they are Peter's friends.
+166
+00:14:08,152 --> 00:14:12,572
+Beautiful mermaids live here and they are Peter's friends.
 
-200
-00:14:12,960 --> 00:14:15,840
+167
+00:14:13,252 --> 00:14:16,193
 They swim and play in the blue lagoon.
 
-201
-00:14:16,880 --> 00:14:21,280
-Then they sit on Marooner's 
-Rock to comb their long hair.
+168
+00:14:17,113 --> 00:14:21,752
+Then they sit on Marooner's Rock to comb their long hair.
 
-202
-00:14:22,480 --> 00:14:24,160
+169
+00:14:22,792 --> 00:14:24,652
 They sit in the sun and laugh.
 
-203
-00:14:25,920 --> 00:14:31,200
-The children like the mermaids and 
-John says, 'I want to catch one!'  
+170
+00:14:26,212 --> 00:14:35,533
+The children like the mermaids and John says, "I want to catch one!" He tries, but the mermaid jumps into the water.
 
-204
-00:14:31,920 --> 00:14:35,280
-He tries, but the mermaid jumps into the water.
+171
+00:14:39,112 --> 00:14:42,912
+Peter says, "It is very difficult to catch a mermaid."
 
-205
-00:14:38,880 --> 00:14:42,640
-Peter says, 'It is very 
-difficult to catch a mermaid.'
+172
+00:14:43,472 --> 00:14:47,372
+Suddenly someone says, "Look, the pirates are coming!"
 
-206
-00:14:43,200 --> 00:14:47,040
-Suddenly someone says, 'Look, 
-the pirates are coming!'
+173
+00:14:47,992 --> 00:14:51,552
+A small boat with two pirates is coming to the lagoon.
 
-207
-00:14:47,680 --> 00:14:51,280
-A small boat with two pirates 
-is coming to the lagoon.
+174
+00:14:52,292 --> 00:14:57,212
+John, Michael and the Lost Boys jump off the rock and swim away.
 
-208
-00:14:52,080 --> 00:14:57,840
-John, Michael and the Lost Boys 
-jump off the rock and swim away.
-
-209
-00:15:00,720 --> 00:15:02,480
+175
+00:15:01,013 --> 00:15:02,732
 But Wendy stays with Peter.
 
-210
-00:15:03,200 --> 00:15:04,960
+176
+00:15:03,452 --> 00:15:05,272
 They hide behind the rock.
 
-211
-00:15:06,000 --> 00:15:07,600
+177
+00:15:06,273 --> 00:15:07,832
 Peter sees Tiger Lily.
 
-212
-00:15:08,240 --> 00:15:10,240
+178
+00:15:08,572 --> 00:15:10,772
 She is sitting in the small boat.
 
-213
-00:15:11,280 --> 00:15:14,480
+179
+00:15:11,553 --> 00:15:14,772
 Poor Tiger Lily is a prisoner of the pirates.
 
-214
-00:15:15,120 --> 00:15:16,880
-'Let's leave her on this rock.
+180
+00:15:15,332 --> 00:15:20,472
+"Let's leave her on this rock. When the sea rises, she will die!" says Smee.
 
-215
-00:15:16,880 --> 00:15:20,560
-When the sea rises, she will die!' says Smee.
-
-216
-00:15:20,560 --> 00:15:22,160
+181
+00:15:20,852 --> 00:15:22,553
 The two pirates laugh.
 
-217
-00:15:24,640 --> 00:15:27,440
+182
+00:15:24,932 --> 00:15:28,972
 It is already night and it is very dark.
 
-218
-00:15:28,480 --> 00:15:32,720
-Peter wants to save Tiger Lily and 
-thinks of something intelligent.
+183
+00:15:29,032 --> 00:15:33,112
+Peter wants to save Tiger Lily and thinks of something intelligent.
 
-219
-00:15:33,520 --> 00:15:36,160
-He imitates Captain Hook's voice and says,  
+184
+00:15:33,812 --> 00:15:44,152
+He imitates Captain Hook's voice and says, "Cut the ropes and let her go! Do as I say, you idiots! Let her go!" The two pirates are amazed.
 
-220
-00:15:36,880 --> 00:15:43,920
-'Cut the ropes and let her go! Do as I say, you 
-idiots! Let her go!' The two pirates are amazed.
+185
+00:15:44,772 --> 00:15:47,193
+"Can you hear Hook's voice?" asks Smee.
 
-221
-00:15:44,480 --> 00:15:46,880
-'Can you hear Hook's voice?' asks Smee.
+186
+00:15:47,693 --> 00:15:50,232
+"Yes, but what do we do?" asks Starkey.
 
-222
-00:15:47,440 --> 00:15:50,240
-'Yes, but what do we do?' asks Starkey.
+187
+00:15:50,472 --> 00:15:54,172
+"We must obey him and cut the ropes," says Smee.
 
-223
-00:15:50,240 --> 00:15:53,920
-'We must obey him and cut the ropes,' says Smee.
-
-224
-00:15:53,920 --> 00:15:56,960
+188
+00:15:54,272 --> 00:15:57,092
 They cut the ropes and Tiger Lily is free.
 
-225
-00:16:00,960 --> 00:16:03,760
+189
+00:15:57,112 --> 00:16:03,971
 She quickly jumps into the water and swims away.
 
-226
-00:16:04,480 --> 00:16:08,640
+190
+00:16:04,751 --> 00:16:08,991
 Captain Hook sees everything and he is furious.
 
-227
-00:16:09,360 --> 00:16:14,640
-'That horrid Peter Pan! This 
-time I must attack him,' he says.
+191
+00:16:09,552 --> 00:16:14,631
+"That horrid Peter Pan! This time I must attack him," he says.
 
-228
-00:16:14,640 --> 00:16:17,280
+192
+00:16:14,932 --> 00:16:17,491
 He swims to the rock and fights with Peter.
 
-229
-00:16:19,680 --> 00:16:21,920
+193
+00:16:19,971 --> 00:16:21,571
 It is a long fight.
 
-230
-00:16:21,920 --> 00:16:26,960
-The Captain hurts Peter with his 
-hook, but Peter fights courageously.
+194
+00:16:22,231 --> 00:16:27,331
+The Captain hurts Peter with his hook, but Peter fights courageously.
 
-231
-00:16:27,680 --> 00:16:33,280
-At last, Peter wins the fight and 
-Hook swims back to the Jolly Roger.
+195
+00:16:27,991 --> 00:16:33,411
+At last, Peter wins the fight and Hook swims back to the Jolly Roger.
 
-232
-00:16:34,320 --> 00:16:36,880
+196
+00:16:34,591 --> 00:16:37,091
 Peter is now alone on the rock with Wendy.
 
-233
-00:16:37,680 --> 00:16:40,960
-'The sea is rising and we 
-are in great danger here.
+197
+00:16:37,951 --> 00:16:43,372
+"The sea is rising and we are in great danger here. We must leave this rock," says Peter.
 
-234
-00:16:40,960 --> 00:16:43,120
-We must leave this rock,' says Peter.
+198
+00:16:44,291 --> 00:16:49,151
+"Oh, Peter, I am very tired and I cannot swim or fly."
 
-235
-00:16:44,080 --> 00:16:48,800
-'Oh, Peter, I am very tired 
-and I cannot swim or fly.'
-
-236
-00:16:49,520 --> 00:16:51,920
+199
+00:16:49,811 --> 00:16:52,271
 He sees a big kite with a long tail.
 
-237
-00:16:52,480 --> 00:16:55,120
+200
+00:16:52,811 --> 00:16:55,471
 It is flying slowly over the lagoon.
 
-238
-00:16:55,920 --> 00:17:02,560
-He takes the tail of the kite and says, 'Wendy, 
-hold on to this tail and fly away with the kite.'
+201
+00:16:56,211 --> 00:17:04,191
+He takes the tail of the kite and says, "Wendy, hold on to this tail and fly away with the kite." Wendy flies away.
 
-239
-00:17:02,560 --> 00:17:03,840
-Wendy flies away.
+202
+00:17:04,851 --> 00:17:08,091
+"The sea is rising. I must fly away," Peter thinks.
 
-240
-00:17:04,560 --> 00:17:05,600
-'The sea is rising.
+203
+00:17:09,392 --> 00:17:14,231
+When he gets home everyone is happy to see him especially Wendy.
 
-241
-00:17:05,600 --> 00:17:07,760
-I must fly away,' Peter thinks.
-
-242
-00:17:09,120 --> 00:17:17,840
-When he gets home everyone is 
-happy to see him especially Wendy.
-
-243
-00:17:19,200 --> 00:17:20,240
+204
+00:17:19,451 --> 00:17:20,571
 CHAPTER FIVE
 
-244
-00:17:20,960 --> 00:17:22,640
+205
+00:17:21,252 --> 00:17:22,991
 The Underground Home
 
-245
-00:17:24,560 --> 00:17:27,680
+206
+00:17:24,871 --> 00:17:28,032
 The Underground Home is a secret place.
 
-246
-00:17:28,800 --> 00:17:30,240
+207
+00:17:29,051 --> 00:17:30,591
 No one knows where it is.
 
-247
-00:17:31,040 --> 00:17:33,280
+208
+00:17:31,311 --> 00:17:33,611
 It is a happy, warm place.
 
-248
-00:17:34,160 --> 00:17:37,440
+209
+00:17:34,471 --> 00:17:37,791
 There is only one room with a big fireplace.
 
-249
-00:17:38,320 --> 00:17:40,560
+210
+00:17:38,651 --> 00:17:40,971
 Tinker Bell has her tiny room too.
 
-250
-00:17:42,160 --> 00:17:44,320
+211
+00:17:42,451 --> 00:17:45,352
 Wendy is a perfect mother.
 
-251
-00:17:45,120 --> 00:17:47,840
+212
+00:17:45,411 --> 00:17:48,191
 She cooks and sews for everyone.
 
-252
-00:17:48,880 --> 00:17:52,080
+213
+00:17:49,172 --> 00:17:52,511
 She also tells beautiful bedtime stories.
 
-253
-00:17:53,200 --> 00:17:57,680
-The Lost Boys are happy because 
-they finally have a mother.
+214
+00:17:53,471 --> 00:17:57,850
+The Lost Boys are happy because they finally have a mother.
 
-254
-00:17:58,880 --> 00:18:03,440
-John and Michael are happy because 
-there is a new adventure every day.
+215
+00:17:59,131 --> 00:18:03,810
+John and Michael are happy because there is a new adventure every day.
 
-255
-00:18:05,120 --> 00:18:07,360
+216
+00:18:05,370 --> 00:18:07,471
 Peter Pan is a perfect father.
 
-256
-00:18:08,000 --> 00:18:14,000
+217
+00:18:08,310 --> 00:18:11,650
 He brings home food and protects the family.
 
-257
-00:18:14,000 --> 00:18:17,840
-Wendy and Peter play with the 
-children and laugh with them.
+218
+00:18:14,250 --> 00:18:18,110
+Wendy and Peter play with the children and laugh with them.
 
-258
-00:18:20,320 --> 00:18:22,800
+219
+00:18:20,570 --> 00:18:23,110
 But one night something happens.
 
-259
-00:18:23,440 --> 00:18:26,560
+220
+00:18:23,730 --> 00:18:26,710
 Wendy tells the children this bedtime story:
 
-260
-00:18:27,600 --> 00:18:31,600
-'In the big city of London there are two parents.
+221
+00:18:27,850 --> 00:18:50,930
+"In the big city of London there are two parents. They are very sad because they cannot find their three children. Every night they leave the nursery window open. They wait and wait for their children to return. But they don't return. Poor parents! They are very sad without their children."
 
-261
-00:18:31,600 --> 00:18:35,520
-They are very sad because they 
-cannot find their three children.
+222
+00:18:51,910 --> 00:18:56,370
+"Oh, Wendy, this is the story of our parents," says John.
 
-262
-00:18:36,160 --> 00:18:39,200
-Every night they leave the nursery window open.
+223
+00:18:56,870 --> 00:18:58,770
+"Yes, it is," says Michael.
 
-263
-00:18:39,920 --> 00:18:43,520
-They wait and wait for their children to return.
+224
+00:18:59,471 --> 00:19:05,710
+Peter listens and says, "Sometimes parents forget their children and other children take their place."
 
-264
-00:18:44,240 --> 00:18:45,680
-But they don't return.
-
-265
-00:18:46,480 --> 00:18:50,720
-Poor parents! They are very 
-sad without their children.'
-
-266
-00:18:51,680 --> 00:18:56,080
-'Oh, Wendy, this is the story 
-of our parents,' says John.
-
-267
-00:18:56,640 --> 00:18:58,480
-'Yes, it is,' says Michael.
-
-268
-00:18:59,200 --> 00:19:03,840
-Peter listens and says, 'Sometimes 
-parents forget their children  
-
-269
-00:19:03,840 --> 00:19:05,840
-and other children take their place.'
-
-270
-00:19:05,840 --> 00:19:08,080
+225
+00:19:06,090 --> 00:19:07,890
 Wendy is very surprised.
 
-271
-00:19:08,080 --> 00:19:12,800
-'Oh, no!' she says! 'Perhaps there 
-are other children in our beds!  
+226
+00:19:08,290 --> 00:19:09,970
+"Oh, no!" she says!
 
-272
-00:19:13,440 --> 00:19:15,680
-John, Michael we must go home!'
+227
+00:19:10,430 --> 00:19:16,050
+"Perhaps there are other children in our beds! John, Michael we must go home!"
 
-273
-00:19:16,720 --> 00:19:20,640
-'Do we really have to?' ask John and Michael.
+228
+00:19:16,910 --> 00:19:20,930
+"Do we really have to?" ask John and Michael.
 
-274
-00:19:21,680 --> 00:19:23,840
-'Yes, we've got to return home.'
+229
+00:19:22,070 --> 00:19:23,910
+"Yes, we've got to return home."
 
-275
-00:19:24,480 --> 00:19:30,960
-The Lost Boys are sad and say, 
-'Oh, Wendy, please don't leave us!'
+230
+00:19:24,811 --> 00:19:31,430
+The Lost Boys are sad and say, "Oh, Wendy, please don't leave us!"
 
-276
-00:19:32,160 --> 00:19:33,360
-'Don't be sad.
+231
+00:19:32,370 --> 00:19:36,970
+"Don't be sad. You can come and live with us in London," says Wendy.
 
-277
-00:19:33,360 --> 00:19:36,720
-You can come and live with 
-us in London,' says Wendy.
+232
+00:19:37,550 --> 00:19:41,230
+"Oh, how wonderful!" the Lost Boys say.
 
-278
-00:19:37,360 --> 00:19:40,800
-'Oh, how wonderful!' the Lost Boys say.
+233
+00:19:41,950 --> 00:19:47,150
+"We can have a real family." They jump up and down with joy.
 
-279
-00:19:41,760 --> 00:19:43,840
-'We can have a real family.'
-
-280
-00:19:45,040 --> 00:19:47,280
-They jump up and down with joy.
-
-281
-00:19:47,280 --> 00:19:48,800
+234
+00:19:47,530 --> 00:19:49,710
 They dance around the room.
 
-282
-00:19:49,440 --> 00:19:52,000
+235
+00:19:49,750 --> 00:19:52,250
 But Peter is not happy.
 
-283
-00:19:52,000 --> 00:19:56,800
-He is very serious and says, 'I'm 
-not coming with you to London.
+236
+00:19:52,351 --> 00:20:00,609
+He is very serious and says, "I'm not coming with you to London. I don't want to grow up. I want to be a boy forever."
 
-284
-00:19:56,800 --> 00:19:58,240
-I don't want to grow up.
-
-285
-00:19:58,880 --> 00:20:00,400
-I want to be a boy forever.'
-
-286
-00:20:01,280 --> 00:20:03,200
+237
+00:20:01,569 --> 00:20:03,369
 Everyone says goodbye to Peter.
 
-287
-00:20:05,440 --> 00:20:08,800
+238
+00:20:05,689 --> 00:20:08,530
 Outside, the pirates are waiting for them!
 
-288
-00:20:08,800 --> 00:20:13,040
-The children come out of the underground 
-home and the pirates capture them.
+239
+00:20:09,109 --> 00:20:13,229
+The children come out of the underground home and the pirates capture them.
 
-289
-00:20:13,680 --> 00:20:15,680
+240
+00:20:13,970 --> 00:20:15,869
 Then they take them to the Jolly Roger.
 
-290
-00:20:16,400 --> 00:20:18,080
+241
+00:20:16,689 --> 00:20:18,370
 They don't make any noise.
 
-291
-00:20:18,640 --> 00:20:20,240
+242
+00:20:18,909 --> 00:20:20,549
 Peter doesn't know where they are.
 
-292
-00:20:21,360 --> 00:20:25,440
-He is sad without Wendy, John, 
-Michael and the Lost Boys.
+243
+00:20:21,649 --> 00:20:25,809
+He is sad without Wendy, John, Michael and the Lost Boys.
 
-293
-00:20:26,240 --> 00:20:28,480
+244
+00:20:26,530 --> 00:20:28,829
 He sits and thinks.
 
-294
-00:20:28,480 --> 00:20:32,480
-'Tap, tap, tap!' There is someone at the door.
+245
+00:20:29,669 --> 00:20:32,829
+"Tap, tap, tap!" There is someone at the door.
 
-295
-00:20:33,440 --> 00:20:35,280
-'Who is it?' asks Peter.
+246
+00:20:33,669 --> 00:20:35,469
+"Who is it?" asks Peter.
 
-296
-00:20:36,320 --> 00:20:40,000
-He can hear the sound of little 
-bells and opens the door.
+247
+00:20:36,609 --> 00:20:40,409
+He can hear the sound of little bells and opens the door.
 
-297
-00:20:43,040 --> 00:20:46,640
-Tinker Bell flies in and says, 'The pirates  
+248
+00:20:43,309 --> 00:20:53,210
+Tinker Bell flies in and says, "The pirates have got Wendy, John, Michael and the Lost Boys! They are in danger. Let's help them!"
 
-298
-00:20:46,640 --> 00:20:52,000
-have got Wendy, John, Michael and 
-the Lost Boys! They are in danger.
+249
+00:20:54,349 --> 00:21:01,809
+"I must save them. Come Tink, let's go to the Jolly Roger! This time I must attack Hook!"
 
-299
-00:20:52,000 --> 00:20:52,960
-Let's help them!'
-
-300
-00:20:54,160 --> 00:20:55,440
-'I must save them.
-
-301
-00:20:56,000 --> 00:21:01,840
-Come Tink, let's go to the Jolly 
-Roger! This time I must attack Hook!'
-
-302
-00:21:06,080 --> 00:21:07,040
+250
+00:21:06,329 --> 00:21:08,210
 CHAPTER SIX
 
-303
-00:21:08,000 --> 00:21:09,120
+251
+00:21:08,229 --> 00:21:09,509
 The Jolly Roger
 
-304
-00:21:11,200 --> 00:21:13,600
+252
+00:21:11,469 --> 00:21:14,030
 There is a yellow moon in the night sky.
 
-305
-00:21:14,480 --> 00:21:17,920
+253
+00:21:14,750 --> 00:21:18,189
 The folly Roger is in the bay near Kidd's Creek.
 
-306
-00:21:18,720 --> 00:21:21,200
+254
+00:21:18,989 --> 00:21:21,549
 The children are on the pirate ship.
 
-307
-00:21:21,920 --> 00:21:25,920
-They are prisoners of Captain 
-Hook and his cruel pirates.
+255
+00:21:22,169 --> 00:21:26,269
+They are prisoners of Captain Hook and his cruel pirates.
 
-308
-00:21:26,720 --> 00:21:28,880
-Captain Hook looks at them and says,  
+256
+00:21:27,009 --> 00:21:38,549
+Captain Hook looks at them and says, "This time it's Peter Pan or me! You idiots! Peter Pan can't save you now." Hook laughs and then calls Smee.
 
-309
-00:21:29,520 --> 00:21:34,960
-'This time it's Peter Pan or me! You 
-idiots! Peter Pan can't save you now.'
+257
+00:21:38,829 --> 00:21:40,789
+"Smee, get the plank ready!"
 
-310
-00:21:35,920 --> 00:21:38,560
-Hook laughs and then calls Smee.
+258
+00:21:41,469 --> 00:21:42,949
+"Yes sir!" says Smee.
 
-311
-00:21:38,560 --> 00:21:40,560
-'Smee, get the plank ready!'
+259
+00:21:43,489 --> 00:21:45,269
+"Now listen to me," says Hook.
 
-312
-00:21:41,200 --> 00:21:42,640
-'Yes sir!' says Smee.
+260
+00:21:45,829 --> 00:21:47,789
+"You must all walk the plank!"
 
-313
-00:21:43,280 --> 00:21:44,960
-'Now listen to me,' says Hook.
+261
+00:21:48,769 --> 00:21:50,609
+"Walk the plank?" asks John.
 
-314
-00:21:45,600 --> 00:21:47,520
-'You must all walk the plank!'
+262
+00:21:50,829 --> 00:21:59,568
+"Yes! First you walk the plank and then you fall into the sea with the crocodile. It will eat you! Ha, ha!" laughs Hook.
 
-315
-00:21:48,560 --> 00:21:50,640
-'Walk the plank?' asks John.
+263
+00:21:59,808 --> 00:22:06,168
+"But I can save two of you. I want two young pirates. Who wants to be a pirate?"
 
-316
-00:21:50,640 --> 00:21:56,320
-'Yes! First you walk the plank and then 
-you fall into the sea with the crocodile.
-
-317
-00:21:56,320 --> 00:21:59,520
-It will eat you! Ha, ha!' laughs Hook.
-
-318
-00:21:59,520 --> 00:22:01,920
-'But I can save two of you.
-
-319
-00:22:01,920 --> 00:22:03,680
-I want two young pirates.
-
-320
-00:22:04,560 --> 00:22:06,000
-Who wants to be a pirate?'
-
-321
-00:22:06,720 --> 00:22:08,320
+264
+00:22:07,008 --> 00:22:08,688
 The Lost Boys look at John.
 
-322
-00:22:09,120 --> 00:22:13,440
-John looks at Michael and says, 
-'The life of a pirate is exciting.
+265
+00:22:09,409 --> 00:22:22,408
+John looks at Michael and says, "The life of a pirate is exciting. I don't want to walk the plank. I don't want to be food for the crocodile. Let's be pirates!" Michael looks at his brother.
 
-323
-00:22:14,080 --> 00:22:16,080
-I don't want to walk the plank.
-
-324
-00:22:16,080 --> 00:22:18,480
-I don't want to be food for the crocodile.
-
-325
-00:22:18,480 --> 00:22:22,240
-Let's be pirates!' Michael looks at his brother.
-
-326
-00:22:22,960 --> 00:22:24,320
+266
+00:22:23,228 --> 00:22:24,568
 Then they look at Wendy.
 
-327
-00:22:25,200 --> 00:22:26,800
+267
+00:22:25,508 --> 00:22:27,108
 She doesn't like their idea.
 
-328
-00:22:28,320 --> 00:22:31,840
-Captain Hook laughs and moves 
-his hook in front of their faces.
+268
+00:22:28,568 --> 00:22:32,208
+Captain Hook laughs and moves his hook in front of their faces.
 
-329
-00:22:32,400 --> 00:22:35,680
-'Do you want to be pirates, yes or no?' he asks.
+269
+00:22:32,649 --> 00:22:36,008
+"Do you want to be pirates, yes or no?" he asks.
 
-330
-00:22:36,320 --> 00:22:39,920
-John and Michael say, 'Never!'
+270
+00:22:36,649 --> 00:22:39,288
+John and Michael say, "Never!"
 
-331
-00:22:39,920 --> 00:22:44,640
-Captain Hook is angry and says, 'Then 
-you must walk the plank and die!'
+271
+00:22:40,168 --> 00:22:44,969
+Captain Hook is angry and says, "Then you must walk the plank and die!"
 
-332
-00:22:45,360 --> 00:22:46,560
+272
+00:22:45,568 --> 00:22:46,888
 Wendy is afraid.
 
-333
-00:22:47,280 --> 00:22:50,000
+273
+00:22:47,568 --> 00:22:49,748
 She loves her brothers and the Lost Boys.
 
-334
-00:22:50,000 --> 00:22:52,000
+274
+00:22:50,328 --> 00:22:52,248
 She has tears in her eyes.
 
-335
-00:22:52,880 --> 00:22:57,040
-The boys stand near the 
-plank and Wendy watches them.
+275
+00:22:53,129 --> 00:22:57,328
+The boys stand near the plank and Wendy watches them.
 
-336
-00:22:57,920 --> 00:23:01,440
-A pirate asks, 'Who is the 
-first to walk the plank?'
+276
+00:22:58,228 --> 00:23:01,828
+A pirate asks, "Who is the first to walk the plank?"
 
-337
-00:23:01,440 --> 00:23:04,459
+277
+00:23:01,908 --> 00:23:04,848
 At that moment there is a loud noise.
 
-338
-00:23:04,459 --> 00:23:07,040
-'Tick! Tock! Tick! Tock!'
+278
+00:23:05,029 --> 00:23:07,008
+"Tick! Tock! Tick! Tock!"
 
-339
-00:23:07,040 --> 00:23:09,360
+279
+00:23:07,328 --> 00:23:09,248
 Captain Hook's face is white.
 
-340
-00:23:09,360 --> 00:23:11,840
-He says, 'The crocodile is here.
+280
+00:23:09,628 --> 00:23:16,788
+He says, "The crocodile is here. He wants ME!" He runs to his cabin and hides there.
 
-341
-00:23:11,840 --> 00:23:16,400
-He wants ME!' He runs to 
-his cabin and hides there.
+281
+00:23:19,548 --> 00:23:22,568
+"Who is the first to walk the plank?" asks a pirate.
 
-342
-00:23:19,280 --> 00:23:22,560
-'Who is the first to walk 
-the plank?' asks a pirate.
+282
+00:23:22,828 --> 00:23:25,349
+"Come on! Let's go! The crocodile is hungry."
 
-343
-00:23:22,560 --> 00:23:25,120
-'Come on! Let's go! The crocodile is hungry.'
-
-344
-00:23:25,680 --> 00:23:28,720
+283
+00:23:25,989 --> 00:23:29,628
 Suddenly Peter Pan appears on the pirate ship.
 
-345
-00:23:29,440 --> 00:23:30,800
+284
+00:23:29,688 --> 00:23:31,048
 Tinker Bell follows him.
 
-346
-00:23:31,520 --> 00:23:33,120
+285
+00:23:31,788 --> 00:23:33,388
 Wendy and the boys cheer.
 
-347
-00:23:35,040 --> 00:23:37,680
+286
+00:23:35,288 --> 00:23:37,968
 They are very happy to see their young hero.
 
-348
-00:23:38,480 --> 00:23:40,720
+287
+00:23:38,888 --> 00:23:41,088
 Hook and his pirates are furious.
 
-349
-00:23:41,360 --> 00:23:46,400
-Hook takes his sword and says, 'I want 
-to fight you, Pan! Tonight you will die!'
+288
+00:23:41,748 --> 00:23:46,788
+Hook takes his sword and says, "I want to fight you, Pan! Tonight you will die!"
 
-350
-00:23:49,440 --> 00:23:52,720
+289
+00:23:49,708 --> 00:23:53,129
 Hook fights with his long sword and with his hook.
 
-351
-00:23:53,360 --> 00:23:55,200
+290
+00:23:53,668 --> 00:23:55,548
 Peter fights courageously.
 
-352
-00:23:55,760 --> 00:23:58,000
+291
+00:23:56,048 --> 00:23:58,227
 He pushes Hook to the back of the ship.
 
-353
-00:23:58,560 --> 00:24:00,240
+292
+00:23:58,848 --> 00:24:00,487
 It is a terrible fight.
 
-354
-00:24:01,200 --> 00:24:04,800
+293
+00:24:01,427 --> 00:24:05,127
 John, Michael and the Lost Boys fight the pirates.
 
-355
-00:24:05,680 --> 00:24:09,520
-After a long fight they throw 
-the pirates into the sea.
+294
+00:24:05,947 --> 00:24:10,047
+After a long fight they throw the pirates into the sea.
 
-356
-00:24:13,360 --> 00:24:16,480
+295
+00:24:13,627 --> 00:24:16,847
 Peter and Hook move all around the big ship.
 
-357
-00:24:17,040 --> 00:24:19,280
+296
+00:24:17,267 --> 00:24:19,747
 Their swords make a loud noise.
 
-358
-00:24:20,400 --> 00:24:24,640
-Suddenly Peter takes Hook's sword 
-and pushes him into the sea!  
+297
+00:24:20,648 --> 00:24:25,007
+Suddenly Peter takes Hook's sword and pushes him into the sea!
 
-359
-00:24:28,160 --> 00:24:35,360
-Hook shouts, 'OH, NO!' He falls into the sea 
-and into the mouth of the hungry crocodile.
+298
+00:24:28,408 --> 00:24:35,647
+Hook shouts, "OH, NO!" He falls into the sea and into the mouth of the hungry crocodile.
 
-360
-00:24:38,160 --> 00:24:41,920
-'Oh, Peter, we are proud of you!' says Wendy.
+299
+00:24:38,388 --> 00:24:41,727
+"Oh, Peter, we are proud of you!" says Wendy.
 
-361
-00:24:41,920 --> 00:24:43,360
+300
+00:24:42,167 --> 00:24:43,607
 She kisses him on the cheek.
 
-362
-00:24:44,720 --> 00:24:45,840
+301
+00:24:44,947 --> 00:24:46,347
 The boys cheer.
 
-363
-00:24:48,560 --> 00:24:53,120
-Peter smiles and says, 'The 
-Jolly Roger is ours now.
+302
+00:24:48,847 --> 00:24:58,908
+Peter smiles and says, "The Jolly Roger is ours now. Let's go home!"
 
-364
-00:24:53,120 --> 00:24:53,920
-Let's go home!'
-
-365
-00:24:58,720 --> 00:24:59,680
+303
+00:24:58,967 --> 00:24:59,987
 CHAPTER SEVEN
 
-366
-00:25:00,720 --> 00:25:02,240
+304
+00:25:00,928 --> 00:25:02,527
 Home at Last!
 
-367
-00:25:03,920 --> 00:25:09,760
-At the Darling home, Mr and Mrs 
-Darling and Nana are desolate.
+305
+00:25:04,167 --> 00:25:10,087
+At the Darling home, Mr and Mrs Darling and Nana are desolate.
 
-368
-00:25:10,800 --> 00:25:13,840
+306
+00:25:11,068 --> 00:25:14,107
 They always think about Wendy, John and Michael.
 
-369
-00:25:15,120 --> 00:25:20,240
-They look at the three empty beds 
-and tears come to their eyes.
+307
+00:25:15,367 --> 00:25:20,647
+They look at the three empty beds and tears come to their eyes.
 
-370
-00:25:21,440 --> 00:25:25,680
+308
+00:25:21,667 --> 00:25:26,067
 Mr and Mrs Darling never smile or laugh anymore.
 
-371
-00:25:27,200 --> 00:25:31,920
+309
+00:25:27,467 --> 00:25:32,287
 Mrs Darling sits in the silent nursery and cries.
 
-372
-00:25:36,080 --> 00:25:41,840
-She thinks of her children, their 
-games and their happy voices.
+310
+00:25:36,407 --> 00:25:41,827
+She thinks of her children, their games and their happy voices.
 
-373
-00:25:42,960 --> 00:25:47,840
-Nana tries to comfort her, but 
-nothing can make Mrs Darling happy.
+311
+00:25:43,207 --> 00:25:48,107
+Nana tries to comfort her, but nothing can make Mrs Darling happy.
 
-374
-00:25:49,280 --> 00:25:54,080
-One night after several months 
-something incredible happens.
+312
+00:25:49,608 --> 00:25:54,467
+One night after several months something incredible happens.
 
-375
-00:25:54,960 --> 00:25:59,360
+313
+00:25:55,187 --> 00:25:59,567
 Wendy, John and Michael fly in to the nursery.
 
-376
-00:26:00,320 --> 00:26:03,120
+314
+00:26:00,586 --> 00:26:03,506
 Mrs Darling is sitting near the fireplace.
 
-377
-00:26:04,080 --> 00:26:06,800
-'Mother, Mother we're home!' says Wendy.
+315
+00:26:04,226 --> 00:26:06,986
+"Mother, Mother we're home!" says Wendy.
 
-378
-00:26:07,760 --> 00:26:12,400
-Mrs Darling turns around and 
-sees her three dear children.
+316
+00:26:08,086 --> 00:26:12,687
+Mrs Darling turns around and sees her three dear children.
 
-379
-00:26:13,920 --> 00:26:20,400
-'Is this true or is it a dream? 
-I can't believe it!' she says.
+317
+00:26:14,126 --> 00:26:20,746
+"Is this true or is it a dream? I can't believe it!" she says.
 
-380
-00:26:21,120 --> 00:26:25,040
-'Oh, Mother, we are home 
-at last,' the children say.
+318
+00:26:21,386 --> 00:26:25,366
+"Oh, Mother, we are home at last," the children say.
 
-381
-00:26:25,840 --> 00:26:29,360
-Wendy, John and Michael embrace 
-their mother and kiss her.
+319
+00:26:26,107 --> 00:26:29,566
+Wendy, John and Michael embrace their mother and kiss her.
 
-382
-00:26:31,440 --> 00:26:37,840
-'How wonderful to see you, my dear children! 
-How wonderful to hear your sweet voices.
+320
+00:26:31,626 --> 00:26:42,687
+"How wonderful to see you, my dear children! How wonderful to hear your sweet voices. Oh, let me look at you!" She calls Mr Darling.
 
-383
-00:26:38,400 --> 00:26:42,960
-Oh, let me look at you!' She calls Mr Darling.
-
-384
-00:26:42,960 --> 00:26:45,760
+321
+00:26:43,266 --> 00:26:46,027
 Mr Darling is very happy and surprised.
 
-385
-00:26:46,480 --> 00:26:49,280
+322
+00:26:46,726 --> 00:26:49,546
 There is great joy in the Darling nursery tonight.
 
-386
-00:26:50,160 --> 00:26:54,720
-'Mother,' says Wendy, 'Peter Pan 
-and the Lost Boys are here too.
+323
+00:26:50,286 --> 00:26:57,786
+"Mother," says Wendy, "Peter Pan and the Lost Boys are here too. They are waiting outside."
 
-387
-00:26:55,920 --> 00:26:57,520
-They are waiting outside.'
-
-388
-00:26:58,320 --> 00:27:02,480
+324
+00:26:58,606 --> 00:27:02,707
 The six Lost Boys slowly enter the nursery.
 
-389
-00:27:03,120 --> 00:27:06,320
+325
+00:27:03,427 --> 00:27:06,607
 They look at Mrs Darling and smile at her.
 
-390
-00:27:07,120 --> 00:27:09,760
-'Mother, these are the Lost Boys.
+326
+00:27:07,387 --> 00:27:14,027
+"Mother, these are the Lost Boys. They haven't got a mother. Can they stay with us?" says Wendy.
 
-391
-00:27:09,760 --> 00:27:11,040
-They haven't got a mother.
+327
+00:27:14,707 --> 00:27:18,286
+"What dear little boys!" says Mrs Darling.
 
-392
-00:27:11,600 --> 00:27:13,760
-Can they stay with us?' says Wendy.
+328
+00:27:18,606 --> 00:27:23,306
+"Of course they can stay with us. And where is Peter Pan?"
 
-393
-00:27:14,480 --> 00:27:18,400
-'What dear little boys!' says Mrs Darling.
+329
+00:27:24,586 --> 00:27:42,186
+Peter enters the nursery and says, "I am here, but I don't want to stay here. I don't want to go to school and I don't want to grow up! I want to be a young boy forever. I must return to Neverland. I am happy with the Indians and the fairies."
 
-394
-00:27:18,400 --> 00:27:20,560
-'Of course they can stay with us.
+330
+00:27:43,366 --> 00:27:48,266
+Wendy is surprised and says, "But Peter, when will I see you again?"
 
-395
-00:27:21,280 --> 00:27:22,960
-And where is Peter Pan?'
+331
+00:27:48,906 --> 00:27:57,707
+Mrs Darling says, "I have an idea. Wendy, you can visit Peter in Neverland every spring! You can stay there for a week."
 
-396
-00:27:24,320 --> 00:27:30,480
-Peter enters the nursery and says, 'I 
-am here, but I don't want to stay here.
+332
+00:27:58,567 --> 00:28:02,526
+"Can I really go to Neverland every spring, Mother?" asks Wendy.
 
-397
-00:27:31,200 --> 00:27:37,040
-I don't want to go to school and I don't want 
-to grow up! I want to be a young boy forever.
+333
+00:28:03,347 --> 00:28:07,246
+Peter looks at Mrs Darling and asks, "Is that a promise?"
 
-398
-00:27:37,840 --> 00:27:39,280
-I must return to Neverland.
+334
+00:28:07,687 --> 00:28:10,686
+"Of course it is," says Mrs Darling.
 
-399
-00:27:39,840 --> 00:27:42,000
-I am happy with the Indians and the fairies.'
+335
+00:28:11,426 --> 00:28:14,187
+"Then I want spring to come quickly," says Peter.
 
-400
-00:27:43,120 --> 00:27:47,840
-Wendy is surprised and says, 'But 
-Peter, when will I see you again?'
+336
+00:28:14,687 --> 00:28:17,306
+"Yes, very quickly," says Wendy.
 
-401
-00:27:48,640 --> 00:27:51,760
-Mrs Darling says, 'I have an idea.
+337
+00:28:18,187 --> 00:28:21,906
+"Come on, Tink! Let's fly home and wait for spring," says Peter.
 
-402
-00:27:51,760 --> 00:27:57,440
-Wendy, you can visit Peter in Neverland 
-every spring! You can stay there for a week.'
+338
+00:28:22,767 --> 00:28:28,166
+Peter Pan and Tinker Bell fly out of the nursery window into the night sky.
 
-403
-00:27:58,320 --> 00:28:02,320
-'Can I really go to Neverland 
-every spring, Mother?' asks Wendy.
-
-404
-00:28:03,120 --> 00:28:07,520
-Peter looks at Mrs Darling 
-and asks, 'Is that a promise?'
-
-405
-00:28:07,520 --> 00:28:10,480
-'Of course it is,' says Mrs Darling.
-
-406
-00:28:11,200 --> 00:28:14,480
-'Then I want spring to come quickly,' says Peter.
-
-407
-00:28:14,480 --> 00:28:17,040
-'Yes, very quickly,' says Wendy.
-
-408
-00:28:17,920 --> 00:28:21,680
-'Come on, Tink! Let's fly home 
-and wait for spring,' says Peter.
-
-409
-00:28:22,480 --> 00:28:27,760
-Peter Pan and Tinker Bell fly out of 
-the nursery window into the night sky.
-
-410
-00:28:28,640 --> 00:28:29,840
+339
+00:28:28,887 --> 00:28:29,906
 Their destination?
 
-411
-00:28:30,560 --> 00:28:43,840
+340
+00:28:30,887 --> 00:28:31,726
 Neverland!
+

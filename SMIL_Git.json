@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "286",
+      "baslik": "The Castle of Otranto",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/The_Castle_of_Otranto_V2.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/The_Castle_of_Otranto.m4a"
+    },
+    {
       "id": "285",
       "baslik": "The Story of Doctor Dolittle",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/The_Story_of_Doctor_Dolittle_V2.json",

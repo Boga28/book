@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "287",
+      "baslik": "A Dream of Armageddon",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/A_Dream_of_Armageddon_V2.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/A_Dream_of_Armageddon.m4a"
+    },
+    {
       "id": "286",
       "baslik": "The Castle of Otranto",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/The_Castle_of_Otranto_V2.json",

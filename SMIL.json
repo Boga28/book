@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "288",
+      "baslik": "Fantastic Mr. Fox",
+      "subtitle": "https://cdn.storypub.app/book/Json/Fantastic_Mr_Fox_V2.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Fantastic_Mr_Fox.m4a"
+    },
+    {
       "id": "287",
       "baslik": "A Dream of Armageddon",
         "subtitle": "https://cdn.storypub.app/book/Json/A_Dream_of_Armageddon_V2.json",

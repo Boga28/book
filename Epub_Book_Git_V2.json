@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "288",
+      "baslik": "Fantastic Mr. Fox",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/Fantastic_Mr_Fox-Roald_Dahl.jpg",
+      "kategori": "4",
+      "yazar": "Roald Dah",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Fantastic_Mr_Fox.m4a",
+      "hardWord": "Text Analysis: Unique words: 1528 Total words: 9602\n\n\t Hard words: unfortunately, extraordinary, miraculous, miserable, enormously, entirely, caterpillar, usually, hallelujah, desperately, disappointment, undefeated, actually, furiously, excitedly, absolutely, machinery, gradually, mechanical, altogether, conversation, delicately, respectable, magnificent, examining, underwater, ordinary, impossible, animal, succulent, possible, eleven, enormous, suddenly, remaining, directly, anything, animals, overwhelmed, anyone, examined, horrible, seventeen, surrounding, beautiful, happening, already, somebody, watering, excitement",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/EpubsV2/Fantastic_Mr_Fox_V2.epub",
+      "storyAcıklama": "Boggis is an enormously fat chicken farmer who only eats boiled chickens smothered in fat. Bunce is a duck-and-goose farmer whose dinner gives him a beastly temper. Bean is a turkey-and-apple farmer who only drinks gallons of strong cider. Mr Fox is so clever that every evening he creeps down into the valley and helps himself to food from the farms. Now the farmers have hatched a plan to BANG-BANG-BANG shoot Mr Fox dead. But, just when they think Mr Fox can't possibly escape, he makes a fantastic plan of his own...",
+      "tag": "Childrens Fiction Fantasy Classics Middle-Grade Animals Humor Audiobook Adventure",
+      "views": "1"
+    },
+    {
       "id": "287",
       "baslik": "A Dream of Armageddon",
       "aciklama": "B1+ Intermediate",

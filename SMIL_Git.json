@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "288",
+      "baslik": "Fantastic Mr. Fox",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/Fantastic_Mr_Fox_V2.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Fantastic_Mr_Fox.m4a"
+    },
+    {
       "id": "287",
       "baslik": "A Dream of Armageddon",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/A_Dream_of_Armageddon_V2.json",

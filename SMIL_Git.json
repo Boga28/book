@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "289",
+      "baslik": "A Bear Called Paddington",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/A_Bear_Called_Paddington_V2.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/A_Bear_Called_Paddington.m4a"
+    },
+    {
       "id": "288",
       "baslik": "Fantastic Mr. Fox",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Json/Fantastic_Mr_Fox_V2.json",

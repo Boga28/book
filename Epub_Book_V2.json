@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "289",
+      "baslik": "A Bear Called Paddington",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://cdn.storypub.app/book/pics/A_Bear_Called_Paddington-Michael_Bond.jpg",
+      "kategori": "4",
+      "yazar": "Michael Bond",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/A_Bear_Called_Paddington.m4a",
+      "hardWord": "Text Analysis: Unique words: 2540 Total words: 23928\n\n\t Hard words: imagination, immediately, occasionally, originally, congratulations, consideration, enthusiasm, experiences, particularly, obediently, precariously, investigating, unfortunately, automatically, opportunity, eventually, reassuringly, understandable, imaginable, unpredictable, mysteriously, unbelievingly, unusually, original, barometer, reputation, expectantly, expeditions, disappointment, necessary, admiringly, disappointed, ordinary, unusual, conversation, distractedly, entirely, superior, nevertheless, dramatically, encouraging, emigrated, difficulty, emergencies, regulations, knowledgeably, hesitated, escalators, altogether, embarrassment",
+      "storyUrl": "https://cdn.storypub.app/book/EpubsV2/A_Bear_Called_Paddington_V2.epub",
+      "storyAcıklama": "A wonderful new edition of the classic story of Paddington, the bear from Darkest Peru, who was found lost on Paddington Station. Now published into the First Modern Classics list, fantastic stories for young readers. The Browns first met Paddington on a railway station – Paddington station, in fact. He had travelled all the way from Darkest Peru with only a jar of marmalade, a suitcase and his hat. The Browns soon found that Paddington was a very unusual bear. Ordinary things – like having a bath, travelling underground or going to the seaside became quite extraordinary, if a bear called Paddington was involved.",
+      "tag": "Childrens  Classics  Fiction",
+      "views": "1"
+    },
+    {
       "id": "288",
       "baslik": "Fantastic Mr. Fox",
       "aciklama": "B1 Pre-Intermediate",

@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "290",
+      "baslik": "Frankenstein",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Frankenstein_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Frankenstein.m4a"
+    },
+    {
       "id": "289",
       "baslik": "A Bear Called Paddington",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/A_Bear_Called_Paddington_V3.json",

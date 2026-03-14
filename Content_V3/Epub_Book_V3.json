@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "291",
+      "baslik": "Dracula",
+      "aciklama": "C2 Unbridge",
+      "thumbnail": "https://cdn.storypub.app/book/pics/Dracula-Bram_Stoker.jpg",
+      "kategori": "9",
+      "yazar": "Bram Stoker",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Dracula.m4a",
+      "hardWord": "Text Analysis: Unique words: 9271 Total words: 161044\n\n\t Hard words: impossibility, unhesitatingly, involuntarily, experimentally, americanism, responsibilities, simultaneously, diabolically, individually, philosophically, materialization, impossibilities, impartiality, argumentativeness, infinitesimal, responsibility, superiority, insensibility, peculiarity, interrogatively, apologetically, enthusiastically, humanitarian, ridiculously, supersensitive, durability, inequalities, unreality, experimenting, unspiritual, animiles, constitutional, empirically, paraphernalia, reasonableness, probability, transylvania, hallucination, appreciation, preliminary, nationalities, investigations, significantly, animile, caricaturists, corroborated, differentiate, international, necessarily, irresistibly",
+      "storyUrl": "https://cdn.storypub.app/book/Content_V3/EpubsV3/Dracula_V3.epub",
+      "storyAcıklama": "When Jonathan Harker goes to Transylvania to visit Count Dracula on business, he discovers that his client’s motives for coming to England are rather more sinister than they first appeared. This classic horror story has fascinated readers ever since it came out in 1897.",
+      "tag": "Mystery Horror",
+      "views": "1"
+    },
+    {
       "id": "290",
       "baslik": "Frankenstein",
       "aciklama": "C2 Unbridge",

@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "292",
+      "baslik": "Gulliver's Travels",
+      "aciklama": "B2+ Upper-Intermediate",
+      "thumbnail": "https://cdn.storypub.app/book/pics/Gullivers_Travels-Jonathan_Swift.jpg",
+      "kategori": "7",
+      "yazar": "Jonathan Swift",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Gullivers_Travels.m4a",
+      "hardWord": "Text Analysis: Unique words: 7859 Total words: 98649\n\n\t Hard words: irreconcilable, perpendicularly, blefuscudians, incapacitated, blefuscudian, unintelligible, malleability, superiority, confederacy, horizontally, astronomical, insinuation, irregularly, representatives, immediately, interposition, abominable, unfortunately, recommendation, precipitated, representative, characteristics, mathematicians, administration, solicitations, plausibility, singularity, christianity, insuperable, extenuation, accommodated, regularity, curiosity, inhumanity, parallelograms, disagreeable, universally, pecuniary, opinionated, similarity, communicated, considerable, contemporaries, unacquaintedness, opportunities, evacuation, phraseology, representation, animosities, erroneously",
+      "storyUrl": "https://cdn.storypub.app/book/Content_V3/EpubsV3/Gullivers_Travels_V3.epub",
+      "storyAcıklama": "Gulliver's Travels, or Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships is a 1726 prose satire by the Irish writer and clergyman Jonathan Swift, satirising both human nature and the \"travellers' tales\" literary subgenre. It is Swift's best known full-length work, and a classic of English literature. Swift claimed that he wrote Gulliver's Travels to vex the world rather than divert it.",
+      "tag": "Fairy-Tale Fantasy",
+      "views": "1"
+    },
+    {
       "id": "291",
       "baslik": "Dracula",
       "aciklama": "C2 Unbridge",

@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "292",
+      "baslik": "Gulliver's Travels",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Gullivers_Travels_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Gullivers_Travels.m4a"
+    },
+    {
       "id": "291",
       "baslik": "Dracula",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Dracula_V3.json",

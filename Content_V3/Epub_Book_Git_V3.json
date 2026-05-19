@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "293",
+      "baslik": "Coraline",
+      "aciklama": "B1 Pre-Intermediate",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/Coraline-Neil_Gaiman.jpg",
+      "kategori": "4",
+      "yazar": "Neil Gaiman",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Coraline_Neil_Gaiman.m4a",
+      "hardWord": "Text Analysis: Unique words: 3231 Total words: 30732\n\n\t Hard words: conversationally, enthusiastically, afterimages, imagination, accidentally, interestingness, obediently, irritatingly, occasionally, uncomfortable, immediately, trivialities, enthusiasm, insinuating, embarrassingly, infuriating, particularly, encouragingly, experimental, dilapidated, astonishingly, hospitality, luxuriantly, eventually, confidentially, overexcited, extraordinary, decapitated, terrifying, contentedly, approximate, inherited, rectangular, irregular, occasional, nefarious, indistinctly, television, interrupted, satisfying, continuing, activity, invisible, indicated, astonishing, shortsightedly, mysterious, insubstantial, uncarpeted, identical",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/Coraline_V3.epub",
+      "storyAcıklama": "Coraline Jones moves into a new flat with her busy parents. While exploring, she discovers a small door that leads to an alternate world. In this \"Other World,\" she finds button-eyed versions of her parents who seem more attentive and loving. The Other Mother offers Coraline everything she desires, but there's a catch—to stay forever, she must have buttons sewn over her eyes. Frightened, Coraline rushes back to her real world only to find her parents missing. She realizes the Other Mother has kidnapped them and returns to the Other World on a rescue mission. With the help of a talking black cat, she challenges the Other Mother to a game. If Coraline succeeds in her quest to find her parents and the souls of three ghost children, they can all go free. If she fails, she must stay and have buttons sewn over her eyes. Coraline explores the bizarre and increasingly dangerous Other World, using her wits and a magic stone to locate the souls and her parents. She overcomes the Other Mother's obstacles and tricks her to escape back to the real world with her parents, who have no memory of their ordeal. However, the Other Mother's severed hand follows Coraline, attempting to steal the key to the door between worlds. In a final confrontation, Coraline lures the Other Mother's hand to an old well and tricks it into falling in with the key. Having defeated the Other Mother and saved her parents and the ghost children, Coraline returns to her ordinary life with a newfound appreciation for her family and home.",
+      "tag": "Dark Fantasy Fairy-Tale Horror Gothic Fiction",
+      "views": "1"
+    },
+    {
       "id": "292",
       "baslik": "Gulliver's Travels",
       "aciklama": "B2+ Upper-Intermediate",

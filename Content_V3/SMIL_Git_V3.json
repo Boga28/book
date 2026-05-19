@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "293",
+      "baslik": "Coraline",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Coraline_V3.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Coraline_Neil_Gaiman.m4a"
+    },
+    {
       "id": "292",
       "baslik": "Gulliver's Travels",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Gullivers_Travels_V3.json",

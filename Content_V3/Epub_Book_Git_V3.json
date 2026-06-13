@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "294",
+      "baslik": "Candide",
+      "aciklama": "B2+ Upper-Intermediate",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/Candide-Voltaire.jpg",
+      "kategori": "7",
+      "yazar": "Voltaire",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Candide.m4a",
+      "hardWord": "Text Analysis: Unique words: 4706 Total words: 35442\n\n\t Hard words: ecclesiastical, insensibility, mediterranean, excommunicated, communicative, contemporaries, concatenated, communicated, experimental, perpetually, mathematicians, university, neapolitan, communicating, ariovistus, ignominious, sensibility, immoderately, philosophical, genealogy, generosity, accommodation, transylvanian, hereditary, disagreeable, unexpectedly, executioner, ranunculuses, amplifications, representation, superintendent, inconsistencies, infidelity, insupportable, particularly, international, constantinople, miscellaneous, accompanying, alexandria, patagonian, voluntarily, originally, consolatory, unavoidable, dionysius, inaccessible, necessarily, instantaneous, continually",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/Candide_V3.epub",
+      "storyAcıklama": "Candide, first published in 1759, stands as a defining work of French satire and a brilliant illumination of the Age of Enlightenment. Voltaire's best-known creation, this satirical masterpiece is not only an acclaimed literary work but also frequently appears among the top-10 banned books, offering a critical exploration of philosophical optimism and societal follies. Candide, our naive protagonist, begins his life in a seemingly perfect world. Under the tutelage of his mentor, Pangloss, he is taught to view everything with boundless optimism. However, this utopian existence is soon shattered, leading Candide on a path filled with unexpected and enlightening experiences. Voltaire’s Candide transcends the boundaries of a mere novel; it emerges as a profound commentary on the world's complacent views, utilizing extreme and often exaggerated scenarios to both challenge and entertain. Written in just three days, its acerbic and ribald wit continues to captivate and provoke thought, resonating with readers even to this day. This edition of Candide has been stunningly crafted, with meticulous attention to design for an enjoyable and effortless reading experience. Enlightenment Satire: A sharp critique of the 18th-century French Enlightenment culture. Political and Religious Commentary: An honest examination that candidly skewers religious, romantic, and political naïveté. Controversial and Influential: Renowned for its blasphemous and seditious nature, this book challenges the norms of its era. Metaphysical Critique: A savage denunciation of metaphysical optimism, revealing a world brimming with absurdities. Discover Candide: Immerse yourself in one of the greatest works of the French Enlightenment. A must-read for those who appreciate a blend of humor, historical insight, and philosophical depth.",
+      "tag": "Conte-philosophique Satire Picaresque-novel Bildungsroman Tragedy",
+      "views": "1"
+    },
+    {
       "id": "293",
       "baslik": "Coraline",
       "aciklama": "B1 Pre-Intermediate",

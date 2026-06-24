@@ -1,6 +1,20 @@
 {
   "meditasyonlar": [
     {
+      "id": "295",
+      "baslik": "His Last Bow",
+      "aciklama": "B1+ Intermediate",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/His_Last_Bow-Arthur_Conan_Doyle.jpg",
+      "kategori": "5",
+      "yazar": "Arthur Conan Doyle",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/His_Last_Bow.m4a",
+      "hardWord": "Text Analysis: Unique words: 6512 Total words: 67475\n\n\t Hard words: respectability, disorganization, extraordinarily, anthropological, ambassadorial, unjustifiable, sensationalism, irritability, reconciliation, responsibility, irregularity, peculiarities, utilitarian, peculiarity, systematically, abominable, congratulations, investigation, preparatory, probability, considerably, cannibalism, majestically, redistributed, collaborator, characteristics, patriotism, opportunity, qualifications, inseparable, investigations, incredulity, communicative, neapolitan, insufferable, intolerable, deliberation, communicated, representations, invariable, archaeologist, ingenuity, anatomical, precipitated, unconventional, familiarity, opportunities, incidentally, manipulation, dissimulation",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/His_Last_Bow_V3.epub",
+      "storyAcıklama": "The legend returns for one final mission—where intelligence meets danger on a global scale. In His Last Bow, a captivating collection of stories, Sherlock Holmes faces some of his most intriguing and high-stakes cases. From mysterious crimes to international espionage, each story showcases Holmes's unmatched brilliance, keen observation, and masterful deductions. Set against the backdrop of a changing world, these tales reveal a more mature and reflective side of the iconic detective, culminating in a powerful final adventure that carries historical significance and emotional depth. Written by the legendary Arthur Conan Doyle, this collection is an essential part of the Sherlock Holmes canon. Blending suspense, intellect, and atmospheric storytelling, it continues to captivate readers and remains a cornerstone of classic detective fiction. \"A fitting and unforgettable collection that highlights the enduring genius of Sherlock Holmes.\" Experience the closing chapters of a literary icon. Scroll up and get your copy today to witness the final adventures of Sherlock Holmes.",
+      "tag": "Detective-Fiction Crime Mystery Spy Espionage",
+      "views": "1"
+    },
+    {
       "id": "294",
       "baslik": "Candide",
       "aciklama": "B2+ Upper-Intermediate",

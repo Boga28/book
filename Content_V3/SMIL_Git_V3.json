@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "295",
+      "baslik": "His Last Bow",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/His_Last_Bow_V3.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/His_Last_Bow.m4a"
+    },
+    {
       "id": "294",
       "baslik": "Candide",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Candide_V3.json",

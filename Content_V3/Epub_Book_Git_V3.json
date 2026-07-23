@@ -1,6 +1,48 @@
 {
   "meditasyonlar": [
     {
+      "id": "298",
+      "baslik": "An American Tragedy — Book Three",
+      "aciklama": "B2 Intermediate+",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/An_American_Tragedy-Theodore_Dreiser_Book_Three.jpg",
+      "kategori": "6",
+      "yazar": "Theodore Dreiser",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/An_American_Tragedy_Book_Three.m4a",
+      "hardWord": "Text Analysis: Unique words: 8287 Total words: 137420\n\n\t Hard words: individualistic, impossibility, ingratiatingly, oratorically, personalization, unsatisfactory, deterioration, apologetically, spirituality, superiority, unintentionally, recapitulated, authoritatively, admissibility, ceremoniousness, unsubstantiated, enthusiastically, identification, inconspicuously, irreconcilable, involuntarily, kaleidoscopically, ineradicable, sympathetically, inconsequentially, exculpatorily, reinterpretation, advisability, peculiarity, responsibility, illuminatively, essentiality, solicitously, nondeclamatory, determinedly, investigation, momentarily, unforgivable, indispensable, dictatorial, manifestations, pathetically, economical, interpolating, familiarity, necessarily, unnecessary, interpolated, haberdashery, inquisitorial",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/An_American_Tragedy_Book_Three_V3.epub",
+      "storyAcıklama": "\"On one level, An American Tragedy is the story of the corruption and destruction of one man, Clyde Griffiths, who forfeits his life in desperate pursuit of success. On a deeper, more profound level, the novel represents a massive portrayal of the society whose values both shape Clyde's tawdry ambitions and seal his fate: It is an unsurpassed depiction of the harsh realities of American life and of the dark side of the American Dream. Extraordinary in scope and power, vivid in its sense of wholesale human waste, unceasing in its rich compassion, An American Tragedy stands as Theodore Dreiser's supreme achievement.\"A tremendous bestseller when it was first published in 1925, An American Tragedy takes as point of departure a notorious murder case of 1906.",
+      "tag": "Crime Fiction Tragedy",
+      "views": "1"
+    },
+    {
+      "id": "297",
+      "baslik": "An American Tragedy — Book Two",
+      "aciklama": "B2 Intermediate+",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/An_American_Tragedy-Theodore_Dreiser_Book_Two.jpg",
+      "kategori": "6",
+      "yazar": "Theodore Dreiser",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/An_American_Tragedy_Book_Two.m4a",
+      "hardWord": "Text Analysis: Unique words: 8742 Total words: 155197\n\n\t Hard words: anticipatorily, individuality, indetermination, identification, revolutionary, sentimentality, ingratiatingly, prestidigitation, authoritatively, responsibility, practicability, unsatisfactory, inadvisability, anticipatory, americanism, casuistically, ineradicable, inquisitorially, identifications, illegitimacy, psychogenetically, unintelligible, simultaneously, peculiarities, availability, impossibility, advisability, responsibilities, kaleidoscopically, enthusiastically, unsophisticated, irremediable, intellectually, rehabilitation, uninterruptedly, superiorities, sympathetically, melodramatic, argumentative, unanimously, geniality, editorial, immediately, representative, interpolations, unfortunately, significantly, immorality, insinuating, unfavorable",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/An_American_Tragedy_Book_Two_V3.epub",
+      "storyAcıklama": "\"On one level, An American Tragedy is the story of the corruption and destruction of one man, Clyde Griffiths, who forfeits his life in desperate pursuit of success. On a deeper, more profound level, the novel represents a massive portrayal of the society whose values both shape Clyde's tawdry ambitions and seal his fate: It is an unsurpassed depiction of the harsh realities of American life and of the dark side of the American Dream. Extraordinary in scope and power, vivid in its sense of wholesale human waste, unceasing in its rich compassion, An American Tragedy stands as Theodore Dreiser's supreme achievement.\"A tremendous bestseller when it was first published in 1925, An American Tragedy takes as point of departure a notorious murder case of 1906.",
+      "tag": "Crime Fiction Tragedy",
+      "views": "1"
+    },
+    {
+      "id": "296",
+      "baslik": "An American Tragedy — Book One",
+      "aciklama": "B2 Intermediate+",
+      "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics/An_American_Tragedy-Theodore_Dreiser_Book_One.jpg",
+      "kategori": "6",
+      "yazar": "Theodore Dreiser",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/An_American_Tragedy_Book_One.m4a",
+      "hardWord": "Text Analysis: Unique words: 5945 Total words: 62024\n\n\t Hard words: emotionalism, enthusiastically, unsophisticated, materialistic, indiscriminately, spiritualizing, involuntarily, apologetically, permissibility, responsibility, imaginatively, disadvantageously, sympathetically, disassociating, uninitiated, superiority, coincidentally, narcissistically, sociological, peculiarity, ingratiatingly, superiorities, infuriated, unbelievingly, uninterrupted, reconnoitering, customarily, infatuated, continuously, proselytizers, disappointedly, inconceivable, obediently, inconsiderable, infatuation, automobiling, hypothecating, interestingly, ingenuousness, psychological, particularly, unprepossessing, camaraderie, considerably, inexplicable, animality, personalities, enthusiastic, independently, precipitately",
+      "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/An_American_Tragedy_Book_One_V3.epub",
+      "storyAcıklama": "\"On one level, An American Tragedy is the story of the corruption and destruction of one man, Clyde Griffiths, who forfeits his life in desperate pursuit of success. On a deeper, more profound level, the novel represents a massive portrayal of the society whose values both shape Clyde's tawdry ambitions and seal his fate: It is an unsurpassed depiction of the harsh realities of American life and of the dark side of the American Dream. Extraordinary in scope and power, vivid in its sense of wholesale human waste, unceasing in its rich compassion, An American Tragedy stands as Theodore Dreiser's supreme achievement.\"A tremendous bestseller when it was first published in 1925, An American Tragedy takes as point of departure a notorious murder case of 1906.",
+      "tag": "Crime Fiction Tragedy",
+      "views": "1"
+    },
+    {
       "id": "295",
       "baslik": "His Last Bow",
       "aciklama": "B1+ Intermediate",

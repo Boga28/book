@@ -1,6 +1,24 @@
 {
   "mediaOverlay": [
     {
+      "id": "298",
+      "baslik": "An American Tragedy — Book Three",
+      "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/An_American_Tragedy_Book_Three_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/An_American_Tragedy_Book_Three.m4a"
+    },
+    {
+      "id": "297",
+      "baslik": "An American Tragedy — Book Two",
+      "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/An_American_Tragedy_Book_Two_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/An_American_Tragedy_Book_Two.m4a"
+    },
+    {
+      "id": "296",
+      "baslik": "An American Tragedy — Book One",
+      "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/An_American_Tragedy_Book_One_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/An_American_Tragedy_Book_One.m4a"
+    },
+    {
       "id": "295",
       "baslik": "His Last Bow",
       "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/His_Last_Bow_V3.json",

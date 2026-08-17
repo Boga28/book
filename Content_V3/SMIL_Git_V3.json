@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "299",
+      "baslik": "Riding the Bullet",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Riding_The_Bullet_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Riding_The_Bullet.m4a"
+    },
+    {
       "id": "298",
       "baslik": "An American Tragedy — Book Three",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/An_American_Tragedy_Book_Three_V3.json",

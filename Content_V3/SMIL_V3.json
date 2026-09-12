@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "300",
+      "baslik": "Zane and the Hurricane: A Story of Katrina",
+      "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/Zane_and_the_Hurricane_A_Story_of_Katrina_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Zane_and_the_Hurricane_A_Story_of_Katrina.m4a"
+    },
+    {
       "id": "299",
       "baslik": "Riding the Bullet",
       "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/Riding_The_Bullet_V3.json",

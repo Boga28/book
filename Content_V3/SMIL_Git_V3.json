@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "301",
+      "baslik": "Kensuke's Kingdom",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Kensukes_Kingdom_V3.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Kensukes_Kingdom.m4a"
+    },
+    {
       "id": "300",
       "baslik": "Zane and the Hurricane: A Story of Katrina",
       "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Zane_and_the_Hurricane_A_Story_of_Katrina_V3.json",

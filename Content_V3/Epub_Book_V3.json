@@ -1,6 +1,20 @@
 {
     "meditasyonlar": [
         {
+            "id": "301",
+            "baslik": "Kensuke's Kingdom",
+            "aciklama": "B1 Pre-Intermediate",
+            "thumbnail": "https://cdn.storypub.app/book/pics/Kensukes_Kingdom-Michael_Morpurgo.jpg",
+            "kategori": "4",
+            "yazar": "Michael Morpurgo",
+            "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Kensukes_Kingdom.m4a",
+            "hardWord": "Text Analysis: Unique words: 3321 Total words: 30934\n\n\t Hard words: conspiratorially, reconciliation, superiority, incomprehensibly, encyclopaedia, infuriatingly, regularity, investigated, inexorably, animosity, provocatively, eventually, uninterrupted, impenetrable, determination, continuously, environmental, unexpectedly, exhilarated, enunciated, liability, experimenting, invigorated, laboriously, considerable, examination, predominated, curiosity, occasionally, particularly, tantalisingly, extraordinary, pronunciation, opportunity, capitulated, excruciating, uncomfortable, rudimentary, deliberately, exhilarating, immaculately, gesticulating, irresponsible, possibility, excitedly, nagasaki, diminutive, americajin, agitated, binoculars",
+            "storyUrl": "https://cdn.storypub.app/book/Content_V3/EpubsV3/Kensukes_Kingdom_V3.epub",
+            "storyAcıklama": "When Michael is washed up on an island in the Pacific after falling from his parent’s yacht, the Peggy Sue, he struggles to survive on his own. But he soon realises there is someone close by, someone who is watching over him and helping him to stay alive. Following a close-run battle between life and death after being stung by a poisonous jelly fish, the mysterious someone–Kensuke–allows Michael into his world and they become friends, teaching and learning from each other, until the day of separation becomes inevitable.Morpurgo here spins a yarn which gently captures the adventurous elements one would expect from a desert-island tale, but the real strength lies in the poignant and subtle observations of friendship, trust and, ultimately, humanity. Beautifully illustrated by Michael Foreman, Kensuke’s Kingdom is a stylish, deceptively simple and magical book that will effortlessly capture the heart and imagination of anyone who reads it, ensuring that Morpurgo continues to stand tall amid the ranks of classic children’s authors. (Ages 9 and over) –Susan Harrison",
+            "tag": "Adventure Childrens Fiction Friendship Historical-Fiction Middle-Grade Novels School Survival Young-Adult",
+            "views": "99"
+        },
+        {
             "id": "300",
             "baslik": "Zane and the Hurricane: A Story of Katrina",
             "aciklama": "B1 Pre-Intermediate",

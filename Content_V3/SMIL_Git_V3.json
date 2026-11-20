@@ -920,9 +920,9 @@
     },
     {
       "id": "148",
-      "baslik": "Alice in Wonderland",
-      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Alice_in_Wonderland_V3.json",
-      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Alice_in_Wonderland_by.m4a"
+      "baslik": "Alice's Adventures in Wonderland",
+      "subtitle": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/JsonV3/Alices_Adventures_in_Wonderland_V3.json",
+      "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Alices_Adventures_in_Wonderland.m4a"
     },
     {
       "id": "147",

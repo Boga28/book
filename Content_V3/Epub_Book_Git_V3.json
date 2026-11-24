@@ -1,6 +1,20 @@
 {
     "meditasyonlar": [
         {
+            "id": "302",
+            "baslik": "This Morning I Met a Whale",
+            "aciklama": "B1 Pre-Intermediate",
+            "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics_mini/This_Morning_I_Met_a_Whale-Michael_Morpurgo.jpg",
+            "kategori": "4",
+            "yazar": "Michael Morpurgo",
+            "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/This_Morning_I_Met_a_Whale.m4a",
+            "hardWord": "Text Analysis: Unique words: 1061 Total words: 6161\n\n\t Hard words: disorientated, bewildering, floundering, leatherback, adventurer, binoculars, blackbirds, cormorants, gentleness, inflatable, persuading, procession, sniggering, albatross, camcorder, intrigued, onlookers, propeller, riverside, shoreline, almighty, blowhole, cheering, drifting, dripping, grinning, narwhals, skeletal, snorting, squiggly, thrashed, upstream, belugas, crested, dodging, headway, longing, marking, mocking, muddled, puffing, unequal, upriver, winched, surreptitiously, rapturous, wallowing, echoing, hoisted, spires",
+            "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/This_Morning_I_Met_a_Whale_V3.epub",
+            "storyAcıklama": "A fictional account of the day a whale swam up the Thames, in which the whale makes an environmental plea to the boy who first sees him. At sunrise, young Michael spots a whale on the shores of the Thames and thinks he must be dreaming. But the creature is real and it has a message for him - one that only an open-minded child can deliver to the rest of the world. The whale warns that the earths days are numbered and that humans must put right the damage they are doing, but how can Michael fulfil his promise to tell others when neither his teacher nor his classmates will believe his story? Within hours, the city and the wider world have learned of Londons remarkable visitor, and all eyes are on the whales struggle against the receding tide. Michael must now join his new friend in a race against time to reach the ocean, and hold fast to his promise in the race to save the world itself.",
+            "tag": "Childrens Fiction Animals Fantasy Environment Novels",
+            "views": "0"
+        },
+        {
             "id": "301",
             "baslik": "Kensuke's Kingdom",
             "aciklama": "B1 Pre-Intermediate",

@@ -1,6 +1,12 @@
 {
   "mediaOverlay": [
     {
+      "id": "303",
+      "baslik": "Charlotte's Web",
+      "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/Charlottes_Web_V3.json",
+      "sesdosyasi": "https://cdn.storypub.app/Audio/Stories/Charlottes_Web.m4a"
+    },
+    {
       "id": "302",
       "baslik": "This Morning I Met a Whale",
       "subtitle": "https://cdn.storypub.app/book/Content_V3/JsonV3/This_Morning_I_Met_a_Whale_V3.json",

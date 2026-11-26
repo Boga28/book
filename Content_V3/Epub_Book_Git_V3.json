@@ -1,6 +1,20 @@
 {
     "meditasyonlar": [
         {
+            "id": "303",
+            "baslik": "Charlotte's Web",
+            "aciklama": "B1 Pre-Intermediate",
+            "thumbnail": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/pics_mini/Charlottes_Web-E_B_White.jpg",
+            "kategori": "4",
+            "yazar": "E.B. White",
+            "sesdosyasi": "https://raw.githubusercontent.com/Boga28/Audio/refs/heads/main/Stories/Charlottes_Web.m4a",
+            "hardWord": "Text Analysis: Unique words: 3334 Total words: 25965\n\n\t Hard words: congratulations, objectionable, blackberries, bloodthirsty, cheeseburger, compunctions, delightfully, grasshoppers, mysteriously, thoughtfully, triumphantly, anaesthetic, automobiles, cockroaches, foolishness, grasshopper, grindstones, indigestion, languishing, mercilessly, nothingness, pickpockets, remembering, salutations, sensational, shamelessly, unremitting, whereabouts, woodpeckers, appetizing, befriended, blackberry, buttermilk, cautiously, centipedes, comforting, delectable, dreadfully, dribblings, enchanting, encircling, friendless, grandstand, homecoming, hullabaloo, loveliness, midsection, miraculous, overeating, overheated",
+            "storyUrl": "https://raw.githubusercontent.com/Boga28/book/refs/heads/master/Content_V3/EpubsV3/Charlottes_Web_V3.epub",
+            "storyAcıklama": "This beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is \"just about perfect.\" This high-quality paperback features vibrant illustrations colorized by Rosemary Wells! Some Pig. Humble. Radiant. These are the words in Charlotte's Web, high up in Zuckerman's barn. Charlotte's spiderweb tells of her feelings for a little pig named Wilbur, who simply wants a friend. They also express the love of a girl named Fern, who saved Wilbur's life when he was born the runt of his litter. E. B. White's Newbery Honor Book is a tender novel of friendship, love, life, and death that will continue to be enjoyed by generations to come. This edition contains newly color illustrations by Garth Williams, the acclaimed illustrator of E. B. White's Stuart Little and Laura Ingalls Wilder's Little House series, among many other books.",
+            "tag": "Classics Fiction Childrens Fantasy Young-Adult Middle-Grade Animals",
+            "views": "0"
+        },
+        {
             "id": "302",
             "baslik": "This Morning I Met a Whale",
             "aciklama": "B1 Pre-Intermediate",
